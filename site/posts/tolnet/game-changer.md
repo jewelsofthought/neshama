@@ -1,0 +1,28 @@
+---
+title: Game Changer
+description: The game has to change.
+date: 2021-09-23T09:10:26.630Z
+tags: null
+modified: 2021-09-23T15:34:16.299Z
+---
+
+1. [The Game has to change](#the-game-has-to-change)
+   1. [The Maccabean Test](#the-maccabean-test)
+
+## The Game has to change
+
+With the same volcanic effect that the theories of quantum dynamics had on classical physics. [Perhaps the very term Quantum Physics is an anachronism, like Real TV. Perhaps this "Quantum Physics" is not physics at all, as everything it talks about is non-physical actually. Yet it does a good job of "proving" its reality. In the same way, if the Shaman could produce results that could be emperically measured (according to the accepted, standard measurments - those measurements that are acceptable to the accepted rules of measurement. This is the same as the impact of a new legal system on indigenous people - which needs always to be backed up by military power) who now have to accept new measurements of social behaviour imposed by the ruling class (which is what actually makes them the "ruling class" - not any inherint human characteristics. Which is why we have more popular respect for the successful entrepeneur, rather than the privileged noblesse. We look at them with the fascinated stare of the mouse watching the snake as it slithers towards it, hoping that it will strike the mouse frozen beside it. We know that these people have the ability to destroy our lives in a moment if they so wish. We fight to hold back their desire to control everyone and everything. But we must remember that they are just scared of the Divine nature of the universe and themselves - which is the last thing they will be able to acknowledge, having spent their entire existence catering to the emperical (measurable according to standard accepted measurements) human nature of their being. And this is an attempt to build walls around the terror of extinction, of not being anymore, forgotten in the ashes of time. So they need to build huge edifices to their greatness, pyramid and towers. They have to fight great wars and accomplish grandiouse (and often idiotic) things - to impress everyone, and everyone can applaud their greatness.
+
+But I ask you O great ones who rule over us and wish to control us like ants, like little slaves to do their bidding, and feed their petty, mostly material, desires with our juices - how large is your pyramid next to the giant nebula that gaze upon us in pity? If you are remembered for a 1000 years, O my Emperor, how long is that in the eyes of our very planet, which your science says has been here for 15,000,000,000 years? Well, I say, however, or whatever built this planet, is going to be remembered for far longer than any one of you will be. And is capable of producing things far greater than any of you, or your wizards, whether of science or magic, could ever hope to imagine.
+
+**The beauty of this strange Viral time is that it is clearly showing the difference between these two.**
+
+### The Maccabean Test
+
+We are standing told that in order to continue to live our lives normally, we will need to kiss the ass of the statue of the pig that they have placed in our temples. Is not the "virus" that keeps us from gathering in our temples, and the vaccination that will allow us, the same thing? It is not the virus that is preventing the communial prayer, but the rules of our society that are not allowing us to gather there as they say there is a virus that prevents us. That is the pig they have created and placed there. Now, in taking the virus, you are kissing the statue - you are agreeing, nay willing, your body to act in accordance with the wishes of this new rule. And in doing so, are accepting their mandated behaviour. For to need accept it, is tantamount to revolution. And the punishment for such treason follows soon after. At first, no-one is forced. But once a critical mass is reached - they called it "herd immunity" - the balance will be upset, and they will have to become mandated, because if those who have submitted, believing that the new rule will improve their lot - which is the common mantra of those in power, or who wish to be in power - and it seldom improves the lot of this class, except that the chaos causes movement of certain segments, and when the dust has settled, the system will produce the same situation of the ruled and the rulers. It Are you going to bow to this because you need to earn a living? Or are you going to rather die at Masada, having stood up to your last breath against this evil that is taking over your world?
+
+I know you are chomping at the bit, wondering what is this "new narrative", as I'm sure you've heard many already, and even perhaps have one or two of your own. But, let those who write stories come up with the myths and legends that will feed us and calm us in the dark nights. What I speak of is the **vision**, that silent sound that cries and moans in the background, hidden half-hidden in the stillness between two waves on the ocean. That something that you struggle to understand that leads you along strange and often uncomfortable paths, and takes you into dark and challenging spaces. Often you too have sufferred trauma as a child - I mean. nowadays we talk of the very trauma of birth
+
+```
+though there is little popular talk of the emotional trauma of the solution to that - ripping the baby out of the mother's womb through a pre-birth incision in her belly through which the child now enters the world. Instead of accepting the channel made by G-d, we have superceded it with the man-made entry into the world. Welcome to the new-age of trans-human existence, oh Indigo child.
+```

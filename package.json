@@ -1,0 +1,34 @@
+{
+  "name": "eleventy-base-blog",
+  "version": "5.0.2",
+  "description": "A repository of my writings - based on the 11t-blog model.",
+  "scripts": {
+    "build": "env NODE_ENV=production npx eleventy --pathprefix '11t-blog'",
+    "watch": "eleventy --watch",
+    "start": "eleventy --serve",
+    "debug": "DEBUG=Eleventy* eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jewelsofthought/11t-blog"
+  },
+  "author": {
+    "name": "Julian Gordon",
+    "email": "julian@spazaspace.com",
+    "url": "https://julian.spazaspace.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/11ty/eleventy-base-blog/issues"
+  },
+  "homepage": "https://github.com/jewelsofthought/11t-blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-navigation": "^0.3.2",
+    "@11ty/eleventy-plugin-rss": "^1.1.1",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
+    "luxon": "^1.26.0",
+    "markdown-it": "^12.1.0",
+    "markdown-it-anchor": "^8.1.2"
+  }
+}
