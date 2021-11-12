@@ -5,7 +5,6 @@ description: Like a mandala made of sand, we build our lives, only for it to be
 date: 2020-07-21T16:00:00.000Z
 tags:
   - neshama
-  - tolnet
 modified: 2021-09-24T18:45:13.381Z
 ---
 
