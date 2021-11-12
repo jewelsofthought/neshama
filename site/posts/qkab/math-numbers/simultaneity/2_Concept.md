@@ -1,10 +1,10 @@
 ---
-title: Concepts of Simultaneity
+title: 02 - In Antiquity
 description: From Einstein to Antiquity
 tags:
   - external
 date: 2021-11-01T18:38:05.633Z
-modified: 2021-11-02T13:31:24.946Z
+modified: 2021-11-08T16:13:07.337Z
 ---
 
 ## The Concept of Simultaneity in Antiquity

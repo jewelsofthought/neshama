@@ -1,11 +1,11 @@
 ---
-title: Concepts of Simultaneity
+title: 00 - Concepts of Simultaneity
 description: From Einstein to Antiquity
 author: Max Jammer
 tags:
   - external
 date: 2021-11-01T10:53:56.430Z
-modified: 2021-11-02T13:23:06.244Z
+modified: 2021-11-08T16:14:10.806Z
 ---
 
 1. [Concepts of Simultaneity](#concepts-of-simultaneity)
@@ -14,7 +14,7 @@ modified: 2021-11-02T13:23:06.244Z
 > **We have to bear in mind that all our propositions involving time are always propositions about simultaneous events.**
 > Albert Einstein, 1905
 
-# Concepts of Simultaneity
+# 00 - Concepts of Simultaneity
 
 ## Introduction
 

@@ -1,10 +1,10 @@
 ---
-title: Concepts of Simultaneity
+title: 01 - Terms
 description: From Einstein to Antiquity
 tags:
   - external
 date: 2021-11-01T15:33:55.891Z
-modified: 2021-11-01T22:45:32.283Z
+modified: 2021-11-08T16:13:27.415Z
 ---
 
 ## Terminological Preliminaries
