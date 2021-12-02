@@ -1,10 +1,9 @@
 ---
-title: Consciousness
+title: Web of Trust
 description: Web of Truth?
-tags:
-  - consciousness
+tags: null
 date: 2021-11-12T07:08:28.768Z
-modified: 2021-11-26T08:27:13.376Z
+modified: 2021-12-02T08:24:20.507Z
 ---
 
 1. [Trust](#trust)
