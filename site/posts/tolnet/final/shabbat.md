@@ -3,8 +3,11 @@ title: Values
 description: Values
 tags: null
 date: 2021-12-02T08:15:46.620Z
-modified: 2021-12-02T08:23:38.839Z
+modified: 2021-12-02T14:47:46.248Z
 ---
+
+1. [Sabbath](#sabbath)
+   This is part of a collection that deals with the evolution of the some of the fundamental tenets of Judaism. It is not that it is in any way to diminish, G-d forbid, or to denigrate any of the great Sages and Rabbis of yore. It is continuing the evolution of the Jewish faith that has taken place over millenia. No-one can claim that this form that we practised today resembles, except in broad strokes, the practise as written in the Torah, and, to a large some extent,
 
 ## Sabbath
 
