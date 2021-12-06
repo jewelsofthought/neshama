@@ -7,8 +7,28 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/posts/tolnet/personal/</loc>
+    <loc>https://neshama.com/posts/story/personal/</loc>
     <lastmod>2020-01-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/the_muddled_mystic/</loc>
+    <lastmod>2020-01-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/Sustainable%20Cultures/</loc>
+    <lastmod>2020-03-05</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/judaica/modeh_ani/</loc>
+    <lastmod>2020-03-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/judaica/parasha_vayeira/</loc>
+    <lastmod>2020-03-21</lastmod>
   </url>
   
   <url>
@@ -32,7 +52,12 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/posts/tolnet/old/fantasy_world/</loc>
+    <loc>https://neshama.com/posts/neshama/judaica/parasha_blalak/</loc>
+    <lastmod>2020-08-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/old/game/</loc>
     <lastmod>2020-08-21</lastmod>
   </url>
   
@@ -52,13 +77,23 @@
   </url>
   
   <url>
+    <loc>https://neshama.com/posts/neshama/gokan_mandara/</loc>
+    <lastmod>2020-11-16</lastmod>
+  </url>
+  
+  <url>
     <loc>https://neshama.com/posts/tolnet/old/network_examples/</loc>
     <lastmod>2021-06-13</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/posts/neshama/Nagarjuna%20&amp;amp;%20Quantum%20Physics/</loc>
-    <lastmod>2021-07-01</lastmod>
+    <loc>https://neshama.com/posts/neshama/judaica/pleasure_as_displeasure/</loc>
+    <lastmod>2021-06-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/book_gift/bg001%20-%20The%20Source/</loc>
+    <lastmod>2021-07-23</lastmod>
   </url>
   
   <url>
@@ -72,22 +107,12 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/posts/book_gift/bg004%20-%20Circles%20&amp;amp;%20Lines/</loc>
-    <lastmod>2021-08-21</lastmod>
-  </url>
-  
-  <url>
     <loc>https://neshama.com/posts/tolnet/organisations/</loc>
     <lastmod>2021-08-21</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/posts/neshama/Chasidic%20Master%20-%20Parashat%20Balak/</loc>
-    <lastmod>2021-08-21</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neshama.com/posts/neshama/journey/</loc>
+    <loc>https://neshama.com/posts/neshama/judaica/pleasure_dis/</loc>
     <lastmod>2021-08-21</lastmod>
   </url>
   
@@ -102,7 +127,7 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/posts/tolnet/quotes/</loc>
+    <loc>https://neshama.com/posts/tolnet/tol_quotes/</loc>
     <lastmod>2021-08-21</lastmod>
   </url>
   
@@ -122,13 +147,23 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/posts/neshama/rosh-hashanah-study-guide/</loc>
+    <loc>https://neshama.com/posts/neshama/judaica/rosh-hashanah-study-guide/</loc>
     <lastmod>2021-09-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/book_gift/bg002a%20-%20Masc%20&amp;amp;%20Fem/</loc>
+    <lastmod>2021-09-17</lastmod>
   </url>
   
   <url>
     <loc>https://neshama.com/posts/qkab/soul/</loc>
     <lastmod>2021-09-20</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/book_gift/bg004%20-%20Circles%20&amp;amp;%20Lines/</loc>
+    <lastmod>2021-09-21</lastmod>
   </url>
   
   <url>
@@ -162,17 +197,7 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/equal/</loc>
-    <lastmod>2021-09-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neshama.com/tags/neshama/</loc>
-    <lastmod>2021-09-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neshama.com/tags/qkab/</loc>
+    <loc>https://neshama.com/tags/external/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
@@ -182,12 +207,42 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/todo/</loc>
+    <loc>https://neshama.com/tags/universal_kabbalah/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/tolnet/</loc>
+    <loc>https://neshama.com/tags/alchemy/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/tags/hermetic/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/tags/mandf/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/tags/qkab/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/tags/shaman/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/tags/consciousness/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/tags/todo/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
@@ -197,17 +252,37 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/ego/</loc>
-    <lastmod>2021-09-22</lastmod>
-  </url>
-  
-  <url>
     <loc>https://neshama.com/tags/process/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/whitehead/</loc>
+    <loc>https://neshama.com/tags/personal/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/tags/communities/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/tags/creation/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/tags/4d-being/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/tags/zohar/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/tags/tolnet/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
@@ -222,22 +297,12 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/consciousness/</loc>
+    <loc>https://neshama.com/tags/midpoint/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/4d-being/</loc>
-    <lastmod>2021-09-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neshama.com/tags/hebrew/</loc>
-    <lastmod>2021-09-22</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neshama.com/tags/pardes/</loc>
+    <loc>https://neshama.com/tags/systems/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
@@ -247,7 +312,7 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/journey_to_freedom/</loc>
+    <loc>https://neshama.com/tags/chariot/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
@@ -257,42 +322,42 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/mandf/</loc>
+    <loc>https://neshama.com/tags/dream/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/tol-final/</loc>
+    <loc>https://neshama.com/tags/tol/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/communities/</loc>
+    <loc>https://neshama.com/tags/tae/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/universal_kabbalah/</loc>
+    <loc>https://neshama.com/tags/cov-19/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/book_gift/</loc>
+    <loc>https://neshama.com/tags/parasha/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/hexagram/</loc>
+    <loc>https://neshama.com/tags/math/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/tolnet-old/</loc>
+    <loc>https://neshama.com/tags/final/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/tags/dimensions/</loc>
+    <loc>https://neshama.com/tags/old/</loc>
     <lastmod>2021-09-22</lastmod>
   </url>
   
@@ -302,13 +367,23 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/posts/book_gift/bg001%20-%20The%20Source/</loc>
-    <lastmod>2021-09-23</lastmod>
+    <loc>https://neshama.com/tags/dimensions/</loc>
+    <lastmod>2021-09-22</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/posts/neshama/bg002%20-%20Masc%20&amp;amp;%20Fem/</loc>
-    <lastmod>2021-09-23</lastmod>
+    <loc>https://neshama.com/tags/science/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/tags/simultaneity/</loc>
+    <lastmod>2021-09-22</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/tags/postsascending/</loc>
+    <lastmod>2021-09-22</lastmod>
   </url>
   
   <url>
@@ -327,13 +402,8 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/posts/tolnet/game-changer/</loc>
+    <loc>https://neshama.com/posts/tolnet/change/</loc>
     <lastmod>2021-09-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neshama.com/posts/TODO/</loc>
-    <lastmod>2021-09-25</lastmod>
   </url>
   
   <url>
@@ -342,12 +412,7 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/posts/qkab/universal_kabbalah/original_beauty/</loc>
-    <lastmod>2021-10-04</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neshama.com/posts/alchemy/</loc>
+    <loc>https://neshama.com/posts/qkab/original_beauty/</loc>
     <lastmod>2021-10-04</lastmod>
   </url>
   
@@ -362,7 +427,7 @@
   </url>
   
   <url>
-    <loc>https://neshama.com/posts/qkab/math-numbers/line/</loc>
+    <loc>https://neshama.com/posts/qkab/math/line/</loc>
     <lastmod>2021-10-08</lastmod>
   </url>
   
@@ -383,6 +448,11 @@
   
   <url>
     <loc>https://neshama.com/posts/qkab/pems/</loc>
+    <lastmod>2021-10-08</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/blessing%20or%20curse/</loc>
     <lastmod>2021-10-08</lastmod>
   </url>
   
@@ -432,12 +502,382 @@
   </url>
   
   <url>
+    <loc>https://neshama.com/posts/neshama/unity/</loc>
+    <lastmod>2021-10-20</lastmod>
+  </url>
+  
+  <url>
     <loc>https://neshama.com/posts/neshama/poem1/</loc>
     <lastmod>2021-10-20</lastmod>
   </url>
   
   <url>
-    <loc>https://neshama.com/posts/neshama/complex_systems/</loc>
+    <loc>https://neshama.com/posts/neshama/process_and_emptiness/</loc>
     <lastmod>2021-10-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/slides/</loc>
+    <lastmod>2021-10-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/upper_realms/</loc>
+    <lastmod>2021-10-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/health/</loc>
+    <lastmod>2021-10-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/Notes%20on%20the%20Path%20of%20Blessing/</loc>
+    <lastmod>2021-10-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/path_working/</loc>
+    <lastmod>2021-10-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/alchemy/</loc>
+    <lastmod>2021-10-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/judaica/sinai_generation/</loc>
+    <lastmod>2021-10-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/judaica/beliefs_opinions/</loc>
+    <lastmod>2021-10-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/rav_green/</loc>
+    <lastmod>2021-10-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/Nagarjuna%20&amp;amp;%20Quantum%20Physics/</loc>
+    <lastmod>2021-10-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/judaica/parasha_toldot/</loc>
+    <lastmod>2021-10-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/judaica/parasha_toldot_annexes/</loc>
+    <lastmod>2021-10-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/judaica/parasha_toldot_deception/</loc>
+    <lastmod>2021-10-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/sacred_economics/</loc>
+    <lastmod>2021-10-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/story/seed/</loc>
+    <lastmod>2021-10-31</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/math/simultaneity/0_Introduction/</loc>
+    <lastmod>2021-11-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/math/simultaneity/1_Terms/</loc>
+    <lastmod>2021-11-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/math/simultaneity/2_Concept/</loc>
+    <lastmod>2021-11-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/cards/</loc>
+    <lastmod>2021-11-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/cards/</loc>
+    <lastmod>2021-11-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/judaica/j_cards/</loc>
+    <lastmod>2021-11-10</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/travel_between/</loc>
+    <lastmod>2021-11-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/cards/</loc>
+    <lastmod>2021-11-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/limited/</loc>
+    <lastmod>2021-11-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/web_of_trust/</loc>
+    <lastmod>2021-11-12</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/TODO-1/</loc>
+    <lastmod>2021-11-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/journey/</loc>
+    <lastmod>2021-11-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/journey_mikkal/</loc>
+    <lastmod>2021-11-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/realm_of_thought/</loc>
+    <lastmod>2021-11-14</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/judaica/emet/</loc>
+    <lastmod>2021-11-15</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/sy_genetics/</loc>
+    <lastmod>2021-11-16</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/threshing_floor/</loc>
+    <lastmod>2021-11-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/masc_fem/</loc>
+    <lastmod>2021-11-17</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama_in_hogsback/</loc>
+    <lastmod>2021-11-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/money/</loc>
+    <lastmod>2021-11-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/knowledge/</loc>
+    <lastmod>2021-11-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/ohr_ein_sof/</loc>
+    <lastmod>2021-11-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/creation_account/</loc>
+    <lastmod>2021-11-18</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/love_greek/</loc>
+    <lastmod>2021-11-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/sound/</loc>
+    <lastmod>2021-11-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/waves/</loc>
+    <lastmod>2021-11-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/</loc>
+    <lastmod>2021-11-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/TODO/</loc>
+    <lastmod>2021-11-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/evolution/</loc>
+    <lastmod>2021-11-19</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/math/co-ords/</loc>
+    <lastmod>2021-11-21</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/bliss/</loc>
+    <lastmod>2021-11-25</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/general_info/</loc>
+    <lastmod>2021-11-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/beginning/</loc>
+    <lastmod>2021-11-26</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/zero_one/</loc>
+    <lastmod>2021-11-28</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/homoerotic/</loc>
+    <lastmod>2021-11-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/neshama/love/</loc>
+    <lastmod>2021-11-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/dimensions/</loc>
+    <lastmod>2021-11-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/qkab/einsof_ayin/</loc>
+    <lastmod>2021-11-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/01-intro/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/02-design/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/03-connect/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/04-leaves/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/05-form/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/05-1-char/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/06-communities/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/07-trust/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/08-identity/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/10-membership/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/09-economics/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/murmering_secrets/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/11-values/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/12-assessment/</loc>
+    <lastmod>2021-12-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/shabbat/</loc>
+    <lastmod>2021-12-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/sacred_geometry_primer/</loc>
+    <lastmod>2021-12-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/shaunwilliams/00-sw/</loc>
+    <lastmod>2021-12-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/shaunwilliams/Intro-L2/</loc>
+    <lastmod>2021-12-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/shaunwilliams/Intro-L1/</loc>
+    <lastmod>2021-12-02</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neshama.com/posts/tolnet/final/graphs/</loc>
+    <lastmod>2021-12-02</lastmod>
   </url>
 </urlset>

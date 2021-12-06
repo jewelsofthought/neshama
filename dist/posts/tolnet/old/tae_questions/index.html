@@ -5,30 +5,129 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tree of Life Network (ToLNET) TAE</title>
     <meta name="description" content="TAE Questionnaire">
+    
     <link rel="stylesheet" href="/css/index.css">
-    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/fontawesome.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/katex.min.css">
+    
+
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Neshamah">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Neshamah">
+    <script src="/js/vue.min.js"></script>
+
   </head>
   <body>
+    <!--header -->
     <header>
-      <h1 class="home"><a href="/">Neshamah</a></h1>
-      <ul class="nav">
-        <li class="nav-item"><a href="/">Home</a></li>
-        <li class="nav-item"><a href="/posts/">Archive</a></li>
-        <li class="nav-item"><a href="/about/">About Me</a></li>
-      </ul>
+        <!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="/img/logo-gear.png" alt="Home" />
+         Neshamah
+      </a>
+      <a class="navbar-item" href="/">
+        Blog
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/">
+            <span class="fa fa-tags"></span>&nbsp;By Tags
+          </a>
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+          </a>
+        </div>
+      </div>
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/about/">
+          About
+        </a>
+      </div>
+      <div class="navbar-end">
+        <form class="is-marginless" action="/posts/search/" method="get">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
     </header>
 
-    <main class="tmpl-post">
+    <!--content -->
+    <div class="columns is 8 layout-base maxwidth">
+      <main role="main" class="content tmpl-post">
+        <div class="column blog-column box-deco has-background-white">
 
-      <h1>Tree of Life Network (ToLNET) TAE</h1>
+  <div class="blog-post">
+    <section class="box">
+      <div class="main_title">
+        <h4 class="title is-4 blog-post-title" itemprop="name headline">
+        <a href="#">Tree of Life Network (ToLNET) TAE</a>
 
-<time datetime="2020-03-21">21 Mar 2020</time><a href="/tags/tolnet/" class="post-tag">tolnet</a><a href="/tags/tolnet-old/" class="post-tag">tolnet-old</a>
-	<h3>Description:</h3>
-	<p>TAE Questionnaire</p>
+    <div class="is-clearfix"></div>
 
-<ol>
+    <div class="is-pulled-left">
+      <span class="meta-time tag is-light is-small">
+        <time datetime="2020-03-21">21 Mar 2020</time>
+      </span>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/tol/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          tol
+        </span>
+      </a>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/old/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          old
+        </span>
+      </a>
+      &nbsp;
+    </div>
+
+    <div class="is-clearfix"></div>
+      <h3>Description:</h3>
+      <p>TAE Questionnaire</p>
+    <div class="main-content">
+      <ol>
 <li><a href="#tree-of-life-network-tolnet-tae">Tree of Life Network (ToLNET) TAE</a>
 <ol>
 <li><a href="#new-paradigm">New Paradigm</a></li>
@@ -72,8 +171,8 @@
 <li><a href="#truthful">Truthful</a></li>
 <li><a href="#4-noble-truthsno-stealing-no-lying">4 Noble TruthsNo stealing, no lying.</a></li>
 <li><a href="#principles">Principles:</a></li>
-<li><a href="#purpose">Purpose:</a></li>
-<li><a href="#goal">Goal:</a></li>
+<li><a href="#purpose">Purpose</a></li>
+<li><a href="#goal">Goal</a></li>
 <li><a href="#1-million">1 million</a></li>
 <li><a href="#the-tree">The Tree</a></li>
 <li><a href="#one-sentence-statement">One sentence statement:</a></li>
@@ -179,7 +278,7 @@ Prayer, meditation, clear thinking, knowing that Truth is our sword.</p>
 <blockquote>
 <p>This is what the Jihadist movements offer the people - an alternative way of life. Not that most of them want the to live under repressive Islamic regimes, but they prefer that to the Christian, capatalist way of life. The freedoms that the Western Civilizations offer, are less appealing than the constraints that the Islamic way of life imposes. In the West, we would of course believe that it is imposed on them by the authorotarian patriarchal adherents to the religion, but that is convenient and fits into the correct narrative - from the perspective of the Western mind. However, by the same token, the Islamic adherents could respond with the same analysis of what is occurring in what believes it is the &quot;freest country in the world, a beacon of freedom to all the oppressed of the world&quot;, the USA.</p>
 </blockquote>
-<p>The beauty of this present time is that we don’t have to design it – it already exists and is widely manifest in all the big IT arena (Google, FB, etc)[cloud.html] - what we call the Cloud - we just have to adapt it to our use. The technology would be the same technology. It is just those who wield it whose <a href="finite_games.html">intentions and goals</a> will be different.</p>
+<p>The beauty of this present time is that we don’t have to design it – it already exists and is widely manifest in all the big IT arena <a href="cloud.html">Google, FB, etc</a> - what we call the Cloud - we just have to adapt it to our use. The technology would be the same technology. It is just those who wield it whose <a href="finite_games.html">intentions and goals</a> will be different.</p>
 <p>What I will mention, is that the web is formed from the people who are members of the <a href="networks.html">network</a>. It can manifest any structure of connectivity that they wish to.</p>
 <p>Two examples of this are the internet and the net of Indra.</p>
 <ul>
@@ -205,7 +304,7 @@ That there is a critical mass, a point at which people will be able to see and u
 <li>Economics:<br>
 As a tree requires sap to live, so this tree will require currency - to evaluate interactions - that are the sap of our lives, and to flourish.</li>
 <li>Network structure:<br>
-A form of this structure exists in almost all organisations. As a graph, it is a generalisation of all organisational structure - similar to a <a href="waves.html">wave</a>. What I wish to create is the structure on which this can express itself. This is, in fact, just an example of the way all social movements and in fact, all effective social constructs have organised themselves throughout the ages. All brotherhoods, guilds and ruling elites.</li>
+A form of this structure exists in almost all organisations. As a graph, it is a generalisation of all organisational structure - similar to a <a href="/qkab/waves.md">wave</a>. What I wish to create is the structure on which this can express itself. This is, in fact, just an example of the way all social movements and in fact, all effective social constructs have organised themselves throughout the ages. All brotherhoods, guilds and ruling elites.</li>
 <li>Benefits/SpinOffs:<br>
 Once the network manifests, there will be many spin-offs - just as we saw with the internet, and its spawn, the Web. It is about clearing and prepping the ground for the seeds to be planted, creating fertile ground for other expressions of the paradigm shift to emerge. It will be a space for projects, structures and applications.</li>
 <li>Organic:<br>
@@ -558,13 +657,35 @@ Aspect of this work, and this network – there is nowhere to hide. All is being
 <p>How does it go from this to a network of identifiable leaves and nodes all interconnected, and communicating in a self-replicating fashion? A lot of work. A lot of software needs to be manifested, and the information needs to be input and organised correctly. This will all require a fair amount of engineering time.</p>
 <p>People join and participate &quot;For the greatest good of all&quot;. Because &quot;Together we stand, divided we fall&quot;.</p>
 
-<hr>
-<ul><li>Next: <a href="/posts/tolnet/old/money/">Money</a></li><li>Previous: <a href="/posts/tolnet/personal/">The Muddled Mystic</a></li>
-</ul>
+    </div>
+    <hr>
+    <ul><li>Next: <a href="/posts/tolnet/old/money/">Money</a></li><li>Previous: <a href="/posts/neshama/judaica/parasha_vayeira/">Parashat Vayeira</a></li>
+    </ul>
+  </div>
+</div>
+      </main>
+    </div>
+  
+    <!--footer -->
+        <footer class="site-footer">
+      <div
+        class="
+          navbar
+          is-fixed-bottom
+          maxwidth
+          is-white
+          has-text-centered
+          is-vcentered
+          footer-deco
+        "
+      >
+        <div class="column">&copy; 2021</div>
+      </div>
+    </footer>
 
-    </main>
 
-    <footer></footer>
+    <!-- Javascript (at end of document) -->
+    <script src="/js/bulma-burger-vue.js"></script>
 
     <!-- Current page: /posts/tolnet/old/tae_questions/ -->
   </body>

@@ -5,8 +5,8 @@
   "scripts": {
     "build": "env NODE_ENV=production npx eleventy --pathprefix '11t-blog'",
     "watch": "eleventy --watch",
-    "start": "eleventy --serve",
-    "debug": "DEBUG=Eleventy* eleventy"
+    "debug": "DEBUG=Eleventy* eleventy",
+    "start": "eleventy --serve"
   },
   "repository": {
     "type": "git",
@@ -26,9 +26,15 @@
     "@11ty/eleventy": "^0.12.1",
     "@11ty/eleventy-navigation": "^0.3.2",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
-    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.2",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.3",
+    "bulma": "^0.9.0",
     "luxon": "^1.26.0",
     "markdown-it": "^12.1.0",
-    "markdown-it-anchor": "^8.1.2"
+    "markdown-it-anchor": "^8.1.2",
+    "markdown-it-footnote": "^3.0.0",
+    "katex": "^0.15.1",
+    "node-sass": "^6.0.1"
+  },
+  "dependencies": {
   }
 }

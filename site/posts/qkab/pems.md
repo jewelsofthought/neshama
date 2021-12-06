@@ -1,10 +1,9 @@
 ---
 title: PEMS
 description: Physical, Emotional, Mental, Spiritual
-tags:
-  - pardes
+tags: null
 date: 2021-10-08T15:32:28.677Z
-modified: 2021-10-10T16:40:44.161Z
+modified: 2021-11-28T17:42:42.976Z
 ---
 
 ## PEMS-1

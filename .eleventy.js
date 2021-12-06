@@ -7,24 +7,25 @@ const fs = require("fs");
 
 // Plugins
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 
-// Markdown
-const markdownIt = require("markdown-it");
-const markdownItAnchor = require("markdown-it-anchor");
+// For rendering math in Markdown
+const katex = require('katex');
+
 
 // Import transforms (min)
 
 // Import data files
 // use _data/site.js (included as module) instead of _data/metadata.json?
 
+
 //
 module.exports = function(eleventyConfig) {
 
   // Add plugins (filters)
   eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(pluginSyntaxHighlight);
+  eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
 
   // https://www.11ty.dev/docs/data-deep-merge/
@@ -33,10 +34,26 @@ module.exports = function(eleventyConfig) {
   // Alias `layout: post` to `layout: layouts/post.njk`
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
+  // Add alphabetic sort filter 
+	eleventyConfig.addFilter('sortByTitle', values => {
+		return values.slice().sort((a, b) => a.data.title.localeCompare(b.data.title))
+	});
+
 	// Add date filter
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
   });
+
+	// Add math filter
+	eleventyConfig.addFilter('latex', content => {
+		return content.replace(/\$\$(.+?)\$\$/g, (_, equation) => {
+			const cleanEquation = equation
+				.replace(/&lt;/g, '<')
+				.replace(/&gt;/g, '>')
+
+			return katex.renderToString(cleanEquation, { throwOnError: false })
+		})
+	});
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
@@ -76,9 +93,31 @@ module.exports = function(eleventyConfig) {
     return filterTagList([...tagSet]);
   });
 
+	eleventyConfig.addCollection("postsAscending", (collection) =>
+		collection.getFilteredByGlob("_posts/*.md").sort((a, b) => {
+				if (a.data.title > b.data.title) return -1;
+				else if (a.data.title < b.data.title) return 1;
+				else return 0;
+		})
+	);
+
+	// To include sass
+	// need to add "sass -watch" to package.json
+	// eleventyConfig.addWatchTarget("./site/sass/");
+	// 
+	// For now, just watch the css folder for any changes
+	eleventyConfig.addWatchTarget("site/css/");
+
   // Copy the `img` and `css` folders to the output
-  eleventyConfig.addPassthroughCopy("site/img");
-  eleventyConfig.addPassthroughCopy("site/css");
+  eleventyConfig.addPassthroughCopy("site/img/");
+  eleventyConfig.addPassthroughCopy("site/posts/img/");
+	eleventyConfig.addPassthroughCopy("site/css/");
+  eleventyConfig.addPassthroughCopy("site/js/");
+
+	// Markdown
+	const markdownIt = require("markdown-it");
+	const markdownItAnchor = require("markdown-it-anchor");
+	const markdownItFootnote = require("markdown-it-footnote");
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
@@ -93,7 +132,7 @@ module.exports = function(eleventyConfig) {
       level: [1,2,3,4],
     }),
     slugify: eleventyConfig.getFilter("slug")
-  });
+  }).use(markdownItFootnote);
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Override Browsersync defaults (used only with --serve)

@@ -4,7 +4,6 @@ description: True change comes from the periphery. The best change can be
 date: 2020-08-20T16:00:00.000Z
 tags:
   - neshama
-  - tolnet
 modified: 2021-10-14T13:14:34.311Z
 ---
 

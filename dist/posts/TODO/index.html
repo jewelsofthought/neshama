@@ -5,28 +5,119 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TODO</title>
     <meta name="description" content="Exploring the soul">
+    
     <link rel="stylesheet" href="/css/index.css">
-    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/fontawesome.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/katex.min.css">
+    
+
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Neshamah">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Neshamah">
+    <script src="/js/vue.min.js"></script>
+
   </head>
   <body>
+    <!--header -->
     <header>
-      <h1 class="home"><a href="/">Neshamah</a></h1>
-      <ul class="nav">
-        <li class="nav-item"><a href="/">Home</a></li>
-        <li class="nav-item"><a href="/posts/">Archive</a></li>
-        <li class="nav-item"><a href="/about/">About Me</a></li>
-      </ul>
+        <!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="/img/logo-gear.png" alt="Home" />
+         Neshamah
+      </a>
+      <a class="navbar-item" href="/">
+        Blog
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/">
+            <span class="fa fa-tags"></span>&nbsp;By Tags
+          </a>
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+          </a>
+        </div>
+      </div>
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/about/">
+          About
+        </a>
+      </div>
+      <div class="navbar-end">
+        <form class="is-marginless" action="/posts/search/" method="get">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
     </header>
 
-    <main class="tmpl-post">
+    <!--content -->
+    <div class="columns is 8 layout-base maxwidth">
+      <main role="main" class="content tmpl-post">
+        <div class="column blog-column box-deco has-background-white">
 
-      <h1>TODO</h1>
+  <div class="blog-post">
+    <section class="box">
+      <div class="main_title">
+        <h4 class="title is-4 blog-post-title" itemprop="name headline">
+        <a href="#">TODO</a>
 
-<time datetime="2021-09-25">25 Sep 2021</time><a href="/tags/todo/" class="post-tag">todo</a>
+    <div class="is-clearfix"></div>
 
-<h1 id="todo" tabindex="-1">TODO <a class="direct-link" href="#todo" aria-hidden="true">#</a></h1>
+    <div class="is-pulled-left">
+      <span class="meta-time tag is-light is-small">
+        <time datetime="2021-11-19">19 Nov 2021</time>
+      </span>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/todo/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          todo
+        </span>
+      </a>
+      &nbsp;
+    </div>
+
+    <div class="is-clearfix"></div>
+    <div class="main-content">
+      <h1 id="todo" tabindex="-1">TODO <a class="direct-link" href="#todo" aria-hidden="true">#</a></h1>
 <p>inside-outside.png - trinity<br>
 lightning-bolt.png - tree of life diagram stuff</p>
 <hr>
@@ -74,7 +165,8 @@ lightning-bolt.png - tree of life diagram stuff</p>
 </ul>
 </li>
 <li>systems.html - [ tolnet/old/tae_questions#complex ] { complex systems }</li>
-<li>waves.html - [ tolnet/old/tae_questions#complex ] { frequency, vibrations, waves}</li>
+<li>qkab/waves.html - [ tolnet/old/tae_questions#complex ]{ frequency, vibrations, waves}</li>
+<li>creation.html - [ qkab/cards.md#desire ] { zero to one }</li>
 </ol>
 <hr>
 <ol>
@@ -97,6 +189,7 @@ lightning-bolt.png - tree of life diagram stuff</p>
 <li><a href="#systems">Systems</a></li>
 <li><a href="#complex-systems">Complex Systems</a></li>
 <li><a href="#waves">Waves</a></li>
+<li><a href="#desire">Desire</a></li>
 </ol>
 </li>
 </ol>
@@ -161,16 +254,38 @@ Only by living in the light can you overcome the darkness - though we are never 
 <h2 id="systems" tabindex="-1">Systems <a class="direct-link" href="#systems" aria-hidden="true">#</a></h2>
 <h3 id="complex-systems" tabindex="-1">Complex Systems <a class="direct-link" href="#complex-systems" aria-hidden="true">#</a></h3>
 <p>[Reproduction:]Takes a certain amount of iterations (generally, at least, 4) in order for the &quot;complexity&quot; (actually regularity) to appear. [Regulating:] At which point it becomes &quot;self-regulating/governing&quot;. It manifests order/pattern - but the pattern is unpredictable.</p>
-<h2 id="waves" tabindex="-1">Waves <a class="direct-link" href="#waves" aria-hidden="true">#</a></h2>
-<p>Any wave can be represented in any wave form.</p>
+<h2 id="desire" tabindex="-1">Desire <a class="direct-link" href="#desire" aria-hidden="true">#</a></h2>
+<p>The beginning begins with the emergence of the One. How the zero became 1 is beyond a miracle. There are absolutely no words (in any language) that describe either what the 0 is, or how it became 1. Though there is a way to express it in every language, and it is an essential part of every language. In fact, everyone can &quot;speak&quot; this divine language. It is called ... silence!</p>
 
-<hr>
-<ul><li>Next: <a href="/posts/qkab/universal_kabbalah/forward/">Universal Kabbalah - Forward</a></li><li>Previous: <a href="/posts/tolnet/game-changer/">Game Changer</a></li>
-</ul>
+    </div>
+    <hr>
+    <ul><li>Next: <a href="/posts/evolution/">Evolution not revolution</a></li><li>Previous: <a href="/posts/qkab/">Quantum Kabbalah (QK)</a></li>
+    </ul>
+  </div>
+</div>
+      </main>
+    </div>
+  
+    <!--footer -->
+        <footer class="site-footer">
+      <div
+        class="
+          navbar
+          is-fixed-bottom
+          maxwidth
+          is-white
+          has-text-centered
+          is-vcentered
+          footer-deco
+        "
+      >
+        <div class="column">&copy; 2021</div>
+      </div>
+    </footer>
 
-    </main>
 
-    <footer></footer>
+    <!-- Javascript (at end of document) -->
+    <script src="/js/bulma-burger-vue.js"></script>
 
     <!-- Current page: /posts/TODO/ -->
   </body>

@@ -3,40 +3,148 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>_Chashmal_/Electricity</title>
+    <title>Chashmal/Electricity</title>
     <meta name="description" content="3d entities, thus above is 4d and below 3d.">
+    
     <link rel="stylesheet" href="/css/index.css">
-    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/fontawesome.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/katex.min.css">
+    
+
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Neshamah">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Neshamah">
+    <script src="/js/vue.min.js"></script>
+
   </head>
   <body>
+    <!--header -->
     <header>
-      <h1 class="home"><a href="/">Neshamah</a></h1>
-      <ul class="nav">
-        <li class="nav-item"><a href="/">Home</a></li>
-        <li class="nav-item"><a href="/posts/">Archive</a></li>
-        <li class="nav-item"><a href="/about/">About Me</a></li>
-      </ul>
+        <!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="/img/logo-gear.png" alt="Home" />
+         Neshamah
+      </a>
+      <a class="navbar-item" href="/">
+        Blog
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/">
+            <span class="fa fa-tags"></span>&nbsp;By Tags
+          </a>
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+          </a>
+        </div>
+      </div>
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/about/">
+          About
+        </a>
+      </div>
+      <div class="navbar-end">
+        <form class="is-marginless" action="/posts/search/" method="get">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
     </header>
 
-    <main class="tmpl-post">
+    <!--content -->
+    <div class="columns is 8 layout-base maxwidth">
+      <main role="main" class="content tmpl-post">
+        <div class="column blog-column box-deco has-background-white">
 
-      <h1>_Chashmal_/Electricity</h1>
+  <div class="blog-post">
+    <section class="box">
+      <div class="main_title">
+        <h4 class="title is-4 blog-post-title" itemprop="name headline">
+        <a href="#">Chashmal/Electricity</a>
 
-<time datetime="2021-10-08">08 Oct 2021</time><a href="/tags/qkab/" class="post-tag">qkab</a><a href="/tags/chashmal/" class="post-tag">chashmal</a><a href="/tags/energy/" class="post-tag">energy</a>
-	<h3>Description:</h3>
-	<p>3d entities, thus above is 4d and below 3d.</p>
+    <div class="is-clearfix"></div>
 
-<ol>
-<li><a href="#chashmalelectricity"><em>Chashmal</em>/Electricity</a></li>
+    <div class="is-pulled-left">
+      <span class="meta-time tag is-light is-small">
+        <time datetime="2021-10-08">08 Oct 2021</time>
+      </span>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/qkab/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          qkab
+        </span>
+      </a>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/chashmal/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          chashmal
+        </span>
+      </a>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/energy/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          energy
+        </span>
+      </a>
+      &nbsp;
+    </div>
+
+    <div class="is-clearfix"></div>
+      <h3>Description:</h3>
+      <p>3d entities, thus above is 4d and below 3d.</p>
+    <div class="main-content">
+      <ol>
+<li><a href="#chashmalelectricity">Chashmal/Electricity</a></li>
 <li><a href="#water">Water</a></li>
-<li><a href="#shabbat">Shabbat</a></li>
+<li><a href="#shabbat-judaism">Shabbat (Judaism)</a></li>
 <li><a href="#energy-is-energy---good-or-bad">Energy is energy - good or bad</a></li>
+<li><a href="#zero-waste-energy">Zero Waste (Energy)</a></li>
 </ol>
-<h2 id="chashmalelectricity" tabindex="-1"><em>Chashmal</em>/Electricity <a class="direct-link" href="#chashmalelectricity" aria-hidden="true">#</a></h2>
+<h2 id="chashmalelectricity" tabindex="-1">Chashmal/Electricity <a class="direct-link" href="#chashmalelectricity" aria-hidden="true">#</a></h2>
 <blockquote>
-<p>Electricity is the portal to the next stage of humanities evolution.</p>
+<p>Electricity has opened the portal to the next stage of humanity's evolution.</p>
 </blockquote>
 <p>What if we look at <em>chashmal</em> as the full electro-magnetic spectrum and beyond?</p>
 <h2 id="water" tabindex="-1">Water <a class="direct-link" href="#water" aria-hidden="true">#</a></h2>
@@ -46,7 +154,7 @@
 <p>All was fine, until we encountered electricity (<em>chashmal</em>). This was something we could only experience. We could not perceive it with any of our 5 senses. It was tremendously useful, and people were dying in their desire and need for its benefits and use. We did not hesitate at the door to this discovery, but rushed madly in - as if it was a new discovery of gold or diamonds - and began using this limitless font of energy we had discovered to benefit &quot;all&quot; [which as per usual, meant first those who could afford, or were lucky enough to be born into, access to it].</p>
 <p>No one thought to stop and the doorway and ask &quot;What is it?&quot;. Because we were still in the trance of the certainty of empirical measurements - as many still are. It is an essentially 2d comprehension of the world around us, rather like the behemoth. And so we rushed in, where angels might fear to tread.</p>
 <p>So onward intrepid explorers, armed with your electrically powered machines, and let us see what we can do... Well, we live in the <a href="intention.html">outcome</a>. I am old, but, if you are young, you have to live with outcome of your ancestors creations.</p>
-<h2 id="shabbat" tabindex="-1">Shabbat <a class="direct-link" href="#shabbat" aria-hidden="true">#</a></h2>
+<h2 id="shabbat-(judaism)" tabindex="-1">Shabbat (Judaism) <a class="direct-link" href="#shabbat-(judaism)" aria-hidden="true">#</a></h2>
 <p>What if the decision to associate <em>chashmal</em> with fire, and impose all the same criterion to its usage as was associated with fire in the religion?</p>
 <p>Even if that was the true prophetic insight, perhaps it is not an &quot;equals&quot;, but an &quot;equivalent&quot; and there are some places where it fits exactly, and some that it doesn't - even some that we haven't even thought of, or perceived yet. We were not aware of a lot of the following implications of this new force that followed the writ.</p>
 <p>And, in this time of lockdown, this decision is being tested. Just as the decisions that were made regarding <em>kashrut</em> were made in a time where certain context that have emerged were not yet present. At each step of evolution of the Jewish cultures and traditions, we have stepped forward into them, and, even though there might have been dissension in the ranks, eventually stepped forward into the new revolution.</p>
@@ -59,14 +167,38 @@
 <p>Energy is energy, whether good or bad, positive or negative, replenishing or diminishing.</p>
 <p><em>Chashmal</em>, electricity, as fire, is both and bad. To the universe, there is no difference – though to God there might be. Thus both are equal in the universal scheme of things – though the outcomes might be different.</p>
 <p>Perhaps it is a rallying call, a guiding beacon calling us, challenging us to “manifest” the upper in the lower, and thus transform the lower.</p>
+<h2 id="zero-waste-(energy)" tabindex="-1">Zero Waste (Energy) <a class="direct-link" href="#zero-waste-(energy)" aria-hidden="true">#</a></h2>
+<p>If the synergy is perfectly in sync, then there is <strong>zero waste</strong>, as all inputs will be used and all outputs nourish something in the chain of life [differentiate between local &amp; global in/outputs] (like the <a href="oroborus.html">Oroborus</a>). Similar to the <em>manna</em> given to the Son of Israel while they were wandering in the desert - which produced no waste as it was spiritual food.</p>
 
-<hr>
-<ul><li>Next: <a href="/posts/qkab/narrative/">Revelatory narrative</a></li><li>Previous: <a href="/posts/qkab/math-numbers/line/">Line</a></li>
-</ul>
+    </div>
+    <hr>
+    <ul><li>Next: <a href="/posts/qkab/narrative/">Revelatory narrative</a></li><li>Previous: <a href="/posts/qkab/math/line/">Line</a></li>
+    </ul>
+  </div>
+</div>
+      </main>
+    </div>
+  
+    <!--footer -->
+        <footer class="site-footer">
+      <div
+        class="
+          navbar
+          is-fixed-bottom
+          maxwidth
+          is-white
+          has-text-centered
+          is-vcentered
+          footer-deco
+        "
+      >
+        <div class="column">&copy; 2021</div>
+      </div>
+    </footer>
 
-    </main>
 
-    <footer></footer>
+    <!-- Javascript (at end of document) -->
+    <script src="/js/bulma-burger-vue.js"></script>
 
     <!-- Current page: /posts/qkab/chashmal/ -->
   </body>

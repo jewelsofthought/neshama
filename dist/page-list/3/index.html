@@ -5,24 +5,92 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Neshamah</title>
     <meta name="description" content="Exploring the soul">
+    
     <link rel="stylesheet" href="/css/index.css">
-    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/fontawesome.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/katex.min.css">
+    
+
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Neshamah">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Neshamah">
+    <script src="/js/vue.min.js"></script>
+
   </head>
   <body>
+    <!--header -->
     <header>
-      <h1 class="home"><a href="/">Neshamah</a></h1>
-      <ul class="nav">
-        <li class="nav-item"><a href="/">Home</a></li>
-        <li class="nav-item"><a href="/posts/">Archive</a></li>
-        <li class="nav-item"><a href="/about/">About Me</a></li>
-      </ul>
+        <!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="/img/logo-gear.png" alt="Home" />
+         Neshamah
+      </a>
+      <a class="navbar-item" href="/">
+        Blog
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/">
+            <span class="fa fa-tags"></span>&nbsp;By Tags
+          </a>
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+          </a>
+        </div>
+      </div>
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/about/">
+          About
+        </a>
+      </div>
+      <div class="navbar-end">
+        <form class="is-marginless" action="/posts/search/" method="get">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
     </header>
 
-    <main class="tmpl-home">
-
-      <table>
+    <!--content -->
+    <div class="columns is 8 layout-base maxwidth">
+      <main role="main" class="content tmpl-home">
+        <table>
   <thead>
     <tr>
       <th>URL</th>
@@ -31,8 +99,68 @@
   </thead>
   <tbody>
   <tr>
-    <td><a href="/posts/neshama/bg002 - Masc &amp; Fem/"><code>/posts/neshama/bg002 - Masc &amp; Fem/</code></a></td>
-    <td>Masculine &amp; Feminine</td>
+    <td><a href="/tags/story/"><code>/tags/story/</code></a></td>
+    <td>Tagged “story”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/chariot/"><code>/tags/chariot/</code></a></td>
+    <td>Tagged “chariot”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/mekubalim/"><code>/tags/mekubalim/</code></a></td>
+    <td>Tagged “mekubalim”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/dream/"><code>/tags/dream/</code></a></td>
+    <td>Tagged “dream”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/tol/"><code>/tags/tol/</code></a></td>
+    <td>Tagged “tol”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/tae/"><code>/tags/tae/</code></a></td>
+    <td>Tagged “tae”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/cov-19/"><code>/tags/cov-19/</code></a></td>
+    <td>Tagged “cov-19”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/parasha/"><code>/tags/parasha/</code></a></td>
+    <td>Tagged “parasha”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/math/"><code>/tags/math/</code></a></td>
+    <td>Tagged “math”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/final/"><code>/tags/final/</code></a></td>
+    <td>Tagged “final”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/old/"><code>/tags/old/</code></a></td>
+    <td>Tagged “old”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/game/"><code>/tags/game/</code></a></td>
+    <td>Tagged “game”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/dimensions/"><code>/tags/dimensions/</code></a></td>
+    <td>Tagged “dimensions”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/science/"><code>/tags/science/</code></a></td>
+    <td>Tagged “science”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/simultaneity/"><code>/tags/simultaneity/</code></a></td>
+    <td>Tagged “simultaneity”</td>
+  </tr>
+  <tr>
+    <td><a href="/tags/postsascending/"><code>/tags/postsascending/</code></a></td>
+    <td>Tagged “postsAscending”</td>
   </tr>
   <tr>
     <td><a href="/posts/tolnet/collective_buying/"><code>/posts/tolnet/collective_buying/</code></a></td>
@@ -47,76 +175,36 @@
     <td>Sword of Truth</td>
   </tr>
   <tr>
-    <td><a href="/posts/tolnet/game-changer/"><code>/posts/tolnet/game-changer/</code></a></td>
-    <td>Game Changer</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/TODO/"><code>/posts/TODO/</code></a></td>
-    <td>TODO</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/qkab/universal_kabbalah/forward/"><code>/posts/qkab/universal_kabbalah/forward/</code></a></td>
-    <td>Universal Kabbalah - Forward</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/qkab/universal_kabbalah/original_beauty/"><code>/posts/qkab/universal_kabbalah/original_beauty/</code></a></td>
-    <td>Doctrine of Original Beauty</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/alchemy/"><code>/posts/alchemy/</code></a></td>
-    <td>Mary the Prophetess</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/qkab/universal_kabbalah/maria/"><code>/posts/qkab/universal_kabbalah/maria/</code></a></td>
-    <td>Universal Kabbalah</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/tolnet/sustainable/"><code>/posts/tolnet/sustainable/</code></a></td>
-    <td>Sustainable</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/qkab/math-numbers/line/"><code>/posts/qkab/math-numbers/line/</code></a></td>
-    <td>Line</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/qkab/chashmal/"><code>/posts/qkab/chashmal/</code></a></td>
-    <td>_Chashmal_/Electricity</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/qkab/narrative/"><code>/posts/qkab/narrative/</code></a></td>
-    <td>Revelatory narrative</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/qkab/letters/"><code>/posts/qkab/letters/</code></a></td>
-    <td>Letters &amp; Symbols</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/qkab/pems/"><code>/posts/qkab/pems/</code></a></td>
-    <td>PEMS</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/qkab/consciousness/"><code>/posts/qkab/consciousness/</code></a></td>
-    <td>Consciousness, et. al.</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/neshama/loveG/"><code>/posts/neshama/loveG/</code></a></td>
-    <td>Love of G-d</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/qkab/trinity/"><code>/posts/qkab/trinity/</code></a></td>
-    <td>Trinity - Triangle</td>
-  </tr>
-  <tr>
-    <td><a href="/posts/tolnet/call/"><code>/posts/tolnet/call/</code></a></td>
-    <td>Armageddon</td>
+    <td><a href="/posts/tolnet/change/"><code>/posts/tolnet/change/</code></a></td>
+    <td>Change</td>
   </tr>
   </tbody>
 </table>
 
 
-    </main>
+      </main>
+    </div>
+  
+    <!--footer -->
+        <footer class="site-footer">
+      <div
+        class="
+          navbar
+          is-fixed-bottom
+          maxwidth
+          is-white
+          has-text-centered
+          is-vcentered
+          footer-deco
+        "
+      >
+        <div class="column">&copy; 2021</div>
+      </div>
+    </footer>
 
-    <footer></footer>
+
+    <!-- Javascript (at end of document) -->
+    <script src="/js/bulma-burger-vue.js"></script>
 
     <!-- Current page: /page-list/3/ -->
   </body>

@@ -5,14 +5,17 @@ tags:
   - consciousness
   - 4d-being
 date: 2021-10-09T07:56:07.119Z
-modified: 2021-10-18T06:23:04.261Z
+modified: 2021-11-26T08:30:40.544Z
 ---
 
 1. [AI](#ai)
 2. [Consciousness is fundamental](#consciousness-is-fundamental)
-3. [Message Broker](#message-broker)
-4. [Time](#time)
-5. [Journey of Separation](#journey-of-separation)
+3. [Form](#form)
+4. [Message Broker](#message-broker)
+5. [Time](#time)
+6. [Journey of Separation](#journey-of-separation)
+7. [World of Separation](#world-of-separation)
+8. [4th dimensional being](#4th-dimensional-being)
 
 ## AI
 
@@ -22,11 +25,17 @@ modified: 2021-10-18T06:23:04.261Z
 
 > We awaken to consciousness, but not to [spirit](spirit.html)
 
-![Piece on self](consciousness.png)
+![Piece on self](/posts/img/qkab/consciousness.png)
+
+## Form
+
+> The only true change is the one which makes no sense!
+
+Form is memory - which is trapped energy. Consciousness is awareness of what has just occurred, and the ability to retain (and even sometimes use) it.
 
 ## Message Broker
 
-![Message Broker](message.png)
+![Message Broker](/posts/img/qkab/message.png)
 
 ## Time
 
@@ -45,9 +54,13 @@ Divide time into mundane & sacred time.
 
 ## Journey of Separation
 
-![Conscious Experience](conscious_separation.png)
+![Conscious Experience](/posts/img/qkab/conscious_seperation.png)
 
-## 4<sup>th</sup> dimensional being
+## World of Separation
+
+We exists in the world of separation in the realm of oneness (which is, in reality, the only "Other"). Measurement is a language of/to deal with separation (or those that are separate). Thus, out of the One come the many and out of the many, emerges One. In the bible it says that Ha'Shem is hidden in plain sight (or could I say, hidden from _plain_ sight.)
+
+## 4th dimensional being
 
 As a 4<sup>th</sup> dimensional being, you are constantly aware of each one of these realms of interaction - from 4<sup>th</sup> to 1<sup>st</sup> (and even 5<sup>th</sup>).
 

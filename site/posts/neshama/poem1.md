@@ -2,7 +2,6 @@
 title: Ego separates
 tags:
   - poem
-  - ego
 date: 2021-10-20T11:23:12.048Z
 modified: 2021-10-20T11:24:06.684Z
 ---
@@ -17,9 +16,9 @@ modified: 2021-10-20T11:24:06.684Z
 
 ```
 Something moves in spirit, a need to enter the sacred path of union:
-Union with the Beloved, is in the upper realms.
-Union with one another occurs in the middle realms.
-And finally, sexual union, is fed from the lower realm.
+Union with the Beloved occurs in the upper realms,
+Union with another occurs in the middle realms,
+And finally, sexual union is fed from the lower realm.
 
 Yet it is the space from which life emerges.
 
@@ -58,9 +57,9 @@ where you are blessed to with the sacred gift
 of choice...
 
 Choose the darkness, and it will with remain with you
-until you are worthy or "[lucky](mazal.html)" to being blessed again.
+until you are worthy or "[lucky](mazal.html)" to be blessed again.
 
 Choose the light, and it will remain with you,
-as long as you are worthy.
+as long as you are humble.
 
 ```

@@ -5,34 +5,114 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tagged “m&amp;amp;f”</title>
     <meta name="description" content="Exploring the soul">
+    
     <link rel="stylesheet" href="/css/index.css">
-    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/fontawesome.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/katex.min.css">
+    
+
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Neshamah">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Neshamah">
+    <script src="/js/vue.min.js"></script>
+
   </head>
   <body>
+    <!--header -->
     <header>
-      <h1 class="home"><a href="/">Neshamah</a></h1>
-      <ul class="nav">
-        <li class="nav-item"><a href="/">Home</a></li>
-        <li class="nav-item"><a href="/posts/">Archive</a></li>
-        <li class="nav-item"><a href="/about/">About Me</a></li>
-      </ul>
+        <!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="/img/logo-gear.png" alt="Home" />
+         Neshamah
+      </a>
+      <a class="navbar-item" href="/">
+        Blog
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/">
+            <span class="fa fa-tags"></span>&nbsp;By Tags
+          </a>
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+          </a>
+        </div>
+      </div>
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/about/">
+          About
+        </a>
+      </div>
+      <div class="navbar-end">
+        <form class="is-marginless" action="/posts/search/" method="get">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
     </header>
 
-    <main class="tmpl-home">
+    <!--content -->
+    <div class="columns is 8 layout-base maxwidth">
+      <main role="main" class="content tmpl-home">
+        <h1>Tagged “m&amp;f”</h1>
 
-      <h1>Tagged “m&amp;f”</h1>
 
+<ol reversed class="postlist" style="counter-reset: start-from 4">
 
-<ol reversed class="postlist" style="counter-reset: start-from 3">
+  <li class="postlist-item">
+    <a href="/posts/qkab/masc_fem/" class="postlist-link">Masculine &amp; Feminine</a>
+    <time class="postlist-date" datetime="2021-11-17">17 Nov 2021</time>
+    
+      
+      <a href="/tags/qkab/" class="post-tag">qkab</a>
+    
+      
+      <a href="/tags/mandf/" class="post-tag">m&amp;f</a>
+    
+  </li>
 
   <li class="postlist-item">
     <a href="/posts/tolnet/energy/" class="postlist-link">Energy</a>
     <time class="postlist-date" datetime="2021-10-12">12 Oct 2021</time>
     
       
-      <a href="/tags/tolnet/" class="post-tag">tolnet</a>
+      <a href="/tags/tol/" class="post-tag">tol</a>
     
       
       <a href="/tags/energy/" class="post-tag">energy</a>
@@ -46,17 +126,11 @@
   </li>
 
   <li class="postlist-item">
-    <a href="/posts/neshama/bg002 - Masc &amp; Fem/" class="postlist-link">Masculine &amp; Feminine</a>
-    <time class="postlist-date" datetime="2021-09-23">23 Sep 2021</time>
-    
-      
-      <a href="/tags/neshama/" class="post-tag">neshama</a>
+    <a href="/posts/book_gift/bg002a - Masc &amp; Fem/" class="postlist-link">Masculine &amp; Feminine</a>
+    <time class="postlist-date" datetime="2021-09-17">17 Sep 2021</time>
     
       
       <a href="/tags/mandf/" class="post-tag">m&amp;f</a>
-    
-      
-      <a href="/tags/book_gift/" class="post-tag">book_gift</a>
     
   </li>
 
@@ -66,9 +140,29 @@
 <p>See <a href="/tags/">all tags</a>.</p>
 
 
-    </main>
+      </main>
+    </div>
+  
+    <!--footer -->
+        <footer class="site-footer">
+      <div
+        class="
+          navbar
+          is-fixed-bottom
+          maxwidth
+          is-white
+          has-text-centered
+          is-vcentered
+          footer-deco
+        "
+      >
+        <div class="column">&copy; 2021</div>
+      </div>
+    </footer>
 
-    <footer></footer>
+
+    <!-- Javascript (at end of document) -->
+    <script src="/js/bulma-burger-vue.js"></script>
 
     <!-- Current page: /tags/mandf/ -->
   </body>

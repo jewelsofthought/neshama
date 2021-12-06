@@ -5,30 +5,121 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Revelatory narrative</title>
     <meta name="description" content="The messiah....">
+    
     <link rel="stylesheet" href="/css/index.css">
-    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/fontawesome.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/katex.min.css">
+    
+
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Neshamah">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Neshamah">
+    <script src="/js/vue.min.js"></script>
+
   </head>
   <body>
+    <!--header -->
     <header>
-      <h1 class="home"><a href="/">Neshamah</a></h1>
-      <ul class="nav">
-        <li class="nav-item"><a href="/">Home</a></li>
-        <li class="nav-item"><a href="/posts/">Archive</a></li>
-        <li class="nav-item"><a href="/about/">About Me</a></li>
-      </ul>
+        <!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="/img/logo-gear.png" alt="Home" />
+         Neshamah
+      </a>
+      <a class="navbar-item" href="/">
+        Blog
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/">
+            <span class="fa fa-tags"></span>&nbsp;By Tags
+          </a>
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+          </a>
+        </div>
+      </div>
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/about/">
+          About
+        </a>
+      </div>
+      <div class="navbar-end">
+        <form class="is-marginless" action="/posts/search/" method="get">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
     </header>
 
-    <main class="tmpl-post">
+    <!--content -->
+    <div class="columns is 8 layout-base maxwidth">
+      <main role="main" class="content tmpl-post">
+        <div class="column blog-column box-deco has-background-white">
 
-      <h1>Revelatory narrative</h1>
+  <div class="blog-post">
+    <section class="box">
+      <div class="main_title">
+        <h4 class="title is-4 blog-post-title" itemprop="name headline">
+        <a href="#">Revelatory narrative</a>
 
-<time datetime="2021-10-08">08 Oct 2021</time><a href="/tags/qkab/" class="post-tag">qkab</a>
-	<h3>Description:</h3>
-	<p>The messiah....</p>
+    <div class="is-clearfix"></div>
 
-<h2 id="messiah" tabindex="-1">Messiah <a class="direct-link" href="#messiah" aria-hidden="true">#</a></h2>
+    <div class="is-pulled-left">
+      <span class="meta-time tag is-light is-small">
+        <time datetime="2021-10-08">08 Oct 2021</time>
+      </span>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/qkab/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          qkab
+        </span>
+      </a>
+      &nbsp;
+    </div>
+
+    <div class="is-clearfix"></div>
+      <h3>Description:</h3>
+      <p>The messiah....</p>
+    <div class="main-content">
+      <h2 id="messiah" tabindex="-1">Messiah <a class="direct-link" href="#messiah" aria-hidden="true">#</a></h2>
 <p>Is one man going to come down from heaven and &quot;save&quot; us? And from whom do we need saving? From ourselves? How can anyone save you from yourself? If G-d has granted us free choice, then only you can change yourself. G-d and the angels can only help you. [Shabbat angels - Two angels on shabbat. May it be even better next Shabbas] But you, I, have to take the first step. Have to say: &quot;This is who I am. And this is what I am going to do...&quot; and the rest will follow - if it is in accordance with God's wish...</p>
 <h2 id="visionary" tabindex="-1">Visionary <a class="direct-link" href="#visionary" aria-hidden="true">#</a></h2>
 <ul>
@@ -45,13 +136,35 @@
 </li>
 </ul>
 
-<hr>
-<ul><li>Next: <a href="/posts/qkab/letters/">Letters &amp; Symbols</a></li><li>Previous: <a href="/posts/qkab/chashmal/">_Chashmal_/Electricity</a></li>
-</ul>
+    </div>
+    <hr>
+    <ul><li>Next: <a href="/posts/qkab/letters/">Hebrew Letters</a></li><li>Previous: <a href="/posts/qkab/chashmal/">Chashmal/Electricity</a></li>
+    </ul>
+  </div>
+</div>
+      </main>
+    </div>
+  
+    <!--footer -->
+        <footer class="site-footer">
+      <div
+        class="
+          navbar
+          is-fixed-bottom
+          maxwidth
+          is-white
+          has-text-centered
+          is-vcentered
+          footer-deco
+        "
+      >
+        <div class="column">&copy; 2021</div>
+      </div>
+    </footer>
 
-    </main>
 
-    <footer></footer>
+    <!-- Javascript (at end of document) -->
+    <script src="/js/bulma-burger-vue.js"></script>
 
     <!-- Current page: /posts/qkab/narrative/ -->
   </body>

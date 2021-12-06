@@ -2,9 +2,9 @@
 title: Process Philosophy
 date: 2021-10-19T16:04:12.291Z
 tags:
+  - external
   - process
-  - whitehead
-modified: 2021-10-23T19:45:20.979Z
+modified: 2021-11-08T15:59:24.110Z
 ---
 
 <!-- TODO:

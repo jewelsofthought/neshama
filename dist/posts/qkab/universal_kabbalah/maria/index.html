@@ -3,85 +3,242 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Universal Kabbalah</title>
+    <title>Maria - the Prophetess</title>
     <meta name="description" content="The Key to Hebraic Sacred Science">
+    
     <link rel="stylesheet" href="/css/index.css">
-    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/fontawesome.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/katex.min.css">
+    
+
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Neshamah">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Neshamah">
+    <script src="/js/vue.min.js"></script>
+
   </head>
   <body>
+    <!--header -->
     <header>
-      <h1 class="home"><a href="/">Neshamah</a></h1>
-      <ul class="nav">
-        <li class="nav-item"><a href="/">Home</a></li>
-        <li class="nav-item"><a href="/posts/">Archive</a></li>
-        <li class="nav-item"><a href="/about/">About Me</a></li>
-      </ul>
+        <!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="/img/logo-gear.png" alt="Home" />
+         Neshamah
+      </a>
+      <a class="navbar-item" href="/">
+        Blog
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/">
+            <span class="fa fa-tags"></span>&nbsp;By Tags
+          </a>
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+          </a>
+        </div>
+      </div>
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/about/">
+          About
+        </a>
+      </div>
+      <div class="navbar-end">
+        <form class="is-marginless" action="/posts/search/" method="get">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
     </header>
 
-    <main class="tmpl-post">
+    <!--content -->
+    <div class="columns is 8 layout-base maxwidth">
+      <main role="main" class="content tmpl-post">
+        <div class="column blog-column box-deco has-background-white">
 
-      <h1>Universal Kabbalah</h1>
+  <div class="blog-post">
+    <section class="box">
+      <div class="main_title">
+        <h4 class="title is-4 blog-post-title" itemprop="name headline">
+        <a href="#">Maria - the Prophetess</a>
 
-<time datetime="2021-10-06">06 Oct 2021</time><a href="/tags/qkab/" class="post-tag">qkab</a><a href="/tags/hexagram/" class="post-tag">hexagram</a>
-	<h3>Description:</h3>
-	<p>The Key to Hebraic Sacred Science</p>
+    <div class="is-clearfix"></div>
 
-<h2 id="the-hexagram-and-hebraic-sacred-science" tabindex="-1">THE HEXAGRAM AND HEBRAIC SACRED SCIENCE <a class="direct-link" href="#the-hexagram-and-hebraic-sacred-science" aria-hidden="true">#</a></h2>
-<p>Variously called the Shield of David (Magen David), the Star of David, and Solomon's Seal, the hexagram has come to be the symbol most identified with the Jewish people. Composed of two equilateral triangles whose apexes are defined by the six radial arc points of a circle, this six-pointed star is an important esoteric symbol, associated with the heart Chakra in Tantric yoga and discovered in the ground plan of Stonehenge.[^16] It has long been though that it was Arabic alchemy that in the West most popularised this symbol of equilibrium between the opposed archetypical forces of fire (the expansive force represented by the upward pointing triangle) and water (the contractive force represented by the downward-pointing triangle). Since it was in the early Middle Ages that the hexagram began to be featured prominently in Jewish magical texts and amulets, most modern historians have concluded that it was probably through this Arabic source that the hexagram was most directly transmitted to the medieval Spanish Kabbalists. But since in the Arabic literature employing this symbol the hexagram is normally given a Hebrew derivation through the terms &quot;Solomon's Seal&quot; or &quot;Shield of David&quot; by which it is called,[^17] it may well be that there was a continuous association of the Jewish esoteric tradition with this esoteric symbol of David and Solomon that preceded Islam. The Talmudic reference to the hexagram engraved on the seal ring of Solomon[^18] supports the possibility of an early association of the hexagram with Jewish esoteric understanding and practice reaching as far back as the biblical period.</p>
-<p>Gershom Scholem supports the contrary view that “the hexagram is not a Jewish symbol.”[^19] He does admit that this figure and its names “Seal of Solomon and Shield of David . . . go back to pre-Islamic Jewish magic”[^20], but considers that the hexagram “had one and only one purpose in its career as magic: to serve as protection against demons.”[^21]. But Raphael Patai, in his important book The Jewish Alchemists, has traced a very different history for the alchemical tradition that must cause a major revision of the received opinion concerning the relationship of Jews to alchemy and its hexagram symbol. As he reveals:</p>
+    <div class="is-pulled-left">
+      <span class="meta-time tag is-light is-small">
+        <time datetime="2021-10-06">06 Oct 2021</time>
+      </span>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/qkab/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          qkab
+        </span>
+      </a>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/universal_kabbalah/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          universal_kabbalah
+        </span>
+      </a>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/alchemy/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          alchemy
+        </span>
+      </a>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/external/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          external
+        </span>
+      </a>
+      &nbsp;
+    </div>
+
+    <div class="is-clearfix"></div>
+      <h3>Description:</h3>
+      <p>The Key to Hebraic Sacred Science</p>
+    <div class="main-content">
+      <h2 id="the-hexagram-and-hebraic-sacred-science" tabindex="-1">THE HEXAGRAM AND HEBRAIC SACRED SCIENCE <a class="direct-link" href="#the-hexagram-and-hebraic-sacred-science" aria-hidden="true">#</a></h2>
+<p>Variously called the Shield of David (<em>Magen David</em>), the Star of David, and Solomon's Seal, the hexagram has come to be the symbol most identified with the Jewish people. Composed of two equilateral triangles whose apexes are defined by the six radial arc points of a circle, this six-pointed star is an important esoteric symbol, associated with the heart Chakra in Tantric yoga and discovered in the ground plan of Stonehenge.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> It has long been though that it was Arabic alchemy that in the West most popularised this symbol of equilibrium between the opposed archetypical forces of fire (the expansive force represented by the upward pointing triangle) and water (the contractive force represented by the downward-pointing triangle). Since it was in the early Middle Ages that the hexagram began to be featured prominently in Jewish magical texts and amulets, most modern historians have concluded that it was probably through this Arabic source that the hexagram was most directly transmitted to the medieval Spanish Kabbalists. But since in the Arabic literature employing this symbol the hexagram is normally given a Hebrew derivation through the terms &quot;Solomon's Seal&quot; or &quot;Shield of David&quot; by which it is called,<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup> it may well be that there was a continuous association of the Jewish esoteric tradition with this esoteric symbol of David and Solomon that preceded Islam. The Talmudic reference to the hexagram engraved on the seal ring of Solomon<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup> supports the possibility of an early association of the hexagram with Jewish esoteric understanding and practice reaching as far back as the biblical period.</p>
+<p>Gershom Scholem supports the contrary view that “the hexagram is not a Jewish symbol.”<sup class="footnote-ref"><a href="#fn4" id="fnref4">[4]</a></sup> He does admit that this figure and its names “Seal of Solomon and Shield of David . . . go back to pre-Islamic Jewish magic”<sup class="footnote-ref"><a href="#fn5" id="fnref5">[5]</a></sup>, but considers that the hexagram “had one and only one purpose in its career as magic: to serve as protection against demons.”<sup class="footnote-ref"><a href="#fn6" id="fnref6">[6]</a></sup>. But Raphael Patai, in his important book The Jewish Alchemists, has traced a very different history for the alchemical tradition that must cause a major revision of the received opinion concerning the relationship of Jews to alchemy and its hexagram symbol. As he reveals:</p>
 <blockquote>
-<p>The first nonfictitious alchemists of the western world live, as far as can be ascertained, in Hebraic Egypt. And the earliest amongst them was Maria Hebraea, Maria the Hebrew, or Maria the Jewess, for whom our chief source is Zosimus the Panopolitan. Zosimus is the first Greek alchemical author whose actual writings have survived. He lived in Hellenistic Egypt, about 300 C.E. . . . We can thus tentatively assign her to the third century C.E. at the latest.[^23]</p>
+<p>The first nonfictitious alchemists of the western world live, as far as can be ascertained, in Hebraic Egypt. And the earliest amongst them was Maria Hebraea, Maria the Hebrew, or Maria the Jewess, for whom our chief source is Zosimus the Panopolitan. Zosimus is the first Greek alchemical author whose actual writings have survived. He lived in Hellenistic Egypt, about 300 C.E. . . . We can thus tentatively assign her to the third century C.E. at the latest.<sup class="footnote-ref"><a href="#fn7" id="fnref7">[7]</a></sup></p>
 </blockquote>
 <p>In the quotations from Maria’s teachings, cosmological principles appear that have been thought to emerge only later in the Kabbalah:</p>
 <blockquote>
-<p>”One becomes two, two becomes three, and by means of the third and fourth achieves unity; thus two are but one” . . . “Join the male and the female, and you will find what is sought.” . . . “If you do not render the corporeal substances incorporeal, and the incorporeal substances corporeal, and if you do not make the two bodies one, nothing of the expected will be produced.” . . . She (Maria) said: “The philosopher (Pseudo-) Democritus said . . . ‘Transform nature, and make the spirit which is hidden inside the body come out . . . Destroy the body, and make it become water, and extract that which is in it.’” . . . “The ‘water’ which I have mentioned is an angel, and descends from the sky, and the earth accepts it on account of its (the earth’s) moistness. The water of the sky is held by the water of the earth.”[^24]</p>
+<p>”One becomes two, two becomes three, and by means of the third and fourth achieves unity; thus two are but one” . . . “Join the male and the female, and you will find what is sought.” . . . “If you do not render the corporeal substances incorporeal, and the incorporeal substances corporeal, and if you do not make the two bodies one, nothing of the expected will be produced.” . . . She (Maria) said: “The philosopher (Pseudo-) Democritus said . . . ‘Transform nature, and make the spirit which is hidden inside the body come out . . . Destroy the body, and make it become water, and extract that which is in it.’” . . . “The ‘water’ which I have mentioned is an angel, and descends from the sky, and the earth accepts it on account of its (the earth’s) moistness. The water of the sky is held by the water of the earth.”<sup class="footnote-ref"><a href="#fn8" id="fnref8">[8]</a></sup></p>
 </blockquote>
-<p>Maria Hebraea reveals alchemy to be a sacred science much like the more theoretical sacred sciences of geometry, harmonics and number, the precise procedures of metallurgy, the first human technology, being studied and valued not only for their mundane usefulness but for what they can reveal of the principles governing both natural law and cosmic possibility. Her first quoted rule, which we are told “the Hebrew priestess shrieked,”[^25] seems to foreshadow the kabbalistic doctrine of the <em>Partzufim</em>, the divine personalitities. Appearing in the <em>Bahir</em>, the <em>Zohar</em> and Lurianic Kabbalah, are the five main such <em>Partzufim</em> related to the ten circles, called <em>Sefirot</em>, of the Tree of Life Diagram.</p>
-<p>The Tree is a diagram composed of ten circular <em>Sefirot</em> and the twenty-two paths connecting them. The names of the ten <em>Sefirot</em> both define the attributes of a single divine figure and the five Partzufim into which they are transformed in the course of cosmic history. These names are <em>Keter</em> (Crown), <em>Chokhmah</em> (Wisdom), <em>Binah</em> (Understanding), <em>Chesed</em> (Mercy), <em>Gevurah</em> (Judgement), <em>Tiferet</em> (Beauty), <em>Netzach</em> (Eternity), <em>Hod</em> (Splendour), <em>Yesod</em> (Foundation), <em>Malkhut</em> (Kingdom). As <em>Partzufim</em>, <em>Keter</em> is identified with <em>Arikh Anpin</em> (Long Face), the original <em>Partzuf</em> who is the source of the next two <em>Partzufim</em>, <em>Abba</em> (Father), identified with <em>Chokhmah</em>, and <em>Imma</em> (Mother), identified with <em>Binah</em>, whose continuous mating is responsible both for the continuous process of creation and the generation of the originally androgynous <em>Ze’ir Anpin</em> (Short Face), the son figure identified with the six <em>sefirot</em> from <em>Chesed</em> to <em>Yesod</em>, from whom the daughter-bride <em>Partzuf</em> of the <em>Nukvah</em> (Female), identified with <em>Malkhut</em>, separates in order to mate intermittently with <em>Ze’ir Anpin</em> and so both direct the course of Providence and generate the higher souls of the righteous. The six-<em>Sefirot</em> <em>Partzuf</em> of the son is clearly the most important, and may also be said to combine a divine upper triad (<em>Chesed</em>-<em>Gevurah</em>-<em>Tiferet</em>) with a human lower triad (<em>Netzach</em>-<em>Hod</em>-<em>Yesod</em>), a unification of the infinite and finite that fulfils and models the purpose of Creation. This purpose is the generation both of the supernal son and so achieve the unification of these two levels of divine sonship, a cosmic purpose previously presented as the priestly secret doctrine of the son.[^26]</p>
-<p>Let us know apply the kabbalistic concept of the <em>Partzufim</em> to Maria Hebraea’s statement: “One [<em>Arikh Anpin</em> (Long Face)] become two [<em>Abba</em> (father) and <em>Imma</em> (mother)], two [<em>Abba</em> and <em>Imma</em>] becomes three [<em>Ze’ir Anpin</em> (the short face and son)], and by means of the third [<em>Ze’ir Anpin</em>] and fourth [<em>Nukvah</em> (female of <em>Ze’ir Anpin</em> and daughter-bride)] achieves unity [a metaphorically sexual unification]; thus two are but one.” The meaning of this “unification” of the transcendent or “incorporeal” with the immanent or “corporeal” is well understood by what the tenth-century Arab alchemist Ibn Umail understood Maria to mean by the descending water or angel through which nature can be transformed to realise the spirit within it: “As for her statement ‘[The water] descends from the sky’, she meant by this the child which they say will be born for them in the air, while conception had taken place in the lower (region); this being (through) the higher celestial strength which the water has gained by its absorption of the air.”[^27] The sexual model, imputed not only to humans but to metals, is important because it sees the Great Work of alchemy to be such a unification of the opposing metallurgic procedures for dissolving the fixed and coagulating the volatile as can generate a more precious new being, “the child which they say will be born for them in the air,” one whose perfection consists precisely in the conjunction of both these purified qualities—truly a new definition of what I have shown to be the Hebraic secret doctrine of the son.</p>
+<p>Maria Hebraea reveals alchemy to be a sacred science much like the more theoretical sacred sciences of geometry, harmonics and number, the precise procedures of metallurgy, the first human technology, being studied and valued not only for their mundane usefulness but for what they can reveal of the principles governing both natural law and cosmic possibility. Her first quoted rule, which we are told “the Hebrew priestess shrieked,”<sup class="footnote-ref"><a href="#fn9" id="fnref9">[9]</a></sup> seems to foreshadow the kabbalistic doctrine of the <em>Partzufim</em>, the divine personalitities. Appearing in the <em>Bahir</em>, the <em>Zohar</em> and Lurianic Kabbalah, are the five main such <em>Partzufim</em> related to the ten circles, called <em>Sefirot</em>, of the Tree of Life Diagram.</p>
+<p>The Tree is a diagram composed of ten circular <em>Sefirot</em> and the twenty-two paths connecting them. The names of the ten <em>Sefirot</em> both define the attributes of a single divine figure and the five Partzufim into which they are transformed in the course of cosmic history. These names are <em>Keter</em> (Crown), <em>Chokhmah</em> (Wisdom), <em>Binah</em> (Understanding), <em>Chesed</em> (Mercy), <em>Gevurah</em> (Judgement), <em>Tiferet</em> (Beauty), <em>Netzach</em> (Eternity), <em>Hod</em> (Splendour), <em>Yesod</em> (Foundation), <em>Malkhut</em> (Kingdom). As <em>Partzufim</em>, <em>Keter</em> is identified with <em>Arikh Anpin</em> (Long Face), the original <em>Partzuf</em> who is the source of the next two <em>Partzufim</em>, <em>Abba</em> (Father), identified with <em>Chokhmah</em>, and <em>Imma</em> (Mother), identified with <em>Binah</em>, whose continuous mating is responsible both for the continuous process of creation and the generation of the originally androgynous <em>Ze’ir Anpin</em> (Short Face), the son figure identified with the six <em>sefirot</em> from <em>Chesed</em> to <em>Yesod</em>, from whom the daughter-bride <em>Partzuf</em> of the <em>Nukvah</em> (Female), identified with <em>Malkhut</em>, separates in order to mate intermittently with <em>Ze’ir Anpin</em> and so both direct the course of Providence and generate the higher souls of the righteous. The six-<em>Sefirot</em> <em>Partzuf</em> of the son is clearly the most important, and may also be said to combine a divine upper triad (<em>Chesed</em>-<em>Gevurah</em>-<em>Tiferet</em>) with a human lower triad (<em>Netzach</em>-<em>Hod</em>-<em>Yesod</em>), a unification of the infinite and finite that fulfils and models the purpose of Creation. This purpose is the generation both of the supernal son and so achieve the unification of these two levels of divine sonship, a cosmic purpose previously presented as the priestly secret doctrine of the son.<sup class="footnote-ref"><a href="#fn10" id="fnref10">[10]</a></sup></p>
+<p>Let us know apply the kabbalistic concept of the <em>Partzufim</em> to Maria Hebraea’s statement: “One [<em>Arikh Anpin</em> (Long Face)] become two [<em>Abba</em> (father) and <em>Imma</em> (mother)], two [<em>Abba</em> and <em>Imma</em>] becomes three [<em>Ze’ir Anpin</em> (the short face and son)], and by means of the third [<em>Ze’ir Anpin</em>] and fourth [<em>Nukvah</em> (female of <em>Ze’ir Anpin</em> and daughter-bride)] achieves unity [a metaphorically sexual unification]; thus two are but one.” The meaning of this “unification” of the transcendent or “incorporeal” with the immanent or “corporeal” is well understood by what the tenth-century Arab alchemist Ibn Umail understood Maria to mean by the descending water or angel through which nature can be transformed to realise the spirit within it: “As for her statement ‘[The water] descends from the sky’, she meant by this the child which they say will be born for them in the air, while conception had taken place in the lower (region); this being (through) the higher celestial strength which the water has gained by its absorption of the air.”<sup class="footnote-ref"><a href="#fn11" id="fnref11">[11]</a></sup> The sexual model, imputed not only to humans but to metals, is important because it sees the Great Work of alchemy to be such a unification of the opposing metallurgic procedures for dissolving the fixed and coagulating the volatile as can generate a more precious new being, “the child which they say will be born for them in the air,” one whose perfection consists precisely in the conjunction of both these purified qualities—truly a new definition of what I have shown to be the Hebraic secret doctrine of the son.</p>
 <p>Maria Hebaea’s alchemy also seems already to suggest use of the hexagram model, the descending “water of the sky” not only denoting the descending triangle of the hexagram but also the concept of the upper and lower waters in the Genesis creation account, which we shall later see can also be modelled by the hexagram and in a way whose clarification of otherwise inexplicable features of the biblical account reinforces the early association of the hexagram with the sacred science of the Hebraic priesthood. The alchemical revelation of Maria Hebraea would seem, then, to be a direct outgrowth of the an earlier and continuing Hebraic sacred science and to provide a link to the later theoretical elaborations of the tradition in the more sexually generative form of kabbalistic myth.</p>
-<p>Patai provides much evidence to show that “Jewish alchemists were the teachers of both Muslim and Christian alchemists in the Middle Ages, just as they had been of Hellenistic alchemists in antiquity.”[^28] One Arab work, falsely attributed to Khalid Ibn Yazad, is particularly indebted to Maria Hebraea, as can be seen by the following quotation:</p>
+<p>Patai provides much evidence to show that “Jewish alchemists were the teachers of both Muslim and Christian alchemists in the Middle Ages, just as they had been of Hellenistic alchemists in antiquity.”<sup class="footnote-ref"><a href="#fn12" id="fnref12">[12]</a></sup> One Arab work, falsely attributed to Khalid Ibn Yazad, is particularly indebted to Maria Hebraea, as can be seen by the following quotation:</p>
 <blockquote>
-<p>But this dissolution and congelation, which I mentioned, is the dissolution of the body and the congelation of the spirit, and they are two but have one single operation, because the spirit cannot be congealed except with the dissolution of the body, and similarly the body cannot be dissolved except with the congelation of the spirit. And the body and soul, when they are joined at the same time, each acts on its partner, making it similar to itself. . . . For the composition of artifice or magisterium is the conjunction or matrimony of the congealed spirit with the dissolved body. . . .[^29]</p>
+<p>But this dissolution and congelation, which I mentioned, is the dissolution of the body and the congelation of the spirit, and they are two but have one single operation, because the spirit cannot be congealed except with the dissolution of the body, and similarly the body cannot be dissolved except with the congelation of the spirit. And the body and soul, when they are joined at the same time, each acts on its partner, making it similar to itself. . . . For the composition of artifice or magisterium is the conjunction or matrimony of the congealed spirit with the dissolved body...<sup class="footnote-ref"><a href="#fn13" id="fnref13">[13]</a></sup></p>
 </blockquote>
 <p>Again this essential alchemical marriage of opposites seems suggestive of the hexagram model, the “dissolved body”, signified by its ascending triangle, “joined at the same time” to the “congealed spirit”, signified by its descending triangle, a conjunction that represents the culmination of the Great Work of alchemy, the production of the “Philosopher’s Stone”. As Patai indicates, in considering the alchemical legends surrounding Solomon:</p>
 <blockquote>
-<p>The close association between Solomon and the philosopher’s stone is show by the fact that the materia prima of the stone was sometimes represented as the two interlaced triangles of “Solomon’s seal”. . . . the sign of the “fiery water”, since it consists of a combination of two symbols: that of fire, which rises upward and hence is symbolised by the upward pointing triangle, and that of water, which descends from the sky and is represented by the downward pointing triangle. The old midrashic interpretation of the Hebrew word for heaven, shamayim, namely that it is a combination of the words esh, fire, and mayim, water, was known by the alchemists.[^30]</p>
+<p>The close association between Solomon and the philosopher’s stone is show by the fact that the materia prima of the stone was sometimes represented as the two interlaced triangles of “Solomon’s seal”. . . . the sign of the “fiery water”, since it consists of a combination of two symbols: that of fire, which rises upward and hence is symbolised by the upward pointing triangle, and that of water, which descends from the sky and is represented by the downward pointing triangle. The old midrashic interpretation of the Hebrew word for heaven, <em>shamayim</em>, namely that it is a combination of the words esh, fire, and <em>mayim</em>, water, was known by the alchemists.<sup class="footnote-ref"><a href="#fn14" id="fnref14">[14]</a></sup></p>
 </blockquote>
 <p>Recognition of the coherence between the doctrines of alchemy and the Kabbalah appears in a Jewish sixteenth-century treatise entitled <em>Esh M’Saref</em> (The Refiner’s Fire):</p>
 <blockquote>
-<p>But know that the mysteries of this wisdom (i.e., alchemy) do not differ from the supernal mysteries of the Kabbalah. For just as there is a reflection of predicaments in sanctity, so there is also impurity. And the sefirot which are in <em>Assilut</em> (the first kabbalistic world) . . . are also in <em>‘Asiya</em> (the fourth kabbalistic world of matter) . . . yea, even int hat kingdom which is commonly called Minerals, although on the supernal plane their excellence is always greater . . . Gehazi, the servant of Elisha, is of the type of the vulgar students of nature who set about contemplating the valleys and profundities of nature, but do not descend into its secrets, wherefore they labour in vain and remain servants forever. They give counsel about procuring the son of the wise, whose generation is impossible for nature. (2 Kings 4:14). But they can contribute nothing to his generation. . . .[^31]</p>
+<p>But know that the mysteries of this wisdom (i.e., alchemy) do not differ from the supernal mysteries of the Kabbalah. For just as there is a reflection of predicaments in sanctity, so there is also impurity. And the sefirot which are in <em>Assilut</em> (the first kabbalistic world)... are also in <em>‘Assiya</em> (the fourth kabbalistic world of matter)... yea, even int hat kingdom which is commonly called Minerals, although on the supernal plane their excellence is always greater... Gehazi, the servant of Elisha, is of the type of the vulgar students of nature who set about contemplating the valleys and profundities of nature, but do not descend into its secrets, wherefore they labour in vain and remain servants forever. They give counsel about procuring the son of the wise, whose generation is impossible for nature. (2 Kings 4:14). But they can contribute nothing to his generation. . . .<sup class="footnote-ref"><a href="#fn15" id="fnref15">[15]</a></sup></p>
 </blockquote>
-<p>The great secret shared by both the Kabbalah and alchemy is that which I have termed the secret doctrine of the son, that “son of the wise, whose generation is impossible for nature,” and who unites the essential qualities of the higher and lower planes, of the infinite and the finite....</p>
+<p>The great secret shared by both the Kabbalah and alchemy is that which I have termed the secret doctrine of the son, that “son of the wise, whose generation is impossible for nature,” and who unites the essential qualities of the higher and lower planes, of the infinite and the finite...</p>
 <p>In the Maria Hebraea of the second or third century C.E. Alexandria, we may see a union of Hebrew esoteric teachings with some seed elements of an Egyption Hermentic practice of metallurgy that bore the new ideological fruit of alchemical formulation.</p>
-<p>But at the same time in Palestime there was a parallel theoretical development that showed a similar concern with the opposing qualities of fire and water and so with the possible employment of the hexagram to symbolise their union. This is the most important text of Hebraic sacred science, the <em>Sefer Yetzirah</em>, in which the fire is correlated with the mother letter <em>Shin</em> and the head, water with the mother letter <em>Mem</em> and the abdomen, and the air, which mediates between these opposed elements and their upper and lower location, is correlated with the letter <em>Aleph</em> and the chest. As in alchemy, though differently, this text defines the process of generation the cosmic man. Given that in the latter alchemical tradition, the circumstances of upper fire and lower water betoken the model of the hexagram, referent to the hexagram in the Sefer Yetzirah, concerned as they both are with the same sacred scientific quest to study those features of theoretical or technological science whose precise process appear to reveal the structure and purpose of existence. One difference between these teachings, however, is that Maria Hebraea synthesises Hebraic sacred science with some early developments of metallurgy in Egypt while in the <em>Sefer Yetzirah</em> Hebraic sacred science is synthesised with the Pythagorian sacred science of Greece. But the most important point to be made is that somewhere between the second and third centuries C.E. there was a separate flowering of Hebraic sacred science both in post-Temple Palestine and diaspora Alexandria whose similarities would seem to imply the same source.</p>
-<p>The source is most likely to be the members of the priesthood deprofessionalised after the destruction of the Temple, who would have become private teachers of what must have been a long tradition of Temple sacred science. And one feature of this ancient science that appears to have surfaced alike in the teachings of Maria Hebraea and the <em>Sefer Yetzirah</em> is a peculiar join definition of fire above and water below, which in the later alchemical tradition was identified with the figure of the hexagram and given a Hebrew origin in the names by which it was known, Solomon’s seal and the Shield of David. As with the discovery of Troy just where Homer had claimed it to be, so it seems reasonable to conclude from the long association of the hexagram with Hebrew kings that his geometric figure was, indeed, a particular aspect of the Jewish esoteric tradition going back at least to the Temple priesthood. . . . It is appropriate at this point to review the method by which the hexagram is geometrically constructed. As will be seen, it is a method that recreates the primal acts of creation as they are defined from these very geometric processes in the esoteric traditions that have a geometric base.</p>
+<p>But at the same time in Palestime there was a parallel theoretical development that showed a similar concern with the opposing qualities of fire and water and so with the possible employment of the hexagram to symbolise their union. This is the most important text of Hebraic sacred science, the <em>Sefer Yetzirah</em>, in which the fire is correlated with the mother letter <em>Shin</em> and the head, water with the mother letter <em>Mem</em> and the abdomen, and the air, which mediates between these opposed elements and their upper and lower location, is correlated with the letter <em>Aleph</em> and the chest. As in alchemy, though differently, this text defines the process of generation the cosmic man. Given that in the latter alchemical tradition, the circumstances of upper fire and lower water betoken the model of the hexagram, referent to the hexagram in the <em>Sefer Yetzirah</em>, concerned as they both are with the same sacred scientific quest to study those features of theoretical or technological science whose precise process appear to reveal the structure and purpose of existence. One difference between these teachings, however, is that Maria Hebraea synthesises Hebraic sacred science with some early developments of metallurgy in Egypt while in the <em>Sefer Yetzirah</em> Hebraic sacred science is synthesised with the Pythagorian sacred science of Greece. But the most important point to be made is that somewhere between the second and third centuries C.E. there was a separate flowering of Hebraic sacred science both in post-Temple Palestine and diaspora Alexandria whose similarities would seem to imply the same source.</p>
+<p>The source is most likely to be the members of the priesthood deprofessionalised after the destruction of the Temple, who would have become private teachers of what must have been a long tradition of Temple sacred science. And one feature of this ancient science that appears to have surfaced alike in the teachings of Maria Hebraea and the <em>Sefer Yetzirah</em> is a peculiar join definition of fire above and water below, which in the later alchemical tradition was identified with the figure of the hexagram and given a Hebrew origin in the names by which it was known, Solomon’s seal and the Shield of David. As with the discovery of Troy just where Homer had claimed it to be, so it seems reasonable to conclude from the long association of the hexagram with Hebrew kings that his geometric figure was, indeed, a particular aspect of the Jewish esoteric tradition going back at least to the Temple priesthood... It is appropriate at this point to review the method by which the hexagram is geometrically constructed. As will be seen, it is a method that recreates the primal acts of creation as they are defined from these very geometric processes in the esoteric traditions that have a geometric base.</p>
 <h2 id="footnotes" tabindex="-1">Footnotes <a class="direct-link" href="#footnotes" aria-hidden="true">#</a></h2>
-<p>[^16]: See John Michell, <em>City of Revelation</em> (New York: David McKay, 1972), p. 55.<br>
-[^17]: See &quot;Magen David&quot;, in <em>Encyclopedia Judaica</em> and Sholem, <em>Kabbalah</em>, pp. 362-368.<br>
-[^18]: See Scholem, <em>Kabbalah</em>, p. 363<br>
-[^19]: Gershom, Scholem, &quot;The Star of David: History of a Symbol,&quot; <em>The Messianic Idea in Judaism and Other Essays on Jewish Spirituality</em> (New York: Schocken Books, 1978), p. 259.<br>
-[^20]: Ibid., p. 264.<br>
-[^21]: Ibid., p. 266.<br>
-[^23]: Raphael Patai, <em>The Jewish Alchemists</em> (Princeton: Princeton University Press, 1995), p. 60.<br>
-[^24]: Ibid., pp. 66, 67, 68.<br>
-[^25]: Ibid., p. 66.<br>
-[^26]: For my comprehensive text-based history of this doctrine, see <em>The Secret Doctrine of the Kabbalah</em>, particularly pp. 30-73.<br>
-[^27]: Patai, <em>The Jewish Alchemists</em>, p. 69.<br>
-[^28]: Ibid., p. 140.<br>
-[^29]: Ibid., p. 127.<br>
-[^30]: Ibid., p. 28. See also Scholem, &quot;The Star of David,&quot; p. 271.<br>
-[^31]: Patai, <em>The Jewish Alchemists</em>, pp. 323, 324.</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>See John Michell, <em>City of Revelation</em> (New York: David McKay, 1972), p. 55. <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>See &quot;Magen David&quot;, in <em>Encyclopedia Judaica</em> and Sholem, <em>Kabbalah</em>, pp. 362-368. <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn3" class="footnote-item"><p>See Scholem, <em>Kabbalah</em>, p. 363 <a href="#fnref3" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn4" class="footnote-item"><p>Gershom, Scholem, &quot;The Star of David: History of a Symbol,&quot; <em>The Messianic Idea in Judaism and Other Essays on Jewish Spirituality</em> (New York: Schocken Books, 1978), p. 259. <a href="#fnref4" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn5" class="footnote-item"><p>Ibid., p. 264. <a href="#fnref5" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn6" class="footnote-item"><p>Ibid., p. 266. <a href="#fnref6" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn7" class="footnote-item"><p>Raphael Patai, <em>The Jewish Alchemists</em> (Princeton: Princeton University Press, 1995), p. 60. <a href="#fnref7" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn8" class="footnote-item"><p>Ibid., pp. 66, 67, 68. <a href="#fnref8" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn9" class="footnote-item"><p>Ibid., p. 66. <a href="#fnref9" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn10" class="footnote-item"><p>For my comprehensive text-based history of this doctrine, see <em>The Secret Doctrine of the Kabbalah</em>, particularly pp. 30-73. <a href="#fnref10" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn11" class="footnote-item"><p>Patai, <em>The Jewish Alchemists</em>, p. 69. <a href="#fnref11" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn12" class="footnote-item"><p>Ibid., p. 140. <a href="#fnref12" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn13" class="footnote-item"><p>Ibid., p. 127. <a href="#fnref13" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn14" class="footnote-item"><p>Ibid., p. 28. See also Scholem, &quot;The Star of David,&quot; p. 271. <a href="#fnref14" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn15" class="footnote-item"><p>Patai, <em>The Jewish Alchemists</em>, pp. 323, 324. <a href="#fnref15" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
 
-<hr>
-<ul><li>Next: <a href="/posts/tolnet/sustainable/">Sustainable</a></li><li>Previous: <a href="/posts/alchemy/">Mary the Prophetess</a></li>
-</ul>
+    </div>
+    <hr>
+    <ul><li>Next: <a href="/posts/tolnet/sustainable/">Sustainable</a></li><li>Previous: <a href="/posts/qkab/original_beauty/">Doctrine of Original Beauty</a></li>
+    </ul>
+  </div>
+</div>
+      </main>
+    </div>
+  
+    <!--footer -->
+        <footer class="site-footer">
+      <div
+        class="
+          navbar
+          is-fixed-bottom
+          maxwidth
+          is-white
+          has-text-centered
+          is-vcentered
+          footer-deco
+        "
+      >
+        <div class="column">&copy; 2021</div>
+      </div>
+    </footer>
 
-    </main>
 
-    <footer></footer>
+    <!-- Javascript (at end of document) -->
+    <script src="/js/bulma-burger-vue.js"></script>
 
     <!-- Current page: /posts/qkab/universal_kabbalah/maria/ -->
   </body>

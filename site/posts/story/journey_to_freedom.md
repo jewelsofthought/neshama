@@ -1,10 +1,9 @@
 ---
-title: Good & Evil
-description: New story
+title: Journey to Freedom
+description: Story
 date: 2021-08-31T00:00:00.000Z
-tags:
-  - journey_to_freedom
-modified: 2021-10-24T06:54:33.625Z
+tags: null
+modified: 2021-11-28T17:48:34.172Z
 ---
 
 1. [Good & Evil](#good--evil)

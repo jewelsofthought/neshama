@@ -1,10 +1,9 @@
 ---
 title: Tree of Life Network (ToLNET) TAE
 description: TAE Questionnaire
-tags:
-  - tae
+tags: null
 date: 2020-03-21T16:00:00.000Z
-modified: 2021-10-30T22:15:22.481Z
+modified: 2021-11-28T15:59:39.508Z
 ---
 
 1. [Tree of Life Network (ToLNET) TAE](#tree-of-life-network-tolnet-tae)
@@ -46,8 +45,8 @@ modified: 2021-10-30T22:15:22.481Z
    32. [Truthful](#truthful)
    33. [4 Noble TruthsNo stealing, no lying.](#4-noble-truthsno-stealing-no-lying)
    34. [Principles:](#principles)
-   35. [Purpose:](#purpose)
-   36. [Goal:](#goal)
+   35. [Purpose](#purpose)
+   36. [Goal](#goal)
    37. [1 million](#1-million)
    38. [The Tree](#the-tree)
    39. [One sentence statement:](#one-sentence-statement)
@@ -139,7 +138,7 @@ These communities are connected by affinities, forming a connected web. Within t
 
 > This is what the Jihadist movements offer the people - an alternative way of life. Not that most of them want the to live under repressive Islamic regimes, but they prefer that to the Christian, capatalist way of life. The freedoms that the Western Civilizations offer, are less appealing than the constraints that the Islamic way of life imposes. In the West, we would of course believe that it is imposed on them by the authorotarian patriarchal adherents to the religion, but that is convenient and fits into the correct narrative - from the perspective of the Western mind. However, by the same token, the Islamic adherents could respond with the same analysis of what is occurring in what believes it is the "freest country in the world, a beacon of freedom to all the oppressed of the world", the USA.
 
-The beauty of this present time is that we don’t have to design it – it already exists and is widely manifest in all the big IT arena (Google, FB, etc)[cloud.html] - what we call the Cloud - we just have to adapt it to our use. The technology would be the same technology. It is just those who wield it whose [intentions and goals](finite_games.html) will be different.
+The beauty of this present time is that we don’t have to design it – it already exists and is widely manifest in all the big IT arena [Google, FB, etc](cloud.html) - what we call the Cloud - we just have to adapt it to our use. The technology would be the same technology. It is just those who wield it whose [intentions and goals](finite_games.html) will be different.
 
 What I will mention, is that the web is formed from the people who are members of the [network](networks.html). It can manifest any structure of connectivity that they wish to.
 
@@ -165,7 +164,7 @@ What do I know about this concept?
 5. Economics:
    As a tree requires sap to live, so this tree will require currency - to evaluate interactions - that are the sap of our lives, and to flourish.
 6. Network structure:
-   A form of this structure exists in almost all organisations. As a graph, it is a generalisation of all organisational structure - similar to a [wave](waves.html). What I wish to create is the structure on which this can express itself. This is, in fact, just an example of the way all social movements and in fact, all effective social constructs have organised themselves throughout the ages. All brotherhoods, guilds and ruling elites.
+   A form of this structure exists in almost all organisations. As a graph, it is a generalisation of all organisational structure - similar to a [wave](/qkab/waves.md). What I wish to create is the structure on which this can express itself. This is, in fact, just an example of the way all social movements and in fact, all effective social constructs have organised themselves throughout the ages. All brotherhoods, guilds and ruling elites.
 7. Benefits/SpinOffs:
    Once the network manifests, there will be many spin-offs - just as we saw with the internet, and its spawn, the Web. It is about clearing and prepping the ground for the seeds to be planted, creating fertile ground for other expressions of the paradigm shift to emerge. It will be a space for projects, structures and applications.
 8. Organic:

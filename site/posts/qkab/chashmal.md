@@ -1,21 +1,22 @@
 ---
-title: _Chashmal_/Electricity
+title: Chashmal/Electricity
 description: 3d entities, thus above is 4d and below 3d.
 tags:
   - chashmal
   - energy
 date: 2021-10-08T13:45:30.693Z
-modified: 2021-10-20T17:34:21.994Z
+modified: 2021-11-17T18:24:19.796Z
 ---
 
-1. [_Chashmal_/Electricity](#chashmalelectricity)
+1. [Chashmal/Electricity](#chashmalelectricity)
 2. [Water](#water)
-3. [Shabbat](#shabbat)
+3. [Shabbat (Judaism)](#shabbat-judaism)
 4. [Energy is energy - good or bad](#energy-is-energy---good-or-bad)
+5. [Zero Waste (Energy)](#zero-waste-energy)
 
-## _Chashmal_/Electricity
+## Chashmal/Electricity
 
-> Electricity is the portal to the next stage of humanities evolution.
+> Electricity has opened the portal to the next stage of humanity's evolution.
 
 What if we look at _chashmal_ as the full electro-magnetic spectrum and beyond?
 
@@ -29,7 +30,7 @@ No one thought to stop and the doorway and ask "What is it?". Because we were st
 
 So onward intrepid explorers, armed with your electrically powered machines, and let us see what we can do... Well, we live in the [outcome](intention.html). I am old, but, if you are young, you have to live with outcome of your ancestors creations.
 
-## Shabbat
+## Shabbat (Judaism)
 
 What if the decision to associate _chashmal_ with fire, and impose all the same criterion to its usage as was associated with fire in the religion?
 
@@ -54,3 +55,7 @@ Energy is energy, whether good or bad, positive or negative, replenishing or dim
 _Chashmal_, electricity, as fire, is both and bad. To the universe, there is no difference – though to God there might be. Thus both are equal in the universal scheme of things – though the outcomes might be different.
 
 Perhaps it is a rallying call, a guiding beacon calling us, challenging us to “manifest” the upper in the lower, and thus transform the lower.
+
+## Zero Waste (Energy)
+
+If the synergy is perfectly in sync, then there is **zero waste**, as all inputs will be used and all outputs nourish something in the chain of life [differentiate between local & global in/outputs] (like the [Oroborus](oroborus.html)). Similar to the _manna_ given to the Son of Israel while they were wandering in the desert - which produced no waste as it was spiritual food.

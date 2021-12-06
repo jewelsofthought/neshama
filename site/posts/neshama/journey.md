@@ -1,9 +1,9 @@
 ---
 title: Hero's Journey
 description: We begin on the inside...
-date: 2021-08-21T16:00:00.000Z
 tags: null
-modified: 2021-09-23T17:10:04.967Z
+date: 2021-11-14T17:34:43.129Z
+modified: 2021-11-16T17:20:11.884Z
 ---
 
 1. [Hero’s Journey](#heros-journey)
@@ -11,9 +11,9 @@ modified: 2021-09-23T17:10:04.967Z
 
 ## Hero’s Journey -> see (Journey)[../tolnet/organisations.md#our-journey]
 
-We begin on the inside, awakening to consciousness, slowly gaining awareness the world around us. As time goes by, we reach a level of cognition from and of our environment, and its topology. Our journey actually begins at this stage, and it might take many years, but the portal is an awareness of the other AND the effect we are having on the world around us. The end of the journey is of-course unattainable – and this is to be fully conscious of our world, both inner and outer, and the effect we have upon it. Then beings the hero’s journey into the inner reaches of your own self – what we call the soul, the Nefesh - that which I am in the world around me. But that is not the cause, not the first cause, and you begin to understand that as you head deeper into the reaches of your inner being. where you encounter forgiveness and responsibility. That you are responsible for what is happening in your life, and you also need to be responsible for what has happened in your life. You need to forgive yourself for what you have done that was not true to your inner purpose and will – as in _“Thy will be done, in heaven as on earth”_.
+We begin on the inside, awakening to consciousness, slowly gaining awareness the world around us. As time goes by, we reach a level of cognition from and of our environment, and its topology. Our journey actually begins at this stage, and it might take many years, but the portal is an awareness of the other AND the effect we are having on the world around us. The end of the journey is of-course unattainable – and this is to be fully conscious of our world, both inner and outer, and the effect we have upon it. Then beings the hero’s journey into the inner reaches of your own self – what we call the soul, the _Nefesh_ - that which I am in the world around me. But that is not the cause, not the first cause, and you begin to understand that as you head deeper into the reaches of your inner being. where you encounter forgiveness and responsibility. That you are responsible for what is happening in your life, and you also need to be responsible for what has happened in your life. You need to forgive yourself for what you have done that was not true to your inner purpose and will – as in _“Thy will be done, in heaven as on earth”_.
 
-Then, perhaps, you will be allowed into the next room in the palace. This is the place of the higher soul or spirit – Ruach, as if you have reached the throne room, where you encounter the breath (voice?) of the Divine, the all-powerful King of the Universe. It is then that you begin to experience awe and deep understanding of how it is all connected and full of spirit. Finally, you may be gifted with a glimpse of the Holy of Holiest, until you have realised that we are all part of a purpose that is so beyond purpose that it leaves you breathless.
+Then, perhaps, you will be allowed into the next room in the palace. This is the place of the higher soul or spirit – _Ruach_, as if you have reached the throne room, where you encounter the breath (voice?) of the Divine, the all-powerful King of the Universe. It is then that you begin to experience awe and deep understanding of how it is all connected and full of spirit. Finally, you may be gifted with a glimpse of the Holy of Holiest, until you have realised that we are all part of a purpose that is so beyond purpose that it leaves you breathless.
 
 ## The Template
 
@@ -27,7 +27,7 @@ We eat to feed the body. Food cannot feed the soul. It is our relationship with 
 
 The way we step into the physical reality that we exist in, is by commitment. For commitments define the lines upon which our structures are founded. Commitments used to be made with the spoken word. In the days when all a man had was his reputation which relied on his words – as much as his actions, we called it oaths and vows. In fact creation begins with words “And he said... let there be light.”
 
-Once we have commitment, (the framework)[tol-framework.html] can be built, which we have named “The Tree of Life Network. The covenant we are asked to accept is one of life – to nourish, protect, sustain all life. The commitment that you make is to the task of building a peaceful global nation, in which the majority of its population are living comfortably.
+Once we have commitment, [the framework](../tol-framework.html) can be built, which we have named “The Tree of Life Network. The covenant we are asked to accept is one of life – to nourish, protect, sustain all life. The commitment that you make is to the task of building a peaceful global nation, in which the majority of its population are living comfortably.
 
 The first task we need to perform is the calling. This is to make a connection with others who share our world view - one in which we believe that every relationship is sacred.
 

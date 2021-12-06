@@ -1,10 +1,9 @@
 ---
-title: Letters & Symbols
+title: Hebrew Letters
 description: Symbols of creation
-tags:
-  - hebrew
+tags: null
 date: 2021-10-08T13:53:47.281Z
-modified: 2021-10-08T15:12:50.668Z
+modified: 2021-11-28T16:07:39.545Z
 ---
 
 Is not:
@@ -23,6 +22,6 @@ Is not:
 - Every object, everything that exists in the Universe is a manifestation of **Divine Desire**.
 - Dimensions = **Realities**
   - separated by different relationship with Time.
-- We are consciousnessly aware of being **conscious**
+- We are aware of being **conscious**
   - Speculum
   - self-reflective

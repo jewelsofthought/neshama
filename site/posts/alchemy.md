@@ -1,19 +1,18 @@
 ---
-title: Mary the Prophetess
+title: Alchemy
 description: A famous ancient alchemist, perhaps the first known.
 url: https://www.sacred-texts.com/alc/index.htm
 tags:
   - universal_kabbalah
   - external
-  - null
+  - alchemy
 date: 2021-10-26T04:53:28.291Z
-modified: 2021-11-01T13:57:39.747Z
+modified: 2021-11-08T15:57:13.676Z
 ---
 
 1. [Mary the Prophetess](#mary-the-prophetess)
    1. [The practise of Mary the Prophetess in the Alchemical Art.](#the-practise-of-mary-the-prophetess-in-the-alchemical-art)
-   2. [An Alchemical Mass](#an-alchemical-mass)
-   3. [On the Philadelphian Gold](#on-the-philadelphian-gold)
+   2. [On the Philadelphian Gold](#on-the-philadelphian-gold)
 2. [Tract on the Tincture and Oil of Antimony by Roger Bacon](#tract-on-the-tincture-and-oil-of-antimony-by-roger-bacon)
    1. [Preface](#preface)
    2. [AND NOW WE PROCEED TO THE MANUAL LABOUR, AND THUS THE PRACTICA FOLLOWS.](#and-now-we-proceed-to-the-manual-labour-and-thus-the-practica-follows)
@@ -104,7 +103,7 @@ modified: 2021-11-01T13:57:39.747Z
 4. [THE COELUM PHILOSOPHORUM, OR BOOK OF VEXATIONS](#the-coelum-philosophorum-or-book-of-vexations)
    1. [THE PREFACE OF THEOPHRASTUS PARACELSUS TO ALL ALCHEMISTS AND READERS OF THIS BOOK.](#the-preface-of-theophrastus-paracelsus-to-all-alchemists-and-readers-of-this-book)
    2. [PART I: THE SEVEN CANONS OF THE METALS.](#part-i-the-seven-canons-of-the-metals)
-      1. [THE FIRST CANON: CONCERNING THE NATURE AND PROPERTIES OF MERCURY.](#the-first-canon-concerning-the-nature-and-properties-of-mercury2)
+      1. [THE FIRST CANON: CONCERNING THE NATURE AND PROPERTIES OF MERCURY.[^2]](#the-first-canon-concerning-the-nature-and-properties-of-mercury2)
       2. [THE SECOND CANON: CONCERNING THE NATURE AND PROPERTIES OF JUPITER.](#the-second-canon-concerning-the-nature-and-properties-of-jupiter)
       3. [THE THIRD CANON: CONCERNING MARS AND HIS PROPERTIES.](#the-third-canon-concerning-mars-and-his-properties)
       4. [THE FOURTH CANON: CONCERNING VENUS AND ITS PROPERTIES.](#the-fourth-canon-concerning-venus-and-its-properties)
@@ -148,7 +147,7 @@ modified: 2021-11-01T13:57:39.747Z
    9. [CHAPTER IX: CONCERNING THOSE WHO HAVE SOUGHT THE STONE IN MINERALS.](#chapter-ix-concerning-those-who-have-sought-the-stone-in-minerals)
    10. [CHAPTER X: CONCERNING THOSE WHO HAVE SOUGHT THE STONE AND ALSO PARTICULARS IN MINERALS.](#chapter-x-concerning-those-who-have-sought-the-stone-and-also-particulars-in-minerals)
    11. [CHAPTER XI: CONCERNING THE TRUE AND PERFECT SPECIAL ARCANUM OF ARSENIC FOR THE WHITE TINCTURE.](#chapter-xi-concerning-the-true-and-perfect-special-arcanum-of-arsenic-for-the-white-tincture)
-   12. [CHAPTER XII: GENERAL INSTRUCTION CONCERNING THE ARCANUM OF VITRIOL AND THE RED TINCTURE TO BE EXTRACTED FROM IT.](#chapter-xii-general-instruction-concerning-the-arcanum-of-vitriol-and-the-red-tincture-to-be-extracted-from-it36)
+   12. [CHAPTER XII: GENERAL INSTRUCTION CONCERNING THE ARCANUM OF VITRIOL AND THE RED TINCTURE TO BE EXTRACTED FROM IT.[^36]](#chapter-xii-general-instruction-concerning-the-arcanum-of-vitriol-and-the-red-tincture-to-be-extracted-from-it36)
    13. [CHAPTER XIII: SPECIAL INSTRUCTION CONCERNING THE PROCESS OF VITRIOL FOR THE RED TINCTURE.](#chapter-xiii-special-instruction-concerning-the-process-of-vitriol-for-the-red-tincture)
    14. [CHAPTER XIV: CONCERNING THE SECRETS AND ARCANA OF ANTIMONY, FOR THE RED TINCTURE, WITH A VIEW TO TRANSMUTATION.](#chapter-xiv-concerning-the-secrets-and-arcana-of-antimony-for-the-red-tincture-with-a-view-to-transmutation)
    15. [CHAPTER XV: CONCERNING THE PROJECTION TO BE MADE BY THE MYSTERY AND ARCANUM OF ANTIMONY.](#chapter-xv-concerning-the-projection-to-be-made-by-the-mystery-and-arcanum-of-antimony)

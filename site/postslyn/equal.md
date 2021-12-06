@@ -1,11 +1,13 @@
 ---
-title: TAE Questionnaire
-description: TAE Questionnaire
-date: 2020-10-21T16:00:00.000Z
+title: Compete
+description: Compete wisely
 tags:
   - lyn
-  - equal
+date: 2020-10-21T16:00:00.000Z
+modified: 2021-11-28T16:05:00.992Z
 ---
+
+## Compete
 
 You cannot compete with the man - not in his territory, where he is strong. You have to lead him into the spaces that you (f) are powerful.
 

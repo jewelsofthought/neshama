@@ -5,47 +5,164 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sustainable</title>
     <meta name="description" content="Sustainable is unattainable, unless we work as a corporeation.">
+    
     <link rel="stylesheet" href="/css/index.css">
-    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/fontawesome.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/katex.min.css">
+    
+
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Neshamah">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Neshamah">
+    <script src="/js/vue.min.js"></script>
+
   </head>
   <body>
+    <!--header -->
     <header>
-      <h1 class="home"><a href="/">Neshamah</a></h1>
-      <ul class="nav">
-        <li class="nav-item"><a href="/">Home</a></li>
-        <li class="nav-item"><a href="/posts/">Archive</a></li>
-        <li class="nav-item"><a href="/about/">About Me</a></li>
-      </ul>
+        <!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="/img/logo-gear.png" alt="Home" />
+         Neshamah
+      </a>
+      <a class="navbar-item" href="/">
+        Blog
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/">
+            <span class="fa fa-tags"></span>&nbsp;By Tags
+          </a>
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+          </a>
+        </div>
+      </div>
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/about/">
+          About
+        </a>
+      </div>
+      <div class="navbar-end">
+        <form class="is-marginless" action="/posts/search/" method="get">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
     </header>
 
-    <main class="tmpl-post">
+    <!--content -->
+    <div class="columns is 8 layout-base maxwidth">
+      <main role="main" class="content tmpl-post">
+        <div class="column blog-column box-deco has-background-white">
 
-      <h1>Sustainable</h1>
+  <div class="blog-post">
+    <section class="box">
+      <div class="main_title">
+        <h4 class="title is-4 blog-post-title" itemprop="name headline">
+        <a href="#">Sustainable</a>
 
-<time datetime="2021-10-07">07 Oct 2021</time><a href="/tags/tolnet/" class="post-tag">tolnet</a>
-	<h3>Description:</h3>
-	<p>Sustainable is unattainable, unless we work as a corporeation.</p>
+    <div class="is-clearfix"></div>
 
+    <div class="is-pulled-left">
+      <span class="meta-time tag is-light is-small">
+        <time datetime="2021-10-07">07 Oct 2021</time>
+      </span>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/tol/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          tol
+        </span>
+      </a>
+      &nbsp;
+    </div>
+
+    <div class="is-clearfix"></div>
+      <h3>Description:</h3>
+      <p>Sustainable is unattainable, unless we work as a corporeation.</p>
+    <div class="main-content">
+      <ol>
+<li><a href="#what-is-sustainable">What is sustainable?</a></li>
+<li></li>
+</ol>
 <h2 id="what-is-sustainable" tabindex="-1">What is sustainable? <a class="direct-link" href="#what-is-sustainable" aria-hidden="true">#</a></h2>
 <p>Can an individual be truly sovereign? In order to be sovereign, one has to have no dependencies on anything or anyone else. In other words, one would have to be completely self-sustaining&quot;. That is perhaps an interesting definition of G-d! It is patently obvious that nothing in existence is truly sovereign. The only possibility is that that which is or contains everything, would, in fact, by definition be self-sovereign.</p>
 <blockquote>
-<p>We need the proper air to breathe. That air has to be &quot;produced&quot;. We need water to live. That water has to &quot;sustained&quot; else we die. We need food for nourishment. When hungry, we will eat anything. A hungry man is an angry man. Worse, is to eat toxic food - for then the person becomes toxic, and that can manifest in many If food is not made from food that is grown from the earth, would it not essentially be classified as a drug? And as such should be monitored? If a chemical agent is added to something that is imbibed, is it not essentially a drug? The active elements in the growing plants, from quinine to psilyciban, are not the same drugs - though the active element they contain might be chemically the same <a href="../alchemy.md">extracting the &quot;spirit&quot; of the plant</a>] and should not be labelled as drugs. Drugs are manufactured elelements that affect our environment chemically. All the active elements found in plants need to be taken in the context/spirit in which they have grown. All drugs are best taken in isolation. (In fact there is little information on the effects of multiple drugs) ]</p>
+<p>We need the proper air to breathe. That air has to be &quot;produced&quot;. We need water to live. That water has to &quot;sustained&quot; else we die. We need food for nourishment. When hungry, we will eat anything. A hungry man is an angry man. Worse, is to eat toxic food - for then the person becomes toxic, and that can manifest in many If food is not made from food that is grown from the earth, would it not essentially be classified as a drug? And as such should be monitored? If a chemical agent is added to something that is imbibed, is it not essentially a drug? The active elements in the growing plants, from quinine to psilocybin, are not the same drugs - though the active element they contain might be chemically the same <a href="/posts/alchemy/">extracting the &quot;spirit&quot; of the plant</a> and should not be labelled as drugs. Drugs are manufactured elements that affect our environment chemically. All the active elements found in plants need to be taken in the context/spirit in which they have grown. All drugs are best taken in isolation. (In fact there is little information on the effects of multiple drugs) ]</p>
 </blockquote>
 <p>Every other living thing is dependent on its environment for its continued existence. Just as every single human being is dependent on countless unnamed, unknown, invisible people who have enabled the environment in which we live. We awaken in this garden. Yes, it has its dangers - after all, the bane of all life is death. And death is the bonded sister of life. For the truth is, there can be no life without death. And those who believe they can cheat death, die - within or without - and often become dealers in death themselves. Let us say, in the beginning it might be just a pastime, but as death approaches, it will eventually become an obsession. It is perhaps the existential question that is being asked in these time: Are we more powerful than G-d? Can we &quot;cheat&quot; (I am sure they prefer the word &quot;overcome) death and achieve eternal life - thus becoming like G-ds! Truly having the power of life and death over mere mortals!</p>
-<p>Overcoming death means that your focus is death - that is why you become a death dealer. It proportes to run under the banner of life. But it will ask the questions of &quot;Why do we die? Is there something we can tweak to slow or stop this process?&quot; This is the classic mechanistic approach. As if we are essentially machines, and thus if you improve the material... We have even upped it a notch. Perhaps if we tweak the defense system, we will improve the overall longitivity of the entity under investigation. Unfortunately, that entity is us.</p>
+<p>Overcoming death means that your focus is death - that is why you become a death dealer. It properties to run under the banner of life. But it will ask the questions of &quot;Why do we die? Is there something we can tweak to slow or stop this process?&quot; This is the classic mechanistic approach. As if we are essentially machines, and thus if you improve the material... We have even upped it a notch. Perhaps if we tweak the defence system, we will improve the overall longevity of the entity under investigation. Unfortunately, that entity is us.</p>
 <p>Overcoming life means that your focus is life!</p>
-<p>Is it truly death that we wish to overcome? Is it not life that you would rather live? (light_dark.html) Is not the ideal to live a &quot;good&quot; life - in all senses of the word? So would it not make sense to build communities around living a wholesome life? Andinstead of beginning at the top - as long as you believe in .... G-d, or money, or family, or... and start in the real empirical world. In the world of Assiyah, of Doing, this Kingdom of G-d, the world we live in (and the only one we know). If a person (young or old, man or woman) eats &quot;well&quot; - and by well I mean healthily (local, organic, seasonal food) - he has more chance of growing up hale and hearty - unless G-d has other plans. Because we know (besides the science, it is also simple common sense) that if you eat toxic food, it will make you toxic and sick. Thus how can we live in a society that justifies the manufacture of toxic food - or at least has toxins in it! How can we continue to live a life in which we are turning our water - the very life blood of our existence - toxic?</p>
+<p>Is it truly <a href="light_dark.html">death</a> that we wish to overcome? Is it not life that you would rather live? Is not the ideal to live a &quot;good&quot; life - in all senses of the word? So would it not make sense to build communities around living a wholesome life? And instead of beginning at the top - as long as you believe in .... G-d, or money, or family, or... and start in the real empirical world. In the world of <em>Assiyah</em>, of Doing, this Kingdom of G-d, the world we live in (and the only one we know). If a person (young or old, man or woman) eats &quot;well&quot; - and by well I mean healthily (local, organic, seasonal food) - he has more chance of growing up hale and hearty - unless G-d has other plans. Because we know (besides the science, it is also simple common sense) that if you eat toxic food, it will make you toxic and sick. Thus how can we live in a society that justifies the manufacture of toxic food - or at least has toxins in it! How can we continue to live a life in which we are turning our water - the very life blood of our existence - toxic?</p>
 <p>Our vaunted cities are rat infested cesspools with patches of shiny veneers. Is it because we cannot look at ourselves in the mirror of what we have created for ourselves and recognise ourselves in the reflection of what we see around us. Can we not see the trees because of the thickness of the forest? We as a collective sit at this point of radical re-evaluation - just as all adults have passed through - where we need to take responsibility for our own lives. No mama, no pappa to bail you out. You are know the &quot;adult&quot;. This is &quot;our&quot; creation - this that we are in. Do we continue to barrel on doing the same things and expecting a different result? Or do we decide to begin to do things differently? And what is that difference? Let us gather under the Banner of Life. Let us work together to build a way for us to sustain and support our lives.</p>
 
-<hr>
-<ul><li>Next: <a href="/posts/qkab/math-numbers/line/">Line</a></li><li>Previous: <a href="/posts/qkab/universal_kabbalah/maria/">Universal Kabbalah</a></li>
-</ul>
+    </div>
+    <hr>
+    <ul><li>Next: <a href="/posts/qkab/math/line/">Line</a></li><li>Previous: <a href="/posts/qkab/universal_kabbalah/maria/">Maria - the Prophetess</a></li>
+    </ul>
+  </div>
+</div>
+      </main>
+    </div>
+  
+    <!--footer -->
+        <footer class="site-footer">
+      <div
+        class="
+          navbar
+          is-fixed-bottom
+          maxwidth
+          is-white
+          has-text-centered
+          is-vcentered
+          footer-deco
+        "
+      >
+        <div class="column">&copy; 2021</div>
+      </div>
+    </footer>
 
-    </main>
 
-    <footer></footer>
+    <!-- Javascript (at end of document) -->
+    <script src="/js/bulma-burger-vue.js"></script>
 
     <!-- Current page: /posts/tolnet/sustainable/ -->
   </body>

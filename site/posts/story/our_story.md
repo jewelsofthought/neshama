@@ -4,13 +4,12 @@ description: Written by a Kabbalist
 date: 2021-09-03T00:00:00.000Z
 tags:
   - mekubalim
-  - seed
-modified: 2021-11-02T13:23:28.024Z
+modified: 2021-11-08T16:26:11.821Z
 ---
 
-1. [Mekubalim (Story)](#mekubalim-story)
+1. [The Mekubalim](#the-mekubalim)
 
-## Mekubalim (Story)
+## The Mekubalim
 
 We are the living messengers of an ancient race of _Mekubalim_. We are the receivers, and now we come to deliver our message. It matters not to us whether you hear us and act accordingly or not. For we will continue, as the when we have nothing to receive and our awaiting our next task, we watch, and thus are known as the _Neshemot_ or Watchers. For many centuries much of our knowledge was hidden, and transmitted in secret to a select few. As it is said, "Speak of the Secrets to one who is learned in all the texts, but never reveal to two". With the advent of the written word, and much of the knowledge was written down, as the principle of Truth reigns supreme, and both can never lie. Thus the truth will always hide in plain sight. So it was with the messengers of the _Mekubalim_, and those who had been trained to read the codes, knew how the disguises were formed, and how to navigate the pathways that our people had placed for us. Thus we could recognise one another just by the way a certain phrase was uttered, or a sentence interpreted. It was like the dancing bears, or the "four-twenty friendly" of the Grateful Dead entourage. During this time, and in various guises our wisdom permeated various cultures, and geographical areas, and laid seeds that would sprout when the environment was conducive to its emergence. Again and again we have called to you. Sometimes in small groups, sometimes in nation states comprising hundreds of millions of people. In this time, and in this place, we begin to transmit once again.
 

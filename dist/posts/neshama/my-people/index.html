@@ -5,42 +5,163 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My dear people</title>
     <meta name="description" content="The people of Israel have embraced the new order with a voraciousness that is scary...">
+    
     <link rel="stylesheet" href="/css/index.css">
-    <link rel="stylesheet" href="/css/prism-base16-monokai.dark.css">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/fontawesome.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/katex.min.css">
+    
+
     <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Neshamah">
     <link rel="alternate" href="/feed/feed.json" type="application/json" title="Neshamah">
+    <script src="/js/vue.min.js"></script>
+
   </head>
   <body>
+    <!--header -->
     <header>
-      <h1 class="home"><a href="/">Neshamah</a></h1>
-      <ul class="nav">
-        <li class="nav-item"><a href="/">Home</a></li>
-        <li class="nav-item"><a href="/posts/">Archive</a></li>
-        <li class="nav-item"><a href="/about/">About Me</a></li>
-      </ul>
+        <!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="/img/logo-gear.png" alt="Home" />
+         Neshamah
+      </a>
+      <a class="navbar-item" href="/">
+        Blog
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/">
+            <span class="fa fa-tags"></span>&nbsp;By Tags
+          </a>
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+          </a>
+        </div>
+      </div>
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/about/">
+          About
+        </a>
+      </div>
+      <div class="navbar-end">
+        <form class="is-marginless" action="/posts/search/" method="get">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
     </header>
 
-    <main class="tmpl-post">
+    <!--content -->
+    <div class="columns is 8 layout-base maxwidth">
+      <main role="main" class="content tmpl-post">
+        <div class="column blog-column box-deco has-background-white">
 
-      <h1>My dear people</h1>
+  <div class="blog-post">
+    <section class="box">
+      <div class="main_title">
+        <h4 class="title is-4 blog-post-title" itemprop="name headline">
+        <a href="#">My dear people</a>
 
-<time datetime="2021-08-04">04 Aug 2021</time><a href="/tags/neshama/" class="post-tag">neshama</a><a href="/tags/tolnet/" class="post-tag">tolnet</a>
-	<h3>Description:</h3>
-	<p>The people of Israel have embraced the new order with a voraciousness that is scary...</p>
+    <div class="is-clearfix"></div>
 
-<h2 id="science-will-save-us!" tabindex="-1">Science will save us! <a class="direct-link" href="#science-will-save-us!" aria-hidden="true">#</a></h2>
+    <div class="is-pulled-left">
+      <span class="meta-time tag is-light is-small">
+        <time datetime="2021-08-04">04 Aug 2021</time>
+      </span>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/neshama/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          neshama
+        </span>
+      </a>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/tolnet/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          tolnet
+        </span>
+      </a>
+      &nbsp;
+    </div>
+
+    <div class="is-clearfix"></div>
+      <h3>Description:</h3>
+      <p>The people of Israel have embraced the new order with a voraciousness that is scary...</p>
+    <div class="main-content">
+      <h2 id="science-will-save-us!" tabindex="-1">Science will save us! <a class="direct-link" href="#science-will-save-us!" aria-hidden="true">#</a></h2>
 <p>The sheep, without a shepherd, wandering in the wilderness.<br>
 You thought the ancient teachings were no longer relevant. That we were beyond slavery. We survived the holocaust. Six million had perished, and we had flourished. If we could survive that, we could survive anything. In addition, we bred our offspring to embrace the brave cry of &quot;Never again!&quot;. And in our pride, we abandoned the old ways, and embraced the new.</p>
 <p>Science would save us. We could see into the furthest reaches of the universe, and imagine things unimaginable. We had opened the very womb of nature, and could mess with her offspring. We were like gods - of so we thought. Forgetting that this &quot;reality&quot; that we live in was here long before any of us were even a thought, and will be around long after we have been forgotten for many aeons.</p>
 <p>Yes, my children, let us not acknowledge that their might - nay there has to be - a Creator of some nature. Somehow all this that we live and experience fell into place, and we are the conscious result of that. And you can convince yourself that it is an &quot;accident&quot; of .... nature - a nature that is itself a product of this very creation that we are exploring.</p>
 
-<hr>
-<ul><li>Next: <a href="/posts/book_gift/bg002 - The Beginning/">In the beginning...</a></li><li>Previous: <a href="/posts/neshama/Nagarjuna &amp; Quantum Physics/">Nagarjuna and Quantum Physics.</a></li>
-</ul>
+    </div>
+    <hr>
+    <ul><li>Next: <a href="/posts/book_gift/bg002 - The Beginning/">The Beginning (moved)</a></li><li>Previous: <a href="/posts/book_gift/bg001 - The Source/">HaShem</a></li>
+    </ul>
+  </div>
+</div>
+      </main>
+    </div>
+  
+    <!--footer -->
+        <footer class="site-footer">
+      <div
+        class="
+          navbar
+          is-fixed-bottom
+          maxwidth
+          is-white
+          has-text-centered
+          is-vcentered
+          footer-deco
+        "
+      >
+        <div class="column">&copy; 2021</div>
+      </div>
+    </footer>
 
-    </main>
 
-    <footer></footer>
+    <!-- Javascript (at end of document) -->
+    <script src="/js/bulma-burger-vue.js"></script>
 
     <!-- Current page: /posts/neshama/my-people/ -->
   </body>
