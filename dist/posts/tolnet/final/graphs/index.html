@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graphs</title>
+    <meta name="description" content="Graph definitions">
+    
+    <link rel="stylesheet" href="/css/index.css">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/fontawesome.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/katex.min.css">
+    
+
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Neshamah">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Neshamah">
+    <script src="/js/vue.min.js"></script>
+
+  </head>
+  <body>
+    <!--header -->
+    <header>
+        <!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="/img/logo-gear.png" alt="Home" />
+         Neshamah
+      </a>
+      <a class="navbar-item" href="/">
+        Blog
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/">
+            <span class="fa fa-tags"></span>&nbsp;By Tags
+          </a>
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+          </a>
+        </div>
+      </div>
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/about/">
+          About
+        </a>
+      </div>
+      <div class="navbar-end">
+        <form class="is-marginless" action="/posts/search/" method="get">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
+    </header>
+
+    <!--content -->
+    <div class="columns is 8 layout-base maxwidth">
+      <main role="main" class="content tmpl-post">
+        <div class="column blog-column box-deco has-background-white">
+
+  <div class="blog-post">
+    <section class="box">
+      <div class="main_title">
+        <h4 class="title is-4 blog-post-title" itemprop="name headline">
+        <a href="#">Graphs</a>
+
+    <div class="is-clearfix"></div>
+
+    <div class="is-pulled-left">
+      <span class="meta-time tag is-light is-small">
+        <time datetime="2021-12-02">02 Dec 2021</time>
+      </span>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/tol/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          tol
+        </span>
+      </a>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/final/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          final
+        </span>
+      </a>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/external/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          external
+        </span>
+      </a>
+      &nbsp;
+    </div>
+
+    <div class="is-clearfix"></div>
+      <h3>Description:</h3>
+      <p>Graph definitions</p>
+    <div class="main-content">
+      <h2 id="graph" tabindex="-1">Graph <a class="direct-link" href="#graph" aria-hidden="true">#</a></h2>
+<pre><code>  Graphs consist of vertices (or nodes) connected by edges.
+</code></pre>
+<p>Formally, a graph is denoted as a pair <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>G</mi><mo stretchy="false">(</mo><mi>V</mi><mo separator="true">,</mo><mi>E</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">G(V, E)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">G</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mclose">)</span></span></span></span>.</p>
+<p>Where <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>V</mi></mrow><annotation encoding="application/x-tex">V</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span></span></span></span> represents the finite set vertices and <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>E</mi></mrow><annotation encoding="application/x-tex">E</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span></span></span></span> represents the finite set edges.</p>
+<p><img src="/posts/img/tol/g01-3%20node%20graph.png" alt="3-Cycle graph"><br>
+<em>A basic graph of <strong>3 cycle</strong></em></p>
+<pre><code>(In the figure above, the vertices are the numbered circles, and the edges join the vertices.)
+</code></pre>
+<h2 id="properties-of-graph" tabindex="-1">Properties of Graph <a class="direct-link" href="#properties-of-graph" aria-hidden="true">#</a></h2>
+<ul>
+<li>The starting point of the network is known as <strong>root</strong>.</li>
+<li>When the same types of nodes are connected to one another, then the graph is known as an <strong>assortative</strong> graph.</li>
+<li>A <strong>cycle graph</strong> is said to be a graph that has a single cycle.</li>
+<li>When all the pairs of nodes are connected by a single edge it forms a <strong>complete</strong> graph.</li>
+<li>A graph is said to be in <strong>symmetry</strong> when each pair of vertices or nodes are connected in the same direction or in the reverse direction.<br>
+When a graph has a single graph, it is a path graph.</li>
+</ul>
+<h2 id="non-trivial-graph" tabindex="-1">Non-trivial graph <a class="direct-link" href="#non-trivial-graph" aria-hidden="true">#</a></h2>
+<ul>
+<li>A non-trivial graph consists of one or more vertices (or nodes) connected by edges.</li>
+<li>The <strong>degree</strong> of a vertex is the number of edges connected to that vertex.</li>
+<li>A graph in which it is possible to reach any vertex by traversing the edges from one vertex to another is said to be <strong>connected</strong>.</li>
+<li>The set of edges used (not necessarily distinct) is called a <strong>path</strong> between the given vertices.</li>
+</ul>
+<p><img src="/posts/img/tol/g02-connected%20graph.png" alt="Connected graph"></p>
+<blockquote>
+<p>In the graph above, vertex AA is of degree 3, while vertices BB and CC are of degree 2. Vertex DD is of degree 1, and vertex EE is of degree 0.</p>
+</blockquote>
+<h2 id="eulerian-graph" tabindex="-1">Eulerian graph <a class="direct-link" href="#eulerian-graph" aria-hidden="true">#</a></h2>
+<ul>
+<li>
+<p>all of the edges are visited exactly once in a single path, known as an <strong>Eulerian path</strong>.</p>
+<pre><code>   Theorem: A Eulerian graph has at most two vertices of odd degree.
+</code></pre>
+</li>
+</ul>
+<p>An analogous type of graph is the <strong>Hamiltonian path</strong>, one in which it is possible to traverse the graph by visiting each vertex exactly once.</p>
+<h2 id="planar-graph" tabindex="-1">Planar graph <a class="direct-link" href="#planar-graph" aria-hidden="true">#</a></h2>
+<p>A graph is said to be planar if it can be drawn on a flat plane without any of the edges crossing. If so, one can define a face of the graph as any region bounded by edges and containing no edges on the interior.</p>
+<p><strong>Euler's Formula</strong></p>
+<p>Suppose a planar graph has VV vertices, FF faces, and EE edges. Then</p>
+<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>V</mi><mo>−</mo><mi>E</mi><mo>+</mo><mi>F</mi><mo>=</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">V − E + F = 2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span></span></span></span><br>
+<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>V</mi><mo>−</mo><mi>E</mi><mo>+</mo><mi>F</mi><mo>=</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">V − E + F =2</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal" style="margin-right:0.22222em;">V</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.7667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal" style="margin-right:0.05764em;">E</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.13889em;">F</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.6444em;"></span><span class="mord">2</span></span></span></span></p>
+<h2 id="trees-degree-and-cycle-of-graph" tabindex="-1">Trees, Degree and Cycle of Graph <a class="direct-link" href="#trees-degree-and-cycle-of-graph" aria-hidden="true">#</a></h2>
+<h3 id="trees:" tabindex="-1">Trees: <a class="direct-link" href="#trees:" aria-hidden="true">#</a></h3>
+<p>A <strong>tree</strong> in a graph is the connection between undirected networks which have only one path between any two vertices. The graph trees have only straight lines between the nodes in any specific direction but have no cycles or loops. Therefore trees are a directed graph.</p>
+<p><strong>Degree</strong>: A degree is the number of edges connected to a vertex. It is denoted deg(v), where v is a vertex of the graph. It is the measure of the vertex.</p>
+<p><strong>Cycle</strong>: A cycle is a closed path in a graph that forms a loop. When the starting and ending point is the same in a graph that contains a set of vertices, then the cycle is formed. When there is no repetition of the vertex in a closed circuit, then the cycle is a simple cycle. The cycle graph is denoted by Cn.</p>
+
+    </div>
+    <hr>
+    <ul><li>Previous: <a href="/posts/tolnet/shaunwilliams/Intro-L1/">Lecture 1 - Matter and Energy</a></li>
+    </ul>
+  </div>
+</div>
+      </main>
+    </div>
+  
+    <!--footer -->
+        <footer class="site-footer">
+      <div
+        class="
+          navbar
+          is-fixed-bottom
+          maxwidth
+          is-white
+          has-text-centered
+          is-vcentered
+          footer-deco
+        "
+      >
+        <div class="column">&copy; 2021</div>
+      </div>
+    </footer>
+
+
+    <!-- Javascript (at end of document) -->
+    <script src="/js/bulma-burger-vue.js"></script>
+
+    <!-- Current page: /posts/tolnet/final/graphs/ -->
+  </body>
+</html>

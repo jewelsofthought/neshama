@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Membership</title>
+    <meta name="description" content="Membership options">
+    
+    <link rel="stylesheet" href="/css/index.css">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/fontawesome.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/katex.min.css">
+    
+
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Neshamah">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Neshamah">
+    <script src="/js/vue.min.js"></script>
+
+  </head>
+  <body>
+    <!--header -->
+    <header>
+        <!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="/img/logo-gear.png" alt="Home" />
+         Neshamah
+      </a>
+      <a class="navbar-item" href="/">
+        Blog
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/">
+            <span class="fa fa-tags"></span>&nbsp;By Tags
+          </a>
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+          </a>
+        </div>
+      </div>
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/about/">
+          About
+        </a>
+      </div>
+      <div class="navbar-end">
+        <form class="is-marginless" action="/posts/search/" method="get">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
+    </header>
+
+    <!--content -->
+    <div class="columns is 8 layout-base maxwidth">
+      <main role="main" class="content tmpl-post">
+        <div class="column blog-column box-deco has-background-white">
+
+  <div class="blog-post">
+    <section class="box">
+      <div class="main_title">
+        <h4 class="title is-4 blog-post-title" itemprop="name headline">
+        <a href="#">Membership</a>
+
+    <div class="is-clearfix"></div>
+
+    <div class="is-pulled-left">
+      <span class="meta-time tag is-light is-small">
+        <time datetime="2021-12-01">01 Dec 2021</time>
+      </span>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/tol/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          tol
+        </span>
+      </a>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/final/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          final
+        </span>
+      </a>
+      &nbsp;
+    </div>
+
+    <div class="is-clearfix"></div>
+      <h3>Description:</h3>
+      <p>Membership options</p>
+    <div class="main-content">
+      <ol>
+<li><a href="#membership">Membership</a>
+<ol>
+<li><a href="#full-membership">Full Membership</a></li>
+<li><a href="#support-membership">Support membership</a></li>
+</ol>
+</li>
+<li><a href="#associate-member">Associate Member</a></li>
+</ol>
+<h2 id="membership" tabindex="-1">Membership <a class="direct-link" href="#membership" aria-hidden="true">#</a></h2>
+<p>There are three levels of connection to the network (or four, if we include disconnected).</p>
+<h3 id="full-membership" tabindex="-1">Full Membership <a class="direct-link" href="#full-membership" aria-hidden="true">#</a></h3>
+<p>The first is to be full member, having joined a community in whatever form that has taken, and become a full-time member of the community – which means that your daily bread is provided by the community and you have changed your lifestyle to live in the constraints and freedom of one of the network communities.</p>
+<h3 id="support-membership" tabindex="-1">Support membership <a class="direct-link" href="#support-membership" aria-hidden="true">#</a></h3>
+<p>There are those who cannot commit to this lifestyle but wish to support it until they can become full members. They will actively or passively support the network, paying their dues, some even providing energy and others, support to the network.<br>
+Once the person has become a supporting member of the community, some percentage of his earnings that stem from the community itself will return to the community. If the portion that is returned to the community is less than the stipulated amount, then a certain amount will be extracted for services rendered by the community.</p>
+<h2 id="associate-member" tabindex="-1">Associate Member <a class="direct-link" href="#associate-member" aria-hidden="true">#</a></h2>
+<p>The third is someone who is only wishing to do business or receive some service, education or service that the network offers. This person can join as an associate member, and then has access to a limited amount of the benefits of the network. His participation would be on a voluntary basis. There would be some benefits, such as being a preferred trading partner, etc. The requirement would be for him to be connected to the tree, and to adhere to the basic charter of the network in all his dealings with it.</p>
+<p>If someone or some concern has only an associate membership with the network but uses it for marketing and for earning of private profit, then % of that profit will be granted to the network itself.</p>
+<p>No one may sell on the network without adhering to the principles ensconced in the charter dealing with transactions. If a business is granted associate status – which means that it abides by the ToL business charter – it will provide the agreed upon percentage of its transactional earnings to the network itself. If the source of the product is the network itself, all the earnings will go to the network.</p>
+
+    </div>
+    <hr>
+    <ul><li>Next: <a href="/posts/tolnet/final/09-economics/">Economics</a></li><li>Previous: <a href="/posts/tolnet/final/08-identity/">Identity</a></li>
+    </ul>
+  </div>
+</div>
+      </main>
+    </div>
+  
+    <!--footer -->
+        <footer class="site-footer">
+      <div
+        class="
+          navbar
+          is-fixed-bottom
+          maxwidth
+          is-white
+          has-text-centered
+          is-vcentered
+          footer-deco
+        "
+      >
+        <div class="column">&copy; 2021</div>
+      </div>
+    </footer>
+
+
+    <!-- Javascript (at end of document) -->
+    <script src="/js/bulma-burger-vue.js"></script>
+
+    <!-- Current page: /posts/tolnet/final/10-membership/ -->
+  </body>
+</html>

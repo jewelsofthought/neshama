@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lecture 1 - Matter and Energy</title>
+    <meta name="description" content="Exploring the soul">
+    
+    <link rel="stylesheet" href="/css/index.css">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/fontawesome.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/katex.min.css">
+    
+
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Neshamah">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Neshamah">
+    <script src="/js/vue.min.js"></script>
+
+  </head>
+  <body>
+    <!--header -->
+    <header>
+        <!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="/img/logo-gear.png" alt="Home" />
+         Neshamah
+      </a>
+      <a class="navbar-item" href="/">
+        Blog
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/">
+            <span class="fa fa-tags"></span>&nbsp;By Tags
+          </a>
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+          </a>
+        </div>
+      </div>
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/about/">
+          About
+        </a>
+      </div>
+      <div class="navbar-end">
+        <form class="is-marginless" action="/posts/search/" method="get">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
+    </header>
+
+    <!--content -->
+    <div class="columns is 8 layout-base maxwidth">
+      <main role="main" class="content tmpl-post">
+        <div class="column blog-column box-deco has-background-white">
+
+  <div class="blog-post">
+    <section class="box">
+      <div class="main_title">
+        <h4 class="title is-4 blog-post-title" itemprop="name headline">
+        <a href="#">Lecture 1 - Matter and Energy</a>
+
+    <div class="is-clearfix"></div>
+
+    <div class="is-pulled-left">
+      <span class="meta-time tag is-light is-small">
+        <time datetime="2021-12-02">02 Dec 2021</time>
+      </span>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/tol/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          tol
+        </span>
+      </a>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/science/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          science
+        </span>
+      </a>
+      &nbsp;
+    </div>
+
+    <div class="is-clearfix"></div>
+    <div class="main-content">
+      <h2 id="matter-and-energy" tabindex="-1">Matter and Energy <a class="direct-link" href="#matter-and-energy" aria-hidden="true">#</a></h2>
+<ul>
+<li>
+<p><a href="http://shaunmwilliams.com/IntroChem/lecture1.html#slide-1">Matter</a>: anything that occupies space and has mass.<br>
+{space and mass undefined}</p>
+</li>
+<li>
+<p><a href="http://shaunmwilliams.com/IntroChem/lecture1.html#slide-5">Classification of Matter</a><br>
+{Graphite - only non-metal that conducts electricity}</p>
+</li>
+<li>
+<p><a href="http://shaunmwilliams.com/IntroChem/lecture1.html#slide-6">Representations of Matter</a></p>
+<ul>
+<li>Matter is composed of atoms
+<ul>
+<li>Atom is the name we give to the smallest unit of an element that retains the chemical properties of that element</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><a href="http://shaunmwilliams.com/IntroChem/lecture1.html#slide-17">Physical and Chemical Changes and Properties of Matter</a></p>
+</li>
+</ul>
+<p>Physical Properties of Matter</p>
+<ul>
+<li>are properties that can be observed without changing the composition of the substance</li>
+</ul>
+<p>Four common physical properties are:</p>
+<ul>
+<li>mass</li>
+<li>volume</li>
+<li>density</li>
+<li>temperature</li>
+</ul>
+<p>{ NOTE:<br>
+This is where I start diverging from this model. These are not the physical properties of matter. These are the measurable physical properties of matter that are of concern to us.</p>
+<p>However, as we shall see, density is the relationship of mass to volume. So why do we need the last two? Surely it would be enough to speak of the density of the matter in hand, and then divide it up into mass and volume, which are like brother and sister. Because the one measures the &quot;dense enough to be 'measured/perceived', and the other the space that the matter with a particular mass occupies. If it is dense, there will be not much space, and if it is gaseous, there will be much more space.</p>
+<p>Finally, I ask the question whether temperature is an innate characteristic of the matter in question, or whether it is just a measure of deviance? And if <a href="http://shaunmwilliams.com/IntroChem/lecture1.html#slide-25">energy is the capacity to transfer heat</a>, is not the temperature of the item a measure of the heat that it is containing, or, perhaps, the energy that one has &quot;absorbed&quot;.<br>
+}</p>
+<ul>
+<li>
+<p><a href="http://shaunmwilliams.com/IntroChem/lecture1.html#slide-25">Energy and Energy Change</a></p>
+</li>
+<li>
+<p>What is Energy?</p>
+</li>
+</ul>
+<p>Energy is the capacity to do work or to transfer heat</p>
+<p>Two main forms of energy are:</p>
+<ul>
+<li>Kinetic energy: the energy of motion</li>
+<li>Potential energy: energy possessed by an object because of its position</li>
+</ul>
+<p>{ NOTE:<br>
+Mass as energy at &quot;rest&quot;, or in a stasis. This &quot;mass event&quot; can possibly contain excess energy, which will be express by the transfer of energy by or from the mass.<br>
+}</p>
+<ul>
+<li><a href="http://shaunmwilliams.com/IntroChem/lecture1.html#slide-27">Energy Units</a></li>
+</ul>
+<p>Units for energy are calories or joules</p>
+<blockquote>
+<p>$4.184J = 1 cal$</p>
+</blockquote>
+<ul>
+<li>A calorie is the amount of energy required to raise 1g of water by 1<sup>o</sup>C</li>
+</ul>
+
+    </div>
+    <hr>
+    <ul><li>Next: <a href="/posts/tolnet/final/graphs/">Graphs</a></li><li>Previous: <a href="/posts/tolnet/shaunwilliams/Intro-L2/">Lecture 2 - Atoms</a></li>
+    </ul>
+  </div>
+</div>
+      </main>
+    </div>
+  
+    <!--footer -->
+        <footer class="site-footer">
+      <div
+        class="
+          navbar
+          is-fixed-bottom
+          maxwidth
+          is-white
+          has-text-centered
+          is-vcentered
+          footer-deco
+        "
+      >
+        <div class="column">&copy; 2021</div>
+      </div>
+    </footer>
+
+
+    <!-- Javascript (at end of document) -->
+    <script src="/js/bulma-burger-vue.js"></script>
+
+    <!-- Current page: /posts/tolnet/shaunwilliams/Intro-L1/ -->
+  </body>
+</html>

@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Polar &amp; Cartesian Co-ordinates</title>
+    <meta name="description" content="Exploring the soul">
+    
+    <link rel="stylesheet" href="/css/index.css">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/fontawesome.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/css/katex.min.css">
+    
+
+    <link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="Neshamah">
+    <link rel="alternate" href="/feed/feed.json" type="application/json" title="Neshamah">
+    <script src="/js/vue.min.js"></script>
+
+  </head>
+  <body>
+    <!--header -->
+    <header>
+        <!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="#">
+        <img src="/img/logo-gear.png" alt="Home" />
+         Neshamah
+      </a>
+      <a class="navbar-item" href="/">
+        Blog
+      </a>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">
+          Archives
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/">
+            <span class="fa fa-tags"></span>&nbsp;By Tags
+          </a>
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+          </a>
+        </div>
+      </div>
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="/about/">
+          About
+        </a>
+      </div>
+      <div class="navbar-end">
+        <form class="is-marginless" action="/posts/search/" method="get">
+        <div class="navbar-item">
+          <input class="" type="text" name="q"
+            placeholder="Search..." aria-label="Search">
+          &nbsp;
+          <button class="button is-light" 
+            type="submit">Search</button>
+        </div>
+        </form>
+      </div>
+    </div>
+  </nav>
+
+
+    </header>
+
+    <!--content -->
+    <div class="columns is 8 layout-base maxwidth">
+      <main role="main" class="content tmpl-post">
+        <div class="column blog-column box-deco has-background-white">
+
+  <div class="blog-post">
+    <section class="box">
+      <div class="main_title">
+        <h4 class="title is-4 blog-post-title" itemprop="name headline">
+        <a href="#">Polar &amp; Cartesian Co-ordinates</a>
+
+    <div class="is-clearfix"></div>
+
+    <div class="is-pulled-left">
+      <span class="meta-time tag is-light is-small">
+        <time datetime="2021-11-21">21 Nov 2021</time>
+      </span>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/qkab/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          qkab
+        </span>
+      </a>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/math/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          math
+        </span>
+      </a>
+      &nbsp;
+    </div><div class="is-pulled-right">
+      <a href="/tags/external/">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>
+          external
+        </span>
+      </a>
+      &nbsp;
+    </div>
+
+    <div class="is-clearfix"></div>
+    <div class="main-content">
+      <ol>
+<li><a href="#polar--cartesian-co-ordinates">Polar &amp; Cartesian Co-ordinates</a>
+<ol>
+<li><a href="#references">References</a></li>
+<li></li>
+</ol>
+</li>
+</ol>
+<h1 id="polar-and-cartesian-co-ordinates" tabindex="-1">Polar &amp; Cartesian Co-ordinates <a class="direct-link" href="#polar-and-cartesian-co-ordinates" aria-hidden="true">#</a></h1>
+<p>Mathematics and science were invented by humans to describe and understand the world around us. We live in a world that is defined by three spatial dimensions and one time dimension. Objects move within this domain in two ways. An object <a href="displacement.html">translates</a>, or changes <strong>location</strong>, from one point to another. And an object <a href="torque.html">rotates</a>, or changes its <strong>orientation</strong>. In general, the motion of an object involves both translations in all three directions and rotation about [three principle axes]. On this page we are going to simplify the discussion and neglect changes in time and one of the spatial dimensions. So we will only consider motion in a two-dimensional plane. At the bottom of the page we include some comments about extending these ideas to three dimensions.</p>
+<p>To describe the motion of an object, we need to locate the object relative to some reference location. We will call the reference location the <strong>origin</strong>. We need two pieces of information to describe the location because the plane is two dimensional. There are many ways to specify the location of a point $p$ relative to the origin. We will discuss two ways of making the determination.</p>
+<p>One way to specify the location of point $p$ is to define two perpendicular coordinate axes through the origin. Each axis is a number line, with a length increment selected along the line. On the figure, we have labelled these axes X and Y and the resulting coordinate system is called a <strong>rectangular</strong> or <strong>Cartesian</strong> coordinate system. To determine the location of point $p$ we measure out from the $Y$ axis, parallel to the $X$ axis, to obtain a distance $Xp$. And then we measure up from the $X$ axis, parallel to the $Y$ axis to obtain $Yp$. The pair of coordinates $(Xp$, $Yp)$ describe the location of point $p$ relative to the origin. The system is called <strong>rectangular</strong> because the angle formed by the axes at the origin is 90 degrees and the angle formed by the measurements at point $p$ is also 90 degrees. So the measurement forms a rectangle with sides $Xp$ and $Yp$. The system is called <strong>Cartesian</strong> because it was extensively used by the French mathematican Rene Descartes.</p>
+<p>Another way to specify the location of point $p$ would be to directly measure the distance $r$ between the origin and point $p$. But we need another piece of information. There are an infinite number of points that are a distance $r$ away from the origin. They form a circle around the origin with radius $r$. To specify the location of point $p$, we can pick a reference line that goes through the origin and measure the angle $theta$ formed by the reference line and a line going through point $p$. On the figure, we have made the reference line lie right along the Cartesian $X$ axis. The coordinate pair $(r, \theta)$ uniquely describe the location of point $p$. This set of coordinates is called a <strong>polar</strong> coordinate system. You will notice on the figure that the angular measurement $\theta$ crosses the radial measurement $r$ by forming a 90 degree angle at point $p$. So a polar coordinate system is said to be an <strong>orthogonal</strong> coordinate system, just like the rectangular system.</p>
+<p>The location of point $p$ relative to the origin is the same in any coordinate system. We just describe that location differently depending on the coordinate system we use. For the two orthogonal coordinate systems that we are considering, we can define functions that let us switch between the two descriptions. If we have determined the location of point p by the polar coordinate system $(r, \theta)$, we can find the rectangular coordinates $(Xp, Yp)$ by these equations:</p>
+<p>$Xp = r cos(\theta)$<br>
+$Yp = r sin(\theta)$</p>
+<p>Likewise, if we know the rectangular coordinates, we can determine the polar coordinates by these equations:</p>
+<p>$r = \sqrt (Xp^2 + Yp^2)$</p>
+<p>$\theta = tan^-1 (Yp / Xp)$<br>
+where function $tan^-1$ is the inverse tangent or <strong>arc tangent</strong> function.</p>
+<p>On this slide, for simplicity, we have developed the coordinate equations in only two dimensions which requires two coordinate axes. For aircraft and rocket motion, there are three spatial dimensions and therefore three coordinates required. For rectangular coordinates, we can simply add a third axis $Z$ that is perpendicular to both $X$ and $Y$. This addition produces a <strong>rectangular</strong> Cartesian coordinate system consisting of $X$, $Y$, and $Z$. For polar coordinates, there are several different possibilities for describing the third dimension. We could add another axis $Z$ that is perpendicular to the plane formed by $r$ and $\theta$. This addition produces a cylindrical coordinate system consisting of $r$, $Z$ and $\theta$. Or we could specify another angle $\phi$ that is perpendicular to the radius $r$ and the angle $\theta$. This addition produces a <strong>spherical</strong> coordinate system consisting of $r$, $theta$ and $phi$. There are conversion equations that let you switch between any of these coordinate systems.</p>
+<p>There is a whole branch of mathematics called <strong>tensor analysis</strong> that deals with the subject of coordinate systems and how to convert between various coordinate systems. This subject becomes very important when we get into the details of calculus and how the values of variables change within a given coordinate system. The choice of coordinate system is often dictated by the geometry of a particular problem. For example, the surface of a tube is more easily described by a cylindrical coordinate system than by a spherical or rectangular coordinate system. It can be done with any three dimensional coordinate system, but the geometry favors the cylindrical in this case.</p>
+<h2 id="references" tabindex="-1">References <a class="direct-link" href="#references" aria-hidden="true">#</a></h2>
+<ol>
+<li><a href="https://en.wikipedia.org/wiki/Polar_coordinate_system">Polar Coordinate System</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cartesian_coordinate_system">Rectangular Coordinate System</a></li>
+</ol>
+
+    </div>
+    <hr>
+    <ul><li>Next: <a href="/posts/neshama/bliss/">Bliss</a></li><li>Previous: <a href="/posts/evolution/">Evolution not revolution</a></li>
+    </ul>
+  </div>
+</div>
+      </main>
+    </div>
+  
+    <!--footer -->
+        <footer class="site-footer">
+      <div
+        class="
+          navbar
+          is-fixed-bottom
+          maxwidth
+          is-white
+          has-text-centered
+          is-vcentered
+          footer-deco
+        "
+      >
+        <div class="column">&copy; 2021</div>
+      </div>
+    </footer>
+
+
+    <!-- Javascript (at end of document) -->
+    <script src="/js/bulma-burger-vue.js"></script>
+
+    <!-- Current page: /posts/qkab/math/co-ords/ -->
+  </body>
+</html>

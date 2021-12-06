@@ -1,0 +1,25 @@
+
+<!-- header -->
+  <nav role="navigation" aria-label="main navigation"
+       class="navbar is-fixed-top is-white maxwidth header-deco"
+       id="navbar-vue-app">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="{{ '/' | url }}">
+        <img src="/img/logo-gear.png" alt="Home" />
+        {{ metadata.title }}
+      </a>
+            {%- for entry in collections.all | eleventyNavigation %}
+
+      <a class="navbar-item{% if entry.url == page.url %} has-text-weight-bold{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}
+      </a>
+            {%- endfor %}
+
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+  </nav>
