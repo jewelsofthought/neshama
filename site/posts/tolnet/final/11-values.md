@@ -3,22 +3,21 @@ title: Values
 description: Values
 tags: null
 date: 2021-12-01T18:39:50.132Z
-modified: 2021-12-04T16:53:36.771Z
+modified: 2021-12-06T19:49:09.341Z
 ---
 
 1. [Graphs and Networks](#graphs-and-networks)
 2. [Values](#values)
    1. [Unify](#unify)
-   2. [Collaborate](#collaborate)
-   3. [Trust](#trust)
-   4. [Connected](#connected)
-   5. [Polycentric vs. Centralised.](#polycentric-vs-centralised)
-   6. [Responsive vs. Absolutist.](#responsive-vs-absolutist)
-   7. [Transaction vs. Money based.](#transaction-vs-money-based)
-   8. [Freedom of choice vs. Controlled.](#freedom-of-choice-vs-controlled)
-   9. [Shared vs. Privatised.](#shared-vs-privatised)
-   10. [Empowered vs. Victim](#empowered-vs-victim)
-   11. [Control vs Facilitate](#control-vs-facilitate)
+   2. [Trust](#trust)
+   3. [Connected](#connected)
+   4. [Polycentric vs. Centralised.](#polycentric-vs-centralised)
+   5. [Responsive vs. Absolutist.](#responsive-vs-absolutist)
+   6. [Transaction vs. Money based.](#transaction-vs-money-based)
+   7. [Freedom of choice vs. Controlled.](#freedom-of-choice-vs-controlled)
+   8. [Shared vs. Privatised.](#shared-vs-privatised)
+   9. [Empowered vs. Victim](#empowered-vs-victim)
+   10. [Control vs Facilitate](#control-vs-facilitate)
 
 ## Graphs and Networks
 
@@ -40,11 +39,7 @@ Let us come together to support one another in sustaining our basic human needs,
 
 Globalisation cannot exist in a splintered world else it will become a larger version of that which exists at present, with the consequences just being more far-reaching. If any nation detonates a nuclear device, every one of us in the whole world will suffer the consequences.
 
-No part of the natural world lives in isolation. Seeds reach other lands borne on the winds that blow from one end of the earth to the other. Currents travel from one continent to another. The sun bathes all living creatures in its light. Only in the human world is there this separation built on social and cultural constructs. And it is destroying us!
-
-A leader needs people to follow - else he cannot lead, a king needs people over whom he rules, else he has no kingdom. You can choose a king from the people in whom you will put your faith and trust, or you can choose the King of the Universe, who rules over everything to put your trust in.
-
-### Collaborate
+No part of the natural world lives in isolation. Seeds reach other lands borne on the winds that blow from one end of the earth to the other. Currents travel from one continent to another. The sun bathes all living creatures in its light. Only in the human world is there this separation built on social and h1, h2, h3, h4, h5, h6
 
 > **Collaboration vs Competition**
 
@@ -57,6 +52,7 @@ For every “this” there is a “that”. These are on opposite ends of the sp
 
 The collaborative relationships speaks of the inherent connection between you and I, or between each and every human and living thing on this planet. It does not make victims, but rather speaks to the humanity that we all share, and the innate desires for a peaceful, and nourishing way of life.
 One could argue that every successful effort is collaborative.
+h1, h2, h3, h4, h5, h6
 
 ### Trust
 
