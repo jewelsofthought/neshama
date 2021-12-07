@@ -34,7 +34,7 @@ module.exports = function(eleventyConfig) {
   // Alias `layout: post` to `layout: layouts/post.njk`
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
-  // Add alphabetic sort filter 
+  // Add alphabetic sort filter (by title)
 	eleventyConfig.addFilter('sortByTitle', values => {
 		return values.slice().sort((a, b) => a.data.title.localeCompare(b.data.title))
 	});
@@ -78,7 +78,7 @@ module.exports = function(eleventyConfig) {
   });
 
   function filterTagList(tags) {
-    return (tags || []).filter(tag => ["all", "nav", "post", "posts", "neshama"].indexOf(tag) === -1);
+    return (tags || []).filter(tag => ["all", "nav", "post", "posts", "neshama"].indexOf(tag) === -1).sort();
   }
 
   eleventyConfig.addFilter("filterTagList", filterTagList)
