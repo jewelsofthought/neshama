@@ -3,7 +3,7 @@
   "version": "5.0.2",
   "description": "A repository of my writings - based on the 11t-blog model.",
   "scripts": {
-    "build": "env NODE_ENV=production npx eleventy --serve",
+    "build": "env NODE_ENV=production npx eleventy",
     "watch": "eleventy --watch",
     "debug": "DEBUG=Eleventy* eleventy",
     "start": "eleventy --serve"
