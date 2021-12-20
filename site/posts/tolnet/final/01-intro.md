@@ -2,8 +2,10 @@
 title: Tree of Life Network (ToLNet)
 description: Introduction to the Tree of Life Network
 tags: null
+nextURL: /posts/tolnet/final/02-design/
+nextTitle: Design of the Model
 date: 2020-01T16:11:18.886Z
-modified: 2021-12-08T14:10:12.464Z
+modified: 2021-12-19T19:05:21.600Z
 ---
 
 1. [Tree of Life Network (ToLNet)](#tree-of-life-network-tolnet)

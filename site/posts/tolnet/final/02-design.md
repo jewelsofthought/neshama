@@ -2,8 +2,12 @@
 title: Design of the Model
 description: Design
 tags: null
+nextURL: /posts/tolnet/final/03-connect/
+nextTitle: Stage 1 - Connect to the network
+prevURL: /posts/tolnet/final/01-connect/
+prevTitle: Tree of Life Network (ToLNet)
 date: 2021-01-01T16:28:20.635Z
-modified: 2021-12-08T14:10:34.186Z
+modified: 2021-12-19T19:41:56.756Z
 ---
 
 1. [Design of the model](#design-of-the-model)
