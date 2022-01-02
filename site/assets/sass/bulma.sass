@@ -1,5 +1,11 @@
-// dart-sass --watch -I sass sass/css:static/css/ --style=compressed --no-source-map
+// dart-sass --watch sass/bulma.sass:static/css/bulma.css
 
-@import "initial-variables"
-@import "vendors/bulma"
-@import "derived-variables"
+@charset "utf-8"
+@use "sass:math"
+/*! bulma.io v0.7.2 | MIT License | github.com/jgthms/bulma */
+@import "bulma/utilities/_all"
+@import "bulma/base/_all"
+@import "bulma/components/_all"
+@import "bulma/grid/_all"
+@import "bulma/layout/_all"
+@import "bulma/elements/_all"
