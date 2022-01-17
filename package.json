@@ -3,6 +3,7 @@
   "version": "5.0.2",
   "description": "A repository of my writings - based on the 11t-blog model.",
   "scripts": {
+    "sass": "sass -I node_modules/ --source-map ./site/assets/sass/main.sass ./dist/assets/css/main.css",
     "build": "env NODE_ENV=production npx eleventy",
     "watch": "eleventy --watch",
     "debug": "DEBUG=Eleventy* eleventy",
@@ -28,13 +29,17 @@
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.3",
     "bulma": "^0.9.0",
+    "katex": "^0.15.1",
     "luxon": "^1.26.0",
     "markdown-it": "^12.1.0",
     "markdown-it-anchor": "^8.1.2",
+    "markdown-it-attrs": "^4.1.0",
     "markdown-it-footnote": "^3.0.0",
-    "katex": "^0.15.1",
+    "markdown-it-toc-done-right": "^4.0.0",
     "node-sass": "^6.0.1"
   },
   "dependencies": {
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.45.0"
   }
 }

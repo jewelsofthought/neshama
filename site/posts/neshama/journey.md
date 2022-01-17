@@ -3,7 +3,7 @@ title: Hero's Journey
 description: We begin on the inside...
 tags: null
 date: 2021-11-14T17:34:43.129Z
-modified: 2021-11-16T17:20:11.884Z
+modified: 2022-01-16T14:37:39.424Z
 ---
 
 1. [Hero’s Journey](#heros-journey)
@@ -23,11 +23,11 @@ Why do I say that there is a template? Generally, each one of us has, within cer
 
 This is repeated, perhaps infinitely, out and in, above and below, large and small. Each atom is made from a template, which is quite well described nowadays. The galaxies are formed in similar ways, and gravity is gravity, however you interact with it. And we, and all of life, in fact, all of creation exist within the constraints of this template. That we cannot change. But we can be whatever we wish within the spaces of this template. That is the place of consciousness.
 
-We eat to feed the body. Food cannot feed the soul. It is our relationship with the food that will nourish the soul. Our “affinity” to it. Thus it is with everything that we interact act with. If we have a “soul-full” relationship with it, then it can satisfy the needs of our soul. If not , then it is available to feed [something else](sitra_achara.html) – like the banana peels, which you trash, that you throw out your car window. Where it goes we can speak of at another time, for that is not the topic under discussion, but that of creating the seeds of the web that we speak of as these are the heart spaces from which these seeds will come.
+We eat to feed the body. Food cannot feed the soul. It is our relationship with the food that will nourish the soul. Our “affinity” to it. Thus it is with everything that we interact act with. If we have a “soul-full” relationship with it, then it can satisfy the needs of our soul. If not , then it is available to feed {[something else](sitra_achara.html)} – like the banana peels, which you trash, that you throw out your car window. Where it goes we can speak of at another time, for that is not the topic under discussion, but that of creating the seeds of the web that we speak of as these are the heart spaces from which these seeds will come.
 
 The way we step into the physical reality that we exist in, is by commitment. For commitments define the lines upon which our structures are founded. Commitments used to be made with the spoken word. In the days when all a man had was his reputation which relied on his words – as much as his actions, we called it oaths and vows. In fact creation begins with words “And he said... let there be light.”
 
-Once we have commitment, [the framework](../tol-framework.html) can be built, which we have named “The Tree of Life Network. The covenant we are asked to accept is one of life – to nourish, protect, sustain all life. The commitment that you make is to the task of building a peaceful global nation, in which the majority of its population are living comfortably.
+Once we have commitment, {[the framework](../tol-framework.html)} can be built, which we have named “The Tree of Life Network. The covenant we are asked to accept is one of life – to nourish, protect, sustain all life. The commitment that you make is to the task of building a peaceful global nation, in which the majority of its population are living comfortably.
 
 The first task we need to perform is the calling. This is to make a connection with others who share our world view - one in which we believe that every relationship is sacred.
 

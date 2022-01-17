@@ -3,8 +3,8 @@ title: Intention & outcome
 description: Does intention affect outcome?
 date: 2021-09-23T09:10:26.630Z
 tags:
-  - tolnet
-modified: 2021-10-13T13:21:21.047Z
+  - tol
+modified: 2021-12-28T09:35:10.093Z
 ---
 
 1. [Intention/Outcome.](#intentionoutcome)

@@ -4,7 +4,14 @@ layout: layouts/home.njk
 ---
 <h1>Tags</h1>
 
-{% for tag in collections.tagList %}
+{% for tag in collections.tagList  %}
   {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+  <a href="{{ tagUrl | url }}"> <span class="tag is-light is-small">
+    <span class="fa fa-tag"></span>
+    &nbsp;
+    {{ tag }}
+    </span>
+  </a>
 {% endfor %}
+
+

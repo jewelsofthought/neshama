@@ -1,0 +1,63 @@
+/* copy-paste from message.sass */
+
+$panel-background-color: $background !default
+$panel-header-background-color: $text !default
+$panel-header-color: $text-invert !default
+
+$panel-header-padding: 0.75em 1em !default
+
+$panel-body-color: $text !default
+$panel-body-padding: 1.25em 1.5em !default
+
+
+$panel-header-body-border-width: 0 !default
+
+.panel
+  //@extend %block
+  background-color: $panel-background-color
+  font-size: $size-normal
+  strong
+    color: currentColor
+  a:not(.button):not(.tag)
+    color: $blue
+  border: 1px solid darken($light, 10%)
+  border-radius: $deco-radius
+  box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15)
+  &:hover,
+  &:focus
+    border: 1px solid darken($light, 20%)
+    box-shadow: 0 1rem 3rem rgba($black, .175)
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s
+  @each $name, $pair in $colors
+    $color: nth($pair, 1)
+    $color-invert: nth($pair, 2)
+    $color-lightning: max((100% - lightness($color)) - 2%, 0%)
+    $color-luminance: colorLuminance($color)
+    $darken-percentage: $color-luminance * 70%
+    $desaturate-percentage: $color-luminance * 30%
+    &.is-#{$name}
+      background-color: lighten($color, $color-lightning)
+      .panel-header
+        background-color: $color
+        color: $color-invert
+      .panel-body
+        border-color: $color
+        color: desaturate(darken($color, $darken-percentage), $desaturate-percentage)
+
+.panel-header
+  align-items: center
+  background-color: $panel-header-background-color
+  color: $panel-header-color
+  display: flex
+  justify-content: space-between
+  padding: $panel-header-padding
+  position: relative
+  border-top-left-radius: $deco-radius
+  border-top-right-radius: $deco-radius
+  border-bottom: 1px solid darken($light, 10%)
+
+.panel-body
+  color: $panel-body-color
+  padding: $panel-body-padding
+  border-bottom-left-radius: $deco-radius
+  border-bottom-right-radius: $deco-radius

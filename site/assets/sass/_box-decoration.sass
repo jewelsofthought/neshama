@@ -1,0 +1,57 @@
+/* copy-paste from box.sass */
+
+$box-color: $text !default
+
+/* decoration : border, shadow, rounded */
+
+$deco-radius: 10px
+
+.box-deco
+  border-radius: $deco-radius
+  color: $box-color
+  display: block
+
+a.box-deco
+  &:hover,
+  &:focus,
+  &:active
+    box-shadow: 0 1rem 3rem rgba($black, .175)
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s
+
+.box-deco
+  border: 1px solid darken($light, 10%)
+
+.header-deco,
+.footer-deco
+  border: 1px solid $dark
+
+.box-deco,
+.header-deco,
+.footer-deco
+  box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15)
+  &:hover,
+  &:focus
+    box-shadow: 0 1rem 3rem rgba($black, .175)
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s
+
+.box-deco
+  &:hover,
+  &:focus
+    border: 1px solid darken($light, 20%)
+
+.header-deco
+  border-bottom-left-radius: $deco-radius
+  border-bottom-right-radius: $deco-radius
+
+.footer-deco
+  border-top-left-radius: $deco-radius
+  border-top-right-radius: $deco-radius
+
+.blog-item
+  border-bottom: 1px solid $dark
+  box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15)
+  padding: 10px
+  &:hover,
+  &:focus
+    box-shadow: 0 1rem 3rem rgba($black, .175)
+    transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s

@@ -1,21 +1,21 @@
 {
   "title": "Neshamah",
-  "url": "https://neshama.com/",
+  "url": "https://blog.neshama.com/",
   "language": "en",
   "description": "Exploring the soul",
   "feed": {
     "subtitle": "A journey into the imaginarium.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://neshama.com/"
+    "id": "https://blog.neshama.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://neshama.com/feed/feed.json"
+    "url": "https://blog.neshama.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://neshama.com/about-me/"
+    "name": "Yehuda ben Aaron",
+    "email": "yehuda@neshama.com",
+    "url": "https://blog.neshama.com/about/"
   }
 }

@@ -4,12 +4,24 @@
        id="navbar-vue-app">
     <div class="navbar-brand">
       <a class="navbar-item" href="#">
-        <img src="/img/logo-gear.png" alt="Home" />
+        <img src="/assets/img/logo-gear.png" alt="Home" />
          {{ metadata.title }}
       </a>
-      <a class="navbar-item" href="{{ '/' | url }}">
-        Blog
+       <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
       </a>
+    </div>
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+        <a class="navbar-item" href="{{ '/' | url }}">
+          Blog
+        </a>
+      </div>
 
       <div class="navbar-item has-dropdown is-hoverable">
         <a class="navbar-link">
@@ -20,43 +32,104 @@
           <a class="navbar-item" href="/tags/">
             <span class="fa fa-tags"></span>&nbsp;By Tags
           </a>
-          <a class="navbar-item">
-            <span class="fa fa-folder"></span>&nbsp;By Category
+           <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;&nbsp;By Date
+          </a>
+          
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/tags/story/">
+            <span class="fa fa-file-image"></span>&nbsp;&nbsp;Stories
+          </a>
+         
+        </div>
+      </div>
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link" href="/tags/tol">
+          Tree of Life
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/final/">
+            <span class="fas fa-sitemap"></span>&nbsp;Final
+          </a>
+          <a class="navbar-item" href="/tags/info/">
+            <span class="fas fa-question-circle"></span>&nbsp;&nbsp;Information
           </a>
           <hr class="navbar-divider">
-          <a class="navbar-item" href="/posts/">
-            <span class="fa fa-calendar"></span>&nbsp;By Date
+          <a class="navbar-item" href="/tags/old/">
+            &nbsp;<span class="fas fa-file-invoice"></span>&nbsp;&nbsp;Old
+          </a>
+          <a class="navbar-item" href="/tags/order/">
+            <span class="fas fa-th"></span>&nbsp;Order
           </a>
         </div>
       </div>
 
-      <a role="button" class="navbar-burger burger" 
-         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
-         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link" href="/tags/qkab/">
+          Quantum Kabbalah
+        </a>
 
-    <div id="navbarBulma" class="navbar-menu"
-         v-bind:class="{'is-active': isOpen}">
-      <div class="navbar-start">
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/shaman/">
+           <i class="fa-solid fa-jedi"></i>&nbsp;Shaman
+          </a>
+          <a class="navbar-item" href="/tags/math/">
+            <span class="fas fa-wave-square"></span>&nbsp;Mathematics
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/tags/speculum/">
+            <span class="fas fa-infinity"></span>&nbsp;Speculum
+          </a>
+          
+          <a class="navbar-item" href="/tags/zornberg/">
+            <span class="fa fa-scroll-torah"></span>&nbsp;Torah
+          </a>
+        </div>
+      </div> 
+
+      <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link" href="/tags/neshama">
+          Neshamah
+        </a>
+
+        <div class="navbar-dropdown">
+          <a class="navbar-item" href="/tags/judaica/">
+            <span class="fas fa-star-of-david"></span>&nbsp;Judaica
+          </a>
+          <a class="navbar-item" href="/tags/new/">
+            <i class="fa-solid fa-circle-plus"></i>&nbsp;New
+          </a>
+        </div>
+      </div>
+
+     
+        <div class="navbar-item">
+        <a  class="navbar-link" href="/personal/">
+          Personal
+        </a>
+      </div>
+      <div class="navbar-end">
         <a class="navbar-item" href="/about/">
           About
         </a>
       </div>
+
+       <!--
       <div class="navbar-end">
         <form class="is-marginless" action="/posts/search/" method="get">
         <div class="navbar-item">
           <input class="" type="text" name="q"
-            placeholder="Search..." aria-label="Search">
+            placeholder="Search..." aria-label="S earch">
           &nbsp;
           <button class="button is-light" 
             type="submit">Search</button>
         </div>
         </form>
       </div>
+      -->
+
     </div>
   </nav>
 

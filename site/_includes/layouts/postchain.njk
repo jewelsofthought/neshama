@@ -1,0 +1,73 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+<div class="column blog-column box-deco has-background-white">
+
+  <div class="blog-post">
+    <section class="box">
+      <div class="main_title">
+        <h4 class="title is-4 blog-post-title" itemprop="name headline">
+        <a href="#">{{ title }}</a>
+      </div>
+
+    <div class="is-clearfix"></div>
+
+    <div class="is-pulled-left">
+      <span class="meta-time tag is-light is-small">
+        <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+      </span>
+      &nbsp;
+    </div>
+
+    {%- for tag in tags | filterTagList -%}
+    {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
+    <div class="is-pulled-right">
+      <a href="{{ tagUrl | url }}">
+        <span class="tag is-light is-small">
+          <span class="fa fa-tag"></span>&nbsp;
+          {{ tag }}
+        </span>
+      </a>
+      &nbsp;
+    </div>
+    {%- endfor %}
+
+    <div class="is-clearfix"></div>
+
+    
+    {%- if description %}
+      <h3>Description:</h3>
+      <p>{{ description }}</p>
+    {%- endif %}
+    <div class="main-content">
+      {{ content | latex | safe }}
+    </div>
+    
+    var post = { 
+      'nURL': nextURL, 
+      'nTitle': nextTitle, 
+      'pURL': prevURL, 
+      'pTitle: prevTitle 
+    };
+    {%- if collections.posts %}
+      {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+      {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+      {%- if nextPost and not nURL %}
+        {%- set nURL = nextPost.url %} 
+        {%- set nTitle = nextPost.data.title %}
+      {%- endif %}
+
+    {%- elif previousPost and not pURL %}
+      {%- set pURL = previousPost.url %}
+      {%- set pTitle = previousPost.data.title %}
+    {%- endif %}
+  
+    <hr>
+    <ul>
+      {%- if nURL and nTitle %}<li>Next: <a href="{{ nURL | url }}">{{ nextTitle }}</a></li>{% endif %}
+      {%- if pURL and pTitle %}<li>Previous: <a href="{{ pURL | url }}">{{ pTitle }}</a></li>{% endif %}
+    </ul>
+    {%- endif %}
+  </div>
+</div>

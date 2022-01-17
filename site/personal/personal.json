@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/post",
+  "templateClass": "tmpl-post",
+  "tags": ["personal"]
+}

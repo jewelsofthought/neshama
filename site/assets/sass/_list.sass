@@ -1,0 +1,137 @@
+// -- -- -- -- --
+// _list.scss
+
+.archive-p3
+  padding-left: 15px
+
+.archive-p4
+  padding-left: 20px
+
+div.archive-month,
+div.archive-item
+  position: relative
+
+div.archive-item a:before
+  position: absolute
+  left: -15px
+
+  font-family: "Font Awesome 5 Free"
+  content: '\f054'
+  color: $gray
+
+div.archive-month:before
+  position: absolute
+  left: -20px
+
+  font-family: "Font Awesome 5 Free"
+  content: '\f073'
+  color: $black
+
+.archive-item:hover:before 
+  color: $dark
+
+ul.archive-item,
+ul.archive-item ul
+  position: relative
+  list-style: none
+
+ul.archive-item li:before
+  position: relative
+  left: -15px
+  content: "\00BB"
+  color: $dark
+
+// -- -- -- -- --
+// Components: Tags
+
+.archive-year
+  font-weight: bold
+
+// -- -- -- -- --
+// Flip Flop
+
+.archive-list
+  .archive-item:nth-child(even)
+    background-color: darken($light, 3%)
+
+  .archive-item:nth-child(odd)
+    background-color: darken($light, 5%)
+
+  .archive-item:hover
+    background-color: lighten($yellow, 10%)
+
+.archive-list,
+.main-content li
+  li:nth-child(even)
+    background-color: $light
+
+  li:nth-child(odd)
+    background-color: darken($light, 5%)
+
+.meta-item:nth-child(even)
+    background-color: $light
+
+.meta-item:nth-child(odd)
+    background-color: darken($light, 5%)
+  
+.meta-item:hover
+    background-color: $yellow
+
+li.even
+  background-color: $light
+
+li.odd
+  background-color: darken($light, 5%)
+
+.blog-post .main-content li p
+  display: inline
+
+.blog-post .main-content li
+  padding-left: 0
+  list-style: none
+  margin-left: 20px
+
+.card-body .archive-year a:hover,
+ul li.list-month a:hover,
+ul.panel-list li:hover
+    background: lighten($yellow, 15%)
+
+ul.archive-month,
+ul.archive-item,
+ul.panel-list
+  padding: 0px
+
+ul#search_results,
+ul.panel-list
+  padding-left: 0
+  list-style: none
+  font-size: 13px
+  margin-left: 20px
+
+ul.panel-archive
+  li.list-month
+    padding-left: 20px
+    list-style: none
+    margin-left: 0px
+
+
+.blog-post .main-content li:before,
+ul#search_results li:before,
+ul.panel-list li:before
+  font-family: "Font Awesome 5 Free"
+  //font-weight: 900
+  content: '\f054'
+  color: $gray
+  margin: 0 5px 0 -12px
+
+ul li.list-month:before
+  font-family: "Font Awesome 5 Free"
+  //font-weight: 900
+  content: '\f073'
+  color: $black
+  margin: 0 5px 0 -12px
+
+ul#search_results li:hover:before,
+ul.panel-list li:hover:before
+  color: $yellow
+

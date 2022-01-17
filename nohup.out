@@ -1,0 +1,571 @@
+
+> eleventy-base-blog@5.0.2 start
+> eleventy --serve
+
+Writing dist/sitemap.xml from ./site/sitemap.xml.njk.
+Writing dist/feed/feed.xml from ./site/feed/feed.njk.
+Writing dist/feed/.htaccess from ./site/feed/htaccess.njk.
+Writing dist/feed/feed.json from ./site/feed/json.njk.
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character " " (160) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character " " (160) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character " " (160) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+Writing dist/personal/dawn/index.html from ./site/personal/dawn.md.
+Writing dist/personal/rav_green/index.html from ./site/personal/rav_green.md.
+Writing dist/personal/rooted/index.html from ./site/personal/rooted.md.
+Writing dist/personal/mine/index.html from ./site/personal/mine.md.
+Writing dist/posts/linux_commands/index.html from ./site/posts/linux_commands.md.
+Writing dist/posts/book_gift/bg001 - The Source/index.html from ./site/posts/book_gift/bg001 - The Source.md.
+Writing dist/posts/book_gift/bg002 - The Beginning/index.html from ./site/posts/book_gift/bg002 - The Beginning.md.
+Writing dist/posts/misc/Sustainable Cultures/index.html from ./site/posts/misc/Sustainable Cultures.md.
+Writing dist/posts/book_gift/bg002a - Masc & Fem/index.html from ./site/posts/book_gift/bg002a - Masc & Fem.md.
+Writing dist/posts/book_gift/bg004 - Circles & Lines/index.html from ./site/posts/book_gift/bg004 - Circles & Lines.md.
+Writing dist/posts/misc/Writing/index.html from ./site/posts/misc/Writing.md.
+Writing dist/posts/misc/alchemy/index.html from ./site/posts/misc/alchemy.md.
+Writing dist/posts/misc/neshama_in_hogsback/index.html from ./site/posts/misc/neshama_in_hogsback.md.
+Writing dist/posts/neshama/Nagarjuna & Quantum Physics/index.html from ./site/posts/neshama/Nagarjuna & Quantum Physics.md.
+Writing dist/posts/misc/threshing_floor/index.html from ./site/posts/misc/threshing_floor.md.
+Writing dist/posts/neshama/beginning/index.html from ./site/posts/neshama/beginning.md.
+Writing dist/posts/neshama/bliss/index.html from ./site/posts/neshama/bliss.md.
+Writing dist/posts/neshama/cards/index.html from ./site/posts/neshama/cards.md.
+Writing dist/posts/neshama/body/index.html from ./site/posts/neshama/body.md.
+Writing dist/posts/neshama/gokan_mandara/index.html from ./site/posts/neshama/gokan_mandara.md.
+Writing dist/posts/neshama/dark_side/index.html from ./site/posts/neshama/dark_side.md.
+Writing dist/posts/neshama/journey/index.html from ./site/posts/neshama/journey.md.
+Writing dist/posts/neshama/homoerotic/index.html from ./site/posts/neshama/homoerotic.md.
+Writing dist/posts/neshama/journey_mikkal/index.html from ./site/posts/neshama/journey_mikkal.md.
+Writing dist/posts/neshama/knowledge/index.html from ./site/posts/neshama/knowledge.md.
+Writing dist/posts/neshama/love/index.html from ./site/posts/neshama/love.md.
+Writing dist/posts/neshama/limited/index.html from ./site/posts/neshama/limited.md.
+Writing dist/posts/neshama/loveG/index.html from ./site/posts/neshama/loveG.md.
+Writing dist/posts/neshama/love_greek/index.html from ./site/posts/neshama/love_greek.md.
+Writing dist/posts/neshama/message/index.html from ./site/posts/neshama/message.md.
+Writing dist/posts/neshama/poem1/index.html from ./site/posts/neshama/poem1.md.
+Writing dist/posts/neshama/process_philosophy/index.html from ./site/posts/neshama/process_philosophy.md.
+Writing dist/posts/neshama/process_and_emptiness/index.html from ./site/posts/neshama/process_and_emptiness.md.
+Writing dist/posts/neshama/quantum_mind/index.html from ./site/posts/neshama/quantum_mind.md.
+Writing dist/posts/neshama/sound/index.html from ./site/posts/neshama/sound.md.
+Writing dist/posts/neshama/unity/index.html from ./site/posts/neshama/unity.md.
+Writing dist/posts/neshama/time_gap/index.html from ./site/posts/neshama/time_gap.md.
+Writing dist/posts/qkab/4d-vision/index.html from ./site/posts/qkab/4d-vision.md.
+Writing dist/posts/qkab/3d_brain/index.html from ./site/posts/qkab/3d_brain.md.
+Writing dist/posts/qkab/beginning/index.html from ./site/posts/qkab/beginning.md.
+Writing dist/posts/qkab/chashmal/index.html from ./site/posts/qkab/chashmal.md.
+Writing dist/posts/qkab/einsof_ayin/index.html from ./site/posts/qkab/einsof_ayin.md.
+Writing dist/posts/qkab/cards/index.html from ./site/posts/qkab/cards.md.
+Writing dist/posts/qkab/creation_account/index.html from ./site/posts/qkab/creation_account.md.
+Writing dist/posts/qkab/consciousness/index.html from ./site/posts/qkab/consciousness.md.
+Writing dist/posts/qkab/letters/index.html from ./site/posts/qkab/letters.md.
+Writing dist/posts/qkab/evolution/index.html from ./site/posts/qkab/evolution.md.
+Writing dist/posts/qkab/dimensions/index.html from ./site/posts/qkab/dimensions.md.
+Writing dist/posts/qkab/masc_fem/index.html from ./site/posts/qkab/masc_fem.md.
+Writing dist/posts/qkab/middle/index.html from ./site/posts/qkab/middle.md.
+Writing dist/posts/qkab/lightning_bolt/index.html from ./site/posts/qkab/lightning_bolt.md.
+Writing dist/posts/qkab/narcissism/index.html from ./site/posts/qkab/narcissism.md.
+Writing dist/posts/qkab/ohr_ein_sof/index.html from ./site/posts/qkab/ohr_ein_sof.md.
+Writing dist/posts/qkab/index.html from ./site/posts/qkab/qkab.md.
+Writing dist/posts/qkab/outcome/index.html from ./site/posts/qkab/outcome.md.
+Writing dist/posts/qkab/point/index.html from ./site/posts/qkab/point.md.
+Writing dist/posts/qkab/pems/index.html from ./site/posts/qkab/pems.md.
+Writing dist/posts/qkab/prophecy/index.html from ./site/posts/qkab/prophecy.md.
+Writing dist/posts/qkab/realm_of_thought/index.html from ./site/posts/qkab/realm_of_thought.md.
+Writing dist/posts/qkab/science/index.html from ./site/posts/qkab/science.md.
+Writing dist/posts/qkab/soul/index.html from ./site/posts/qkab/soul.md.
+Writing dist/posts/qkab/slides/index.html from ./site/posts/qkab/slides.md.
+Writing dist/posts/qkab/sy_genetics/index.html from ./site/posts/qkab/sy_genetics.md.
+Writing dist/posts/qkab/travel_between/index.html from ./site/posts/qkab/travel_between.md.
+Writing dist/posts/qkab/upper_realms/index.html from ./site/posts/qkab/upper_realms.md.
+Writing dist/posts/qkab/trinity/index.html from ./site/posts/qkab/trinity.md.
+Writing dist/posts/qkab/waves/index.html from ./site/posts/qkab/waves.md.
+Writing dist/posts/qkab/zero_one/index.html from ./site/posts/qkab/zero_one.md.
+Writing dist/posts/story/jewel/index.html from ./site/posts/story/jewel.md.
+Writing dist/posts/story/journey_to_freedom/index.html from ./site/posts/story/journey_to_freedom.md.
+Writing dist/posts/story/our_story/index.html from ./site/posts/story/our_story.md.
+Writing dist/posts/story/seed/index.html from ./site/posts/story/seed.md.
+Writing dist/posts/tol/bad_behaviour/index.html from ./site/posts/tol/bad_behaviour.md.
+Writing dist/posts/tol/affinity_groups/index.html from ./site/posts/tol/affinity_groups.md.
+Writing dist/posts/tol/call/index.html from ./site/posts/tol/call.md.
+Writing dist/posts/tol/cards/index.html from ./site/posts/tol/cards.md.
+Writing dist/posts/tol/change/index.html from ./site/posts/tol/change.md.
+Writing dist/posts/tol/components/index.html from ./site/posts/tol/components.md.
+Writing dist/posts/tol/health/index.html from ./site/posts/tol/health.md.
+Writing dist/posts/tol/energy/index.html from ./site/posts/tol/energy.md.
+Writing dist/posts/tol/governance/index.html from ./site/posts/tol/governance.md.
+Writing dist/posts/tol/human_ms/index.html from ./site/posts/tol/human_ms.md.
+Writing dist/posts/tol/invaders/index.html from ./site/posts/tol/invaders.md.
+Writing dist/posts/tol/legal_entity/index.html from ./site/posts/tol/legal_entity.md.
+Writing dist/posts/tol/money/index.html from ./site/posts/tol/money.md.
+Writing dist/posts/tol/multiscale_network/index.html from ./site/posts/tol/multiscale_network.md.
+Writing dist/posts/tol/narrative/index.html from ./site/posts/tol/narrative.md.
+Writing dist/posts/tol/organisations/index.html from ./site/posts/tol/organisations.md.
+Writing dist/posts/tol/prediction/index.html from ./site/posts/tol/prediction.md.
+Writing dist/posts/tol/personhood/index.html from ./site/posts/tol/personhood.md.
+Writing dist/posts/tol/sacred_economics/index.html from ./site/posts/tol/sacred_economics.md.
+Writing dist/posts/tol/seed/index.html from ./site/posts/tol/seed.md.
+Writing dist/posts/tol/the_movement/index.html from ./site/posts/tol/the_movement.md.
+Writing dist/posts/TODO/index.html from ./site/posts/TODO.md.
+Writing dist/posts/tol/tol_quotes/index.html from ./site/posts/tol/tol_quotes.md.
+Writing dist/posts/tol/together/index.html from ./site/posts/tol/together.md.
+Writing dist/posts/tol/web_of_trust/index.html from ./site/posts/tol/web_of_trust.md.
+Writing dist/posts/taximony/index.html from ./site/posts/taximony.md.
+Writing dist/404.html from ./site/404.md.
+Writing dist/posts/index.html from ./site/archive.njk.
+Writing dist/index.html from ./site/index.njk.
+Writing dist/tags/index.html from ./site/tags-list.njk.
+Writing dist/page-list/index.html from ./site/page-list.njk.
+Writing dist/tags/personal/index.html from ./site/tags.njk.
+Writing dist/about/index.html from ./site/about/index.md.
+Writing dist/posts/qkab/4d-entities/index.html from ./site/posts/qkab/4d-entities.md.
+Writing dist/personal/index.html from ./site/personal/index.md.
+Writing dist/posts/TODO-1/index.html from ./site/posts/TODO-1.md.
+Writing dist/personal/dreams/index.html from ./site/personal/dreams.md.
+Writing dist/posts/qkab/original_beauty/index.html from ./site/posts/qkab/original_beauty.md.
+Writing dist/posts/tol/collective_buying/index.html from ./site/posts/tol/collective_buying.md.
+Writing dist/posts/tol/general_info/index.html from ./site/posts/tol/general_info.md.
+Writing dist/posts/tol/sustainable/index.html from ./site/posts/tol/sustainable.md.
+Writing dist/posts/neshama/judaica/gan/index.html from ./site/posts/neshama/judaica/gan.md.
+Writing dist/posts/neshama/judaica/j_cards/index.html from ./site/posts/neshama/judaica/j_cards.md.
+Writing dist/posts/neshama/judaica/blessing or curse/index.html from ./site/posts/neshama/judaica/blessing or curse.md.
+Writing dist/posts/neshama/judaica/modeh_ani/index.html from ./site/posts/neshama/judaica/modeh_ani.md.
+Writing dist/posts/neshama/judaica/emet/index.html from ./site/posts/neshama/judaica/emet.md.
+Writing dist/posts/neshama/judaica/beliefs_opinions/index.html from ./site/posts/neshama/judaica/beliefs_opinions.md.
+Writing dist/posts/neshama/judaica/murmering_secrets/index.html from ./site/posts/neshama/judaica/murmering_secrets.md.
+Writing dist/posts/neshama/judaica/parasha_blalak/index.html from ./site/posts/neshama/judaica/parasha_blalak.md.
+Writing dist/posts/neshama/judaica/parasha_toldot_deception/index.html from ./site/posts/neshama/judaica/parasha_toldot_deception.md.
+Writing dist/posts/neshama/judaica/parasha_vayeira/index.html from ./site/posts/neshama/judaica/parasha_vayeira.md.
+Writing dist/posts/neshama/judaica/parasha_bo/index.html from ./site/posts/neshama/judaica/parasha_bo.md.
+Writing dist/posts/neshama/judaica/parasha_toldot_annexes/index.html from ./site/posts/neshama/judaica/parasha_toldot_annexes.md.
+Writing dist/posts/neshama/judaica/parashat_beshalach/index.html from ./site/posts/neshama/judaica/parashat_beshalach.md.
+Writing dist/posts/neshama/judaica/sinai_generation/index.html from ./site/posts/neshama/judaica/sinai_generation.md.
+Writing dist/posts/neshama/judaica/parasha_toldot/index.html from ./site/posts/neshama/judaica/parasha_toldot.md.
+Writing dist/posts/neshama/judaica/pleasure_dis/index.html from ./site/posts/neshama/judaica/pleasure_dis.md.
+Writing dist/posts/neshama/judaica/rosh-hashanah-study-guide/index.html from ./site/posts/neshama/judaica/rosh-hashanah-study-guide.md.
+Writing dist/posts/neshama/new/card1/index.html from ./site/posts/neshama/new/card1.md.
+Writing dist/posts/neshama/new/one_percent/index.html from ./site/posts/neshama/new/one_percent.md.
+Writing dist/posts/qkab/math/line/index.html from ./site/posts/qkab/math/line.md.
+Writing dist/posts/qkab/math/sacred_geometry_primer/index.html from ./site/posts/qkab/math/sacred_geometry_primer.md.
+Writing dist/posts/neshama/new/vaccinated/index.html from ./site/posts/neshama/new/vaccinated.md.
+Writing dist/posts/neshama/new/lectures/index.html from ./site/posts/neshama/new/lectures.md.
+Writing dist/posts/qkab/math/co-ords/index.html from ./site/posts/qkab/math/co-ords.md.
+Writing dist/posts/qkab/math/sine_wave/index.html from ./site/posts/qkab/math/sine_wave.md.
+Writing dist/posts/qkab/speculum/light/index.html from ./site/posts/qkab/speculum/light.md.
+Writing dist/posts/qkab/shaman/path_working/index.html from ./site/posts/qkab/shaman/path_working.md.
+Writing dist/posts/qkab/shaman/path_of_blessing/index.html from ./site/posts/qkab/shaman/path_of_blessing.md.
+Writing dist/posts/qkab/speculum/spec_91_gaze/index.html from ./site/posts/qkab/speculum/spec_91_gaze.md.
+Writing dist/posts/qkab/speculum/xing/index.html from ./site/posts/qkab/speculum/xing.md.
+Writing dist/posts/qkab/universal_kabbalah/maria/index.html from ./site/posts/qkab/universal_kabbalah/maria.md.
+Writing dist/posts/qkab/zornberg/shemoth/index.html from ./site/posts/qkab/zornberg/shemoth.md.
+Writing dist/posts/tol/final/01-intro/index.html from ./site/posts/tol/final/01-intro.md.
+Writing dist/posts/qkab/speculum/spec-271/index.html from ./site/posts/qkab/speculum/spec-271.md.
+Writing dist/posts/tol/final/03-connect/index.html from ./site/posts/tol/final/03-connect.md.
+Writing dist/posts/tol/final/04-leaves/index.html from ./site/posts/tol/final/04-leaves.md.
+Writing dist/posts/tol/final/02-design/index.html from ./site/posts/tol/final/02-design.md.
+Writing dist/posts/tol/final/06-communities/index.html from ./site/posts/tol/final/06-communities.md.
+Writing dist/posts/tol/final/05-form/index.html from ./site/posts/tol/final/05-form.md.
+Writing dist/posts/tol/final/07-trust/index.html from ./site/posts/tol/final/07-trust.md.
+Writing dist/posts/tol/final/08-identity/index.html from ./site/posts/tol/final/08-identity.md.
+Writing dist/posts/tol/final/09-economics/index.html from ./site/posts/tol/final/09-economics.md.
+Writing dist/posts/tol/final/11-char/index.html from ./site/posts/tol/final/11-char.md.
+Writing dist/posts/tol/final/10-membership/index.html from ./site/posts/tol/final/10-membership.md.
+Writing dist/posts/tol/final/11-values/index.html from ./site/posts/tol/final/11-values.md.
+Writing dist/posts/tol/final/12-assessment/index.html from ./site/posts/tol/final/12-assessment.md.
+Writing dist/posts/tol/final/13-conclusion/index.html from ./site/posts/tol/final/13-conclusion.md.
+Writing dist/posts/tol/final/graphs/index.html from ./site/posts/tol/final/graphs.md.
+Writing dist/posts/tol/info/00-sw/index.html from ./site/posts/tol/info/00-sw.md.
+Writing dist/posts/tol/final/shabbat/index.html from ./site/posts/tol/final/shabbat.md.
+Writing dist/posts/tol/info/Intro-L1/index.html from ./site/posts/tol/info/Intro-L1.md.
+Writing dist/posts/tol/info/Intro-L2/index.html from ./site/posts/tol/info/Intro-L2.md.
+Writing dist/posts/tol/old/4d-designs/index.html from ./site/posts/tol/old/4d-designs.md.
+Writing dist/posts/tol/old/game/index.html from ./site/posts/tol/old/game.md.
+Writing dist/posts/tol/old/messiah/index.html from ./site/posts/tol/old/messiah.md.
+Writing dist/posts/tol/old/money/index.html from ./site/posts/tol/old/money.md.
+Writing dist/posts/tol/old/sand_mandala/index.html from ./site/posts/tol/old/sand_mandala.md.
+Writing dist/posts/tol/old/definitions/index.html from ./site/posts/tol/old/definitions.md.
+Writing dist/posts/tol/old/tae_questions/index.html from ./site/posts/tol/old/tae_questions.md.
+Writing dist/posts/tol/order/00-contents/index.html from ./site/posts/tol/order/00-contents.md.
+Writing dist/posts/tol/old/network_examples/index.html from ./site/posts/tol/old/network_examples.md.
+Writing dist/posts/tol/order/01-forward/index.html from ./site/posts/tol/order/01-forward.md.
+Writing dist/posts/tol/order/02-preface/index.html from ./site/posts/tol/order/02-preface.md.
+Writing dist/posts/qkab/universal_kabbalah/forward/index.html from ./site/posts/qkab/universal_kabbalah/forward.md.
+Writing dist/posts/tol/order/03-introduction/index.html from ./site/posts/tol/order/03-introduction.md.
+Writing dist/posts/qkab/zornberg/genesis/index.html from ./site/posts/qkab/zornberg/genesis.md.
+Writing dist/posts/qkab/math/simultaneity/1_Terms/index.html from ./site/posts/qkab/math/simultaneity/1_Terms.md.
+Writing dist/posts/qkab/math/simultaneity/2_Concept/index.html from ./site/posts/qkab/math/simultaneity/2_Concept.md.
+Writing dist/posts/qkab/math/simultaneity/0_Introduction/index.html from ./site/posts/qkab/math/simultaneity/0_Introduction.md.
+Writing dist/page-list/1/index.html from ./site/page-list.njk.
+Writing dist/tags/lyn/index.html from ./site/tags.njk.
+Writing dist/page-list/2/index.html from ./site/page-list.njk.
+Writing dist/tags/comp/index.html from ./site/tags.njk.
+Writing dist/page-list/3/index.html from ./site/page-list.njk.
+Writing dist/tags/neshama/index.html from ./site/tags.njk.
+Writing dist/page-list/4/index.html from ./site/page-list.njk.
+Writing dist/tags/external/index.html from ./site/tags.njk.
+Writing dist/page-list/5/index.html from ./site/page-list.njk.
+Writing dist/tags/qkab/index.html from ./site/tags.njk.
+Writing dist/page-list/6/index.html from ./site/page-list.njk.
+Writing dist/tags/universal_kabbalah/index.html from ./site/tags.njk.
+Writing dist/page-list/7/index.html from ./site/page-list.njk.
+Writing dist/tags/alchemy/index.html from ./site/tags.njk.
+Writing dist/page-list/8/index.html from ./site/page-list.njk.
+Writing dist/tags/process/index.html from ./site/tags.njk.
+Writing dist/page-list/9/index.html from ./site/page-list.njk.
+Writing dist/tags/hermetic/index.html from ./site/tags.njk.
+Writing dist/page-list/10/index.html from ./site/page-list.njk.
+Writing dist/tags/shaman/index.html from ./site/tags.njk.
+Writing dist/page-list/11/index.html from ./site/page-list.njk.
+Writing dist/tags/consciousness/index.html from ./site/tags.njk.
+Writing dist/tags/todo/index.html from ./site/tags.njk.
+Writing dist/tags/poem/index.html from ./site/tags.njk.
+Writing dist/tags/communities/index.html from ./site/tags.njk.
+Writing dist/tags/4d/index.html from ./site/tags.njk.
+Writing dist/tags/game/index.html from ./site/tags.njk.
+Writing dist/tags/creation/index.html from ./site/tags.njk.
+Writing dist/tags/chashmal/index.html from ./site/tags.njk.
+Writing dist/tags/energy/index.html from ./site/tags.njk.
+Writing dist/tags/zohar/index.html from ./site/tags.njk.
+Writing dist/tags/judaica/index.html from ./site/tags.njk.
+Writing dist/tags/mandf/index.html from ./site/tags.njk.
+Writing dist/tags/midpoint/index.html from ./site/tags.njk.
+Writing dist/tags/tol/index.html from ./site/tags.njk.
+Writing dist/tags/chariot/index.html from ./site/tags.njk.
+Writing dist/tags/systems/index.html from ./site/tags.njk.
+Writing dist/tags/story/index.html from ./site/tags.njk.
+Writing dist/tags/mekubalim/index.html from ./site/tags.njk.
+Writing dist/tags/it/index.html from ./site/tags.njk.
+Writing dist/tags/tae/index.html from ./site/tags.njk.
+Writing dist/tags/cov-19/index.html from ./site/tags.njk.
+Writing dist/tags/parasha/index.html from ./site/tags.njk.
+Writing dist/tags/math/index.html from ./site/tags.njk.
+Writing dist/tags/covid/index.html from ./site/tags.njk.
+Writing dist/tags/speculum/index.html from ./site/tags.njk.
+Writing dist/tags/final/index.html from ./site/tags.njk.
+Writing dist/tags/science/index.html from ./site/tags.njk.
+Writing dist/tags/dimensions/index.html from ./site/tags.njk.
+Writing dist/tags/order+/index.html from ./site/tags.njk.
+Writing dist/tags/simultaneity/index.html from ./site/tags.njk.
+Writing dist/tags/postsascending/index.html from ./site/tags.njk.
+Writing dist/tags/neshamah/index.html from ./site/tags.njk.
+Copied 2009 files / Wrote 239 files in 8.29 seconds (34.7ms each, v0.12.1)
+Watching…
+[Browsersync] Access URLs:
+ ----------------------------------
+    Local: http://localhost:8080
+ External: http://10.33.166.30:8080
+ ----------------------------------
+[Browsersync] Serving files from: dist
+File changed: site/posts/qkab/speculum/spec_91_gaze.md
+File changed: site/posts/qkab/speculum/spec-271.md
+Writing dist/sitemap.xml from ./site/sitemap.xml.njk.
+Writing dist/feed/feed.xml from ./site/feed/feed.njk.
+Writing dist/feed/feed.json from ./site/feed/json.njk.
+Writing dist/feed/.htaccess from ./site/feed/htaccess.njk.
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character " " (160) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character " " (160) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character " " (160) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "’" (8217) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "“" (8220) [unknownSymbol]
+LaTeX-incompatible input and strict mode is set to 'warn': Unrecognized Unicode character "”" (8221) [unknownSymbol]
+Writing dist/personal/dawn/index.html from ./site/personal/dawn.md.
+Writing dist/personal/mine/index.html from ./site/personal/mine.md.
+Writing dist/personal/rav_green/index.html from ./site/personal/rav_green.md.
+Writing dist/posts/TODO/index.html from ./site/posts/TODO.md.
+Writing dist/posts/linux_commands/index.html from ./site/posts/linux_commands.md.
+Writing dist/posts/taximony/index.html from ./site/posts/taximony.md.
+Writing dist/posts/book_gift/bg001 - The Source/index.html from ./site/posts/book_gift/bg001 - The Source.md.
+Writing dist/posts/book_gift/bg002 - The Beginning/index.html from ./site/posts/book_gift/bg002 - The Beginning.md.
+Writing dist/posts/book_gift/bg002a - Masc & Fem/index.html from ./site/posts/book_gift/bg002a - Masc & Fem.md.
+Writing dist/posts/book_gift/bg004 - Circles & Lines/index.html from ./site/posts/book_gift/bg004 - Circles & Lines.md.
+Writing dist/posts/misc/Writing/index.html from ./site/posts/misc/Writing.md.
+Writing dist/personal/rooted/index.html from ./site/personal/rooted.md.
+Writing dist/posts/misc/Sustainable Cultures/index.html from ./site/posts/misc/Sustainable Cultures.md.
+Writing dist/posts/misc/neshama_in_hogsback/index.html from ./site/posts/misc/neshama_in_hogsback.md.
+Writing dist/posts/misc/threshing_floor/index.html from ./site/posts/misc/threshing_floor.md.
+Writing dist/posts/neshama/bliss/index.html from ./site/posts/neshama/bliss.md.
+Writing dist/posts/neshama/beginning/index.html from ./site/posts/neshama/beginning.md.
+Writing dist/posts/neshama/body/index.html from ./site/posts/neshama/body.md.
+Writing dist/posts/neshama/dark_side/index.html from ./site/posts/neshama/dark_side.md.
+Writing dist/posts/neshama/cards/index.html from ./site/posts/neshama/cards.md.
+Writing dist/posts/neshama/gokan_mandara/index.html from ./site/posts/neshama/gokan_mandara.md.
+Writing dist/posts/neshama/homoerotic/index.html from ./site/posts/neshama/homoerotic.md.
+Writing dist/posts/neshama/Nagarjuna & Quantum Physics/index.html from ./site/posts/neshama/Nagarjuna & Quantum Physics.md.
+Writing dist/posts/neshama/journey_mikkal/index.html from ./site/posts/neshama/journey_mikkal.md.
+Writing dist/posts/neshama/limited/index.html from ./site/posts/neshama/limited.md.
+Writing dist/posts/neshama/knowledge/index.html from ./site/posts/neshama/knowledge.md.
+Writing dist/posts/neshama/love/index.html from ./site/posts/neshama/love.md.
+Writing dist/posts/neshama/love_greek/index.html from ./site/posts/neshama/love_greek.md.
+Writing dist/posts/neshama/loveG/index.html from ./site/posts/neshama/loveG.md.
+Writing dist/posts/neshama/message/index.html from ./site/posts/neshama/message.md.
+Writing dist/posts/neshama/poem1/index.html from ./site/posts/neshama/poem1.md.
+Writing dist/posts/neshama/process_philosophy/index.html from ./site/posts/neshama/process_philosophy.md.
+Writing dist/posts/neshama/process_and_emptiness/index.html from ./site/posts/neshama/process_and_emptiness.md.
+Writing dist/posts/neshama/time_gap/index.html from ./site/posts/neshama/time_gap.md.
+Writing dist/posts/neshama/sound/index.html from ./site/posts/neshama/sound.md.
+Writing dist/posts/neshama/unity/index.html from ./site/posts/neshama/unity.md.
+Writing dist/posts/qkab/3d_brain/index.html from ./site/posts/qkab/3d_brain.md.
+Writing dist/posts/qkab/4d-entities/index.html from ./site/posts/qkab/4d-entities.md.
+Writing dist/posts/qkab/4d-vision/index.html from ./site/posts/qkab/4d-vision.md.
+Writing dist/posts/qkab/beginning/index.html from ./site/posts/qkab/beginning.md.
+Writing dist/posts/qkab/cards/index.html from ./site/posts/qkab/cards.md.
+Writing dist/posts/qkab/chashmal/index.html from ./site/posts/qkab/chashmal.md.
+Writing dist/posts/qkab/consciousness/index.html from ./site/posts/qkab/consciousness.md.
+Writing dist/posts/qkab/dimensions/index.html from ./site/posts/qkab/dimensions.md.
+Writing dist/posts/qkab/creation_account/index.html from ./site/posts/qkab/creation_account.md.
+Writing dist/posts/qkab/einsof_ayin/index.html from ./site/posts/qkab/einsof_ayin.md.
+Writing dist/posts/qkab/letters/index.html from ./site/posts/qkab/letters.md.
+Writing dist/posts/qkab/evolution/index.html from ./site/posts/qkab/evolution.md.
+Writing dist/posts/qkab/lightning_bolt/index.html from ./site/posts/qkab/lightning_bolt.md.
+Writing dist/posts/qkab/middle/index.html from ./site/posts/qkab/middle.md.
+Writing dist/posts/qkab/narcissism/index.html from ./site/posts/qkab/narcissism.md.
+Writing dist/posts/qkab/masc_fem/index.html from ./site/posts/qkab/masc_fem.md.
+Writing dist/posts/qkab/ohr_ein_sof/index.html from ./site/posts/qkab/ohr_ein_sof.md.
+Writing dist/posts/qkab/outcome/index.html from ./site/posts/qkab/outcome.md.
+Writing dist/posts/qkab/point/index.html from ./site/posts/qkab/point.md.
+Writing dist/posts/qkab/pems/index.html from ./site/posts/qkab/pems.md.
+Writing dist/posts/qkab/prophecy/index.html from ./site/posts/qkab/prophecy.md.
+Writing dist/posts/qkab/index.html from ./site/posts/qkab/qkab.md.
+Writing dist/posts/qkab/realm_of_thought/index.html from ./site/posts/qkab/realm_of_thought.md.
+Writing dist/posts/qkab/science/index.html from ./site/posts/qkab/science.md.
+Writing dist/posts/qkab/slides/index.html from ./site/posts/qkab/slides.md.
+Writing dist/posts/qkab/soul/index.html from ./site/posts/qkab/soul.md.
+Writing dist/posts/qkab/sy_genetics/index.html from ./site/posts/qkab/sy_genetics.md.
+Writing dist/posts/qkab/travel_between/index.html from ./site/posts/qkab/travel_between.md.
+Writing dist/posts/qkab/trinity/index.html from ./site/posts/qkab/trinity.md.
+Writing dist/posts/qkab/upper_realms/index.html from ./site/posts/qkab/upper_realms.md.
+Writing dist/posts/qkab/waves/index.html from ./site/posts/qkab/waves.md.
+Writing dist/posts/qkab/zero_one/index.html from ./site/posts/qkab/zero_one.md.
+Writing dist/posts/story/jewel/index.html from ./site/posts/story/jewel.md.
+Writing dist/posts/story/journey_to_freedom/index.html from ./site/posts/story/journey_to_freedom.md.
+Writing dist/posts/story/seed/index.html from ./site/posts/story/seed.md.
+Writing dist/posts/story/our_story/index.html from ./site/posts/story/our_story.md.
+Writing dist/posts/tol/affinity_groups/index.html from ./site/posts/tol/affinity_groups.md.
+Writing dist/posts/tol/call/index.html from ./site/posts/tol/call.md.
+Writing dist/posts/tol/bad_behaviour/index.html from ./site/posts/tol/bad_behaviour.md.
+Writing dist/posts/tol/cards/index.html from ./site/posts/tol/cards.md.
+Writing dist/posts/tol/change/index.html from ./site/posts/tol/change.md.
+Writing dist/posts/misc/alchemy/index.html from ./site/posts/misc/alchemy.md.
+Writing dist/posts/tol/energy/index.html from ./site/posts/tol/energy.md.
+Writing dist/posts/tol/components/index.html from ./site/posts/tol/components.md.
+Writing dist/posts/tol/health/index.html from ./site/posts/tol/health.md.
+Writing dist/posts/tol/governance/index.html from ./site/posts/tol/governance.md.
+Writing dist/posts/tol/invaders/index.html from ./site/posts/tol/invaders.md.
+Writing dist/posts/tol/human_ms/index.html from ./site/posts/tol/human_ms.md.
+Writing dist/posts/tol/legal_entity/index.html from ./site/posts/tol/legal_entity.md.
+Writing dist/posts/tol/money/index.html from ./site/posts/tol/money.md.
+Writing dist/posts/tol/multiscale_network/index.html from ./site/posts/tol/multiscale_network.md.
+Writing dist/posts/tol/narrative/index.html from ./site/posts/tol/narrative.md.
+Writing dist/posts/tol/personhood/index.html from ./site/posts/tol/personhood.md.
+Writing dist/posts/tol/prediction/index.html from ./site/posts/tol/prediction.md.
+Writing dist/posts/tol/organisations/index.html from ./site/posts/tol/organisations.md.
+Writing dist/posts/tol/sacred_economics/index.html from ./site/posts/tol/sacred_economics.md.
+Writing dist/posts/tol/together/index.html from ./site/posts/tol/together.md.
+Writing dist/posts/tol/seed/index.html from ./site/posts/tol/seed.md.
+Writing dist/posts/tol/the_movement/index.html from ./site/posts/tol/the_movement.md.
+Writing dist/posts/tol/tol_quotes/index.html from ./site/posts/tol/tol_quotes.md.
+Writing dist/posts/tol/web_of_trust/index.html from ./site/posts/tol/web_of_trust.md.
+Writing dist/posts/neshama/journey/index.html from ./site/posts/neshama/journey.md.
+Writing dist/page-list/index.html from ./site/page-list.njk.
+Writing dist/tags/index.html from ./site/tags-list.njk.
+Writing dist/index.html from ./site/index.njk.
+Writing dist/tags/personal/index.html from ./site/tags.njk.
+Writing dist/personal/dreams/index.html from ./site/personal/dreams.md.
+Writing dist/about/index.html from ./site/about/index.md.
+Writing dist/posts/TODO-1/index.html from ./site/posts/TODO-1.md.
+Writing dist/personal/index.html from ./site/personal/index.md.
+Writing dist/posts/qkab/original_beauty/index.html from ./site/posts/qkab/original_beauty.md.
+Writing dist/posts/tol/collective_buying/index.html from ./site/posts/tol/collective_buying.md.
+Writing dist/posts/tol/general_info/index.html from ./site/posts/tol/general_info.md.
+Writing dist/posts/tol/sustainable/index.html from ./site/posts/tol/sustainable.md.
+Writing dist/posts/neshama/quantum_mind/index.html from ./site/posts/neshama/quantum_mind.md.
+Writing dist/404.html from ./site/404.md.
+Writing dist/posts/index.html from ./site/archive.njk.
+Writing dist/posts/neshama/judaica/blessing or curse/index.html from ./site/posts/neshama/judaica/blessing or curse.md.
+Writing dist/posts/neshama/judaica/emet/index.html from ./site/posts/neshama/judaica/emet.md.
+Writing dist/posts/neshama/judaica/beliefs_opinions/index.html from ./site/posts/neshama/judaica/beliefs_opinions.md.
+Writing dist/posts/neshama/judaica/gan/index.html from ./site/posts/neshama/judaica/gan.md.
+Writing dist/posts/neshama/judaica/j_cards/index.html from ./site/posts/neshama/judaica/j_cards.md.
+Writing dist/posts/neshama/judaica/modeh_ani/index.html from ./site/posts/neshama/judaica/modeh_ani.md.
+Writing dist/posts/neshama/judaica/murmering_secrets/index.html from ./site/posts/neshama/judaica/murmering_secrets.md.
+Writing dist/posts/neshama/judaica/parasha_blalak/index.html from ./site/posts/neshama/judaica/parasha_blalak.md.
+Writing dist/posts/neshama/judaica/parasha_bo/index.html from ./site/posts/neshama/judaica/parasha_bo.md.
+Writing dist/posts/neshama/judaica/parasha_toldot/index.html from ./site/posts/neshama/judaica/parasha_toldot.md.
+Writing dist/posts/neshama/judaica/parasha_toldot_deception/index.html from ./site/posts/neshama/judaica/parasha_toldot_deception.md.
+Writing dist/posts/neshama/judaica/parasha_toldot_annexes/index.html from ./site/posts/neshama/judaica/parasha_toldot_annexes.md.
+Writing dist/posts/neshama/judaica/parasha_vayeira/index.html from ./site/posts/neshama/judaica/parasha_vayeira.md.
+Writing dist/posts/neshama/judaica/pleasure_dis/index.html from ./site/posts/neshama/judaica/pleasure_dis.md.
+Writing dist/posts/neshama/judaica/sinai_generation/index.html from ./site/posts/neshama/judaica/sinai_generation.md.
+Writing dist/posts/neshama/judaica/rosh-hashanah-study-guide/index.html from ./site/posts/neshama/judaica/rosh-hashanah-study-guide.md.
+Writing dist/posts/neshama/new/lectures/index.html from ./site/posts/neshama/new/lectures.md.
+Writing dist/posts/neshama/new/card1/index.html from ./site/posts/neshama/new/card1.md.
+Writing dist/posts/neshama/new/one_percent/index.html from ./site/posts/neshama/new/one_percent.md.
+Writing dist/posts/neshama/new/vaccinated/index.html from ./site/posts/neshama/new/vaccinated.md.
+Writing dist/posts/qkab/math/co-ords/index.html from ./site/posts/qkab/math/co-ords.md.
+Writing dist/posts/qkab/math/sacred_geometry_primer/index.html from ./site/posts/qkab/math/sacred_geometry_primer.md.
+Writing dist/posts/qkab/math/line/index.html from ./site/posts/qkab/math/line.md.
+Writing dist/posts/qkab/shaman/path_of_blessing/index.html from ./site/posts/qkab/shaman/path_of_blessing.md.
+Writing dist/posts/qkab/math/sine_wave/index.html from ./site/posts/qkab/math/sine_wave.md.
+Writing dist/posts/qkab/shaman/path_working/index.html from ./site/posts/qkab/shaman/path_working.md.
+Writing dist/posts/qkab/speculum/spec-271/index.html from ./site/posts/qkab/speculum/spec-271.md.
+Writing dist/posts/qkab/speculum/spec_91_gaze/index.html from ./site/posts/qkab/speculum/spec_91_gaze.md.
+Writing dist/posts/qkab/universal_kabbalah/maria/index.html from ./site/posts/qkab/universal_kabbalah/maria.md.
+Writing dist/posts/neshama/judaica/parashat_beshalach/index.html from ./site/posts/neshama/judaica/parashat_beshalach.md.
+Writing dist/posts/tol/final/01-intro/index.html from ./site/posts/tol/final/01-intro.md.
+Writing dist/posts/qkab/zornberg/shemoth/index.html from ./site/posts/qkab/zornberg/shemoth.md.
+Writing dist/posts/tol/final/02-design/index.html from ./site/posts/tol/final/02-design.md.
+Writing dist/posts/tol/final/03-connect/index.html from ./site/posts/tol/final/03-connect.md.
+Writing dist/posts/tol/final/04-leaves/index.html from ./site/posts/tol/final/04-leaves.md.
+Writing dist/posts/tol/final/06-communities/index.html from ./site/posts/tol/final/06-communities.md.
+Writing dist/posts/tol/final/05-form/index.html from ./site/posts/tol/final/05-form.md.
+Writing dist/posts/tol/final/07-trust/index.html from ./site/posts/tol/final/07-trust.md.
+Writing dist/posts/tol/final/08-identity/index.html from ./site/posts/tol/final/08-identity.md.
+Writing dist/posts/tol/final/09-economics/index.html from ./site/posts/tol/final/09-economics.md.
+Writing dist/posts/tol/final/10-membership/index.html from ./site/posts/tol/final/10-membership.md.
+Writing dist/posts/tol/final/11-char/index.html from ./site/posts/tol/final/11-char.md.
+Writing dist/posts/tol/final/12-assessment/index.html from ./site/posts/tol/final/12-assessment.md.
+Writing dist/posts/tol/final/11-values/index.html from ./site/posts/tol/final/11-values.md.
+Writing dist/posts/tol/final/13-conclusion/index.html from ./site/posts/tol/final/13-conclusion.md.
+Writing dist/posts/tol/final/graphs/index.html from ./site/posts/tol/final/graphs.md.
+Writing dist/posts/tol/final/shabbat/index.html from ./site/posts/tol/final/shabbat.md.
+Writing dist/posts/tol/info/Intro-L1/index.html from ./site/posts/tol/info/Intro-L1.md.
+Writing dist/posts/tol/info/00-sw/index.html from ./site/posts/tol/info/00-sw.md.
+Writing dist/posts/tol/info/Intro-L2/index.html from ./site/posts/tol/info/Intro-L2.md.
+Writing dist/posts/tol/old/4d-designs/index.html from ./site/posts/tol/old/4d-designs.md.
+Writing dist/posts/tol/old/definitions/index.html from ./site/posts/tol/old/definitions.md.
+Writing dist/posts/tol/old/game/index.html from ./site/posts/tol/old/game.md.
+Writing dist/posts/tol/old/messiah/index.html from ./site/posts/tol/old/messiah.md.
+Writing dist/posts/tol/old/money/index.html from ./site/posts/tol/old/money.md.
+Writing dist/posts/tol/old/sand_mandala/index.html from ./site/posts/tol/old/sand_mandala.md.
+Writing dist/posts/tol/old/network_examples/index.html from ./site/posts/tol/old/network_examples.md.
+Writing dist/posts/tol/order/00-contents/index.html from ./site/posts/tol/order/00-contents.md.
+Writing dist/posts/tol/old/tae_questions/index.html from ./site/posts/tol/old/tae_questions.md.
+Writing dist/posts/tol/order/01-forward/index.html from ./site/posts/tol/order/01-forward.md.
+Writing dist/posts/tol/order/02-preface/index.html from ./site/posts/tol/order/02-preface.md.
+Writing dist/posts/tol/order/03-introduction/index.html from ./site/posts/tol/order/03-introduction.md.
+Writing dist/posts/qkab/speculum/light/index.html from ./site/posts/qkab/speculum/light.md.
+Writing dist/posts/qkab/speculum/xing/index.html from ./site/posts/qkab/speculum/xing.md.
+Writing dist/posts/qkab/universal_kabbalah/forward/index.html from ./site/posts/qkab/universal_kabbalah/forward.md.
+Writing dist/posts/qkab/zornberg/genesis/index.html from ./site/posts/qkab/zornberg/genesis.md.
+Writing dist/posts/qkab/math/simultaneity/0_Introduction/index.html from ./site/posts/qkab/math/simultaneity/0_Introduction.md.
+Writing dist/posts/qkab/math/simultaneity/2_Concept/index.html from ./site/posts/qkab/math/simultaneity/2_Concept.md.
+Writing dist/posts/qkab/math/simultaneity/1_Terms/index.html from ./site/posts/qkab/math/simultaneity/1_Terms.md.
+Writing dist/page-list/1/index.html from ./site/page-list.njk.
+Writing dist/tags/lyn/index.html from ./site/tags.njk.
+Writing dist/page-list/2/index.html from ./site/page-list.njk.
+Writing dist/tags/todo/index.html from ./site/tags.njk.
+Writing dist/page-list/3/index.html from ./site/page-list.njk.
+Writing dist/tags/comp/index.html from ./site/tags.njk.
+Writing dist/page-list/4/index.html from ./site/page-list.njk.
+Writing dist/tags/neshama/index.html from ./site/tags.njk.
+Writing dist/page-list/5/index.html from ./site/page-list.njk.
+Writing dist/tags/qkab/index.html from ./site/tags.njk.
+Writing dist/page-list/6/index.html from ./site/page-list.njk.
+Writing dist/tags/external/index.html from ./site/tags.njk.
+Writing dist/page-list/7/index.html from ./site/page-list.njk.
+Writing dist/tags/hermetic/index.html from ./site/tags.njk.
+Writing dist/page-list/8/index.html from ./site/page-list.njk.
+Writing dist/tags/process/index.html from ./site/tags.njk.
+Writing dist/page-list/9/index.html from ./site/page-list.njk.
+Writing dist/tags/shaman/index.html from ./site/tags.njk.
+Writing dist/page-list/10/index.html from ./site/page-list.njk.
+Writing dist/tags/consciousness/index.html from ./site/tags.njk.
+Writing dist/page-list/11/index.html from ./site/page-list.njk.
+Writing dist/tags/poem/index.html from ./site/tags.njk.
+Writing dist/tags/communities/index.html from ./site/tags.njk.
+Writing dist/tags/game/index.html from ./site/tags.njk.
+Writing dist/tags/4d/index.html from ./site/tags.njk.
+Writing dist/tags/creation/index.html from ./site/tags.njk.
+Writing dist/tags/chashmal/index.html from ./site/tags.njk.
+Writing dist/tags/energy/index.html from ./site/tags.njk.
+Writing dist/tags/judaica/index.html from ./site/tags.njk.
+Writing dist/tags/zohar/index.html from ./site/tags.njk.
+Writing dist/tags/mandf/index.html from ./site/tags.njk.
+Writing dist/tags/midpoint/index.html from ./site/tags.njk.
+Writing dist/tags/tol/index.html from ./site/tags.njk.
+Writing dist/tags/chariot/index.html from ./site/tags.njk.
+Writing dist/tags/systems/index.html from ./site/tags.njk.
+Writing dist/tags/story/index.html from ./site/tags.njk.
+Writing dist/tags/mekubalim/index.html from ./site/tags.njk.
+Writing dist/tags/universal_kabbalah/index.html from ./site/tags.njk.
+Writing dist/tags/alchemy/index.html from ./site/tags.njk.
+Writing dist/tags/it/index.html from ./site/tags.njk.
+Writing dist/tags/tae/index.html from ./site/tags.njk.
+Writing dist/tags/cov-19/index.html from ./site/tags.njk.
+Writing dist/tags/parasha/index.html from ./site/tags.njk.
+Writing dist/tags/covid/index.html from ./site/tags.njk.
+Writing dist/tags/math/index.html from ./site/tags.njk.
+Writing dist/tags/speculum/index.html from ./site/tags.njk.
+Writing dist/tags/final/index.html from ./site/tags.njk.
+Writing dist/tags/science/index.html from ./site/tags.njk.
+Writing dist/tags/dimensions/index.html from ./site/tags.njk.
+Writing dist/tags/order+/index.html from ./site/tags.njk.
+Writing dist/tags/simultaneity/index.html from ./site/tags.njk.
+Writing dist/tags/postsascending/index.html from ./site/tags.njk.
+Writing dist/tags/neshamah/index.html from ./site/tags.njk.
+Copied 2009 files / Wrote 239 files in 9.28 seconds (38.8ms each, v0.12.1)
+Watching…
+[Browsersync] Reloading Browsers...

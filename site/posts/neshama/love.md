@@ -3,7 +3,7 @@ title: Love
 description: null
 tags: null
 date: 2021-11-30T15:32:16.154Z
-modified: 2021-11-30T16:41:17.020Z
+modified: 2022-01-05T19:03:56.550Z
 ---
 
 1. [Love](#love)
@@ -33,9 +33,11 @@ Think of love as white light, born untainted, pure and innocent, that splinters 
 
 ## Max love
 
-Here is a primary question of our time: How many people is the maximum that a person can truly love? This includes all the [different types of love](/site/posts/neshama/love_greek.md). ]How would one go about answering this question, or showing that there is no answer to this question? We know the lower bound is one - that which we call self-love. [Once again, the paradox of 2. When we say self-love, it is actually love of 2, the other is just you, yourself. So, the truth is that love must begin with two, though it starts of at one.
+Here is a primary question of our time: How many people is the maximum that a person can truly love? This includes all the [different types of love](/posts/neshama/love_greek/).
 
-It also seems also know logically, that there must be an upper bound.
+{How would one go about answering this question? Or showing that there is no answer to this question? We know the lower bound is one - that which we call self-love. Once again, here is the paradox of [bifurcation](bifurcation.html){which can be self-replication; or birth, a new creation - but that would need some "other" impulse to be able to manifest soemthing new. The only way we could even know that the unknown exists is because there is something in the unknown that calls to us. This is unique to our human experience as far as we can tell. It is only we who struggle with this impulse. All the animals exist in peace (except when disturbed by humans) with the fact of who/what they are. The lion is not striving to be a gazelle. The whale does not gaze wistfully at the seagull flying overhead. It is just living the life of a whale or lion. Only humans constantly wrestle with G-d... unless the opt out. }. When we say self-love, it is actually love of two, the other is just another you&mdash;perhaps a you you like more than you like your "self". So, the truth is that love must begin with two, though it starts of at one.
+
+It also seems logical that there must be an upper bound to the amount of people one can love. It is almost as if each one of us is granted a portion of love. We can love one deeply, or spread our love over many. The only caveat is to beware of loving the dead.
 
 Tests have been done, that show that the maximum amount of parallel tasks a human can preform at the same time is around seven. Like writing seven letters simultaneously. Yet, no research has been done into love. Perhaps we prefer it to be a mystery - that way it allows for more leeway. Seven might be a good starting place for an upper bound.
 
