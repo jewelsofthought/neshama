@@ -112,8 +112,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("site/assets/css");
   eleventyConfig.addPassthroughCopy("site/assets/img");
   eleventyConfig.addPassthroughCopy("site/assets/js");
-  eleventyConfig.addPassthroughCopy({"site/assets/fontawesome/css/": "assets/fontaswesome"});
-  eleventyConfig.addPassthroughCopy({"site/assets/fontawesome/webfonts/": "assets/fontaswesome"});
+  eleventyConfig.addPassthroughCopy({"site/assets/fontawesome/css/": "assets/fontawesome"});
+  eleventyConfig.addPassthroughCopy({"site/assets/fontawesome/webfonts/": "assets/fontawesome"});
 
 	// Markdown
 	const markdownIt = require("markdown-it");
