@@ -109,10 +109,10 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addWatchTarget("site/css/");
 
   // Copy the `img` and `css` folders to the output
-  eleventyConfig.addPassthroughCopy("site/img/");
-  eleventyConfig.addPassthroughCopy("site/posts/img/");
-	eleventyConfig.addPassthroughCopy("site/css/");
-  eleventyConfig.addPassthroughCopy("site/js/");
+  eleventyConfig.addPassthroughCopy("site/assets/img/");
+  eleventyConfig.addPassthroughCopy("site/assets/css/");
+	eleventyConfig.addPassthroughCopy("site/assets/fontaswesome/");
+  eleventyConfig.addPassthroughCopy("site/assets/js/");
 
 	// Markdown
 	const markdownIt = require("markdown-it");
