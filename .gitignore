@@ -1,5 +1,5 @@
 node_modules/
 package-lock.json
 dist/
-site/assets/sass
+site/vendors/
 nohup.out
