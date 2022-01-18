@@ -44,12 +44,6 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
   });
 
-  // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
-  eleventyConfig.addFilter('htmlDateString', (dateObj) => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
-  });
-
-
 	// Add math filter
 	eleventyConfig.addFilter('latex', content => {
 		return content.replace(/\$\$(.+?)\$\$/g, (_, equation) => {
@@ -60,6 +54,11 @@ module.exports = function(eleventyConfig) {
 			return katex.renderToString(cleanEquation, { throwOnError: false })
 		})
 	});
+
+  // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+  eleventyConfig.addFilter('htmlDateString', (dateObj) => {
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+  });
 
   // Get the first `n` elements of a collection.
   eleventyConfig.addFilter("head", (array, n) => {
@@ -79,7 +78,7 @@ module.exports = function(eleventyConfig) {
   });
 
   function filterTagList(tags) {
-    return (tags || []).filter(tag => ["all", "nav", "post", "posts", "tagList"].indexOf(tag) === -1).sort();
+    return (tags || []).filter(tag => ["all", "nav", "post", "posts", "neshama"].indexOf(tag) === -1).sort();
   }
 
   eleventyConfig.addFilter("filterTagList", filterTagList)
@@ -102,47 +101,38 @@ module.exports = function(eleventyConfig) {
 		})
 	);
 
-eleventyConfig.addCollection("Neshamah", function(collectionApi) {
-    return collectionApi.getFilteredByTag("neshama");
-  });
-
 	// To include sass
 	// need to add "sass -watch" to package.json
 	// eleventyConfig.addWatchTarget("./site/sass/");
 	// 
 	// For now, just watch the css folder for any changes
 	eleventyConfig.addWatchTarget("site/css/");
-	// If any images get upadated
-	eleventyConfig.addWatchTarget("site/posts/img");
 
-  // Copy the `css`, `js`, & `img` and `css` folders to the output
-  eleventyConfig.addPassthroughCopy("site/assets/");
+  // Copy the `img` and `css` folders to the output
+  eleventyConfig.addPassthroughCopy("site/img/");
   eleventyConfig.addPassthroughCopy("site/posts/img/");
+	eleventyConfig.addPassthroughCopy("site/css/");
+  eleventyConfig.addPassthroughCopy("site/js/");
 
 	// Markdown
 	const markdownIt = require("markdown-it");
 	const markdownItAnchor = require("markdown-it-anchor");
 	const markdownItFootnote = require("markdown-it-footnote");
-	const markdownItAttrs = require("markdown-it-attrs");
-	const markdownItContents = require("markdown-it-toc-done-right");
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
-    html: false,
+    html: true,
     breaks: true,
-		xhtmlOut: true,
-		typographer: true,
     linkify: true
   }).use(markdownItAnchor, {
     permalink: markdownItAnchor.permalink.ariaHidden({
       placement: "after",
       class: "direct-link",
-      symbol: "§",
+      symbol: "#",
       level: [1,2,3,4],
     }),
     slugify: eleventyConfig.getFilter("slug")
-  }).use(markdownItAttrs).use(markdownItContents).use(markdownItFootnote);
-
+  }).use(markdownItFootnote);
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Override Browsersync defaults (used only with --serve)
