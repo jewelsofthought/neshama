@@ -4,7 +4,7 @@ description: "Exodus: Finally, exodus from Egypt"
 tags:
   - parasha
 date: 2022-01-16T11:33:06.076Z
-modified: 2022-01-21T19:00:13.886Z
+modified: 2022-01-21T19:10:35.283Z
 ---
 
 ## Foreward
@@ -32,11 +32,16 @@ Alone is the most challenging and will test your commitment to its limits.
 
 15:26 Come Place of Bitterness: מרה. They found water, but it was bitter. Moshe Rabeinu throws a tree into the water to sweeten it. Then G-d tests us: I will establish a decree חוק and an ordinance משׁפת
 
-> &#x202b;וַיִּצְעַ֣ק אֶל־יְהֹוָ֗ה וַיּוֹרֵ֤הוּ יְהֹוָה֙ עֵ֔ץ וַיַּשְׁלֵךְ֙ אֶל־הַמַּ֔יִם וַֽיִּמְתְּק֖וּ הַמָּ֑יִם שָׁ֣ם שָׂ֥ם ל֛וֹ חֹ֥ק וּמִשְׁפָּ֖ט וְשָׁ֥ם נִסָּֽהוּ׃
+<blockquote dir="rtl">
+וַיִּצְעַ֣ק אֶל־יְהֹוָ֗ה וַיּוֹרֵ֤הוּ יְהֹוָה֙ עֵ֔ץ וַיַּשְׁלֵךְ֙ אֶל־הַמַּ֔יִם וַֽיִּמְתְּק֖וּ הַמָּ֑יִם שָׁ֣ם שָׂ֥ם ל֛וֹ חֹ֥ק 
+וּמִשְׁפָּ֖ט וְשָׁ֥ם נִסָּֽהוּ׃
+</blockquote>
 
 > So he cried out to the LORD, and the LORD showed him a piece of wood; he threw it into the water and the water became sweet. There He made for them a fixed rule, and there He put them to the test.
 
-> &#x202b;וַיֹּ֩אמֶר֩ אִם־שָׁמ֨וֹעַ תִּשְׁמַ֜ע לְק֣וֹל ׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ וְהַיָּשָׁ֤ר בְּעֵינָיו֙ תַּעֲשֶׂ֔ה וְהַֽאֲזַנְתָּ֙ לְמִצְוֺתָ֔יו וְשָׁמַרְתָּ֖ כׇּל־חֻקָּ֑יו כׇּֽל־הַמַּחֲלָ֞ה אֲשֶׁר־שַׂ֤מְתִּי בְמִצְרַ֙יִם֙ לֹא־אָשִׂ֣ים עָלֶ֔יךָ כִּ֛י אֲנִ֥י יְהֹוָ֖ה רֹפְאֶֽךָ׃ {ס}
+<blockquote dir="rtl">
+וַיֹּ֩אמֶר֩ אִם־שָׁמ֨וֹעַ תִּשְׁמַ֜ע לְק֣וֹל׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ וְהַיָּשָׁ֤ר בְּעֵינָיו֙ תַּעֲשֶׂ֔ה וְהַֽאֲזַנְתָּ֙ לְמִצְוֺתָ֔יו וְשָׁמַרְתָּ֖ כׇּל־חֻקָּ֑יו כׇּֽל־הַמַּחֲלָ֞ה אֲשֶׁר־שַׂ֤מְתִּי בְמִצְרַ֙יִם֙ לֹא־אָשִׂ֣ים עָלֶ֔יךָ כִּ֛י אֲנִ֥י יְהֹוָ֖ה רֹפְאֶֽךָ׃ {ס}
+</blockquote>
 
 > He said, “If you will heed the LORD your God diligently, doing what is upright in His sight, giving ear to His commandments and keeping all His laws, then I will not bring upon you any of the diseases that I brought upon the Egyptians, for I the LORD am your healer.”
 
@@ -69,12 +74,18 @@ Note 17-18: Esau hated his father, Jacob? Why?
 
 17: Complain - for the 3<sup>rd</sup> time
 
-> &#x202b;וַיִּקְרָא֙ שֵׁ֣ם הַמָּק֔וֹם מַסָּ֖ה וּמְרִיבָ֑ה
+<blockquote dir="rtl">
+וַיִּקְרָא֙ שֵׁ֣ם הַמָּק֔וֹם מַסָּ֖ה וּמְרִיבָ֑ה
+</blockquote>
+
 > Called the place "Trial and Quarrel"
 
 And the essential existential question regarding G-d appears:
 
-> &#x202b;הֲיֵ֧שׁ יְהֹוָ֛ה בְּקִרְבֵּ֖נוּ אִם־אָֽיִן
+<blockquote dir="rtl">
+הֲיֵ֧שׁ יְהֹוָ֛ה בְּקִרְבֵּ֖נוּ אִם־אָֽיִן
+</blockquote>
+
 > "Is HaShem present or not?"
 
 Does G-d exist? If He does, does He care?
@@ -100,6 +111,6 @@ Rashi: Only one-fifth left. However, they died in the plague of darkness If this
 
 ֨## Faith and Love
 
-        Can you love someone you have no faith in?
-        Isn't that the end of love, when you lose faith in your love
-        Then you forego love.
+    Can you love someone you have no faith in?
+    Isn't that the end of love, when you lose faith in your love
+    Then you forego love.

@@ -4,7 +4,7 @@ description: "Exodus: The killing of the first-born."
 tags:
   - parasha
 date: 2022-01-16T06:57:16.939Z
-modified: 2022-01-21T18:56:17.744Z
+modified: 2022-01-21T19:08:21.474Z
 ---
 
 1. [Tefillin](#tefillin)
@@ -17,7 +17,9 @@ The only difference between nature and the miraculous is that we are accustomed 
 
 At the end of the _Parashat Bo_, a sacred duty is placed upon us, to carry into the future as a sign, by laying _tefillin_, which contain scrolls telling of the Exodus.
 
-> &#x202b; וְהָיָ֤ה לְאוֹת֙ עַל־יָ֣דְכָ֔ה וּלְטוֹטָפֹ֖ת בֵּ֣ין עֵינֶ֑יךָ כִּ֚י בְּחֹ֣זֶק יָ֔ד הוֹצִיאָ֥נוּ יְהֹוָ֖ה מִמִּצְרָֽיִם׃
+<blockquote dir="rtl">
+ וְהָיָ֤ה לְאוֹת֙ עַל־יָ֣דְכָ֔ה וּלְטוֹטָפֹ֖ת בֵּ֣ין עֵינֶ֑יךָ כִּ֚י בְּחֹ֣זֶק יָ֔ד הוֹצִיאָ֥נוּ יְהֹוָ֖ה מִמִּצְרָֽיִם׃
+</blockquote>
 
 > "And so it shall be as a sign upon your hand and as a symbol on your forehead that with a might hand the Ha'shem freed us from Egypt."
 
@@ -25,7 +27,10 @@ This is a constant reminder for us, an action we repeat almost every day to remi
 
 The principle of the Unity of G-d. God is One.
 
-> &#x202b; שׁמא ישׂרַאל אדוני אלוהינו, אדוני אחד.
+<blockquote dir="rtl">
+ שׁמא ישׂרַאל אדוני אלוהינו, אדוני אחד.
+</blockquote>
+
 > "Hear O Israel, Your Lord, Your G-d, is One."
 
 To accept His omnipotence is the second. In the old language, we spoke of His Kingship - the state, or cloak of King, that is place upon someone. It speaks of rulers and empires, of the pharaoh and his ilk. It thus acknowledges and supports the concept of Kingship, which is only apt in reference to the Divine Omnipotent King who rules over us all. But it opens the door to human "kings" claiming divine status - and who can object?
