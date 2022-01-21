@@ -4,37 +4,43 @@ description: "Exodus: The killing of the first-born."
 tags:
   - parasha
 date: 2022-01-16T06:57:16.939Z
-modified: 2022-01-16T11:35:38.979Z
+modified: 2022-01-21T19:08:21.474Z
 ---
 
 1. [Tefillin](#tefillin)
 2. [Golden Calf](#golden-calf)
 3. [Forms of Heresy](#forms-of-heresy)
 
-   The only difference between nature and the miraculous is that we are accustomed to the former, and startled by the latter.
+The only difference between nature and the miraculous is that we are accustomed to the former, and startled by the latter.
 
 ## Tefillin
 
-At the end of the _Parashat Bo_, a sacred duty is placed upon us, to carry into the future as a sign, represented today by the laying of the _tefillin_, which contain scrolls telling of the Exodus.
+At the end of the _Parashat Bo_, a sacred duty is placed upon us, to carry into the future as a sign, by laying _tefillin_, which contain scrolls telling of the Exodus.
 
-         וְהָיָ֤ה לְאוֹת֙ עַל־יָ֣דְכָ֔ה וּלְטוֹטָפֹ֖ת בֵּ֣ין עֵינֶ֑יךָ כִּ֚י בְּחֹ֣זֶק יָ֔ד הוֹצִיאָ֥נוּ יְהֹוָ֖ה מִמִּצְרָֽיִם׃
+<blockquote dir="rtl">
+ וְהָיָ֤ה לְאוֹת֙ עַל־יָ֣דְכָ֔ה וּלְטוֹטָפֹ֖ת בֵּ֣ין עֵינֶ֑יךָ כִּ֚י בְּחֹ֣זֶק יָ֔ד הוֹצִיאָ֥נוּ יְהֹוָ֖ה מִמִּצְרָֽיִם׃
+</blockquote>
 
-      _"And so it shall be as a sign upon your hand and as a symbol on your forehead that with a might hand the Ha'shem freed us from Egypt."_
+> "And so it shall be as a sign upon your hand and as a symbol on your forehead that with a might hand the Ha'shem freed us from Egypt."
 
-This is a constant reminder for us, almost an action we repeat every day to remind us of who we are, and our duties and responsibilities as human beings who are part of something greater (whether a family, a community, or a belief in the goodness of G-d, together with whom we will herald in the coming of the Messianic era.)
+This is a constant reminder for us, an action we repeat almost every day to remind us of who we are, and our duties and responsibilities as human beings who are part of something greater (whether a family, a community, or a belief in the goodness of G-d, together with whom we will herald in the coming of the Messianic era.) There are four reminders wrapped into the mystery of the _tefillin_.
 
-1. Unity: God is One.
-2. King: Accept His omnipotence.  
-   // old: Accept his Kingship. What does kingship actually mean? It is too close to the pharaoh and his ilk. It thus acknowledges and supports the concept of Kingship, which is only apt when referring to the Divine King. But it opens the door to human kings and their claim of Divinity - especially as messengers of the King of kings.
-3. Karma: Acknowledge the dynamics cause and effect
-   // The concept of reward and punishment fits into the realm of kingship. The king who rewards and punishes, and has the "right" to do so... No, God is good, and thus it is if you behave according to the laws of God/Nature, you will find balance and peace, and if not, you might find it challenging.
+The principle of the Unity of G-d. God is One.
 
-4. Binding: Responsibility to obey His commandments/orders - which are _mitzvot_ - a binding, an assertian of the desire to have/acknowledgement our relationship.
-   These orders were set down thousands of years ago. Perhaps they need updating. Would the commandments of the Infinite Being be given once, and never again? If creation is continuos, are these laws not being continuously recreated as well? Many aspects of the Torah are interpreted and expressed in the vernacular of the time. We cannot deny that Judaism, as a practice, has changed and evolved - as has humanity, the transmitters of this Wisdom.
+<blockquote dir="rtl">
+ שׁמא ישׂרַאל אדוני אלוהינו, אדוני אחד.
+</blockquote>
 
-We bind the arm - action, opposite to the heart - emotion, and then place the head piece - which represents the intellect and memory. Memory allows us to be conscious and aware of our obligations... My question is whether the practice - outer form - of these obligations are set in stone, and unchanging. For I put forward that it is the inner obligation(s) - to love Ha'Shem with all your heart and soul - that does not change.
+> "Hear O Israel, Your Lord, Your G-d, is One."
 
-The commandments are reminders of the Exodus from Egypt. There is a dimension of Exodus that affects the whole Torah. To my previous point:
+To accept His omnipotence is the second. In the old language, we spoke of His Kingship - the state, or cloak of King, that is place upon someone. It speaks of rulers and empires, of the pharaoh and his ilk. It thus acknowledges and supports the concept of Kingship, which is only apt in reference to the Divine Omnipotent King who rules over us all. But it opens the door to human "kings" claiming divine status - and who can object?
+
+The next reminder is that of Karma. Acknowledge the dynamics of cause and effect. The previous concept of reward and punishment fitted in to the realm of kingship. It is, after all, a king who metes out reward and punishment, and has the sovereign right to. No, G-d does not punish us, nor does he reward us! We reap what we sow. If you behave according to the Will of G-d, as expressed in the so-called "laws of nature", you will find balance and some peace. As long as you fight against His Will, you will find your life beset.
+
+Finally, there is the binding. The promise and commitment to obey his מִתצבות, his commandments/orders - which are his _mitzvot_, which themselves mean, binding, an assertian of the
+These orders were set down thousands of years ago. Would the commandments of the Infinite Being be given once, and never again? If creation is continuous, and evolutionary, does the practice of these laws not being continuously recreated as well? Many aspects of the Torah are interpreted and expressed in the vernacular of the time. We cannot deny that Judaism, as a practice, has changed and evolved - as has humanity, the transmitters of this Wisdom. We bind the arm - action, opposite to the heart - emotion, and then place the head piece - which represents the intellect and memory. Memory allows us to be conscious and aware of our obligations. My question is whether the practice - the outer form - of these obligations are set in stone, and unchanging. For I put forward that it is the inner obligation(s) - to love _Ha'Shem_ with all your heart and soul - that does not and cannot change.
+
+These scrolls are reminders of the Exodus from Egypt. It is also acknowledged that there is a dimension of Exodus that affects the whole Torah. Thus to my previous point:
 
 1. It is still ongoing
 2. We cannot do the same thing and expect a different result. That persecution, anti-semitism and hatred, will not arise this time! But what is this change that is needed?
