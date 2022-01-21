@@ -7,8 +7,8 @@
     <meta name="description" content="{{ description or metadata.description }}">
     
     <!--link rel="stylesheet" href="{{ '/assets/css/index.css' | url }}"-->
-    <link rel="stylesheet" href="{{ '/assets/fontawesome/fontawesome.min.css' | url }}">
-    <link rel="stylesheet" href="{{ '/assets/fontawesome/solid.min.css' | url }}">
+    <link rel="stylesheet" href="{{ '/assets/fonts/fontawesome.min.css' | url }}">
+    <link rel="stylesheet" href="{{ '/assets/fonts/solid.min.css' | url }}">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | url }}">
     <link rel="stylesheet" href="{{ '/assets/css/katex.min.css' | url }}">
     
@@ -18,28 +18,28 @@
 
   </head>
   <body>
+
     <!--header -->
     <header>
       {% include "nav.njk" %}
     </header>
-
+    
     <!--content -->
     <div class="container">
-
       <div class="columns is-8 layout-base">
         <main role="main" class="content{% if templateClass %} {{ templateClass }}{% endif %}">
         {{ content | safe }}
         </main>
       </div>
-    </div>
+     </div>
   
     <!--footer -->
     {% include "footer.njk" %}
 
     <!-- Javascript (at end of document) -->
-    <script src="assets/js/vue.min.js"></script>
+    <script src="/assets/js/vue.min.js"></script>
 
-    <script src="assets/js/bulma-burger-vue.js"></script>
+    <script src="/assets/js/bulma-burger-vue.js"></script>
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
