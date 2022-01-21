@@ -25,15 +25,15 @@
     <header>
       {% include "nav.njk" %}
     </header>
-
+    
     <!--content -->
-
-      <div class="columns is-centered layout-base">
+    <div class="container">
+      <div class="columns is-8 layout-base">
         <main role="main" class="content{% if templateClass %} {{ templateClass }}{% endif %}">
         {{ content | safe }}
         </main>
       </div>
-   
+     </div>
   
     <!--footer -->
     {% include "footer.njk" %}
