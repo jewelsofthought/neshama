@@ -1,8 +1,8 @@
 ---
-title: bio-engineering info
+title: Bio-engineering
 tags:
   - cov-19
-modified: 2021-11-26T13:36:39.056Z
+modified: 2021-12-05T18:30:37.317Z
 ---
 
 1. [Nanopore Tech](https://nanoporetech.com) (from Oxford w/Harvard, etc)
@@ -21,4 +21,4 @@ modified: 2021-11-26T13:36:39.056Z
 
 3. [Gut Biohome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8234057/) - gut largest ecosystem)
 4. [BioTech Institute](https://www.biocodexmicrobiotainstitute.com/en)
-5. ddddd[Agro BioTech](agbt.org)
+5. [Agro BioTech](agbt.org)

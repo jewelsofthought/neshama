@@ -4,16 +4,16 @@ description: Graph definitions
 tags:
   - external
 date: 2021-12-02T14:53:49.621Z
-modified: 2021-12-02T15:45:40.439Z
+modified: 2021-12-06T15:51:21.414Z
 ---
 
 ## Graph
 
       Graphs consist of vertices (or nodes) connected by edges.
 
-Formally, a graph is denoted as a pair $G(V, E)$.
+Formally, a graph is denoted as a pair $$G(V, E)$$.
 
-Where $V$ represents the finite set vertices and $E$ represents the finite set edges.
+Where $$V$$ represents the finite set vertices and $$E$$ represents the finite set edges.
 
 ![3-Cycle graph](/posts/img/tol/g01-3%20node%20graph.png)
 _A basic graph of **3 cycle**_
@@ -56,8 +56,8 @@ A graph is said to be planar if it can be drawn on a flat plane without any of t
 
 Suppose a planar graph has VV vertices, FF faces, and EE edges. Then
 
-$V − E + F = 2$
-$V − E + F =2$
+$$V − E + F = 2$$
+$$V − E + F =2$$
 
 ## Trees, Degree and Cycle of Graph
 
