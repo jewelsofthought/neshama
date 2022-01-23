@@ -4,10 +4,14 @@ description: The line & infinity
 tags: null
 date: 2021-10-08T08:43:25.481Z
 <<<<<<< HEAD
+<<<<<<< HEAD
 modified: 2022-01-05T19:07:13.396Z
 =======
 modified: 2021-11-17T17:01:31.170Z
 >>>>>>> 6a095b3 (Initial commit)
+=======
+modified: 2022-01-05T19:07:13.396Z
+>>>>>>> 67bd52a (Fixed bad links)
 ---
 
 1. [Linear](#linear)
@@ -35,6 +39,7 @@ There are two ways to designate a straight line:
 The latter two introduces the concept of movement in a certain direction thus that of goal & purpose. Male envisages movement as essentially linear. Thus, with power, he continues in a straight line to his goal, ignoring any collateral damage, and not knowing when he has crossed the line, except after the crossing. The discipline, and constraint, is to know when to stop, when you have reached the "end".
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 However, that is not the topic of the moment, just note that this now has three aspects, or parts, that can be designated: beginning, [middle](/posts/qkab/middle/) and end. This partition can be found elsewhere too, as past, present & future, and inside, skin & outside, etc. One could use this mapping to describe a three-dimensional space.
 
 This is often reduced further (by the effects of egotism, or narcissism) to a two-dimensional space of the border & what is inside - ignoring the actual reality of what is outside the "borders", however defined. For we "[awaken to consciousness](/posts/qkab/consciousness/)" inside, and begin to garner information through our skin of our vessels regarding the "outside". If that outside is exciting, and inviting, and safe, we are more likely to respond to it, and be open to it. If it is not, we are more likely to create a harder shell of protection from a more hostile environment. This produces binary, us & them, polarised thinking.
@@ -43,6 +48,11 @@ However, that is not the topic of the moment, just note that this now has three 
 
 This is often reduced further (by the effects of egotism, or narcissism) to a two-dimensional space of the border & what is inside - ignoring the actual reality of what is outside the "borders", however defined. For we "[awaken to consciousness](../consciousness.md)" inside, and begin to garner information through our skin of our vessels regarding the "outside". If that outside is exciting, and inviting, and safe, we are more likely to respond to it, and be open to it. If it is not, we are more likely to create a harder shell of protection from a more hostile environment. This produces binary, us & them, polarised thinking.
 >>>>>>> 6a095b3 (Initial commit)
+=======
+However, that is not the topic of the moment, just note that this now has three aspects, or parts, that can be designated: beginning, [middle](/posts/qkab/middle/) and end. This partition can be found elsewhere too, as past, present & future, and inside, skin & outside, etc. One could use this mapping to describe a three-dimensional space.
+
+This is often reduced further (by the effects of egotism, or narcissism) to a two-dimensional space of the border & what is inside - ignoring the actual reality of what is outside the "borders", however defined. For we "[awaken to consciousness](/posts/qkab/consciousness/)" inside, and begin to garner information through our skin of our vessels regarding the "outside". If that outside is exciting, and inviting, and safe, we are more likely to respond to it, and be open to it. If it is not, we are more likely to create a harder shell of protection from a more hostile environment. This produces binary, us & them, polarised thinking.
+>>>>>>> 67bd52a (Fixed bad links)
 
 On the outside is all that is unknown, and really contains the great adventure of life. For, is it not the Hero's Journey to venture out into the unknown, and, once having overcome all the challenges of his or her encounter(s) with the unknown, returns home a hero?
 
@@ -101,10 +111,14 @@ So, to the most balanced and productive relationship with this background within
 ## Formlessness
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 What do we have? We have the background. We have the point - which we called the ["beginning"](/posts/qkab/beginning/) - and it exists somewhere inside this background. This is the only point of reference we have, which we also refer to as "the point of origin". This is a "static" point, in relation to whatever line is formed. If the line is continuous and coherent (can be tracked) - then we can always find the beginning... But, that point is not real anymore. It happened, and it could take billions of years for you to realise that. And the only place you can realise it from is your present point of awareness - which the moment you are aware of, it changes! Thus the only solution to this conundrum is to enter a state of formlessness and merge, become One, with the background, like a fish in the water. So that you can flow with the currents of time, holding your self, not your position or your place in the story. Remember, like reading a book. You remember your place so that you can return to that story and continue where you left off. But once you continue, you no longer need the bookmark. And to remember every bookmark along the way, would be foolish - and never let you get on with the story.
 =======
 What do we have? We have the background. We have the point - which we called the "beginning" - and it exists somewhere inside this background. This is the only point of reference we have, which we also refer to as "the point of origin". This is a "static" point, in relation to whatever line is formed. If the line is continuous and coherent (can be tracked) - then we can always find the beginning... But, that point is not real anymore. It happened, and it could take billions of years for you to realise that. And the only place you can realise it from is your present point of awareness - which the moment you are aware of, it changes! Thus the only solution to this conundrum is to enter a state of formlessness and merge, become One, with the background, like a fish in the water. So that you can flow with the currents of time, holding your self, not your position or your place in the story. Remember, like reading a book. You remember your place so that you can return to that story and continue where you left off. But once you continue, you no longer need the bookmark. And to remember every bookmark along the way, would be foolish - and never let you get on with the story.
 >>>>>>> 6a095b3 (Initial commit)
+=======
+What do we have? We have the background. We have the point - which we called the ["beginning"](/posts/qkab/beginning/) - and it exists somewhere inside this background. This is the only point of reference we have, which we also refer to as "the point of origin". This is a "static" point, in relation to whatever line is formed. If the line is continuous and coherent (can be tracked) - then we can always find the beginning... But, that point is not real anymore. It happened, and it could take billions of years for you to realise that. And the only place you can realise it from is your present point of awareness - which the moment you are aware of, it changes! Thus the only solution to this conundrum is to enter a state of formlessness and merge, become One, with the background, like a fish in the water. So that you can flow with the currents of time, holding your self, not your position or your place in the story. Remember, like reading a book. You remember your place so that you can return to that story and continue where you left off. But once you continue, you no longer need the bookmark. And to remember every bookmark along the way, would be foolish - and never let you get on with the story.
+>>>>>>> 67bd52a (Fixed bad links)
 
 ## Memories
 
@@ -121,10 +135,14 @@ Because any narrative that attemps to describe the "real" world(s) we live in ca
 ## In the beginning
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 In the beginning was the absolute totality of the infinite of infinities, _Ein Sof Aur_. Perfection reigns, endless peace and harmony, no disturbance, no ripple.... complete nothingness - and infinite ocean of bliss. Upon this background it is impossible to depict anything, to say anything. For how could one use finite minds to describe an infinite event? However, something changed, something shifted, something happened to disturb this endless emptiness, and we say that "a point emerged" ex-nihilo - out of nothing. We call this "the beginning". This is know as the centre - or [middle point](/posts/qkab/middle/).
 =======
 In the beginning was the absolute totality of the infinite of infinities, _Ein Sof Aur_. Perfection reigns, endless peace and harmony, no disturbance, no ripple.... complete nothingness - and infinite ocean of bliss. Upon this background it is impossible to depict anything, to say anything. For how could one use finite minds to describe an infinite event? However, something changed, something shifted, something happened to disturb this endless emptiness, and we say that "a point emerged" ex-nihilo - out of nothing. We call this "the beginning". This is know as the centre - or middle point.
 >>>>>>> 6a095b3 (Initial commit)
+=======
+In the beginning was the absolute totality of the infinite of infinities, _Ein Sof Aur_. Perfection reigns, endless peace and harmony, no disturbance, no ripple.... complete nothingness - and infinite ocean of bliss. Upon this background it is impossible to depict anything, to say anything. For how could one use finite minds to describe an infinite event? However, something changed, something shifted, something happened to disturb this endless emptiness, and we say that "a point emerged" ex-nihilo - out of nothing. We call this "the beginning". This is know as the centre - or [middle point](/posts/qkab/middle/).
+>>>>>>> 67bd52a (Fixed bad links)
 
 ## Bow & Arrow
 

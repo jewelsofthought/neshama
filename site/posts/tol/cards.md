@@ -44,7 +44,7 @@ description: Miscellaneous ideas
 tags: null
 >>>>>>> 1086fed (More)
 date: 2021-11-11T10:38:07.290Z
-modified: 2022-01-05T10:38:01.474Z
+modified: 2022-01-05T11:15:48.841Z
 ---
 
 1. [Systems (old)](#systems-old)
@@ -65,6 +65,7 @@ modified: 2022-01-05T10:38:01.474Z
 5. [Governance in the global space.](#governance-in-the-global-space)
 6. [666m (cov-19)](#666m-cov-19)
 7. [Fish](#fish)
+<<<<<<< HEAD
 8. [Seeding](#seeding)
 <<<<<<< HEAD
 >>>>>>> 1086fed (More)
@@ -72,6 +73,14 @@ modified: 2022-01-05T10:38:01.474Z
 9. [Great Pirates](#great-pirates)
 10. [Information scarcity](#information-scarcity)
 >>>>>>> 8ad5948 (Update)
+=======
+8. [Great Pirates](#great-pirates)
+9. [Information scarcity](#information-scarcity)
+
+## Specialisation
+
+Specialisation produces a web of Inter-dependencies
+>>>>>>> 67bd52a (Fixed bad links)
 
 ## Systems (old)
 
@@ -131,9 +140,12 @@ Like a school of fish, all travelling in the same direction. But what position a
 <<<<<<< HEAD
 =======
 
+<<<<<<< HEAD
 ## Seeding
 >>>>>>> 1086fed (More)
 
+=======
+>>>>>>> 67bd52a (Fixed bad links)
 I have been trying to build the tree from the top down, starting at the root and spreading out from there. The actual way that it needs to be expressed is each individual as a seed, that grows into a tree, that becomes a forest... connecting to all the other "forests" out there.
 
 The health of any forest is determined both by the health of its trees, that is the health of its members, and the environment in which they grow. As well as the environment around the forest, with the climate, the rain, and the other factors that sustain a healthy forest.

@@ -21,7 +21,7 @@ title: zero & one
 description: Everything exists betwee 0 & 1
 tags: null
 date: 2021-11-28T09:44:05.859Z
-modified: 2021-11-30T16:44:55.230Z
+modified: 2022-01-05T17:28:09.109Z
 ---
 
 There is a 1-1 correspondence between any set and the real numbers between 0 & 1.
@@ -71,8 +71,6 @@ In the beginning I am not aware of the end, or that there is even an end. A majo
 This I-ness is not yet an aware $I$. It is just conscious of its I-ness. For this $i$, it's I-ness is a fact (or life, one could say). It takes many years (six or so, I believe), for the 'i' to become aware of its I. And it actually only becomes real, upon authentically encountering another I - which will generally happen through love, if 1 is lucky enough to experience it.[The journey of the I](I.html)
 
 My story begins with the one I am becoming, in the all that 'I am not'. Now, one thing one know(s), is that there was a time when there was no-one. As far as one was concerned, there was no other one, 'no-thing', at very least, no one. So one decided to give itself a name, and called itself Point. So we say that this one can be represent ed by a point.
-
-[excluded_middle](excluded_mid.html){This is also an expression of what is known as the principle of the excluded middle: if P then there exists a ~P. For everything that exists there is an equal and opposite, if only in potential. Or, with something everyone is familiar with: "For every action, there is an equal and opposite reaction". This applies to energy, but I propose that it applies to everything - though not necessarily equal and opposite by our standards of measurement.}
 
 Another way of looking at it, is that every shape has a positive version and a negative one. For instance the triangle has both an inner triangle, and an outer one. Why is this a positive and a negative? Well, if we think from the perspective of the triangle, then everything inside the triangle is part of triangle, and everything outside of triangle is out of triangle, like $t+$ and $t-$.
 

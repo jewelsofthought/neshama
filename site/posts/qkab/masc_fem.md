@@ -10,10 +10,14 @@ tags:
   - m&f
 date: 2021-11-17T18:23:23.287Z
 <<<<<<< HEAD
+<<<<<<< HEAD
 modified: 2022-01-06T17:56:11.129Z
 =======
 modified: 2021-11-26T11:25:24.360Z
 >>>>>>> 6a095b3 (Initial commit)
+=======
+modified: 2022-01-05T19:06:40.862Z
+>>>>>>> 67bd52a (Fixed bad links)
 ---
 
 1. [Masculine & Feminine](#masculine--feminine)
@@ -78,12 +82,19 @@ Love, too, needs constant nourishment, though we know that material things are n
 
 > The desire for power, greed, is a feminine trait. It devours whatever it can, an unbalanced form of receiving.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 67bd52a (Fixed bad links)
 
 ## Transform
 
 ![transformation - from energy to form](/posts/img/tol/fn-mf.png)
 _The female transforms the male energy into form_
 
+<<<<<<< HEAD
 However, it requires the union of male &amp; female, and, on the upper level, it requires this union to be harmonious and balanced. If the male is not contained by the female, and manifests form, it is misplace (misappropriated) energy, thus has the tendency to become destructive, as it will need to destroy this form (the female). If energy is not utilised, not only does it go to waste, but it turns toxic. [anaerobic - no oxygen](anaerobic.html). Think of under-utilised electrical energy&mdash;like a fully charged battery.
 =======
 >>>>>>> 6a095b3 (Initial commit)
+=======
+However, it requires the union of male &amp; female, and, on the upper level, it requires this union to be harmonious and balanced. If the male is not contained by the female, and manifests form, it is misplace (misappropriated) energy, thus has the tendency to become destructive, as it will need to destroy this form (the female). If energy is not utilised, not only does it go to waste, but it turns toxic. {anaerobic - no oxygen}. Think of under-utilised electrical energy&mdash;like a fully charged battery.
+>>>>>>> 67bd52a (Fixed bad links)
