@@ -11,6 +11,7 @@ page:
   - 7
 tags:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - alchemy
   - external
 modified: 2021-11-08T16:04:52.382Z
@@ -19,6 +20,10 @@ modified: 2021-11-08T16:04:52.382Z
   - hexagram
 modified: 2021-10-07T04:18:52.802Z
 >>>>>>> b85818c (More)
+=======
+  - hexagram
+modified: 2021-10-07T05:00:30.702Z
+>>>>>>> 1013aaf (Tag changes)
 ---
 
 ## THE HEXAGRAM AND HEBRAIC SACRED SCIENCE

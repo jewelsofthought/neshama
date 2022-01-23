@@ -15,6 +15,7 @@ ref:
 tags:
   - neshama
 <<<<<<< HEAD
+<<<<<<< HEAD
 date: 2021-08-21T00:00:00.000Z
 modified: 2021-11-26T14:14:13.877Z
 ---
@@ -25,8 +26,10 @@ modified: 2021-11-26T14:14:13.877Z
 [moved to](/posts/qkab/beginning/)
 =======
   - book-gift
+=======
+>>>>>>> 1013aaf (Tag changes)
 date: 2021-08-21T00:00:00.000Z
-modified: 2021-09-23T11:52:47.082Z
+modified: 2021-10-07T05:03:22.924Z
 ---
 
 1. [In the Beginning](#in-the-beginning)
