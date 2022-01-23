@@ -5,6 +5,7 @@ tags: null
 date: 2022-01-04T15:37:15.102Z
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 modified: 2022-01-05T10:30:38.229Z
 ---
 
@@ -22,6 +23,17 @@ modified: 2022-01-04T17:57:52.860Z
 ---
 
 >>>>>>> 952b01a (From Work/Tol/Draw)
+=======
+modified: 2022-01-05T10:30:38.229Z
+---
+
+1. [Together We Stand](#together-we-stand)
+2. [Multi-dimensional being](#multi-dimensional-being)
+3. [Personal](#personal)
+4. [Action -> effect](#action---effect)
+5. [Quadrant](#quadrant)
+
+>>>>>>> a84ac29 (fixed)
 ## Together We Stand
 
 > The highest form of giving is when the giver is unknown and the beneficiary is unknown.
@@ -39,10 +51,15 @@ The essence of the path has to be sharing and collaboration. Together we stand, 
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Multi-dimensional being
 
 =======
 >>>>>>> 952b01a (From Work/Tol/Draw)
+=======
+## Multi-dimensional being
+
+>>>>>>> a84ac29 (fixed)
 Think of yourself as a multi-dimensional being. If that is too difficult, as the question might arise, what is a dimension actually - and the answer, as you can imagine, is not simple, then think of it as being pulled by numerous "attractors", like a cart, that is pulled by lots of horses. Think of a habit as one of those pulls. An addiction is an unstoppable (omnipotent), or omni-present pull. Omnipotent - as in you being powerless in its grip.
 
 When you change a habit or free yourself from an addiction, you have changed your "shape" in the world, and the attractions that were guiding/directing/pulling you, have changed. In other words, the very shape of your being has changed.
@@ -51,6 +68,7 @@ And if one part of the whole shape changes, then the shape itself (generally) wi
 
 ---
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ## Personal
 
@@ -70,8 +88,15 @@ Energy only appears when there is a differential - which means one gets nourishe
 Depending in which quadrant you stand, one pair will be supportive, the other detrimental to the one in the quadrant.
 =======
 P: Why show me the path, and then I die with never having revealed it? It is the way forward, it is the only reasonable future to hope for. For, if not that one, then what alternatives are there? A totalitarian regime, with absolute control over the whole of humanity? Or a bloody, chaotic descent into barely surviving pockets of humanity (if we survive the apocalypse)
+=======
+## Personal
+
+Why show me the path, and then I die with never having revealed it? It is the way forward, it is the only reasonable future to hope for. For, if not that one, then what alternatives are there? A totalitarian regime, with absolute control over the whole of humanity? Or a bloody, chaotic descent into barely surviving pockets of humanity (if we survive the apocalypse)
+>>>>>>> a84ac29 (fixed)
 
 ---
+
+## Action -> effect
 
 Any action, just by living, we affect the environment. With this mass of people, anything we do at scale will significantly affect the environment - generally detrimentally.
 
