@@ -1,5 +1,6 @@
 ---
 title: Consciousness, et. al.
+<<<<<<< HEAD
 description: Consciousness - God or AI?
 tags:
   - consciousness
@@ -72,3 +73,13 @@ Imagine each moment of interaction (action -> reaction) as a supernova that spew
 From that vantage point, it looks something like this:
 
 > _From the depth of my being rises the impulse. With enough power and faith, it bursts forth and engages the other. At that tangential moment/pt of contact, the “shock wave” spreads out in all directions, proportional to the impact/power of the interaction._ > _It could be fleeting; it could be life changing._
+=======
+description: Pieces
+tags: null
+modified: 2021-10-03T17:37:04.241Z
+---
+
+## Consciousness is fundamental
+
+![Piece on self](consciousness.png)
+>>>>>>> 2a9f6d5 (Posts)

@@ -1,6 +1,7 @@
 ---
 title: PEMS
 description: Physical, Emotional, Mental, Spiritual
+<<<<<<< HEAD
 tags: null
 date: 2021-10-08T15:32:28.677Z
 modified: 2021-11-28T17:42:42.976Z
@@ -53,3 +54,16 @@ Spiritual: Belief in G-d, Encounter with G-d.
 | gluon     | psions           | proton             | electron                             |
 | higgs     | kaons            | neutron            | neutrino                             |
 | -         | -                | [3Q]               | [Q<sup>+</sup>, Q<sup>-&nbsp;</sup>] |
+=======
+date: 2021-10-21T16:00:00.000Z
+tags: null
+modified: 2021-09-26T19:38:18.644Z
+---
+
+## PEMS
+
+Physical – brain – chemical
+Emotional – feeling, toxic feelings
+Mind – stinking thinking
+Spiritual – love God with all your heart and all your soul
+>>>>>>> 2a9f6d5 (Posts)
