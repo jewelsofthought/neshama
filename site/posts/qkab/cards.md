@@ -6,6 +6,7 @@ description: Random thoughts
 tags: null
 date: 2021-11-04T15:00:27.882Z
 modified: 2021-11-30T16:31:30.941Z
+<<<<<<< HEAD
 ---
 
 1. [Collection of Pieces:](#collection-of-pieces)
@@ -51,6 +52,8 @@ description: Random thoughts
 tags: null
 date: 2021-11-04T15:00:27.882Z
 modified: 2021-11-21T09:05:37.211Z
+=======
+>>>>>>> bdfc3da (Tag cleansing, some additions, mainly external)
 ---
 
 <<<<<<< HEAD
@@ -103,7 +106,10 @@ modified: 2021-11-21T09:05:37.211Z
       3. [Free Choice (Prayer )](#free-choice-prayer-)
       4. [Free Will](#free-will)
    9. [Freedom](#freedom)
-   10. [Thoughts (Personal)](#thoughts-personal)
+   10. [Aware of the Circle (math)](#aware-of-the-circle-math)
+   11. [Arrogance](#arrogance)
+   12. [Compass](#compass)
+   13. [Enlightenment](#enlightenment)
 
 # Collection of Pieces:
 >>>>>>> 39fe66e (Updated these files' content)
@@ -408,6 +414,9 @@ There is a difference between the name - which is a pointer - and the actual obj
 
 This is the road to narcissism, and megalomania.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bdfc3da (Tag cleansing, some additions, mainly external)
 
 ## Compass
 
@@ -432,7 +441,10 @@ The shame of this present generation is their lack of acknowledgement of the yea
 Their arrogance is in their thinking that they are the first generation to wrestle with this existential problem - or are the best equipped to find a "solution" to a problem.
 
 A problem that is in fact an intrinsic aspect of the system itself.
+<<<<<<< HEAD
 =======
 >>>>>>> 50b50e2 (new additions)
 =======
 >>>>>>> 39fe66e (Updated these files' content)
+=======
+>>>>>>> bdfc3da (Tag cleansing, some additions, mainly external)

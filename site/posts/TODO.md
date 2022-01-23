@@ -7,6 +7,7 @@ tags:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 date: 2021-11-19T16:20:24.096Z
 modified: 2021-11-26T13:44:18.269Z
 =======
@@ -18,6 +19,10 @@ modified: 2021-10-21T17:22:49.590Z
 =======
 modified: 2021-11-19T16:20:24.096Z
 >>>>>>> 39fe66e (Updated these files' content)
+=======
+date: 2021-11-19T16:20:24.096Z
+modified: 2021-11-26T13:44:18.269Z
+>>>>>>> bdfc3da (Tag cleansing, some additions, mainly external)
 ---
 
 # TODO
@@ -153,7 +158,7 @@ modified: 2021-10-08T06:37:58.223Z
     - codependent.html...
 31. systems.html - [ tolnet/old/tae_questions#complex ] { complex systems }
 32. qkab/waves.html - [ tolnet/old/tae_questions#complex ]{ frequency, vibrations, waves}
-33. creation.html - [ qkab/cards.md##desire ] { zero to one }
+33. creation.html - [ qkab/cards.md#desire ] { zero to one }
 
 ---
 

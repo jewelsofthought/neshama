@@ -3,6 +3,7 @@ title: PEMS
 description: Physical, Emotional, Mental, Spiritual
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 tags: null
 date: 2021-10-08T15:32:28.677Z
 modified: 2021-11-28T17:42:42.976Z
@@ -69,6 +70,11 @@ modified: 2021-10-10T13:36:10.806Z
 =======
 modified: 2021-10-10T16:40:44.161Z
 >>>>>>> a2376e4 (More posts)
+=======
+tags: null
+date: 2021-10-08T15:32:28.677Z
+modified: 2021-11-28T17:42:42.976Z
+>>>>>>> bdfc3da (Tag cleansing, some additions, mainly external)
 ---
 
 ## PEMS-1

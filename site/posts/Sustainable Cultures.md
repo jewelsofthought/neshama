@@ -4,21 +4,25 @@ description: A Values System Perspective on Constructive Dialogue and Cooperativ
 url: https://spiraldynamics.net/archives/f/sustainable-cultures-sustainable-planet
 author: Don Edward Beck, Ph.D
 date: 2020-03-05T00:00:00.000Z
-tags: null
-modified: 2021-11-14T16:29:16.178Z
+tags:
+  - external
+modified: 2021-11-26T09:30:34.302Z
 ---
 
-![Illustration of Spiral Dynamics of Human Nature](/posts/img/dynsys/spiral-nature-01.jpg)
+1. [Sustainable Cultures, Sustainable Planet](#sustainable-cultures-sustainable-planet)
+   1. [In the Beginning. . .](#in-the-beginning--)
+   2. [The Developmental Track](#the-developmental-track)
+      1. [First, These Assumptions…](#first-these-assumptions)
+      2. [Challenge to NIDO](#challenge-to-nido)
+   3. [Now, the Main Act...](#now-the-main-act)
+      1. [Understand the codes that shape cultures and drive change](#understand-the-codes-that-shape-cultures-and-drive-change)
+   4. [THE LIVING STRATA IN OUR PSYCHO-CULTURAL ARCHEOLOGY](#the-living-strata-in-our-psycho-cultural-archeology)
+      1. [Monitor vital signs and tension zones to track sustainability indicators](#monitor-vital-signs-and-tension-zones-to-track-sustainability-indicators)
+   5. [Implement integral policies to promote cultural sustainability](#implement-integral-policies-to-promote-cultural-sustainability)
 
-1. Beige
-2. Purple
-3. Red
-4. Blue
-5. Orange
-6. Green
-7. Yellow
-8. Turquoise
-9. Reddish?
+## Illustration of Spiral Dynamics of Human Nature
+
+![Illustration of Spiral Dynamics of Human Nature](/posts/img/dynsys/spiral-nature-01.jpg)
 
 # Sustainable Cultures, Sustainable Planet
 

@@ -1,12 +1,12 @@
 ---
 title: Notes on The Path of Blessing
-URL: https://alexandermassey.com/path-of-blessing-prager/
+url: https://alexandermassey.com/path-of-blessing-prager/
 author: Alexander Massey
 tags:
   - external
   - judaica
 date: 2021-10-24T13:26:52.768Z
-modified: 2021-11-08T16:01:03.397Z
+modified: 2021-11-25T14:16:52.310Z
 ---
 
 1. [Notes on The Path of Blessing](#notes-on-the-path-of-blessing)

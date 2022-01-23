@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: SY genetics
 description: Interpreting the "Sefer Yetzirah" through Genetic Engineering
 tags:
@@ -8,6 +9,16 @@ date: 2021-11-16T17:07:45.231Z
 ---
 
 ## Interpreting the "Sefer Yetzirah" through Genetic Engineering
+=======
+title: Interpreting the "Sefer Yetzirah" through Genetic Engineering
+tags:
+  - external
+modified: 2021-11-17T15:58:45.934Z
+date: 2021-11-16T17:07:45.231Z
+---
+
+# Interpreting the "Sefer Yetzirah" through Genetic Engineering
+>>>>>>> bdfc3da (Tag cleansing, some additions, mainly external)
 
 The primary interpretation that I have used is: _Understanding Jewish Mysticism: A Source Reader_ by David R. Blumenthal (referred to herein as UJM).
 
@@ -44,11 +55,19 @@ So here, in the _Sefer Yetzirah_, we have a magical text which purports to allow
 "2. Twenty-Two letters are the foundation: He engraved them, He hewed them out, He combined them, He weighed them, and He set them at opposites, and He formed through them everything that is formed and everything that is destined to be formed." (UJM p. 21)
 
 In addition to the numerical and functional analogies between the amino acids and the Hebrew alphabet there is a category coincidence as well. The letters of the Hebrew language in the Sefer Yetzirah are arranged into 3 categories.
+<<<<<<< HEAD
 | Hebrew letters | Count | Type | English rendering |
 | ----- | ----- | ----- | -----|
 |א,מ,שׁ | x3 | Mother" letters | Aleph, Mem, Shin |
 |ב,ג,ד,כ,פ,ר,ת | x7 | "Double" letters | Beth, Gimel, Daleth, Kaph, Pe, Resh, Tau |
 |ה,ו,ז,ח,ט,ִי,ל,נ,ס,ע,צ,ק | x12 | "Simple" letters | He, Vau, Zain, Cheth, Teth, Yod, Lamed, Nun, Samekh, Ayin, Tzaddi, Qoph |
+=======
+
+    א,מ,שׁ                 - x3 Mother" letters: Aleph, Mem, Shin
+    ב,ג,ד,כ,פ,ר,ת          - x7 "Double" letters: Beth, Gimel, Daleth, Kaph, Pe, Resh, Tau
+    ה,ו,ז,ח,ט,ִי,ל,נ,ס,ע,צ,ק  - x12 - "Simple" letters: He, Vau, Zain, Cheth, Teth, Yod, Lamed, Nun,
+                         Samekh, Ayin, Tzaddi, Qoph
+>>>>>>> bdfc3da (Tag cleansing, some additions, mainly external)
 
 The amino acids and punctuation codons have many chemical properties by which they can be categorized, but the simplest property describes how they behave within their watery environment of the cell. The amino acids can be described as either hydrophobic (water hating) or hydrophilic (water loving).
 
@@ -90,6 +109,7 @@ To wrap-up the analysis I will demonstrate some of the curious evidence derived 
 
 Note also that each of the 64 hexagrams of the I Ching has 6 lines and so there is a total of 384 lines in all.
 
+<<<<<<< HEAD
 | Hebrew | Meaning     | +            | =   |
 | ------ | ----------- | ------------ | --- |
 | חיה    | (life 23)   | (thread 23)  | 46  |
@@ -97,3 +117,10 @@ Note also that each of the 64 hexagrams of the I Ching has 6 lines and so there 
 | אדם    | (Adam 45)   | (Eve 19)     | 64  |
 | זרע    | (sperm 277) | (ovum 107)   | 384 |
 | זכר    | (male 227)  | (female 157) | 384 |
+=======
+׀ חיה (life 23) ׀ + ׀(thread 23) ׀ = ׀ 46 ׀
+אבא |(father 4) ׀ + ׀(mother 42) ׀ = ׀ 46 ׀
+אדם |(Adam 45) ׀ + ׀(Eve 19) ׀ = ׀ 64 ׀
+זרע |(sperm 277) ׀ + ׀(ovum 107) ׀ = ׀ 384 ׀
+זכר |(male 227) ׀ + ׀(female 157)׀ = ׀ 384 ׀
+>>>>>>> bdfc3da (Tag cleansing, some additions, mainly external)
