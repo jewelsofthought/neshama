@@ -44,7 +44,7 @@ description: Miscellaneous ideas
 tags: null
 >>>>>>> 1086fed (More)
 date: 2021-11-11T10:38:07.290Z
-modified: 2022-01-05T10:28:39.025Z
+modified: 2022-01-05T10:38:01.474Z
 ---
 
 1. [Systems (old)](#systems-old)
@@ -66,7 +66,12 @@ modified: 2022-01-05T10:28:39.025Z
 6. [666m (cov-19)](#666m-cov-19)
 7. [Fish](#fish)
 8. [Seeding](#seeding)
+<<<<<<< HEAD
 >>>>>>> 1086fed (More)
+=======
+9. [Great Pirates](#great-pirates)
+10. [Information scarcity](#information-scarcity)
+>>>>>>> 8ad5948 (Update)
 
 ## Systems (old)
 
@@ -137,6 +142,9 @@ It is said that in healthy forest ecosystems, they will communicate events betwe
 
 In human terms, the individual is the seed, he (hopefully) grows into a healthy adult, who becomes a productive member of his community, which (hopefully) co-exists in a symbiotic manner with the communities around.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8ad5948 (Update)
 
 ## Great Pirates
 
@@ -155,6 +163,7 @@ And why are many aspects of the legal version of this any different? Especially 
 What I have noticed in the last years, is that the information freely available is becoming scarcer. This was not done by privatising the internet, by rather by privatising the information available on the public net. Once again, producing control of the information by the elite. But it did not end there. Then began the campaign to discredit the public source of information. This was done by polluting the information that was flowing along the public channel.
 
 An unintended effect of this, or perhaps it is an intended one, is that idiotic news appeals to idiots, and this generally starts a popular movement - any meme to express the outrage and frustration endemic amongst the oppressed underclass. Remember, the underclass does not necessarily have to oppressed. In fact, they are often the unsung heroes of many a triumph, with their quiet solitude and desire to just have a peaceful and happy life - not striving as those who already have too much seem to be constantly doing.
+<<<<<<< HEAD
 
 ## 3d Tree of Life
 
@@ -167,3 +176,5 @@ Beginning of a 3d design for the Tree of Life:
 >>>>>>> e366c49 (Update)
 =======
 >>>>>>> 1086fed (More)
+=======
+>>>>>>> 8ad5948 (Update)
