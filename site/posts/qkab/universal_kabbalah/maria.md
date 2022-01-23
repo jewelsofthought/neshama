@@ -1,15 +1,20 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: Maria - the Prophetess
 =======
 title: Universal Kabbalah
 >>>>>>> b85818c (More)
+=======
+title: Maria - the Prophetess
+>>>>>>> 401a67d (Additions (static))
 author: Leonora Leet
 description: The Key to Hebraic Sacred Science
 date: 2021-10-06T04:06:23.352Z
 page:
   - 7
 tags:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -28,6 +33,8 @@ modified: 2021-10-07T05:00:30.702Z
 =======
   - sabbath_star
   - universal_kabbalah
+=======
+>>>>>>> 401a67d (Additions (static))
   - alchemy
   - external
 modified: 2021-11-08T16:04:52.382Z
