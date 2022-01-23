@@ -3,6 +3,7 @@ title: The Beginnings of Desire
 author: Aviva Zornberg
 description: Reflections on Genesis
 <<<<<<< HEAD
+<<<<<<< HEAD
 tags:
   - todo
 date: 2021-12-26T14:51:36.482Z
@@ -15,6 +16,12 @@ date: 2021-12-26T14:51:36.482Z
 =======
 modified: 2021-12-28T06:13:29.725Z
 >>>>>>> eb5986d (Some more)
+=======
+tags:
+  - todo
+date: 2021-12-26T14:51:36.482Z
+modified: 2022-01-06T13:18:14.559Z
+>>>>>>> fd88bae (minor changes)
 ---
 
 GENESIS

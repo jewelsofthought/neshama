@@ -6,6 +6,7 @@ title: Various Thoughts
 description: Miscellaneous ideas
 tags: null
 date: 2022-01-06T17:58:20.377Z
+<<<<<<< HEAD
 modified: 2022-01-11T17:10:55.562Z
 ---
 
@@ -45,6 +46,9 @@ tags: null
 >>>>>>> 1086fed (More)
 date: 2021-11-11T10:38:07.290Z
 modified: 2022-01-05T11:15:48.841Z
+=======
+modified: 2022-01-06T18:01:47.356Z
+>>>>>>> fd88bae (minor changes)
 ---
 
 1. [Systems (old)](#systems-old)
@@ -176,12 +180,16 @@ What I have noticed in the last years, is that the information freely available 
 
 An unintended effect of this, or perhaps it is an intended one, is that idiotic news appeals to idiots, and this generally starts a popular movement - any meme to express the outrage and frustration endemic amongst the oppressed underclass. Remember, the underclass does not necessarily have to oppressed. In fact, they are often the unsung heroes of many a triumph, with their quiet solitude and desire to just have a peaceful and happy life - not striving as those who already have too much seem to be constantly doing.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fd88bae (minor changes)
 
 ## 3d Tree of Life
 
 Beginning of a 3d design for the Tree of Life:
 
 ![3d - Tree of Life](/posts/img/tol/fn-pillar.png)
+<<<<<<< HEAD
 =======
 >>>>>>> 87dcb92 (renamed tolnet to tol)
 =======
@@ -190,3 +198,5 @@ Beginning of a 3d design for the Tree of Life:
 >>>>>>> 1086fed (More)
 =======
 >>>>>>> 8ad5948 (Update)
+=======
+>>>>>>> fd88bae (minor changes)
