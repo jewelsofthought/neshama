@@ -2,8 +2,8 @@
 title: Economics
 description: Economy
 tags: null
-date: 2021-12-06T18:38:32.355Z
-modified: 2021-12-08T14:06:07.587Z
+date: 2021-12-19T20:20:21.600Z
+modified: 2021-12-22T07:45:15.685Z
 ---
 
 1. [Economics](#economics)

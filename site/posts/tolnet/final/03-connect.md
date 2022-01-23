@@ -2,8 +2,12 @@
 title: Stage 1 - Connect to the network
 description: Connect
 tags: null
-date: 2021-02-01T17:16:16.499Z
-modified: 2021-12-20T08:19:55.392Z
+prevURL: /posts/tolnet/final/02-design/
+prevTitle: Design of the Model
+nextURL: /posts/tolnet/final/04-leaves/
+nextTitle: Stage II - Form the affinities
+date: 2021-12-19T19:25:21.600Z
+modified: 2021-12-22T07:42:56.785Z
 ---
 
 1. [Stage 1: Connect to the network](#stage-1-connect-to-the-network)

@@ -72,6 +72,12 @@ templateClass: tmpl-post
       {{ content | latex | safe }}
     </div>
 
+   var post = { 
+      'nURL': nextURL, 
+      'nTitle': nextTitle, 
+      'pURL': prevURL, 
+      'pTitle': prevTitle 
+    };
     {%- if collections.posts %}
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -130,14 +136,26 @@ templateClass: tmpl-post
 =======
       {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
       {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+<<<<<<< HEAD
       {%- if nextPost or previousPost %}
 >>>>>>> 5a455d5 (Returned to pristine state)
+=======
+      {%- if nextPost and not nURL %}
+        {%- set nURL = nextPost.url %} 
+        {%- set nTitle = nextPost.data.title %}
+      {%- endif %}
+
+      {%- if previousPost and not pURL %}
+        {%- set pURL = previousPost.url %}
+        {%- set pTitle = previousPost.data.title %}
+      {%- endif %}
+  
+>>>>>>> 684e6e7 (Updated info)
     <hr>
     <ul>
-        {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
-        {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+      {%- if nURL and nTitle %}<li>Next: <a href="{{ nURL | url }}">{{ nTitle }}</a></li>{% endif %}
+      {%- if pURL and pTitle %}<li>Previous: <a href="{{ pURL | url }}">{{ pTitle }}</a></li>{% endif %}
     </ul>
-      {%- endif %}
     {%- endif %}
   </div>
 </div>

@@ -2,8 +2,8 @@
 title: Decisions
 description: Decision making ideas
 tags: null
-date: 2021-12-07T10:15:45.881Z
-modified: 2021-12-08T15:28:54.426Z
+date: 2021-12-19T20:40:21.600Z
+modified: 2021-12-22T07:47:25.033Z
 ---
 
 1. [Decision-making](#decision-making)

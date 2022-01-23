@@ -2,8 +2,8 @@
 title: Assessment
 description: Assessment
 tags: null
-date: 2021-12-19T18:33:47.825Z
-modified: 2021-12-19T18:39:25.158Z
+date: 2021-12-19T21:00:21.600Z
+modified: 2021-12-22T07:47:18.375Z
 ---
 
 1. [Core Values](#core-values)

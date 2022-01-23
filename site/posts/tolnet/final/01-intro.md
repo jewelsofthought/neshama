@@ -4,7 +4,7 @@ description: Introduction to the Tree of Life Network
 tags: null
 nextURL: /posts/tolnet/final/02-design/
 nextTitle: Design of the Model
-date: 2020-01T16:11:18.886Z
+date: 2021-12-19T19:05:21.600Z
 modified: 2021-12-19T19:05:21.600Z
 ---
 
