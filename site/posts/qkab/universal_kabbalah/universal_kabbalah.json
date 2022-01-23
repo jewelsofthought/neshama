@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
   "tags": ["universal_kabbalah"]
+=======
+  "tags": ["universal_kabbalah"],
+  "layout": "layouts/post"
+>>>>>>> 5bb7131 (admin change)
 }
