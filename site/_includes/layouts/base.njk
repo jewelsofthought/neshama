@@ -48,7 +48,8 @@
 >>>>>>> b41625c (Bulma inserted. Not clean yet. (Postcss?))
     
     <!--link rel="stylesheet" href="{{ '/assets/css/index.css' | url }}"-->
-    <link rel="stylesheet" href="{{ '/assets/css/fontawesome.css' | url }}">
+    <link rel="stylesheet" href="{{ '/assets/fontawesome/css/fontawesome.min.css' | url }}">
+    <link rel="stylesheet" href="{{ '/assets/fontawesome/css/solid.min.css' | url }}">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | url }}">
     <link rel="stylesheet" href="{{ '/assets/css/katex.min.css' | url }}">
     
@@ -58,6 +59,7 @@
 
   </head>
   <body>
+  <div class="container">
     <!--header -->
     <header>
       {% include "nav.njk" %}
@@ -88,6 +90,7 @@
 >>>>>>> ff5b9f9 (Fixed 1st stage look. Added Nav & Footer. Placed post correctly.)
     <!--footer -->
     {% include "footer.njk" %}
+  </div>
 
     <!-- Javascript (at end of document) -->
 <<<<<<< HEAD

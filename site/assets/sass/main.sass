@@ -1,13 +1,21 @@
 // dart-sass --watch -I sass sass/:../../dist/assets/css/ --style=compressed --source-map
 // sass -w -I ../../../node_modules/bulma main.sass ../../../dist/assets/css/main.css --source-map
-//  (alpine) sass main.sass ../../../dist/assets/css/main.css --source-map
-// (Host) sass main.sass ../css/main.css --source-map
+
+
+// Host
+// sass -w -I site/assets/sass main.sass site/assets/css/main.css --source-map
+//  (alpine) sass -I site/assets/sass main.sass dist/assets/css/main.css --source-map --style=compressed
+// Bulma
+// sass -w -I site/assets/sass bulma.sass site/assets/css/bulma.css --source-map
+// Fontawesome
+// sass -w -I site/assets/sass _fontawesome.scss site/assets/css/fontawesome.css --source-map -style=compressed
 
 @import "initial-variables"
 @import "bulma"
+// @import "_fontawesome"
 
 @import "layout"
-// @use "decoration"
+@import "decoration"
 // @use "box-decoration"
 // 
 // @use "blog"
