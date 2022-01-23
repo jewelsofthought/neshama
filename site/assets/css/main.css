@@ -8988,6 +8988,9 @@ footer.site-footer {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0ad8ad4 (Moved master on local to main)
 /* stylelint-disable selector-list-comma-newline-after */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
@@ -9028,6 +9031,7 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: 20px;
   }
 }
+<<<<<<< HEAD
 =======
 body {
   background-image: url("../images/funky-lines.png");
@@ -9038,6 +9042,8 @@ body {
 }
 
 >>>>>>> e769718 (Rearranged some paths, cleaned up a bit)
+=======
+>>>>>>> 0ad8ad4 (Moved master on local to main)
 /* copy-paste from box.sass */
 /* decoration : border, shadow, rounded */
 .box-deco {
@@ -9099,6 +9105,7 @@ a.box-deco:hover, a.box-deco:focus, a.box-deco:active {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 /* stylelint-disable selector-list-comma-newline-after */
 h1, h2, h3, h4, h5, h6 {
@@ -9141,6 +9148,8 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 >>>>>>> e769718 (Rearranged some paths, cleaned up a bit)
+=======
+>>>>>>> 0ad8ad4 (Moved master on local to main)
 /* copy-paste from message.sass */
 .panel {
   background-color: whitesmoke;
@@ -9292,6 +9301,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 .archive-p3 {
   padding-left: 15px;
@@ -9440,6 +9450,8 @@ ul.panel-list li:hover:before {
 }
 
 >>>>>>> e769718 (Rearranged some paths, cleaned up a bit)
+=======
+>>>>>>> 0ad8ad4 (Moved master on local to main)
 /* * Blog posts
  * */
 .blog-post {
@@ -9478,6 +9490,9 @@ a.post-next:before {
   content: "next ";
 }
 
+<<<<<<< HEAD
 =======
 >>>>>>> bd5d2f3 (Added bulma & font-awesome compiled)
+=======
+>>>>>>> 0ad8ad4 (Moved master on local to main)
 /*# sourceMappingURL=main.css.map */

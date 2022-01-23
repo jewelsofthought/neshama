@@ -17,6 +17,7 @@
   },
   "author": {
     "name": "Yehuda ben Aaron",
+<<<<<<< HEAD
     "email": "yehuda@neshama.com",
     "url": "https://blog.neshama.com/about/"
 =======
@@ -53,6 +54,8 @@
     "url": "https://neshama.com/about-me/"
 >>>>>>> d33a7a6 (Meta changes)
 =======
+=======
+>>>>>>> 0ad8ad4 (Moved master on local to main)
     "email": "yehuda@neshama.com",
     "url": "https://blog.neshama.com/about/"
 >>>>>>> 32a88d9 (Removing dependency on index.css. Fixed tags look)
