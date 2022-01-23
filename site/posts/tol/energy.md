@@ -8,6 +8,7 @@ tags:
 date: 2021-10-12T18:17:11.615Z
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 modified: 2022-01-03T16:51:35.956Z
 =======
 modified: 2021-10-20T11:21:22.003Z
@@ -15,6 +16,9 @@ modified: 2021-10-20T11:21:22.003Z
 =======
 modified: 2021-12-31T13:54:02.207Z
 >>>>>>> e366c49 (Update)
+=======
+modified: 2022-01-03T16:51:35.956Z
+>>>>>>> dee1034 (fixed tag)
 ---
 
 1. [Fundamental property](#fundamental-property)
@@ -23,6 +27,7 @@ modified: 2021-12-31T13:54:02.207Z
 4. [Dynamic principle of Evil](#dynamic-principle-of-evil)
 5. [Form](#form)
 6. [Force](#force)
+<<<<<<< HEAD
 <<<<<<< HEAD
 7. [Two states](#two-states)
 8. [Measurement](#measurement)
@@ -34,16 +39,24 @@ modified: 2021-12-31T13:54:02.207Z
 10. [Energy](#energy)
 =======
 7. [Measurement](#measurement)
+=======
+7. [Two states](#two-states)
+8. [Measurement](#measurement)
+>>>>>>> dee1034 (fixed tag)
    1. [Real](#real)
    2. [Virtual](#virtual)
-8. [Human measurement](#human-measurement)
+9. [Human measurement](#human-measurement)
    1. [Real: Form](#real-form)
    2. [Imaginary: Wave](#imaginary-wave)
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 87dcb92 (renamed tolnet to tol)
 =======
 9. [Energy](#energy)
 >>>>>>> e366c49 (Update)
+=======
+10. [Energy](#energy)
+>>>>>>> dee1034 (fixed tag)
 
 ## Fundamental property
 
@@ -90,13 +103,19 @@ One of the most effective tools of the _Sitra Ahara_, the "Other Side", Satan, i
 - energy in (linear) movement.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> dee1034 (fixed tag)
 ## Two states
 
 (from EnEx 20200802)
 In energy there are two states: at rest, or potential energy; and dynamic, doing work, or power. Just as with stores of value. This money is at rest, static, until it is "moves", ie. is used to financially power some event. This is where it connects to SOA, or microservices, architecture. Making it actually data driven is perfect to adapt it to a social governing framework, it which decisions which impact people have to be made.
 
+<<<<<<< HEAD
 =======
 >>>>>>> 87dcb92 (renamed tolnet to tol)
+=======
+>>>>>>> dee1034 (fixed tag)
 ## Measurement
 
 We have two types of measuring instruments.

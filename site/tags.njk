@@ -9,7 +9,6 @@ pagination:
     - post
     - posts
     - tagList
-    - personal
   addAllPagesToCollections: true
 layout: layouts/home.njk
 eleventyComputed:
@@ -17,10 +16,15 @@ eleventyComputed:
 permalink: /tags/{{ tag | slug }}/
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 <!-- filter: Controls what items are included in the index file for that particuar tag -->
 
 =======
 >>>>>>> 0ef9b37 (Initial Commit)
+=======
+<!-- filter: Controls what items are included in the index file for that particuar tag -->
+
+>>>>>>> dee1034 (fixed tag)
 <h1>Tagged “{{ tag }}”</h1>
 
 {% set postslist = collections[ tag ] %}
