@@ -2,9 +2,8 @@
 title: Systems
 description: Complex systems
 date: 2000-07-23T09:10:26.630Z
-tags:
-  - old
-modified: 2021-09-24T18:45:24.643Z
+tags: null
+modified: 2021-10-07T04:58:35.918Z
 ---
 
 ## Systems

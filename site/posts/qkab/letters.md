@@ -1,9 +1,18 @@
 ---
+<<<<<<< HEAD
 title: Hebrew Letters
 description: Symbols of creation
 tags: null
 date: 2021-10-08T13:53:47.281Z
 modified: 2021-11-28T16:07:39.545Z
+=======
+title: Letters & Symbols
+description: Symbols of creation
+tags:
+  - hebrew
+date: 2021-10-08T13:53:47.281Z
+modified: 2021-10-08T15:12:50.668Z
+>>>>>>> d9f6348 (New Posts)
 ---
 
 Is not:
@@ -15,6 +24,7 @@ Is not:
 - molecules the sentences
   Humans would be a tome.
   The strings of string theory would be like the sounds from a violin that cause the people to begin to dance!
+<<<<<<< HEAD
 
 ## Single Letter (Hebrew)
 
@@ -25,3 +35,5 @@ Is not:
 - We are aware of being **conscious**
   - Speculum
   - self-reflective
+=======
+>>>>>>> d9f6348 (New Posts)
