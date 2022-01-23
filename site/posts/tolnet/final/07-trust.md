@@ -2,8 +2,8 @@
 title: Stage V - Web of trust
 description: Connect
 tags: null
-date: 2021-12-01T18:30:07.402Z
-modified: 2021-12-01T18:31:58.243Z
+date: 2021-02-05T18:30:07.402Z
+modified: 2021-12-08T14:11:26.524Z
 ---
 
 1. [Stage V: Web of trust](#stage-v-web-of-trust)

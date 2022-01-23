@@ -4,7 +4,7 @@ description: Tree of Life Network ideas
 tags:
   - external
 date: 2021-11-11T10:38:07.290Z
-modified: 2021-11-26T13:36:42.350Z
+modified: 2021-12-08T17:04:07.701Z
 ---
 
 1. [Sovereignty ~ empowerment](#sovereignty--empowerment)
@@ -13,6 +13,7 @@ modified: 2021-11-26T13:36:42.350Z
 3. [Power & Governance](#power--governance)
 4. [Governance in the global space.](#governance-in-the-global-space)
 5. [666m (cov-19)](#666m-cov-19)
+6. [Graphs and Networks](#graphs-and-networks)
 
 ## Sovereignty ~ empowerment
 
@@ -38,8 +39,12 @@ The challenge is to bring governance into the global space.
 
 Humanity is rediscovering its commons: the self-organized management of resources which people need for their survival and livelihood. The ethic of commoning is based on the recognition that a person has the right to a means of sustenance without interference or harm from others. In this sense, the commons are an inclusive expression of the right to life and the right to justice.
 
-Our greatest challenge is not the risk of environmental collapse, resource wars, scarcity diasporas, oppressive rulers or rancorous disputes over why future generations are denied the opportunity to live in a peaceful and equitable society. Our true task is the creation of inclusionary institutions for sustainable resource production and provisioning as the climate crisis bears down upon the world.
+Our greatest challenge is not the risk of environmental collapse, resource wars, scarcity diaspora's, oppressive rulers or rancorous disputes over why future generations are denied the opportunity to live in a peaceful and equitable society. Our true task is the creation of inclusionary institutions for sustainable resource production and provisioning as the climate crisis bears down upon the world.
 
 ## 666m (cov-19)
 
 But the descent from 7B to 666m will be catastrophic and will be a stranger to any who dreamt of a world with only 666m people inhabiting it.
+
+## Graphs and Networks
+
+Interesting exploration of more human centric graphs, to map data, closer to [Knowledge Graphs](https://shapeofdata.wordpress.com/2013/08/13/graphs-and-networks/comment-page-1/).

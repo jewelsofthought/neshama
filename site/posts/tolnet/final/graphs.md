@@ -3,9 +3,17 @@ title: Graphs
 description: Graph definitions
 tags:
   - external
-date: 2021-12-02T14:53:49.621Z
-modified: 2021-12-06T15:51:21.414Z
+date: 2021-11-02T14:53:49.621Z
+modified: 2021-12-08T17:04:19.375Z
 ---
+
+1. [Graph](#graph)
+2. [Properties of Graph](#properties-of-graph)
+3. [Non-trivial graph](#non-trivial-graph)
+4. [Eulerian graph](#eulerian-graph)
+5. [Planar graph](#planar-graph)
+6. [Trees, Degree and Cycle of Graph](#trees-degree-and-cycle-of-graph)
+   1. [Trees:](#trees)
 
 ## Graph
 

@@ -1,20 +1,22 @@
 ---
-title: Characteristics
-description: null
+title: Decisions
+description: Decision making ideas
 tags: null
-date: 2021-12-01T18:15:45.881Z
-modified: 2021-12-01T18:19:41.141Z
+date: 2021-12-07T10:15:45.881Z
+modified: 2021-12-08T15:28:54.426Z
 ---
 
 1. [Decision-making](#decision-making)
 2. [Representation/Voting](#representationvoting)
 3. [Action/Resolution](#actionresolution)
 4. [Disputes](#disputes)
-5. [Threads](#threads)
+5. [Threads (flow of information)](#threads-flow-of-information)
+
+[NOTE: (12-2021) I have referred to the affinity groups as af-groups - which is not the right name. I propose calling them the _A-groups_. They are after all, the primary concern for the network as a whole.]
 
 ### Decision-making
 
-All requirements are first articulated in the leaf groups, and percolate from the outer rim where the people live. These requirements are collated and collected in the manner described above. They also propagate inwards to the extent of their domain of influence, and at each level the decision-making process is the same throughout the tree. The decision dialogue is collected and collated domain-wide by propagating inwards through one’s ancestors, and then distributed to all people in the domain. This only includes their domain of interest (which should be a fairly well-described portion of the tree – a sub-tree).
+All requirements are first articulated in the leaf groups, the _A-groups_, and percolate from the outer rim where the people live. These requirements are collated and collected in the manner described above. They also propagate inwards to the extent of their domain of influence, and at each level the decision-making process is the same throughout the tree. The decision dialogue is collected and collated domain-wide by propagating inwards through one’s ancestors, and then distributed to all people in the domain. This only includes their domain of interest (which should be a fairly well-described portion of the tree – a sub-tree).
 
 Example: If the discussion is water in Cape Town, it would directly affect Cape Town and surrounds, and the outlying areas somewhat, but would hardly affect the people in Johannesburg, even though there might be a larger demographic that might be interested and concerned. Another example is fracking in a certain area, like the Karoo, which may have garnered the interest of many outside of that particular area. Requests could be more prosaic as well – such as a source of organic flour, or a desire to install solar energy.
 
@@ -38,13 +40,15 @@ A project tree is spawned to deal with the problem, and functions autonomously. 
 
 ### Disputes
 
-Disputes are handled in a similar way in which decisions propagate along the tree. If there is a disagreement within an af-group, then it is incumbent on the group to resolve it. If they are having difficulty, then the sponsors of the two who are in conflict could be brought in, and help mediate the conflict.
+Disputes are handled in a similar way in which decisions propagate along the tree. If there is a disagreement within an _affinity group_, then it is incumbent on the group to resolve it. If they are having difficulty, then the sponsors of the those who are in conflict could be brought in, and help mediate the conflict.
 
-If it cannot be resolved in that forum, and the disagreement includes other elements, external to the af-group itself – perhaps about a transaction, an agreement, the interpretation of an agreement, a principle, etc. – then it will be brought up at the parents’ meeting, and if it is agreed that it is more generic, but local enough to only affect these 10 groups, then it will be up to the af-groups to debate and decide on the outcome.
+If it cannot be resolved in that forum, and the disagreement spans a greater domain than that of the local group &mdash; perhaps about a transaction, an agreement, the interpretation of an agreement, a principle, etc. &mdash; then it will be brought up at the parents’ meeting, and if it is agreed that it is more generic, but local enough to only affect these 10 groups, then it will be up to the the affected (and interested) groups to debate and decide on the outcome.
+
+Once again, those who are closest and most impacted by the outcome, will be given greater weight and relevance than those who are distant.
 
 If it some issue that deals with an even larger domain, it will be brought to the grandparents’ meeting, and follow the same procedure as for the parents. Once again, it is recursive.
 
-### Threads
+### Threads (flow of information)
 
 If it is deemed necessary for certain information/interaction flow to take place along pathways that require swifter response, or have a different geography along which they need to travel, rather than the default tree traversal, it is possible to introduce threads. One could think of them as “shortcuts”, which, as long as they are useful, will be used. However, if something changes, they could then soon disappear.
 

@@ -2,8 +2,8 @@
 title: Design of the Model
 description: Design
 tags: null
-date: 2021-12-01T16:28:20.635Z
-modified: 2021-12-01T18:21:58.935Z
+date: 2021-01-01T16:28:20.635Z
+modified: 2021-12-08T14:10:34.186Z
 ---
 
 1. [Design of the model](#design-of-the-model)

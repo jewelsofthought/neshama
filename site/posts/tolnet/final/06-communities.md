@@ -2,8 +2,8 @@
 title: Stage IV - Web of communities
 description: Connect
 tags: null
-date: 2021-12-01T18:22:55.354Z
-modified: 2021-12-01T18:29:29.213Z
+date: 2021-02-01T18:22:55.354Z
+modified: 2021-12-08T14:11:21.470Z
 ---
 
 ## Stage IV: Web of communities

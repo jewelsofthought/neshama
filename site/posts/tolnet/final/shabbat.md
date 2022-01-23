@@ -1,9 +1,9 @@
 ---
-title: Values
-description: Values
+title: Shabbat
+description: Breaking patterns
 tags: null
 date: 2021-12-02T08:15:46.620Z
-modified: 2021-12-02T14:47:46.248Z
+modified: 2021-12-08T14:02:34.808Z
 ---
 
 1. [Sabbath](#sabbath)

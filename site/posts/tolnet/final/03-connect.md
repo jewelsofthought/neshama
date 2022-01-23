@@ -2,8 +2,8 @@
 title: Stage 1 - Connect to the network
 description: Connect
 tags: null
-date: 2021-12-01T17:16:16.499Z
-modified: 2021-12-01T18:22:06.766Z
+date: 2021-02-01T17:16:16.499Z
+modified: 2021-12-08T14:10:58.167Z
 ---
 
 1. [Stage 1: Connect to the network](#stage-1-connect-to-the-network)

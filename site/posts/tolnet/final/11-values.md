@@ -2,13 +2,13 @@
 title: Values
 description: Values
 tags: null
-date: 2021-12-01T18:39:50.132Z
-modified: 2021-12-06T19:49:09.341Z
+date: 2021-12-07T18:39:50.132Z
+modified: 2021-12-08T17:06:40.124Z
 ---
 
-1. [Graphs and Networks](#graphs-and-networks)
-2. [Values](#values)
-   1. [Unify](#unify)
+1. [Values](#values)
+   1. [Unity](#unity)
+      1. [Howto](#howto)
    2. [Trust](#trust)
    3. [Connected](#connected)
    4. [Polycentric vs. Centralised.](#polycentric-vs-centralised)
@@ -19,15 +19,13 @@ modified: 2021-12-06T19:49:09.341Z
    9. [Empowered vs. Victim](#empowered-vs-victim)
    10. [Control vs Facilitate](#control-vs-facilitate)
 
-## Graphs and Networks
-
-Interesting exploration of more human centric graphs, to map data, closer to [Knowledge Graphs](https://shapeofdata.wordpress.com/2013/08/13/graphs-and-networks/comment-page-1/).
-
 ## Values
 
-There is a human component in all of this, too. In order for this network to be successful – as it is, in essence, a social network – there are certain values that might need emphasis. These will also form the basis for the constitution of the Tree of Life network. Some of these are:
+Although I am describing the interactions and the relationship as system, the focus is on the human component in all of this. The system must be serving, and subservient to, the human that it is serving.
 
-### Unify
+In addition, order for any human network to be successful, it needs the people, not the system. Thus it might be necessary to express certain values that will comprise the basis for the constitution of the Garden we wish the Tree of Life to be a part of.
+
+### Unity
 
 > Together we stand, divided we fall
 
@@ -35,18 +33,20 @@ We are all expression of the One. We are unified in our basic needs. That each o
 
 Let us come together to support one another in sustaining our basic human needs, and continuing to practise basic human interactions without fear.
 
-> **Unity vs. Separation.**
+> **Unity vs Separation.**
 
 Globalisation cannot exist in a splintered world else it will become a larger version of that which exists at present, with the consequences just being more far-reaching. If any nation detonates a nuclear device, every one of us in the whole world will suffer the consequences.
 
-No part of the natural world lives in isolation. Seeds reach other lands borne on the winds that blow from one end of the earth to the other. Currents travel from one continent to another. The sun bathes all living creatures in its light. Only in the human world is there this separation built on social and h1, h2, h3, h4, h5, h6
+No part of the natural world lives in isolation. Seeds reach distant lands borne on the winds that blow from one end of the earth to the other. Currents travel from one continent to another. The sun bathes all living creatures in its light. Only in the human world is there this separation built on social narratives that exploit our differences - the very characteristics that make us human.
+
+#### Howto
 
 > **Collaboration vs Competition**
 
 > Rather than competing, creating division, in order to conquer and control
 > Cooperate, Collaborate & Coordinate to Create Community
 
-One view of the world is a conflictual view, in which there is an “other”, who opposes. This other could be of different gender, colour, sexual persuasion, religious or cultural belief. One lives in a world of victim and victimiser, winner and loser, us or them, my team vs. your team: This releases the perpetrator from any responsibility for his or her actions or any consequences thereafter.[pfizer]()
+One view of the world is a conflictual one, in which there is always an “other”, who opposes - and whom I am generally the victim (or victimiser) of. This other could be of different gender, colour, sexual persuasion, religious or cultural belief. One lives in a world of victim and victimiser, winner and loser, us or them, my team vs. your team: This releases the perpetrator from any responsibility for his or her actions or any consequences thereafter.[pfizer](bio-)
 
 For every “this” there is a “that”. These are on opposite ends of the spectrum of the space under consideration. However, they need not stand in opposition alone, but could also be reciprocal. The relationship between a male and female cannot be entirely oppositional in order for it to be successful and nourishing – for the relationship also contains other elements that enable two “opposites” to find complementary spaces in which they are loving and supportive of one another.
 

@@ -2,8 +2,8 @@
 title: Stage III - Form the tree
 description: These are the basic cells/leaves where actual people connect.
 tags: null
-date: 2021-12-01T18:01:35.941Z
-modified: 2021-12-02T07:28:03.088Z
+date: 2021-02-01T18:01:35.941Z
+modified: 2021-12-08T14:11:14.513Z
 ---
 
 1. [Stage III: Form the tree](#stage-iii-form-the-tree)
