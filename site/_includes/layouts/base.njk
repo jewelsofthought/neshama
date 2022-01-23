@@ -49,13 +49,11 @@
     
     <!--link rel="stylesheet" href="{{ '/assets/css/index.css' | url }}"-->
 {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}
-    <link rel="stylesheet" href="{{ '/assets/css/bulma.css' | url }}">
     <link rel="stylesheet" href="{{ '/assets/css/fontawesome.css' | url }}">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | url }}">
     <link rel="stylesheet" href="{{ '/assets/css/katex.min.css' | url }}">
     
-
-    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+   <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
     <script src="/assets/js/vue.min.js"></script>
 
@@ -68,6 +66,7 @@
 
     <!--content -->
 <<<<<<< HEAD
+<<<<<<< HEAD
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
 
       {{ content | safe }}
@@ -79,8 +78,11 @@
 =======
 =======
     <div class="columns is 8 layout-base maxwidth">
+=======
+    <div class="columns is-8 layout-base">
+>>>>>>> 2b4ebe5 (Fixed some errors)
       <main role="main" class="content{% if templateClass %} {{ templateClass }}{% endif %}">
-        {{ content | safe }}
+      {{ content | safe }}
       </main>
     </div>
   

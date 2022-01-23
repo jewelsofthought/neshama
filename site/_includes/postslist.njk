@@ -2,6 +2,7 @@
 {% for post in postslist | reverse %}
   <li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
 <<<<<<< HEAD
+<<<<<<< HEAD
     &nbsp;
     <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
 
@@ -23,8 +24,12 @@
 
 
 =======
+=======
+    &nbsp;
+>>>>>>> 2b4ebe5 (Fixed some errors)
     <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-    <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+
+    
     {% for tag in post.data.tags | filterTagList %}
       {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
       <a href="{{ tagUrl | url }}"><span class="tag is-light is-small">
@@ -34,6 +39,7 @@
       </span>
     </a>
     {% endfor %}
+
   </li>
 {% endfor %}
 </ol>
@@ -41,4 +47,9 @@
 >>>>>>> 0ef9b37 (Initial Commit)
 =======
 
+<<<<<<< HEAD
 >>>>>>> 32a88d9 (Removing dependency on index.css. Fixed tags look)
+=======
+
+
+>>>>>>> 2b4ebe5 (Fixed some errors)
