@@ -4,14 +4,19 @@ description: Tree of Life Network ideas
 date: 2021-08-21T16:00:00.000Z
 tags:
   - external
-modified: 2021-11-11T10:40:21.541Z
+modified: 2021-12-19T18:48:59.753Z
 ---
 
-1. [Invitation - Chaordic Commons](#invitation---chaordic-commons)
-2. [Non-violence](#non-violence)
-3. [The Net of Indra](#the-net-of-indra)
-4. [Network](#network)
-5. [Oecumene](#oecumene)
+1. [Graphs and Networks](#graphs-and-networks)
+2. [Invitation - Chaordic Commons](#invitation---chaordic-commons)
+3. [Non-violence](#non-violence)
+4. [The Net of Indra](#the-net-of-indra)
+5. [Network](#network)
+6. [Oecumene](#oecumene)
+
+## Graphs and Networks
+
+Interesting exploration of more human centric graphs, to map data, [Knowledge Graphs](https://shapeofdata.wordpress.com/2013/08/13/graphs-and-networks/comment-page-1/).
 
 ## Invitation - Chaordic Commons
 

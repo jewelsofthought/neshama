@@ -1,10 +1,9 @@
 ---
 title: Thoughts & Ideas
 description: Tree of Life Network ideas
-tags:
-  - external
+tags: null
 date: 2021-11-11T10:38:07.290Z
-modified: 2021-12-08T17:04:07.701Z
+modified: 2021-12-20T08:14:48.621Z
 ---
 
 1. [Sovereignty ~ empowerment](#sovereignty--empowerment)
@@ -44,7 +43,3 @@ Our greatest challenge is not the risk of environmental collapse, resource wars,
 ## 666m (cov-19)
 
 But the descent from 7B to 666m will be catastrophic and will be a stranger to any who dreamt of a world with only 666m people inhabiting it.
-
-## Graphs and Networks
-
-Interesting exploration of more human centric graphs, to map data, closer to [Knowledge Graphs](https://shapeofdata.wordpress.com/2013/08/13/graphs-and-networks/comment-page-1/).

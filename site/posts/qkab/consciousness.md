@@ -7,6 +7,7 @@ description: Consciousness - God or AI?
 tags:
   - consciousness
   - 4d
+<<<<<<< HEAD
 date: 2021-10-09T07:56:07.119Z
 modified: 2021-12-09T17:53:13.917Z
 ---
@@ -86,8 +87,10 @@ description: Consciousness - God or AI?
 tags:
   - consciousness
   - 4d-being
+=======
+>>>>>>> b2b6186 (Updated some material, some data)
 date: 2021-10-09T07:56:07.119Z
-modified: 2021-11-26T08:30:40.544Z
+modified: 2021-12-09T17:53:13.917Z
 ---
 
 1. [AI](#ai)
@@ -139,12 +142,15 @@ The mystical path is a path that is focused on mystical encounters that lead to 
 =======
 Divide time into mundane & sacred time.
 
-- Mundane Time:
-  - Hold time (captive). Keep position. Control change.
-- Sacred Time:
-  - The Shabbat is the day that we focus on entering sacred time.
-  - Actually is "out of time", timeless
-  - Godhead made out of sacred time
+**Mundane Time**:
+
+- Hold time (captive). Keep position. Control change.
+
+**Sacred Time**:
+
+- The Shabbat is the day that we focus on entering sacred time.
+- Actually is "out of time", timeless
+- Godhead made out of sacred time
 
 ## Journey of Separation
 
