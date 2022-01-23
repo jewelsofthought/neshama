@@ -3,6 +3,7 @@ title: TODO
 tags:
   - todo
 <<<<<<< HEAD
+<<<<<<< HEAD
 date: 2021-11-19T16:20:24.096Z
 modified: 2021-11-26T13:44:18.269Z
 ---
@@ -97,22 +98,34 @@ Note: The flow cannot be about enabling teams to become more productive, so that
 ## Freedom
 =======
 modified: 2021-09-27T17:47:16.830Z
+=======
+modified: 2021-10-08T06:37:58.223Z
+>>>>>>> 336f4d8 (More Posts)
 ---
 
 1. paradigm_shift - [ tolnet/old/tae_questions ] { new paradigm - def, lack of plan, unrooted, utopian, idealistic }
 2. spirit - [ tolnet/old/tae-questions ] { body/spirit, inner/outer, manifest/unmanifest }
-3. sustainable - [ tolnet/old/tae_questions ] { sustainable/co-dependent }
+3. sustainable.md - [ tolnet/old/tae_questions ] { sustainable/co-dependent }
 4. network.html - [ tolnet/old/tae_questions, ] { graphs, networks }
 5. waves.html - [ tolnet/old/tae_questions ] { frequency, vibrations, waves}
 6. new_energy.html - [ tolnet/old/tae_questions ] { energy, renewables, solar, biodiesel, etc}
 7. cloud.html - [ tolnet/old/tae_questions ]
-8. finite_games - [ tolnet/old/tae_questions ]
-9. systems - [ tolnet/old/tae_questions ] { complex systems }
-10. ark - [ tolnet/old/tae_questions ] { TolNet as Noah's Ark }
-11. freedom - [ tolnet/old/tae_questions ] { What is "freedom"? }
-12. energy - [ tolnet/old/tae_questions ] { Energy as currency/token }
-13. affinity_groups - [ tolnet/old/tae_questions ]
-14. decentralised - [ tolnet/old/tae_questions ]
+8. finite_games.html - [ tolnet/old/tae_questions ]
+9. systems.html - [ tolnet/old/tae_questions ] { complex systems }
+10. ark.html - [ tolnet/old/tae_questions ] { TolNet as Noah's Ark }
+11. freedom.html - [ tolnet/old/tae_questions ] { What is "freedom"? }
+12. energy_token.html - [ tolnet/old/tae_questions ] { Energy as currency/token }
+13. affinity_groups.html - [ tolnet/old/tae_questions ]
+14. decentralised.html - [ tolnet/old/tae_questions ]
+15. light_dark.html - [ tolnet/sustainable ]
+
+---
+
+20. spirit.html - [ qkab/consciousness ] { The spritual experience is optional }
+21. intention.html - [ qkab/chashmal ] { What will be the outcome? }
+22. adam_eve.html - [ qkab/chashmal ] { The story of Adam & Eve }
+23. infinity.html - [ qkab/math-numbers/line ]
+24. flow.html - [ qkab/math-numbers/line ] { flow state }
 
 ---
 
@@ -124,6 +137,9 @@ modified: 2021-09-27T17:47:16.830Z
 5. [11. Freedom](#11-freedom)
 6. [12. Energy as Currency](#12-energy-as-currency)
 7. [14. Decentralised system](#14-decentralised-system)
+8. [15. Light & Dark](#15-light--dark)
+   1. [Athiest](#athiest)
+9. [21. Adam & Eve](#21-adam--eve)
 
 ## 3. Sustainable
 
@@ -221,4 +237,32 @@ They are welcome to participate in our exchange system as well. It is based pure
 ## 14. Decentralised system
 
 It aims for a decentralised system that actively forcuses on NOT preventing the less-fortunate people's access to the resources that they need to live decent lives. To have support and encouragement would be superb. However, I think the need for control is what requires those in power to strictly regulate ALL access to resources - ultimate power being the control of all access to every resource The network solution to that is, being powered by and from community groups their communal needs, not by obeying the commands of a centralised system with an overarching authority – which is the kind of hierarchical control systems we have at present.
+<<<<<<< HEAD
 >>>>>>> 2a9f6d5 (Posts)
+=======
+
+## 15. Light & Dark
+
+> We cannot lesson the dark by focusing on it. Focusing on it is feeding it. We can only reduce the dark by increasing the light
+
+We cannot solve the problem by dwelling on it. Eventually it (the darkness) will swallow us.
+Only by living in the light can you overcome the darkness - though we are never free of it. For darkness is formed by light. "He formed the light, and created the darkness." One can only create form in light with darkness!
+
+Similarly, if we obsess over death - if [we are in terror of it](athiest.html)
+
+### Athiest
+
+An athiest, one who does not believe in G-d, and thus would not believe in a soul, or an afterlife, or reincarnation, etc - would then conclude that our brief existences are mere chance flashes in the pan of this random universe, and once we die, we die - it is over, kaput, ended. And the only way we could be remembered is by what we left behind. What monuments you built, or discoveries you stumbled upon - something that you would be recorded in the history of the victors. It is the most horrifying thought for a living being - one who is aware of his impending death. It is a cross which is uniquely human. No other animal seems to bear it as heavily as do we. Nevertheless, that looming abyss of death is a terrifying thought, and we will do anything to avoid it - even kill another. [An eye for an eye will produce a kingdom ruled by one-eyed men and women] Thus our "health" industry spent billions on keeping people alive! Helping sick people live healthy lives requires sick people. You product is health, but your inventory is sick people. If the majority of people were healthy, the "health" industry would fail!
+
+So let's gather under the banner of life. Let's build a nation of people who live healthy lives. Let's provide one another with living food and clean living water first.
+
+## 22. Adam & Eve
+
+The story of why Eve took a bite of the apple, and offered one to Adam. Because she knew that this was G-d's design.
+
+## 24. Flow
+
+Note: The flow cannot be about enabling teams to become more productive, so that their masters can achieve more wealth and reap more benefits for themselves and those around them, to the detriment of the greater population. This flow has to be to achieve better relationship with this background upon which we dance. It is like not listening to the music, when dancing a duet.
+
+[Somewhere there was a period where that was being expressed to the general benefit of the general population. And we were prepared to pay the price to achieve that material success and relative ease. Now the success of those ventures, is threatening our very existence. Probably because we are not willing to pay the price to maintain these benefits.]
+>>>>>>> 336f4d8 (More Posts)
