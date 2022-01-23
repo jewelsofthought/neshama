@@ -1,3 +1,8 @@
 {
+<<<<<<< HEAD
   "tags": ["simultaneity"]
+=======
+  "tags": ["simultaneity"],
+  "layout": "layouts/post"
+>>>>>>> bf60a88 (Added illustration, and some minor amendments)
 }
