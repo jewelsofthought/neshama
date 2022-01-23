@@ -5,8 +5,14 @@ url: https://www.britannica.com/biography/Xiong-Shili
 author: Matt Stefon
 tags:
   - external
+<<<<<<< HEAD
 date: 2021-12-18T16:44:39.251Z
 modified: 2022-01-13T06:53:20.194Z
+=======
+  - ontology
+date: 2021-12-18T16:44:39.251Z
+modified: 2021-12-18T19:04:28.397Z
+>>>>>>> 69c676d (Adding new material)
 ---
 
 ## Xiong Shili (1885-1968)

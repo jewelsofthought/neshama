@@ -1,5 +1,6 @@
 ---
 title: The Speculum that Shines
+<<<<<<< HEAD
 pages:
   - 271
   - 288
@@ -16,6 +17,26 @@ modified: 2022-01-13T07:21:30.085Z
 
 ַַַַַַַAny discussion on the nature of mystical vision must begin with an analysis of the phenomenon of light and light symbolism as it is operative in the given religious tradition of the particular mystic. The frequency with which the religious experience is associated with the phenomenon of light is a well-attested fact in the history of religions. Moreover, the symbolism of light is repeatedly associated with mystical experience. Indeed, **the ontology of light gives shape to and generates the mystic experience**, which is essentially a state or process of illumination.
 
+=======
+description: Visionary Gnosis and the Role of the Imagination In Theosophic Kabbalah
+author: Elliot R. Wolfsen
+pages:
+  - 271
+  - 288
+tags: null
+date: 2021-12-19T10:48:18.775Z
+modified: 2021-12-19T17:51:41.967Z
+---
+
+- [ONTOLOGY OF LIGHT AND MYSTICAL VISION](#ontology-of-light-and-mystical-vision)
+- [Footnotes](#footnotes)
+
+## ONTOLOGY OF LIGHT AND MYSTICAL VISION
+
+Any discussion on the nature of mystical vision must begin with an analysis of the phenomenon of light and light symbolism as it is operative in the given religious tradition of the particular mystic. The frequency with which the religious experience is associated with the phenomenon of light is a well-attested fact in the history of religions. Moreover, the symbolism of light is repeatedly associated with mystical experience. Indeed, **the ontology of light gives shape to and generates the mystic experience**, which is essentially a state or process of illumination.
+
+H~2~O
+>>>>>>> 69c676d (Adding new material)
 One of the dominant features {of the description of this state or process of illumination} is the use of light symbolism to depict the nature of the divine.
 
 For the kabbalist the primary function of the light symbolism is to describe the divine reality; only in a secondary sense does this symbolism function to describe the phenomenological pole. In other terms, the light imagery depicts an exterior light in the divine realm that has an ontologically independent status, whereas the interior light of the mystical experience is a derivative phenomenon. Mystical illumination, therefore, would be a consequence of the luminous nature of the divine. Yet it is the case, as will be shown in more detail in this chapter and the next, that the ontological and phenomenological poles are inseparably interwoven. **What is conceived of metaphysically as the ultimate nature of being, that is, light, coincides with what is experienced in the mystical experience of illumination**.
