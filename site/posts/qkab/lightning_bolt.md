@@ -3,6 +3,7 @@ title: Lightning Bolt
 description: The light enters through the crown.
 tags: null
 date: 2021-10-15T13:21:06.383Z
+<<<<<<< HEAD
 modified: 2021-11-28T09:44:05.859Z
 ---
 
@@ -34,3 +35,9 @@ But for any point (whatever its dimension) to manifest, there must be a simple, 
 Hadronic energy = 1d energy – that is why it is so immensely powerful.
 
 It “holds” these energies for long enough for them to manifest.
+=======
+modified: 2021-10-18T09:29:38.008Z
+---
+
+In Kab. the lightning bold descends from Binah to Chesed. This is not accurate and a fairly patriarchal point of view. Keter actually splits into Chesed and Gevurah simultaneously
+>>>>>>> fe79c0b (Added new entries)
