@@ -3,6 +3,7 @@ title: Web of Trust
 description: Web of Truth?
 tags: null
 date: 2021-11-12T07:08:28.768Z
+<<<<<<< HEAD
 modified: 2022-01-10T14:16:12.578Z
 ---
 
@@ -11,6 +12,15 @@ modified: 2022-01-10T14:16:12.578Z
 3. [Human$$ \Leftrightarrow $$Interface](#human-leftrightarrow-interface)
 4. [Ground state](#ground-state)
 5. [Non-human consciousness (NHC)](#non-human-consciousness-nhc)
+=======
+modified: 2021-12-02T08:24:20.507Z
+---
+
+1. [Trust](#trust)
+2. [Human$\Leftrightarrow$Interface](#humanleftrightarrowinterface)
+3. [Ground state](#ground-state)
+4. [Non-human consciousness (NHC)](#non-human-consciousness-nhc)
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 
 ## Trust
 
@@ -25,6 +35,7 @@ The most important things to keep in mind are:
 1. A perception of something is not the thing itself, but an "imaginary" or "made-up" version of the actual "thing".
 2. There is not someone or something out there having an experience separate from your experience.. Although you could imagine such a thing, the only "experience" you can have of it, is your own "lived" - and therefore limited - experience of it.
 
+<<<<<<< HEAD
 ## Web
 
 1. Connected people, businesses and government
@@ -34,6 +45,9 @@ The most important things to keep in mind are:
 5. Increased communication channels by and for humanity, which included the dark forces as well.
 
 ## Human$$ \Leftrightarrow $$Interface
+=======
+## Human$\Leftrightarrow$Interface
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 
 How human is the interface between the human and the AI/MI? This is not an AI problem, it is a human system interface (HIS - Human Interface to the System) problem.
 
@@ -42,13 +56,21 @@ How human is the interface between the human and the AI/MI? This is not an AI pr
 Two levels:
 
 1. Human level (anthropomorphic, narcissistic)
+<<<<<<< HEAD
 2. System level (objectification $$\Leftrightarrow$$ virtualisation)
+=======
+2. System level (objectification $\Leftrightarrow$ virtualisation)
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 
 Interface:
 
 - where "consciousness", as a separate identity encounters the "non-conscious"
 
+<<<<<<< HEAD
 Empirical $$\Leftrightarrow$$ non-consciousness. It tracks dead (literally non-conscious) events. Based on data, i.e. measurement, recording, etc which is non-human.
+=======
+Empirical $\Leftrightarrow$ non-consciousness. It tracks dead (literally non-conscious) events. Based on data, i.e. measurement, recording, etc which is non-human.
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 
 ## Ground state
 

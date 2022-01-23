@@ -6,7 +6,11 @@ tags:
   - m&f
   - qkab
 date: 2021-10-12T18:17:11.615Z
+<<<<<<< HEAD
 modified: 2022-01-03T16:51:35.956Z
+=======
+modified: 2021-10-20T11:21:22.003Z
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 ---
 
 1. [Fundamental property](#fundamental-property)
@@ -15,6 +19,7 @@ modified: 2022-01-03T16:51:35.956Z
 4. [Dynamic principle of Evil](#dynamic-principle-of-evil)
 5. [Form](#form)
 6. [Force](#force)
+<<<<<<< HEAD
 7. [Two states](#two-states)
 8. [Measurement](#measurement)
    1. [Real](#real)
@@ -23,6 +28,14 @@ modified: 2022-01-03T16:51:35.956Z
    1. [Real: Form](#real-form)
    2. [Imaginary: Wave](#imaginary-wave)
 10. [Energy](#energy)
+=======
+7. [Measurement](#measurement)
+   1. [Real](#real)
+   2. [Virtual](#virtual)
+8. [Human measurement](#human-measurement)
+   1. [Real: Form](#real-form)
+   2. [Imaginary: Wave](#imaginary-wave)
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 
 ## Fundamental property
 
@@ -68,11 +81,14 @@ One of the most effective tools of the _Sitra Ahara_, the "Other Side", Satan, i
 
 - energy in (linear) movement.
 
+<<<<<<< HEAD
 ## Two states
 
 (from EnEx 20200802)
 In energy there are two states: at rest, or potential energy; and dynamic, doing work, or power. Just as with stores of value. This money is at rest, static, until it is "moves", ie. is used to financially power some event. This is where it connects to SOA, or microservices, architecture. Making it actually data driven is perfect to adapt it to a social governing framework, it which decisions which impact people have to be made.
 
+=======
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 ## Measurement
 
 We have two types of measuring instruments.
@@ -115,6 +131,7 @@ Thus the more subtle the wave/sensation, the more sensitive a measuring instrume
 
 When a wave becomes **entangled** (either with enough other waves) or a "standing wave" or particle/object, then it is recognised as a particle. And we call it "the collapse of the wave (function)". Thus a wave can only be "experienced/measured" when it interacts with something, and causes some change in the state of the "observer" (or object of or under investigation).
 
+<<<<<<< HEAD
 ## Energy
 
 > Energy that does not have form cannot be represented in this world. It can only be recognised through its interaction with some other "form".
@@ -126,3 +143,6 @@ The only way we are made to be aware of this subtler energy is through its effec
 The quantum arena speaks of such energy. We feel it's effect in our everyday lives with our cell phones and other wireless devices. Yet there is an even more subtle energy, and it's one that vivifies everything, and we call it life when we see it move, and inanimate when it doesn't. Yet they all react to input and energy affects their structure and sometimes their behaviour too. So, they are in some sense alive.
 
 ---
+=======
+-
+>>>>>>> 87dcb92 (renamed tolnet to tol)

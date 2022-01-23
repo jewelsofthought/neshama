@@ -3,7 +3,11 @@ title: Tree of Life Network (ToLNET) TAE
 description: TAE Questionnaire
 tags: null
 date: 2020-03-21T16:00:00.000Z
+<<<<<<< HEAD
 modified: 2022-01-05T18:48:57.698Z
+=======
+modified: 2021-11-28T15:59:39.508Z
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 ---
 
 1. [Tree of Life Network (ToLNET) TAE](#tree-of-life-network-tolnet-tae)
@@ -164,7 +168,11 @@ What do I know about this concept?
 5. Economics:
    As a tree requires sap to live, so this tree will require currency - to evaluate interactions - that are the sap of our lives, and to flourish.
 6. Network structure:
+<<<<<<< HEAD
    A form of this structure exists in almost all organisations. As a graph, it is a generalisation of all organisational structure - similar to a [wave](/posts/qkab/waves/). What I wish to create is the structure on which this can express itself. This is, in fact, just an example of the way all social movements and in fact, all effective social constructs have organised themselves throughout the ages. All brotherhoods, guilds and ruling elites.
+=======
+   A form of this structure exists in almost all organisations. As a graph, it is a generalisation of all organisational structure - similar to a [wave](/qkab/waves.md). What I wish to create is the structure on which this can express itself. This is, in fact, just an example of the way all social movements and in fact, all effective social constructs have organised themselves throughout the ages. All brotherhoods, guilds and ruling elites.
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 7. Benefits/SpinOffs:
    Once the network manifests, there will be many spin-offs - just as we saw with the internet, and its spawn, the Web. It is about clearing and prepping the ground for the seeds to be planted, creating fertile ground for other expressions of the paradigm shift to emerge. It will be a space for projects, structures and applications.
 8. Organic:

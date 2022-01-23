@@ -5,7 +5,11 @@ url: http://shaunmwilliams.com/IntroChem/lecture1.html
 tags:
   - science
 date: 2021-12-02T13:17:24.006Z
+<<<<<<< HEAD
 modified: 2022-01-10T14:11:39.464Z
+=======
+modified: 2021-12-02T14:47:38.383Z
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 ---
 
 ## Matter and Energy
@@ -61,6 +65,10 @@ Mass as energy at "rest", or in a stasis. This "mass event" can possibly contain
 
 Units for energy are calories or joules
 
+<<<<<<< HEAD
 > $$ 4.184J = 1 cal $$
+=======
+> $4.184J = 1 cal$
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 
 - A calorie is the amount of energy required to raise 1g of water by 1<sup>o</sup>C

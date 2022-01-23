@@ -5,7 +5,11 @@ url: http://shaunmwilliams.com/IntroChem/lecture1.html
 tags:
   - science
 date: 2021-12-02T12:46:52.292Z
+<<<<<<< HEAD
 modified: 2022-01-10T14:12:06.362Z
+=======
+modified: 2021-12-02T14:47:16.482Z
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 ---
 
 ## Law of the conservation of mass
@@ -25,7 +29,11 @@ A Graphic of the Atom
 - Mass Number (A)
   -the number of protons and neutrons in the nucleus of an element's atom
   is generally found below the elemental symbol on the periodic table
+<<<<<<< HEAD
   > $$ A = Z + N $$
+=======
+  > $A = Z + N$
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 - Neutron Number (N)
   - the number of neutrons in the nucleus of an element's atom
 

@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: Various Thoughts
 description: Miscellaneous ideas
 tags: null
@@ -26,6 +27,22 @@ Specialisation produces a web of Inter-dependencies
 ## Systems (old)
 
 All dynamic/moving systems are alive. If a system never changes, then it is dead. If a food can stand open for a long time, then it is dead. All static, absolute, unmoving systems are dead. Thus sterilized systems or pasteurised food stuffs are often life depleting. Though there is must support and nourishment that a dead tree or animal provides the living creature of the forest.
+=======
+title: Thoughts & Ideas
+description: Tree of Life Network ideas
+tags: null
+date: 2021-11-11T10:38:07.290Z
+modified: 2021-12-20T08:14:48.621Z
+---
+
+1. [Sovereignty ~ empowerment](#sovereignty--empowerment)
+2. [Bridging](#bridging)
+   1. [Between two worlds](#between-two-worlds)
+3. [Power & Governance](#power--governance)
+4. [Governance in the global space.](#governance-in-the-global-space)
+5. [666m (cov-19)](#666m-cov-19)
+6. [Graphs and Networks](#graphs-and-networks)
+>>>>>>> 87dcb92 (renamed tolnet to tol)
 
 ## Sovereignty ~ empowerment
 
@@ -56,6 +73,7 @@ Our greatest challenge is not the risk of environmental collapse, resource wars,
 ## 666m (cov-19)
 
 But the descent from 7B to 666m will be catastrophic and will be a stranger to any who dreamt of a world with only 666m people inhabiting it.
+<<<<<<< HEAD
 
 ## Fish
 
@@ -104,3 +122,5 @@ An unintended effect of this, or perhaps it is an intended one, is that idiotic 
 Beginning of a 3d design for the Tree of Life:
 
 ![3d - Tree of Life](/posts/img/tol/fn-pillar.png)
+=======
+>>>>>>> 87dcb92 (renamed tolnet to tol)
