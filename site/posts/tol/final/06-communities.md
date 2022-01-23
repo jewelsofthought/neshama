@@ -4,10 +4,14 @@ description: Connect
 tags: null
 date: 2021-12-19T19:55:21.600Z
 <<<<<<< HEAD
+<<<<<<< HEAD
 modified: 2022-01-10T14:27:27.274Z
 =======
 modified: 2021-12-22T07:44:10.779Z
 >>>>>>> 87dcb92 (renamed tolnet to tol)
+=======
+modified: 2022-01-10T14:27:27.274Z
+>>>>>>> 15dc9f6 (Fixed math inserts)
 ---
 
 ## Stage IV: Web of communities
@@ -20,6 +24,7 @@ If all trading took place on as local a domain as possible, and, as is the gener
 
 At this stage, any crypto-currency has to become fiat (or fiat equivalent) currency to deal with most of today’s requirements. The only way to make this crypto-currency viable is by creating an eco-system that can transact and provide most of the needs of this eco-system – which I refer to as a web of communities. There is a tipping point at which this web can become self-reliant enough to be able to sustain a community currency, in the same way that any local currency has been able to. The difference is the potential global reach of this eco-system – in that it is able to transact across borders with ease, thus enabling easier resource transfer as well.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 What if it also levelled the global economic playing field by paying an equal rate in crypto-currency for work done (proof of work) no matter where the person was located?
 
@@ -27,12 +32,19 @@ Let me explain. In the bitcoin arena, I have a fiat price that I wish to charge 
 
 Let us say, an engineer in the US, receives \$100 an hour for his work. That equals $$M$$ bitcoin. An engineer in South Africa, working through the network, will get $$M$$ bitcoin per hour as well, which equates to R1500 an hour, if cashed in – an excellent hourly rate.
 =======
+=======
+
+>>>>>>> 15dc9f6 (Fixed math inserts)
 What if it also levelled the global economic playing field by paying an equal rate in crypto-currency for work done (proof of work) no matter where the person was located?
 
-Let me explain. In the bitcoin arena, I have a fiat price that I wish to charge for my item. Say $\$10 = N$ bitcoin. If I want to purchase that item, I will have to pay $N$ bitcoin, which is, say, R$150$ in my currency. Thus I have paid $R150 = \$10$ for the item, yet in the bitcoin realm, I have paid $N$ bitcoin – the same amount, no matter what fiat currency I am coming from.
+Let me explain. In the bitcoin arena, I have a fiat price that I wish to charge for my item. Say \$10 = $$N$$ bitcoin. If I want to purchase that item, I will have to pay $$N$$ bitcoin, which is, say, R150 in my currency. Thus I have paid R150 = \$10 for the item, yet in the bitcoin realm, I have paid $$N$$ bitcoin – the same amount, no matter what fiat currency I am coming from.
 
+<<<<<<< HEAD
 Let us say, an engineer in the US, receives $\$100$ an hour for his work. That equals $M$ bitcoin. An engineer in South Africa, working through the network, will get $M$ bitcoin per hour as well, which equates to $R1500$ an hour, if cashed in – an excellent hourly rate.
 >>>>>>> 87dcb92 (renamed tolnet to tol)
+=======
+Let us say, an engineer in the US, receives \$100 an hour for his work. That equals $$M$$ bitcoin. An engineer in South Africa, working through the network, will get $$M$$ bitcoin per hour as well, which equates to R1500 an hour, if cashed in – an excellent hourly rate.
+>>>>>>> 15dc9f6 (Fixed math inserts)
 
 In whatever form the organisational structure appears, it will be permeated by the Tree of Life network, or a sub-tree thereof, to enable equal communication and representation – though only used in time of need.
 These communities will be networked to co-operate and collaborate so as to make them self-reliant and independent of any other inputs except for those that come from the network itself. We refer to them as eco-communities, for they will practise the ethics of the eco-movement, and produce/consume organic produce, produce/use renewable energy, avoid toxic materials, and, even further, produce their own clothes, eventually providing essential services like health support and education.

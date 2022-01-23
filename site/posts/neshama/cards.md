@@ -5,6 +5,7 @@ tags: null
 date: 2021-11-04T15:02:32.726Z
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 modified: 2022-01-10T05:22:58.446Z
 =======
 modified: 2021-11-25T09:51:41.364Z
@@ -12,6 +13,9 @@ modified: 2021-11-25T09:51:41.364Z
 =======
 modified: 2022-01-01T17:08:30.935Z
 >>>>>>> e366c49 (Update)
+=======
+modified: 2022-01-10T05:22:58.446Z
+>>>>>>> 15dc9f6 (Fixed math inserts)
 ---
 
 1. [Pieces](#pieces)
@@ -95,13 +99,18 @@ The abundance of the earth is in all. All designates Yesod, who transmits the en
 
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 <<<<<<< HEAD
+=======
+
+>>>>>>> 15dc9f6 (Fixed math inserts)
 ## Vayetzi
 
 During the growing phase , your gift is your tool. If it becomes a weapon, then you will live by the rule of the sword.
 
 Your eldership is obtained/received/ordained when you gain the wisdom of your gift. Which is expressed in gratitude: "I have been granted my portion." That is "I have been blessed with the gift of ...".
+<<<<<<< HEAD
 =======
 ## Dawn
 
@@ -133,3 +142,5 @@ Here is a brief glimpse of a description of the dynamics of the spiritual realm 
 >>>>>>> bdfc3da (Tag cleansing, some additions, mainly external)
 =======
 >>>>>>> e366c49 (Update)
+=======
+>>>>>>> 15dc9f6 (Fixed math inserts)

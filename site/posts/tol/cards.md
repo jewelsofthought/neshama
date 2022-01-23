@@ -7,6 +7,7 @@ description: Miscellaneous ideas
 tags: null
 date: 2022-01-06T17:58:20.377Z
 <<<<<<< HEAD
+<<<<<<< HEAD
 modified: 2022-01-11T17:10:55.562Z
 ---
 
@@ -49,12 +50,17 @@ modified: 2022-01-05T11:15:48.841Z
 =======
 modified: 2022-01-06T18:01:47.356Z
 >>>>>>> fd88bae (minor changes)
+=======
+modified: 2022-01-11T17:10:55.562Z
+>>>>>>> 15dc9f6 (Fixed math inserts)
 ---
 
-1. [Systems (old)](#systems-old)
-2. [Sovereignty ~ empowerment](#sovereignty--empowerment)
-3. [Bridging](#bridging)
+1. [Specialisation](#specialisation)
+2. [Systems (old)](#systems-old)
+3. [Sovereignty ~ empowerment](#sovereignty--empowerment)
+4. [Bridging](#bridging)
    1. [Between two worlds](#between-two-worlds)
+<<<<<<< HEAD
 <<<<<<< HEAD
 3. [Power & Governance](#power--governance)
 4. [Governance in the global space.](#governance-in-the-global-space)
@@ -80,6 +86,15 @@ modified: 2022-01-06T18:01:47.356Z
 =======
 8. [Great Pirates](#great-pirates)
 9. [Information scarcity](#information-scarcity)
+=======
+5. [Power & Governance](#power--governance)
+6. [Governance in the global space.](#governance-in-the-global-space)
+7. [666m (cov-19)](#666m-cov-19)
+8. [Fish](#fish)
+9. [Great Pirates](#great-pirates)
+10. [Information scarcity](#information-scarcity)
+11. [3d Tree of Life](#3d-tree-of-life)
+>>>>>>> 15dc9f6 (Fixed math inserts)
 
 ## Specialisation
 

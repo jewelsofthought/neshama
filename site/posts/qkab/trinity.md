@@ -7,6 +7,7 @@ date: 2021-10-11T08:26:35.929Z
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 modified: 2022-01-11T17:10:18.179Z
 ---
 
@@ -83,6 +84,9 @@ modified: 2021-11-26T11:03:01.281Z
 =======
 modified: 2022-01-05T18:38:31.882Z
 >>>>>>> 67bd52a (Fixed bad links)
+=======
+modified: 2022-01-11T17:10:18.179Z
+>>>>>>> 15dc9f6 (Fixed math inserts)
 ---
 
 1. [Stillness](#stillness)
@@ -100,7 +104,7 @@ modified: 2022-01-05T18:38:31.882Z
 
 Absolute stillness is absolute form - what is also referred to as "dead matter", though essentially all that we refer to as matter, is dead in our minds. The dead tree - which we call now wood - can be burnt, bent, hacked and carved to our desire - for it is "dead". A steak - which is meat from a once sentient being, and we know refer to as "meat" - which itself is dead matter ready to be consumed. And to add the coup de gra, we burnt it before consuming it.
 
-Only form can deplete energy as well. In fact, it needs to consume energy to stay "in form". [Just as we need <span style="color:red">in</span><span style="color:gray">for</span>m<span style="color:blue">ation</span> to remain <span style="color:red">in</span>form</span><span style="color:gray">ed</span> about our form!]
+Only form can deplete energy as well. In fact, it needs to consume energy to stay "in form". [J: Just as we need in-form-ation to remain in-form-ed about our form! ]
 
 ## Vesica Pisces
 
@@ -110,9 +114,9 @@ Only form can deplete energy as well. In fact, it needs to consume energy to sta
 
 ### Three's
 
-3 states, 3 responses, 3 reactions: positive, negative & neutral; for, against, not-sure; pro, anti, on the fence; beginning ($1$), end ($\infty$), middle&mdash;which is everything inbetween, and forms the "visible" segment.
+3 states, 3 responses, 3 reactions: positive, negative & neutral; for, against, not-sure; pro, anti, on the fence; beginning ($$1$$), end ($$\infty$$), middle&mdash;which is everything inbetween, and forms the "visible" segment.
 
-One could also term in masculine, feminine, and the [Vesica Pisces](vesica_pisces.html) as the interface described between the two.
+One could also term in masculine, feminine, and the {[Vesica Pisces](vesica_pisces.html)} as the interface described between the two.
 
 Two ways to deal with the middle: [Excluded middle](/posts/qkab/middle/) (used mainly in mathematics, and logic, and fascist regimes), or the [included middle](/posts/qkab/middle/).
 
