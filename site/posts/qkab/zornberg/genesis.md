@@ -10,7 +10,11 @@ modified: 2022-01-11T17:30:06.374Z
 =======
 tags: null
 date: 2021-12-26T14:51:36.482Z
+<<<<<<< HEAD
 >>>>>>> ae79aa5 (Addtions)
+=======
+modified: 2021-12-28T06:13:29.725Z
+>>>>>>> eb5986d (Some more)
 ---
 
 GENESIS

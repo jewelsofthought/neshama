@@ -4,8 +4,8 @@ date: 2021-08-04T00:00:00.000Z
 description: The people of Israel have embraced the new order with a
   voraciousness that is scary...
 tags:
-  - tolnet
-modified: 2021-10-24T06:51:26.850Z
+  - tol
+modified: 2021-12-28T09:36:03.768Z
 ---
 
 ## Science will save us!

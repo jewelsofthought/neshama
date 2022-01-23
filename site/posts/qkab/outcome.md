@@ -4,6 +4,7 @@ description: Does intention affect outcome?
 date: 2021-09-23T09:10:26.630Z
 tags:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - tol
 modified: 2021-12-28T09:35:10.093Z
 ---
@@ -17,6 +18,10 @@ Time when future was unknown, the focus was on [intent](intention.html). After h
 =======
   - tolnet
 modified: 2021-10-13T13:21:21.047Z
+=======
+  - tol
+modified: 2021-12-28T09:35:10.093Z
+>>>>>>> eb5986d (Some more)
 ---
 
 1. [Intention/Outcome.](#intentionoutcome)
