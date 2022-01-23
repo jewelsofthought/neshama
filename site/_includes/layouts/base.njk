@@ -59,6 +59,7 @@
     </header>
 
     <!--content -->
+<<<<<<< HEAD
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
 
       {{ content | safe }}
@@ -68,6 +69,14 @@
     <footer></footer>
 >>>>>>> 0ef9b37 (Initial Commit)
 =======
+=======
+    <div class="columns is 8 layout-base maxwidth">
+      <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+        {{ content | safe }}
+      </main>
+    </div>
+  
+>>>>>>> ff5b9f9 (Fixed 1st stage look. Added Nav & Footer. Placed post correctly.)
     <!--footer -->
     {% include "footer.njk" %}
 
