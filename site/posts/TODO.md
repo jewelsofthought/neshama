@@ -8,6 +8,7 @@ tags:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 date: 2021-11-19T16:20:24.096Z
 modified: 2021-11-26T13:44:18.269Z
 =======
@@ -23,6 +24,11 @@ modified: 2021-11-19T16:20:24.096Z
 date: 2021-11-19T16:20:24.096Z
 modified: 2021-11-26T13:44:18.269Z
 >>>>>>> bdfc3da (Tag cleansing, some additions, mainly external)
+=======
+eleventyExcludeFromCollection: true
+date: 2021-11-19T16:20:24.096Z
+modified: 2022-01-22T17:37:21.581Z
+>>>>>>> d853579 (Exclude from collections)
 ---
 
 # TODO
