@@ -63,8 +63,12 @@ modified: 2021-09-26T19:38:18.644Z
 tags:
   - pardes
 date: 2021-10-08T15:32:28.677Z
+<<<<<<< HEAD
 modified: 2021-10-10T13:36:10.806Z
 >>>>>>> d9f6348 (New Posts)
+=======
+modified: 2021-10-10T16:40:44.161Z
+>>>>>>> a2376e4 (More posts)
 ---
 
 ## PEMS-1
@@ -108,6 +112,9 @@ Spiritual:
 Intellectual: kabbalah
 Emotional: journeying
 Physical: network
+Spiritual: Belief in G-d, Encounter with G-d.
+
+## PEMS-4 - 4 domains
 
 ## Fundamental Particles
 

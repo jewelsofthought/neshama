@@ -3,6 +3,7 @@ title: Trinity - Triangle
 description: The 3-some.
 tags: null
 date: 2021-10-11T08:26:35.929Z
+<<<<<<< HEAD
 modified: 2022-01-11T17:10:18.179Z
 ---
 
@@ -69,3 +70,20 @@ We have the ability, nay, the incredible gift and responsibility to affect each 
 However, if it is true that AASB, then we cannot look to the upper realms for help as they must be in the same chaotic and unsafe state that we are in. Appealing to “them”, the Upper, would, in that case, be useless. We have to solve our own problems.
 
 There is another possibility. That some "hero" will descend from above and save us all... We call him the Messiah - which actually also means messenger.
+=======
+---
+
+## Three(s)
+
+![trinity](trinity.png)
+
+3 states, 3 responses, 3 reactions: positive, negative & neutral; for, against, not-sure; pro, anti, on the fence; beginning (1), end (infinity), middle (which forms the bulk).
+
+Two ways to deal with the middle: Excluded middle (used mainly in mathematics, and logic, and fascist regimes), or the included middle.
+
+However, the boundaries of the space are defined (expressed) by the extremes (or the limits/boundaries). Thus is it the extremists, what we call the fanatics, or zealots, that pull society this way or that.
+
+## Sovereignty ~ empowerment
+
+> There is no real sovereignty. The only real sovereign is G-d. The only earthly sovereignty we experience, is as power over. What we can seek only in the societal environment, is "empowerment".
+>>>>>>> a2376e4 (More posts)

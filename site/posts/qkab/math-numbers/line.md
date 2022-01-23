@@ -3,8 +3,18 @@ title: Line
 description: The line & infinity
 tags: null
 date: 2021-10-08T08:43:25.481Z
-modified: 2021-10-08T13:51:45.557Z
+modified: 2021-10-10T13:45:25.736Z
 ---
+
+1. [Linear](#linear)
+2. [Line](#line)
+3. [Time is the background](#time-is-the-background)
+4. [Flow](#flow)
+5. [Formlessness](#formlessness)
+6. [Memories](#memories)
+7. [Which way [ inf <->1 ]?](#which-way--inf--1-)
+8. [In the beginning](#in-the-beginning)
+9. [Bow & Arrow](#bow--arrow)
 
 ## Linear
 
