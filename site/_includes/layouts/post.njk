@@ -3,6 +3,9 @@ layout: layouts/base.njk
 templateClass: tmpl-post
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> b41625c (Bulma inserted. Not clean yet. (Postcss?))
 <div class="column blog-column box-deco has-background-white">
 
   <div class="blog-post">
@@ -10,7 +13,10 @@ templateClass: tmpl-post
       <div class="main_title">
         <h4 class="title is-4 blog-post-title" itemprop="name headline">
         <a href="#">{{ title }}</a>
+<<<<<<< HEAD
       </div>
+=======
+>>>>>>> b41625c (Bulma inserted. Not clean yet. (Postcss?))
 
     <div class="is-clearfix"></div>
 
@@ -36,17 +42,26 @@ templateClass: tmpl-post
 
     <div class="is-clearfix"></div>
 
+<<<<<<< HEAD
     {%- if description %}
       <h3>Description:</h3>
       <p>{{ description }}</p>
       <hr class="is-black"/>
     {%- endif %}
 
+=======
+
+    {%- if description %}
+      <h3>Description:</h3>
+      <p>{{ description }}</p>
+    {%- endif %}
+>>>>>>> b41625c (Bulma inserted. Not clean yet. (Postcss?))
     <div class="main-content">
       {{ content | latex | safe }}
     </div>
 
     {%- if collections.posts %}
+<<<<<<< HEAD
       {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
       {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
       {%- if nextPost and not nURL %}
@@ -95,3 +110,17 @@ templateClass: tmpl-post
 {%- endif %}
 {%- endif %}
 >>>>>>> 0ef9b37 (Initial Commit)
+=======
+    {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
+    {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
+    {%- if nextPost or previousPost %}
+    <hr>
+    <ul>
+      {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
+      {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+    </ul>
+    {%- endif %}
+    {%- endif %}
+  </div>
+</div>
+>>>>>>> b41625c (Bulma inserted. Not clean yet. (Postcss?))
