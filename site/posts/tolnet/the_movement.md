@@ -2,13 +2,27 @@
 title: The Movement
 description: Who are the people?
 date: 2021-08-22T00:00:00.000Z
-tags: null
-modified: 2021-09-23T17:14:00.318Z
+tags:
+  - communities
+modified: 2021-11-03T15:33:09.799Z
 ---
 
 1. [The Movement](#the-movement)
    1. [Types](#types)
    1. [The Maccabean Test](#the-maccabean-test)
+
+## ToLNet
+
+1. sacred communities
+   1. communites of trust
+      1. led by truth and true hearts
+         1. confidentiality
+      2. honour elders, and the gifted.
+      3. protect the weak
+      4. respect one another and the intimacies we share
+2. Seeds
+   1. Grow (like vines)
+   2. And connect (like the mycellium)
 
 # The Movement
 
@@ -33,3 +47,7 @@ There are 2 types of people who joined the movement.
    But I ask you O great ones who rule over us and wish to control us like ants, like little slaves to do their bidding, and feed their petty, mostly material, desires with our juices - how large is your pyramid next to the giant nebula that gaze upon us in pity? If you are remembered for a 1000 years, O my Emperor, how long is that in the eyes of our very planet, which your science says has been here for 15,000,000,000 years? Well, I say, however, or whatever built this planet, is going to be remembered for far longer than any one of you will be. And is capable of producing things far greater than any of you, or your wizards, whether of science or magic, could ever hope to imagine.
 
 **The beauty of this strange Viral time is that it is clearly showing the difference between these two.**
+
+# The Call
+
+Hogsback -
