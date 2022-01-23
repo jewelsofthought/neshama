@@ -3,7 +3,7 @@ title: Pure Narcissism
 description: Deep dive into ancient texts
 tags: null
 date: 2021-10-14T08:41:50.219Z
-modified: 2021-10-14T13:14:51.313Z
+modified: 2021-11-21T09:06:26.901Z
 ---
 
 1. [Pure Narcissism](#pure-narcissism)
@@ -12,7 +12,7 @@ modified: 2021-10-14T13:14:51.313Z
 4. [Time & Space](#time--space)
 5. [The Crossing](#the-crossing)
 
-## Pure Narcissism
+## Narcissism
 
 _Fear is the killer – but must be tempered with discernment._
 _Think a new thought._
@@ -65,7 +65,7 @@ If we remove time, it produces a feeling of fullness. If we remove space, one of
 ## The Crossing
 
 > Paradoxical nature of life
-> [Paradoxical nature of life](narcissism.png)
+> ![Paradoxical nature of life](/posts/img/qkab/narcissism.png)
 
 Whenever we move from the mundance to spiritual realms, there is a change of density – a “bending” of the light. Just as light entering water bends, so does the energy as it moves from one realm to the next.
 

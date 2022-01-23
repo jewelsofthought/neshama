@@ -25,6 +25,9 @@ Is not:
   Humans would be a tome.
   The strings of string theory would be like the sounds from a violin that cause the people to begin to dance!
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 39fe66e (Updated these files' content)
 
 ## Single Letter (Hebrew)
 
@@ -32,8 +35,14 @@ Is not:
 - Every object, everything that exists in the Universe is a manifestation of **Divine Desire**.
 - Dimensions = **Realities**
   - separated by different relationship with Time.
+<<<<<<< HEAD
 - We are aware of being **conscious**
   - Speculum
   - self-reflective
 =======
 >>>>>>> d9f6348 (New Posts)
+=======
+- We are consciousnessly aware of being **conscious**
+  - Speculum
+  - self-reflective
+>>>>>>> 39fe66e (Updated these files' content)

@@ -4,7 +4,7 @@ description: Tree of Life Network ideas
 tags:
   - external
 date: 2021-11-11T10:38:07.290Z
-modified: 2021-11-11T10:38:19.733Z
+modified: 2021-11-15T12:32:27.309Z
 ---
 
 ## Law
@@ -23,4 +23,10 @@ Just as the healer tries to guide the addict out of his darkness into another wo
 
 > Where power goes, governance must follow.
 
+## Governance in the global space.
+
 The challenge is to bring governance into the global space.
+
+Humanity is rediscovering its commons: the self-organized management of resources which people need for their survival and livelihood. The ethic of commoning is based on the recognition that a person has the right to a means of sustenance without interference or harm from others. In this sense, the commons are an inclusive expression of the right to life and the right to justice.
+
+Our greatest challenge is not the risk of environmental collapse, resource wars, scarcity diasporas, oppressive rulers or rancorous disputes over why future generations are denied the opportunity to live in a peaceful and equitable society. Our true task is the creation of inclusionary institutions for sustainable resource production and provisioning as the climate crisis bears down upon the world.

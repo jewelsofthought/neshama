@@ -6,6 +6,7 @@ tags:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 date: 2021-11-19T16:20:24.096Z
 modified: 2021-11-26T13:44:18.269Z
 =======
@@ -14,6 +15,9 @@ modified: 2021-10-20T11:21:01.740Z
 =======
 modified: 2021-10-21T17:22:49.590Z
 >>>>>>> d33a7a6 (Meta changes)
+=======
+modified: 2021-11-19T16:20:24.096Z
+>>>>>>> 39fe66e (Updated these files' content)
 ---
 
 # TODO
@@ -148,7 +152,8 @@ modified: 2021-10-08T06:37:58.223Z
 30. sustainable.md - [ tolnet/old/tae_questions ] { sustainable/co-dependent }
     - codependent.html...
 31. systems.html - [ tolnet/old/tae_questions#complex ] { complex systems }
-32. waves.html - [ tolnet/old/tae_questions#complex ] { frequency, vibrations, waves}
+32. qkab/waves.html - [ tolnet/old/tae_questions#complex ]{ frequency, vibrations, waves}
+33. creation.html - [ qkab/cards.md##desire ] { zero to one }
 
 ---
 
@@ -167,6 +172,7 @@ modified: 2021-10-08T06:37:58.223Z
    11. [Systems](#systems)
    12. [Complex Systems](#complex-systems)
    13. [Waves](#waves)
+   14. [Desire](#desire)
 
 ## Adam & Eve
 
@@ -257,6 +263,7 @@ As in communities that self-sufficient, and are able to robust and dynamic
 [Reproduction:]Takes a certain amount of iterations (generally, at least, 4) in order for the "complexity" (actually regularity) to appear. [Regulating:] At which point it becomes "self-regulating/governing". It manifests order/pattern - but the pattern is unpredictable.
 
 ## Desire
+<<<<<<< HEAD
 
 The beginning begins with the emergence of the One. How the zero became 1 is beyond a miracle. There are absolutely no words (in any language) that describe either what the 0 is, or how it became 1. Though there is a way to express it in every language, and it is an essential part of every language. In fact, everyone can "speak" this divine language. It is called ... silence!
 =======
@@ -329,3 +336,7 @@ As in communities that self-sufficient, and are able to robust and dynamic
 
 Any wave can be represented in any wave form.
 >>>>>>> d33a7a6 (Meta changes)
+=======
+
+The beginning begins with the emergence of the One. How the zero became 1 is beyond a miracle. There are absolutely no words (in any language) that describe either what the 0 is, or how it became 1. Though there is a way to express it in every language, and it is an essential part of every language. In fact, everyone can "speak" this divine language. It is called ... silence!
+>>>>>>> 39fe66e (Updated these files' content)

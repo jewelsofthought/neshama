@@ -2,6 +2,7 @@
 title: Consciousness, et. al.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 description: Consciousness - God or AI?
 tags:
   - consciousness
@@ -79,17 +80,23 @@ description: Pieces
 =======
 description: Consciousness: God or AI?
 >>>>>>> d9f6348 (New Posts)
+=======
+description: Consciousness - God or AI?
+>>>>>>> 39fe66e (Updated these files' content)
 tags:
   - consciousness
+  - 4d-being
 date: 2021-10-09T07:56:07.119Z
+modified: 2021-11-17T16:52:01.196Z
 ---
 
 1. [AI](#ai)
 2. [Consciousness is fundamental](#consciousness-is-fundamental)
-3. [Message Broker](#message-broker)
-4. [Time](#time)
-5. [Journey of Separation](#journey-of-separation)
-6. [Single Letter (Hebrew)](#single-letter-hebrew)
+3. [Form](#form)
+4. [Message Broker](#message-broker)
+5. [Time](#time)
+6. [Journey of Seperation](#journey-of-seperation)
+7. [4th dimensional being](#4th-dimensional-being)
 
 ## AI
 
@@ -99,18 +106,28 @@ date: 2021-10-09T07:56:07.119Z
 
 > We awaken to consciousness, but not to [spirit](spirit.html)
 
+<<<<<<< HEAD
 ![Piece on self](consciousness.png)
 <<<<<<< HEAD
 >>>>>>> 2a9f6d5 (Posts)
 =======
+=======
+![Piece on self](/posts/img/qkab/consciousness.png)
+
+## Form
+
+> The only true change is the one which makes no sense!
+
+Form is memory - which is trapped energy. Consciousness is awareness of what has just occurred, and the ability to retain (and even sometimes use) it.
+>>>>>>> 39fe66e (Updated these files' content)
 
 ## Message Broker
 
-![Message Broker](message.png)
+![Message Broker](/posts/img/qkab/message.png)
 
 ## Time
 
-> Alan Aferman: _Time, Eternity, and Mystical Experience_.
+> Alan Afterman: _Time, Eternity, and Mystical Experience_.
 
 The mystical path is a path that is focused on mystical encounters that lead to a mystical union, with time as energy.
 
@@ -128,12 +145,19 @@ Divide time into mundane & sacred time.
   - Actually is "out of time", timeless
   - Godhead made out of sacred time
 
-## Journey of Separation
+## Journey of Seperation
 
-![Conscious Experience](conscious_seperation.png)
+![Conscious Experience](/posts/img/qkab/conscious_seperation.png)
 
-## Single Letter (Hebrew)
+## 4th dimensional being
 
+As a 4<sup>th</sup> dimensional being, you are constantly aware of each one of these realms of interaction - from 4<sup>th</sup> to 1<sup>st</sup> (and even 5<sup>th</sup>).
+
+Imagine each moment of interaction (action -> reaction) as a supernova that spews out material as it bursts into light. A light so bright that it traverses infinity.
+
+From that vantage point, it looks something like this:
+
+<<<<<<< HEAD
 - There are no individual letters in Hebrew, like 'a' or 'I' as in English. This is because it is regarded as a **broken vessel** if it is alone.
 - Every object, everything that exists in the Universe is a manifestation of **Divine Desire**.
 - Dimensions = **Realities**
@@ -142,3 +166,6 @@ Divide time into mundane & sacred time.
   - Speculum
   - self-reflective
 >>>>>>> d9f6348 (New Posts)
+=======
+> _From the depth of my being rises the impulse. With enough power and faith, it bursts forth and engages the other. At that tangential moment/pt of contact, the “shock wave” spreads out in all directions, proportional to the impact/power of the interaction._ > _It could be fleeting; it could be life changing._
+>>>>>>> 39fe66e (Updated these files' content)
