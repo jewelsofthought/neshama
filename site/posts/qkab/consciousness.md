@@ -75,11 +75,28 @@ From that vantage point, it looks something like this:
 > _From the depth of my being rises the impulse. With enough power and faith, it bursts forth and engages the other. At that tangential moment/pt of contact, the “shock wave” spreads out in all directions, proportional to the impact/power of the interaction._ > _It could be fleeting; it could be life changing._
 =======
 description: Pieces
-tags: null
-modified: 2021-10-03T17:37:04.241Z
+tags:
+  - consciousness
+modified: 2021-10-04T09:53:56.209Z
 ---
 
 ## Consciousness is fundamental
 
 ![Piece on self](consciousness.png)
+<<<<<<< HEAD
 >>>>>>> 2a9f6d5 (Posts)
+=======
+
+## Message Broker
+
+![Message Broker](message.png)
+
+## Time
+
+> Alan Aferman: _Time, Eternity, and Mystical Experience_.
+
+The mystical path is a path that is focused on mystical encounters that lead to a mystical union, with time as energy.
+
+- Divide time into mundance & sacred time. The Shabbat is the day that we focus on entering sacred time.
+- Godhead made out of sacred time
+>>>>>>> 737c5c0 (New)
