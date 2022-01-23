@@ -1,10 +1,14 @@
 ---
 title: Nagarjuna and Quantum Physics.
+<<<<<<< HEAD
 tags:
   - external
   - process
 date: 2021-10-28T16:18:56.048Z
 modified: 2021-11-11T10:31:30.490Z
+=======
+modified: 2021-10-19T17:18:52.589Z
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 ---
 
 <!-- TODO: Make a gallery of the images,
@@ -18,6 +22,7 @@ modified: 2021-11-11T10:31:30.490Z
 ### Eastern and Western Modes of Thought.
 
 1. [Nagarjuna and Quantum Physics.](#nagarjuna-and-quantum-physics)
+<<<<<<< HEAD
    1. [Christian Thomas Kohl.](#christian-thomas-kohl)
    2. [Eastern and Western Modes of Thought.](#eastern-and-western-modes-of-thought)
    3. [Introduction](#introduction)
@@ -40,10 +45,35 @@ modified: 2021-11-11T10:31:30.490Z
       9. [Interpretation of MMK’s 25 chapters.](#interpretation-of-mmks-25-chapters)
       10. [Discussion of Nagarjuna’s work.](#discussion-of-nagarjunas-work)
    8. [Quantum Physics](#quantum-physics)
+=======
+   1. [Introduction](#introduction)
+   2. [_Mahaprajnaparamita-sastra_](#mahaprajnaparamita-sastra)
+   3. [Summary.](#summary)
+   4. [**Nagarjuna**](#nagarjuna)
+      1. [Preliminary note](#preliminary-note)
+      2. [Nagarjuna's view of reality.](#nagarjunas-view-of-reality)
+         1. [Substantialism](#substantialism)
+         2. [Subjectivism](#subjectivism)
+         3. [Holism](#holism)
+         4. [Instrumentalism](#instrumentalism)
+      3. [Nagarjuna’s viewpoint.](#nagarjunas-viewpoint)
+      4. [A brief review of the 25 out of 27 chapters of the _Mulamadhyamakakarika_ (MMK):](#a-brief-review-of-the-25-out-of-27-chapters-of-the-mulamadhyamakakarika-mmk)
+         1. [Chapter 1: _Cause and effect_.](#chapter-1-cause-and-effect)
+         2. [Chapter 2: _A mover and the distance within which to move_.](#chapter-2-a-mover-and-the-distance-within-which-to-move)
+         3. [Chapter 8: _Action and agent_.](#chapter-8-action-and-agent)
+         4. [Chapter 10: _Fire and fuel_.](#chapter-10-fire-and-fuel)
+         5. [Chapter 12: _Suffering and the causes of suffering_.](#chapter-12-suffering-and-the-causes-of-suffering)
+         6. [Chapter 16: _Bondage and liberation_.](#chapter-16-bondage-and-liberation)
+         7. [Chapter 23. _Pure and impure_.](#chapter-23-pure-and-impure)
+      5. [Interpretation of MMK’s 25 chapters.](#interpretation-of-mmks-25-chapters)
+      6. [Discussion of Nagarjuna’s work.](#discussion-of-nagarjunas-work)
+   5. [Quantum Physics](#quantum-physics)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
       1. [The metaphysical foundations of quantum physics](#the-metaphysical-foundations-of-quantum-physics)
       2. [Albert Einstein’s contribution to the interpretation of quantum physics.](#albert-einsteins-contribution-to-the-interpretation-of-quantum-physics)
       3. [Niels Bohr’s contribution to the interpretation of quantum physics.](#niels-bohrs-contribution-to-the-interpretation-of-quantum-physics)
       4. [The concepts of interactions in the standard model of quantum physics.](#the-concepts-of-interactions-in-the-standard-model-of-quantum-physics)
+<<<<<<< HEAD
    9. [Conclusion.](#conclusion)
    10. [Appendices](#appendices)
        1. [Appendix 1: Meanings of pratityasamutpada.](#appendix-1-meanings-of-pratityasamutpada)
@@ -51,6 +81,15 @@ modified: 2021-11-11T10:31:30.490Z
        3. [Appendix 3: A. N. Whitehead and Albert Einstein about Modern Physics.](#appendix-3-a-n-whitehead-and-albert-einstein-about-modern-physics)
    11. [Bibliography](#bibliography)
    12. [Notes](#notes)
+=======
+   6. [Conclusion.](#conclusion)
+   7. [Appendices](#appendices)
+      1. [Appendix 1: Meanings of _pratityasamutpada_.](#appendix-1-meanings-of-pratityasamutpada)
+      2. [Appendix 2: What is quantum entanglement?](#appendix-2-what-is-quantum-entanglement)
+      3. [Appendix 3: A. N. Whitehead and Albert Einstein about Modern Physics.](#appendix-3-a-n-whitehead-and-albert-einstein-about-modern-physics)
+   8. [Bibliography](#bibliography)
+   9. [Notes](#notes)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 ## Introduction
 
@@ -58,33 +97,54 @@ Some images or comparisons [Sanskrit: _upamanas_].
 
 _Moksa_ or final emancipation from the earthly bondage forms the chief aim of every system of philosophy in ancient India. _Upamana_, the comparison, is regarded as an independent means of valid knowledge. The final liberation can be attained through the correct knowledge of the objects. In Buddhism such _upamanas_, comparisons, are profound _dharma_ teachings leading to liberation.
 
+<<<<<<< HEAD
 ![Image Nr 0:](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-1_1.jpg)
+=======
+![Image Nr 0:](./img/Nagarjuna%20&%20Quantum%20Physics-1_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 > "Men are bound by the bondage of existence and are liberated by understanding the nature of existence."
 > _Hevajra Tantra_
 
 ---
 
+<<<<<<< HEAD
 ![Bodhgaya-greatbuddhastatue](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-3_1.jpg)
+=======
+![http://www.flowerpictures.net/Freebeautifulpictures/India/Buddhisttemples/images/Bodhgaya-greatbuddhastatue-3.jpg
+](img/Nagarjuna%20&%20Quantum%20Physics-3_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 Image Nr 1: **Buddha Sakyamuni**. Bodhgaya.
 
 ---
 
 Like a shooting star consider all things thus. _Sakyamuni Buddha_.
+<<<<<<< HEAD
 ![http://goo.gl/vfu83](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-4_1.jpg)
+=======
+![http://goo.gl/vfu83](img/Nagarjuna%20&%20Quantum%20Physics-4_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 Image Nr. 2: **Shooting star**.
 
 ---
 
 Like a mirage consider all things thus. _Sakyamuni Buddha_.
+<<<<<<< HEAD
 ![http://goo.gl/jeh33](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-5_1.png)
+=======
+![http://goo.gl/jeh33](img/Nagarjuna%20&%20Quantum%20Physics-5_1.png)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 Image Nr. 3: **Mirage**.
 
 ---
 
 Like a flame, consider all things like this. _Sakyamuni Buddha_.
+<<<<<<< HEAD
 ![http://www.bilderkostenlos.org/cache/Fotos/KerzeFlamme_570.jpg](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-6_1.jpg)
+=======
+![http://www.bilderkostenlos.org/cache/Fotos/KerzeFlamme_570.jpg](img/Nagarjuna%20&%20Quantum%20Physics-6_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 Image Nr 4: **Flame**.
 
@@ -92,38 +152,62 @@ Image Nr 4: **Flame**.
 
 Like an illusion, consider all thus. _Sakyamuni Buddha_.
 
+<<<<<<< HEAD
 ![http://files.myopera.com/Dava/albums/170157/Moller%20Franz%20Illusion.jpg](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-7_1.jpg)
+=======
+![http://files.myopera.com/Dava/albums/170157/Moller%20Franz%20Illusion.jpg](img/Nagarjuna%20&%20Quantum%20Physics-7_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 Image Nr. 5: **Illusion.**
 
 ---
 
 Like a dewdrop consider all things thus.
+<<<<<<< HEAD
 ![https://naturfotografenforum.de/data/media/1/Tautropfen2::Wolfgang_Herath_tautropfen_tau_grashalm_gras.jpg](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-8_1.jpg)
+=======
+![https://naturfotografenforum.de/data/media/1/Tautropfen2::Wolfgang_Herath_tautropfen_tau_grashalm_gras.jpg](img/Nagarjuna%20&%20Quantum%20Physics-8_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 Image Nr. 6: **Dewdrop**.
 
 ---
 
 Like a bubble consider all things thus. _Sakyamuni Buddha_.
+<<<<<<< HEAD
 ![http://upload.wikimedia.org/wikipedia/commons/3/3a/Rheinfall_bei_Schaffhausen_10.JPG](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-9_1.jpg)
+=======
+![http://upload.wikimedia.org/wikipedia/commons/3/3a/Rheinfall_bei_Schaffhausen_10.JPG](img/Nagarjuna%20&%20Quantum%20Physics-9_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 Image Nr 7: **Water bubble**.
 
 ---
 
 Like a dream consider all things like this. _Sakyamuni Buddha_.
+<<<<<<< HEAD
 ![http://img16.imageshack.us/img16/2426/chagall175.jpg](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-10_1.jpg)
+=======
+![http://img16.imageshack.us/img16/2426/chagall175.jpg](img/Nagarjuna%20&%20Quantum%20Physics-10_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 Image Nr. 8: **Dream**.
 
 ---
 
 Like a lightning consider all things thus. _Sakyamuni Buddha_.
+<<<<<<< HEAD
 ![http://bilder.augsburger-allgemeine.de/omg/15178506412761744/281_x_blitz.jpg](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-11_1.jpg)
+=======
+![http://bilder.augsburger-allgemeine.de/omg/15178506412761744/281_x_blitz.jpg](img/Nagarjuna%20&%20Quantum%20Physics-11_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 Image Nr. 9: **Lightning**.
 
 ---
 
 Like a cloud, consider all things thus. _Sakyamuni Buddha_.
+<<<<<<< HEAD
 ![http://www.gratis-foto.eu/r-fotografie-1-natur-2wolke-286.htm](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-12_1.jpg)
+=======
+![http://www.gratis-foto.eu/r-fotografie-1-natur-2wolke-286.htm](img/Nagarjuna%20&%20Quantum%20Physics-12_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 Image Nr. 10: **Cloud**.
 
 ---
@@ -132,7 +216,11 @@ For example, look at these children who are piling up earth and building castles
 
 _Mahaprajnaparamitasastra_, Vol. 4 (English translation), p1733.
 
+<<<<<<< HEAD
 ![http://www.uniulm.de/uni/fak/natwis/angphys/deutsch/projektgruppen/hermingh/sandburgen.html](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-13_1.jpg)
+=======
+![http://www.uniulm.de/uni/fak/natwis/angphys/deutsch/projektgruppen/hermingh/sandburgen.html](img/Nagarjuna%20&%20Quantum%20Physics-13_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 Image Nr. 11: A sand palace.
 
@@ -142,34 +230,54 @@ Image Nr. 11: A sand palace.
 
 Nagarjuna, _Mahaprajnaparamitasastra_ (English translation) p1696.
 
+<<<<<<< HEAD
 ![http://us.123rf.com/400wm/400/400/medius/medius0604/medius060400072/373017-kaffee-mit-schaumblasen.jpg](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-14_1.jpg)
+=======
+![http://us.123rf.com/400wm/400/400/medius/medius0604/medius060400072/373017-kaffee-mit-schaumblasen.jpg](img/Nagarjuna%20&%20Quantum%20Physics-14_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 Image Nr. 12: **Ball of foam**
 
 ---
 
 Like a rainbow, consider all things thus. _Sakyamuni Buddha_.
+<<<<<<< HEAD
 ![http://static.ddmcdn.com/gif/rainbow-1.jpg](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-15_1.jpg)
+=======
+![http://static.ddmcdn.com/gif/rainbow-1.jpg](img/Nagarjuna%20&%20Quantum%20Physics-15_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 Image Nr. 13: **Rainbow**.
 
 ---
 
 What appears to be a trunk is actually a «false stem» or pseudostem.
+<<<<<<< HEAD
 ![](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-16_1.jpg)
+=======
+![](img/Nagarjuna%20&%20Quantum%20Physics-16_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 Image Nr. 15: **Banana tree** [_Mahaprajnaparamita-sastra_].
 
 ---
 
 Like a mirage, consider all things thus. _Sakyamuni Buddha_.
+<<<<<<< HEAD
 ![http://www.sandlotscience.com/Mirage/images/099_Pekka5.jpg](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-17_1.jpg)
+=======
+![http://www.sandlotscience.com/Mirage/images/099_Pekka5.jpg](img/Nagarjuna%20&%20Quantum%20Physics-17_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 Image Nr 15: **Mirage**.
 
 ---
 
 The moon and a «second» moon.
+<<<<<<< HEAD
 ![http://mw2.google.com/mwpanoramio/photos/medium/50962122.jpg](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-18_1.jpg)
+=======
+![http://mw2.google.com/mwpanoramio/photos/medium/50962122.jpg](img/Nagarjuna%20&%20Quantum%20Physics-18_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 Image Nr. 16: **Moon**.
 
@@ -177,7 +285,11 @@ Image Nr. 16: **Moon**.
 
 ## _Mahaprajnaparamita-sastra_
 
+<<<<<<< HEAD
 ![http://www.scribd.com/doc/53289199/Maha-Prajnaparamita-Sastra-Vol-1by-Nagarjuna](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-19_1.jpg)
+=======
+![http://www.scribd.com/doc/53289199/Maha-Prajnaparamita-Sastra-Vol-1by-Nagarjuna](img/Nagarjuna%20&%20Quantum%20Physics-19_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 “Commentary of the Greater Perfection of Wisdom”.
 
@@ -343,11 +455,19 @@ For Nagarjuna, the expression ‘to exist’ has the meaning of ‘to exist subs
 
 ---
 
+<<<<<<< HEAD
 ### Chapter 1: Cause and effect.
 
 A high speed photograph by Harold E. Edgerton.
 
 ![http://canibuk.wordpress.com/2011/11/16/harold-edgerton/](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-34_1.jpg)
+=======
+### Chapter 1: _Cause and effect_.
+
+A high speed photograph by Harold E. Edgerton.
+
+![http://canibuk.wordpress.com/2011/11/16/harold-edgerton/](img/Nagarjuna%20&%20Quantum%20Physics-34_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 > A thing is not independent of its cause and conditions, nor is it identical with them.
 
@@ -356,10 +476,17 @@ projectile is the cause of the direct effect: the beginning of an explosion of t
 
 ---
 
+<<<<<<< HEAD
 ### Chapter 2: A mover and the distance within which to move.
 
 Usain Bolt. 2012.
 ![Reuters.](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-35_1.jpg)
+=======
+### Chapter 2: _A mover and the distance within which to move_.
+
+Usain Bolt. 2012.
+![Reuters.](img/Nagarjuna%20&%20Quantum%20Physics-35_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 > A thing is not independent of its conditions, nor is it identical with them.
 
@@ -367,10 +494,17 @@ A mover does not exist without the distance within which to move. The mover and 
 
 ---
 
+<<<<<<< HEAD
 ### Chapter 8: Action and agent.
 
 Cassius Clay (Muhammad Ali) lands a right on Brian London during their Heavyweight World Title Fight at Earls Court, London.
 ![Allsport](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-36_1.jpg)
+=======
+### Chapter 8: _Action and agent_.
+
+Cassius Clay (Muhammad Ali) lands a right on Brian London during their Heavyweight World Title Fight at Earls Court, London.
+![Allsport](img/Nagarjuna%20&%20Quantum%20Physics-36_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 > When there is no action there is no agent.
 
@@ -378,9 +512,15 @@ Neither exists per se. Action and agent are not isolated components; they arise 
 
 ---
 
+<<<<<<< HEAD
 ### Chapter 10: Fire and fuel.
 
 ![Photographer unknown](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-37_1.jpg)
+=======
+### Chapter 10: _Fire and fuel_.
+
+![Photographer unknown](img/Nagarjuna%20&%20Quantum%20Physics-37_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 > Without fire there can be nothing designated as fuel.
 
@@ -388,10 +528,17 @@ The material or immaterial components of a two-body or three-body system do not 
 
 ---
 
+<<<<<<< HEAD
 ### Chapter 12: Suffering and the causes of suffering.
 
 Hunger by Kevin Carter
 ![hunger1 by kevin.carter](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-38_1.jpg)
+=======
+### Chapter 12: _Suffering and the causes of suffering_.
+
+Hunger by Kevin Carter
+![hunger1 by kevin.carter](img/Nagarjuna%20&%20Quantum%20Physics-38_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 > Suffering is not independent from a cause of suffering and not identical with its cause.
 
@@ -399,10 +546,17 @@ There can be no cause without an effect, or an effect without a cause. The notio
 
 ---
 
+<<<<<<< HEAD
 ### Chapter 16: Bondage and liberation.
 
 Prisoners of Dachau, at liberation cheering the liberating US soldiers (1945): We are free… free…
 ![http://isurvived.org/TOC-III.html](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-39_1.png)
+=======
+### Chapter 16: _Bondage and liberation_.
+
+Prisoners of Dachau, at liberation cheering the liberating US soldiers (1945): We are free… free…
+![http://isurvived.org/TOC-III.html](img/Nagarjuna%20&%20Quantum%20Physics-39_1.png)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 > There is no liberation without bondage.
 
@@ -410,10 +564,17 @@ For two complementary realities, bondage and liberation, the nature and the exis
 
 ---
 
+<<<<<<< HEAD
 ### Chapter 23. Pure and impure.
 
 Rio Negro and the Amazon meet in Manaus, Brazil. (Picture: Markus Mauthe.)
 ![http://www.wildview.de/tag/rio-negro/.](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-40_1.jpg)
+=======
+### Chapter 23. _Pure and impure_.
+
+Rio Negro and the Amazon meet in Manaus, Brazil. (Picture: Markus Mauthe.)
+![http://www.wildview.de/tag/rio-negro/.](img/Nagarjuna%20&%20Quantum%20Physics-40_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 > The idea or notion ‘pure’ has no meaning without the opposite idea or notion ‘impure’.
 
@@ -423,13 +584,21 @@ Usually two waters get mixed when they come together. These two impure waters re
 
 The author, his daughter Larissa (left) and his son Nikolai (right), Dec. 1980.
 (Picture: C.T. Kohl.)
+<<<<<<< HEAD
 ![Father & Son](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-42_1.jpg)
+=======
+![Father & Son](img/Nagarjuna%20&%20Quantum%20Physics-42_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 > “If the son is produced by the father, but the father also produced by that very son, then will you please tell me, which one is the true ‘cause’ and which the true ‘result’?”
 > (Nagarjuna, _Vigrahavyavartani_.)
 
 A solar storm. Something is happening between sun and earth.
+<<<<<<< HEAD
 ![http://www.picalls.com/data/media/17/Solar_storm_1.jpg](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-43_1.jpg)
+=======
+![http://www.picalls.com/data/media/17/Solar_storm_1.jpg](img/Nagarjuna%20&%20Quantum%20Physics-43_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 ### Interpretation of MMK’s 25 chapters.
 
@@ -483,11 +652,19 @@ In 1927, the physicist Niels Bohr introduced the idea of **complementarity** int
 For the physicist Niels Bohr, quantum physical objects consist of interacting and complementary quantum objects.[^17]
 
 **The double-slit experiment**.
+<<<<<<< HEAD
 ![The double-slit experiment](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-52_1.jpg)
 
 If you send an atom of helium trough a double-slit, every atom produces a point behind the double-slit. The atoms arrive in discrete lumps. There is no interference in the beginning. The atoms arrive like bullets at the screen. But later they show interference. Their appearance shows the structure of waves in a similar manner to waves on water. The seven pictures shown were taken at intervals ranging from 5 minutes to 42 hours and 18 minutes. Quantum objects show a double quality of particles and of waves. They are dependent on the instrument of measurement: the double slit. This double quality has been named ‘complementarity’ by Niels Bohr.
 
 ![Quelle: leifi.physik.uni-muenchen.de/web_ph07_g8/umwe](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-53_1.jpg)
+=======
+![The double-slit experiment](img/Nagarjuna%20&%20Quantum%20Physics-52_1.jpg)
+
+If you send an atom of helium trough a double-slit, every atom produces a point behind the double-slit. The atoms arrive in discrete lumps. There is no interference in the beginning. The atoms arrive like bullets at the screen. But later they show interference. Their appearance shows the structure of waves in a similar manner to waves on water. The seven pictures shown were taken at intervals ranging from 5 minutes to 42 hours and 18 minutes. Quantum objects show a double quality of particles and of waves. They are dependent on the instrument of measurement: the double slit. This double quality has been named ‘complementarity’ by Niels Bohr.
+
+![Quelle: leifi.physik.uni-muenchen.de/web_ph07_g8/umwe](img/Nagarjuna%20&%20Quantum%20Physics-53_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 **Dipole.**
 (Haken, H./Wolf, H.C., Atom und Quantenphysik. Springer Verlag Berlin 2000. With the permission of Springer Verlag.)
@@ -496,7 +673,11 @@ Complementarity means that the two qualities are not dualistic. They do not excl
 
 **Feynman Diagram**
 
+<<<<<<< HEAD
 ![http://en.wikipedia.org/wiki/Feynman_diagram](/posts/img/nagarjuna/Nagarjuna%20&%20Quantum%20Physics-54_1.jpg)
+=======
+![http://en.wikipedia.org/wiki/Feynman_diagram](img/Nagarjuna%20&%20Quantum%20Physics-54_1.jpg)
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 In this Feynman diagram, an electron (left) and a positron (left) annihilate each other, producing a photon (represented by the blue sine wave) that becomes a quark/anti-quark pair (right). The photon represents the electromagnetic interaction or electromagnetic force.
 
@@ -548,7 +729,11 @@ What is reality? We have become accustomed to believe in a firm ground under our
 
 ## Appendices
 
+<<<<<<< HEAD
 ### Appendix 1: Meanings of pratityasamutpada.
+=======
+### Appendix 1: Meanings of _pratityasamutpada_.
+>>>>>>> 8513f32 (Nagarjuna (Process Philosophy))
 
 In the first place _pratityasamutpada_ is an indication of dependence. Dependent bodies are in an intermediate state - they are not properly separated and they are not one entity. Secondly, they rely on each other and are influenced or determined by something else. Thirdly, their behaviour is influenced by something in-between, for example a mover is attracted by gravitational force, a viewer is dependent on rays of light between his eyes and the object, a piano player’s action is determined by the fine motor skills of his fingers, an agent is dependent on his act. _Pratityasamutpada_ is an indication of dependence and of something that happens between the objects. One object is bound to the other without being identical to it. The implicit interpretations of pratityasamutpada, are in terms of time, structure and space.
 
