@@ -4,6 +4,7 @@
        id="navbar-vue-app">
     <div class="navbar-brand">
       <a class="navbar-item" href="#">
+<<<<<<< HEAD
         <img src="/assets/img/logo-gear.png" alt="Home" />
          {{ metadata.title }}
       </a>
@@ -22,6 +23,14 @@
           Blog
         </a>
       </div>
+=======
+        <img src="/img/logo-gear.png" alt="Home" />
+         {{ metadata.title }}
+      </a>
+      <a class="navbar-item" href="{{ '/' | url }}">
+        Blog
+      </a>
+>>>>>>> 263bb80 (Adding bulma to 11ty-blog)
 
       <div class="navbar-item has-dropdown is-hoverable">
         <a class="navbar-link">
@@ -32,6 +41,7 @@
           <a class="navbar-item" href="/tags/">
             <span class="fa fa-tags"></span>&nbsp;By Tags
           </a>
+<<<<<<< HEAD
            <a class="navbar-item" href="/posts/">
             <span class="fa fa-calendar"></span>&nbsp;&nbsp;By Date
           </a>
@@ -62,10 +72,19 @@
           </a>
           <a class="navbar-item" href="/tags/order/">
             <span class="fas fa-th"></span>&nbsp;Order
+=======
+          <a class="navbar-item">
+            <span class="fa fa-folder"></span>&nbsp;By Category
+          </a>
+          <hr class="navbar-divider">
+          <a class="navbar-item" href="/posts/">
+            <span class="fa fa-calendar"></span>&nbsp;By Date
+>>>>>>> 263bb80 (Adding bulma to 11ty-blog)
           </a>
         </div>
       </div>
 
+<<<<<<< HEAD
       <div class="navbar-item has-dropdown is-hoverable">
         <a class="navbar-link" href="/tags/qkab/">
           Quantum Kabbalah
@@ -111,25 +130,49 @@
         </a>
       </div-->
       <div class="navbar-end">
+=======
+      <a role="button" class="navbar-burger burger" 
+         aria-label="menu" aria-expanded="false" data-target="navbarBulma"
+         @click="isOpen = !isOpen" v-bind:class="{'is-active': isOpen}">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
+
+    <div id="navbarBulma" class="navbar-menu"
+         v-bind:class="{'is-active': isOpen}">
+      <div class="navbar-start">
+>>>>>>> 263bb80 (Adding bulma to 11ty-blog)
         <a class="navbar-item" href="/about/">
           About
         </a>
       </div>
+<<<<<<< HEAD
 
        <!--
+=======
+>>>>>>> 263bb80 (Adding bulma to 11ty-blog)
       <div class="navbar-end">
         <form class="is-marginless" action="/posts/search/" method="get">
         <div class="navbar-item">
           <input class="" type="text" name="q"
+<<<<<<< HEAD
             placeholder="Search..." aria-label="S earch">
+=======
+            placeholder="Search..." aria-label="Search">
+>>>>>>> 263bb80 (Adding bulma to 11ty-blog)
           &nbsp;
           <button class="button is-light" 
             type="submit">Search</button>
         </div>
         </form>
       </div>
+<<<<<<< HEAD
       -->
 
+=======
+>>>>>>> 263bb80 (Adding bulma to 11ty-blog)
     </div>
   </nav>
 

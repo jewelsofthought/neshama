@@ -43,29 +43,37 @@
     <script src="assets/js/bulma-burger-vue.js"></script>
 =======
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
+    
+    <link rel="stylesheet" href="{{ '/css/bulma.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/fontawesome.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/main.css' | url }}">
+
+    <!-- link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}" -->
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
   </head>
   <body>
+    <!--header -->
     <header>
-      <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
-
-      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-      <ul class="nav">
-      {%- for entry in collections.all | eleventyNavigation %}
-        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
-      {%- endfor %}
-      </ul>
+      {% include "nav.njk" %}
     </header>
 
+    <!--content -->
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
 
       {{ content | safe }}
     </main>
 
+<<<<<<< HEAD
     <footer></footer>
 >>>>>>> 0ef9b37 (Initial Commit)
+=======
+    <!--footer -->
+    {% include "footer.njk" %}
+
+    <!-- Javascript (at end of document) -->
+    <script src="js/bulma-burger-vue.js"></script>
+>>>>>>> 263bb80 (Adding bulma to 11ty-blog)
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
