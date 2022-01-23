@@ -1,9 +1,15 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "tags": ["speculum"],
   "description": "Visionary Gnosis and the Role of the Imagination In Theosophic Kabbalah",
   "author": "Elliot R. Wolfsen"
 =======
   "tags": ["speculum"]
 >>>>>>> 69c676d (Adding new material)
+=======
+  "tags": ["speculum"],
+  "description": "Visionary Gnosis and the Role of the Imagination In Theosophic Kabbalah",
+  "author": "Elliot R. Wolfsen"
+>>>>>>> 5c8fcab (Added and fixed speculum)
 }

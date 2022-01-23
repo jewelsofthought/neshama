@@ -1,6 +1,7 @@
 ---
 title: The Speculum that Shines
 <<<<<<< HEAD
+<<<<<<< HEAD
 pages:
   - 271
   - 288
@@ -20,20 +21,23 @@ modified: 2022-01-13T07:21:30.085Z
 =======
 description: Visionary Gnosis and the Role of the Imagination In Theosophic Kabbalah
 author: Elliot R. Wolfsen
+=======
+>>>>>>> 5c8fcab (Added and fixed speculum)
 pages:
   - 271
   - 288
-tags: null
+tags:
+  - external
 date: 2021-12-19T10:48:18.775Z
-modified: 2021-12-24T08:28:12.208Z
+modified: 2022-01-13T07:21:30.085Z
 ---
 
-- [ONTOLOGY OF LIGHT AND MYSTICAL VISION](#ontology-of-light-and-mystical-vision)
-- [Footnotes](#footnotes)
+1. [ONTOLOGY OF LIGHT AND MYSTICAL VISION](#ontology-of-light-and-mystical-vision)
+2. [Footnotes](#footnotes)
 
 ## ONTOLOGY OF LIGHT AND MYSTICAL VISION
 
-Any discussion on the nature of mystical vision must begin with an analysis of the phenomenon of light and light symbolism as it is operative in the given religious tradition of the particular mystic. The frequency with which the religious experience is associated with the phenomenon of light is a well-attested fact in the history of religions. Moreover, the symbolism of light is repeatedly associated with mystical experience. Indeed, **the ontology of light gives shape to and generates the mystic experience**, which is essentially a state or process of illumination.
+ַַַַַַַAny discussion on the nature of mystical vision must begin with an analysis of the phenomenon of light and light symbolism as it is operative in the given religious tradition of the particular mystic. The frequency with which the religious experience is associated with the phenomenon of light is a well-attested fact in the history of religions. Moreover, the symbolism of light is repeatedly associated with mystical experience. Indeed, **the ontology of light gives shape to and generates the mystic experience**, which is essentially a state or process of illumination.
 
 <<<<<<< HEAD
 H~2~O
