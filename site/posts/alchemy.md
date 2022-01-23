@@ -1,9 +1,10 @@
 ---
 title: Mary the Prophetess
 description: A famous ancient alchemist, perhaps the first known.
+refURL: https://www.sacred-texts.com/alc/index.htm
 tags:
   - universal_kabbalah
-modified: 2021-10-04T19:35:38.205Z
+modified: 2021-10-04T19:49:23.814Z
 ---
 
 1. [Mary the Prophetess](#mary-the-prophetess)
@@ -155,7 +156,11 @@ modified: 2021-10-04T19:35:38.205Z
    20. [CHAPTER XIX: CONCERNING THE SECRET FIRE OF THE PHILOSOPHERS.](#chapter-xix-concerning-the-secret-fire-of-the-philosophers)
    21. [CHAPTER XX: CONCERNING THE FERMENT OF THE PHILOSOPHERS, AND THE WEIGHT.](#chapter-xx-concerning-the-ferment-of-the-philosophers-and-the-weight)
 8. [Alchemical Catechism](#alchemical-catechism)
-9. [FOOTNOTES](#footnotes)
+9. [Footnotes:](#footnotes)
+
+This is just a partial compendium of alchemical works. I liked the sacred manner in which they approached and dealt with this exploration of natural and chemical reactions. It seems to me that we have lost wisdom in our much more "secular" approach. To have dragged the wonders of the world in which we exist down to the mud and grime of our earthly existence, acknowledging nothing higher or greater than human endeavour, human imagination, human creativity and the great human power over nature - is an abomination.
+
+Here is the [full list](https://www.sacred-texts.com/alc/index.htm). But there is plenty to chew on in this selection.
 
 # Mary the Prophetess
 
@@ -2171,7 +2176,7 @@ A. From the moment of his researches to that of his discoveries, the Philosopher
 
 ---
 
-# FOOTNOTES
+# Footnotes:
 
 [^1]: The three prime substances are proved only by fire, which manifests them pure, naked, clean, and simple. In the absence of all ordeal by fire, there is no proving of a substance possible. For fire tests everything, and when the impure matter is separated the three pure substances are displayed. – De Origine Morborum ex Tribus Primis Substanstiis – Paramirum, Lib. I., c. 1. Fire separates that which is constant or fixed from that which is fugitive or volatile. – De Morbis Metallicis, Lib. II., Tract I. Fire is the father or active principle of separation. – "Third Fragment on Tartar" from the Fragmenta Medica.
 [^2]:
