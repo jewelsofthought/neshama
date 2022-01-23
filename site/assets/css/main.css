@@ -1,5 +1,8 @@
 @charset "UTF-8";
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bd5d2f3 (Added bulma & font-awesome compiled)
 /*! bulma.io v0.7.2 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
   from {
@@ -8949,8 +8952,11 @@ a.tag:hover {
   vertical-align: top;
 }
 
+<<<<<<< HEAD
 =======
 >>>>>>> e769718 (Rearranged some paths, cleaned up a bit)
+=======
+>>>>>>> bd5d2f3 (Added bulma & font-awesome compiled)
 html {
   height: 100%;
   overflow-y: auto;
@@ -8980,6 +8986,7 @@ footer.site-footer {
   padding-top: 5rem;
 }
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 /* stylelint-disable selector-list-comma-newline-after */
 h1, h2, h3, h4, h5, h6 {
@@ -9471,4 +9478,6 @@ a.post-next:before {
   content: "next ";
 }
 
+=======
+>>>>>>> bd5d2f3 (Added bulma & font-awesome compiled)
 /*# sourceMappingURL=main.css.map */
