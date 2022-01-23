@@ -27,9 +27,18 @@
     <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
     {% for tag in post.data.tags | filterTagList %}
       {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-      <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+      <a href="{{ tagUrl | url }}"><span class="tag is-light is-small">
+        <span class="fa fa-tag"></span>
+        &nbsp;
+        {{ tag }}
+      </span>
+    </a>
     {% endfor %}
   </li>
 {% endfor %}
 </ol>
+<<<<<<< HEAD
 >>>>>>> 0ef9b37 (Initial Commit)
+=======
+
+>>>>>>> 32a88d9 (Removing dependency on index.css. Fixed tags look)

@@ -24,22 +24,27 @@
   "url": "https://example.com/",
 =======
   "title": "Neshamah",
+<<<<<<< HEAD
   "url": "https://neshama.com/",
 >>>>>>> d33a7a6 (Meta changes)
+=======
+  "url": "https://blog.neshama.com/",
+>>>>>>> 32a88d9 (Removing dependency on index.css. Fixed tags look)
   "language": "en",
   "description": "Exploring the soul",
   "feed": {
     "subtitle": "A journey into the imaginarium.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://neshama.com/"
+    "id": "https://blog.neshama.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://neshama.com/feed/feed.json"
+    "url": "https://blog.neshama.com/feed/feed.json"
   },
   "author": {
     "name": "Your Name Here",
+<<<<<<< HEAD
     "email": "youremailaddress@example.com",
 <<<<<<< HEAD
     "url": "https://example.com/about-me/"
@@ -47,5 +52,9 @@
 =======
     "url": "https://neshama.com/about-me/"
 >>>>>>> d33a7a6 (Meta changes)
+=======
+    "email": "yehuda@neshama.com",
+    "url": "https://blog.neshama.com/about/"
+>>>>>>> 32a88d9 (Removing dependency on index.css. Fixed tags look)
   }
 }

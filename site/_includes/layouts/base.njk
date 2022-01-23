@@ -47,17 +47,17 @@
 =======
 >>>>>>> b41625c (Bulma inserted. Not clean yet. (Postcss?))
     
-    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
-
-    <link rel="stylesheet" href="{{ '/css/bulma.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css/fontawesome.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css/main.css' | url }}">
-    <link rel="stylesheet" href="{{ '/css/katex.min.css' | url }}">
+    <!--link rel="stylesheet" href="{{ '/assets/css/index.css' | url }}"-->
+{% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}
+    <link rel="stylesheet" href="{{ '/assets/css/bulma.css' | url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/fontawesome.css' | url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/katex.min.css' | url }}">
     
 
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
-    <script src="/js/vue.min.js"></script>
+    <script src="/assets/js/vue.min.js"></script>
 
   </head>
   <body>
@@ -90,11 +90,15 @@
 
     <!-- Javascript (at end of document) -->
 <<<<<<< HEAD
+<<<<<<< HEAD
     <script src="js/bulma-burger-vue.js"></script>
 >>>>>>> 263bb80 (Adding bulma to 11ty-blog)
 =======
     <script src="/js/bulma-burger-vue.js"></script>
 >>>>>>> b41625c (Bulma inserted. Not clean yet. (Postcss?))
+=======
+    <script src="/assets/js/bulma-burger-vue.js"></script>
+>>>>>>> 32a88d9 (Removing dependency on index.css. Fixed tags look)
 
     <!-- Current page: {{ page.url | url }} -->
   </body>
