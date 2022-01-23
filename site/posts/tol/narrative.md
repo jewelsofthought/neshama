@@ -3,6 +3,7 @@ title: Revelatory narrative
 description: The messiah....
 tags: null
 date: 2021-10-08T13:50:46.763Z
+<<<<<<< HEAD
 modified: 2022-01-06T17:36:20.638Z
 ---
 
@@ -15,6 +16,11 @@ modified: 2022-01-06T17:36:20.638Z
 
 ## Full of light
 
+=======
+modified: 2022-01-05T17:27:45.994Z
+---
+
+>>>>>>> c623eaf (moved/renamed)
         "The heaven that is full of light is a human heaven. It would be as if the visible spectrum became everything... then it would not be part of anything.
         -- Winkler: The Magic of the Ordinary
 
