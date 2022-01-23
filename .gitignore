@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 node_modules/
 package-lock.json
 dist/
 site/vendors/
 nohup.out
+=======
+site/assets/sass/bulma/
+site/assets/sass/fontawesome*/
+>>>>>>> b325e1e (remove extraneous git indexed files)
