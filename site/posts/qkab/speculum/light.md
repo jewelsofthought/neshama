@@ -18,10 +18,15 @@ modified: 2021-12-19T12:29:53.696Z
 =======
 author: Elliot Wolfson
 description: The Speculum That Sines
-tags: null
+tags:
+  - todo
 date: 2021-12-18T16:25:42.829Z
+<<<<<<< HEAD
 modified: 2021-12-26T14:48:45.234Z
 >>>>>>> ae79aa5 (Addtions)
+=======
+modified: 2021-12-31T13:58:48.829Z
+>>>>>>> e366c49 (Update)
 ---
 
 I would like to talk about the role of the imagination in mystical vision. But before I do, I would like to express my gratitude to an amazing Kabbalist by the name of Elliot Wolfson. Much of the material of my talk, and its inspiration come from his book, _The Speculum that Shines: Vision and Imagination in Medieval Jewish Mysticism_. A journey guided by Elliot Wolfson is indeed one in which unimaginable riches are there for the worthy.

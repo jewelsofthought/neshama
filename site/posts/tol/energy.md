@@ -7,10 +7,14 @@ tags:
   - qkab
 date: 2021-10-12T18:17:11.615Z
 <<<<<<< HEAD
+<<<<<<< HEAD
 modified: 2022-01-03T16:51:35.956Z
 =======
 modified: 2021-10-20T11:21:22.003Z
 >>>>>>> 87dcb92 (renamed tolnet to tol)
+=======
+modified: 2021-12-31T13:54:02.207Z
+>>>>>>> e366c49 (Update)
 ---
 
 1. [Fundamental property](#fundamental-property)
@@ -35,7 +39,11 @@ modified: 2021-10-20T11:21:22.003Z
 8. [Human measurement](#human-measurement)
    1. [Real: Form](#real-form)
    2. [Imaginary: Wave](#imaginary-wave)
+<<<<<<< HEAD
 >>>>>>> 87dcb92 (renamed tolnet to tol)
+=======
+9. [Energy](#energy)
+>>>>>>> e366c49 (Update)
 
 ## Fundamental property
 
@@ -132,6 +140,9 @@ Thus the more subtle the wave/sensation, the more sensitive a measuring instrume
 When a wave becomes **entangled** (either with enough other waves) or a "standing wave" or particle/object, then it is recognised as a particle. And we call it "the collapse of the wave (function)". Thus a wave can only be "experienced/measured" when it interacts with something, and causes some change in the state of the "observer" (or object of or under investigation).
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e366c49 (Update)
 ## Energy
 
 > Energy that does not have form cannot be represented in this world. It can only be recognised through its interaction with some other "form".
@@ -143,6 +154,9 @@ The only way we are made to be aware of this subtler energy is through its effec
 The quantum arena speaks of such energy. We feel it's effect in our everyday lives with our cell phones and other wireless devices. Yet there is an even more subtle energy, and it's one that vivifies everything, and we call it life when we see it move, and inanimate when it doesn't. Yet they all react to input and energy affects their structure and sometimes their behaviour too. So, they are in some sense alive.
 
 ---
+<<<<<<< HEAD
 =======
 -
 >>>>>>> 87dcb92 (renamed tolnet to tol)
+=======
+>>>>>>> e366c49 (Update)

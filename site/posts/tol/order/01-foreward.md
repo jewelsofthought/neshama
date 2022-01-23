@@ -4,7 +4,7 @@ description: Order Out of Chaos - Ilya Prigogine & Isabel Stengers
 tags: null
 author: Alvin Toffler
 date: 2021-12-20T08:20:16.830Z
-modified: 2021-12-22T05:59:32.610Z
+modified: 2021-12-31T13:41:01.133Z
 ---
 
 ## SCIENCE AND CHANGE
@@ -52,8 +52,7 @@ The ideas of the Brussels school, add up to a novel, comprehensive theory of cha
 
 This suggests , moreover, that most of reality, instead of being orderly, stable, and equilibrial, is seething and bubbling with change, disorder, and process.
 
-In Prigoginian terms, all systems contain subsystems, which are continually "fluctuating." At times, a single fluctuation or a combination of them may become so powerful, as a result of positive feedback, that it shatters the preexisting organization. At this revolutionary moment&mdash;the authors call it a "singular moment" or a "bifurcation point"&mdash;it is inherently
-impossible to determine in advance which direction change will take: whether the system will disintegrate into "chaos" or leap to a new, more differentiated, higher level of "order" or organization, which they call a "dissipative structure." (Such physical or chemical structures are termed dissipative because, compared with the simpler structures they replace, they require more energy to sustain them.)
+In Prigoginian terms, all systems contain subsystems, which are continually "fluctuating." At times, a single fluctuation or a combination of them may become so powerful, as a result of positive feedback, that it shatters the preexisting organization. At this revolutionary moment&mdash;the authors call it a "singular moment" or a "bifurcation point"&mdash;it is inherently impossible to determine in advance which direction change will take: whether the system will disintegrate into "chaos" or leap to a new, more differentiated, higher level of "order" or organization, which they call a "dissipative structure." (Such physical or chemical structures are termed dissipative because, compared with the simpler structures they replace, they require more energy to sustain them.)
 
 One of the key controversies surrounding this concept has to do with Prigogine's insistence that order and organization can actually arise "spontaneously" out of disorder and chaos through a process of "self-organization."
 
@@ -61,10 +60,9 @@ One of the key controversies surrounding this concept has to do with Prigogine's
 
 To grasp this extremely powerful idea, we first need to make a distinction between systems that are in "equilibrium," systems that are "near equilibrium," and systems that are "far from equilibrium."
 
-Imagine a primitive tribe. If its birthrate and death rate are equal, the size of the population remains stable. Assuming adequate food and other resources, the tribe forms part of a local
-system in ecological equilibrium.
+Imagine a primitive tribe. If its birthrate and death rate are equal, the size of the population remains stable. Assuming adequate food and other resources, the tribe forms part of a local system in ecological equilibrium.
 
-Now increase the birthrate. A few additional births (without an equivalent number of deaths) might have little effect. The system may move to a near-equilibrial state. Nothing much happens. It takes a big jolt to produce big consequences in systems that are in equilibria] or near-equilibria] states.
+Now increase the birthrate. A few additional births (without an equivalent number of deaths) might have little effect. The system may move to a near-equilibrium state. Nothing much happens. It takes a big jolt to produce big consequences in systems that are in equilibria] or near-equilibria] states.
 
 But if the birthrate should suddenly soar, the system is pushed into a far-from-equilibrium condition, and here non-linear relationships prevail. In this state , systems do strange things. They become inordinately sensitive to external influences. Small inputs yield huge, startling effects. The entire system may reorganize itself in ways that strike us as bizarre.
 
@@ -74,30 +72,19 @@ Even more spectacular are the "chemical clocks" described by Prigogine and Steng
 
 Now imagine that suddenly the window goes all white, then all black, then all white again, and on and on, changing its color completely at fixed intervals-like a clock ticking.
 
-Why do all the white balls and all the black ones suddenly organize themselves to change color in time with one another? By all the traditional rules, this should not happen at all. Yet, if
-we leave ping-pong behind and look at molecules in certain chemical reactions, we find that precisely such a self-organization or ordering can and does occur&mdash;despite what classical physics and the probability theories of Boltzmann tell us.
+Why do all the white balls and all the black ones suddenly organize themselves to change color in time with one another? By all the traditional rules, this should not happen at all. Yet, if we leave ping-pong behind and look at molecules in certain chemical reactions, we find that precisely such a self-organization or ordering can and does occur&mdash;despite what classical physics and the probability theories of Boltzmann tell us.
 
 In far-from-equilibrium situations other seemingly spontaneous, often dramatic reorganizations of matter within time and space also take place. And if we begin thinking in terms of two or three dimensions, the number and variety of such possible structures become very great.
 
 Now add to this an additional discovery. Imagine a situation in which a chemical or other reaction produces an enzyme whose presence then encourages further production of the same enzyme. This is an example of what computer scientists would call a positive-feedback loop. In chemistry it is called "auto-catalysis."Such situations are rare in inorganic chemistry. But in recent decades the molecular biologists have found that such loops (along with inhibitory or "negative" feedback and more complicated "cross-catalytic" processes) are the very stuff of life itself. Such processes help explain how we go from little lumps of DNA to complex living organisms. More generally, therefore, in far-from-equilibrium conditions we find that very small perturbations or fluctuations can become amplified into gigantic, structure-breaking waves.
 
-And this sheds light on all sorts of "qualitative" or "revolutionary" change processes. When one combines the new insights gained from studying far-from-equilibrium states and
-nonlinear processes, along with these complicated feedback
-systems, a whole new approach is opened that makes it possible to relate the so-called hard sciences to the softer sciences of life-and perhaps even to social processes as well. (Such findings have at least analogical significance for social, economic or political realities. Words like "revolution," "economic crash," "technological upheaval," and "paradigm shift" all take on new shades of meaning when we begin thinking of them in terms of fluctuations, feedback amplification, dissipative structures, bifurcations, and the rest of the Prigoginian conceptual vocabulary.) It is these panoramic vistas that are opened to us by Order Out of Chaos.
+And this sheds light on all sorts of "qualitative" or "revolutionary" change processes. When one combines the new insights gained from studying far-from-equilibrium states and nonlinear processes, along with these complicated feedback systems, a whole new approach is opened that makes it possible to relate the so-called hard sciences to the softer sciences of life-and perhaps even to social processes as well. (Such findings have at least analogical significance for social, economic or political realities. Words like "revolution," "economic crash," "technological upheaval," and "paradigm shift" all take on new shades of meaning when we begin thinking of them in terms of fluctuations, feedback amplification, dissipative structures, bifurcations, and the rest of the Prigoginian conceptual vocabulary.) It is these panoramic vistas that are opened to us by Order Out of Chaos.
 
 Beyond this, there is the even more puzzling, pervasive issue of time.
 
-Part of today's vast revolution in both science and culture is a reconsideration of time, and it is important enough to merit a brief digression here before returning to Prigogine's role in it.
-Take history, for example. One of the great contributions to
-historiography has been Braudel's division of time into three
-scales&mdash;"geographical time," in which events occur over the
-course of aeons; the much shorter "social time" scale by which economies, states, and civilizations are measured; and the even shorter scale of "individual time"&mdash;the history of human events.
+Part of today's vast revolution in both science and culture is a reconsideration of time, and it is important enough to merit a brief digression here before returning to Prigogine's role in it. Take history, for example. One of the great contributions to historiography has been Braudel's division of time into three scales&mdash;"geographical time," in which events occur over the course of aeons; the much shorter "social time" scale by which economies, states, and civilizations are measured; and the even shorter scale of "individual time"&mdash;the history of human events.
 
-In social science, time remains a largely unmapped terrain.
-Anthropology has taught us that cultures differ sharply in the
-way they conceive of time. For some, time is cyclical-history
-endlessly recurrent. For other cultures, our own included,
-time is a highway stretched between past and future, and people or whole societies march along it. In still other cultures, human lives are seen as stationary in time ; the future advances toward us, instead of us toward it.
+In social science, time remains a largely unmapped terrain. Anthropology has taught us that cultures differ sharply in the way they conceive of time. For some, time is cyclical-history endlessly recurrent. For other cultures, our own included, time is a highway stretched between past and future, and people or whole societies march along it. In still other cultures, human lives are seen as stationary in time ; the future advances toward us, instead of us toward it.
 
 Each society, as I've written elsewhere, betrays its own characteristic "time bias"&mdash;the degree to which it places emphasis on past, present, or future. One lives in the past. Another may be obsessed with the future.
 
@@ -119,17 +106,9 @@ In short, with the rise of thermodynamics, science split down the middle with re
 
 Imagine the problems introduced by Darwin and his followers! For evolution, far from pointing toward reduced organization and diversity, points in the opposite direction.
 
-Evolution proceeds from simple to complex, from "lower" to "higher" forms of life, from undifferentiated to differentiated
-structures. From a human point of view, all this is quite
-optimistic. The universe gets "better" organized as it ages,
-continually advancing to a higher level as time sweeps by.
-In this sense, scientific views of time may be summed up as
-a contradiction within a contradiction.
+Evolution proceeds from simple to complex, from "lower" to "higher" forms of life, from undifferentiated to differentiated structures. From a human point of view, all this is quite optimistic. The universe gets "better" organized as it ages, continually advancing to a higher level as time sweeps by. In this sense, scientific views of time may be summed up as a contradiction within a contradiction.
 
-It is these paradoxes that Prigogine and Stengers set out to
-illuminate, asking, "What is the specific structure of dynamic
-systems which permits them to 'distinguish' between past and
-future? What is the minimum complexity involved?"
+It is these paradoxes that Prigogine and Stengers set out to illuminate, asking, "What is the specific structure of dynamic systems which permits them to 'distinguish' between past and future? What is the minimum complexity involved?"
 
 The answer, for them, is that time makes its appearance with randomness: "Only when a system behaves in a sufficiently random way may the difference between past and future, and therefore irreversibility, enter its description."
 
@@ -151,15 +130,11 @@ Here we begin to glimpse, in full richness, the monumental synthesis proposed in
 
 Prigogine and Stengers also undermine conventional views of thermodynamics by showing that, under nonequilibrium conditions, at least, entropy may produce, rather than degrade, order, organization&msdash;and therefore life.
 
-If this is so, then entropy, too, loses its either/or character.
-While certain systems run down, other systems simultaneously evolve and grow more coherent. This mutualistic, nonexclusive view makes it possible for biology and physics to coexist rather than merely contradict one another.
+If this is so, then entropy, too, loses its either/or character. While certain systems run down, other systems simultaneously evolve and grow more coherent. This mutualistic, nonexclusive view makes it possible for biology and physics to coexist rather than merely contradict one another.
 
-Finally, yet another profound synthesis is implied&mdash;a new
-relationship between chance and necessity.
+Finally, yet another profound synthesis is implied&mdash;a new relationship between chance and necessity.
 
-The role of happenstance in the affairs of the universe has been debated, no doubt, since the first Paleolithic warrior accidently tripped over a rock. //In the Old Testament, God's will is sovereign, and He not only controls the orbiting planets but
-manipulates the will of each and every individual as He sees
-fit.[incorrect](g_d.html) As Prime Mover, all causality flows from Him, and all events in the universe are foreordained.
+The role of happenstance in the affairs of the universe has been debated, no doubt, since the first Paleolithic warrior accidently tripped over a rock. //In the Old Testament, God's will is sovereign, and He not only controls the orbiting planets but manipulates the will of each and every individual as He sees fit.[incorrect](g_d.html) As Prime Mover, all causality flows from Him, and all events in the universe are foreordained.
 
 Sanguinary conflicts raged over the precise meaning of predestination or free will. No end of interpreters attempted to reconcile determinism with freedom of will. One ingenious view held that God did indeed determine the affairs of the universe, but that with respect to the free will of the individual, He never demanded a specific action. He merely preset the range of options available to the human decision-maker. Free will downstairs operated only within the limits of a menu determined upstairs.
 
@@ -171,29 +146,21 @@ As the concept of determinism has grown richer, new efforts have been made to re
 
 It is here that Prigogine and Stengers enter the arena. They not only demonstrate that both determinism and chance operate, they also attempt to show how the two fit together.
 
-Thus, according to the theory of change implied in the idea of dissipative structures, when fluctuations force an existing system into a far-from-equilibrium condition and threaten its structure, it approaches a critical moment or bifurcation point.
-At this point it is inherently impossible to determine in advance the next state of the system. Chance nudges what remains of the system down a new path of development. Once that path is chosen (from among many), determinism takes over again until the next bifurcation point is reached.
+Thus, according to the theory of change implied in the idea of dissipative structures, when fluctuations force an existing system into a far-from-equilibrium condition and threaten its structure, it approaches a critical moment or bifurcation point. At this point it is inherently impossible to determine in advance the next state of the system. Chance nudges what remains of the system down a new path of development. Once that path is chosen (from among many), determinism takes over again until the next bifurcation point is reached.
 
 Here we see chance and necessity not as irreconcilable opposites, but each playing its role as a partner in destiny. Yet another synthesis is achieved.
 
 When we bring reversible time and irreversible time, disorder and order, physics and biology, chance and necessity all into the same novel frame, and stipulate their interrelationships, we have made a grand statement.
 
-This sweeping synthesis has strong social and even political overtones. Just as the Newtonian model gave rise to analogies in politics, diplomacy, and other spheres seemingly remote from science, so, too, does the Prigoginian model lend itself to analogical extension. By offering rigorous ways of modeling qualitative change, for example, they shed light on the concept of revolution. By explaining how successive instabilities give rise to transformatory change, they illuminate organization theory. They throw a fresh light, as well, on certain psychological processes&mdash;innovation, for example, which the authors see as associated with "nonaverage" behavior of the kind that arises under nonequilibrium conditions.
+This sweeping synthesis has strong social and even political overtones. Just as the Newtonian model gave rise to analogies in politics, diplomacy, and other spheres seemingly remote from science, so, too, does the Prigoginian model lend itself to analogical extension. By offering rigorous ways of modeling qualitative change, for example, they shed light on the concept of revolution. By explaining how successive instabilities give rise to transformatory change, they illuminate organization theory. They throw a fresh light, as well, on certain psychological processes&mdash;innovation, for example, which the authors see as associated with "nonaverage" behaviour of the kind that arises under nonequilibrium conditions.
 
-Even more significant, perhaps, are the implications for the study of collective behavior. Prigogine and Stengers caution against leaping to genetic or sociobiological explanations for
-puzzling social behavior. Many things that are attributed to
-biological pre-wiring are not produced by selfish, determinist
-genes, but rather by social interactions under nonequilibrium
-conditions.
+Even more significant, perhaps, are the implications for the study of collective behaviour. Prigogine and Stengers caution against leaping to genetic or sociobiological explanations for puzzling social behaviour. Many things that are attributed to biological pre-wiring are not produced by selfish, determinist genes, but rather by social interactions under nonequilibrium conditions.
 
-No one&mdash;not even its authors&mdash;can appreciate the full implications of a work as crowded with ideas as "Order Out of
-Chaos". Each reader will no doubt come away puzzled by some passages (a few are simply too technical for the reader without
-scientific training); startled or stimulated by others (as their
-implications strike home); occasionally skeptical; yet intellectually enriched by the whole.
+No one&mdash;not even its authors&mdash;can appreciate the full implications of a work as crowded with ideas as "Order Out of Chaos". Each reader will no doubt come away puzzled by some passages (a few are simply too technical for the reader without scientific training); startled or stimulated by others (as their implications strike home); occasionally sceptical; yet intellectually enriched by the whole.
 
 If one measure of a book is the degree to which it generates good questions, this one is surely successful. Here are just a couple that have haunted me.
 
-How, outside a laboratory, might one define a "fluctuation"? What, in Prigoginian terms, does one mean by "cause" or "effect"? When the authors speak of molecules communicating with one another to achieve coherent, synchronized change, one may assume they are not anthropomorphising. But they raise for me a host of intriguing issues about whether all parts of the environment are signaling all the time, or only intermittently; about the indirect, second, and n<sup>th</sup> order communication that takes place, permitting a molecule or an organism to respond to signals which it cannot sense for lack of the necessary receptors. (A signal sent by the environment that is undetectable by A may be received by B and converted into a different kind of signal that A is properly equipped to receive&mdash;so that B serves as a relay/converter, and A responds to an environmental change that has been signaled to it via second-order communication.)
+How, outside a laboratory, might one define a "fluctuation"? What, in Prigoginian terms, does one mean by "cause" or "effect"? When the authors speak of molecules communicating with one another to achieve coherent, synchronized change, one may assume they are not anthropomorphising. But they raise for me a host of intriguing issues about whether all parts of the environment are signalling all the time, or only intermittently; about the indirect, second, and n<sup>th</sup> order communication that takes place, permitting a molecule or an organism to respond to signals which it cannot sense for lack of the necessary receptors. (A signal sent by the environment that is undetectable by A may be received by B and converted into a different kind of signal that A is properly equipped to receive&mdash;so that B serves as a relay/converter, and A responds to an environmental change that has been signalled to it via second-order communication.)
 
 In connection with time, what do the authors make of the idea put forward by astronomer David Layzer, that we might conceive of three distinct "arrows of time"&mdash;one based on the continued expansion of the universe since the Big Bang; one based on entropy; and one based on biological and historical evolution?
 
@@ -203,11 +170,8 @@ The Newtonian system arose at a time when feudalism in Western Europe was crumbl
 
 As suggested earlier, machine civilization, in searching for an explanation of itself in the cosmic order of things, seized upon the Newtonian model and rewarded those who further developed it. It is not only in chemical beakers that we find auto-catalysis. For these reasons, it still makes sense to me to regard the Newtonian knowledge system as, itself, a "cultural dissipative structure" born of social fluctuation.
 
-Ironically, as I've said, I believe their own ideas are central
-to the latest revolution in science, and I cannot help but see
-these ideas in relationship to the demise of the Machine Age and the rise of what I have called a "Third Wave" civilization. Applying their own terminology, we might characterize today's breakdown of industrial or "Second Wave" society as a civilizational "bifurcation," and the rise of a more differentiated, "Third Wave" society as a leap to a new "dissipative structure" on a world scale.
+Ironically, as I've said, I believe their own ideas are central to the latest revolution in science, and I cannot help but see these ideas in relationship to the demise of the Machine Age and the rise of what I have called a "Third Wave" civilization. Applying their own terminology, we might characterize today's breakdown of industrial or "Second Wave" society as a civilizational "bifurcation," and the rise of a more differentiated, "Third Wave" society as a leap to a new "dissipative structure" on a world scale.
 
 Finally, we come once more to the ever-challenging issue of chance and necessity. For if chance plays its role at or near the point of bifurcation, after which deterministic processes take over once more until the next bifurcation, are they not embedding chance, itself, within a deterministic framework? By assigning a particular role to chance, don't they de-chance it?
 
-This question, however, I had the pleasure of discussing with Prigogine, who smiled over dinner and replied, "Yes. That would be true. But, of course, we can never determine when the next bifurcation will arise." Chance rises phoenix like once more.
-_Order out of Chaos_ places science and humanity back in a world in which _ceteris paribus_ is a myth&mdash;a world in which other things are seldom held steady, equal, or unchanging. In short, it projects science into today's revolutionary world of instability, disequilibrium, and turbulence. In so doing, it serves the highest creative function&mdash;it helps us create fresh order.
+This question, however, I had the pleasure of discussing with Prigogine, who smiled over dinner and replied, "Yes. That would be true. But, of course, we can never determine when the next bifurcation will arise." Chance rises phoenix like once more. _Order out of Chaos_ places science and humanity back in a world in which _ceteris paribus_ is a myth&mdash;a world in which other things are seldom held steady, equal, or unchanging. In short, it projects science into today's revolutionary world of instability, disequilibrium, and turbulence. In so doing, it serves the highest creative function&mdash;it helps us create fresh order.

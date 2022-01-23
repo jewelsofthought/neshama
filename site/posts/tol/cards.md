@@ -1,5 +1,6 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: Various Thoughts
 description: Miscellaneous ideas
 tags: null
@@ -31,8 +32,14 @@ All dynamic/moving systems are alive. If a system never changes, then it is dead
 title: Thoughts & Ideas
 description: Tree of Life Network ideas
 tags: null
+=======
+modified: 2022-01-02T07:06:17.318Z
+---
+
+>>>>>>> e366c49 (Update)
 date: 2021-11-11T10:38:07.290Z
-modified: 2021-12-20T08:14:48.621Z
+modified: 2022-01-01T14:25:09.261Z
+
 ---
 
 1. [Sovereignty ~ empowerment](#sovereignty--empowerment)
@@ -41,8 +48,16 @@ modified: 2021-12-20T08:14:48.621Z
 3. [Power & Governance](#power--governance)
 4. [Governance in the global space.](#governance-in-the-global-space)
 5. [666m (cov-19)](#666m-cov-19)
+<<<<<<< HEAD
 6. [Graphs and Networks](#graphs-and-networks)
 >>>>>>> 87dcb92 (renamed tolnet to tol)
+=======
+6. [Fish](#fish)
+
+## Systems (old)
+
+All dynamic/moving systems are alive. If a system never changes, then it is dead. If a food can stand open for a long time, then it is dead. All static, absolute, unmoving systems are dead. Thus sterilized systems or pasteurised food stuffs are often life depleting. Though there is must support and nourishment that a dead tree or animal provides the living creature of the forest.
+>>>>>>> e366c49 (Update)
 
 ## Sovereignty ~ empowerment
 
@@ -74,6 +89,9 @@ Our greatest challenge is not the risk of environmental collapse, resource wars,
 
 But the descent from 7B to 666m will be catastrophic and will be a stranger to any who dreamt of a world with only 666m people inhabiting it.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e366c49 (Update)
 
 ## Fish
 
@@ -90,6 +108,7 @@ Like a school of fish, all travelling in the same direction. But what position a
   - The next one will know it and reject and begin reset.
   - Traverses as far as it needs
     or exits with error.
+<<<<<<< HEAD
 
 I have been trying to build the tree from the top down, starting at the root and spreading out from there. The actual way that it needs to be expressed is each individual as a seed, that grows into a tree, that becomes a forest... connecting to all the other "forests" out there.
 
@@ -124,3 +143,5 @@ Beginning of a 3d design for the Tree of Life:
 ![3d - Tree of Life](/posts/img/tol/fn-pillar.png)
 =======
 >>>>>>> 87dcb92 (renamed tolnet to tol)
+=======
+>>>>>>> e366c49 (Update)

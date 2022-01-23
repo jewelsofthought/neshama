@@ -1,9 +1,10 @@
 ---
 title: The Muddled Mystic
 description: Personal view
-tags: null
+tags:
+  - personal
 date: 2020-01-11T08:26:35.929Z
-modified: 2021-11-15T12:16:11.593Z
+modified: 2022-01-01T14:16:57.982Z
 ---
 
 1. [The muddled mystic](#the-muddled-mystic)
