@@ -1,9 +1,13 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: The Beginning (moved)
 =======
 title: In the beginning...
 >>>>>>> 597ee2e (Added blog entries. Will work. Needs some updating)
+=======
+title: The Beginning (moved)
+>>>>>>> 8cffe01 (Modified)
 description: What was before the beginning?
 page:
   - 2
@@ -29,12 +33,13 @@ modified: 2021-11-26T14:14:13.877Z
 =======
 >>>>>>> 1013aaf (Tag changes)
 date: 2021-08-21T00:00:00.000Z
-modified: 2021-10-07T05:03:22.924Z
+modified: 2021-11-26T14:14:13.877Z
 ---
 
-1. [In the Beginning](#in-the-beginning)
-2. [Analysis of "in the beginning"](#analysis-of-in-the-beginning)
+1. [The Beginning](#the-beginning)
+   1. [Analysis of "in the beginning"](#analysis-of-in-the-beginning)
 
+<<<<<<< HEAD
 ## In the Beginning
 
 In the beginning, there was .... a becoming?
@@ -73,3 +78,6 @@ Now let us speak of "before".
         - There is also a feeling of "at the beginning". In the reading it is like an unfolding that takes place. It might have taken place so fast (or so slow) that we cannot fully comprehend it, but we know something really inspiring and amazing and wierd happend "at that beginning".
     - From: speaks of a distance, a motion. "From the very beginning".
 >>>>>>> 597ee2e (Added blog entries. Will work. Needs some updating)
+=======
+[moved to](/posts/qkab/beginning/)
+>>>>>>> 8cffe01 (Modified)

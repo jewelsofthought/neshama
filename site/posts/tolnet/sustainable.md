@@ -2,8 +2,11 @@
 title: Sustainable
 description: Sustainable is unattainable, unless we work as a corporeation.
 tags: null
-modified: 2021-11-14T17:11:31.514Z
+modified: 2021-11-26T09:37:29.834Z
 ---
+
+1. [What is sustainable?](#what-is-sustainable)
+2.
 
 ## What is sustainable?
 
@@ -17,6 +20,6 @@ Overcoming death means that your focus is death - that is why you become a death
 
 Overcoming life means that your focus is life!
 
-Is it truly [death](light_dark.html) that we wish to overcome? Is it not life that you would rather live? Is not the ideal to live a "good" life - in all senses of the word? So would it not make sense to build communities around living a wholesome life? Andinstead of beginning at the top - as long as you believe in .... G-d, or money, or family, or... and start in the real empirical world. In the world of _Assiyah_, of Doing, this Kingdom of G-d, the world we live in (and the only one we know). If a person (young or old, man or woman) eats "well" - and by well I mean healthily (local, organic, seasonal food) - he has more chance of growing up hale and hearty - unless G-d has other plans. Because we know (besides the science, it is also simple common sense) that if you eat toxic food, it will make you toxic and sick. Thus how can we live in a society that justifies the manufacture of toxic food - or at least has toxins in it! How can we continue to live a life in which we are turning our water - the very life blood of our existence - toxic?
+Is it truly [death](light_dark.html) that we wish to overcome? Is it not life that you would rather live? Is not the ideal to live a "good" life - in all senses of the word? So would it not make sense to build communities around living a wholesome life? And instead of beginning at the top - as long as you believe in .... G-d, or money, or family, or... and start in the real empirical world. In the world of _Assiyah_, of Doing, this Kingdom of G-d, the world we live in (and the only one we know). If a person (young or old, man or woman) eats "well" - and by well I mean healthily (local, organic, seasonal food) - he has more chance of growing up hale and hearty - unless G-d has other plans. Because we know (besides the science, it is also simple common sense) that if you eat toxic food, it will make you toxic and sick. Thus how can we live in a society that justifies the manufacture of toxic food - or at least has toxins in it! How can we continue to live a life in which we are turning our water - the very life blood of our existence - toxic?
 
 Our vaunted cities are rat infested cesspools with patches of shiny veneers. Is it because we cannot look at ourselves in the mirror of what we have created for ourselves and recognise ourselves in the reflection of what we see around us. Can we not see the trees because of the thickness of the forest? We as a collective sit at this point of radical re-evaluation - just as all adults have passed through - where we need to take responsibility for our own lives. No mama, no pappa to bail you out. You are know the "adult". This is "our" creation - this that we are in. Do we continue to barrel on doing the same things and expecting a different result? Or do we decide to begin to do things differently? And what is that difference? Let us gather under the Banner of Life. Let us work together to build a way for us to sustain and support our lives.

@@ -87,7 +87,7 @@ tags:
   - consciousness
   - 4d-being
 date: 2021-10-09T07:56:07.119Z
-modified: 2021-11-17T16:52:01.196Z
+modified: 2021-11-26T08:30:40.544Z
 ---
 
 1. [AI](#ai)
@@ -95,8 +95,9 @@ modified: 2021-11-17T16:52:01.196Z
 3. [Form](#form)
 4. [Message Broker](#message-broker)
 5. [Time](#time)
-6. [Journey of Seperation](#journey-of-seperation)
-7. [4th dimensional being](#4th-dimensional-being)
+6. [Journey of Separation](#journey-of-separation)
+7. [World of Separation](#world-of-separation)
+8. [4th dimensional being](#4th-dimensional-being)
 
 ## AI
 
@@ -145,9 +146,13 @@ Divide time into mundane & sacred time.
   - Actually is "out of time", timeless
   - Godhead made out of sacred time
 
-## Journey of Seperation
+## Journey of Separation
 
 ![Conscious Experience](/posts/img/qkab/conscious_seperation.png)
+
+## World of Separation
+
+We exists in the world of separation in the realm of oneness (which is, in reality, the only "Other"). Measurement is a language of/to deal with separation (or those that are separate). Thus, out of the One come the many and out of the many, emerges One. In the bible it says that Ha'Shem is hidden in plain sight (or could I say, hidden from _plain_ sight.)
 
 ## 4th dimensional being
 
