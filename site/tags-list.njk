@@ -4,6 +4,7 @@ layout: layouts/home.njk
 ---
 <h1>Tags</h1>
 
+<<<<<<< HEAD
 {% for tag in collections.tagList  %}
   {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
   <a href="{{ tagUrl | url }}"> <span class="tag is-light is-small">
@@ -15,3 +16,9 @@ layout: layouts/home.njk
 {% endfor %}
 
 
+=======
+{% for tag in collections.tagList %}
+  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
+{% endfor %}
+>>>>>>> 0ef9b37 (Initial Commit)

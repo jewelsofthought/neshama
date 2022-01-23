@@ -1,5 +1,6 @@
 ---
 layout: layouts/post.njk
+<<<<<<< HEAD
 title: The muddled mystic
 templateClass: tmpl-post
 eleventyNavigation:
@@ -33,3 +34,13 @@ Of course, the first and most important goal here would be to distinguish betwee
 So is it your thoughts? Or the reason that you do these terrible things that determines whether they are terrible or not? Is it just the circumstances and the reasons you do these things that is the ultimate criterion of good or evil? If I do it “for God” - as I perceive Him – is that good? Even if I kill and maim and torture and hurt and enslave other beings? Is that what God wants from us? To kill one another? To hurt one another? Is that God’s plan? His purpose for creation – a fight club, where millions fight and die? If that is the case, it is reaching absurd heights. For no longer will there be wars or battles between peoples and nations, it will just mean annihilation – perhaps for that nation, or perhaps for the entire humanity. A number of flashes in the sky is what for many will be there last moment, while for many others a slow, bleeding death – lingering for many years, till we are all gone.
 
 We are living in a world run by a lot of sabre rattling madmen. Though to upset everything, it requires one of these megalomaniacs to create a terrible (terror-ble) scenario. There is only one motivation for people of this ilk, and it is power. That is evil.
+=======
+title: About Me
+templateClass: tmpl-post
+eleventyNavigation:
+  key: About Me
+  order: 3
+---
+
+I am a person that writes stuff.
+>>>>>>> 0ef9b37 (Initial Commit)
