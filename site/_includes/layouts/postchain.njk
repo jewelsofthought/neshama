@@ -48,7 +48,7 @@ templateClass: tmpl-post
       'nURL': nextURL, 
       'nTitle': nextTitle, 
       'pURL': prevURL, 
-      'pTitle: prevTitle 
+      'pTitle: prevTitle
     };
     {%- if collections.posts %}
       {%- set nextPost = collections.posts | getNextCollectionItem(page) %}

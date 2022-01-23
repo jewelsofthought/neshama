@@ -15,12 +15,27 @@ eleventyComputed:
   title: Tagged “{{ tag }}”
 permalink: /tags/{{ tag | slug }}/
 ---
+<<<<<<< HEAD
+<<<<<<< HEAD
 <!-- filter: Controls what items are included in the index file for that particuar tag -->
 
+=======
+>>>>>>> 0ef9b37 (Initial Commit)
+=======
+<!-- filter: Controls what items are included in the index file for that particuar tag -->
+
+>>>>>>> dee1034 (fixed tag)
 <h1>Tagged “{{ tag }}”</h1>
 
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
 
 <p>See <a href="{{ '/tags/' | url }}">all tags</a>.</p>
+<<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0ef9b37 (Initial Commit)
+=======
+
+>>>>>>> 2b4ebe5 (Fixed some errors)

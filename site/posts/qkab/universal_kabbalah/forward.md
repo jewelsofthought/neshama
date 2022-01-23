@@ -1,10 +1,25 @@
 ---
+<<<<<<< HEAD
+<<<<<<< HEAD
 title: Forward
 author: Leonora Leet
 description: The Key to Hebraic Sacred Science
 tags:
   - external
 modified: 2021-11-25T15:19:50.171Z
+<<<<<<< HEAD
+=======
+title: Universal Kabbalah - Forward
+=======
+title: Forward
+>>>>>>> 0758838 (external)
+author: Leonora Leet
+description: The Key to Hebraic Sacred Science
+tags: [external]
+modified: 2021-10-07T05:00:47.107Z
+>>>>>>> 1013aaf (Tag changes)
+=======
+>>>>>>> 8cffe01 (Modified)
 ---
 
 ## Leonora Leet

@@ -1,9 +1,25 @@
 ---
 title: Hero's Journey
 description: We begin on the inside...
+<<<<<<< HEAD
+<<<<<<< HEAD
 tags: null
 date: 2021-11-14T17:34:43.129Z
 modified: 2022-01-16T14:37:39.424Z
+=======
+date: 2021-08-21T16:00:00.000Z
+tags: null
+modified: 2021-09-23T17:10:04.967Z
+>>>>>>> 597ee2e (Added blog entries. Will work. Needs some updating)
+=======
+tags: null
+date: 2021-11-14T17:34:43.129Z
+<<<<<<< HEAD
+modified: 2021-11-16T17:20:11.884Z
+>>>>>>> 39fe66e (Updated these files' content)
+=======
+modified: 2022-01-16T14:37:39.424Z
+>>>>>>> a7625ab (Updated)
 ---
 
 1. [Hero’s Journey](#heros-journey)
@@ -11,9 +27,21 @@ modified: 2022-01-16T14:37:39.424Z
 
 ## Hero’s Journey -> see (Journey)[../tolnet/organisations.md#our-journey]
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 We begin on the inside, awakening to consciousness, slowly gaining awareness the world around us. As time goes by, we reach a level of cognition from and of our environment, and its topology. Our journey actually begins at this stage, and it might take many years, but the portal is an awareness of the other AND the effect we are having on the world around us. The end of the journey is of-course unattainable – and this is to be fully conscious of our world, both inner and outer, and the effect we have upon it. Then beings the hero’s journey into the inner reaches of your own self – what we call the soul, the _Nefesh_ - that which I am in the world around me. But that is not the cause, not the first cause, and you begin to understand that as you head deeper into the reaches of your inner being. where you encounter forgiveness and responsibility. That you are responsible for what is happening in your life, and you also need to be responsible for what has happened in your life. You need to forgive yourself for what you have done that was not true to your inner purpose and will – as in _“Thy will be done, in heaven as on earth”_.
 
 Then, perhaps, you will be allowed into the next room in the palace. This is the place of the higher soul or spirit – _Ruach_, as if you have reached the throne room, where you encounter the breath (voice?) of the Divine, the all-powerful King of the Universe. It is then that you begin to experience awe and deep understanding of how it is all connected and full of spirit. Finally, you may be gifted with a glimpse of the Holy of Holiest, until you have realised that we are all part of a purpose that is so beyond purpose that it leaves you breathless.
+=======
+We begin on the inside, awakening to consciousness, slowly gaining awareness the world around us. As time goes by, we reach a level of cognition from and of our environment, and its topology. Our journey actually begins at this stage, and it might take many years, but the portal is an awareness of the other AND the effect we are having on the world around us. The end of the journey is of-course unattainable – and this is to be fully conscious of our world, both inner and outer, and the effect we have upon it. Then beings the hero’s journey into the inner reaches of your own self – what we call the soul, the Nefesh - that which I am in the world around me. But that is not the cause, not the first cause, and you begin to understand that as you head deeper into the reaches of your inner being. where you encounter forgiveness and responsibility. That you are responsible for what is happening in your life, and you also need to be responsible for what has happened in your life. You need to forgive yourself for what you have done that was not true to your inner purpose and will – as in _“Thy will be done, in heaven as on earth”_.
+
+Then, perhaps, you will be allowed into the next room in the palace. This is the place of the higher soul or spirit – Ruach, as if you have reached the throne room, where you encounter the breath (voice?) of the Divine, the all-powerful King of the Universe. It is then that you begin to experience awe and deep understanding of how it is all connected and full of spirit. Finally, you may be gifted with a glimpse of the Holy of Holiest, until you have realised that we are all part of a purpose that is so beyond purpose that it leaves you breathless.
+>>>>>>> 597ee2e (Added blog entries. Will work. Needs some updating)
+=======
+We begin on the inside, awakening to consciousness, slowly gaining awareness the world around us. As time goes by, we reach a level of cognition from and of our environment, and its topology. Our journey actually begins at this stage, and it might take many years, but the portal is an awareness of the other AND the effect we are having on the world around us. The end of the journey is of-course unattainable – and this is to be fully conscious of our world, both inner and outer, and the effect we have upon it. Then beings the hero’s journey into the inner reaches of your own self – what we call the soul, the _Nefesh_ - that which I am in the world around me. But that is not the cause, not the first cause, and you begin to understand that as you head deeper into the reaches of your inner being. where you encounter forgiveness and responsibility. That you are responsible for what is happening in your life, and you also need to be responsible for what has happened in your life. You need to forgive yourself for what you have done that was not true to your inner purpose and will – as in _“Thy will be done, in heaven as on earth”_.
+
+Then, perhaps, you will be allowed into the next room in the palace. This is the place of the higher soul or spirit – _Ruach_, as if you have reached the throne room, where you encounter the breath (voice?) of the Divine, the all-powerful King of the Universe. It is then that you begin to experience awe and deep understanding of how it is all connected and full of spirit. Finally, you may be gifted with a glimpse of the Holy of Holiest, until you have realised that we are all part of a purpose that is so beyond purpose that it leaves you breathless.
+>>>>>>> 39fe66e (Updated these files' content)
 
 ## The Template
 
@@ -23,11 +51,31 @@ Why do I say that there is a template? Generally, each one of us has, within cer
 
 This is repeated, perhaps infinitely, out and in, above and below, large and small. Each atom is made from a template, which is quite well described nowadays. The galaxies are formed in similar ways, and gravity is gravity, however you interact with it. And we, and all of life, in fact, all of creation exist within the constraints of this template. That we cannot change. But we can be whatever we wish within the spaces of this template. That is the place of consciousness.
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 We eat to feed the body. Food cannot feed the soul. It is our relationship with the food that will nourish the soul. Our “affinity” to it. Thus it is with everything that we interact act with. If we have a “soul-full” relationship with it, then it can satisfy the needs of our soul. If not , then it is available to feed {[something else](sitra_achara.html)} – like the banana peels, which you trash, that you throw out your car window. Where it goes we can speak of at another time, for that is not the topic under discussion, but that of creating the seeds of the web that we speak of as these are the heart spaces from which these seeds will come.
 
 The way we step into the physical reality that we exist in, is by commitment. For commitments define the lines upon which our structures are founded. Commitments used to be made with the spoken word. In the days when all a man had was his reputation which relied on his words – as much as his actions, we called it oaths and vows. In fact creation begins with words “And he said... let there be light.”
 
 Once we have commitment, {[the framework](../tol-framework.html)} can be built, which we have named “The Tree of Life Network. The covenant we are asked to accept is one of life – to nourish, protect, sustain all life. The commitment that you make is to the task of building a peaceful global nation, in which the majority of its population are living comfortably.
+=======
+We eat to feed the body. Food cannot feed the soul. It is our relationship with the food that will nourish the soul. Our “affinity” to it. Thus it is with everything that we interact act with. If we have a “soul-full” relationship with it, then it can satisfy the needs of our soul. If not , then it is available to feed [something else](sitra_achara.html) – like the banana peels, which you trash, that you throw out your car window. Where it goes we can speak of at another time, for that is not the topic under discussion, but that of creating the seeds of the web that we speak of as these are the heart spaces from which these seeds will come.
+
+The way we step into the physical reality that we exist in, is by commitment. For commitments define the lines upon which our structures are founded. Commitments used to be made with the spoken word. In the days when all a man had was his reputation which relied on his words – as much as his actions, we called it oaths and vows. In fact creation begins with words “And he said... let there be light.”
+
+<<<<<<< HEAD
+Once we have commitment, (the framework)[tol-framework.html] can be built, which we have named “The Tree of Life Network. The covenant we are asked to accept is one of life – to nourish, protect, sustain all life. The commitment that you make is to the task of building a peaceful global nation, in which the majority of its population are living comfortably.
+>>>>>>> 597ee2e (Added blog entries. Will work. Needs some updating)
+=======
+Once we have commitment, [the framework](../tol-framework.html) can be built, which we have named “The Tree of Life Network. The covenant we are asked to accept is one of life – to nourish, protect, sustain all life. The commitment that you make is to the task of building a peaceful global nation, in which the majority of its population are living comfortably.
+>>>>>>> 39fe66e (Updated these files' content)
+=======
+We eat to feed the body. Food cannot feed the soul. It is our relationship with the food that will nourish the soul. Our “affinity” to it. Thus it is with everything that we interact act with. If we have a “soul-full” relationship with it, then it can satisfy the needs of our soul. If not , then it is available to feed {[something else](sitra_achara.html)} – like the banana peels, which you trash, that you throw out your car window. Where it goes we can speak of at another time, for that is not the topic under discussion, but that of creating the seeds of the web that we speak of as these are the heart spaces from which these seeds will come.
+
+The way we step into the physical reality that we exist in, is by commitment. For commitments define the lines upon which our structures are founded. Commitments used to be made with the spoken word. In the days when all a man had was his reputation which relied on his words – as much as his actions, we called it oaths and vows. In fact creation begins with words “And he said... let there be light.”
+
+Once we have commitment, {[the framework](../tol-framework.html)} can be built, which we have named “The Tree of Life Network. The covenant we are asked to accept is one of life – to nourish, protect, sustain all life. The commitment that you make is to the task of building a peaceful global nation, in which the majority of its population are living comfortably.
+>>>>>>> a7625ab (Updated)
 
 The first task we need to perform is the calling. This is to make a connection with others who share our world view - one in which we believe that every relationship is sacred.
 

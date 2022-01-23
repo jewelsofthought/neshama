@@ -2,8 +2,10 @@
 title: Linux Commands
 description: null
 date: 2021-08-21T16:00:00.000Z
-tags: comp
-modified: 2021-12-19T10:03:59.443Z
+tags:
+  - comp
+eleventyExcludeFromCollection: true
+modified: 2022-01-22T17:39:57.448Z
 ---
 
 | Quick reference chart                      |                                                      |

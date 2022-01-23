@@ -3,7 +3,15 @@ title: The Beginning
 tags:
   - creation
 date: 2021-11-26T14:09:50.217Z
+<<<<<<< HEAD
+<<<<<<< HEAD
 modified: 2022-01-05T18:39:51.448Z
+=======
+modified: 2021-11-26T14:12:57.311Z
+>>>>>>> 6a095b3 (Initial commit)
+=======
+modified: 2022-01-05T18:39:51.448Z
+>>>>>>> 67bd52a (Fixed bad links)
 ---
 
 # The Beginning
@@ -27,7 +35,15 @@ In the Divine realm, it could be said that the point and the circle emerged simu
 In the beginning there was only the infinite void – darkness, chaos, _tohu v’bohu_ – the unchanging, perfect, balanced. Anything said about it, any characteristics describing it, can never express this inexpressible state – for it is unmanifest and thus indescribable.
 This was what was before there was anything. It is something that is not something, yet also not nothing. It has been described as the Void or Infinite Light. It is only described as infinite from a finite perspective. How would the infinite describe itself to us? “I am that I am” or “I will be what I will be”... or is it “I was what I will be” or “I am what I was never”?
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 Out of this infinite, endless nothingness something arose, a beginning, and we call it a ‘point’. Because the Void is perfect and balanced (all human terms), this emanation occurred in all directions simultaneously – which will create a space which is represented by a ‘circle’. Thus this point is called the [middle point](/posts/qkab/middle/), the point of origin.
+=======
+Out of this infinite, endless nothingness something arose, a beginning, and we call it a ‘point’. Because the Void is perfect and balanced (all human terms), this emanation occurred in all directions simultaneously – which will create a space which is represented by a ‘circle’. Thus this point is called the middle point, the point of origin [Math/Dim](dimensions.html).
+>>>>>>> 6a095b3 (Initial commit)
+=======
+Out of this infinite, endless nothingness something arose, a beginning, and we call it a ‘point’. Because the Void is perfect and balanced (all human terms), this emanation occurred in all directions simultaneously – which will create a space which is represented by a ‘circle’. Thus this point is called the [middle point](/posts/qkab/middle/), the point of origin.
+>>>>>>> 67bd52a (Fixed bad links)
 
 It is possible that many (perhaps an infinite amount of) points arose simultaneously. However, one of them is the point of origin of whatever circle is under investigation. Mathematics uses different language. It states (and proves) that it if there are many points, it is unimportant which point is chosen, and calls it the axiom of existence.
 
@@ -35,17 +51,41 @@ If I may digress for a moment, and propose that each of us has a ‘point of ori
 
 ## A point of density
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 Imagine a spot of density – the [middle point](/posts/qkab/middle/).
+=======
+Imagine a spot of density – the middle point.
+>>>>>>> 6a095b3 (Initial commit)
+=======
+Imagine a spot of density – the [middle point](/posts/qkab/middle/).
+>>>>>>> 67bd52a (Fixed bad links)
 
 What is that point? It is a point of finity – the emergence of which takes an infinite amount of “energy”. One could say that it takes a infinity to produce a single finite point, and the mystery of the circle – which could be thought of as an expanded point (or a point could be thought of as a tiny circle – which is close to what we observe, as the particles that make up our world are not points at all, but “fields of influence”. This mystery of the circle speaks of the mystery by which the unbounded infinite becomes the bounded finite – creation ex-nihilo. The emergence of something from other; the source is different from the result, there being no correlation between cause and effect.
 
 ## The middle point
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 From the [middle point](/posts/qkab/middle/) the universe emerged. We refer to it as the ‘big bang’. There is a version of this creation story that speaks of many big bangs occurring simultaneously.
 
 Everything starts of as a ‘point’. A point just represents presence and thus position. Nothing has yet ‘manifested’. It is just ‘in position’. Similar to voltage, which is ‘potential’ energy, and is ready to manifest as soon as it is hooked up to a circuit. Thus the energy of the point is potential, and it too waiting to be ‘connected’.
 
 Let us for a moment look at everything from this point of view. We can think of everything as consisting of points, but it is the [middle point](/posts/qkab/middle/), the point of origin that we could look at, and reduce an event to a ‘point’. So, in order to be connected, and thus flow, the point needs to recognise or acknowledge some other point. Think of it like a goal. One has to have somewhere one desires to go, in order to move. [lech lecha](go.html) [However, in Abram’s case, before he had been given the place to go, he was told by G-d to “_lech lecha_”.] It is like imagining some other point, and then heading in that direction. In a sense you could say that you created a line of energy between your present point, and some future point. The line that emerges to connect the two points is two dimensional, or binary. It is referred to as the relationship between the two points. I like to think of it as a vector, which is a line that has direction, though that direction is limited to 2d.
+=======
+From the middle point the universe emerged. We refer to it as the ‘big bang’. There is a version of this creation story that speaks of many big bangs occurring simultaneously.
+
+Everything starts of as a ‘point’. A point just represents presence and thus position. Nothing has yet ‘manifested’. It is just ‘in position’. Similar to voltage, which is ‘potential’ energy, and is ready to manifest as soon as it is hooked up to a circuit. Thus the energy of the point is potential, and it too waiting to be ‘connected’.
+
+Let us for a moment look at everything from this point of view. We can think of everything as consisting of points, but it is the middle point, the point of origin that we could look at, and reduce an event to a ‘point’. So, in order to be connected, and thus flow, the point needs to recognise or acknowledge some other point. Think of it like a goal. One has to have somewhere one desires to go, in order to move. [lech lecha](go.html) [However, in Abram’s case, before he had been given the place to go, he was told by G-d to “_lech lecha_”.] It is like imagining some other point, and then heading in that direction. In a sense you could say that you created a line of energy between your present point, and some future point. The line that emerges to connect the two points is two dimensional, or binary. It is referred to as the relationship between the two points. I like to think of it as a vector, which is a line that has direction, though that direction is limited to 2d.
+>>>>>>> 6a095b3 (Initial commit)
+=======
+From the [middle point](/posts/qkab/middle/) the universe emerged. We refer to it as the ‘big bang’. There is a version of this creation story that speaks of many big bangs occurring simultaneously.
+
+Everything starts of as a ‘point’. A point just represents presence and thus position. Nothing has yet ‘manifested’. It is just ‘in position’. Similar to voltage, which is ‘potential’ energy, and is ready to manifest as soon as it is hooked up to a circuit. Thus the energy of the point is potential, and it too waiting to be ‘connected’.
+
+Let us for a moment look at everything from this point of view. We can think of everything as consisting of points, but it is the [middle point](/posts/qkab/middle/), the point of origin that we could look at, and reduce an event to a ‘point’. So, in order to be connected, and thus flow, the point needs to recognise or acknowledge some other point. Think of it like a goal. One has to have somewhere one desires to go, in order to move. [lech lecha](go.html) [However, in Abram’s case, before he had been given the place to go, he was told by G-d to “_lech lecha_”.] It is like imagining some other point, and then heading in that direction. In a sense you could say that you created a line of energy between your present point, and some future point. The line that emerges to connect the two points is two dimensional, or binary. It is referred to as the relationship between the two points. I like to think of it as a vector, which is a line that has direction, though that direction is limited to 2d.
+>>>>>>> 67bd52a (Fixed bad links)
 
 Now these two points could replicate or connect to many other points, creating patterns and object of immense complexity and beauty, but it would still only be in 2d. How then, does it manifest in 3d, I ask. Is it just a miracle, or magic, evolution or chance? It is, indeed a mystery.
 

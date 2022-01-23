@@ -9,7 +9,19 @@ ref:
 tags:
   - m&f
 date: 2021-11-17T18:23:23.287Z
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 modified: 2022-01-06T17:56:11.129Z
+=======
+modified: 2021-11-26T11:25:24.360Z
+>>>>>>> 6a095b3 (Initial commit)
+=======
+modified: 2022-01-05T19:06:40.862Z
+>>>>>>> 67bd52a (Fixed bad links)
+=======
+modified: 2022-01-06T17:56:11.129Z
+>>>>>>> fd88bae (minor changes)
 ---
 
 1. [Masculine & Feminine](#masculine--feminine)
@@ -19,6 +31,14 @@ modified: 2022-01-06T17:56:11.129Z
    4. [Roles](#roles)
    5. [Desire for Power](#desire-for-power)
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+# Masculine & Feminine
+
+>>>>>>> 6a095b3 (Initial commit)
+=======
+>>>>>>> fd88bae (minor changes)
 ## Male & Female
 
 Dark energy -> expressed sexually: Woman as a channel for this energy. Just as the shaman throws the water that the dark entities that she has removed from the person and placed in, onto the earth to “absorb” and dissipate in the belief that Mother Earth can absorb and deal with these dark energies. Just like the earth can ground us electrically when we walk barefoot upon her skin, so the female who identifies in her body with the earth, absorbs/receives the dark energy of the masculine, and can absorb and transform it in herself.
@@ -68,10 +88,24 @@ Love, too, needs constant nourishment, though we know that material things are n
 ## Desire for Power
 
 > The desire for power, greed, is a feminine trait. It devours whatever it can, an unbalanced form of receiving.
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 67bd52a (Fixed bad links)
 
 ## Transform
 
 ![transformation - from energy to form](/posts/img/tol/fn-mf.png)
 _The female transforms the male energy into form_
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 However, it requires the union of male &amp; female, and, on the upper level, it requires this union to be harmonious and balanced. If the male is not contained by the female, and manifests form, it is misplace (misappropriated) energy, thus has the tendency to become destructive, as it will need to destroy this form (the female). If energy is not utilised, not only does it go to waste, but it turns toxic. [anaerobic - no oxygen](anaerobic.html). Think of under-utilised electrical energy&mdash;like a fully charged battery.
+=======
+>>>>>>> 6a095b3 (Initial commit)
+=======
+However, it requires the union of male &amp; female, and, on the upper level, it requires this union to be harmonious and balanced. If the male is not contained by the female, and manifests form, it is misplace (misappropriated) energy, thus has the tendency to become destructive, as it will need to destroy this form (the female). If energy is not utilised, not only does it go to waste, but it turns toxic. {anaerobic - no oxygen}. Think of under-utilised electrical energy&mdash;like a fully charged battery.
+>>>>>>> 67bd52a (Fixed bad links)
+=======
+However, it requires the union of male &amp; female, and, on the upper level, it requires this union to be harmonious and balanced. If the male is not contained by the female, and manifests form, it is misplace (misappropriated) energy, thus has the tendency to become destructive, as it will need to destroy this form (the female). If energy is not utilised, not only does it go to waste, but it turns toxic. [anaerobic - no oxygen](anaerobic.html). Think of under-utilised electrical energy&mdash;like a fully charged battery.
+>>>>>>> fd88bae (minor changes)

@@ -2,9 +2,20 @@
 title: 4th dimensional entities
 description: The Source of pleasure/displeasure
 date: 2021-08-21T16:00:00.000Z
+<<<<<<< HEAD
+<<<<<<< HEAD
 tags:
   - 4d
 modified: 2021-12-09T16:38:16.933Z
+=======
+tags: null
+modified: 2021-09-23T17:12:56.733Z
+>>>>>>> 597ee2e (Added blog entries. Will work. Needs some updating)
+=======
+tags:
+  - 4d
+modified: 2021-12-09T16:38:16.933Z
+>>>>>>> b2b6186 (Updated some material, some data)
 ---
 
 ## 1,2,3 & 4d entities (qkab)

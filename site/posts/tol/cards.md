@@ -1,8 +1,13 @@
 ---
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 title: Various Thoughts
 description: Miscellaneous ideas
 tags: null
 date: 2022-01-06T17:58:20.377Z
+<<<<<<< HEAD
+<<<<<<< HEAD
 modified: 2022-01-11T17:10:55.562Z
 ---
 
@@ -26,6 +31,80 @@ Specialisation produces a web of Inter-dependencies
 ## Systems (old)
 
 All dynamic/moving systems are alive. If a system never changes, then it is dead. If a food can stand open for a long time, then it is dead. All static, absolute, unmoving systems are dead. Thus sterilized systems or pasteurised food stuffs are often life depleting. Though there is must support and nourishment that a dead tree or animal provides the living creature of the forest.
+=======
+title: Thoughts & Ideas
+description: Tree of Life Network ideas
+tags: null
+=======
+modified: 2022-01-02T07:06:17.318Z
+---
+
+>>>>>>> e366c49 (Update)
+=======
+title: Various Thoughts
+description: Miscellaneous ideas
+tags: null
+>>>>>>> 1086fed (More)
+date: 2021-11-11T10:38:07.290Z
+modified: 2022-01-05T11:15:48.841Z
+=======
+modified: 2022-01-06T18:01:47.356Z
+>>>>>>> fd88bae (minor changes)
+=======
+modified: 2022-01-11T17:10:55.562Z
+>>>>>>> 15dc9f6 (Fixed math inserts)
+---
+
+1. [Specialisation](#specialisation)
+2. [Systems (old)](#systems-old)
+3. [Sovereignty ~ empowerment](#sovereignty--empowerment)
+4. [Bridging](#bridging)
+   1. [Between two worlds](#between-two-worlds)
+<<<<<<< HEAD
+<<<<<<< HEAD
+3. [Power & Governance](#power--governance)
+4. [Governance in the global space.](#governance-in-the-global-space)
+5. [666m (cov-19)](#666m-cov-19)
+<<<<<<< HEAD
+6. [Graphs and Networks](#graphs-and-networks)
+>>>>>>> 87dcb92 (renamed tolnet to tol)
+=======
+6. [Fish](#fish)
+=======
+4. [Power & Governance](#power--governance)
+5. [Governance in the global space.](#governance-in-the-global-space)
+6. [666m (cov-19)](#666m-cov-19)
+7. [Fish](#fish)
+<<<<<<< HEAD
+8. [Seeding](#seeding)
+<<<<<<< HEAD
+>>>>>>> 1086fed (More)
+=======
+9. [Great Pirates](#great-pirates)
+10. [Information scarcity](#information-scarcity)
+>>>>>>> 8ad5948 (Update)
+=======
+8. [Great Pirates](#great-pirates)
+9. [Information scarcity](#information-scarcity)
+=======
+5. [Power & Governance](#power--governance)
+6. [Governance in the global space.](#governance-in-the-global-space)
+7. [666m (cov-19)](#666m-cov-19)
+8. [Fish](#fish)
+9. [Great Pirates](#great-pirates)
+10. [Information scarcity](#information-scarcity)
+11. [3d Tree of Life](#3d-tree-of-life)
+>>>>>>> 15dc9f6 (Fixed math inserts)
+
+## Specialisation
+
+Specialisation produces a web of Inter-dependencies
+>>>>>>> 67bd52a (Fixed bad links)
+
+## Systems (old)
+
+All dynamic/moving systems are alive. If a system never changes, then it is dead. If a food can stand open for a long time, then it is dead. All static, absolute, unmoving systems are dead. Thus sterilized systems or pasteurised food stuffs are often life depleting. Though there is must support and nourishment that a dead tree or animal provides the living creature of the forest.
+>>>>>>> e366c49 (Update)
 
 ## Sovereignty ~ empowerment
 
@@ -56,6 +135,10 @@ Our greatest challenge is not the risk of environmental collapse, resource wars,
 ## 666m (cov-19)
 
 But the descent from 7B to 666m will be catastrophic and will be a stranger to any who dreamt of a world with only 666m people inhabiting it.
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> e366c49 (Update)
 
 ## Fish
 
@@ -72,7 +155,16 @@ Like a school of fish, all travelling in the same direction. But what position a
   - The next one will know it and reject and begin reset.
   - Traverses as far as it needs
     or exits with error.
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 
+<<<<<<< HEAD
+## Seeding
+>>>>>>> 1086fed (More)
+
+=======
+>>>>>>> 67bd52a (Fixed bad links)
 I have been trying to build the tree from the top down, starting at the root and spreading out from there. The actual way that it needs to be expressed is each individual as a seed, that grows into a tree, that becomes a forest... connecting to all the other "forests" out there.
 
 The health of any forest is determined both by the health of its trees, that is the health of its members, and the environment in which they grow. As well as the environment around the forest, with the climate, the rain, and the other factors that sustain a healthy forest.
@@ -80,6 +172,10 @@ The health of any forest is determined both by the health of its trees, that is 
 It is said that in healthy forest ecosystems, they will communicate events between one another... and the receiver will begin to react to this information.
 
 In human terms, the individual is the seed, he (hopefully) grows into a healthy adult, who becomes a productive member of his community, which (hopefully) co-exists in a symbiotic manner with the communities around.
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8ad5948 (Update)
 
 ## Great Pirates
 
@@ -98,9 +194,24 @@ And why are many aspects of the legal version of this any different? Especially 
 What I have noticed in the last years, is that the information freely available is becoming scarcer. This was not done by privatising the internet, by rather by privatising the information available on the public net. Once again, producing control of the information by the elite. But it did not end there. Then began the campaign to discredit the public source of information. This was done by polluting the information that was flowing along the public channel.
 
 An unintended effect of this, or perhaps it is an intended one, is that idiotic news appeals to idiots, and this generally starts a popular movement - any meme to express the outrage and frustration endemic amongst the oppressed underclass. Remember, the underclass does not necessarily have to oppressed. In fact, they are often the unsung heroes of many a triumph, with their quiet solitude and desire to just have a peaceful and happy life - not striving as those who already have too much seem to be constantly doing.
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fd88bae (minor changes)
 
 ## 3d Tree of Life
 
 Beginning of a 3d design for the Tree of Life:
 
 ![3d - Tree of Life](/posts/img/tol/fn-pillar.png)
+<<<<<<< HEAD
+=======
+>>>>>>> 87dcb92 (renamed tolnet to tol)
+=======
+>>>>>>> e366c49 (Update)
+=======
+>>>>>>> 1086fed (More)
+=======
+>>>>>>> 8ad5948 (Update)
+=======
+>>>>>>> fd88bae (minor changes)

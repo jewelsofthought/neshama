@@ -5,8 +5,24 @@ page:
   - 1
 tags:
   - neshama
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 date: 2021-07-23T00:00:00.000Z
 modified: 2021-11-17T18:22:39.609Z
+=======
+  - book-gift
+date: 2021-09-23T00:00:00.000Z
+modified: 2021-09-23T12:11:08.163Z
+>>>>>>> 597ee2e (Added blog entries. Will work. Needs some updating)
+=======
+date: 2021-09-23T00:00:00.000Z
+modified: 2021-10-07T05:04:17.751Z
+>>>>>>> 1013aaf (Tag changes)
+=======
+date: 2021-07-23T00:00:00.000Z
+modified: 2021-11-17T18:22:39.609Z
+>>>>>>> 39fe66e (Updated these files' content)
 ---
 
 ## All change can only happen via יהוה

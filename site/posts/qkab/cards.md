@@ -1,9 +1,12 @@
 ---
+<<<<<<< HEAD
+<<<<<<< HEAD
 title: "Collection of Pieces:"
 description: Random thoughts
 tags: null
 date: 2021-11-04T15:00:27.882Z
 modified: 2021-11-30T16:31:30.941Z
+<<<<<<< HEAD
 ---
 
 1. [Collection of Pieces:](#collection-of-pieces)
@@ -40,6 +43,76 @@ modified: 2021-11-30T16:31:30.941Z
    13. [Enlightenment](#enlightenment)
 
 # Collection of Pieces:
+=======
+title: Judaica (Personal)
+=======
+title: "Collection of Pieces:"
+>>>>>>> 39fe66e (Updated these files' content)
+description: Random thoughts
+tags: null
+date: 2021-11-04T15:00:27.882Z
+modified: 2021-11-21T09:05:37.211Z
+=======
+>>>>>>> bdfc3da (Tag cleansing, some additions, mainly external)
+---
+
+<<<<<<< HEAD
+1. [Judaica (Personal)](#judaica-personal)
+   1. [Meditation](#meditation)
+2. [Personal](#personal)
+   1. [Abulafia](#abulafia)
+   2. [Merkava Descent](#merkava-descent)
+   3. [Metatron](#metatron)
+   4. [Quanta](#quanta)
+   5. [Desire](#desire)
+   6. [Divine Spark](#divine-spark)
+   7. [Evolution](#evolution)
+   8. [Dim beings](#dim-beings)
+   9. [Here & now](#here--now)
+   10. [Devotion](#devotion)
+   11. [Constraint](#constraint)
+   12. [Choice](#choice)
+   13. [Attract/Reject - Pos/Neg](#attractreject---posneg)
+   14. [Free Choice (Prayer )](#free-choice-prayer-)
+   15. [Free Will](#free-will)
+   16. [Freedom](#freedom)
+>>>>>>> 50b50e2 (new additions)
+=======
+1. [Collection of Pieces:](#collection-of-pieces)
+   1. [Quote](#quote)
+   2. [Quote](#quote-1)
+   3. [Quote](#quote-2)
+      1. [Thought](#thought)
+   4. [Quote: Process (Henry Bergson)](#quote-process-henry-bergson)
+   5. [Quote: R' Saadia Ha'Gaon](#quote-r-saadia-hagaon)
+   6. [Quote: Prophet](#quote-prophet)
+2. [Judaica (Personal)](#judaica-personal)
+   1. [Kaballah](#kaballah)
+   2. [Meditation](#meditation)
+   3. [Abulafia](#abulafia)
+   4. [Merkava Descent](#merkava-descent)
+   5. [Metatron](#metatron)
+3. [Personal](#personal)
+   1. [Quanta](#quanta)
+   2. [Desire](#desire)
+   3. [Divine Spark](#divine-spark)
+   4. [Evolution](#evolution)
+   5. [Dim beings](#dim-beings)
+   6. [Here & now](#here--now)
+   7. [Devotion](#devotion)
+   8. [Constraint](#constraint)
+      1. [Choice](#choice)
+      2. [Attract/Reject - Pos/Neg](#attractreject---posneg)
+      3. [Free Choice (Prayer )](#free-choice-prayer-)
+      4. [Free Will](#free-will)
+   9. [Freedom](#freedom)
+   10. [Aware of the Circle (math)](#aware-of-the-circle-math)
+   11. [Arrogance](#arrogance)
+   12. [Compass](#compass)
+   13. [Enlightenment](#enlightenment)
+
+# Collection of Pieces:
+>>>>>>> 39fe66e (Updated these files' content)
 
 ## Quote
 
@@ -55,17 +128,34 @@ It is through faith which transcends comprehension that one can feel true closen
 
 Inasmuch as my intelligence and the root of my soul are of too limited a capacity to constitute a "chariot" or abode for His blessed Unity in Perfect Truth. Since my mind cannot conceive nor apprehend Him with any degree of certainty in the world, nor even one iota of that of the Prophets and the Patriarchs.
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 39fe66e (Updated these files' content)
 ## Quote
 
 > “We know that human vision assimilates only a small fragment of the spectrum; as far as our senses are concerned, the rest of it does not exist.” (Rabbi Adin Steinsaltz)
 
 --Rabbi Adin Steinsaltz
 
+<<<<<<< HEAD
+=======
+>>>>>>> 50b50e2 (new additions)
+=======
+>>>>>>> 39fe66e (Updated these files' content)
 ### Thought
 
 If we are finite beings, and although fashioned from the cloth/image of the Infinite Supernal Being, we are enclosed in a finite "vehicle". If there is any part of G-d's desire that would like His "children" to return to Him, as is often said in the Biblical readings.
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 ## Quote: Process (Henry Bergson)
+=======
+## Process (Henry Bergson)
+>>>>>>> 50b50e2 (new additions)
+=======
+## Quote: Process (Henry Bergson)
+>>>>>>> 39fe66e (Updated these files' content)
 
 [NOTE: Processist, processuality, processism]
 
@@ -73,30 +163,71 @@ If we are finite beings, and although fashioned from the cloth/image of the Infi
 
 All processes can be viewed as modifications of substances (material bodies).
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 ## Quote: R' Saadia Ha'Gaon
 
 > If the world results in an act of creation, G-d, as the Creator, can introduce changes at will. Our Rabbis limit the scope of such change.
+=======
+## R' Saadia Ha'Gaon
+
+If the world results in an act of creation, G-d, as the Creator, can introduce changes at will. Our Rabbis limit the scope of such change.
+>>>>>>> 50b50e2 (new additions)
+=======
+## Quote: R' Saadia Ha'Gaon
+
+> If the world results in an act of creation, G-d, as the Creator, can introduce changes at will. Our Rabbis limit the scope of such change.
+>>>>>>> 39fe66e (Updated these files' content)
 
 [I believe that this is an incorrect understanding of the Will of G-d. It is perfect, and thus is constant. There is not "willfull change", it is all an expression of His Will, even though we judge it to be a change. ]
 
 > Once G-d miraculously transforms the nature of simple elements in joining them to composite bodies, the only subsequent changes are the miracles performed to validate the prophetic mission.
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 ## Quote: Prophet
 
 > The trustworthiness of the prophet hinges on the argument that the only reasonable explanation for their occurrence is through the agency of G-d.
+=======
+## Prophet
+
+The trustworthiness of the prophet hinges on the argument that the only reasonable explanation for their occurrence is through the agency of G-d.
+>>>>>>> 50b50e2 (new additions)
+=======
+## Quote: Prophet
+
+> The trustworthiness of the prophet hinges on the argument that the only reasonable explanation for their occurrence is through the agency of G-d.
+>>>>>>> 39fe66e (Updated these files' content)
 
 ---
 
 # Judaica (Personal)
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 39fe66e (Updated these files' content)
 ## Kaballah
 
 If the ultimate goal of Kabbalah is to bring people back to Judaism and the Torah & Mitzvot, then it is not the Kabbalah that our sages propagated. For that Kabbalah comes after much Torah & Mitzvot, not before. Kabbalah is meant to lead the student into the deeper mysteries of the Torah, to gain a deeper understanding of God and His Purpose, how the Universe looks and works, what spiritual energy is and thus, how to understand it and its dynamics in our lives.
 
+<<<<<<< HEAD
+=======
+>>>>>>> 50b50e2 (new additions)
+=======
+>>>>>>> 39fe66e (Updated these files' content)
 ## Meditation
 
 Bestow להנאת הבורה - for the delight of the Creator. Same as parent/child relationship - G-d, our Father -
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+# Personal
+
+>>>>>>> 50b50e2 (new additions)
+=======
+>>>>>>> 39fe66e (Updated these files' content)
 ## Abulafia
 
 Abulafia could not speak of it other than in the context within which they were all steeped (both him and his audience). Just as a mathematician can only use mathematics to express what he sees, so the Rabbi's could only speak in the language of their teachers.
@@ -111,8 +242,16 @@ As each string (ala string theory) conjoins with others to form a "metatron", th
 
 It is the principle of greater density, which is a product of "simultaneity". The relationship between these strings will determine the form that emanates. In this state, there is no time, and no space. It is the emergence into space - which has to exist for a certain duration of time...
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 # Personal
 
+=======
+>>>>>>> 50b50e2 (new additions)
+=======
+# Personal
+
+>>>>>>> 39fe66e (Updated these files' content)
 ## Quanta
 
 Paradox:
@@ -130,7 +269,17 @@ Desire, the only force in creation, is always towards the unknown, for we can on
 
 But why create imperfection just so it can be returned to its original state of perfection? That doesn't make any sense. Perhaps imperfection is part of perfection, in that in order to be absolutely Perfect, it has to contain both perfection and imperfection. Just as the Buddhists say that the Void is not something and it is not nothing, but is No-thing. The thesis and antithesis are extinguished in the synthesis.
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 [Creation](creation.html) as a continuous process of synthesis, which contains both antithesis and synthesis within it, else it could not fulfil its task of synthesising and would become fossilised.
+=======
+Creation as a continuous process of synthesis, which contains both antithesis and synthesis within it, else it could not fulfil its task of synthesising and would become fossilised.[Zero to Hero](zero2one.html)
+
+//zero to one: The beginning begins with the emergence of the One. How the zero became 1 is beyond a miracle. There are absolutely no words (in any language) that describe either what the 0 is, or how it became 1. Though there is a way to express it in every language, and it is an essential part of every language. In fact, everyone can "speak" this divine language. It is called ... silence!
+>>>>>>> 50b50e2 (new additions)
+=======
+[Creation](creation.html) as a continuous process of synthesis, which contains both antithesis and synthesis within it, else it could not fulfil its task of synthesising and would become fossilised.
+>>>>>>> 39fe66e (Updated these files' content)
 
 Thus the story begins when the One, absolute unity, absolute perfection, becomes Two. That is the true miracle of life, and the whole of our existence.
 
@@ -245,6 +394,10 @@ First, one has to learn who you are and for that...
 > Freedom of constraint, constraint of freedom
 
 ---
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 39fe66e (Updated these files' content)
 
 ## Aware of the Circle (math)
 
@@ -260,6 +413,10 @@ There is a difference between the name - which is a pointer - and the actual obj
 > Presuming to be separate entities and sovereign independent beings.
 
 This is the road to narcissism, and megalomania.
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> bdfc3da (Tag cleansing, some additions, mainly external)
 
 ## Compass
 
@@ -284,3 +441,10 @@ The shame of this present generation is their lack of acknowledgement of the yea
 Their arrogance is in their thinking that they are the first generation to wrestle with this existential problem - or are the best equipped to find a "solution" to a problem.
 
 A problem that is in fact an intrinsic aspect of the system itself.
+<<<<<<< HEAD
+=======
+>>>>>>> 50b50e2 (new additions)
+=======
+>>>>>>> 39fe66e (Updated these files' content)
+=======
+>>>>>>> bdfc3da (Tag cleansing, some additions, mainly external)

@@ -1,4 +1,7 @@
 ---
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 title: Journey to Freedom
 description: Story
 date: 2021-08-31T00:00:00.000Z
@@ -8,6 +11,27 @@ modified: 2021-11-28T17:48:34.172Z
 
 1. [Good & Evil](#good--evil)
 
+=======
+title: My journey to freedom
+=======
+title: Good & Evil
+>>>>>>> 39fe66e (Updated these files' content)
+description: New story
+=======
+title: Journey to Freedom
+description: Story
+>>>>>>> 8cffe01 (Modified)
+date: 2021-08-31T00:00:00.000Z
+tags: null
+modified: 2021-11-28T17:48:34.172Z
+---
+
+<<<<<<< HEAD
+>>>>>>> 597ee2e (Added blog entries. Will work. Needs some updating)
+=======
+1. [Good & Evil](#good--evil)
+
+>>>>>>> 39fe66e (Updated these files' content)
 ## Good & Evil
 
 I was fifteen years old when I was raped. I was walking home one day, when a group of young guys dragged me into a shed and abused me, both sexually and emotionally. It was a terrible experience, but yet, in that awesome place of helplessness and terror, there was a gift.
