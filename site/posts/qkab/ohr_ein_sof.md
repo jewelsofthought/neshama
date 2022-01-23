@@ -5,14 +5,24 @@ tags:
   - creation
   - midpoint
 date: 2021-11-18T10:20:29.954Z
+<<<<<<< HEAD
 modified: 2022-01-05T18:40:44.931Z
+=======
+modified: 2021-11-21T14:31:04.442Z
+>>>>>>> 6a095b3 (Initial commit)
 ---
 
 # In the Beginning
 
+<<<<<<< HEAD
 ![The un(en)folding](/posts/img/qkab/beginning.png)
 
 The texts say that this event occurred many times over at the same time. Infinite points spreading out equally from the [middle point](/posts/qkab/middle/). It was once thought the there were areas where the universe was being created, and others were it was being destroyed, constantly. There is a cosmological explanation from science that speaks of the hyper-inflationary universe. This universe emerges (is emerging?) in the same fashion.
+=======
+![The un(en)folding](/img/qkab/beginning.png)
+
+The texts say that this event occurred many times over at the same time. Infinite points spreading out equally from the middle point. It was once thought the there were areas where the universe was being created, and others were it was being destroyed, constantly. There is a cosmological explanation from science that speaks of the hyper-inflationary universe. This universe emerges (is emerging?) in the same fashion.
+>>>>>>> 6a095b3 (Initial commit)
 
 However that may be, it is certain that there was not a single event.
 
