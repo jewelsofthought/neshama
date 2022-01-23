@@ -1,6 +1,7 @@
 ---
 title: Limited consciousness
 description: What if our intelligence was limited?
+<<<<<<< HEAD
 tags:
   - consciousness
 date: 2021-11-11T10:41:10.604Z
@@ -15,6 +16,17 @@ If we are finite beings (a fact), then no part of our beings can be infinite, me
 
 ## Finite intelligence
 
+=======
+tags: null
+date: 2021-11-11T10:41:10.604Z
+modified: 2021-11-11T12:17:54.818Z
+---
+
+## Limited
+
+> The intelligence that can conceive of infinite is not necessarily itself infinite!
+
+>>>>>>> 50b50e2 (new additions)
 What if our intelligence was limited? Surely, we do not believe that we have infinite intelligence, do we? Even if there are those deluded beings who think that they are or can become, if not gods themselves, at least like gods - they know, in their true hearts, that they are not of infinite intelligence (or infinite anything - except for the "part" that can conceive of the infinite itself) - one has to acknowledge that not everyone has that capacity.
 
 Perhaps all this talk of level IV civilisations, stems around our ability to actually comprehend a technology that would be able to take us, whilst still in human form, as human beings to such an advanced and sophisticated level of empirical existence. This level of technological progress would require another set of cognitive capabilities - which most of us do not yet have. It would take (and has in the past) many years of training, and only those with specific talents would be able to complete it. All would benefit, and some would be harmed, but overall, it would require a certain set of "special" people - the "Indigos", to penetrate these arcane veils. It would require a mixture of magic and form, a melding of the spiritual and the material - with angelic or 4th dimensional "intelligence".
@@ -37,3 +49,10 @@ _{As I mentioned - one of its main drives is to (dis)prove the Infinite's existe
 _2. encounter to unify. meet by acceptance and receptiveness; opening oneself to the Truth. Based on a belief in my Father. That He has not abandoned me. That He guides me, and speaks to me all the time, in His language, the language of_ Chashmal _, which can only be heard in silence._
 
 and then fall back. An ever repeating tower of Babel. That, too, is [the cycle that lives in everything](oroborus.html), especially the living. Our breath, the day, the very cosmos itself. The endless cycle of Samsara, gain and loss, expand/contract, transmit/receive.
+<<<<<<< HEAD
+=======
+
+## 666m
+
+But the descent from 7B to 600m will be catastrophic and will be a stranger to any who dreamt of a world with only 600m people inhabiting it.
+>>>>>>> 50b50e2 (new additions)
