@@ -2,14 +2,9 @@
 title: TODO
 tags:
   - todo
-<<<<<<< HEAD
 eleventyExcludeFromCollections: true
 date: 2021-11-19T16:20:24.096Z
-modified: 2022-01-23T19:35:54.332Z
-=======
-date: 2021-11-19T16:20:24.096Z
-modified: 2021-11-26T13:44:18.269Z
->>>>>>> parent of ed60ee7 (Rebase complete)
+modified: 2022-01-28T14:42:23.763Z
 ---
 
 # TODO
@@ -71,8 +66,8 @@ lightning-bolt.png - tree of life diagram stuff
       1. [Private property](#private-property)
    10. [Sustainable](#sustainable)
    11. [Systems](#systems)
-      1. [Complex Systems](#complex-systems)
-   12. [Desire](#desire)
+   12. [Complex Systems](#complex-systems)
+   13. [Desire](#desire)
 
 ## Adam & Eve
 

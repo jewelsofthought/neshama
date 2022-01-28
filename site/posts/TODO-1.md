@@ -3,12 +3,8 @@ title: TODO - "files"
 description: These are the files in which information has to be added.
 tags:
   - todo
-<<<<<<< HEAD
 eleventyExcludeFromCollections: true
-modified: 2022-01-23T19:36:04.917Z
-=======
-modified: 2021-11-17T15:53:26.316Z
->>>>>>> parent of ed60ee7 (Rebase complete)
+modified: 2022-01-28T14:42:41.126Z
 ---
 
 [death]light*dark.html)
