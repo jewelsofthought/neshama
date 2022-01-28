@@ -7,6 +7,4 @@ netlify.toml
 node_modules/
 nohup.out
 package-lock.json
-package.json.start
-site/
 source/
