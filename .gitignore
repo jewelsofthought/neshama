@@ -1,10 +1,12 @@
-<<<<<<< HEAD
-node_modules/
-package-lock.json
+LICENSE
+Makefile.sphinx
+README.md
+TODO
 dist/
-site/vendors/
+netlify.toml
+node_modules/
 nohup.out
-=======
-site/assets/sass/bulma/
-site/assets/sass/fontawesome*/
->>>>>>> b325e1e (remove extraneous git indexed files)
+package-lock.json
+package.json.start
+site/
+source/

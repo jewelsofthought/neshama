@@ -4,86 +4,71 @@ description: TAE Questionnaire
 tags: null
 date: 2020-03-21T16:00:00.000Z
 <<<<<<< HEAD
-<<<<<<< HEAD
-modified: 2022-01-05T18:48:57.698Z
-=======
-modified: 2021-11-28T15:59:39.508Z
->>>>>>> 87dcb92 (renamed tolnet to tol)
+modified: 2022-01-27T08:02:51.349Z
 =======
 modified: 2022-01-05T18:48:57.698Z
->>>>>>> 67bd52a (Fixed bad links)
+>>>>>>> parent of ed60ee7 (Rebase complete)
 ---
 
 1. [Tree of Life Network (ToLNET) TAE](#tree-of-life-network-tolnet-tae)
-   1. [New Paradigm](#new-paradigm)
-   2. [Agenda of Change](#agenda-of-change)
-   3. [Vision: A web of communities](#vision-a-web-of-communities)
-   4. [Concept](#concept)
-   5. [Goal of the n/w:](#goal-of-the-nw)
-   6. [Ideal](#ideal)
-   7. [The Tree power dynamics](#the-tree-power-dynamics)
-   8. [By the people, for the people](#by-the-people-for-the-people)
-   9. [Stand up. Be counted](#stand-up-be-counted)
+   1. [Agenda of Change](#agenda-of-change)
+   2. [Vision: A web of communities](#vision-a-web-of-communities)
+   3. [Concept](#concept)
+   4. [Goal of the n/w:](#goal-of-the-nw)
+   5. [Ideal](#ideal)
+   6. [The Tree power dynamics](#the-tree-power-dynamics)
+   7. [By the people, for the people](#by-the-people-for-the-people)
+   8. [Stand up. Be counted](#stand-up-be-counted)
       1. [Questions](#questions)
       2. [Example: Organic/local produce](#example-organiclocal-produce)
       3. [TAE Stuff](#tae-stuff)
       4. [Web](#web)
-   10. [Benefits of a coherent social network](#benefits-of-a-coherent-social-network)
-   11. [Information:](#information)
-   12. [Connection:](#connection)
-   13. [Markets for products:](#markets-for-products)
-   14. [Education/Training:](#educationtraining)
-   15. [Support:](#support)
-   16. [Transparency:](#transparency)
-   17. [Consolidation:](#consolidation)
-   18. [Commercial force:](#commercial-force)
-   19. [Voting block:](#voting-block)
-   20. [Community:](#community)
-   21. [Empowerment:](#empowerment)
-   22. [People centric:](#people-centric)
-   23. [Requirements:](#requirements)
-   24. [Belief](#belief)
-   25. [Faith](#faith)
-   26. [Commitment](#commitment)
-   27. [Support](#support-1)
-   28. [Confidentiality](#confidentiality)
-   29. [Responsibility](#responsibility)
-   30. [Trust](#trust)
-   31. [Transparency](#transparency-1)
-   32. [Truthful](#truthful)
-   33. [4 Noble TruthsNo stealing, no lying.](#4-noble-truthsno-stealing-no-lying)
-   34. [Principles:](#principles)
-   35. [Purpose](#purpose)
-   36. [Goal](#goal)
-   37. [1 million](#1-million)
-   38. [The Tree](#the-tree)
-   39. [One sentence statement:](#one-sentence-statement)
-   40. [Parables](#parables)
-   41. [Freedom:](#freedom)
-   42. [Web:](#web-1)
-   43. [Vision:](#vision)
-   44. [Fractal coherence:](#fractal-coherence)
-       1. [Triangles: smallest component](#triangles-smallest-component)
-   45. [Unification](#unification)
-   46. [Join the network](#join-the-network)
-   47. [Affinity](#affinity)
-   48. [Group dynamics:](#group-dynamics)
-   49. [Sponsors](#sponsors)
-   50. [Cluster](#cluster)
-   51. [Truth temples](#truth-temples)
-   52. [Communications network](#communications-network)
+   9. [Benefits of a coherent social network](#benefits-of-a-coherent-social-network)
+      1. [Information:](#information)
+      2. [Connection:](#connection)
+      3. [Markets for products:](#markets-for-products)
+      4. [Education/Training:](#educationtraining)
+      5. [Support:](#support)
+      6. [Transparency:](#transparency)
+      7. [Consolidation:](#consolidation)
+      8. [Commercial force:](#commercial-force)
+      9. [Voting block:](#voting-block)
+      10. [Community:](#community)
+      11. [Empowerment:](#empowerment)
+   10. [People centric:](#people-centric)
+   11. [Requirements:](#requirements)
+      1. [Belief](#belief)
+      2. [Faith](#faith)
+      3. [Commitment](#commitment)
+      4. [Support](#support-1)
+      5. [Confidentiality](#confidentiality)
+      6. [Responsibility](#responsibility)
+      7. [Trust](#trust)
+      8. [Transparency](#transparency-1)
+      9. [Truthful](#truthful)
+   12. [4 Noble TruthsNo stealing, no lying.](#4-noble-truthsno-stealing-no-lying)
+   13. [Principles:](#principles)
+   14. [Purpose](#purpose)
+   15. [Goal](#goal)
+      1. [1 million](#1-million)
+   16. [The Tree](#the-tree)
+   17. [One sentence statement:](#one-sentence-statement)
+   18. [Parables](#parables)
+      1. [Freedom:](#freedom)
+      2. [Web:](#web-1)
+      3. [Vision:](#vision)
+      4. [Fractal coherence:](#fractal-coherence)
+         1. [Triangles: smallest component](#triangles-smallest-component)
+   19. [Unification](#unification)
+   20. [Join the network](#join-the-network)
+   21. [Affinity](#affinity)
+   22. [Group dynamics:](#group-dynamics)
+   23. [Sponsors](#sponsors)
+   24. [Cluster](#cluster)
+   25. [Truth temples](#truth-temples)
+   26. [Communications network](#communications-network)
 
 # Tree of Life Network (ToLNET) TAE
-
-## New Paradigm
-
-The new paradigm’s lack of rootedness requires a system of communication and organisation which will enable it to embed itself in the current reality, in order to implement the necessary dynamics for a better future to emerge.
-
-Sage: "Only purpose (evolution) is to evolve into a better version of your previous self"
-
-I hear much talk of the coming paradigm shift, and am a believer myself in the necessity of such a shift. I have heard many versions of what this shift will look like, what it will be, where it comes from and perhaps even to what it is to become.
-
-[Piece on “new paradigm” vs. “current paradigm”.](paradigm_shift.html) Includes "process philosophy".
 
 ## Agenda of Change
 
@@ -172,15 +157,7 @@ What do I know about this concept?
 5. Economics:
    As a tree requires sap to live, so this tree will require currency - to evaluate interactions - that are the sap of our lives, and to flourish.
 6. Network structure:
-<<<<<<< HEAD
-<<<<<<< HEAD
    A form of this structure exists in almost all organisations. As a graph, it is a generalisation of all organisational structure - similar to a [wave](/posts/qkab/waves/). What I wish to create is the structure on which this can express itself. This is, in fact, just an example of the way all social movements and in fact, all effective social constructs have organised themselves throughout the ages. All brotherhoods, guilds and ruling elites.
-=======
-   A form of this structure exists in almost all organisations. As a graph, it is a generalisation of all organisational structure - similar to a [wave](/qkab/waves.md). What I wish to create is the structure on which this can express itself. This is, in fact, just an example of the way all social movements and in fact, all effective social constructs have organised themselves throughout the ages. All brotherhoods, guilds and ruling elites.
->>>>>>> 87dcb92 (renamed tolnet to tol)
-=======
-   A form of this structure exists in almost all organisations. As a graph, it is a generalisation of all organisational structure - similar to a [wave](/posts/qkab/waves/). What I wish to create is the structure on which this can express itself. This is, in fact, just an example of the way all social movements and in fact, all effective social constructs have organised themselves throughout the ages. All brotherhoods, guilds and ruling elites.
->>>>>>> 67bd52a (Fixed bad links)
 7. Benefits/SpinOffs:
    Once the network manifests, there will be many spin-offs - just as we saw with the internet, and its spawn, the Web. It is about clearing and prepping the ground for the seeds to be planted, creating fertile ground for other expressions of the paradigm shift to emerge. It will be a space for projects, structures and applications.
 8. Organic:

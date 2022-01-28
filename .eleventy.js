@@ -78,7 +78,7 @@ module.exports = function(eleventyConfig) {
   });
 
   function filterTagList(tags) {
-    return (tags || []).filter(tag => ["all", "nav", "post", "posts", "neshama"].indexOf(tag) === -1).sort();
+    return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1).sort();
   }
 
   eleventyConfig.addFilter("filterTagList", filterTagList)

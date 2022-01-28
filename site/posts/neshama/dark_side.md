@@ -3,24 +3,12 @@ title: Who/What is G-d?
 description: There is both the dark and the light side of everything
 tags: null
 date: 2021-12-31T13:59:35.698Z
-<<<<<<< HEAD
-<<<<<<< HEAD
 modified: 2022-01-04T15:21:56.465Z
-=======
-modified: 2022-01-01T14:12:17.024Z
->>>>>>> 3a25aed (Added more articles)
-=======
-modified: 2022-01-04T15:21:56.465Z
->>>>>>> 952b01a (From Work/Tol/Draw)
 ---
 
 1. [Who/What is G-d?](#whowhat-is-g-d)
    1. [All is One](#all-is-one)
    2. [Hidden Face](#hidden-face)
-   3. [Web](#web)
-   4. [Legal entities](#legal-entities)
-   5. [Empirical Science](#empirical-science)
-   6. [Fish](#fish)
 
 ## Dark Side
 
@@ -66,11 +54,3 @@ Just as you (and I) have an outer aspect with which we engage in the outside wor
 And many of us are driven by a deep desire to find an other with whom you can share that deep connection, deep enough to open that hidden aspect to them, and hope they will respond with love. That is the place of One, the hidden Face of G-d.
 
 ---
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-
--
->>>>>>> 3a25aed (Added more articles)
-=======
->>>>>>> 952b01a (From Work/Tol/Draw)

@@ -1,10 +1,9 @@
 ---
-title: Taxonomy
-description: Technical term for organising information
-tags:
-  - comp
+title: Membership
+description: Membership options
+tags: null
 date: 2021-10-19T20:30:21.600Z
-modified: 2022-01-22T17:39:49.149Z
+modified: 2021-12-22T09:19:32.312Z
 ---
 
 The question and challenge that always comes up regarding the ability to create regular content on a continual basis is how to organize content. Should we use categories or tags?

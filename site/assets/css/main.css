@@ -1,8 +1,4 @@
 @charset "UTF-8";
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> bd5d2f3 (Added bulma & font-awesome compiled)
 /*! bulma.io v0.7.2 | MIT License | github.com/jgthms/bulma */
 @keyframes spinAround {
   from {
@@ -8952,11 +8948,6 @@ a.tag:hover {
   vertical-align: top;
 }
 
-<<<<<<< HEAD
-=======
->>>>>>> e769718 (Rearranged some paths, cleaned up a bit)
-=======
->>>>>>> bd5d2f3 (Added bulma & font-awesome compiled)
 html {
   height: 100%;
   overflow-y: auto;
@@ -8986,11 +8977,6 @@ footer.site-footer {
   padding-top: 5rem;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 0ad8ad4 (Moved master on local to main)
 /* stylelint-disable selector-list-comma-newline-after */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display", Georgia, "Times New Roman", serif;
@@ -9031,19 +9017,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: 20px;
   }
 }
-<<<<<<< HEAD
-=======
-body {
-  background-image: url("../images/funky-lines.png");
-}
-
-.tag {
-  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
-}
-
->>>>>>> e769718 (Rearranged some paths, cleaned up a bit)
-=======
->>>>>>> 0ad8ad4 (Moved master on local to main)
 /* copy-paste from box.sass */
 /* decoration : border, shadow, rounded */
 .box-deco {
@@ -9104,52 +9077,6 @@ a.box-deco:hover, a.box-deco:focus, a.box-deco:active {
   transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-/* stylelint-disable selector-list-comma-newline-after */
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
-}
-
-/* * Blog posts
- * */
-.blog-post {
-  margin-bottom: 4rem;
-}
-
-.blog-post-title {
-  margin-bottom: 0.25rem;
-  font-size: 2.5rem;
-}
-
-.blog-post-meta {
-  margin-bottom: 1.25rem;
-  color: #999;
-}
-
-.blog-sidebar, .blog-post {
-  margin-left: 20px;
-  margin-right: 20px;
-}
-
-.blog-post-meta {
-  margin-bottom: 5px;
-}
-
-@media screen and (max-width: 768px) {
-  .blog-column {
-    margin-bottom: 20px;
-  }
-}
-@media screen and (min-width: 769px), print {
-  .blog-column {
-    margin-right: 20px;
-  }
-}
->>>>>>> e769718 (Rearranged some paths, cleaned up a bit)
-=======
->>>>>>> 0ad8ad4 (Moved master on local to main)
 /* copy-paste from message.sass */
 .panel {
   background-color: whitesmoke;
@@ -9300,158 +9227,6 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom-right-radius: 10px;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-.archive-p3 {
-  padding-left: 15px;
-}
-
-.archive-p4 {
-  padding-left: 20px;
-}
-
-div.archive-month,
-div.archive-item {
-  position: relative;
-}
-
-div.archive-item a:before {
-  position: absolute;
-  left: -15px;
-  font-family: "Font Awesome 5 Free";
-  content: "\f054";
-  color: #7b8a8b;
-}
-
-div.archive-month:before {
-  position: absolute;
-  left: -20px;
-  font-family: "Font Awesome 5 Free";
-  content: "\f073";
-  color: #0a0a0a;
-}
-
-.archive-item:hover:before {
-  color: #802020;
-}
-
-ul.archive-item,
-ul.archive-item ul {
-  position: relative;
-  list-style: none;
-}
-
-ul.archive-item li:before {
-  position: relative;
-  left: -15px;
-  content: "»";
-  color: #802020;
-}
-
-.archive-year {
-  font-weight: bold;
-}
-
-.archive-list .archive-item:nth-child(even) {
-  background-color: #ededed;
-}
-.archive-list .archive-item:nth-child(odd) {
-  background-color: #e8e8e8;
-}
-.archive-list .archive-item:hover {
-  background-color: #f9dc47;
-}
-
-.archive-list li:nth-child(even),
-.main-content li li:nth-child(even) {
-  background-color: whitesmoke;
-}
-.archive-list li:nth-child(odd),
-.main-content li li:nth-child(odd) {
-  background-color: #e8e8e8;
-}
-
-.meta-item:nth-child(even) {
-  background-color: whitesmoke;
-}
-
-.meta-item:nth-child(odd) {
-  background-color: #e8e8e8;
-}
-
-.meta-item:hover {
-  background-color: #f7d316;
-}
-
-li.even {
-  background-color: whitesmoke;
-}
-
-li.odd {
-  background-color: #e8e8e8;
-}
-
-.blog-post .main-content li p {
-  display: inline;
-}
-
-.blog-post .main-content li {
-  padding-left: 0;
-  list-style: none;
-  margin-left: 20px;
-}
-
-.card-body .archive-year a:hover,
-ul li.list-month a:hover,
-ul.panel-list li:hover {
-  background: #fae160;
-}
-
-ul.archive-month,
-ul.archive-item,
-ul.panel-list {
-  padding: 0px;
-}
-
-ul#search_results,
-ul.panel-list {
-  padding-left: 0;
-  list-style: none;
-  font-size: 13px;
-  margin-left: 20px;
-}
-
-ul.panel-archive li.list-month {
-  padding-left: 20px;
-  list-style: none;
-  margin-left: 0px;
-}
-
-.blog-post .main-content li:before,
-ul#search_results li:before,
-ul.panel-list li:before {
-  font-family: "Font Awesome 5 Free";
-  content: "\f054";
-  color: #7b8a8b;
-  margin: 0 5px 0 -12px;
-}
-
-ul li.list-month:before {
-  font-family: "Font Awesome 5 Free";
-  content: "\f073";
-  color: #0a0a0a;
-  margin: 0 5px 0 -12px;
-}
-
-ul#search_results li:hover:before,
-ul.panel-list li:hover:before {
-  color: #f7d316;
-}
-
->>>>>>> e769718 (Rearranged some paths, cleaned up a bit)
-=======
->>>>>>> 0ad8ad4 (Moved master on local to main)
 /* * Blog posts
  * */
 .blog-post {
@@ -9490,9 +9265,4 @@ a.post-next:before {
   content: "next ";
 }
 
-<<<<<<< HEAD
-=======
->>>>>>> bd5d2f3 (Added bulma & font-awesome compiled)
-=======
->>>>>>> 0ad8ad4 (Moved master on local to main)
 /*# sourceMappingURL=main.css.map */

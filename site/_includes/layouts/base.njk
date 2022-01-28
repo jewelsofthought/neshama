@@ -5,8 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title or metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}">
-<<<<<<< HEAD
-<<<<<<< HEAD
     
     <!--link rel="stylesheet" href="{{ '/assets/css/index.css' | url }}"-->
     <link rel="stylesheet" href="{{ '/assets/fonts/fontawesome.min.css' | url }}">
@@ -16,7 +14,7 @@
     
    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
-    <!--link rel="stylesheet" href="{{ '/assets/css/debug.min.css' | url }}"-->
+    <!--link rel="stylesheet" href="{{ '/assets/css/debug.css' | url }}"-->
 
   </head>
   <body>
@@ -28,10 +26,12 @@
     
     <!--content -->
     <div class="container">
-      <div class="columns is-8 layout-base">
+      <div class="columns layout-base">
+      <div class="column is-offset-1 is-10">
         <main role="main" class="content{% if templateClass %} {{ templateClass }}{% endif %}">
         {{ content | safe }}
         </main>
+      </div>
       </div>
      </div>
   
@@ -41,86 +41,7 @@
     <!-- Javascript (at end of document) -->
     <script src="/assets/js/vue.min.js"></script>
 
-<<<<<<< HEAD
-    <script src="assets/js/bulma-burger-vue.js"></script>
-=======
-    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
-=======
->>>>>>> b41625c (Bulma inserted. Not clean yet. (Postcss?))
-    
-    <!--link rel="stylesheet" href="{{ '/assets/css/index.css' | url }}"-->
-    <link rel="stylesheet" href="{{ '/assets/fontawesome/fontawesome.min.css' | url }}">
-    <link rel="stylesheet" href="{{ '/assets/fontawesome/solid.min.css' | url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/katex.min.css' | url }}">
-    
-   <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
-    <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
-    <!--link rel="stylesheet" href="{{ '/assets/css/debug.min.css' | url }}"-->
-
-  </head>
-  <body>
-    <!--header -->
-    <header>
-      {% include "nav.njk" %}
-    </header>
-
-    <!--content -->
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
-
-      {{ content | safe }}
-    </main>
-
-<<<<<<< HEAD
-    <footer></footer>
->>>>>>> 0ef9b37 (Initial Commit)
-=======
-=======
-    <div class="columns is 8 layout-base maxwidth">
-=======
-    <div class="columns is-8 layout-base">
->>>>>>> 2b4ebe5 (Fixed some errors)
-      <main role="main" class="content{% if templateClass %} {{ templateClass }}{% endif %}">
-      {{ content | safe }}
-      </main>
-=======
-    <div class="container">
-
-      <div class="columns is-8 layout-base">
-        <main role="main" class="content{% if templateClass %} {{ templateClass }}{% endif %}">
-        {{ content | safe }}
-        </main>
-      </div>
->>>>>>> 0ad8ad4 (Moved master on local to main)
-    </div>
-  
->>>>>>> ff5b9f9 (Fixed 1st stage look. Added Nav & Footer. Placed post correctly.)
-    <!--footer -->
-    {% include "footer.njk" %}
-
-    <!-- Javascript (at end of document) -->
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <script src="js/bulma-burger-vue.js"></script>
->>>>>>> 263bb80 (Adding bulma to 11ty-blog)
-=======
-    <script src="/js/bulma-burger-vue.js"></script>
->>>>>>> b41625c (Bulma inserted. Not clean yet. (Postcss?))
-=======
     <script src="/assets/js/bulma-burger-vue.js"></script>
->>>>>>> 32a88d9 (Removing dependency on index.css. Fixed tags look)
-=======
-    <script src="assets/js/vue.min.js"></script>
-
-    <script src="assets/js/bulma-burger-vue.js"></script>
->>>>>>> 0ad8ad4 (Moved master on local to main)
-=======
-    <script src="/assets/js/bulma-burger-vue.js"></script>
->>>>>>> 02579ba (Fixed page layout)
 
     <!-- Current page: {{ page.url | url }} -->
   </body>

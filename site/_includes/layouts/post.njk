@@ -3,24 +3,17 @@ layout: layouts/base.njk
 templateClass: tmpl-post
 ---
 <<<<<<< HEAD
-<<<<<<< HEAD
+<div class="blog-column box-deco has-background-white">
 =======
->>>>>>> b41625c (Bulma inserted. Not clean yet. (Postcss?))
 <div class="column blog-column box-deco has-background-white">
+>>>>>>> parent of ed60ee7 (Rebase complete)
 
   <div class="blog-post">
     <section class="box">
       <div class="main_title">
         <h4 class="title is-4 blog-post-title" itemprop="name headline">
         <a href="#">{{ title }}</a>
-<<<<<<< HEAD
-<<<<<<< HEAD
       </div>
-=======
->>>>>>> b41625c (Bulma inserted. Not clean yet. (Postcss?))
-=======
-      </div>
->>>>>>> 32a88d9 (Removing dependency on index.css. Fixed tags look)
 
     <div class="is-clearfix"></div>
 
@@ -46,39 +39,17 @@ templateClass: tmpl-post
 
     <div class="is-clearfix"></div>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
     {%- if description %}
       <h3>Description:</h3>
       <p>{{ description }}</p>
       <hr class="is-black"/>
     {%- endif %}
 
-=======
-
-=======
-    
->>>>>>> 32a88d9 (Removing dependency on index.css. Fixed tags look)
-=======
->>>>>>> 0ad8ad4 (Moved master on local to main)
-    {%- if description %}
-      <h3>Description:</h3>
-      <p>{{ description }}</p>
-      <hr class="is-black"/>
-    {%- endif %}
-<<<<<<< HEAD
->>>>>>> b41625c (Bulma inserted. Not clean yet. (Postcss?))
-=======
-
->>>>>>> 5a455d5 (Returned to pristine state)
     <div class="main-content">
       {{ content | latex | safe }}
     </div>
 
     {%- if collections.posts %}
-<<<<<<< HEAD
-<<<<<<< HEAD
       {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
       {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
       {%- if nextPost and not nURL %}
@@ -99,62 +70,3 @@ templateClass: tmpl-post
     {%- endif %}
   </div>
 </div>
-=======
-<h1>{{ title }}</h1>
-
-<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
-{%- for tag in tags | filterTagList -%}
-{%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
-<a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
-{%- endfor %}
-
-{%- if description %}
-	<h3>Description:</h3>
-	<p>{{ description }}</p>
-{%- endif %}
-
-{{ content | safe }}
-
-{%- if collections.posts %}
-{%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-{%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-{%- if nextPost or previousPost %}
-<hr>
-<ul>
-  {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
-  {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
-</ul>
-{%- endif %}
-{%- endif %}
->>>>>>> 0ef9b37 (Initial Commit)
-=======
-    {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-    {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-    {%- if nextPost or previousPost %}
-=======
-      {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-      {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-<<<<<<< HEAD
-      {%- if nextPost or previousPost %}
->>>>>>> 5a455d5 (Returned to pristine state)
-=======
-      {%- if nextPost and not nURL %}
-        {%- set nURL = nextPost.url %} 
-        {%- set nTitle = nextPost.data.title %}
-      {%- endif %}
-
-      {%- if previousPost and not pURL %}
-        {%- set pURL = previousPost.url %}
-        {%- set pTitle = previousPost.data.title %}
-      {%- endif %}
-  
->>>>>>> 684e6e7 (Updated info)
-    <hr>
-    <ul>
-      {%- if nURL and nTitle %}<li>Next: <a href="{{ nURL | url }}">{{ nTitle }}</a></li>{% endif %}
-      {%- if pURL and pTitle %}<li>Previous: <a href="{{ pURL | url }}">{{ pTitle }}</a></li>{% endif %}
-    </ul>
-    {%- endif %}
-  </div>
-</div>
->>>>>>> b41625c (Bulma inserted. Not clean yet. (Postcss?))

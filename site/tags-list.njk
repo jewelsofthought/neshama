@@ -4,8 +4,6 @@ layout: layouts/home.njk
 ---
 <h1>Tags</h1>
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 {% for tag in collections.tagList  %}
   {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
   <a href="{{ tagUrl | url }}"> <span class="tag is-light is-small">
@@ -17,22 +15,3 @@ layout: layouts/home.njk
 {% endfor %}
 
 
-=======
-{% for tag in collections.tagList %}
-=======
-{% for tag in collections.tagList  %}
->>>>>>> 32a88d9 (Removing dependency on index.css. Fixed tags look)
-  {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
-  <a href="{{ tagUrl | url }}"> <span class="tag is-light is-small">
-    <span class="fa fa-tag"></span>
-    &nbsp;
-    {{ tag }}
-    </span>
-  </a>
-{% endfor %}
-<<<<<<< HEAD
->>>>>>> 0ef9b37 (Initial Commit)
-=======
-
-
->>>>>>> 32a88d9 (Removing dependency on index.css. Fixed tags look)

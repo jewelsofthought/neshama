@@ -2,30 +2,10 @@
 title: The Beginnings of Desire
 author: Aviva Zornberg
 description: Reflections on Genesis
-<<<<<<< HEAD
-<<<<<<< HEAD
 tags:
   - todo
 date: 2021-12-26T14:51:36.482Z
 modified: 2022-01-11T17:30:06.374Z
-=======
-tags: null
-date: 2021-12-26T14:51:36.482Z
-<<<<<<< HEAD
->>>>>>> ae79aa5 (Addtions)
-=======
-modified: 2021-12-28T06:13:29.725Z
->>>>>>> eb5986d (Some more)
-=======
-tags:
-  - todo
-date: 2021-12-26T14:51:36.482Z
-<<<<<<< HEAD
-modified: 2022-01-06T13:18:14.559Z
->>>>>>> fd88bae (minor changes)
-=======
-modified: 2022-01-11T17:30:06.374Z
->>>>>>> 15dc9f6 (Fixed math inserts)
 ---
 
 GENESIS
@@ -17054,15 +17034,7 @@ RABBAH
 79:10, 228 [n.21]
 80:3, 221 [n.l9]
 81:2, 223 [n.10]
-<<<<<<< HEAD
-<<<<<<< HEAD
 82:9, 215 [n.85]
-=======
-$2:9, 215 [n.85]
->>>>>>> ae79aa5 (Addtions)
-=======
-82:9, 215 [n.85]
->>>>>>> 15dc9f6 (Fixed math inserts)
 84:1, 244 /n.2/
 84:13, 269 [n.34], 41 ln.34
 84:19, 52*
@@ -17187,15 +17159,7 @@ II, 22
 191-198, 201-202
 [n.65]y 401n.35
 U,200[n.51]
-<<<<<<< HEAD
-<<<<<<< HEAD
 18, 250 [n.l]
-=======
-1$, 250 [n.l]
->>>>>>> ae79aa5 (Addtions)
-=======
-18, 250 [n.l]
->>>>>>> 15dc9f6 (Fixed math inserts)
 Sifrei, 413n.l6
 DEUTERONOMY
 11:17, 296

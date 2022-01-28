@@ -3,15 +3,7 @@ title: Pieces
 description: null
 tags: null
 date: 2021-11-10T09:58:27.423Z
-<<<<<<< HEAD
-<<<<<<< HEAD
 modified: 2021-11-15T12:22:43.497Z
-=======
-modified: 2021-11-11T10:40:05.591Z
->>>>>>> 50b50e2 (new additions)
-=======
-modified: 2021-11-15T12:22:43.497Z
->>>>>>> c6f2d62 (Update)
 ---
 
 1. [Ecc 4:17](#ecc-417)
@@ -70,10 +62,6 @@ In Hebrew, _Hashem_ is not even the second word. In fact, it is the third and th
 
 - Note that here the word ניצב ־ ניצבים is used for standing over him. Whereas in verse 8, the more common word אומד is used when Abraham, the man, is "stands over" the angels.
 - Why are angels traditionally represented as male?
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> c6f2d62 (Update)
 
 ---
 
@@ -131,8 +119,3 @@ A rabbi once offered the following analogy:
 In _galut_ ("exile") the Jewish conscience lies dormant, the soul unable to express and actualize its G‑dly awareness and feelings. The cure to this state of spiritual coma is the Jew's selfless submission of the role he must play in the Divine plan--a role that transcends emotion and intellect. It is this simple loyalty to G‑d that restores the Jew's essential relationship with Him.
 
 Though Mordechai was a Benjaminite, he is called _Yehudi_ ("Jew") which literally means a descendant of the tribe of _Yehudah_ (Judah). Likewise, throughout the _Megillah_, the entire Jewish people are called _Yehudim_, without distinction of tribal origin. For _Yehudi_ is of the same root as _hoda'ah_ which means "to acknowledge" and "to accept". This title describes the core of the Jew, his untouchable essence.
-<<<<<<< HEAD
-=======
->>>>>>> 50b50e2 (new additions)
-=======
->>>>>>> c6f2d62 (Update)

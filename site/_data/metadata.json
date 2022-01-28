@@ -1,6 +1,4 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
   "title": "Neshamah",
   "url": "https://blog.neshama.com/",
   "language": "en",
@@ -17,47 +15,7 @@
   },
   "author": {
     "name": "Yehuda ben Aaron",
-<<<<<<< HEAD
     "email": "yehuda@neshama.com",
     "url": "https://blog.neshama.com/about/"
-=======
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-=======
-  "title": "Neshamah",
-<<<<<<< HEAD
-  "url": "https://neshama.com/",
->>>>>>> d33a7a6 (Meta changes)
-=======
-  "url": "https://blog.neshama.com/",
->>>>>>> 32a88d9 (Removing dependency on index.css. Fixed tags look)
-  "language": "en",
-  "description": "Exploring the soul",
-  "feed": {
-    "subtitle": "A journey into the imaginarium.",
-    "filename": "feed.xml",
-    "path": "/feed/feed.xml",
-    "id": "https://blog.neshama.com/"
-  },
-  "jsonfeed": {
-    "path": "/feed/feed.json",
-    "url": "https://blog.neshama.com/feed/feed.json"
-  },
-  "author": {
-    "name": "Your Name Here",
-<<<<<<< HEAD
-    "email": "youremailaddress@example.com",
-<<<<<<< HEAD
-    "url": "https://example.com/about-me/"
->>>>>>> 0ef9b37 (Initial Commit)
-=======
-    "url": "https://neshama.com/about-me/"
->>>>>>> d33a7a6 (Meta changes)
-=======
-=======
->>>>>>> 0ad8ad4 (Moved master on local to main)
-    "email": "yehuda@neshama.com",
-    "url": "https://blog.neshama.com/about/"
->>>>>>> 32a88d9 (Removing dependency on index.css. Fixed tags look)
   }
 }

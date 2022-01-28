@@ -2,15 +2,7 @@
 title: Doctrine of Original Beauty
 description: Writings
 tags: null
-<<<<<<< HEAD
-<<<<<<< HEAD
 modified: 2022-01-05T18:52:01.857Z
-=======
-modified: 2021-11-09T15:29:59.677Z
->>>>>>> 50b50e2 (new additions)
-=======
-modified: 2022-01-05T18:52:01.857Z
->>>>>>> 67bd52a (Fixed bad links)
 ---
 
 ## Man is NOT evil. Man is GOOD.
@@ -36,15 +28,7 @@ If God is Good, why create evil people? No. Rather, why create everyone evil, an
 
 If one has a purpose, would you not want those that you exercise influence and control over to be performing their true work, expressing their G-d given gifts for the benefit of all? In other words, would not a true leader look after his people - not like a shepherd herding his sheep because as is said: "The sheep spend all their lives afraid of the wolf, when it is the shepherd who they need to fear!"? Ensure and enable them to express their best, obey the will of G-d, so as to say? Would not a King have to be a priest as well? Or at least a Shaman? Able to guide His people - just like Moses?
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Instead we fritter our way our time and resources, and many lives, fighting this very evil placed in us? Perhaps this acceptance of an intrinsic sin in the human being is incorrect. We arrive neither intrinsically good nor bad and are formed and "taught" by the influences and general environment we grow up in. We are shaped by what we encounter during our "[awakening into consciousness](/posts/qkab/consciousness/)".
-=======
-Instead we fritter our way our time and resources, and many lives, fighting this very evil placed in us? Perhaps this acceptance of an intrinsic sin in the human being is incorrect. We arrive neither intrinsically good nor bad and are formed and "taught" by the influences and general environment we grow up in. We are shaped by what we encounter during our "[awakening into consciousness](../consciousness.md)".
->>>>>>> 50b50e2 (new additions)
-=======
-Instead we fritter our way our time and resources, and many lives, fighting this very evil placed in us? Perhaps this acceptance of an intrinsic sin in the human being is incorrect. We arrive neither intrinsically good nor bad and are formed and "taught" by the influences and general environment we grow up in. We are shaped by what we encounter during our "[awakening into consciousness](/posts/qkab/consciousness/)".
->>>>>>> 67bd52a (Fixed bad links)
 
 - If you are surrounded by love, you learn love
 - If you are surrounded by anger and violence, you learn love that is consists of anger and violence...

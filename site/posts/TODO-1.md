@@ -3,8 +3,12 @@ title: TODO - "files"
 description: These are the files in which information has to be added.
 tags:
   - todo
-eleventyExcludeFromCollection: true
-modified: 2022-01-22T17:37:11.431Z
+<<<<<<< HEAD
+eleventyExcludeFromCollections: true
+modified: 2022-01-23T19:36:04.917Z
+=======
+modified: 2021-11-17T15:53:26.316Z
+>>>>>>> parent of ed60ee7 (Rebase complete)
 ---
 
 [death]light*dark.html)
@@ -25,7 +29,7 @@ modified: 2022-01-22T17:37:11.431Z
 [partial consensus](partial_consensus.html)
 [Ark](ark.html)
 [Freedom](freedom.html)
-[\_partial consensus*](consensus.html)
+[partial consensus*](consensus.html)
 [energy exchange](energy_exchange.html)
 ./tolnet/old/tae_questions.md
 [Def. of Graph](http://sole.dimi.uniud.it/~massimo.franceschet/networks/nexus/examples.html

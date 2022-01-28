@@ -6,7 +6,7 @@ date: 2020-08-22T16:00:00.000Z
 tags:
   - qkab
   - dimensions
-modified: 2021-09-24T19:30:07.148Z
+modified: 2022-01-26T13:37:24.380Z
 ---
 
 1. [3d designs for 4d systems](#3d-designs-for-4d-systems)
@@ -14,10 +14,13 @@ modified: 2021-09-24T19:30:07.148Z
 
 ## 3d designs for 4d systems
 
-By using 3d designs to build 4d structures, we are only perpetuating the 4d paradigm we are presently struggling with. We have to being to perceive our existence and what is happening and why from a 4d perspective, using the 3d structures, but not being constrained by its strictures.
-One could the 4d as movement in 3d. In fact, it is through this very movement/change of 3d objects, that have enabled us to discover and describe the 4d version of said 3d object. Only through some movement, some change of state in 3d, that we could not describe using our 3d mathematical tools, could we even become aware of the possibility of the existence of such a 4d entity, leading us to more accurate (4d) descriptions (of the 3d empirical experience of matter). We describe the 4d objects as a composite of what we know, 3d objects – just as 2d may form a composite of 3d forms.
-And just as 2d is highly effective in a 3d environment, it is limited and be predicted and controlled from a 3d perspective... so it is regarding one who has a 4d perspective on our 3d existence.
-Up till now, we have presented this 4d landscape in religious, mythological and sociological terms, emphasising the qualities of love, kindness, humility, gentleness, etc. Though it includes pride, greed, lust, desire, etc. too. One could describe this as the 4d aspect of human beings, an unpredictable indescribable experience that that can have huge effect on our lives. Even among the aspects of 4d that we do know or recognise, they all “suffer” from unpredicable, yet known, behaviour. That is, although we know how it behaves, we cannot say what it will do at any moment with any certainty, until it has already done it (made its choice – so as to say).
+By using 3d designs to build 4d structures, we are only perpetuating the 4d paradigm we are presently struggling with. We have to being to perceive our existence and what is happening and why from a 4d perspective, using 3d structures, in order to untangle the mess we currently find ourselves in.
+
+One could view 4d as movement in 3d. In fact, it is through this very movement/change of 3d objects, that have enabled us to discover and describe the 4d version of said 3d object. Only through some movement, some change of state in 3d, that we could not describe using our 3d mathematical tools, could we even become aware of the possibility of the existence of such a 4d version. This led to more accurate (4d) descriptions (of the 3d empirical experience of matter). We describe the 4d objects as a composite of what we know&mdash;3d objects&mdash;just as a 2d description may form a composite of 3d form.
+
+Although a 2d perspective is highly effective in a 3d environment, it is limited, and predictable, and thus can be easily controlled from a 3d perspective. So it is regarding one who has a 4d perspective on our 3d existence.
+
+Up till now, we have presented this 4d landscape in religious, mythological and sociological terms, emphasising the qualities of love, kindness, humility, gentleness, etc. Though it includes pride, greed, lust, desire, etc. too. One could describe this as the 4d aspect of human beings, an unpredictable indescribable experience that that can have huge effect on our lives. Even among the aspects of 4d that we do know or recognise, they all “suffer” from unpredictable, yet known, behaviour. That is, although we know how it behaves, we cannot say what it will do at any moment with any certainty, until it has already done it (made its choice – so as to say).
 
 ---
 

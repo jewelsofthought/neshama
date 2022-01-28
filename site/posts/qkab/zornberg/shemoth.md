@@ -4,8 +4,6 @@ author: Aviva Zornberg
 description: The Mirror of Redemption
 tags: null
 date: 2021-12-26T14:51:07.321Z
-<<<<<<< HEAD
-<<<<<<< HEAD
 modified: 2021-12-27T08:50:46.274Z
 ---
 
@@ -14,21 +12,6 @@ modified: 2021-12-27T08:50:46.274Z
    2. ["And they swarmed... &mdash;Blessings or Critique?](#and-they-swarmed-blessings-or-critique)
    3. [Anonymity and Silence](#anonymity-and-silence)
 
-=======
-modified: 2021-12-26T18:49:24.348Z
----
-
->>>>>>> ae79aa5 (Addtions)
-=======
-modified: 2021-12-27T08:50:46.274Z
----
-
-1. [Fit for Redemption? The Human Context](#fit-for-redemption-the-human-context)
-   1. [Israel and Egypt: The Mosaic Distinction](#israel-and-egypt-the-mosaic-distinction)
-   2. ["And they swarmed... &mdash;Blessings or Critique?](#and-they-swarmed-blessings-or-critique)
-   3. [Anonymity and Silence](#anonymity-and-silence)
-
->>>>>>> eb5986d (Some more)
 ## Fit for Redemption? The Human Context
 
 ### Israel and Egypt: The Mosaic Distinction
@@ -70,10 +53,6 @@ The names that begin&mdash;and entitle&mdash; the book are a marker for loss, as
 Another feature of the "anonymity" is the silence of all the voices but Pharaoh's. Implicit in the "swarming" modality is a vision of a primal, pre-linguistic stage of evolution, of masses of proliferating, reptilian creatures, who utter no response to Pharaoh's scheme, but move in a compelled surge towards the abyss. Language has failed; even the suffering, the harsh labour, the bitterness of their lives elicits on protest, not even an audible groan&mdash;no expression of awareness, of memory, outrage or hope.
 
 In this silence, the paradox of fertility is emphasised: "the more they were oppressed, the more they increased (_ken yirbeh_) and spread out, so that the Egyptians were sickened by the Israelites" (1:12). To the Egyptians, there is someting repulsive about the silent fecundity of the people. Contrary to normal behaviour patterns, harsh treatment, exhaustion, the unbearable weight of Egypt's burdens only serve, apparently, to make them reproduce more rapidly. Human language, Pharaoh's monologue against live, is challenged by the unheard word of God, working through unconscious flesh.
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> eb5986d (Some more)
 
 ### The Midwives Rebellion
 
@@ -86,8 +65,3 @@ Pharaoh then reproaches them, not with negligence, but with preserving life. Thi
 Some radical, irreducible confrontation is marked in these first words against Pharaoh. To speak against the _gezera_ is, in a real sense, impossible. The only appropriate response is silence. To utter words is to create an alternative world, a world of undifferentiated life. This is the claim of the midwives: the Hebrew women are _not like_ the Egyptian women. An alternative realm to Pharoah's "Egyptian" realm is sketched in their words. In this realm, life and birth happen irrepressibly.
 
 ### Moses' Early Life
-<<<<<<< HEAD
-=======
->>>>>>> ae79aa5 (Addtions)
-=======
->>>>>>> eb5986d (Some more)
