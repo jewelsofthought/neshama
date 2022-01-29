@@ -8,7 +8,7 @@ page:
 tags:
   - alchemy
   - external
-modified: 2022-01-28T14:52:35.533Z
+modified: 2022-01-29T17:23:12.787Z
 ---
 
 ## THE HEXAGRAM AND HEBRAIC SACRED SCIENCE
@@ -33,13 +33,7 @@ Maria Hebaea’s alchemy also seems already to suggest use of the hexagram model
 
 Patai provides much evidence to show that “Jewish alchemists were the teachers of both Muslim and Christian alchemists in the Middle Ages, just as they had been of Hellenistic alchemists in antiquity.”[^28] One Arab work, falsely attributed to Khalid Ibn Yazad, is particularly indebted to Maria Hebraea, as can be seen by the following quotation:
 
-<<<<<<< HEAD
-
-> # But this dissolution and congelation, which I mentioned, is the dissolution of the body and the congelation of the spirit, and they are two but have one single operation, because the spirit cannot be congealed except with the dissolution of the body, and similarly the body cannot be dissolved except with the congelation of the spirit. And the body and soul, when they are joined at the same time, each acts on its partner, making it similar to itself... For the composition of artifice or magisterium is the conjunction or matrimony of the congealed spirit with the dissolved body...[^29]
->
 > But this dissolution and congelation, which I mentioned, is the dissolution of the body and the congelation of the spirit, and they are two but have one single operation, because the spirit cannot be congealed except with the dissolution of the body, and similarly the body cannot be dissolved except with the congelation of the spirit. And the body and soul, when they are joined at the same time, each acts on its partner, making it similar to itself. . . . For the composition of artifice or magisterium is the conjunction or matrimony of the congealed spirit with the dissolved body...[^29]
->
-> > > > > > > parent of ed60ee7 (Rebase complete)
 
 Again this essential alchemical marriage of opposites seems suggestive of the hexagram model, the “dissolved body”, signified by its ascending triangle, “joined at the same time” to the “congealed spirit”, signified by its descending triangle, a conjunction that represents the culmination of the Great Work of alchemy, the production of the “Philosopher’s Stone”. As Patai indicates, in considering the alchemical legends surrounding Solomon:
 
