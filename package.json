@@ -24,7 +24,7 @@
   "homepage": "https://github.com/jewelsofthought/neshama#readme",
 	{
 		"engines": {
-			"node": "16.x"
+			"node": "16.11.1"
 		}
 	},
   "devDependencies": {
