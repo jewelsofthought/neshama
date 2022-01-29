@@ -22,10 +22,8 @@
     "url": "https://github.com/11ty/eleventy-base-blog/issues"
   },
   "homepage": "https://github.com/jewelsofthought/neshama#readme",
-	{
-		"engines": {
-			"node": "16.11.1"
-		}
+	"engines": {
+		"node": "16.11.1"
 	},
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
