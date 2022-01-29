@@ -1,21 +1,21 @@
 {
   "title": "Neshamah",
-  "url": "https://blog.neshama.com/",
+  "url": "https://quantumkabbalah.com/",
   "language": "en",
   "description": "Exploring the soul",
   "feed": {
     "subtitle": "A journey into the imaginarium.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://blog.neshama.com/"
+    "id": "https://quantumkabbalah.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://blog.neshama.com/feed/feed.json"
+    "url": "https://quantumkabbala.com/feed/feed.json"
   },
   "author": {
     "name": "Yehuda ben Aaron",
     "email": "yehuda@neshama.com",
-    "url": "https://blog.neshama.com/about/"
+    "url": "https://quantumkabbala.com/about/yehuda/"
   }
 }

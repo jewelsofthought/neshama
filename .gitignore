@@ -6,5 +6,4 @@ dist/
 netlify.toml
 node_modules/
 nohup.out
-package-lock.json
 source/
