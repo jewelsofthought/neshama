@@ -1,11 +1,9 @@
 ---
 title: In the Beginning
 description: A piece on the Supernal Light
-tags:
-  - creation
-  - midpoint
+tags: null
 date: 2021-11-18T10:20:29.954Z
-modified: 2022-01-05T18:40:44.931Z
+modified: 2022-01-30T19:07:49.394Z
 ---
 
 # In the Beginning

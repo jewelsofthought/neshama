@@ -3,15 +3,10 @@ title: Truth
 description: The fundamental path. Right thought, right speech & right action.
 tags: null
 date: 2019-02-10T16:00:00.000Z
-modified: 2022-01-29T18:55:42.734Z
+modified: 2022-01-27T09:58:35.636Z
 ---
 
 ### What: Truth
-
-> When we dehumanize, we are not in truth (since the truth is that each human being is a divine soul, is life itself, is a feeling, thinking subject with a unique experience of the world). When we are not in truth, we are vulnerable to lies.
-> A movement that sees the world through a polarizing lens is prone to schisms itself.
-> My message here is not to automatically trust everyone. Trust can come from a new foundation: I trust those who demonstrate a willingness to release their identity as good and right.
-> Charles Eisenstein - <i>Sacred Economics</i>
 
 > What structure will support that?
 

@@ -1,10 +1,9 @@
 ---
 title: The Seedling
-description: TAE Questionnaire
-tags:
-  - mekubalim
+description: Nibiru - the seed of coming generations
+tags: null
 date: 2021-10-31T10:39:53.293Z
-modified: 2021-11-08T16:25:23.170Z
+modified: 2022-01-30T19:19:23.458Z
 ---
 
 1. [The Seedling](#the-seedling)

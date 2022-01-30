@@ -1,10 +1,9 @@
 ---
 title: The Jewel
 description: Each one of us is a gem
-tags:
-  - story
+tags: null
 date: 2021-12-11T16:11:18.856Z
-modified: 2021-12-11T17:54:01.157Z
+modified: 2022-01-30T19:17:26.846Z
 ---
 
 > As soon as a the perception of a new space, or the possibility thereof, is discovered by/in human consciousness, there will always be those who will be drawn to explore that space - no matter the possible consequences, especially if it becomes the goal of a powerful man - or the obsession of one less so.

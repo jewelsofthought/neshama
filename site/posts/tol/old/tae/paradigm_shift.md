@@ -2,15 +2,9 @@
 title: Paradigm shift
 description: Which means a shift in consciousness. Also know as pivoting.
 tags: null
-date: 2019-01-02T16:00:00.000Z
-modified: 2022-01-29T18:52:45.499Z
+date: 2019-01-01T16:00:00.000Z
+modified: 2022-01-27T08:02:43.006Z
 ---
-
-1. [The Message](#the-message)
-2. [Characteristics](#characteristics)
-   1. [How: Constraint](#how-constraint)
-
-## The Message
 
 > It is a message that we hear, a sound that attracts us, that builds into a voice. A voice that speaks as loudly as the sound of the _shofar_ blast at Mount Sinai, yet as silent as electricity, with an impact as overwhelming.
 
@@ -25,3 +19,13 @@ We cannot continue to do the same things and expect a different result. In order
 There are many versions of what this shift will look like, what it will be, where it comes from and perhaps even to what it is to become.
 
 From static, absolute, empirical view of objects that are time-invariant, to looking at events that are constantly becoming. That is, trying to find a local balance, or dynamic harmony within the greater system, and the local system. From a view of the universe that is static and absolutist, to one that is fluid, dynamic and relative.
+
+## Characteristics
+
+### How: Constraint
+
+> What action is necessary to implement this shift?
+
+Instead of creating, constantly seeking expansion, we need to learn as a society, a nation and a community to practice constraint.
+
+In any relationship of sharing there is a giver and a taker. One could say a loser and a winner. That is how energy flows. If the recipient uses all the energy to produce or maintain something productive, all and good. Waste, however, is energy that is not utilised. If he hoards the energy, then it is not being used, and becomes toxic - for he will be collecting "waste" energy. If he (the recipient) has used his energy well, he will have regained his strength, and will be able now to become a giver... That is how the circles are completed.

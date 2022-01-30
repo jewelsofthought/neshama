@@ -7,3 +7,5 @@ netlify.toml
 node_modules/
 nohup.out
 source/
+.vscode/
+*.tar

@@ -1,1 +1,8 @@
 README.md
+source/
+.git
+.github
+.git/
+.github/
+.mvmrc
+.vscode/

@@ -2,10 +2,9 @@
 title: Chashmal/Electricity
 description: 3d entities, thus above is 4d and below 3d.
 tags:
-  - chashmal
   - energy
 date: 2021-10-08T13:45:30.693Z
-modified: 2021-11-17T18:24:19.796Z
+modified: 2022-01-30T19:12:22.204Z
 ---
 
 1. [Chashmal/Electricity](#chashmalelectricity)

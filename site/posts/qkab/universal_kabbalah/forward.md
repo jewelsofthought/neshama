@@ -4,8 +4,7 @@ author: Leonora Leet
 description: The Key to Hebraic Sacred Science
 tags:
   - external
-eleventyExcludeFromCollections: true
-modified: 2022-01-29T14:36:32.219Z
+modified: 2021-11-25T15:19:50.171Z
 ---
 
 ## Leonora Leet
