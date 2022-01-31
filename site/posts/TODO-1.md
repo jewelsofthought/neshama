@@ -4,37 +4,40 @@ description: These are the files in which information has to be added.
 tags:
   - todo
 eleventyExcludeFromCollections: true
-modified: 2022-01-28T14:42:41.126Z
+modified: 2022-01-31T17:26:16.218Z
 ---
 
-[death]light*dark.html)
-./tolnet/sustainable.md
-[dimensions](dimensions.html).
-[kabbalah](kabbalah_intro.html).
-[entanglement](entanglement.html).
-./tolnet/energy.md
-[Piece on “new paradigm” vs. “current paradigm”.](paradigm_shift.html)
-[communities](sustainable.html)
-[Google, FB, etc](cloud.html)
-[network](networks.html)
-[complex systems](systems.html).
-[wave](waves.html)
-[affinity groups](affinity_groups.html)
-[solar power projects](new_energy.html)
-[decentralised system](descentralised.html).
-[partial consensus](partial_consensus.html)
-[Ark](ark.html)
+[death](light_dark.html) // neshama
+./tol/sustainable.md
+
+#fundamental-property [dimensions](dimensions.html). // qkab
+[kabbalah](kabbalah_intro.html). // qkab
+[entanglement](entanglement.html). // neshama?
+./tol/energy.md
+
+[Piece on “new paradigm” vs. “current paradigm”.](paradigm_shift.html) // tol
+[communities](sustainable.html) // ~ ->network_examples
+= [Google, FB, etc](cloud.html) // IT
+[network](networks.html) // IT
+[complex systems](systems.html) // ~, qkab
+[wave](waves.html) // qkab
+= [affinity groups](affinity_groups.html) // ~
+[solar power projects](new_energy.html) // ~
+= [decentralised system](descentralised.html) // ~
+#by-the-people-for-the-people - [partial consensus](partial_consensus.html) // ~
+#tae-stuff - [Ark](ark.html) { TolNet as Noah's Ark } // neshama
 [Freedom](freedom.html)
-[partial consensus*](consensus.html)
 [energy exchange](energy_exchange.html)
-./tolnet/old/tae_questions.md
-[Def. of Graph](http://sole.dimi.uniud.it/~massimo.franceschet/networks/nexus/examples.html
-[sustainable community](sustainable.html)
+./tol/old/tae_questions.md
+
+[Def. of Graph](http://sole.dimi.uniud.it/~massimo.franceschet/networks/nexus/examples.html) // ~
+[sustainable community](sustainable.html) // ~ ->tae_questions
 [Complex Systems](complexity.html#systems)
 [the Finite Game](in-finite_game.html)
-./tolnet/old/network_examples.md
+./tol/old/network_examples.md
+
 [outcome](intention.html)
-[Story of Adam and Eve](adam_eve.html)
+= [Story of Adam and Eve](adam_eve.html)
 [Oroborus](oroborus.html)
 ./qkab/chashmal.md
 [spirit](spirit.html)
@@ -57,19 +60,21 @@ modified: 2022-01-28T14:42:41.126Z
 [awakening into consciousness](../consciousness.md)".
 ./qkab/original_beauty.md
 [intent](intention.html)
-["control"](control.html)
+##intentionoutcome["control"](control.html)
 ./qkab/outcome.md
+
 [these explanations](dimensions.html)
 [google](https://duckduckgo.com/....)
 [another topic](neshama.html)
 ./qkab/4d-vision.md
+
 [Time Bound](time.html)
 ["In the beginning"](beginning.html)
 [imperfection in the Perfection](perfect.html)
 ./book_gift/bg002 - The Beginning.md
 [the cycle that lives in everything](oroborus.html)
 ./neshama/limited.md
-=[Journey](../tolnet/organisations.md#our-journey)
+=[Journey](../tol/organisations.md#our-journey)
 [something else](sitra_achara.html)
 [the framework)(tol-framework.html)
 ./neshama/journey.md
