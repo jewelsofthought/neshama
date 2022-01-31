@@ -1,12 +1,12 @@
 ---
-title: Mary the Prophetess
+title: Alchemy
 description: A walk in  the ancient corridors where science and spirituality are
   still enjoined.
 url: https://www.sacred-texts.com/alc/index.htm
 tags:
   - external
 date: 2021-10-26T04:53:28.291Z
-modified: 2022-01-31T18:26:46.493Z
+modified: 2022-01-31T18:36:57.423Z
 ---
 
 This is just a partial compendium of alchemical works. I liked the sacred manner in which they approached and dealt with this exploration of natural and chemical reactions. It seems to me that we have lost wisdom in our much more "secular" approach. To have dragged the wonders of the world in which we exist down to the mud and grime of our earthly existence, acknowledging nothing higher or greater than human endeavour, human imagination, human creativity and the great human power over nature - is an abomination.
