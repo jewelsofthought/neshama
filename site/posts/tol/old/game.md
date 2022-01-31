@@ -3,8 +3,8 @@ title: Game of Consciousness
 description: A world where you could fulfil all your fantasies.
 date: 2020-08-21T16:00:00.000Z
 tags:
-  - game
-modified: 2021-11-26T08:47:39.488Z
+  - consciousness
+modified: 2022-01-30T19:56:11.828Z
 ---
 
 1. [Virtual Reality](#virtual-reality)
@@ -14,6 +14,7 @@ modified: 2021-11-26T08:47:39.488Z
    4. [Addiction & APS](#addiction--aps)
    5. [Earn time in Cyberworld.](#earn-time-in-cyberworld)
    6. [Fantasy land](#fantasy-land)
+2. [Baby](#baby)
 
 ## Virtual Reality
 

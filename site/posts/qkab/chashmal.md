@@ -4,7 +4,7 @@ description: 3d entities, thus above is 4d and below 3d.
 tags:
   - energy
 date: 2021-10-08T13:45:30.693Z
-modified: 2022-01-30T19:12:22.204Z
+modified: 2022-01-31T12:24:13.947Z
 ---
 
 1. [Chashmal/Electricity](#chashmalelectricity)

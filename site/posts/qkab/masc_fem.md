@@ -6,18 +6,17 @@ ref:
   - privacy_illusion
   - superior_man
   - golden_shadow
-tags:
-  - m&f
+tags: null
 date: 2021-11-17T18:23:23.287Z
-modified: 2022-01-06T17:56:11.129Z
+modified: 2022-01-30T19:58:00.956Z
 ---
 
-1. [Masculine & Feminine](#masculine--feminine)
-   1. [Male & Female](#male-and-female)
-   2. [M & F](#m-and-f)
-   3. [Upper & Lower](#upper-and-lower)
-   4. [Roles](#roles)
-   5. [Desire for Power](#desire-for-power)
+1. [Male & Female](#male--female)
+2. [M & F](#m--f)
+3. [Upper & Lower](#upper--lower)
+4. [Roles](#roles)
+5. [Desire for Power](#desire-for-power)
+6. [Transform](#transform)
 
 ## Male & Female
 

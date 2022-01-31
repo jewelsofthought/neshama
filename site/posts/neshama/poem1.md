@@ -1,9 +1,8 @@
 ---
 title: Ego separates
-tags:
-  - poem
+tags: null
 date: 2021-10-20T11:23:12.048Z
-modified: 2021-10-20T11:24:06.684Z
+modified: 2022-01-30T19:55:30.737Z
 ---
 
 # Ego separates

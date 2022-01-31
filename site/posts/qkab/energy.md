@@ -2,11 +2,10 @@
 title: Energy
 description: null
 tags:
-  - energy
-  - m&f
+  - todo
   - qkab
 date: 2021-10-12T18:17:11.615Z
-modified: 2022-01-03T16:51:35.956Z
+modified: 2022-01-30T19:57:14.104Z
 ---
 
 1. [Fundamental property](#fundamental-property)

@@ -4,9 +4,8 @@ description: null
 author: Isaac Tishby
 tags:
   - external
-  - zohar
 date: 2021-11-30T15:52:02.746Z
-modified: 2021-11-30T15:52:47.921Z
+modified: 2022-01-30T19:53:14.934Z
 ---
 
 ## Wisdom of the Zohar

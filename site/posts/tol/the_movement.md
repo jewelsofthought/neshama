@@ -2,14 +2,13 @@
 title: The Movement
 description: Who are the people?
 date: 2021-08-22T00:00:00.000Z
-tags:
-  - communities
-modified: 2021-11-03T15:33:09.799Z
+tags: null
+modified: 2022-01-30T19:49:52.516Z
 ---
 
 1. [The Movement](#the-movement)
-   1. [Types](#types)
-   1. [The Maccabean Test](#the-maccabean-test)
+      1. [Types](#types)
+2. [The Call](#the-call)
 
 ## ToLNet
 

@@ -1,10 +1,11 @@
 ---
 title: Human Microservices
 description: Organisational ...
-tags:
+tags: null
+ref:
   - IT
 date: 2022-01-03T16:52:56.053Z
-modified: 2022-01-03T18:20:53.237Z
+modified: 2022-01-31T12:22:44.409Z
 ---
 
 1. [Human Microservices](#human-microservices)

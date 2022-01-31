@@ -3,9 +3,8 @@ title: Consciousness, et. al.
 description: Consciousness - God or AI?
 tags:
   - consciousness
-  - 4d
 date: 2021-10-09T07:56:07.119Z
-modified: 2021-12-09T17:53:13.917Z
+modified: 2022-01-30T19:46:47.668Z
 ---
 
 1. [AI](#ai)

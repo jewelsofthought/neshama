@@ -3,8 +3,8 @@ title: 4d-Vision
 description: The Source of pleasure/displeasure
 date: 2021-08-21T16:00:00.000Z
 tags:
-  - 4d
-modified: 2021-12-09T16:38:24.868Z
+  - dimensions
+modified: 2022-01-30T19:58:46.292Z
 ---
 
 ## The Vision

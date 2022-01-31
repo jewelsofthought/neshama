@@ -1,9 +1,9 @@
 ---
 title: The Beginning
 tags:
-  - creation
+  - consciousness
 date: 2021-11-26T14:09:50.217Z
-modified: 2022-01-05T18:39:51.448Z
+modified: 2022-01-30T19:47:43.949Z
 ---
 
 # The Beginning
