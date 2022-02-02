@@ -44,23 +44,26 @@ templateClass: tmpl-post
     <div class="main-content">
       {{ content | latex | safe }}
     </div>
-
+     
     {%- if collections.posts %}
       {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
       {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-      {%- if nextPost and not nURL %}
+       
+      {%- if nURL %}
+      {%- else %}
         {%- set nURL = nextPost.url %} 
         {%- set nTitle = nextPost.data.title %}
       {%- endif %}
 
-      {%- if previousPost and not pURL %}
+      {%- if nURL %}
+      {%- else %}
         {%- set pURL = previousPost.url %}
         {%- set pTitle = previousPost.data.title %}
       {%- endif %}
   
     <hr>
     <ul>
-      {%- if nURL and nTitle %}<li>Next: <a href="{{ nURL | url }}">{{ nTitle }}</a></li>{% endif %}
+      {%- if nURL %}<li>Next: <a href="{{ nURL | url }}">{{ nTitle }}</a></li>{% endif %}
       {%- if pURL and pTitle %}<li>Previous: <a href="{{ pURL | url }}">{{ pTitle }}</a></li>{% endif %}
     </ul>
     {%- endif %}
