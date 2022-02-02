@@ -3,9 +3,9 @@ title: Energy
 description: null
 tags:
   - todo
-  - qkab
+  - energy
 date: 2021-10-12T18:17:11.615Z
-modified: 2022-01-30T19:57:14.104Z
+modified: 2022-02-01T13:46:40.107Z
 ---
 
 1. [Fundamental property](#fundamental-property)
