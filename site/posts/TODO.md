@@ -4,7 +4,7 @@ tags:
   - todo
 eleventyExcludeFromCollections: true
 date: 2021-11-19T16:20:24.096Z
-modified: 2022-01-28T14:42:23.763Z
+modified: 2022-02-01T13:46:16.974Z
 ---
 
 # TODO
@@ -17,11 +17,11 @@ lightning-bolt.png - tree of life diagram stuff
 1. Adam & eve - adam_eve.html - [ qkab/chashmal ] { The story of Adam & Eve }
 2. affinity_groups.html - [ tolnet/old/tae_questions#concept ]
 3. ark.html - [ tolnet/old/tae_questions#tae-stuff ] { TolNet as Noah's Ark }
-4. athiest.html [.. refer to Light & Dark]
+4. -athiest.html [.. refer to Light & Dark]
 5. partial_consensus.html [ tolnet/old/tae_questions#by-the-people-for-the-people ]
 6. cloud.html - [ tolnet/old/tae_questions ]
 7. Control - control.html - [ qkab/outcome.md#intentionoutcome ]
-8. Consensus - consensus.html - [ tolnet/old/tae_questions#benefits-of-a-coherent-social-network] {partial consensus}
+8. -Consensus - consensus.html - [ tolnet/old/tae_questions#benefits-of-a-coherent-social-network] {partial consensus}
 9. decentralised.html - [ tolnet/old/tae_questions#concept ]
 10. dimensions.html - [ qkab/energy#fundamental-property ]
 11. energy_exchange.html - [ tolnet/old/tae_questions#people-centric ] { Energy as currency/token }
