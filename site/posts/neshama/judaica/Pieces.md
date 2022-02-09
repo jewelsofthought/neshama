@@ -3,7 +3,7 @@ title: Pieces
 description: null
 tags: null
 date: 2021-11-10T09:58:27.423Z
-modified: 2022-02-09T09:04:51.094Z
+modified: 2022-02-09T09:39:59.590Z
 ---
 
 1. [Temple](#temple)
@@ -18,6 +18,8 @@ modified: 2022-02-09T09:04:51.094Z
 10. [Galut (Exile)](#galut-exile)
 11. [Terumah in depth](#terumah-in-depth)
 12. [Listening, speaking, and acting](#listening-speaking-and-acting)
+13. [Tetzaveh](#tetzaveh)
+14. [Sixty Days of Joy](#sixty-days-of-joy)
 
 ```
 שׁמִר רגליך כאשׁר תלך אל־בית האלוהים, וקרוב לשׁמיע מִתֶת
@@ -146,3 +148,31 @@ From the tension of speaking and silence, emerges action.
 This triad of speaking, silence and action is a methodology that we must each employ when advocating for change. For righting wrongs, and bringing justice to our world. When we try to better our world, and continue God’s creative work, we must know when to speak out. We must know when not to talk, to remain silent, and control the anger, and frustration within us. And then, we must know when to act. To turn the sounds and silences into action.
 
 There is a time to talk out; a time to remain silent; a time to act.
+
+## Tetzaveh
+
+The word tetzaveh, “you shall command,” also means “you shall connect” and “you shall bond.”
+
+---
+
+_That they bring to you pure olive oil . . . to raise an everlasting lamp . . . from evening to morning (27:20–21)_
+
+For such is our mission in life: to impart the eternity and perfection of the Divine to a temporal world, and to do so not by annihilating or overwhelming the world’s temporality and diversity, but by illuminating its every state and condition—from “evening” to “morning”—with the divine light.
+(Lubavitzer Rabbi)
+
+---
+
+_Pure olive oil, crushed for the light (27:20)_
+
+Just as the olive yields light only when it is pounded, so are man’s greatest potentials realized only under the pressure of adversity.
+(The Talmud)
+
+---
+
+“Everything that a person sees or hears should serve him as a lesson in his service of G‑d”
+&ndash; &ndash; Rabbi Baal Shem Tov
+
+## Sixty Days of Joy
+
+_It is with the service of G-d] just as it is with a victory over a physical opponent; for instance, two people who wrestle with each other, each striving to fell the other. If one of them is lazy and sluggish, he will easily be defeated and will fall, even if he is stronger than the other. Similarly, with the conquest of one’s evil nature, it is impossible to conquer the evil nature with laziness and sluggishness—which stem from sadness and a stone-like dullness of the heart—but rather [it must be conquered] with alacrity, which derives from joy and an open heart that is unblemished by any trace of worry and sadness in the world._
+– Tanya, chapter 26
