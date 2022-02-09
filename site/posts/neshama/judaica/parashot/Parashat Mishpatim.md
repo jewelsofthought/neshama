@@ -1,10 +1,10 @@
 ---
 title: Parashat Mishpatim
-description: null
+description: Exodus 21:1-24:18
 tags:
   - todo
 date: 2022-02-02T08:09:57.912Z
-modified: 2022-02-02T08:45:32.961Z
+modified: 2022-02-08T18:11:37.946Z
 ---
 
 21:

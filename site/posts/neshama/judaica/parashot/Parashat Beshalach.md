@@ -1,9 +1,9 @@
 ---
 title: Parashat Beshalach
-description: "Exodus: Finally, exodus from Egypt"
+description: Exodus 13:17-17:16 - Finally, exodus from Egypt
 tags: null
 date: 2022-01-16T11:33:06.076Z
-modified: 2022-02-01T18:41:13.545Z
+modified: 2022-02-08T18:11:35.514Z
 ---
 
 ## Foreward

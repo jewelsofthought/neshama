@@ -4,7 +4,7 @@ description: Drosha on the Blessing that Jacob stole from Esau
 url: https://www.chabad.org/parshah/article_cdo/aid/4937127/jewish/The-Deception.htm
 tags: null
 date: 2021-10-30T22:15:22.481Z
-modified: 2022-02-01T18:44:21.715Z
+modified: 2022-02-08T18:11:28.512Z
 ---
 
 ## The Deception

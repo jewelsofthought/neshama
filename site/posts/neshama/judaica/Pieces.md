@@ -3,16 +3,21 @@ title: Pieces
 description: null
 tags: null
 date: 2021-11-10T09:58:27.423Z
-modified: 2021-11-15T12:22:43.497Z
+modified: 2022-02-09T09:04:51.094Z
 ---
 
-1. [Ecc 4:17](#ecc-417)
-2. [Temple](#temple)
-3. [Humble](#humble)
-4. [Joy](#joy)
-5. [Ability to Receive (from 1)](#ability-to-receive-from-1)
-6. [1, 2, 3...](#1-2-3)
-7. [Stand Over/Stand Under](#stand-overstand-under)## Ecc 4:17
+1. [Temple](#temple)
+2. [Humble](#humble)
+3. [Joy](#joy)
+4. [Ability to Receive (from 1)](#ability-to-receive-from-1)
+5. [1, 2, 3...](#1-2-3)
+6. [Stand Over/Stand Under](#stand-overstand-under)
+7. [Exile](#exile)
+8. [Walk casually with me...](#walk-casually-with-me)
+9. [Chok - Statute/Decree](#chok---statutedecree)
+10. [Galut (Exile)](#galut-exile)
+11. [Terumah in depth](#terumah-in-depth)
+12. [Listening, speaking, and acting](#listening-speaking-and-acting)
 
 ```
 שׁמִר רגליך כאשׁר תלך אל־בית האלוהים, וקרוב לשׁמיע מִתֶת
@@ -119,3 +124,25 @@ A rabbi once offered the following analogy:
 In _galut_ ("exile") the Jewish conscience lies dormant, the soul unable to express and actualize its G‑dly awareness and feelings. The cure to this state of spiritual coma is the Jew's selfless submission of the role he must play in the Divine plan--a role that transcends emotion and intellect. It is this simple loyalty to G‑d that restores the Jew's essential relationship with Him.
 
 Though Mordechai was a Benjaminite, he is called _Yehudi_ ("Jew") which literally means a descendant of the tribe of _Yehudah_ (Judah). Likewise, throughout the _Megillah_, the entire Jewish people are called _Yehudim_, without distinction of tribal origin. For _Yehudi_ is of the same root as _hoda'ah_ which means "to acknowledge" and "to accept". This title describes the core of the Jew, his untouchable essence.
+
+## Terumah in depth
+
+_Speak to the children of Israel, that they should take to Me a terumah (“uplifting”) (Exodus 25:2)_
+
+Every created entity has a spark of G‑dliness within it, a pinpoint of divinity that constitutes its “soul,” its spiritual function and design. When we utilize something to serve the Creator, we penetrate its shell of mundanity, revealing and realizing its divine essence. Thus we elevate these “sparks,” reuniting them with their Source.
+
+(The Chassidic Masters)
+
+## Listening, speaking, and acting
+
+Rabba Sara Hurwitz from Yeshivat Maharat,
+
+The image of one bell, one mouth, surrounded by two eyes, or two pomegranates is what the Gemara (Megillah 18a) means when it says, _“A word is worth one sela (coin). Silence is worth two.”_ Perhaps the Gemara alludes to the speak-half-as-much-as-you-know rule that the Alshich finds in the double pomegranates and the two-eyes-one-mouth; for every word you speak, make sure it is accompanied by two measures of silence. Only half of what we think in our heads, should actually be articulated.
+
+So, sometimes, we must be called upon to ring clearly, and make our views known, like a bell. But other times, silence must reign. We must hold back the thoughts that could be potentially hurtful or unhelpful. There is tremendous power in silence.
+
+From the tension of speaking and silence, emerges action.
+
+This triad of speaking, silence and action is a methodology that we must each employ when advocating for change. For righting wrongs, and bringing justice to our world. When we try to better our world, and continue God’s creative work, we must know when to speak out. We must know when not to talk, to remain silent, and control the anger, and frustration within us. And then, we must know when to act. To turn the sounds and silences into action.
+
+There is a time to talk out; a time to remain silent; a time to act.

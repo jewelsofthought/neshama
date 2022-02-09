@@ -1,9 +1,9 @@
 ---
 title: Parashat Bo
-description: "Exodus: The killing of the first-born."
+description: Exodus 10:1-13:16 - The killing of the first-born.
 tags: null
 date: 2022-01-16T06:57:16.939Z
-modified: 2022-02-01T18:41:22.103Z
+modified: 2022-02-08T17:59:43.258Z
 ---
 
 1. [Tefillin](#tefillin)

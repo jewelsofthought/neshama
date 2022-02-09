@@ -5,7 +5,7 @@ url: https://www.chabad.org/library/article_cdo/aid/2730/jewish/The-Palace-and-t
 author: Tzvi Freeman
 tags: null
 date: 2021-10-30T22:15:22.481Z
-modified: 2022-02-01T18:39:54.739Z
+modified: 2022-02-08T18:11:25.444Z
 ---
 
 1. [Toldot - annexes](#toldot---annexes)

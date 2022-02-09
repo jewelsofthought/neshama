@@ -4,7 +4,7 @@ description: Numbers 22:2–25:9 - Shabbat, 17 Tammuz, 5778
 date: 2022-10-21T16:00:00.000Z
 tags:
   - todo
-modified: 2022-02-08T17:57:00.055Z
+modified: 2022-02-08T18:11:33.464Z
 ---
 
 # Parashat Balak
