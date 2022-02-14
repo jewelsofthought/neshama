@@ -3,12 +3,14 @@ title: Neshama Thoughts
 description: Random thoughts
 tags: null
 date: 2021-11-04T15:02:32.726Z
-modified: 2022-01-10T05:22:58.446Z
+modified: 2022-02-14T13:03:44.369Z
 ---
 
 1. [Pieces](#pieces)
 2. [Thorn in your side](#thorn-in-your-side)
 3. [Sleep](#sleep)
+4. [Vayetzi](#vayetzi)
+5. [To be religious](#to-be-religious)
 
 ## Pieces
 
@@ -49,3 +51,7 @@ The abundance of the earth is in all. All designates Yesod, who transmits the en
 During the growing phase , your gift is your tool. If it becomes a weapon, then you will live by the rule of the sword.
 
 Your eldership is obtained/received/ordained when you gain the wisdom of your gift. Which is expressed in gratitude: "I have been granted my portion." That is "I have been blessed with the gift of ...".
+
+## To be religious
+
+To be religious means to have an intuitive feeling of the unity of everything (that is Ha'Shem). G-d is the name we give to this unity. And so we gather around the call of the _Shma_, just as the people were called by the _shofar_ in times of old.

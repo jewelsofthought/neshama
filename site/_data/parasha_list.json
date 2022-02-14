@@ -1,14 +1,14 @@
 {
-  "fish": [
-    "Parashat Vayeira",
-    "Toldot in a nutshell",
-    "The Deception",
-    "Toldot_- annexes",
-    "Parashat Bo",
-    "Parashat Beshalach",
-    "Parashat Yitro",
-    "Parashat Mishpatim",
-    "Parashat Terumah",
-    "Parashat Balak"
+  "parashot": [
+    "Vayeira",
+    "Toldot",
+    "Toldot_- deception",
+    "Toldot - annexes",
+    "Bo",
+    "Beshalach",
+    "Yitro",
+    "Mishpatim",
+    "Terumah",
+    "Balak"
   ]
 }

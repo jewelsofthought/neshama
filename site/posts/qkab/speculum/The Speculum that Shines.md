@@ -1,12 +1,13 @@
 ---
 title: The Speculum that Shines
+author: Elliot Wolfson
 pages:
   - 271
   - 288
 tags:
   - external
 date: 2021-12-19T10:48:18.775Z
-modified: 2022-01-13T07:21:30.085Z
+modified: 2022-02-14T08:58:58.597Z
 ---
 
 1. [ONTOLOGY OF LIGHT AND MYSTICAL VISION](#ontology-of-light-and-mystical-vision)

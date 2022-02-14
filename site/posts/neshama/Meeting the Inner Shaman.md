@@ -1,12 +1,12 @@
 ---
 title: Meeting the Inner Shaman
-description: null
+description: A journey inspired by Mikkal
 author: Mikkal (C. Michael Smith, Ph.D.)
 tags:
   - external
   - shaman
 date: 2021-11-14T17:34:43.129Z
-modified: 2021-11-28T11:02:32.915Z
+modified: 2022-02-14T14:01:35.208Z
 ---
 
 # Meeting the Inner Shaman

@@ -1,9 +1,9 @@
 ---
 title: Pieces
-description: null
+description: Random thoughts related from Jewish meanderings.
 tags: null
 date: 2021-11-10T09:58:27.423Z
-modified: 2022-02-09T09:39:59.590Z
+modified: 2022-02-14T14:13:07.098Z
 ---
 
 1. [Temple](#temple)

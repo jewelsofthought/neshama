@@ -1,10 +1,10 @@
 ---
-title: Parashat Yitro
+title: Yitro
 description: Exodus 18:1-20:23
 tags:
   - todo
 date: 2022-02-02T08:09:06.346Z
-modified: 2022-02-08T17:59:53.211Z
+modified: 2022-02-14T10:52:44.968Z
 ---
 
 n13-26:

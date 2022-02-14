@@ -1,13 +1,15 @@
 ---
-title: Parashat Balak
+title: Balak
 description: Numbers 22:2–25:9 - Shabbat, 17 Tammuz, 5778
-date: 2022-10-21T16:00:00.000Z
+date: 2022-01-21T16:00:00.000Z
 tags:
   - todo
-modified: 2022-02-08T17:57:00.055Z
+modified: 2022-02-14T10:34:57.966Z
 ---
 
-# Parashat Balak
+1. [Parashat Balak](#parashat-balak)
+
+## Parashat Balak
 
 What has always interested me is the bad rap that Balaam has received. This attitude has bothered me, as it appears in a number of significant places. For instance, Jacob is the good guy, and Esau the bad one, though, as the story unfolds, Jacob is the one that lies and betrays his brother's and his father's trust. Is it because he is a not of Israel? And thus cannot be claimed as a Jewish prophet?
 

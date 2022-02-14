@@ -3,7 +3,7 @@ title: Sound & Noise
 description: All sounds carry information
 tags: null
 date: 2021-11-19T15:11:40.476Z
-modified: 2021-11-25T14:30:07.634Z
+modified: 2022-02-14T14:02:54.775Z
 ---
 
 ## Sound & Noise

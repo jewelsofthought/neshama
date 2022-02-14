@@ -3,7 +3,7 @@ title: The message
 description: Focus on the message, not the messenger.
 tags: null
 date: 2022-01-10T06:04:29.366Z
-modified: 2022-01-11T17:10:53.884Z
+modified: 2022-02-14T14:01:54.030Z
 ---
 
 {message: mess-age, mes-sage, me-sage

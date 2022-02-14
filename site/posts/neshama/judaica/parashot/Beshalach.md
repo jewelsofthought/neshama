@@ -1,14 +1,29 @@
 ---
-title: Parashat Beshalach
+title: Beshalach
 description: Exodus 13:17-17:16 - Finally, exodus from Egypt
 tags: null
 date: 2022-01-16T11:33:06.076Z
-modified: 2022-02-08T18:11:35.514Z
+modified: 2022-02-14T14:21:06.316Z
 ---
 
 ## Foreward
 
 Finally, Pharaoh relents and let's the Children of Israel go. But this is not the end of the story. It seems that, in Pharaoh's mind, he is still negotiating the three days of worship that was originally requested. But by this time the Children of Israel are heading into the Sinai desert with Moses at their lead.
+
+## Hardening of Heart
+
+<blockquote dir="rtl">
+אני הכבדתי את לבו 
+</blockquote>
+A strange twist in the tale. G-d Admits to "hardening his (pharaoh's) heart". Why would He Do that?
+
+We pray to G-d hoping that He Will clear the way for us, and when He Does not Do that, we respond with anger and despair.
+
+Why would He Harden pharaoh's heart? Well, perhaps, after so many generations of slavery, the people needed something momentous to shift their perception, to make them open to receiving a new way of living, and, even more difficulty, a new perspective.
+
+The lesson needed to be engraved in the not only the current generation, but deep enough to affect many generations to come. And to cut that deep requires something extraordinary (in the {(ordinary mind)[ordinary.htmlj] - the mind that cannot conceive of any extra-ordinary!
+
+{Note: Definition of **ordinary** - the mind that cannot conceive of the extra-ordinary!}
 
 ## Long road
 

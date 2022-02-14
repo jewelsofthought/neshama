@@ -1,9 +1,9 @@
 ---
-title: Parashat Terumah
+title: Terumah
 description: Exodus 25:1-27:19
 tags:
   - todo
-modified: 2022-02-08T18:35:47.358Z
+modified: 2022-02-14T10:36:03.376Z
 ---
 
 ## Terumah "uplifting"
