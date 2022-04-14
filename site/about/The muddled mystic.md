@@ -1,7 +1,7 @@
 ---
-layout: layouts/post.njk
+layout: layouts/base.njk
 title: The muddled mystic
-templateClass: tmpl-post
+templateClass: tmpl-home
 eleventyNavigation:
   key: About Me
   order: 5

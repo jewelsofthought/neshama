@@ -7,6 +7,9 @@ date: 2021-11-11T10:41:10.604Z
 modified: 2021-11-26T08:30:37.054Z
 ---
 
+1. [(in)Finite Beings](#infinite-beings)
+2. [Finite intelligence](#finite-intelligence)
+
 ## (in)Finite Beings
 
 > The intelligence that can conceive of infinite is not necessarily itself infinite!

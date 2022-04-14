@@ -2,7 +2,7 @@
 title: Shemoth
 author: Aviva Zornberg
 description: The Mirror of Redemption
-tags: null
+tags: [external]
 date: 2021-12-26T14:51:07.321Z
 modified: 2021-12-27T08:50:46.274Z
 ---
@@ -11,6 +11,8 @@ modified: 2021-12-27T08:50:46.274Z
    1. [Israel and Egypt: The Mosaic Distinction](#israel-and-egypt-the-mosaic-distinction)
    2. ["And they swarmed... &mdash;Blessings or Critique?](#and-they-swarmed-blessings-or-critique)
    3. [Anonymity and Silence](#anonymity-and-silence)
+   4. [The Midwives Rebellion](#the-midwives-rebellion)
+   5. [Moses' Early Life](#moses-early-life)
 
 ## Fit for Redemption? The Human Context
 

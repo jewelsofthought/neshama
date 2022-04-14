@@ -9,6 +9,7 @@ modified: 2022-01-04T15:21:56.465Z
 1. [Who/What is G-d?](#whowhat-is-g-d)
    1. [All is One](#all-is-one)
    2. [Hidden Face](#hidden-face)
+   3. [Light & Dark](#light--dark)
 
 ## Dark Side
 
@@ -52,5 +53,14 @@ One is NOT the ruler over everything. It IS everything&mdash;the good, the bad a
 Just as you (and I) have an outer aspect with which we engage in the outside world. It is that aspect of ourselves that others experience, what they "see", for it is the I that manifests in the world. But each one of us also has a hidden aspect buried inside ourselves, hiding from the world, and its evil ways.
 
 And many of us are driven by a deep desire to find an other with whom you can share that deep connection, deep enough to open that hidden aspect to them, and hope they will respond with love. That is the place of One, the hidden Face of G-d.
+
+## Light & Dark
+
+> We cannot lesson the dark by focusing on it. Focusing on it is feeding it. We can only reduce the dark by increasing the light
+
+We cannot solve the problem by dwelling on it. Eventually it (the darkness) will swallow us.
+Only by living in the light can you overcome the darkness - though we are never free of it. For darkness is formed by light. "He formed the light, and created the darkness." One can only create form in light with darkness!
+
+Similarly, if you obsess over death - if [you are in terror of it](atheist.html) - it is because you do not believe in a greater narrative then our own life.
 
 ---

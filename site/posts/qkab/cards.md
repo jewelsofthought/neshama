@@ -1,26 +1,18 @@
 ---
-title: "Collection of Pieces:"
-description: Random thoughts
+title: Collection of Pieces
+description: 'Random thoughts: Apocalypse means unveiling!'
 tags: null
 date: 2021-11-04T15:00:27.882Z
 modified: 2021-11-30T16:31:30.941Z
 ---
 
-1. [Collection of Pieces:](#collection-of-pieces)
-   1. [Quote](#quote)
-   2. [Quote](#quote-1)
-   3. [Quote](#quote-2)
-      1. [Thought](#thought)
-   4. [Quote: Process (Henry Bergson)](#quote-process-henry-bergson)
-   5. [Quote: R' Saadia Ha'Gaon](#quote-r-saadia-hagaon)
-   6. [Quote: Prophet](#quote-prophet)
-2. [Judaica (Personal)](#judaica-personal)
+1. [Judaica (Personal)](#judaica-personal)
    1. [Kaballah](#kaballah)
    2. [Meditation](#meditation)
    3. [Abulafia](#abulafia)
    4. [Merkava Descent](#merkava-descent)
    5. [Metatron](#metatron)
-3. [Personal](#personal)
+2. [Personal](#personal)
    1. [Quanta](#quanta)
    2. [Desire](#desire)
    3. [Divine Spark](#divine-spark)
@@ -39,11 +31,11 @@ modified: 2021-11-30T16:31:30.941Z
    12. [Compass](#compass)
    13. [Enlightenment](#enlightenment)
 
-# Collection of Pieces:
+> Apocalypse: unveiling!
 
 ## Quote
 
-> The Supernal rests only on what is surrendered to him
+> The Supernal rests only on what is surrendered to him.
 
 This is an express of the ultimate Good of the Divine. For Good will always give us a choice. Thus G-d does not force us to experience Him. Yes, it is true, that we reap our karmic rewards according to our actions, but one could say that that is inherent in the system. It is an expression of the very laws, whether physical or spiritual, that are the dynamics of the very system (Universe) that we exist in.
 
@@ -58,12 +50,28 @@ Inasmuch as my intelligence and the root of my soul are of too limited a capacit
 ## Quote
 
 > “We know that human vision assimilates only a small fragment of the spectrum; as far as our senses are concerned, the rest of it does not exist.” (Rabbi Adin Steinsaltz)
+> --Rabbi Adin Steinsaltz
 
---Rabbi Adin Steinsaltz
+## Quote
 
-### Thought
+> Punish only he who has committed the crime.
+> --Marcus Aurelius
 
-If we are finite beings, and although fashioned from the cloth/image of the Infinite Supernal Being, we are enclosed in a finite "vehicle". If there is any part of G-d's desire that would like His "children" to return to Him, as is often said in the Biblical readings.
+## Quote
+
+> The best revenge is to un-like your enemy.
+
+## Quote
+
+> If something is possible for someone, it is possible for anyone.
+
+## Quote
+
+> Accept the things to which fate binds you
+
+## Quote
+
+> There is nothing that hinders you from doing what must be done.
 
 ## Quote: Process (Henry Bergson)
 
@@ -84,6 +92,21 @@ All processes can be viewed as modifications of substances (material bodies).
 ## Quote: Prophet
 
 > The trustworthiness of the prophet hinges on the argument that the only reasonable explanation for their occurrence is through the agency of G-d.
+
+---
+
+## Thought
+
+Love what you have. You can only desire what you don't have. (Therefore love is not desire!)
+Hate what you have, then you will love something that you you don't have. (That which represents the counter to that which you have.)
+
+## Thought
+
+If we are finite beings, and although fashioned from the cloth/image of the Infinite Supernal Being, we are enclosed in a finite "vehicle". Perhaps there is a part of G-d's desire that would like His "children" to return to Him, as is often said in the Biblical readings.
+
+## Thought
+
+The tree is a snake entity that emerges out of the background of the Tree of Life.
 
 ---
 

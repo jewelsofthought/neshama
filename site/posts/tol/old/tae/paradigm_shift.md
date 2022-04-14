@@ -18,7 +18,7 @@ We cannot continue to do the same things and expect a different result. In order
 
 There are many versions of what this shift will look like, what it will be, where it comes from and perhaps even to what it is to become.
 
-From static, absolute, empirical view of objects that are time-invariant, to looking at events that are constantly becoming. That is, trying to find a local balance, or dynamic harmony within the greater system, and the local system. From a view of the universe that is static and absolutist, to one that is fluid, dynamic and relative.
+From static, absolute, empirical view of objects that are time-invariant, to looking at events that are constantly becoming. That is, trying to find a local balance, or dynamic harmony within the greater system, and the local system. From a view of the universe that is static and absolutist, to [one that is fluid, dynamic and relative](/posts/neshama/process_philosophy/).
 
 ## Characteristics
 

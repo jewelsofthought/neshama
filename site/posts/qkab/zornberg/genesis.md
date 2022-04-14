@@ -4,6 +4,7 @@ author: Aviva Zornberg
 description: Reflections on Genesis
 tags:
   - todo
+  - external
 date: 2021-12-26T14:51:36.482Z
 modified: 2022-01-11T17:30:06.374Z
 ---

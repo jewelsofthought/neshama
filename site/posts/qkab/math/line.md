@@ -6,15 +6,22 @@ date: 2021-10-08T08:43:25.481Z
 modified: 2022-01-05T19:07:13.396Z
 ---
 
-1. [Linear](#linear)
-2. [Line](#line)
-3. [Time is the background](#time-is-the-background)
-4. [Flow](#flow)
-5. [Formlessness](#formlessness)
-6. [Memories](#memories)
-7. [Which way [ inf <->1 ]?](#which-way--inf--1-)
-8. [In the beginning](#in-the-beginning)
-9. [Bow & Arrow](#bow--arrow)
+1. [Mathematics](#mathematics)
+2. [Linear](#linear)
+3. [Line](#line)
+4. [Time is the background](#time-is-the-background)
+5. [Flow](#flow)
+6. [Formlessness](#formlessness)
+7. [Memories](#memories)
+8. [Which way [ inf <->1 ]?](#which-way--inf--1-)
+9. [In the beginning](#in-the-beginning)
+10. [Bow & Arrow](#bow--arrow)
+
+## Mathematics
+
+Take a mathematical approach to the spiritual realm, we seek spiritual equations with which we can express the dynamics of the system we are in more truthfully. There may be a spiritual calculus which can be used to describe the interactions that is more descriptive. Just as mathematics challenged and made more coherent, a large portions of our interactions with the world around us, so this spiritual mathematics would do to challenge much of the flotsam that floats around the central lake.
+
+Mathematics does not posit a self as fundamental to being, just a sense of self. We, however, have a false sense of self by believing that any meaningful understanding of this self can be separate from the environment in which it was and is experiencing, as if we could be separate from the brain processing. I mean, we think in our native tongue... and how many different languages have humans already spoken that we know of - and how many more are there to come?
 
 ## Linear
 

@@ -1,7 +1,7 @@
 ---
 title: Introduction - The Challenge to Science
 description: Order Out of Chaos - Ilya Prigogine & Isabel Stengers
-tags: null
+tags: [external]
 author: Alvin Toffler
 date: 2021-12-21T08:08:18.802Z
 modified: 2021-12-21T19:35:02.984Z
@@ -21,7 +21,7 @@ In classical science the emphasis was on time-independent laws. As we shall see,
 
 The urge to reduce the diversity of nature to a web of illusions has been present in Western thought since the time of Greek atomists. Lucretius, following his masters Democritus and Epicurus, writes that the world is "just" atoms and void and urges us to look for the hidden behind the obvious".[^2]
 
-Yet it is well known that the driving force behind the work of the Greek atomists was not to debase nature but to free men from fear, the fear of any supernatural being, of any order that would transcend that of men and nature.[athiest agenda](athiest.html)
+Yet it is well known that the driving force behind the work of the Greek atomists was not to debase nature but to free men from fear, the fear of any supernatural being, of any order that would transcend that of men and nature. What I refer to as an [athiest agenda](/posts/neshama/atheism).
 
 Modern science transmuted this fundamentally ethical stance into what seemed to be an established truth; and this truth, the reduction of nature to atoms and void, in turn gave rise to what Lenoble[^3] has called the "anxiety of modern men." How can we recognize ourselves in the random world of the atoms? Must science be defined in terms of rupture between man and nature? "All bodies, the firmament, the stars, the earth and its kingdoms are not equal to the lowest mind; for mind knows all this in itself and these bodies nothing."[^4]
 

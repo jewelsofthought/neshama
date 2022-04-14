@@ -22,9 +22,9 @@
     "url": "https://github.com/11ty/eleventy-base-blog/issues"
   },
   "homepage": "https://github.com/jewelsofthought/neshama#readme",
-	"engines": {
-		"node": "16.11.1"
-	},
+  "engines": {
+    "node": "16.11.1"
+  },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-navigation": "^0.3.2",
@@ -37,5 +37,9 @@
     "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^8.1.2",
     "markdown-it-footnote": "^3.0.0"
+  },
+  "dependencies": {
+    "markdown-it-attrs": "^4.1.3",
+    "markdown-it-inline-comments": "^1.0.1"
   }
 }

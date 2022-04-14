@@ -6,13 +6,9 @@ tags: null
 modified: 2021-10-20T11:27:41.695Z
 ---
 
-1. [G-d is infinite](#g-d-is-infinite)
-   1. [Soul](#soul)
-   2. [Mathematics](#mathematics)
-
----
-
-# G-d is infinite
+1. [Soul](#soul)
+2. [Spiritual/Material](#spiritualmaterial)
+3. [Three Souls](#three-souls)
 
 - **G-d is infinite** in all directions. Thus He/She is infinitely vulnerable too, just as He/She can be incredibly cruel too.
 
@@ -37,13 +33,7 @@ People don't look for a religion. We have a destination, and they will take the 
 
 ---
 
-## Mathematics
-
-Take a mathematical approach to the spiritual realm, we seek spiritual equations with which we can express the dynamics of the system we are in more truthfully. There may be a spiritual calculus which can be used to describe the interactions that is more descriptive. Just as mathematics challenged and made more coherent, a large portions of our interactions with the world around us, so this spiritual mathematics would do to challenge much of the flotsam that floats around the central lake.
-
-Mathematics does not posit a self as fundamental to being, just a sense of self. We, however, have a false sense of self by believing that any meaningful understanding of this self can be separate from the environment in which it was and is experiencing, as if we could be separate from the brain processing. I mean, we think in our native tongue... and how many different languages have humans already spoken that we know of - and how many more are there to come?
-
----## Spiritual/Material
+## Spiritual/Material
 
 We enmesh the spiritual in the material in a very human way. We hide our lies and deceptions in that hidden, imaginary space, as well as our beauty and love. But what if the consequences of what we do materially have, essentially, material consequences, and not the spiritual ones that we normally are concerned about. Let us first focus on the purely material consequences of our actions, before we delve in the hidden aspects - and that is what I think jurisprudence is expressing. However the judicial system that emerges is crafted by those in power, and thus becomes a tool for maintaining that power - if not in the beginning, but without a doubt emerges at some stage. It starts with revolution to gain freedom, and then the leaders of the revolution become the oppressors - just different faces.
 
@@ -52,3 +42,7 @@ We enmesh the spiritual in the material in a very human way. We hide our lies an
 Notice here, I do not say that they do not affect the spiritual realm, but perhaps not in the manner and due to the events as we believe. As the system is continuous, or recursive - in that the every event is based on a sequence of events that occurred so that the seminal event could manifest. One cannot have vision without an eye, and a "brain" or perceptor of some nature that can "see" the vision. In other words, it has both the mechanism/technology available to see, and the perceptive capability to perceive and cognite (in some meaningful fashion) what is being seen. The one is purely technical, or empirical, the other is uncertain. To the materialist, it is the chemicals, or microtubules, or some other physical measurable event that occurs... whereas to the imaginative, there seems to be another element involved that we cannot measure with our empirical measurements, and is uncertain as to where exactly it is situation (in the brain - or elsewhere) - this we realm of spirit, or soul.
 
 ---
+
+## Three Souls
+
+Your lower soul, _Nefesh_, is your "life force" - that which vivifies the clay that forms your body. Your upper soul, _Neshamah_, is the breathe/spirit that descends from above. It is the breath that is "breathed" into you. From that place is where we need to find an other future, called "The World to Come" or the "Coming World". Between these two souls, there is another, that is like the wind that blows between the two. As the other is like the breath, this is the breathing, the wind, that moves from there to here, and is called _Ruach_, a wind that enters from outside, and is expelled from inside. Thus there is the breath, the breather, and the "air" that is breathed.

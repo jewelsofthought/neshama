@@ -12,11 +12,11 @@ modified: 2022-01-01T14:20:15.566Z
 
 > In the beginning we made earth - heaven already existed.
 
-First we shaped the densities. We did this by simply contracting the space, which focused the [light](light.html). The method is, that if you contain it correctly, with the appropriate resonances, it will start manifesting Order. Once it had cooled sufficiently, we were able to shape it. Something akin to the glassblower.
+First we shaped the densities. We did this by simply contracting the space, which focused the [light](/posts/neshama/light_dark/). The method is, that if you contain it correctly, with the appropriate resonances, it will start manifesting Order. Once it had cooled sufficiently, we were able to shape it. Something akin to the glassblower.
 
-{Immediately, I ask you the question of what is light when there is no darkness? Or what is light really, as far as is known today? It is essentially packatised energy&mdash;represented as intentional waves&mdash;waves that have a direction.}
+{Immediately, I ask you the question of what is light when there is no darkness? Or what is light really, as far as is known today? It is essentially packetised energy&mdash;represented as intentional waves&mdash;waves that have a direction.}
 To continue, I will now say we focused the [energy](energy.html).
-{However, pausing another moment, I ask a second (compound) question: What is energy, and how can there be something remotely like energy as we define it, before there was anthing to produce energy (which itself needs energy to produce energy. Similar to the question of the first spark that we saved to introduce fire into our lives.) So the energy we speak of is nothing like what we call energy&mdash;but to make things easy for us we will call it simply energy. Or as is common nowadays, dark energy.}
+{However, pausing another moment, I ask a second (compound) question: What is energy, and how can there be something remotely like energy as we define it, before there was anything to produce energy (which itself needs energy to produce energy. Similar to the question of the first spark that we saved to introduce fire into our lives.) So the energy we speak of is nothing like what we call energy&mdash;but to make things easy for us we will call it simply energy. Or as is common nowadays, dark energy.}
 
 {NOTE: This is just the manifestation of the material. The emanation of the spiritual into the material must have its proponents, the beings/entities/energies with which the material is manifest. To us it is an emergence, to the spiritual beings it is a "leaving" of the spiritual realm to attach oneself in some way to the spiritual realm, knowing the dangers of interaction with this density.}
 

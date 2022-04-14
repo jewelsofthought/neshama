@@ -93,8 +93,29 @@ module.exports = function(eleventyConfig) {
     return filterTagList([...tagSet]);
   });
 
+   eleventyConfig.addCollection("tagList_neshama", function (collection) {
+    let tagSet_neshama = new Set();
+    collection.getFilteredByTags("neshama").forEach(item => {
+      (item.data.tags || []).forEach(tag => tagSet_neshama.add(tag));
+    })
+
+    return filterTagList([...tagSet_neshama]);
+  });
+
+  // Sorting by order: in front matter
+  // Use: 
+  // {%- for post in collections.oikos | sortByOrder -%}
+  //   {{ post.data.title }} ({{ post.data.order }})
+	// {% endfor %}
+
+  function sortByOrder(values) {
+    let vals = [...values];
+    return vals.sort((a, b) => Math.sign(a.data.order - b.data.order));
+  }
+  eleventyConfig.addFilter('sortByOrder', sortByOrder); 
+
 	eleventyConfig.addCollection("postsAscending", (collection) =>
-		collection.getFilteredByGlob("_posts/*.md").sort((a, b) => {
+		collection.getFilteredByGlob("posts/*.md").sort((a, b) => {
 				if (a.data.title > b.data.title) return -1;
 				else if (a.data.title < b.data.title) return 1;
 				else return 0;
@@ -120,13 +141,14 @@ module.exports = function(eleventyConfig) {
 	const markdownIt = require("markdown-it");
 	const markdownItAnchor = require("markdown-it-anchor");
 	const markdownItFootnote = require("markdown-it-footnote");
+	const markdownItAttr = require("markdown-it-attrs");
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
     linkify: true
-  }).use(markdownItAnchor, {
+  }).use(markdownItAttr).use(markdownItAnchor, {
     permalink: markdownItAnchor.permalink.ariaHidden({
       placement: "after",
       class: "direct-link",
@@ -135,7 +157,13 @@ module.exports = function(eleventyConfig) {
     }),
     slugify: eleventyConfig.getFilter("slug")
   }).use(markdownItFootnote);
-  eleventyConfig.setLibrary("md", markdownLibrary);
+
+	markdownLibrary.renderer.rules.footnote_block_open = () => (
+		'<h4 class="mt-3">Footnotes</h4>\n' +
+		'<section class="footnotes">\n' +
+		'<ol class="footnotes-list">\n'
+	);
+	eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Override Browsersync defaults (used only with --serve)
   eleventyConfig.setBrowserSyncConfig({

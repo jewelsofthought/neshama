@@ -176,3 +176,15 @@ Just as the olive yields light only when it is pounded, so are man’s greatest 
 
 _It is with the service of G-d] just as it is with a victory over a physical opponent; for instance, two people who wrestle with each other, each striving to fell the other. If one of them is lazy and sluggish, he will easily be defeated and will fall, even if he is stronger than the other. Similarly, with the conquest of one’s evil nature, it is impossible to conquer the evil nature with laziness and sluggishness—which stem from sadness and a stone-like dullness of the heart—but rather [it must be conquered] with alacrity, which derives from joy and an open heart that is unblemished by any trace of worry and sadness in the world._
 – Tanya, chapter 26
+
+## The Concealment of the Glory
+
+> כבוד אלוהים הסתר דבר - "The Glory of G-d is to conceal a matter" (Prov. 25:2) impels the initiate not to discourse about or meditate on the _sefirot_ excessively.
+
+"Do not allow your mouth to cause your flesh to sin" (Eccl. 5:4)
+
+Science is necessary to prevent the transmission of secrets that portend the inherently inscurable dimension of Divine Reality, even if permission has been granted to contemplate them. Indeed the contemplation thereof leads one to the discernment that these matters are beyond comprehension."
+
+Zoharic Kabbalah: The reserve to hide secrets is juxtaposed with the modesty of covering one's genitals. The inappropriate disclosure of esoteric wisdom is on par with sexual improprieties.
+
+R' Isaac applied the sin of the mouth to flesh to the transgression of explicating matters of Torah that one did not receive directly from his Master, transmission that is like to the prohibition against making idols or worshipping images.

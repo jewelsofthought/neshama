@@ -2,6 +2,7 @@
 title: Dear Rav Green
 description: Asking a Rabbi for help.
 tags: null
+eleventyExcludeFromCollections: true
 date: 2021-10-26T21:18:01.910Z
 modified: 2022-01-02T10:29:16.621Z
 ---

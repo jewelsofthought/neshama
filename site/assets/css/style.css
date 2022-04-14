@@ -5,3 +5,19 @@
 .main-content li {
   margin: 0.1em 1em;
 }
+
+.poem {
+  margin: auto;
+  font-style: italic;
+  padding-left: 2rem;
+}
+
+@media screen and (min-width: 580px) {
+  .poem {
+    padding-left: 4rem;
+  }
+}
+
+.footnotes {
+  font-size: 80%;
+}
