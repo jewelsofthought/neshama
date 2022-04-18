@@ -22,6 +22,8 @@ date: 2022-03-26
 10. [Basic rules of contamination (n11_39-40)](#basic-rules-of-contamination-n11_39-40)
 11. [Lest you become contaminated (n11_43)](#lest-you-become-contaminated-n11_43)
 12. [Discernment](#discernment)
+13. [Personal Reflections](#personal-reflections)
+14. [The way of heaven](#the-way-of-heaven)
 
 ## Sin of the Golden Calf (n9_1)
 
@@ -235,3 +237,25 @@ We could even generalise the concept of "food" to nourishment and even "pleasure
 
 10:3] בקרבי אקדשׁ ועל־פני כל־העם אכּבד - _I will be sanctified through those who are nearest Me, thus I will be honoured before the entire people._
 10:14] הזה התנוּפה ואת שׁוק התדוּמה
+
+## Personal Reflections
+
+If we contain a spark of the Divine Energy in us, a spark that vivifies the dust of my body providing me with an experience of life that we call Human being, then this very "spark" will contain with it, the potential to perceive any other living being's behviour/motivation&mdash;even perhaps the possiblity of percieving anything in the the universe. This I say, as it has enabled us to percive certain intangibles in our existence. That is the essence of what we have been grappling with throughout our short history. These include all the elements in our environment that are not included in our social constructs. And if they are then it is only representations of these things that become effects within these social contracts. Things like love, hate, greed, passion, avarice, dishonesty, etc; even things like kindness, loyalty, trust, etc are both the motivators and the destructoros of our social dynamics.
+Any system that we fashion will have to take these intangibles into account.
+
+Included in these intangibles are two of the greatest mysteries of our existence. The first is our ability to know of our demise, which is the ability to tell the future. No other animal has that ability, as far as we can tell&mdash;or has not expressed that in any way we can recognise so far. Is it not interesting that one of the spiritual characteristics we most revere is that of the prophet&mdash;which implies one who can know the future.
+
+The second is our ability to conceive of infinity. How can a finite being have any idea of an infinity, which is the very antithesis of its experience. That is why so many people will have difficulty in understanding that concept, the idea that something could be perpetual in the constant cycle of existence and non-existence.
+
+## The way of heaven
+
+> As long as what you use is dedicated to the Divine
+> As long as all you do is dedicated to the Divine.
+
+On _Shabbat_ we are prohibited from performing any of the activities related to the building of the _mishkan_. However, the Torah has many chapters recording the mundance details of its construction. These details are necessary for the mundane mind, and the details of the activities that will take place in the _mishkan_ are descriptions of the sacred ceremonies that will take place.
+
+That the building and the maintanance of the _mishkan_ all take place and exist in the mundane, all the activities and the elements are sacred. Would it not make sense that in the sacred ceremenonies and energy of thet _Mishkan_ we should beging to seek our pathway through the mundane? Not to use the mundane to build the sacred, but the sacred to build the mundane.
+
+Just as the essence of the _shabbat_ is to make it קדושׁ, sacred by seperating it from the mundance. It is the day to break patterns, rest from the demanding aspects of the mundane. It is the day to practice one's dedication to the "way of heaven", not the way of the earth.
+
+.

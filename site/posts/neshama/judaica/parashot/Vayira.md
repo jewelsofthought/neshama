@@ -6,10 +6,10 @@ date: 2020-03-21T16:00:00.000Z
 modified: 2022-03-06T15:17:26.721Z
 ---
 
-1. [Parashat Vayira13](#parashat-vayira13)
+1. [Parashat Vayira](#parashat-vayira)
 2. [Chap 19](#chap-19)
 
-## Parashat Vayira13
+## Parashat Vayira
 
 Every week, a portion of one of the five books of
 Moses, known as the Torah, is read in the synagogue. The reading that I wanted to share some of my insights, and questions regarding is the portion known as Parashat Vayirah. The part of the portion that I discuss in this piece, consists essentially of Genesis, Chapter 18 &amp; 19.
