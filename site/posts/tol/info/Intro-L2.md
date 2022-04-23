@@ -4,6 +4,7 @@ author: Shaun Williams, Phd
 url: http://shaunmwilliams.com/IntroChem/lecture1.html
 tags:
   - science
+  - external
 date: 2021-12-02T12:46:52.292Z
 modified: 2022-01-10T14:12:06.362Z
 ---

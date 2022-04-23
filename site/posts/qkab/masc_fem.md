@@ -6,7 +6,8 @@ ref:
   - privacy_illusion
   - superior_man
   - golden_shadow
-tags: null
+tags:
+  - m&f
 date: 2021-11-17T18:23:23.287Z
 modified: 2022-01-30T19:58:00.956Z
 ---
@@ -17,6 +18,7 @@ modified: 2022-01-30T19:58:00.956Z
 4. [Roles](#roles)
 5. [Desire for Power](#desire-for-power)
 6. [Transform](#transform)
+7. [Limits](#limits)
 
 ## Male & Female
 
@@ -74,3 +76,17 @@ Love, too, needs constant nourishment, though we know that material things are n
 _The female transforms the male energy into form_
 
 However, it requires the union of male &amp; female, and, on the upper level, it requires this union to be harmonious and balanced. If the male is not contained by the female, and manifests form, it is misplace (misappropriated) energy, thus has the tendency to become destructive, as it will need to destroy this form (the female). If energy is not utilised, not only does it go to waste, but it turns toxic. [anaerobic - no oxygen](anaerobic.html). Think of under-utilised electrical energy&mdash;like a fully charged battery.
+
+## Limits
+
+$$\lim_{n \to 0} (1/n) = \infty$$
+
+The feminine’s tendency is towards fullness. She desires to fill the space, and is thus full of connections and counterconnections, circles and the curved intentions.
+
+$$\lim_{n \to \infty} (1/n) = 0$$
+
+The masculine’s tendency is towards nothingness, annihilation, death. His analysis is reductionist, towards the atom, the smallest particle of matter, rather than towards unification, accepting the field of consciousness. He represents the force which is the expression of nothingness in this real. It has no body, no form – it is just pure energy.
+
+Adam, the primordial man, is both male and female. Jung states that the purpose of human life, is the “union of anima and animus". His name is derived from the name of the earth, _adamah_, which is, in essence '$$Adam + h$$'. The ‘$$h$$’ represents the breathe of G!d, as the earth (אדמה adamah) needed the Divine Breath ($$h$$) in order to live..
+
+A side note: $$h$$ is the symbol for [hydrogen](/posts/qkab/hydrogen.md) - which is the first, and most abundant element in the universe. It is also an essential component of both water and oil, the two liquids that comprise all living cells.

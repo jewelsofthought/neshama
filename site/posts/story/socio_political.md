@@ -1,7 +1,9 @@
 ---
 title: Socio-Political Ramblings
 description: Some socio-political thoughts
-tags: null
+tags:
+  - story
+  - personal
 date: 2020-01-30T19:19:23.458Z
 ---
 

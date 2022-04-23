@@ -6,20 +6,22 @@ date: 2021-11-10T09:58:27.423Z
 modified: 2022-02-14T14:13:07.098Z
 ---
 
-1. [Temple](#temple)
-2. [Humble](#humble)
-3. [Joy](#joy)
-4. [Ability to Receive (from 1)](#ability-to-receive-from-1)
-5. [1, 2, 3...](#1-2-3)
-6. [Stand Over/Stand Under](#stand-overstand-under)
-7. [Exile](#exile)
-8. [Walk casually with me...](#walk-casually-with-me)
-9. [Chok - Statute/Decree](#chok---statutedecree)
-10. [Galut (Exile)](#galut-exile)
-11. [Terumah in depth](#terumah-in-depth)
-12. [Listening, speaking, and acting](#listening-speaking-and-acting)
-13. [Tetzaveh](#tetzaveh)
-14. [Sixty Days of Joy](#sixty-days-of-joy)
+1. [Ashrei - אשרי](#ashrei---אשרי)
+2. [Temple](#temple)
+3. [Humble](#humble)
+4. [Joy](#joy)
+5. [Ability to Receive (from 1)](#ability-to-receive-from-1)
+6. [1, 2, 3...](#1-2-3)
+7. [Stand Over/Stand Under](#stand-overstand-under)
+8. [Exile](#exile)
+9. [Walk casually with me...](#walk-casually-with-me)
+10. [Chok - Statute/Decree](#chok---statutedecree)
+11. [Galut (Exile)](#galut-exile)
+12. [Terumah in depth](#terumah-in-depth)
+13. [Listening, speaking, and acting](#listening-speaking-and-acting)
+14. [Tetzaveh](#tetzaveh)
+15. [Sixty Days of Joy](#sixty-days-of-joy)
+16. [The Concealment of the Glory](#the-concealment-of-the-glory)
 
 ```
 שׁמִר רגליך כאשׁר תלך אל־בית האלוהים, וקרוב לשׁמיע מִתֶת
@@ -27,6 +29,10 @@ modified: 2022-02-14T14:13:07.098Z
 
 > "Be not overeager to go to the house of G-d.
 > "Keep (guard) שׂמור רגליך your foot when walking (going) to the temple"
+
+## Ashrei - אשרי
+
+Happy is the person who does not follow the advice of the evil doers or stands in the path of sinners. Nor sits in the place of צום scornful wrong-doers. If he seeks, even delights in, the way the Torah, and conducts himself day and night according to its precepts, he is like the flowering tree planted on the banks of water whose fruit comes forth and provides in its season and leaves remain. All that he does will be successful.
 
 ## Temple
 

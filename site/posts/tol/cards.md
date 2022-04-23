@@ -6,18 +6,53 @@ date: 2022-01-06T17:58:20.377Z
 modified: 2022-01-11T17:10:55.562Z
 ---
 
-1. [Specialisation](#specialisation)
-2. [Systems (old)](#systems-old)
-3. [Sovereignty ~ empowerment](#sovereignty--empowerment)
-4. [Bridging](#bridging)
+1. [New Age Movement](#new-age-movement)
+2. [Labour](#labour)
+3. [Tools need Tools](#tools-need-tools)
+4. [Technology & Solutions](#technology--solutions)
+5. [Specialisation](#specialisation)
+6. [Systems (old)](#systems-old)
+7. [Sovereignty ~ empowerment](#sovereignty--empowerment)
+8. [Bridging](#bridging)
    1. [Between two worlds](#between-two-worlds)
-5. [Power & Governance](#power--governance)
-6. [Governance in the global space.](#governance-in-the-global-space)
-7. [666m (cov-19)](#666m-cov-19)
-8. [Fish](#fish)
-9. [Great Pirates](#great-pirates)
-10. [Information scarcity](#information-scarcity)
-11. [3d Tree of Life](#3d-tree-of-life)
+9. [Power & Governance](#power--governance)
+10. [Governance in the global space.](#governance-in-the-global-space)
+11. [666m (cov-19)](#666m-cov-19)
+12. [Fish](#fish)
+13. [Great Pirates](#great-pirates)
+14. [Information scarcity](#information-scarcity)
+
+## New Age Movement
+
+The so-called “New Age” movement is, at its essence negative. It spends most of its time and energy criticizing the present paradigm, instead of focusing on envisioning and creating a new one.
+
+## Labour
+
+We have made a commodity of labour, separating a person’s labour from the person. Thus we can then quantify the labour, referring to the people as the “labour force” and use it, separate from the “life force” of the person. In this way we can justify using a person’s labour and not compensating them sufficiently to sustain a decent living.
+
+## Tools need Tools
+
+It seems to me a contradiction that we wish to use the very tools to create a life that decries these very tools.
+
+It is still the activities of the enfranchised of the world (those with computers) as opposed to the disenfranchised, those who cannot afford computers. It is about that ever-widening gap, and our inability to bridge it. Carried along with our knowledge of the truth of the need to close this gap, and our fear of making the jump, we hold onto all our things, feeding the patterns we know, and yet at the same time, fear.
+
+We live on the razor edge of this contradiction, always confronting the doubts. How come we are so blessed, surrounded by all this wealth? Are those we deem poor, poor in spirit too? The answer to this is a resounding no. For the experience of poverty is not a lessor spiritual experience than that of wealth. It depends on the person’s relationship to his wealth or poverty that will determine there essential spiritual experience.
+
+In fact, we could generalise that to say that our spiritual experience is defined and determined by our relationship to the material things and aspects of our life.
+
+## Technology & Solutions
+
+We seek technological solutions that are sound to solve the problems that face us and that we have created essentially by the very technology that we wish to amend. It becomes a vote for or against a certain technology, not about the technology itself.
+
+Are we so embedded in this way of life that we can envisage no other? Perhaps it is a question of the mental versus the intuitive. Where the mental is the ability to evaluate and comprehend within a certain set of criterion, whereas the intuitive is placing our faith in the universe and believing in ourselves and our ability to solve the crises before us in a manner that is sustainable. [Expressed in the Kabbalistic concept of **Chochmah** & **Binah** – Wisdom & Understanding]
+
+Perhaps this is the masculine principle versus the feminine. The outer versus the inner. Julia Butterfly exemplified this. She says that she just wished to express the truth – and that truth is her inner truth, as do all of us, the enlightened ones.
+
+It may be interesting if we began to think of ourselves this way. Is it not the truth that there are many who do not, nor do they want to study and deal with the holy places of the Spirit and the planet.
+
+We are the priesthood of the new age. It is not necessary to awaken the sleepers, for their tasks might be different. It is only necessary for the blessed ones to arise and reclaim their rightful places in the earthly paradise in which we live. We will bring heaven and earth together. We have to dedicate ourselves, each and every one of us, to this task and no longer expend energy in trying to change the followers into leaders, nor sheep into wolves. But only recognise our bond together, and acknowledge one another for who and what we are, harnessing our energies in the forging the path, creating the bridge to the new world.
+
+Amen.
 
 ## Specialisation
 
@@ -98,9 +133,3 @@ And why are many aspects of the legal version of this any different? Especially 
 What I have noticed in the last years, is that the information freely available is becoming scarcer. This was not done by privatising the internet, by rather by privatising the information available on the public net. Once again, producing control of the information by the elite. But it did not end there. Then began the campaign to discredit the public source of information. This was done by polluting the information that was flowing along the public channel.
 
 An unintended effect of this, or perhaps it is an intended one, is that idiotic news appeals to idiots, and this generally starts a popular movement - any meme to express the outrage and frustration endemic amongst the oppressed underclass. Remember, the underclass does not necessarily have to oppressed. In fact, they are often the unsung heroes of many a triumph, with their quiet solitude and desire to just have a peaceful and happy life - not striving as those who already have too much seem to be constantly doing.
-
-## 3d Tree of Life
-
-Beginning of a 3d design for the Tree of Life:
-
-![3d - Tree of Life](/posts/img/tol/fn-pillar.png)

@@ -1,7 +1,8 @@
 ---
 title: The Jewel
 description: Each one of us is a gem
-tags: null
+tags:
+  - story
 date: 2021-12-11T16:11:18.856Z
 modified: 2022-01-30T19:17:26.846Z
 ---

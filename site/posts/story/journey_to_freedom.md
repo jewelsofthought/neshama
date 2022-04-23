@@ -2,7 +2,8 @@
 title: Journey to Freedom
 description: Story
 date: 2021-08-31T00:00:00.000Z
-tags: null
+tags:
+  - story
 modified: 2021-11-28T17:48:34.172Z
 ---
 

@@ -7,12 +7,21 @@ date: 2021-08-21T00:00:00.000Z
 modified: 2021-09-23T17:14:48.170Z
 ---
 
-1. [Web of Trust](#web-of-trust)
-2. [Our journey](#our-journey)
-3. [Sacred communities.](#sacred-communities)
-4. [Temple meeting](#temple-meeting)
+1. [Network of Communities](#network-of-communities)
+2. [Web of Trust](#web-of-trust)
+3. [Our journey](#our-journey)
+4. [Sacred communities.](#sacred-communities)
+5. [Temple meeting](#temple-meeting)
    1. [Start with the food & water](#start-with-the-food--water)
-5. [Collaboration, not competition](#collaboration-not-competition)
+6. [Collaboration, not competition](#collaboration-not-competition)
+
+## Network of Communities
+
+Vision of an international network of sustainable communities, sharing knowledge, labour and know-how, as well as resources. Similar to the kibbutz movement. The communities can be both urban and rural. They can consist of a shared household, or a collection of houses, creating a sub-culture that practices sustainable living.
+
+Travel from one community to another, always encountering similar situations, regarding food, etc. Each community would specialise in one aspect of the shift. People will travel to one of those communities to live and work and learn certain skills, as well as meeting people who are associated with the network.
+
+This will help with the cloistered aspect of communities, also helping the communities who need energy and support from and to the outside.
 
 ## Web of Trust
 

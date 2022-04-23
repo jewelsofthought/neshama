@@ -1,9 +1,11 @@
 ---
-title: Biocentrism - Dr. Robert Lanza
+title: Biocentrism
 description: Reality is a process that requires our consciousness
 refURL: https://www.beliefnet.com/faiths/galleries/how-quantum-physics-proves-gods-existence.aspx
+author: Dr. Robert Lanza
 tags:
   - external
+  - neshama
 date: 2021-12-31T13:51:09.712Z
 modified: 2022-02-22T22:53:29.413Z
 ---

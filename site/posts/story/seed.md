@@ -1,7 +1,8 @@
 ---
 title: The Seedling
 description: Nibiru - the seed of coming generations
-tags: null
+tags:
+  - story
 date: 2021-10-31T10:39:53.293Z
 modified: 2022-01-30T19:19:23.458Z
 ---

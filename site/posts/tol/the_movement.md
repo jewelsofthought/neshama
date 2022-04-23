@@ -7,6 +7,7 @@ modified: 2022-01-30T19:49:52.516Z
 ---
 
 1. [The Movement](#the-movement)
+   1. [Globalisation](#globalisation)
       1. [Types](#types)
 2. [The Call](#the-call)
 
@@ -26,6 +27,32 @@ modified: 2022-01-30T19:49:52.516Z
 # The Movement
 
 We call it a "movement", because of the language we are using, though it might be better and more simply expressed as the Move. Because, in actual fact, it is a movement - though it is not a horizontal movement, as moving from one home to another - but one could almost think of it as a vertical movement - though that too is not accurate. I would like to express it, and hope that it is, a dimensional move. In essence, it may be expressed as the movement into another dimension. Though that is not 100% accurate. It is the inclusion of the awareness of another dimension, and acknowledgement of those who are able to work with and in that dimension. Listen to them.
+
+## Globalisation
+
+The story opens with someone dying. It is the story of man’s paradoxes. We always march into the future, which is unstoppable. What is peculiarly human is the desire to stop along the way to enjoy the scenery. It is not so much where we are heading, but more in the way in which we travel.
+
+There is a globalisation that is occurring. Humanity desires this. Our spirit wishes to be connected. Our spirit is what builds the connections. We wish to all belong to the same tribe – the human tribe, and all live in one global village, Earth. We all drink the same water and breathe the same air. So how can I say that this water is mine and I can do to it and use it in whichever way I please?
+
+We say that water is public. Does that allow some to use and abuse it in whichever manner they choose? How can I spew toxins into the air, and say it is not affecting anyone? Air moves freely around the globe, as we now know.
+
+If we all desire this globalisation, this unit, how can we live in a system that upholds private property rights, and allows for the ownership of resources? We have to declare certain resources like air, water and land unknowable--though we are so invested in land ownership, an almost sacrosanct edit – perhaps necessarily so.
+
+But if we do not free all of these, we have to find some way to implement and acknowledge the responsibility that those who “own” these resources that affect us all, have.
+
+We have to: 1. Stop all nuclear production immediately 2. Ban all new nuclear facilities, except those that are necessary for medical purposes. 3. Phase out all inessential military related production. Perhaps transform the military to service orientated activities. 4. Change compulsory military service into a national service orientated activity. 5. Phase out irradiation facilities. 6. Phase out nuclear, coal and oil based energy facilities, replacing them with distributed, local sustainable energy facilities. 7. Remove all non-essential chemical production, except for those that are essential to our survival. 8. Eat and produce only pesticide, chemical free foods that have not been genetically modified. 9. Support alternative and natural healing modalities and products.
+
+We need to gather and come together to create this. We have to plan and co-ordinate this process, make careful decisions, create and implement solutions. We have to help and support one another to make this transition possible.
+
+Enough of separate tribalism. We all know what we need to manifest. All these separate groups like Green Peace, Sierra Club, Earth First, etc. should focus on their area of expertise, and co-ordinate their efforts. We should not be supporting them as separate entities, but they need to combine their efforts so that they can be supported as one unit, having a single purpose.
+
+We begin by building the support infrastructure upon which we can manifest this paradigm. And all these groups are essential in the creation of this model. We first and foremost need a communication and support network, a tree of life network that will connect all of us that believe and know that this current situation needs to change. This is how to link with one another – like holding hands to create a long chain of information and action – that will provide the unity and strength to change the current situation. Once we have that in place, we can start to organise and build this infrastructure so that we can ensure the future for our children.
+
+Note: _This was written many years ago, and like all idealism, the reality of the dream is radically different, and becomes, in the hands of the human ogligarchs, an evil and devious monster. If those who wish for power, whose greed knows no boundaries are the ones who implement such a global system, it will become a system of control and authorotarian dictatorship, and dystopian nightmare. How can those who are disempowered, and believe that they are slaves, ever become masters of their own fates, let alone the fate of the world?_
+
+_So we have the “great reset”, agenda 2030, in which their will be a one-world government run by the global corporations carrying forth decisions that are shaped by an almost unkown, unelected global elite, whose first priority will be to ensure the continuation of their privilege and their power._
+
+There has also arisen another horseman of the Armageddon, and that is the bio-weapons. Once unleashed upon humanity, these man-made virii and amended bacteria will pursue their own agendas, and will be impossible to eradicate or remove.
 
 ### Types
 
