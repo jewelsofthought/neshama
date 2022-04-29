@@ -7,13 +7,15 @@ date: 2022-04-21T00:04:00.000Z
 
 <div style="font-weight: bold; text-align:center">
 <h2>Yesod she’b Chesed</h2>
-Day Six of Week 1:<br /> 
-<i>Connection in Loving</i>
+<i>Day Six of Week 1:</i>
+<p>Connection in Loving</p>
 
 </div>
 <div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">
 <p>
+
 For love to be eternal it requires bonding. A sense of togetherness which actualizes the love in a joint effort. An intimate connection, kinship and attachment, benefiting both parties. This bonding bears fruit; the fruit born out of a healthy union.
+
 </p>
 </div>
 

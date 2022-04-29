@@ -7,8 +7,8 @@ date: 2022-04-22T00:04:00.000Z
 
 <div style="font-weight: bold; text-align:center">
 <h2>Malchut she’b Chesed</h2>
-Day Seven of Week 1:<br /> 
-<i>Receptivity in Love</i>
+<i>Day Seven of Week 1:</i>
+<p>Receptivity in Love</p>
 
 </div>
 <div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">

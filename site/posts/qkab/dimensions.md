@@ -1,55 +1,93 @@
 ---
 title: Dimensions
-description: null
+description: Characteristics of Dimensions
 tags: null
-date: 2021-11-30T15:32:16.154Z
-modified: 2021-11-30T16:12:18.201Z
+date: 2021-11-30T16:32:16.154Z
 ---
 
-1. [2d beings](#2d-beings)
-2. [1,2,3 & 4d entities](#123--4d-entities)
-3. [Life](#life)
+1. [Characteristics of Dimensions](#characteristics-of-dimensions)
+2. [Descriptions of Dimensions](#descriptions-of-dimensions)
+   1. [1D](#1d)
+   2. [2D](#2d)
+   3. [3D](#3d)
+   4. [4D](#4d)
+   5. [4 worlds](#4-worlds)
+3. [Summary](#summary)
+4. [Our Journey to/from Infinity](#our-journey-tofrom-infinity)
+5. [Human](#human)
+   1. [Interactions](#interactions)
 
-## 2d beings
+## Characteristics of Dimensions
 
-Are we essentially planar beings, living in a 3d space like vegetation and animals, who perceive mainly 2d (with a little depth) - like a slice of 3d.
+1. Every dimension contains within it every lower dimension.
+2. There are an infinite amount of projections of any higher dimensional object onto a lower dimension.
+3. The basic “reality” that is experienced in any dimension is the point of interaction, what we often call the “here and now”, a singularity&mdash;the (present) moment.
+4. Every object/event is made up of a set of points.
 
-It is essentially a 2d life form in a 3d space, unaware of the 3d space in which it exists, just as a fish is unaware of the water in which it lives - until that moment that it is ripped from it, and suddenly does not understand why it has been taken from it. Thus only by its absence, and thus dying, can it perceive the water which it needed to live.
+Q: Is a higher dimensional point equivalent to a lower dimensional point?
 
-Perhaps certain humans experience something similar when dying. If God is the ocean of existence, then only upon being removed from that ocean are we suddenly able to understand that we are just like a fish in the ocean.
+Each point can be represented exactly in every dimension. (As it goes up it would increase in dimensionality, but still be a point - albeit an _n_ dimensional one.
+But a point has “emptiness” in it, that can get filled, and so it would remain where it was, perhaps made more dense by all the energy from the upper dimension that has now been collected at that point. This is an interesting way of looking at the density of our dimensions. As one descends, it becomes more and more dense.
 
-All living things must be aware that they are alive. We seem to be the only 2d life form that is aware enough of the 3d space in which it exists.
+5. The point is invariant, irrespective of dimension.
 
-Animals and vegetation are planar because their vector of movement is planar.
+It just takes more variables, more reference information, to locate the point in higher dimensions.
 
-For instance, one might think of a tree as a 3D composition, but its thrust, its dynamic, i.e. its mode of growth, is 2D. For it is essentially linear, with its convolutions being due to environmental and other constraints.
+6. Every N dimensional space has a N+1 brane or skin that “encloses” it. A soccer ball, for example.
 
-That is a branch grows in essentially a straight line, a vector that has a "goal"/direction, and is shaped by environmental influences, emerging not quite as straight as it was meant to be.
+## Descriptions of Dimensions
 
-Similarly an animal, running on the earth lives essentially on the plane. One sees it with a deer trying to escape from a lion. Most of its evasive manoeuvres are angular - unless the need arises to go around something.
+### 1D
 
-Birds & fish experience an 2D but in an extra dimension. In other words they can experience the 3 axes but as 2D planes. One can see it in the evasive manoeuvres of the bird being hunted by another. but still relate to it as planar.
+It is, a moment, an event. Generally represented by a circle. The only information is its position. It signifies the existence of something; its "first" emergence, or manifestation thereof. The point, or tangent of something.
 
-## 1,2,3 & 4d entities
+But that brings us to immediately recognise that if there is 1, a something, there has to be something "else", even if that other is the NOT of the previous. More often, in order for there to be any continuation, any recognition, there has to be at least one other. Basically there cannot be 1 that emerges without their being at least 2&mdash;the 1 that emerged and the whatever it emerged from!
 
-What if the story consisted of 1d entities - who were never seen, only whose presence was able to be detected. There were many stories of their influence, but no-one is certain.
+### 2D
 
-2d's - all over the place, from virii, to insects. Imagine a 2d encountering a 3d. All it will see are the bottom of your boots - from the side. In fact, if you take a step, it will be almost magic to him, for your boot will dissapear - if he is lucky, he will have a glimpse of the sole of your boot, and then reappear somewhere else, probably a decent distance away for him, but for you, it was just a step. Your voice will come from the "heavens" (G-d knows where that is!) - but somewhere "above" him - if he even has the concept of above, otherwise he will percieve it all around him. You kindly kneel down to show him yourself, but this wierd visage, something he could never recognise, let alone describe will suddenly appear close to him, perhaps as large as a mountain. As he has no depth perception or, for the sake of our story, very limited ability, he will only see a partial image of your visage. Something like those sculptures of a face emerging from a rock. I do not think it will assuage his terror at your appearance.
+Represents a this and a that; an other appears, thus there is an awareness of self because of existence of other.
+Now we have length & breadth but no depth
 
-3d's - to the 3d's you are like an ant, or worse, he might not even be able to perceive you, as he has limited 2d perception - though I propose his consciousness is 2d, though the reality that he live in is 3d. He needs to be trained to live from a 3d perspective and is not necessarily more effective than a 2d entity.
+### 3D
 
-Then above 3d, we encounter, or are "under" 4d, something we can only intuit, but not perceive - as we do not have 4d consciousness. But you have to remember something about consciousness - it is like a wave, and thus is an expression of energy, and energy is infinite in expression. That is, it can and will express itself anywhere. In other words, it will find and outlet, using whatever material is available to express itself. The only manifestation will be like the "waves on the ocean", soundless but full of sensation/feeling.
+This could be indicative of a relation between two (at least). It introduces the aspect of depth, thus perspective. Also of reproduction&mdash;out of the two comes the one.
 
-**Every sensation you feel, every thought you are conscious of, every heartbeat is an expression of the energy that permeates - nay, Is - the entire existence.**
+### 4D
 
----
+Represented from our 3D space as the imaginary number. Which has a different space/time continuum. It manifests as effects in our space. Also known as the angelic realm, also the imaginary realm.
 
-## Life
+In relation to 3D, would be able to “see" and pass through walls. Just as a 4d mage could “see the future”, similar to "passing through walls".
 
-Living speaks of a certain fluidity, an ongoing dynamic of a certain nature. With inanimate objects, this "life", this growth is not fluid, but occurs in more discrete steps; plus its growth only affects the object peripherally - perhaps to stabilise its containment.
+A being, or consciousness, fully embodied in a dimension, is very effective within it. One finds man different examples of this. Someone who ignores or denies their 4d consciousness (what the Kabbalists call their _neshama_), will be incredibly efficient in the 3d. One who embraces, and focuses, only on the elements of his 2d existence – separating the world into recognisable/unrecognisable, useful/useless, good or bad will be horribly efficient in the short term, but woeful in the long term.
 
-Living beings also embody an inner consciousness that is expressed in their lives and how we live it.
+### 4 worlds
 
-There is a localised consciousness/will that drives this inanimate object and is a part of their life force i.e. their (involuntary) drive to live. Only humans or imprisoned animals will try to take their own lives.
+The 4 worlds of the Kabbalah, with also the 4 levels of interpretation of the writings, could be interpreted as dimensions, expressed in other terms.
 
-Thus it is not essentially a planar being, but will just be an objective expression of this life force in whatever dimension it emanates in.
+The 4 levels of "worlds" in the multi-world theory.
+
+## Summary
+
+1 -> pt
+2 -> line - relationship between 2 points in space
+3 -> plane/field - encompassing the 2 original points, and their relationship, thus producing shapes. Is the place where the points replicate/reproduce. This is the expression of the points connecting with other already existing elements.
+
+## Our Journey to/from Infinity
+
+Start from 1. Is that really the beginning? Our narrative can only begin with the existence of something – at minimum 1.
+The paradoxical nature of this statement is that actually, in order for there to be any narrative, we need 2 – the binary, the duality, this and that. 1 is insufficient as there is nothing to know of the existence of the singularity, if that is all that there is. One could refer to it as a closed loop. Selfish, self-centred and narcissistic. Thus in order for anything to “exist”, there needs to be 2 – itself and the other, the other that can relate or receive the narrative, the one we call the “witness”.
+
+The accepted wisdom was that everything arose from the One, and everything is reducible to the One. Oneness, which is, was and always will be the Source of Everything. It was our brothers from the Ancient Middle East who alerted us to the existence of a state before the One. A place from which the ‘I’ had not yet emerged. They called it naught, Ø, the empty set – a place where even the one does not exist. This upset the monotheistic religions, who had battled the many, reducing it to the primal One, until we accepted the incorporeal into our language.
+
+## Human
+
+> We are living in 3d space with 4d consciousness, moving along a 2d vector. But are descended from some 5d+ super-consciousness, or root soul.
+
+We are 4d (consciousness) beings having a 3d (real/mundane) experience. Or having an experience of living in a 3d reality.  
+Thus there is something always missing, something that we are always seeking, and the only way we can find it is by accepting the 4d consciousness that we are capable of accessing.
+
+Animals for instance; amoral people; those that live in a world of polarities, of right and wrong, good and evil. If one takes all you have to calculate for 3 dimensions into account, while another is only working in 2, the latter will be able to arrive at a decision sooner, as it can even implement it more swiftly, while you are hamstrung by the extra dimension you are taking into account. However, he is hampered by the inaccurate assessment that will haunt him all through his actions. This is due to propagation of error, which, as an approximation of the reality of the event, will be inevitable.
+
+### Interactions
+
+It is the difference between the one who says, “This is in my way. If I push all else aside, I can continue”, verses the other that considers the effect upon the one being pushed aside. And thus does not deal with the situation in the most efficient way in the moment, but could fumble at the critical point.

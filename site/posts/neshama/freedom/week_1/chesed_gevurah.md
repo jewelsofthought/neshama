@@ -7,8 +7,8 @@ date: 2022-04-17T00:04:00.000Z
 
 <div style="font-weight: bold; text-align:center">
 <h2>Gevurah she’b Chesed</h2>
-Day Two of Week 1:<br /> 
-<i>Restraint in Love</i>
+<i>Day Two of Week 1:</i> 
+<p>Restraint in Love</p>
 
 </div>
 <div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">

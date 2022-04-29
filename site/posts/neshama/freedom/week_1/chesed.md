@@ -44,9 +44,9 @@ which is translated “god”.<br />
 
 Traditionally, _El_ reflects the Universal attributes of Compassion and Mercy. At **Chesed**, Mercy represents the ever-flowing, ever-providing, ever-sustaining Energy of unlimited abundance and possibility. _El_ offers Itself without reservation, and in that sense is truly Merciful and Loving.
 
-## For Contemplation and Meditation
-
 Each feeling we experience is itself a shell containing the unlimited flow of Divine Energy. Open yourself to the abundance of that offering, beginning the journey to experience more fully the Fountain of Life that is always available to us.
+
+## Meditation for the First Week at CHESED.
 
 <blockquote dir="rtl">
 וְאַתָּ֣ה אֲ֭דֹנָי אֵל־רַח֣וּם וְחַנּ֑וּן אֶ֥רֶךְ אַ֝פַּ֗יִם וְרַב־חֶ֥סֶד וֶאֱמֶֽת
@@ -55,8 +55,6 @@ Each feeling we experience is itself a shell containing the unlimited flow of Di
 And You, Eternal One, are El, full of Compassion, Gracious, Long-suffering and Bountiful in Lovingkindness and Truth.<br />
 -- (Psalm 86:15)
 </blockquote>
-
-## Guidelines for the First Week at CHESED.
 
 We begin without a clear image of where we wish to be. From a place of bondage, it is not possible to know the Promised Land. _Mitzrayim_, as the ancient kingdom of Egypt, represents our enslavements, both internal and external. The true slave is the one who believes in his enslavement, and thus his enslavement becomes self-enslavement. In order to find freedom to express what we are, we need to believe in the message of freedom. As long as we are caught in the in negative statements, whether self-to-self or self-to-other, and negative messages about the world, we remain slaves in _Mitzrayim_, which manifests as a place of stuckness.
 

@@ -7,8 +7,8 @@ date: 2022-04-18T00:04:00.000Z
 
 <div style="font-weight: bold; text-align:center">
 <h2>Tiferet she’b Chesed</h2>
-Day Three of Week 1:<br /> 
-<i>Balance in Love</i>
+<i>Day Three of Week 1:</i>
+<p>Balance in Love</p>
 
 </div>
 <div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">

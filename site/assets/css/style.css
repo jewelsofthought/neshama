@@ -21,3 +21,18 @@
 .footnotes {
   font-size: 80%;
 }
+
+.content blockquote:dir(rtl) {
+  text-align: start; /* left in latin, right in arabic */
+  margin-inline-start: 0px; /* margin-left in latin, margin-right in hebrew */
+  border-inline-start: 5px solid gray; /* border-left in latin, border-right in hebrew */
+  padding-inline-start: 15px; /* padding-left in latin, padding-right in hebrew */
+  font-size: 120%;
+}
+
+.blog-post blockquote p:dir(ltr) {
+  font-style: italic;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  font-size: 90%;
+}

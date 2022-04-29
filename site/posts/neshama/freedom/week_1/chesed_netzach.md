@@ -7,8 +7,8 @@ date: 2022-04-19T00:04:00.000Z
 
 <div style="font-weight: bold; text-align:center">
 <h2>Netzach she’b Chesed</h2>
-Day Four of Week 1:<br /> 
-<i>Endurance in Love</i>
+<i>Day Four of Week 1:</i>
+<p>Endurance in Love</p>
 
 </div>
 <div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">
