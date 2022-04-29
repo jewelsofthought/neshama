@@ -2,7 +2,7 @@
 title: Malchut in Gevurah
 description: Receptive Restraint
 tags: null
-date: 2022-04-28T00:04:00.000Z
+date: 2022-04-29T00:04:00.000Z
 ---
 
 <div style="font-weight: bold; text-align:center">
