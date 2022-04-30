@@ -1,6 +1,6 @@
 ---
 title: Paradigm shift
-description: Which means a shift in consciousness. Also know as pivoting.
+description: A shift in consciousness. Also know as pivoting.
 tags: null
 date: 2019-01-01T16:00:00.000Z
 modified: 2022-01-27T08:02:43.006Z

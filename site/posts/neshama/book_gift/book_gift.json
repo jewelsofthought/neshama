@@ -1,0 +1,19 @@
+{
+  "bg001": {
+    "title": "The Source of Everything",
+    "moved": false,
+    "page": [1]
+  },
+  "bg002": {
+    "title": "The Beginning",
+    "moved": "/site/posts/qkab/beginning.md",
+    "page": [2],
+    "ref": ["time", "beginning", "perfect"]
+  },
+  "bg003": {
+    "title": "Masculine & Feminine",
+    "moved": "/qkab/masc_fem.md",
+    "page": [2, 3],
+    "tags": ["m&f"]
+  }
+}

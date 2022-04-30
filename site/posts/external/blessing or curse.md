@@ -2,7 +2,6 @@
 title: Path of Blessing or Curse
 tags:
   - external
-  - neshama
   - judaica
 refURL: https://fgbt.org/Lessons/how-to-choose-the-path-of-blessing-or-curse.html
 date: 2021-10-08T16:17:59.290Z

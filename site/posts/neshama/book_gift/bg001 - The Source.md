@@ -1,13 +1,14 @@
 ---
-title: HaShem
-description: The Source of Everything
+title: The Source of Everything
+description:
 page:
   - 1
 tags:
-  - neshama
 date: 2021-07-23T00:00:00.000Z
 modified: 2021-11-17T18:22:39.609Z
 ---
+
+<br />
 
 ## All change can only happen via יהוה
 

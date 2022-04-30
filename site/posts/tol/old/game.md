@@ -1,9 +1,9 @@
 ---
-title: Game of Consciousness
-description: A world where you could fulfil all your fantasies.
+title: Virtual Reality
+description: Game of Consciousness - A world where you could fulfil all your fantasies.
 date: 2020-08-21T16:00:00.000Z
 tags:
-  - consciousness
+  - story
 modified: 2022-01-30T19:56:11.828Z
 ---
 

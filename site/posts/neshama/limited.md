@@ -1,8 +1,7 @@
 ---
-title: Limited consciousness
+title: Finite Beings
 description: What if our intelligence was limited?
-tags:
-  - consciousness
+tags: null
 date: 2021-11-11T10:41:10.604Z
 modified: 2021-11-26T08:30:37.054Z
 ---

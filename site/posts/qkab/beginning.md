@@ -6,7 +6,13 @@ date: 2021-11-26T14:09:50.217Z
 modified: 2022-01-30T19:47:43.949Z
 ---
 
-# The Beginning
+1. [The Veil](#the-veil)
+2. [Wave of consciousness](#wave-of-consciousness)
+3. [In the beginning](#in-the-beginning)
+4. [A point of density](#a-point-of-density)
+5. [The middle point](#the-middle-point)
+6. [The veil again](#the-veil-again)
+7. [Analysis of "in the beginning"](#analysis-of-in-the-beginning)
 
 ## The Veil
 

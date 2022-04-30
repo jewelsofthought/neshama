@@ -2,7 +2,6 @@
 title: Wave/Particle
 description: Frequency, vibrations, waves - and the included middle.
 tags:
-  - systems
 date: 2021-11-19T15:49:29.346Z
 modified: 2022-01-05T18:19:04.767Z
 ---
