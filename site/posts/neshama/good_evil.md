@@ -2,6 +2,7 @@
 title: Good and Evil
 description: Choice
 tags: null
+date: 2008-01-10T15:38:35.115Z
 ---
 
 1. [Good and evil](#good-and-evil)

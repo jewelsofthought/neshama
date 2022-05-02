@@ -2,7 +2,7 @@
 title: Book of Beliefs & Opinions
 description: Rabbi Saadia Gaon
 tags: null
-date: 2021-10-26T14:48:46.017Z
+date: 2010-01-02T04:11:23.542Z
 modified: 2022-03-02T04:12:05.627Z
 ---
 

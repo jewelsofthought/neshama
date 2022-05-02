@@ -2,7 +2,7 @@
 title: Personhood
 description: Sovereignty and autonomy in the virtual world
 tags: null
-date: 2022-01-03T17:00:53.823Z
+date: 2003-01-17T13:08:51.930Z
 modified: 2022-01-03T18:18:14.780Z
 ---
 

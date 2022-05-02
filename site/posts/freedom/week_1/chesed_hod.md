@@ -29,9 +29,9 @@ How often we grow confused between what is real and what is not real. We cherish
 
 Focusing on these external forms, we expend much energy striving to shore them up without attending to the essence that in fact is their real beauty, their glory. We ourselves cannot help but become caught in this dilemma. The form that holds the Spirit of Love and Light always reflects that beauty, but only when we honour it for what it truly is. The challenge of **Hod** in **Chesed** is just this kind of remembering where that beauty really resides.
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
+<div style="font-style: italic; margin: 2rem; text-align: justify">
 Becoming more aware of my being being the Love of the Universe manifesting, I acknowledge that I am the embodiment of the Love in this Universe. As (long as) I remember my true being, this Love and Compassion reflects in all I meet. I see now with greater clarity, the Blessing of the One Who Gives all life its beauty and its glory – for ever and ever.
-</p>
+</div>
 
 <h3>Reflections</h3>
 

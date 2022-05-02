@@ -27,8 +27,9 @@ Our meditations for this day focus on the energies of the _sefirot_ at the right
 
 In the literal Omer period, following Passover, this is the final day of the Passover celebration for this year. Tomorrow evening we enjoy fresh _chametz_, bread made with leavening. Our ancient tradition speaks to the healing that is accomplished through this first week of meditative focusing. We are renewing our awareness of the multi-dimensionality of our being, and opening ourselves to an ever-expanding journey. It is certainly time to celebrate.
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
+<div style="font-style: italic; margin: 2rem; text-align: justify">
 I focus my awareness more intensely on the Presence of the Divine in this world. I feel its deeper influence throughout my being. I am grateful for its constant love, and am blessed with increased awareness of this  Universal Source of Light/Love. I recognise that all reality is an expression of this Loving Presence. In all I meet, I am nourished by the  energy of its constant love, and am blessed with this Love.
+</div>
 
 <h3>Reflections</h3>
 

@@ -25,9 +25,9 @@ It is through the left side of the Tree that energy finds its form into the worl
 
 All forms grow rigid over time. The the nature of form is to perpetuate itself, and if it cannot expand, it will grow dense and rigid. All energies can overwhelm. That is the nature of force. Negative judgements keep form constrained. Blessings invite flexibility, and foster growth. Therefore we bless the sensations we are manifesting in physical forms, that we might become more, that we can grow more fully into the being that G-d wants us to be. Today, I acknowledge each feeling, each sensation and each perception as a wonder in itself.
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
+<div style="font-style: italic; margin: 2rem; text-align: justify">
 I release the constraints of self-condemnation and self-judgement. I surround myself with the Light of Being and experience the radiance of Its blessing in every cell of my body. The Beauty which flows around me and through me supports my wholeness and healing. I bathe in the Light of this Blessing. I focus on perceiving and expressing this Beauty more completely in my life.
-</p>
+</div>
 
 ## Reflections
 

@@ -3,8 +3,8 @@ title: Emet
 description: null
 tags:
   - external
-date: 2021-11-15T12:46:10.289Z
-modified: 2022-03-02T04:09:21.167Z
+date: 2010-10-02T18:39:50.132Z
+modified: 2019-01-02T04:09:21.167Z
 ---
 
 ## Emet, Wolfson p156

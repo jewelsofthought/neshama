@@ -6,7 +6,7 @@ prevURL: /posts/tolnet/final/02-design/
 prevTitle: Design of the Model
 nextURL: /posts/tolnet/final/04-leaves/
 nextTitle: Stage II - Form the affinities
-date: 2021-12-19T19:25:21.600Z
+date: 2004-06-03T15:38:35.115Z
 modified: 2021-12-22T07:42:56.785Z
 ---
 

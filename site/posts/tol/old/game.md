@@ -1,7 +1,7 @@
 ---
 title: Virtual Reality
 description: Game of Consciousness - A world where you could fulfil all your fantasies.
-date: 2020-08-21T16:00:00.000Z
+date: 2004-01-02T15:38:35.115Z
 tags:
   - story
 modified: 2022-01-30T19:56:11.828Z

@@ -2,7 +2,7 @@
 title: Knowledge & Intention
 description: null
 tags: null
-date: 2021-11-18T10:20:29.954Z
+date: 2008-01-15T15:38:35.115Z
 modified: 2021-11-25T15:58:17.401Z
 ---
 

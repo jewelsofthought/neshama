@@ -3,7 +3,7 @@ title: Introduction - The Challenge to Science
 description: Order Out of Chaos - Ilya Prigogine & Isabel Stengers
 tags: null
 author: Alvin Toffler
-date: 2021-12-03T08:08:18.802Z
+date: 2005-02-04T08:20:00.830Z
 ---
 
 ## 1

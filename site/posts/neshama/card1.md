@@ -2,7 +2,7 @@
 title: Writings - Card 1
 description: null
 tags: null
-date: 2021-12-14T05:57:03.737Z
+date: 2008-01-04T15:38:35.115Z
 modified: 2021-12-14T17:26:13.090Z
 ---
 

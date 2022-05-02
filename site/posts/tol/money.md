@@ -2,7 +2,7 @@
 title: Money
 description: Money and control
 tags: null
-date: 2021-11-18T10:17:47.983Z
+date: 2003-01-13T13:08:51.930Z
 modified: 2021-11-25T09:47:27.323Z
 ---
 

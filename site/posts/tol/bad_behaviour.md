@@ -3,7 +3,7 @@ title: Sword of Truth
 description: The power of collective buying - let the tail wag the dog.
 date: 2021-09-23T09:10:26.630Z
 tags: null
-modified: 2021-09-23T15:40:37.958Z
+modified: 2003-01-02T13:08:51.930Z
 ---
 
 ## Dealing with aberrant nations

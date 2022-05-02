@@ -2,7 +2,7 @@
 title: Shabbat
 description: Breaking patterns
 tags: null
-date: 2021-12-02T08:15:46.620Z
+date: 2004-06-16T15:38:35.115Z
 modified: 2021-12-08T14:02:34.808Z
 ---
 

@@ -4,7 +4,7 @@ author: Elliot Wolfson
 description: The Speculum That Shines, Chapter 03.
 tags:
   - todo
-modified: 2022-02-10T07:08:36.752Z
+date: 2010-11-04T14:51:59+02:00
 ---
 
 From The Speculum That Shines, Chapter 03.

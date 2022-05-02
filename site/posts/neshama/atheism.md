@@ -2,7 +2,7 @@
 title: Atheism
 description: Is the ego king if God is not?
 tags: null
-date:
+date: 2008-01-01T15:38:35.115Z
 ---
 
 - [Athiest](#athiest)

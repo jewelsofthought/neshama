@@ -20,7 +20,7 @@ Setting Limits
 </p>
 
 </div>
-<div style="margin: 2rem;text-align: justify"">
+<div style="margin: 2rem;text-align: justify">
 <p>
 
 If love (**Chesed**) is the basis of human connection, discipline (**Gevurah**) is the forms through which we express love. It gives our life and love shape and focus. **Gevurah**&mdash;discipline and measure&mdash;concentrates and directs our efforts, our desire and love into directions that will emerge in **Malchut**. Another aspect of **Gevurah** is respect and awe. Healthy love requires respect for the one you love.
@@ -49,6 +49,8 @@ The fundamental dynamics of life emerge at **Binah**, while **Gevurah** is the s
 
 **Gevurah** provides the elements of our dreams and of our nightmares, yet it is absolutely essential to manifest our Creative Energy. This week, focus on the forms of your feelings, noticing the polarities they bring and celebrate them. There is no need to resist any feeling, because when feelings are allowed, they reveal themselves – and from this awareness, they shift.[^2]
 
+## The Name of G-d
+
 <div style="text-align: center; font-weight:bold"> 
 The Name of G-d<br />
 at Gevurah<br />
@@ -60,17 +62,21 @@ which is translated “god” or "Lord of Hosts".<br />
 **_Elohim_** is the Name associated with judgement and severity, and so is associated with this _sefirah_. In Jewish tradition, the two most used names of G-d are **_Elohim_** and **_Adonai_** (written **YHVH**). **_Elohim_** is generally translated as “G-d”, **_Adonai_** is generally translated as “Lord” or “Eternal One”.
 **_Elohim_** is actually the plural form of the noun, yet it is almost always translated as if it were singular, and takes a singular verb and modifier. One way of explaining this is to understand **_Elohim_** as the One Being, **_Adonai_**, appearing to our awareness as the many. **_Elohim_** can be appreciated as the Presence of **_Adonai_** within each individual being, enabling us to experience the Immanent aspect of the Divine. This Presence is named **_Shechinah_**, which is also another name for **_Elohim_** in the ancient mystical text called the _Zohar_ or “Book of Splendour”. **_Shechinah_** is also the Presence of the Transcendent **_Adonai_** present in all living things, as well as the world itself!
 
-## Meditation for the First Week at CHESED.
+## Meditation for the Second Week at GEVURAH.
 
 <blockquote dir="rtl">
 הַרְפּ֣וּ וּ֭דְעוּ כִּֽי־אָנֹכִ֣י אֱלֹהִ֑ים
-</blockquote>
-<blockquote>
-Be still, and know that I am Elohim.
+<p dir="ltr">
+Be still, and know that I am Elohim.<br />
 -- (Psalm 46:11)
+</p>
 </blockquote>
 
+<div style="font-style: italic; margin: 2rem; text-align: justify">
+
 Sitting and breathing calmly, become aware of your current experience in the world. Focus on your feelings as they arise. Begin to appreciate them without judgement.
+
+</div>
 
 This exploration requires us to embrace the immediacy of the present moment. As we focus fully and persistently on the contents of our awareness, each moment naturally expands. There is so much more in each moment, in each sensation and feeling,than we had ever noticed before.
 

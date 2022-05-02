@@ -2,7 +2,7 @@
 title: Who/What is G-d?
 description: There is both the dark and the light side of everything
 tags: null
-date: 2021-12-31T13:59:35.698Z
+date: 2008-01-05T15:38:35.115Z
 modified: 2022-01-04T15:21:56.465Z
 ---
 

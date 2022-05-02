@@ -3,7 +3,7 @@ title: Story of the Mekubalim
 description: Written by a Kabbalist
 tags:
   - story
-date: 2021-09-03T00:00:00.000Z
+date: 2001-02-03T00:00:00.000Z
 modified: 2021-11-08T16:26:11.821Z
 ---
 

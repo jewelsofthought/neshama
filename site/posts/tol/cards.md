@@ -2,8 +2,7 @@
 title: Various Thoughts
 description: Miscellaneous ideas
 tags: null
-date: 2022-01-06T17:58:20.377Z
-modified: 2022-01-11T17:10:55.562Z
+date: 2003-01-04T13:08:51.930Z
 ---
 
 1. [New Age Movement](#new-age-movement)

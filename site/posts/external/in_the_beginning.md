@@ -5,7 +5,7 @@ refURL: https://interestingliterature.com/2021/06/john-in-the-beginning-was-the-
 tags:
   - neshama
   - hermetic
-date: 2021-12-23T07:37:03.736Z
+date: 2000-12-23T07:37:03.736Z
 modified: 2022-01-01T14:20:15.566Z
 ---
 

@@ -3,7 +3,7 @@ title: Lecture 2 - Atoms
 author: Shaun Williams, Phd
 url: http://shaunmwilliams.com/IntroChem/lecture1.html
 tags:
-date: 2021-12-02T12:46:52.292Z
+date: 2005-03-05T17:20:34.413Z
 ---
 
 ## Law of the conservation of mass

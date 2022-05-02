@@ -27,6 +27,6 @@ Since **Gevurah** expresses itself as the form of emotions, it is our task to to
 
 This week we focus on the left shoulder, and today we imagine a channel of light between the illuminations at left and right shoulder. Notice that this channel passes through the throat, which is the place that we enter and impact the world with our words. With this awareness, we enter into our experience this day.
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
+<div style="font-style: italic; margin: 2rem; text-align: justify">
 On this day, I encourage myself to awaken to a new reverence for Life, focusing on the Breath of Life energy within every feeling that awakens within me. I accept that the energy of Lovingkindness animates all forms. This awareness helps me appreciate the incredible dance of feelings I experience. My life is filled with blessings.
-</p>
+</div>

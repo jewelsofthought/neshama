@@ -30,14 +30,15 @@ The balance between **Chesed** and **Gevurah** is brought into each of the lower
 
 Our emotions contain force and form which can destroy as well as heal. They can express themselves through both destructive as well as healing forms. Our challenge is to encourage Emotional Force to flow more fully by aligning it with our Emotional Form to provide suitable vehicles for that energy.
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
+<div style="font-style: italic; margin: 2rem; text-align: justify">
 I honour the forms of my emotional expression now. Relaxing both body and mind, I trust the higher forms to manifest through me. I open to receive more fully that I might express more truthfully.
-</p>
+</div>
 
 <h3>Reflections</h3>
 
 <p style="font-style: italic">
 Thank you, O Lord, for the sustenance You provide.
+</p>
 
 **The Long Road of Exodus**
 

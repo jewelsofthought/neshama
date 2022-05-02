@@ -3,7 +3,7 @@ title: Forward - Science and Change
 description: Order Out of Chaos - Ilya Prigogine & Isabel Stengers
 tags: null
 author: Alvin Toffler
-date: 2021-12-01T08:20:16.830Z
+date: 2005-02-02T08:20:00.830Z
 ---
 
 ## SCIENCE AND CHANGE

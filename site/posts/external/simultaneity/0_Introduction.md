@@ -3,7 +3,7 @@ title: 00 - Concepts of Simultaneity
 description: From Einstein to Antiquity
 author: Max Jammer
 tags: null
-date: 2021-11-01T10:53:56.430Z
+date: 2005-01-01T10:53:56.430Z
 ---
 
 1. [00 - Concepts of Simultaneity](#00---concepts-of-simultaneity)

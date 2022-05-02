@@ -1,9 +1,9 @@
 ---
 title: Process Philosophy
-date: 2021-10-19T16:04:12.291Z
 tags:
   - external
   - process
+date: 2008-01-19T23:38:35.115Z
 modified: 2021-11-08T15:59:24.110Z
 ---
 

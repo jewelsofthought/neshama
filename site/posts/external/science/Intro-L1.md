@@ -3,7 +3,7 @@ title: Lecture 1 - Matter and Energy
 author: Shaun Williams, Phd
 url: http://shaunmwilliams.com/IntroChem/lecture1.html
 tags:
-date: 2021-12-02T13:17:24.006Z
+date: 2005-03-04T17:20:34.413Z
 ---
 
 1. [Shaun Williams, PhD](#shaun-williams-phd)

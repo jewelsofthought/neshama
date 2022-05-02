@@ -5,7 +5,7 @@ refURL: https://www.beliefnet.com/faiths/galleries/how-quantum-physics-proves-go
 author: Dr. Robert Lanza
 tags:
   - neshama
-date: 2021-12-31T13:51:09.712Z
+date: 2005-03-02T17:20:34.413Z
 ---
 
 ## Biocentrism

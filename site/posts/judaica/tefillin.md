@@ -2,7 +2,7 @@
 title: Tefillin
 description: It is worn as a sign to remind us...
 tags: [neshama]
-date: 2022-01-20T05:25:37.030Z
+date: 2010-01-08T04:11:23.542Z
 modified: 2022-01-21T08:27:32.751Z
 ---
 

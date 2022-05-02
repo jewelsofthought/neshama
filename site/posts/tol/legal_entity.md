@@ -2,7 +2,7 @@
 title: Legal Entities
 description: Humans are now legal entities!
 tags: null
-date: 2022-01-01T14:26:09.512Z
+date: 2003-01-12T13:08:51.930Z
 modified: 2022-01-01T14:26:12.405Z
 ---
 

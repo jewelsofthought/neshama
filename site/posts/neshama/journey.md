@@ -2,7 +2,7 @@
 title: Hero's Journey
 description: We begin on the inside...
 tags: null
-date: 2021-11-14T17:34:43.129Z
+date: 2008-01-14T15:38:35.115Z
 modified: 2022-01-16T14:37:39.424Z
 ---
 

@@ -2,7 +2,7 @@
 title: Sine Waves
 description: Some explanatory diagrams of sine waves
 tags:
-date: 2021-12-28T13:14:58.471Z
+date: 2005-03-07T17:20:34.413Z
 ---
 
 ## Circular Journey

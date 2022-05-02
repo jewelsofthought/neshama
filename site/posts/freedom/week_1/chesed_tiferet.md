@@ -25,9 +25,9 @@ The central pillar of the Tree provides the place of balance between force and f
 
 Experience each of the two _sefirot_ as glowing spheres of energy, one at your right shoulder, the other at your heart space. Feel the connection between the two, allowing your heart to open to receiving and transmitting the balance it contains, this deeper centring infusing the energy at **Chesed**.
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
+<div style="font-style: italic; margin: 2rem; text-align: justify">
 Through the Heart I speak the deeper message of Love expressing itself in word and deed. I focus my awareness on the channel between Chesed and Gevurah, knowing that I have found the balance when I feel the light of the central pillar at  Tiferet illuminate my entire being, centred in a deep sense of confidence as I breathe these universal rhythms deeply into myself. I am now nourished by the Universal Spirit of Love whispering to me from the depths of my own being. In this awareness I grow and shine.
-</p>
+</div>
 
 <h3>Reflections</h3>
 

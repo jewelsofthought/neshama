@@ -28,5 +28,5 @@ Freedom opens us to the choice to expand. I am free to choose how to live, free 
 
 In this way, the Omer Journey becomes a metaphor for our personal journey from the confines of a place of self-delusion to the wonder of renewed self-creation. This is the task to which we are called by our Tradition. The life of this Universe calls each of us to experience the fullness of our own life. In this way we participate fully in Creation itself.
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
-I step beyond the safe confines of my slavery now. I am filled with the energies of Divine Love, that I might journey with greater purpose and meaning. A deep inner security replaces my dependence on external circumstances, that suppress change. Instead I allow this deep Loving to support my growth.</p>
+<div style="font-style: italic; margin: 2rem; text-align: justify">
+I step beyond the safe confines of my slavery now. I am filled with the energies of Divine Love, that I might journey with greater purpose and meaning. A deep inner security replaces my dependence on external circumstances, that suppress change. Instead I allow this deep Loving to support my growth.</div>

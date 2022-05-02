@@ -29,11 +29,11 @@ Placed at the area of the loins, the very place of **Yesod** on the Tree of the 
 
 Through _nefesh_ we know the pain of separateness, the powerlessness of our separate self when collapsed into alienation from the world and from others. We grow to respect the integrity of our separate selves as we move through the illusions that this realm is all there is and assert the influences of a deeper awareness. **Yesod** moves into **Gevurah** to receive the blessing of its proper form.
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
+<div style="font-style: italic; margin: 2rem; text-align: justify">
 
 I am filled with deep respect for the expression of my uniqueness in the world. All the energies of my being are blessed through my connection to the Source of all Being. My body, my mind, and my emotions server as a vehicle for Being. I am whole and complete now.
 
-</p>
+</div>
 
 ## Personal Reflections
 

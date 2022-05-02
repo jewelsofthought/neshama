@@ -2,7 +2,7 @@
 title: Gokan Mandara
 description: The Mandara of the Ego
 tags: null
-date: 2020-11-16T17:21:39.904Z
+date: 2008-01-09T15:38:35.115Z
 modified: 2021-11-28T16:12:33.545Z
 ---
 

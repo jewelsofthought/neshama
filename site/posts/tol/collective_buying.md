@@ -2,6 +2,7 @@
 title: Co-Op
 description: The power of collective buying - let the tail wag the dog.
 tags: null
+date: 2003-01-06T13:08:51.930Z
 modified: 2021-09-23T15:40:31.756Z
 ---
 

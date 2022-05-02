@@ -2,7 +2,7 @@
 title: Redemption
 description: Judgement of body and soul
 tags: [neshama]
-date: 2021-10-26T14:10:22.122Z
+date: 2010-01-06T04:11:23.542Z
 ---
 
 ## Speak of redemption:

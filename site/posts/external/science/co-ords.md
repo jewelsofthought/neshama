@@ -3,7 +3,7 @@ title: Polar & Cartesian Co-ordinates
 description: null
 url: https://www.grc.nasa.gov/WWW/K-12/airplane/coords.html
 tags:
-date: 2021-11-21T14:50:12.570Z
+date: 2005-03-03T17:20:34.413Z
 ---
 
 1. [Polar & Cartesian Co-ordinates](#polar--cartesian-co-ordinates)

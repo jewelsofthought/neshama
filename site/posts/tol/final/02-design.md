@@ -6,7 +6,7 @@ prevURL: /posts/tolnet/final/01-connect/
 prevTitle: Tree of Life Network (ToLNet)
 nextURL: /posts/tolnet/final/03-connect/
 nextTitle: Stage 1 - Connect to the network
-date: 2021-12-19T19:15:21.600Z
+date: 2004-06-02T15:38:35.115Z
 modified: 2021-12-22T07:42:33.172Z
 ---
 

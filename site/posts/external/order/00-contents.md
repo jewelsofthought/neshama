@@ -3,7 +3,7 @@ title: Table of Contents
 description: Order Out of Chaos - Ilya Prigogine & Isabel Stengers
 tags: null
 author: Alvin Toffler
-date: 2021-12-00T08:20:00.830Z
+date: 2005-02-01T08:20:00.830Z
 ---
 
 FOREWORD: Science and Change by Alvin Toffler

@@ -3,11 +3,10 @@ title: Sustainable Cultures, Sustainable Planet
 description: A Values System Perspective on Constructive Dialogue and Cooperative Action
 url: https://spiraldynamics.net/archives/f/sustainable-cultures-sustainable-planet
 author: Don Edward Beck, Ph.D
-date: 2020-03-05T00:00:00.000Z
+date: 2000-03-05T00:00:00.000Z
 tags:
   - tol
   - external
-modified: 2021-11-26T09:30:34.302Z
 ---
 
 1. [Sustainable Cultures, Sustainable Planet](#sustainable-cultures-sustainable-planet)

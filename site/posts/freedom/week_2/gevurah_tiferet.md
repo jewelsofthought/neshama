@@ -25,6 +25,6 @@ It is this deep compassion of Tiferet, this deep knowing, that will allow **Gevu
 
 The Heart of Life throbs within our chests, Life's Breath breathes its vitality into every cell of our beings. Through every action or dream or thought or deed, this Life moves through us. Life is an interaction, a co-operation, an interdependence. Life moves, shifts, and expands through and with us.
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
+<div style="font-style: italic; margin: 2rem; text-align: justify">
 Today I will open what was closed, awakening new possibilities through the sense of wonder I experience at the expansion taking place deeply within myself. I discover a fountain of compassion living and breathing inside me that nourishes the fuller expression of my Being. In this compassion, I radiate new joy from the creation of forms more fitting to my new experience of Oneness and Integrity.
-</p>
+</div>

@@ -35,8 +35,8 @@ The way is to bring _shalom_, peace within our selves is to balance our internal
 
 In order to bring balance within ourselves, we need to balance our internal heaven and earth, our inner tensions of awareness and forgetting. So the last day of this week holds special promise. In our meditations, we celebrate the awakening of **Malchut** in **Gevurah**.
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
+<div style="font-style: italic; margin: 2rem; text-align: justify">
 
 I release my insistence that things be better than they are, that I might realise the blessings whispering through/hidden within the everyday events of my life. There are higher forms which now manifest through me and around me, to hold more fully the energies of holiness flowing from their Source. I am now more aware of an underlying sense of Peace and Love reflecting through the world which is my present abode, but in which I know I have a deep sense of purpose.
 
-</p>
+</div>

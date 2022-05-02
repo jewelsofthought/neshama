@@ -4,7 +4,8 @@ description: Travelling between worlds
 author: Rabbi Nachman
 tags:
   - external
-date: 2021-11-11T10:38:07.290Z
+  - judaica
+date: 2000-11-11T10:38:07.290Z
 modified: 2022-01-30T19:11:46.492Z
 ---
 

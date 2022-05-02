@@ -2,7 +2,7 @@
 title: Pieces
 description: Random thoughts related from Jewish meanderings.
 tags: null
-date: 2021-11-10T09:58:27.423Z
+date: 2010-01-05T04:11:23.542Z
 modified: 2022-02-14T14:13:07.098Z
 ---
 

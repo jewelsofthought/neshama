@@ -2,7 +2,7 @@
 title: Thoughts on Hebrew
 description:
 tags: null
-date: 2021-12-31T13:51:18.968Z
+date: 2008-01-11T15:38:35.115Z
 ---
 
 1. [Thoughts on Universal "symbols"](#thoughts-on-universal-symbols)

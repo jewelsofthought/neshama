@@ -2,7 +2,7 @@
 title: Stage II - Form the affinities
 description: These are the basic cells/leaves where actual people connect.
 tags: null
-date: 2021-12-19T19:35:21.600Z
+date: 2004-06-04T15:38:35.115Z
 modified: 2021-12-22T07:43:44.985Z
 ---
 

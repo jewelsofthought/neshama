@@ -1,7 +1,7 @@
 ---
 title: ToLNet components
 description: A discussion of the main elements of ToLNet
-date: 2020-10-12T16:00:00.000Z
+date: 2003-01-07T13:08:51.930Z
 tags: null
 modified: 2021-10-12T18:16:11.174Z
 ---

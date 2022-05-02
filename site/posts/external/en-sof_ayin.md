@@ -5,6 +5,7 @@ author: Isaac Tishby
 tags:
   - external
   - judaica
+date: 2010-10-01T16:17:59.290Z
 ---
 
 The whole offering, which symbolises the _Shekhinah_, the Divine Presence, ascends to Binah, which, in the world of the _sefirot_ is the Holy of Holies. The attachment of the human will to God is determined by the concentrated intention of the person bringing the offering.

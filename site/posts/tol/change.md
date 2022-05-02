@@ -1,9 +1,8 @@
 ---
 title: Change
 description: The game has to change.
-date: 2021-09-23T09:10:26.630Z
 tags: null
-modified: 2021-11-26T08:33:22.883Z
+date: 2003-01-05T13:08:51.930Z
 ---
 
 1. [The Game has to change](#the-game-has-to-change)

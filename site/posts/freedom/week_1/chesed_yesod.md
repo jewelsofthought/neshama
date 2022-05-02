@@ -27,9 +27,9 @@ We need the ego to support our survival as a separate entity in the world throug
 
 **Chesed**, the centre of Lovingkindness, is exactly what your ego needs to remember. So this day is one of great significance. This is the place where we can find the balance that we need for the next stage of our journey.
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
+<div style="font-style: italic; margin: 2rem; text-align: justify">
 All that I am is Blessed by the Divine energies of Light. Even my sense of separateness begins to open to this blessing, remembering that I am more than I can ever know. Through whatever difficulties I face, I remember that the world is speaking to me out of Divine Understanding. Through every cell of my being this Loving energy awakens, enabling me to perceive with greater clarity the One Whose Presence is everywhere and everything. As I recognize the Life that flows through all being, I express this life through fuller awareness of myself and acknowledge its presence in all beings. From today I recognise the Life which flows through all and everything that exists, both in me and around me.
-</p>
+</div>
 
 <h3>Reflections</h3>
 

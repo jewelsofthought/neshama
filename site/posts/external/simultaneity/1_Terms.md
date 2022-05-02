@@ -2,7 +2,7 @@
 title: 01 - Terms
 description: From Einstein to Antiquity
 tags:
-date: 2021-11-01T15:33:55.891Z
+date: 2005-01-02T10:53:56.430Z
 ---
 
 1. [Terminological Preliminaries](#terminological-preliminaries)

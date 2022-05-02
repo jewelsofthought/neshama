@@ -2,7 +2,7 @@
 title: Neshama Thoughts
 description: Random thoughts
 tags: null
-date: 2021-11-04T15:02:32.726Z
+date: 2008-01-22T15:38:35.115Z
 modified: 2022-02-14T13:03:44.369Z
 ---
 

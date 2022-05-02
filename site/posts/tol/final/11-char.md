@@ -2,7 +2,7 @@
 title: Decisions
 description: Decision making ideas
 tags: null
-date: 2021-12-19T20:40:21.600Z
+date: 2004-06-11T15:38:35.115Z
 modified: 2021-12-22T07:47:25.033Z
 ---
 

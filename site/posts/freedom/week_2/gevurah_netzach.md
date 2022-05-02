@@ -29,9 +29,9 @@ Give special attention to the physical energies which flow through us and which 
 
 **Gevurah** balances itself this week, bringing in each of the other seven _sefirot_. Today **Gevurah** meets the energy which has been birthed through her, and perhaps appreciates more fully the implications of her role.
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
+<div style="font-style: italic; margin: 2rem; text-align: justify">
 I honour the physical energies of Life which fill me everyday. I trust the forms through which these energies express from the deeper integrity of my Being. My actions in the world grow to reflect more completely the Life which infuses all things.
-</p>
+</div>
 
 ## Reflections
 

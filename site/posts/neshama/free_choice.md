@@ -2,7 +2,7 @@
 title: Thoughts on Philosophy
 description: Random thoughts
 tags: null
-date: 2022-02-14T08:18:17.715Z
+date: 2008-01-08T15:38:35.115Z
 modified: 2022-02-14T08:55:41.769Z
 ---
 

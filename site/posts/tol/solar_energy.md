@@ -1,6 +1,7 @@
 ---
 title: Solar Energy
 description: A critique of a solar energy site.
+date: 2003-01-21T13:08:51.930Z
 tags: null
 ---
 

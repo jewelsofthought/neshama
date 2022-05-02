@@ -27,6 +27,6 @@ We judge habitual limitations to be negative and fight against them, but what we
 
 To honour the current emotional expression of our energies is the challenge of this day. Such acceptance is the key that frees us from old cycles of expression and experience. When we honour ourselves and our past creations, we bring new flexibility into those forms that they might expand into the future full of Life and endure.
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
+<div style="font-style: italic; margin: 2rem; text-align: justify">
 As I become aware of feelings or thoughts of condemnation, for myself or anyone else, that I carry, I release each of them. I continue to repeat this process&mdash;remembering that I am a created being, that can experience with my feelings the Greater Creative Presence which lives in me and as me... until the flow of my feelings and thoughts is clear. Then accepting my current experience, I open to receiving an expansion of feeling, enabling new forms of energy to emerge that express my authentic being. I bless the full flow of Creative energies, that I am now gifted with.
-</p>
+</div>

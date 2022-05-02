@@ -5,7 +5,7 @@ refURL: https://www.thefreelibrary.com/Quantum+Mind%3a+The+Edge+Between+Physics+
 tags:
   - external
 author: Arnold Mindell Lao Tse Press, Portland, Oregon, USA
-date: 2022-01-10T10:11:06.048Z
+date: 2008-01-20T15:38:35.115Z
 modified: 2022-01-13T05:37:16.270Z
 ---
 

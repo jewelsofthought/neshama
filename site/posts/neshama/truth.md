@@ -2,32 +2,40 @@
 title: Truth
 description: The fundamental path. Right thought, right speech & right action.
 tags: null
-date: 2019-02-10T16:00:00.000Z
-modified: 2022-01-27T09:58:35.636Z
+date: 2008-01-24T15:38:35.115Z
+modified: 2022-05-02
 ---
 
-### What: Truth
+## Truth1
 
-> What structure will support that?
+The only way to rebuild our societies' structures will be to have their foundation, their {[axis mundi](axis_mundi.html)}, built upon Truth.
 
-The only structures upon which that can be built will need to have their foundation, their {[axis mundi](axis_mundi.html)}, built upon Truth.
+Not the static truth of Kings and Idolatry, but the ;dynamic, living Truth of the One.
 
-If the structure is an expression of the Oneness of being, and everything that we are able to perceive and communicate with is dealt with wisely - we will find the road to fulfilment.
+If the structure is an expression of that Oneness of being, and the reality whithin which we exist, is dealt with in truth&mdash;which means that both the good and the evil is acknowledged&mdash;we may find the road to fulfilment.
 
-The only way to root this idea in the world is through prayer, meditation, clear think, knowing that Truth is the chisel with which we engrave this concept.
+For to build the truth into our foundations, means to acknowledge our human limitations, to fashion systems that respond to the all aspects of the human being, not just those that we want or like, but encompassing also the dark and challenging aspects of both our natures, and the environment in which we live.
 
-> "You may ask, what is this Truth that you speak of? You talk of it as if it is some sort of absolute truth. We all know that truth is relative, especially in a fluid universe. Tell us of this Truth."
+The only way to root this idea in the world is through prayer, meditation, clear thinking, using the Truth as the chisel with which we engrave the stones of our lives.
 
-> "This Truth that I speak of is also not static, yet it holds a position relative to the object/event that is under observation. and is (measured)[measurement.html] by its distance from what is **really** happening - something we can never be fully aware of. In other words, any perception of the event is only partial. This is because we firstly only see a small segment of the totality of any event, and secondly, because we can only perceive & comprehend an event after it has occurred and if we have the appropriate means of measuring the change so as to be able to register said event.
+## What is Truth?
 
-> The Truth is the event itself, which cannot be discussed in relation to its truth or falsity, for it is simply the event.The Truth as "truth" that we can comprehend&mdash;which essentially means fit it into our narrative of being&mdash;expresses itself subsequent to the event itself. That is the "reality" of the occurrence&mdash;according to our perception. It is in after the event has actually occurred, in the imaginarium of our minds, that we begin to cohere what had just occurred. As time passes, that memory, also fluid, is influenced by some of the factors that arise subsequently. Yet as it morphs, to the narrator it is still the sworn truth - as far as he or she is concerned, and there is little that will dissuade said person.
+"What is this Truth that you speak of? You talk of it as if it is some sort of absolute truth. We all know that truth is relative, especially in a fluid universe. Tell us of this Truth."
 
-> Judging outcomes, truth will always triumph&mdash;for it is the foundation of all occurrences, as the expression of the "natural" forces of the universe. Although slow, each one of Truth's steps are true! Whereas lies flit around like a butterfly on cocaine, always seek peace, but never finding a place to rest, for it has to constantly feed and maintain the lie(s). If it ceases for one moment, all the lies will come tumbling down like a house of cards. It has no source of its own, except the truth, that is its nemesis, and it will use truth, together with strategically placed lies, to its advantage. Thus, of utmost importance, is to be able to have some way, some criterion, some protocol, to enable us to discern between truth and lies.
+"This Truth that I speak of is also not static, yet it holds a position relative to the object/event that is under observation. and is measured by its distance from what is **really** happening&mdash;something we can never be fully aware of.[^1]
 
-> Yet how can one do that if one very parents lie. If one's teachers and leaders lie. Where is truth hiding?
+The Truth of an event is the event itself. Thus it cannot be discussed in relation to its truth or falsity, for it is simply the event. However, the only truth we can know, is the "truth" that we can comprehend&mdash;which is essentially the truth that fits into our current narrative of being&mdash;which can only emerge subsequent to the event itself. That will become the created "reality" of the occurrence, fed by our perceptions, recorded according to our mores. It is only after the event has actually occurred, that it enters the imaginarium of our minds. That is where we begin to shape what had just occurred. As time passes, that memory, also fluid, is influenced by the factors that arise subsequently. As it morphs, and becomes more embedded, taking up residence in our imaginariums, it now becomes the absolute truth - as far as he or she is concerned, and there is little that will dissuade said person.
 
-> Brother, and sister, friend and foe, know that truth is never hidden. As we say, "He" hides in plain sight". For the event is the event, and the truth of the event stands as straight and firm as the shortest line between any two points. Everything else is an approximation, and the closest approximation, the truest rendition of the event itself, will, in truth, always triumph.
+Judging outcomes, Truth will always triumph&mdash;for it is the foundation of all occurrences, as the expression of the actual forces that brought about the event. Although slow, each one of Truth's steps are true. Whereas lies flit around like a butterfly on cocaine, always seeking acknowledgement, but never finding a place to rest, for it has to constantly maintain the lie(s). If it ceases feeding it for one moment, it will begin to die, for it is the product of the finite mind, and thus lives and dies by the hand(s) that formed it. Its source is not true, and is itself a lie (or liar), and the truth is its nemesis, that it will need to battle with all its might. The most successful of lies will place truth, its enemy, amongst its lies, to its advantage. Thus, it is of utmost importance, is to be taught the Truth, so as to be able to discern between truth and lies.
 
-> Lies plays dirty - which one should always except from a low-life like that. It is the name of his game. And of course, we, even if we are truthsayers, need him, so that we can better hone our ability to discern the Truth, helping us to be maintain clarity of the distinction.
+Yet how can one do that if surrounded by people whose lives are based upon a lie? One's parents lie, one's teachers and leaders lie. Where is truth hiding?
 
-> Remember this simple truth: lies cannot hide the truth. They can only blind us to the truth. Like an illusionist, they seduce us to look at what they are presenting - and not what is really going on behind their backs &ndash; so as to speak.
+Brothers, and sisters, friend and foe, know that truth never hides. "He" hides in plain sight". For the event is the event, and the truth of the event stands as straight and firm as the shortest line between any two points. Everything else is an approximation, and the closest approximation, the truest rendition of the event itself, will, in truth, always triumph.
+
+Unless those lies are more convenient, more important to the recipients of the story.
+
+Lies play by their own rules&mdash;which one should always except from a low-life like that. It is the name of his game. Yet even the truthsayers need him, for how else can their be truthsayes if there are no liars?
+
+Remember this simple truth: lies cannot hide the truth. They can only blind us to the truth. Like an illusionist, they seduce us to look at what is being presented&mdash;not what is really going on behind their lies.
+
+[^1]: **Measurement**: Any perception of the event is only partial. This is because we firstly only see a small segment of the totality of any event, and secondly, because we can only perceive & comprehend an event after it has occurred and if we have the appropriate means of perceiving the change so as to be able to measure said event.

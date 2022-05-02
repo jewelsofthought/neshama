@@ -2,7 +2,7 @@
 title: 02 - In Antiquity
 description: From Einstein to Antiquity
 tags:
-date: 2021-11-01T18:38:05.633Z
+date: 2005-01-03T10:53:56.430Z
 ---
 
 1. [The Concept of Simultaneity in Antiquity](#the-concept-of-simultaneity-in-antiquity)

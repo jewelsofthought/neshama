@@ -4,7 +4,7 @@ description: These are the files in which information has to be added.
 tags:
   - todo
 eleventyExcludeFromCollections: true
-modified: 2022-01-31T17:26:16.218Z
+date: 2022-01-31T17:26:16.218Z
 ---
 
 [death](light_dark.html) // neshama
