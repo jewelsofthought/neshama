@@ -6,21 +6,32 @@ site/posts/external/simultaneity       2005-01
 site/posts/external/order              2005-02
 site/posts/external/science            2005-03
 site/posts/tol                         2003-
-site/posts/tol/old                     2004-01
-site/posts/tol/old/tae                 2004-03
-site/posts/tol/final                   2004-06
+site/posts/tol/old                     2003-
+site/posts/tol:economics               2003-02
+site/posts/tol:definitions             2003-09
+site/posts/tol/old/tae                 2003-10
+site/posts/tol/final                   2003-11
+site/posts/external:tol                2003-12
 site/posts/neshama                     2008-
-site/posts/neshama/book_gift           2008-12
+site/posts/neshama/book_gift           2008-01-10
+site/posts/neshama:process             2008-11
+site/posts/external:neshama,hermetic   2008-11-20
 site/posts/judaica                     2010-
 site/posts/judaica/wolfson             2010-10
-site/posts/judaica/wolfson/speculum    2010-11
-site/posts/judaica/zornberg            2010-12
+site/posts/judaica/wolfson/speculum    2010-10-20
+site/posts/judaica/zornberg            2010-11
+site/posts/external:judaica            2010-12-01
+site/posts/external:judaica,hermetic   2010-12-20
+site/posts/
 site/posts/shaman                      2012-01
-site/posts/qkab                        2015-
-site/posts/qkab/universal_kabbalah     2016-01
+site/posts/qkab                        2015-01
+site/posts/qkab,m&f                    2015-10
+site/posts/qkab/universal_kabbalah     2015-11
+site/posts/external:qkab               2015-12
+site/posts/external:covid              2021-12
+
 site/posts/freedom                     2022-
 site/posts/freedom/week_1
 site/posts/freedom/week_3
 site/posts/freedom/week_2
 site/posts/parashot                    2022-
-site/posts/external:judaica            2000-
