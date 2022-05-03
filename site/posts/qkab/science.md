@@ -3,7 +3,7 @@ title: Science
 description: The people of Israel have embraced the new order with a voraciousness that is scary...
 tags:
   - tol
-date: 2022-01-01T14:21:46.847Z
+date: 2015-10-01T22:12:16.154Z
 modified: 2022-01-01T14:23:16.309Z
 ---
 

@@ -4,7 +4,7 @@ description: 'Murmuring Secrets: Eroticism and Esotericism in Medieval Kabbalah'
 author: Elliot R. Wolfson
 tags:
   - external
-date: 2010-10-01T18:39:50.132Z
+date: 2010-10-01T01:39:50.132Z
 ---
 
 ## MURMURING SECRETS: EROTICISM AND ESOTERICISM IN MEDIEVAL KABBALAH

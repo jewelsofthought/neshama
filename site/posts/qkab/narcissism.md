@@ -2,7 +2,7 @@
 title: Pure Narcissism
 description: Deep dive into ancient texts
 tags: null
-date: 2021-10-14T08:41:50.219Z
+date: 2015-01-01T17:02:16.154Z
 modified: 2022-01-05T18:51:01.555Z
 ---
 

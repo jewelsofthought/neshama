@@ -2,7 +2,7 @@
 title: Dimensions
 description: Characteristics of Dimensions
 tags: null
-date: 2021-11-30T16:32:16.154Z
+date: 2015-01-01T10:32:16.154Z
 ---
 
 1. [Characteristics of Dimensions](#characteristics-of-dimensions)

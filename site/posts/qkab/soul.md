@@ -1,8 +1,8 @@
 ---
 title: G-d is infinite
 description: Various pieces, covering various topics. Still to be sorted properly.
-date: 2021-09-20T13:25:45.417Z
 tags: null
+date: 2015-01-01T21:22:16.154Z
 modified: 2021-10-20T11:27:41.695Z
 ---
 

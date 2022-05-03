@@ -3,22 +3,23 @@ title: The Jewel
 description: Each one of us is a gem
 tags:
   - story
-date: 2001-01-01T16:11:18.856Z
+date: 2001-01-01T00:11:18.856Z
 modified: 2022-01-30T19:17:26.846Z
 ---
 
 1. [The Jewel](#the-jewel)
-2. > As soon as a the perception of a new space, or the possibility thereof, is discovered by/in human consciousness, there will always be those who will be drawn to explore that space - no matter the possible consequences, especially if it becomes the goal of a powerful man - or the obsession of one less so.
+
+> As soon as a the perception of a new space, or the possibility thereof, is discovered by/in human consciousness, there will always be those who will be drawn to explore that space - no matter the possible consequences, especially if it becomes the goal of a powerful man - or the obsession of one less so.
 
 # The Jewel
 
 There was a king who lived in a far away land. This king ruled over the whole world. He ruled over everything in it, from the tiniest insect to the behemoth. He ruled over the fire and the water, the winds and even the very breath that we breath. This king ruled for a long, long time. Long before there was even history.
 
-When this king was a young man, still only a prince, he came to his father and announced that
-
 There was ease and peace in his kingdom. His subjects all loved him dearly. They sang his praises constantly, and loved nothing more than regaling his wondrous deeds. The king himself was at peace. He had succeeded in his goal of bringing stability and prosperity to all his subjects.
 
-[Chirabah](abyss.html) As a young man, the prince had undergone the most rigorous training in all the sciences and arts both of the apparent and the hidden. In order to claim the title of king he had to pass through the abyss of _Chirabah_, and return with the gift that he would receive, if he survived.
+[Chirabah](abyss.html)
+
+As a young man, the prince had undergone the most rigorous training in all the sciences and arts both of the apparent and the hidden. In order to claim the title of king he had to pass through the abyss of _Chirabah_, and return with the gift that he would receive, if he survived.
 
 > He surrounded His Spirit in a precious crystal, so that it could still communicate with the faraway. We call these crystals jewels, or gems. However, each one of these jewels were so precious, that they were each given their own very special vessel with which to be kept safe - so that He could continue to communicate with all his subjects.
 
@@ -47,6 +48,7 @@ Now let's take a closer look at what is happening here. I am simplifying it, bec
 Imagine a jewels that is vibrating in a chamber, and these vibrations, though dampened, are sending out certain frequencies - which have nowhere to go. Thus end up vibrating in the chamber itself, eventually setting up resonances, both harmonic and inharmonic. Eventually, the information will become so confusing, being unable to differentiate between those messages that are coming from the broadcast station and those that are produced as a result of the internal noise that is continuously reverberating in the chamber itself.
 
 To put it more simply, the source of the messages now being received are not all valid. Some are internally generated, and will often result in recursion.
+
 Another potential effect is its influence, both positive and negative, on the stream of messages being received.
 
 Before continuing, we have to ask a pertinent question here. Where is the information that is being received by this jewel being transmitted to? Well, a certain amount is the feedback to keep the shell functioning properly. The rest ... well back along the channel that is receiving from faraway, not from the shell surrounding it.

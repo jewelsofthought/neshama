@@ -2,7 +2,7 @@
 title: The middle
 description: The bifurcation of the excluded middle
 tags: null
-date: 2022-01-05T17:28:16.925Z
+date: 2015-01-01T16:02:16.154Z
 modified: 2022-01-11T17:32:18.974Z
 ---
 

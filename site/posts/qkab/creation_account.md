@@ -3,7 +3,7 @@ title: The Account of Creation
 description: The Account of Creation - Fire, Water and Spirit
 tags:
   - judaica
-date: 2021-11-18T13:41:47.352Z
+date: 2015-01-01T09:32:16.154Z
 modified: 2022-01-30T19:59:22.598Z
 ---
 

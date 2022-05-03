@@ -5,7 +5,7 @@ author: Mikkal (C. Michael Smith, Ph.D.)
 tags:
   - external
   - shaman
-date: 2008-01-13T15:38:35.115Z
+date: 2008-12-13T15:38:35.115Z
 modified: 2022-02-14T14:01:35.208Z
 ---
 

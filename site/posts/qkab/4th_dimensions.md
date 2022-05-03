@@ -2,7 +2,7 @@
 title: 4th Dimensions
 description: The Magic of the 4th Dimension
 tags: null
-date: 2021-11-30T16:32:16.154Z
+date: 2015-01-01T04:32:16.154Z
 ---
 
 Black book large – stuff in pencil.

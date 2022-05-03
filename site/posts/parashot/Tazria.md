@@ -2,7 +2,7 @@
 title: Tazria פרשׁת תזריע
 description: 'Leviticus 12:1-13:59  (ויקרא יב״א־יג״נט)'
 tags: null
-date: 2022-04-02
+date: 2021-04-02
 ---
 
 1. [Laws of human contamination](#laws-of-human-contamination)

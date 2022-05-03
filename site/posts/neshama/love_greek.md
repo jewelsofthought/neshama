@@ -3,7 +3,7 @@ title: Types of Love
 url: https://thoughtcatalog.com/rania-naim/2016/02/the-7-kinds-of-love-and-how-they-can-help-you-define-yours-according-to-the-ancient-greeks/?utm_campaign=related&utm_source=thoughtcatalog&utm_term=rania-naim
 tags:
   - external
-date: 2008-01-15T15:38:35.115Z
+date: 2008-12-15T15:38:35.115Z
 modified: 2021-11-30T16:36:45.816Z
 ---
 

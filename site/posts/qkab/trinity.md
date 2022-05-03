@@ -2,7 +2,7 @@
 title: Trinity - Triangle
 description: The 3-some.
 tags: null
-date: 2021-10-11T08:26:35.929Z
+date: 2015-01-01T22:12:16.154Z
 modified: 2022-01-11T17:10:18.179Z
 ---
 

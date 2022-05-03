@@ -1,24 +1,17 @@
 ---
-title: The Seedling
+title: The Seedlings
 description: Nibiru - the seed of coming generations
 tags:
   - story
-date: 2001-01-05T10:39:53.293Z
+date: 2001-01-16T00:39:53.293Z
 modified: 2022-01-30T19:19:23.458Z
 ---
 
-1. [The Seedling](#the-seedling)
-   1. [The Seeding](#the-seeding)
-   2. [Moses](#moses)
-   3. [Broken Tablets](#broken-tablets)
-   4. [Judaism - A Seed's Evolution](#judaism---a-seeds-evolution)
-      1. [Examples](#examples)
-2. [Story](#story)
-
-# The Seedling
-
-- The Golden Thread
-- The Continuation (_Netzach_)
+1. [The Seeding](#the-seeding)
+2. [Moses](#moses)
+3. [Broken Tablets](#broken-tablets)
+4. [Judaism - A Seed's Evolution](#judaism---a-seeds-evolution)
+   1. [Examples](#examples)
 
 ## The Seeding
 
@@ -26,7 +19,7 @@ modified: 2022-01-30T19:19:23.458Z
 - _Atlanteans_ - technologically/scientifically advanced
 - _Hoovids_ - spiritually/intellectually advanced
 - _Nimurians_- shamans/earth wisdom
-  - Noah and his three sons - Yaphet, Shem, and Ham. Yaphet spawned the European races (science); Shem (the Semites?), the people of the Word (spiritual); and the Ham, the Cushim, or dark-skinned (Negroid) races (magic/shamans/pagan)
+- Noah and his three sons - Yaphet, Shem, and Ham. Yaphet spawned the European races (science); Shem (the Semites?), the people of the Word (spiritual); and the Ham, the Cushim, or dark-skinned (Negroid) races (magic/shamans/pagan)
 - The Atlanteans began to mess with the basic laws of nature, and there were terrible repercussions culminating in overwhelming devastation, known today as _the Flood_
 - The Hoovids saw what was happening and prepared for the future by planting seeds. (_Golden Thread_)
 - This _Golden Thread_ is expressed in/by Hebrew. [Based on the Teaching: One of the reasons G-d drew the Nation out of bondage in Egypt, is that they retained their Hebrew language. What if Hebrew was the language of the seeding. Just as it had been used to "encode" other languages like Portuguese, or German, it could be used to express (almost) any language. The "letters", that is, reading and writing of Hebrew could always be taught, irrespective of the "texts" that were used to teach it. Only the select few, those who were worthy would be allowed access to the "true", and secret teachings - the mysteries - which were written in Hebrew - but could only be understood properly by those who had been taught the "language" i.e. the concepts and components of the system that they described. In other words, it could be hidden in plain sight. Almost as if it had been encoded, and you need the keys to decode it. That is how the seed is/was kept secret. ]
@@ -61,7 +54,3 @@ modified: 2022-01-30T19:19:23.458Z
 
 - there are many examples in modern Judaism of the same methodology playing out during the many years and manners of persecution that the people underwent.
 - Perhaps the _36 Righteous_ - who are Righteous (in the Eyes of the Lord), not necessarily righteous according to men's judgements. They are the carriers of the seed. That is why they are the _Foundations of the World_
-
----
-
-# Story

@@ -1,7 +1,7 @@
 ---
 title: Balak
 description: Numbers 22:2–25:9 - Shabbat, 17 Tammuz, 5778
-date: 2022-01-21T16:00:00.000Z
+date: 2021-01-21T16:00:00.000Z
 tags:
   - todo
 modified: 2022-02-14T10:34:57.966Z

@@ -3,7 +3,7 @@ title: Tetzaveh (Notes)
 description: Exodus 27:20-30:10
 tags:
   - todo
-date: 2022-02-02T01:16:14.428Z
+date: 2021-02-02T01:16:14.428Z
 modified: 2022-03-02T04:46:25.572Z
 ---
 

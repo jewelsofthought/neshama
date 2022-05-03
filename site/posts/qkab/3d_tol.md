@@ -1,7 +1,7 @@
 ---
 title: 3d Tree of Life
 description: Attempting to depict the Tree of Life in 3 dimensions
-date: 2022-03-20T06:00:00.000Z
+date: 2015-01-01T01:32:16.154Z
 tags:
   - dimensions
 ---

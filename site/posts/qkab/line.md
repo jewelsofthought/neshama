@@ -2,7 +2,7 @@
 title: Line
 description: The line & infinity
 tags: [math]
-date: 2021-10-08T08:43:25.481Z
+date: 2015-01-01T16:02:16.154Z
 modified: 2022-01-05T19:07:13.396Z
 ---
 

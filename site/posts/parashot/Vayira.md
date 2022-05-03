@@ -2,7 +2,7 @@
 title: Vayira
 description: Genesis 6:9-11:32
 tags: null
-date: 2020-03-21T16:00:00.000Z
+date: 2021-03-21T16:00:00.000Z
 modified: 2022-03-06T15:17:26.721Z
 ---
 

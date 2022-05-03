@@ -4,7 +4,8 @@ description: Some socio-political thoughts
 tags:
   - story
   - personal
-date: 2001-01-06T19:19:23.458Z
+date: 2001-02-08T00:19:23.458Z
+modified: 2022-02-08T00:19:23.458Z
 ---
 
 ## 1. Sabbath

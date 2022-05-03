@@ -2,7 +2,7 @@
 title: Zero & one
 description: Everything exists between 0 & 1
 tags:
-date: 2021-11-28T09:44:05.859Z
+date: 2015-01-02T01:12:16.154Z
 ---
 
 1. ["I am that I am"](#i-am-that-i-am)

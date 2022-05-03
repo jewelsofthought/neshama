@@ -2,7 +2,7 @@
 title: 4d-designs
 description: Like a mandala made of sand, we build our lives, only for it to be
   washed away in the ocean of time.
-date: 2020-08-22T16:00:00.000Z
+date: 2015-01-01T03:32:16.154Z
 tags:
   - dimensions
 modified: 2022-01-26T13:37:24.380Z

@@ -6,7 +6,7 @@ tags:
   - external
   - judaica
 refURL: 'https://aleph-beta.cdn.prismic.io/aleph-beta/0726ab06-3735-4887-ac84-0d96c143e01e_rosh-hashanah-study-guide-updated+%281%29.pdf'
-date: 2000-09-09T13:00:09.137Z
+date: 2010-12-03T13:00:09.137Z
 modified: 2021-11-25T09:52:06.356Z
 ---
 

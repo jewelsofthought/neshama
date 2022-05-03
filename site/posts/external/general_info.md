@@ -3,7 +3,7 @@ title: Bio-engineering
 tags:
   - covid
   - external
-date: 2000-12-30T19:14:50.850Z
+date: 2021-12-01T01:14:50.850Z
 ---
 
 1. [Nanopore Tech](https://nanoporetech.com) (from Oxford w/Harvard, etc)

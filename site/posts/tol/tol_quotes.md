@@ -1,7 +1,7 @@
 ---
 title: Quotes
 description: Tree of Life Network ideas
-date: 2003-01-25T13:08:51.930Z
+date: 2003-12-02T13:08:51.930Z
 tags:
   - external
 modified: 2021-12-19T18:48:59.753Z

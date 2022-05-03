@@ -3,7 +3,7 @@ title: Chashmal/Electricity
 description: 3d entities, thus above is 4d and below 3d.
 tags:
   - energy
-date: 2021-10-08T13:45:30.693Z
+date: 2015-01-01T07:32:16.154Z
 modified: 2022-01-31T12:24:13.947Z
 ---
 

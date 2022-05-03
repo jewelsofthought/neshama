@@ -6,7 +6,7 @@ ref: Chassidic Masters
 tags:
   - external
   - judaica
-date: 2000-08-21T16:00:00.000Z
+date: 2010-12-02T16:00:00.000Z
 ---
 
 1. [Pleasure as Displeasure](#pleasure-as-displeasure)

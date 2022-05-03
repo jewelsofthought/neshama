@@ -3,7 +3,7 @@ title: Process Philosophy
 tags:
   - external
   - process
-date: 2008-01-19T23:38:35.115Z
+date: 2008-11-19T23:38:35.115Z
 modified: 2021-11-08T15:59:24.110Z
 ---
 

@@ -2,7 +2,7 @@
 title: Kabbalah Pieces
 description: 3 splendours, Everything fits
 tags: null
-date: 2022-04-15T13:21:06.383Z
+date: 2015-01-01T14:02:16.154Z
 ---
 
 1. [(I) 3 splendours (p96 – Kabbalah) tzachtzachot - צחצחות](#i-3-splendours-p96--kabbalah-tzachtzachot---צחצחות)

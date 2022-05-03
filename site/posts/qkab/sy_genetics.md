@@ -3,8 +3,7 @@ title: SY genetics
 description: Interpreting the "Sefer Yetzirah" through Genetic Engineering
 tags:
   - external
-modified: 2021-12-05T18:24:36.841Z
-date: 2021-11-16T17:07:45.231Z
+date: 2015-12-01T21:12:16.154Z
 ---
 
 ## Interpreting the "Sefer Yetzirah" through Genetic Engineering

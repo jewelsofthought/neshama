@@ -1,10 +1,8 @@
 ---
 title: Tefilot Zohar
 description: Prayer before and after reading the Zohar.
-tags:
-	- external
-  - judaica
-date: 2000-10-19T20:30:21.600Z
+tags: [external, judaica]
+date: 2010-12-03T20:30:21.600Z
 ---
 
 ## Prayer prior to reading the Zohar

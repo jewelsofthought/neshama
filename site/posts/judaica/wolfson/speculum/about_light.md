@@ -4,7 +4,7 @@ author: Elliot Wolfson
 description: The Speculum That Shines
 tags:
   - todo
-date: 2010-11-01T14:51:59+02:00
+date: 2010-10-20T00:51:59+02:00
 modified: 2022-02-01T14:51:59+02:00
 ---
 

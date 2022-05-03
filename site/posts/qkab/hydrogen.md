@@ -2,7 +2,7 @@
 title: Hydrogen
 description: The first element, the singular, an angelic influence on everything
 tags: null
-date: 2021-11-17T18:23:23.287Z
+date: 2015-01-01T13:32:16.154Z
 ---
 
 ## Hydrogen bonds

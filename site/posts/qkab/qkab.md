@@ -2,7 +2,7 @@
 title: Quantum Kabbalah (QK)
 description: null
 tags: null
-date: 2021-11-19T15:59:58.832Z
+date: 2015-01-01T20:12:16.154Z
 modified: 2021-11-19T16:36:04.835Z
 ---
 

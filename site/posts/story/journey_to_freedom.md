@@ -11,6 +11,10 @@ modified: 2021-11-28T17:48:34.172Z
 
 ## Good & Evil
 
+test modify
+
+> Personal Question: If we are G-d's psyche having a Divine experience, what is G-d's need for all this pain and suffering? What does He get from all of this insane hurting of one another?
+
 I was fifteen years old when I was raped. I was walking home one day, when a group of young guys dragged me into a shed and abused me, both sexually and emotionally. It was a terrible experience, but yet, in that awesome place of helplessness and terror, there was a gift.
 
 This is my story.
@@ -38,12 +42,10 @@ For example, my story is based on the fact that I was brutally raped at 15.. and
 
 It would be easy to hide behind a denial - and say well G-d, the all-merciful, the all-seeing un-seen, does not exist. Throw the baby out with the bathwater. But there were elements that were present in that event that were filled with awesome - what? Things that occurred that were not of this world, but felt like they occurred in another... dimension? Could that be. I wanted to say another realm - but that is not accurate. It was a realm that is attached to, is of, this realm, but yet not of it. My body was experiencing the reality of what was happening to it, and I was feeling it, like I was there - but yet, here I was, watching it happen too.
 
-> Christians base their religion on the fact that Jesus, the Son of G-d, blessed be His Name, lived and died for our sins. Moslems base it on the fact the Mohammed is a prophet of G-d, may His Name be blessed, Much of the rest is to contextualise the narrative. Jews base their religion on the fact that G-d, may His Name be on my lips for evermore, gave the Jews the Torah.
+> Christians base their religion on the fact that Jesus, the Son of G-d, blessed be His Name, lived and died for our sins. Muslems base it on the fact the Mohammed is a prophet of G-d, may His Name be blessed, Much of the rest is to contextualise the narrative. Jews base their religion on the fact that G-d, may His Name be on my lips for evermore, gave the Jews the Torah.
 
 > At some point someone told a story, and enough people believed his story - and a religion is born. The only difference that the Jews claim is that theirs was a communal revelation. The Eastern faiths seems to have permeated more subtly into the people's mind. But, not being an expert in neither their cultural history nor their faiths, I hesitate to speak to much of them in this context.
 
 Through the years, I have realised that there are many others of us who have had a seminal event (some a series thereof) that has shaped their lives. It is like we are born a block, almost like piece of clay, that is then shaped by the hand of G-d, may I never forget Your Name, or for some Nature, or Chance, or "Some Thing Else". But it was not any of us, collectively or separately, that we know! So whatever put me together, before I was raped, is not of this that I know, whatever name I might give it, or not. Perhaps the DNA is that map, just as every seed contains the map for its particular type of tree. Then the elements and environment shape it in according to the particular set of events that it experiences. We see this in the rings of ancient trees that have been cut [and cut and cut, until there will be no ancient trees left].
 
-This horrible event shaped me in the same way. I have seen these twist people into really ugly shapes and I pity them. But I do cannot truly judge them. I can only make sure that it has not twisted me into a pretzel version of myself.
-
----
+This horrible event shaped me in the same way. I have seen these twist people into really ugly shapes and I pity them. But I cannot truly judge them. I can only make sure that it has not twisted me into a pretzel version of myself.

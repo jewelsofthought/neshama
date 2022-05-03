@@ -1,9 +1,9 @@
 ---
 title: Intention & outcome
 description: Does intention affect outcome?
-date: 2021-09-23T09:10:26.630Z
 tags:
   - tol
+date: 2015-10-01T15:02:16.154Z
 modified: 2021-12-28T09:35:10.093Z
 ---
 

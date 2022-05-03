@@ -2,7 +2,7 @@
 title: Lightning Bolt
 description: The light enters through the crown.
 tags: null
-date: 2021-10-15T13:21:06.383Z
+date: 2015-01-01T15:02:16.154Z
 modified: 2021-11-28T09:44:05.859Z
 ---
 

@@ -3,8 +3,7 @@ title: Terumah (Notes)
 description: Exodus 25:1-27:19
 tags:
   - todo
-date: 2022-02-02T04:16:14.428Z
-modified: 2022-03-02T04:17:08.963Z
+date: 2021-02-02T04:16:14.428Z
 ---
 
 ## Terumah "uplifting"

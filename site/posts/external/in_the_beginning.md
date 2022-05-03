@@ -3,37 +3,43 @@ title: In the beginning
 description: The Word is Logos
 refURL: https://interestingliterature.com/2021/06/john-in-the-beginning-was-the-word-with-god-analysis-meaning/?utm_source=rss&utm_medium=rss&utm_campaign=john-in-the-beginning-was-the-word-with-god-analysis-meaning
 tags:
+  - external
   - neshama
   - hermetic
-date: 2000-12-23T07:37:03.736Z
+date: 2008-12-02T00:20:15.566Z
 modified: 2022-01-01T14:20:15.566Z
 ---
+
+1. [Prologue (pers)](#prologue-pers)
+2. [In the beginning](#in-the-beginning)
 
 ## Prologue (pers)
 
 > In the beginning we made earth - heaven already existed.
 
-First we shaped the densities. We did this by simply contracting the space, which focused the [light](/posts/neshama/light_dark/). The method is, that if you contain it correctly, with the appropriate resonances, it will start manifesting Order. Once it had cooled sufficiently, we were able to shape it. Something akin to the glassblower.
+_First we shaped the densities. We did this by simply contracting the space, which focused the [light](/posts/neshama/light_dark/). The method is, that if you contain it correctly, with the appropriate resonances, it will start manifesting Order. Once it had cooled sufficiently, we were able to shape it. Something akin to the glassblower._
 
-{Immediately, I ask you the question of what is light when there is no darkness? Or what is light really, as far as is known today? It is essentially packetised energy&mdash;represented as intentional waves&mdash;waves that have a direction.}
-To continue, I will now say we focused the [energy](energy.html).
-{However, pausing another moment, I ask a second (compound) question: What is energy, and how can there be something remotely like energy as we define it, before there was anything to produce energy (which itself needs energy to produce energy. Similar to the question of the first spark that we saved to introduce fire into our lives.) So the energy we speak of is nothing like what we call energy&mdash;but to make things easy for us we will call it simply energy. Or as is common nowadays, dark energy.}
+_Immediately, I ask you the question of what is light when there is no darkness? Or what is light really, as far as is known today? It is essentially packetised energy&mdash;represented as intentional waves&mdash;waves that have a direction._
 
-{NOTE: This is just the manifestation of the material. The emanation of the spiritual into the material must have its proponents, the beings/entities/energies with which the material is manifest. To us it is an emergence, to the spiritual beings it is a "leaving" of the spiritual realm to attach oneself in some way to the spiritual realm, knowing the dangers of interaction with this density.}
+_To continue, I will now say we focused the [energy](energy.html)._
 
-{NOTE: This is the fundamental existential and scientific question: Is man able to understand, or comprehend God. My answer is a resounding "NO!". The reason is simple. Even the smallest infinity cannot fit into the finite.}
+_However, pausing another moment, I ask a second (compound) question: What is energy, and how can there be something remotely like energy as we define it, before there was anything to produce energy (which itself needs energy to produce energy. Similar to the question of the first spark that we saved to introduce fire into our lives.) So the energy we speak of is nothing like what we call energy&mdash;but to make things easy for us we will call it simply energy. Or as is common nowadays, dark energy._
+
+_This is just the manifestation of the material. The emanation of the spiritual into the material must have its proponents, the beings/entities/energies with which the material is manifest. To us it is an emergence, to the spiritual beings it is a "leaving" of the spiritual realm to attach oneself in some way to the spiritual realm, knowing the dangers of interaction with this density._
+
+_This is the fundamental existential and scientific question: Is man able to understand, or comprehend God. My answer is a resounding "NO!". The reason is simple. Even the smallest infinity cannot fit into the finite._
 
 ## In the beginning
 
-      In the beginning was the Word' means 'In the beginning was Logos' which means 'at the beginning of everything, there was the entity we know as God, who embodied, and created, the rational principle on which everything is founded'.
+> In the beginning was the Word' means 'In the beginning was Logos' which means 'at the beginning of everything, there was the entity we know as God, who embodied, and created, the rational principle on which everything is founded'.
 
-      John 1:1 opens the larger section sometimes described as the "Prologue to John" (John 1:1–18) which deals with Jesus, the "Word made flesh" who "dwelt among us" (John 1:14).
+> John 1:1 opens the larger section sometimes described as the "Prologue to John" (John 1:1–18) which deals with Jesus, the "Word made flesh" who "dwelt among us" (John 1:14).
 
-      ‘In the beginning was the Word, and the Word was with God, and the Word was God.’
+> ‘In the beginning was the Word, and the Word was with God, and the Word was God.’
 
-> This is the apostatic stance - where there is One, he sees two.
+_This is the apostatic stance - where there is One, he sees two._
 
-> Science is the Logos made manifest. If you sing a song for long enough, the reality of the song will emerge.
+_Science is the Logos made manifest. If you sing a song for long enough, the reality of the song will emerge._
 
 The Gospel of Mark is thought to have been composed the earliest of the four gospels, with Matthew and Luke basing their own accounts on it. The gospel of John was written later still, and of the four, has the strongest claim to actually having been written by one of Jesus’ apostles.
 
@@ -63,10 +69,10 @@ For the Gnostics, Jesus was the true God, as opposed to Yahweh, the creator and 
 
 That is, Logos was God, and Logos made ‘all things’. God made all things, but God was Logos, or the Word.
 
-Jesus represents the feminine, and the crucifixion (Fiction of the Cross) of the feminine. Essentially, because he received (feminine) the punishments that we meted out to him (masculine)&mdash;and died.
+_Jesus represents the feminine, and the crucifixion (Fiction of the Cross) of the feminine. Essentially, because he received (feminine) the punishments that we meted out to him (masculine)&mdash;and died._
 
-Thus humans won that battle against God&mdash;who sent His "son" (according to Christian theology), and we simply hung God up on a couple of pieces of wood, held there by nails and let him die. And G-d did not intervene! Thus either Jesus was not the son of G-d, nor (G-d Himself)&mdash;which would be an anathema to the Catholic narrative. Or we defeated&mdash;in fact, killed&mdash God himself.
+_Thus humans won that battle against God&mdash;who sent His "son" (according to Christian theology), and we simply hung God up on a couple of pieces of wood, held there by nails and let him die. And G-d did not intervene! Thus either Jesus was not the son of G-d, nor (G-d Himself)&mdash;which would be an anathema to the Catholic narrative. Or we defeated&mdash;in fact, killed&mdash God himself._
 
-And we would probably do it again. Interestingly enough, there is a Buddhist saying which goes something like: "If you meet Buddha on the road, kill him!".
+_And we would probably do it again. Interestingly enough, there is a Buddhist saying which goes something like: "If you meet Buddha on the road, kill him!"._
 
-I am not trying to destroy a spiritual belief that sustains and supports millions, just a way of life that is upholding and supporting an ungodly alliance. What I am saying is that we need to throw of this cloak of christianity, to embrace Jesus and his teachings.
+_I am not trying to destroy a spiritual belief that sustains and supports millions, just a way of life that is upholding and supporting an ungodly alliance. What I am saying is that we need to throw of this cloak of christianity, to embrace Jesus and his teachings._

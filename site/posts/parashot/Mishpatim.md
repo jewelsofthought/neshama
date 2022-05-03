@@ -3,7 +3,7 @@ title: Mishpatim
 description: Exodus 21:1-24:18
 tags:
   - todo
-date: 2022-02-02T08:09:57.912Z
+date: 2021-02-02T08:09:57.912Z
 modified: 2022-02-14T10:35:54.288Z
 ---
 

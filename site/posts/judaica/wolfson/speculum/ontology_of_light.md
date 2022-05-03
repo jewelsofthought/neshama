@@ -5,7 +5,7 @@ pages:
   - 288
 tags:
   - external
-date: 2010-11-02T14:51:59+02:00
+date: 2010-10-25T01:51:59+02:00
 ---
 
 1. [ONTOLOGY OF LIGHT AND MYSTICAL VISION](#ontology-of-light-and-mystical-vision)

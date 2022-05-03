@@ -2,7 +2,7 @@
 title: Prophecy
 description: Sight - seer, shaman, prophet, clairvoyent
 tags: null
-date: 2021-10-13T13:23:17.179Z
+date: 2015-01-01T19:12:16.154Z
 modified: 2021-10-15T09:14:09.175Z
 ---
 

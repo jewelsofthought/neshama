@@ -2,7 +2,7 @@
 title: Beshalach
 description: Exodus 13:17-17:16 - Finally, exodus from Egypt
 tags: null
-date: 2022-01-16T11:33:06.076Z
+date: 2021-01-16T11:33:06.076Z
 modified: 2022-02-14T14:21:06.316Z
 ---
 

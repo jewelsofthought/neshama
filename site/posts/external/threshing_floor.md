@@ -3,9 +3,10 @@ title: The Threshing Floor
 description: Discovering Temple Imagery and symbols
 author: Doris Dye
 tags:
+	- judaica
   - hermetic
   - external
-date: 2000-11-17T09:32:42.847Z
+date: 2010-12-20T01:32:42.847Z
 modified: 2022-01-31T14:55:06.056Z
 ---
 
