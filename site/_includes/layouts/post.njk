@@ -15,17 +15,23 @@ templateClass: tmpl-post
 
     <div class="is-pulled-left">
       <span class="meta-time tag is-light is-small">
-        <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
+        <time datetime="{{ page.date | htmlDateString }}">
+        {% if modified %}
+          {{ modified | readableDate }}
+        {% else %}
+          {{ page.date | readableDate }}
+        {% endif %}
+        </time>
       </span>
       &nbsp;
-    </div>
+     </div>
 
     {%- for tag in tags | filterTagList -%}
     {%- set tagUrl %}/tags/{{ tag | slug }}/{% endset -%}
     <div class="is-pulled-right">
       <a href="{{ tagUrl | url }}">
         <span class="tag is-light is-small">
-          <span class="fa fa-tag"></span>
+          <span class="fa fa-tag">&nbsp;</span>
           {{ tag }}
         </span>
       </a>
