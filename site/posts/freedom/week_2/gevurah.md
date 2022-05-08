@@ -5,31 +5,25 @@ tags: null
 date: 2022-04-23T00:01:00.000Z
 ---
 
-<div style="text-align: center"> 
-<span style="font-weight: bold">
-The Second Week <br />
-גבורה<br />
-Gevurah  <br />
-Strength, Restraint, Discipline<br />
-Contraction<br />
-</span>
-
-<p style="font-style: italic; text-align:center">Transformation through Fear[^1] </p>
-<p>
-Setting Limits
-</p>
-
+<div style="text-align: center; font-weight: bold"> 
+<p>The Second Week </p>
+<h1 style="font-size: 300%; text-decoration: underline">גבורה</h1>
+<h2>Gevurah</h2>
+<p>Strength, Restraint, Discipline; Contraction<p />
+<h3 style="font-style: italic">Transformation through Fear</h3>
 </div>
-<div style="margin: 2rem;text-align: justify">
-<p>
+
+<div style="margin-left: 2rem; margin-right: 2rem;text-align: justify">
+
+<div style="font-style: italic">
 
 If love (**Chesed**) is the basis of human connection, discipline (**Gevurah**) is the forms through which we express love. It gives our life and love shape and focus. **Gevurah**&mdash;discipline and measure&mdash;concentrates and directs our efforts, our desire and love into directions that will emerge in **Malchut**. Another aspect of **Gevurah** is respect and awe. Healthy love requires respect for the one you love.
 
-</p>
+</div>
 
-<p style="font-style: italic">
+<h3 style="text-align:center;">Setting Limits</h3>
+
 Breathe quietly, noticing the nature of my experience at this moment. Become more deeply aware of the feelings that are attached to all my thoughts and sensations. Each feeling limits emotional energy and allows it to be experienced and absorbed into my personal space.
-</p>
 
 </div>
 

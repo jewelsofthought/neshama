@@ -5,25 +5,23 @@ tags: null
 date: 2022-04-16T00:02:00.000Z
 ---
 
-<div style="text-align: center"> 
-<span style="font-weight: bold">
-The First Week <br />
-חסד<br />
-Chesed  <br />
-Mercy, Love, Kindness<br />
-Expansion<br />
-</span>
+<div style="text-align: center; font-weight: bold"> 
+<p>The First Week </p>
+<h1 style="font-size: 300%; text-decoration: underline">חסד</h1>
+<h2>Chesed</h2>
+<p>Lovingkindness; Mercy, Love, Kindness; Expansion<p />
+<h3 style="font-style: italic">Transformation through Love</h3>
+</div>
+<div style="margin-left: 2rem; margin-right: 2rem;text-align: justify">
 
-<p style="font-style: italic; text-align:center">Transformation through Love </p>
+<div style="font-style: italic">
+
+Love is the single most powerful and necessary component in life. Love is the origin and foundation of all human interactions. It is both giving and receiving. It allows us to reach above and beyond ourselves. To experience another person and to allow that person to experience us. It is the tool by which we learn to experience the highest reality – G-d. In a single word: love is transcendence.
 
 </div>
-<div style="margin: 2rem;text-align: justify"">
-<p>
-Love is the single most powerful and necessary component in life. Love is the origin and foundation of all human interactions. It is both giving and receiving. It allows us to reach above and beyond ourselves. To experience another person and to allow that person to experience us. It is the tool by which we learn to experience the highest reality – G-d. In a single word: love is transcendence.</p>
+<h3 style="text-align:center">Mercy in Love</h3>
 
-<p style="font-style: italic">
 I take moments of quiet each day this week to appreciate more fully the nature of my experience. I allow myself to expand into the omnipotent and abundant flow of Life behind each feeling I find. This week I embrace the abundant outpouring of possibility.
-</p>
 
 </div>
 
