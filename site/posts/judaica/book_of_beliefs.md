@@ -99,13 +99,10 @@ Thus Vav could also be looked at as an ascent (or portal)
 
 Argument for intelligent design is the fact of a result not being the optimum one. If counter with "perhaps in some greater framework..."... then this greater framework much possess greater intelligence to.
 
-The Word of G-d is Speech -the thought made given voice, made manifest -
-which is the process of _Tzimtzum_. Which is the descent and flow of the Light, or life force, from the upper planes to the lower by a series of contractions. This density continues to occur until it reaches a density that is sufficient for manifest life to appear.
+The Word of G-d is Speech -the thought made given voice, made manifest&mdash;which is the process of _Tzimtzum_. Which is the descent and flow of the Light, or life force, from the upper planes to the lower by a series of contractions. This density continues to occur until it reaches a density that is sufficient for manifest life to appear.
 
-Yet there seems to be a critical threshold beyond which it begins to affect the life
-negatively, and enters into a realm which we call _Sitra Ahara_, the Other. This "threshold" could be identified by the "Light becoming Dark", which means that it is less. And that would make sense - as the Light travels further and further from the source, it will get less. This densification of the Light is called _kelipot_.
+Yet there seems to be a critical threshold beyond which it begins to affect the life negatively, and enters into a realm which we call _Sitra Ahara_, the Other. This "threshold" could be identified by the "Light becoming Dark", which means that it is less. And that would make sense - as the Light travels further and further from the source, it will get less. This densification of the Light is called _kelipot_.
 
-Now, we have a problem, if this Light was the Light of the Creator, it would fill everything, and so how could there be Darkness? Well, in the beginning the Light was supernal, which means it was pure and simple - no darkness, no shadows. Then He "split" the Light, made them essentially male and female - light and dark. This is the fundamental beginning of Creation. It does not begin with Aleph, but with Bet. There can be no story, no drama, no dance, unless there are you have someone to tell the story, or play out the drama with and we spend much of our life seeking that dance partner.
+Now, we have a problem, if this Light was the Light of the Creator, it would fill everything, and so how could there be Darkness? Well, in the beginning the Light was supernal, which means it was pure and simple - no darkness, no shadows. Then He "split" the Light, made them essentially male and female - light and dark. This is the fundamental beginning of Creation. It does not begin with _Aleph_, but with _Bet_. There can be no story, no drama, no dance, unless there are you have someone to tell the story, or play out the drama with and we spend much of our life seeking that dance partner.
 
-We receive light from the Divine Word and Breath ("breathed into his nostrils"), concealed from us, by the Divine Will, and the densification which is our birthright.
-This densification is an expression of the downward thrust of the _Tzimtzum_ towards the centre - which is where Adonai sits.
+We receive light from the Divine Word and Breath ("breathed into his nostrils"), concealed from us, by the Divine Will, and the densification which is our birthright. This densification is an expression of the downward thrust of the _Tzimtzum_ towards the centre - which is where _Adonai_ sits.

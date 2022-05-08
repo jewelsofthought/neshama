@@ -23,7 +23,7 @@ lightning-bolt.png - tree of life diagram stuff
 7. Control - control.html - [ qkab/outcome.md#intentionoutcome ]
 8. -Consensus - consensus.html - [ tolnet/old/tae_questions#benefits-of-a-coherent-social-network] {partial consensus}
 9. decentralised.html - [ tolnet/old/tae_questions#concept ]
-10. dimensions.html - [ qkab/energy#fundamental-property ]
+10. qkab/dimensions.md - [ qkab/energy#fundamental-property ]
 11. energy_exchange.html - [ tolnet/old/tae_questions#people-centric ] { Energy as currency/token }
 12. entanglement.html [tolnet/energy.md#wave-sensation ] { measurement }
 13. entanglement.html - [ qkab/energy#imaginary-wave#a-web-of-communities ]

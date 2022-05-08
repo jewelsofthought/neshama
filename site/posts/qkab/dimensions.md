@@ -5,17 +5,35 @@ tags: null
 date: 2015-01-01T10:32:16.154Z
 ---
 
-1. [Characteristics of Dimensions](#characteristics-of-dimensions)
-2. [Descriptions of Dimensions](#descriptions-of-dimensions)
+1. [Chapter Outline](#chapter-outline)
+2. [Characteristics of Dimensions](#characteristics-of-dimensions)
+3. [Descriptions of Dimensions](#descriptions-of-dimensions)
    1. [1D](#1d)
    2. [2D](#2d)
    3. [3D](#3d)
    4. [4D](#4d)
    5. [4 worlds](#4-worlds)
-3. [Summary](#summary)
-4. [Our Journey to/from Infinity](#our-journey-tofrom-infinity)
-5. [Human](#human)
+4. [Summary](#summary)
+5. [Our Journey to/from Infinity](#our-journey-tofrom-infinity)
+6. [Human](#human)
    1. [Interactions](#interactions)
+
+## Chapter Outline
+
+1. Change the narrative (4D – 3D)
+2. Language transference (angels -> quantum -> 4d)
+3. Multi-dimensionality
+   a) Dimensions
+   b) all action occurs @ 1D, “the point”. What is the point (event, conversation, etc.).
+   c) Sex – the erotic nature of the universe.
+   Pt (masc.), encountering receptor (fem). {Remembering, that this is the process. In order to have a point that is penetrating, one has to have a point that is receiving too.}
+   They touch at a “pt” (or “collection” of points – which form, then, an object or event). Millions of pts of interaction occurring at any and every moment, extending from the center.
+4. Numbers (0 – 9 [10], 1 – 10 [11] -> 12?)
+5. Geometry (shapes, 6, 12, etc)
+6. Space, topology
+7. Quantum
+8. Imaginary numbers
+9. Transcendental states (bliss, nirvana, enlightenment)
 
 ## Characteristics of Dimensions
 

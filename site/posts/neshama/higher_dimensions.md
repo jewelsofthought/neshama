@@ -1,5 +1,5 @@
 ---
-title: Dimensions
+title: Higher Dimensions
 description: How does one perceive a "higher" dimension?
 tags: null
 date: 2008-01-06T15:38:35.115Z

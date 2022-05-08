@@ -25,25 +25,19 @@ _To continue, I will now say we focused the [energy](energy.html)._
 
 _However, pausing another moment, I ask a second (compound) question: What is energy, and how can there be something remotely like energy as we define it, before there was anything to produce energy (which itself needs energy to produce energy. Similar to the question of the first spark that we saved to introduce fire into our lives.) So the energy we speak of is nothing like what we call energy&mdash;but to make things easy for us we will call it simply energy. Or as is common nowadays, dark energy._
 
-_This is just the manifestation of the material. The emanation of the spiritual into the material must have its proponents, the beings/entities/energies with which the material is manifest. To us it is an emergence, to the spiritual beings it is a "leaving" of the spiritual realm to attach oneself in some way to the spiritual realm, knowing the dangers of interaction with this density._
+_This is just the manifestation of the material. The emanation of the spiritual into the material must have its proponents, the beings/entities/energies with which the material is manifest. To us it is an emergence, to the spiritual beings it is a "leaving" of the spiritual realm to attach oneself in some way to the material realm, knowing the dangers of interacting with this density._
 
-_This is the fundamental existential and scientific question: Is man able to understand, or comprehend God. My answer is a resounding "NO!". The reason is simple. Even the smallest infinity cannot fit into the finite._
+_This is the fundamental existential and scientific question: Is man able to understand, or comprehend the Will that manifested this all? My answer is a resounding "NO!". The reason is simple. Even the smallest infinity cannot fit into the finite._
 
 ## In the beginning
 
-> In the beginning was the Word' means 'In the beginning was Logos' which means 'at the beginning of everything, there was the entity we know as God, who embodied, and created, the rational principle on which everything is founded'.
-
-> John 1:1 opens the larger section sometimes described as the "Prologue to John" (John 1:1–18) which deals with Jesus, the "Word made flesh" who "dwelt among us" (John 1:14).
+> 'In the beginning was the Word' means 'In the beginning was Logos' which means 'at the beginning of everything, there was the entity we know as G-d, who embodied, and created, the rational principle on which everything is founded'.
 
 > ‘In the beginning was the Word, and the Word was with God, and the Word was God.’
 
 _This is the apostatic stance - where there is One, he sees two._
 
 _Science is the Logos made manifest. If you sing a song for long enough, the reality of the song will emerge._
-
-The Gospel of Mark is thought to have been composed the earliest of the four gospels, with Matthew and Luke basing their own accounts on it. The gospel of John was written later still, and of the four, has the strongest claim to actually having been written by one of Jesus’ apostles.
-
-Matthew, Mark, and Luke are grouped together as the ‘Synoptic’ gospels, from a word meaning ‘seeing together’. These three accounts all reflect each other to varying degrees. But the Gospel of John is quite different. Right from those opening words, ‘In the beginning was the Word, and the Word was with God, and the Word was God’, John is signalling that his account of Jesus’ life will be treating Jesus as much more than a human being. This is not to say that the other gospel writers don’t also acknowledge that Jesus is the Messiah (as well as a human being), but that John’s Jesus is supernatural and ethereal – otherworldly, almost – right from the beginning.
 
 ‘In the beginning was the Word.’ The original Greek text has Logos, for which ‘the Word’ is our English translation. But Logos is a word that comes with a lot of meanings packed into it, and ‘the Word’ is only a partial reflection of this densely significant word. This term, ‘the Word’, is not found in the Old Testament, and its use in the New Testament is down entirely to John.
 
@@ -69,10 +63,8 @@ For the Gnostics, Jesus was the true God, as opposed to Yahweh, the creator and 
 
 That is, Logos was God, and Logos made ‘all things’. God made all things, but God was Logos, or the Word.
 
-_Jesus represents the feminine, and the crucifixion (Fiction of the Cross) of the feminine. Essentially, because he received (feminine) the punishments that we meted out to him (masculine)&mdash;and died._
+_Jesus represents the feminine, and the crucifixion (Fiction of the Cross) of the feminine. Essentially, because he received (feminine) the punishments that were meted out to him (masculine)&mdash;and died._
 
 _Thus humans won that battle against God&mdash;who sent His "son" (according to Christian theology), and we simply hung God up on a couple of pieces of wood, held there by nails and let him die. And G-d did not intervene! Thus either Jesus was not the son of G-d, nor (G-d Himself)&mdash;which would be an anathema to the Catholic narrative. Or we defeated&mdash;in fact, killed&mdash God himself._
 
 _And we would probably do it again. Interestingly enough, there is a Buddhist saying which goes something like: "If you meet Buddha on the road, kill him!"._
-
-_I am not trying to destroy a spiritual belief that sustains and supports millions, just a way of life that is upholding and supporting an ungodly alliance. What I am saying is that we need to throw of this cloak of christianity, to embrace Jesus and his teachings._

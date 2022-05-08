@@ -29,7 +29,7 @@ modified: 2022-02-01T13:46:40.107Z
 
 One could think of consciousness as self-aware energy, and self-aware energy is energy that is aware of the information it is receiving and transmitting - to a lessor or greater degree.
 
-I like to express it in terms of [dimensions](dimensions.html).
+I like to express it in terms of [dimensions](/posts/qkab/dimensions.md).
 
 The above idea might open one to the theories of _panpsychism_, which says that even a rock has consciousness. It exists as a rock, with all the characteristics of rock, but is it self-aware?
 

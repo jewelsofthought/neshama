@@ -1,6 +1,6 @@
 ---
-title: The Beginning
-description: Introduction to the Tree of Life
+title: Introduction to the Tree of Life
+description:
 tags: null
 date: 2022-04-15T00:01:00.000Z
 ---
