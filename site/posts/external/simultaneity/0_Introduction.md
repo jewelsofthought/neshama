@@ -10,7 +10,7 @@ date: 2005-01-01T10:53:56.430Z
    1. [Introduction](#introduction)
 
 > **We have to bear in mind that all our propositions involving time are always propositions about simultaneous events.**
-> Albert Einstein, 1905
+> -- Albert Einstein, 1905
 
 # 00 - Concepts of Simultaneity
 

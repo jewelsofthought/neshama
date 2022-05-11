@@ -5,18 +5,26 @@ tags: null
 date: 2015-01-01T10:32:16.154Z
 ---
 
-1. [Chapter Outline](#chapter-outline)
-2. [Characteristics of Dimensions](#characteristics-of-dimensions)
-3. [Descriptions of Dimensions](#descriptions-of-dimensions)
+1. [Multi-dimensionality of the Human experience.](#multi-dimensionality-of-the-human-experience)
+2. [Chapter Outline](#chapter-outline)
+3. [Characteristics of Dimensions](#characteristics-of-dimensions)
+4. [Descriptions of Dimensions](#descriptions-of-dimensions)
    1. [1D](#1d)
    2. [2D](#2d)
    3. [3D](#3d)
    4. [4D](#4d)
    5. [4 worlds](#4-worlds)
-4. [Summary](#summary)
-5. [Our Journey to/from Infinity](#our-journey-tofrom-infinity)
-6. [Human](#human)
+5. [Summary](#summary)
+6. [Our Journey to/from Infinity](#our-journey-tofrom-infinity)
+7. [Human](#human)
    1. [Interactions](#interactions)
+
+## Multi-dimensionality of the Human experience.
+
+What if all these entities, our guardian angels, ego, consciousness and many other such associated beings are, in fact, expressions of the multidimensionality of your being. Take, for instance, your Guardian Angel, or even your Daemon. The question is, what would multi-dimensional consciousness actually look/feel like?
+
+The Kabbalah Tree is, in essence, an expression of this multi-dimensionality that we are becoming aware of.
+-- R’ Y”mba
 
 ## Chapter Outline
 

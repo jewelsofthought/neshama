@@ -21,14 +21,14 @@ Interesting exploration of more human centric graphs, to map data, [Knowledge Gr
 ## Invitation - Chaordic Commons
 
 ```
-      An invitation to participate
-      in forming a self-organizing, self-governing global community
-      dedicated to developing, disseminating and implementing
-      new concepts of organization
-      that result in more equitable sharing of power and wealth,
-      improved health, and greater compatibility
-      with the human spirit and biosphere.
-      -- The Chaordic Commons
+An invitation to participate
+in forming a self-organizing, self-governing global community
+dedicated to developing, disseminating and implementing
+new concepts of organization
+that result in more equitable sharing of power and wealth,
+improved health, and greater compatibility
+with the human spirit and biosphere.
+-- The Chaordic Commons
 ```
 
 ## Non-violence

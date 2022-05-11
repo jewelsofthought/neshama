@@ -69,7 +69,7 @@ date: 2022-01-31T17:26:16.218Z
 ./qkab/4d-vision.md
 
 [Time Bound](time.html)
-["In the beginning"](beginning.html)
+
 [imperfection in the Perfection](perfect.html)
 ./book_gift/bg002 - The Beginning.md
 [the cycle that lives in everything](oroborus.html)
