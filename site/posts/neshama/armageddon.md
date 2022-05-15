@@ -14,7 +14,9 @@ modified: 2022-05-09
 
 ## Armageddon
 
-This will herald in an end of days. It is clearly a fight between [good and evil](good_evil.html) It is not a physical fight&mdash;though there may be much fighting that happens&mdash;but a spiritual one. The battle, as usual, is narrowing to be between those that fear G-d, the G!d-fearing, and those that hate G-d, the atheist.
+> Apocalypse: unveiling!
+
+This will herald in an end of days. It is clearly a fight between [good and evil](/site/posts/neshama/good_evil/) It is not a physical fight&mdash;though there may be much fighting that happens&mdash;but a spiritual one. The battle, as usual, is narrowing to be between those that fear G-d, the G!d-fearing, and those that hate G-d, the atheist.
 
 > [Good & evil](good_evil.html): Good always gives you a choice; evil never does. Good supports and nourishes life; evil produces death, destruction, violence and misery.
 

@@ -1,9 +1,9 @@
 ---
-title: Bliss
-description: The timeless/spaceless experience of bliss...
+title: Sex for Bliss
+description: What is the purpose of sex?
 tags: null
 date: 2008-01-02T15:38:35.115Z
-modified: 2021-11-25T14:27:35.678Z
+modified: 2022-05-14T14:27:35.678Z
 ---
 
 1. [Awakening](#awakening)
@@ -27,7 +27,7 @@ An essential shift needs to occur. In order for that to occur, there needs to be
 
 ## Sex
 
-What is the new spiritual experience of sex, when it is no longer to procreate? Can this the need to procreate be fulfilled through love, and our need for love? Procreation was a survival vector, a basic need for survival, as is food. Now it is a vector that if continued will bring us to our knees. What is the new direction?
+What will be the spiritual purpose of sex, when it is no longer to procreate? Can this the need to procreate be fulfilled through love, and our need for love? Procreation was a survival vector, a basic need for survival, as is food. Now it is a vector that if continued will bring us to our knees. What is the new direction?
 
 This will splinter and confuse. What is the goal of sex if not to procreate? This potentially amazing, blissful experience, is not, in essence, love. Can it survive and still fuel us, if it just dedicated to pleasure - the fun fair of life? Which, as we know, especially in the sexual arena, is filled with some very dark energies and desires.
 

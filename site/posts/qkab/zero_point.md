@@ -1,5 +1,5 @@
 ---
-title: Zero & one
+title: Zero & One
 description: Everything exists between 0 & 1
 tags:
 date: 2015-01-02T01:12:16.154Z
@@ -24,7 +24,9 @@ Only the Divine, Great Spirit can be represented by the statement "_I am that I 
 
 In a sense, it represents the trivial statement, the one of identity, represented by $$1 = 1$$.
 
-However, the truth behind it is this: $$I$$ am the only $$I$$ that is fully $$I$$. In other words $$I$$ am the only $$I$$ that fulfils $$I = I$$. This is known as the "enlightened" one, a fully self-realised person. Any one else is $$I < I$$, incomplete, not fully realised, still in flux.
+However, the truth behind it is this: $$I$$ am the only $$I$$ that is fully $$I$$. In other words $$I$$ am the only $$I$$ that fulfils $$I = I$$. This is known as the "enlightened" one, a fully self-realised person. Any one else is $$i < I$$, incomplete, not fully realised, still in flux.
+
+[To represent the Rav's concept of _benoni_ mathmatcially, one could propose that 0 is the wicked person, and 1 is the full-realised, righteous person. Also remembering that nothing can be 0, so that even the completely wicked one is not zero, but at least a small amount greater than 0. However, that could be represented as $$0 < i < 1$$]
 
 ## Everything exists between 0 & 1.
 
@@ -34,11 +36,15 @@ Before I continue, let me set the field. There are certain constraints within wh
 
 Mathematically speaking, there is a one-to-one correspondence between all the real numbers between 0 &amp; 1, and all the integers. In other words for every whole number there is a corresponding number less than one, and greater than zero.
 
+So, between 0 & 1 there is an infinity of numbers, that can be mapped to all whole nubmers that "exist".
+
 ## Atom of Existence
 
 However, rather than launch into a rigorous rationalisation of this idea, I would like to present it rather as a story of an unfolding. A story starting with the awareness of being aware&mdash;something which I like to refer to as "The Axiom of Existence". All I know, without a doubt, is that I aware of being alive. With this awareness comes the awareness of the state of not-being alive. Somehow, we have been granted the ability to perceive the future&mdash;that which is not but will be. In the presence of the certainty of life, we are simultaneously aware our future demise. Of nothing else are we certain&mdash;especially as regards the future.
 
-$$I$$ exist.... $$I$$ am... me?. Let's identify this I as $$1$$... a single entity. However, do not become confused, I am not the One that is everything. I am only one number in the infinity of possible numbers that make up the Infinite One&mdash;to remain in context&mdash;set of numbers.
+This is why, instead of an axiom, I like to refer to this living conscious being, as the atom of (consciousn) existence.
+
+$$I$$ exist.... $$I$$ am... me?. Let's identify this I as $$1$$... a single entity. However, do not become confused, I am not the One that is everything. I am only one number in the infinity of possible numbers&mdash;what is known as the set of numbers&mdash; that make up the Infinite One.
 
 ## In the beginning
 

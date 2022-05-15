@@ -3,6 +3,7 @@ title: Various Thoughts
 description: Miscellaneous ideas
 tags: null
 date: 2003-01-04T13:08:51.930Z
+modified: 2022-05-09
 ---
 
 1. [Victory](#victory)
