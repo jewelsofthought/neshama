@@ -1,8 +1,8 @@
 ---
 title: Transformation through Love
-description:
+description: Love is essential to life
 author: Shimona Tzukernik
-refURL: null
+refURL: https://www.chabad.org/library/article_cdo/aid/3556046/jewish/Transformation-Through-Love.htm
 tags: null
 date: 2022-04-16T00:03:00.000Z
 ---

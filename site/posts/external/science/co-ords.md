@@ -1,15 +1,10 @@
 ---
 title: Polar & Cartesian Co-ordinates
-description: null
+description: Mathematical description of the two systems of geometrical elements
 url: https://www.grc.nasa.gov/WWW/K-12/airplane/coords.html
 tags:
 date: 2005-03-03T17:20:34.413Z
 ---
-
-1. [Polar & Cartesian Co-ordinates](#polar--cartesian-co-ordinates)
-   1. [References](#references)
-
-# Polar & Cartesian Co-ordinates
 
 Mathematics and science were invented by humans to describe and understand the world around us. We live in a world that is defined by three spatial dimensions and one time dimension. Objects move within this domain in two ways. An object [translates](displacement.html), or changes **location**, from one point to another. And an object [rotates](torque.html), or changes its **orientation**. In general, the motion of an object involves both translations in all three directions and rotation about [three principle axes]. On this page we are going to simplify the discussion and neglect changes in time and one of the spatial dimensions. So we will only consider motion in a two-dimensional plane. At the bottom of the page we include some comments about extending these ideas to three dimensions.
 
@@ -35,7 +30,7 @@ On this slide, for simplicity, we have developed the coordinate equations in onl
 
 There is a whole branch of mathematics called **tensor analysis** that deals with the subject of coordinate systems and how to convert between various coordinate systems. This subject becomes very important when we get into the details of calculus and how the values of variables change within a given coordinate system. The choice of coordinate system is often dictated by the geometry of a particular problem. For example, the surface of a tube is more easily described by a cylindrical coordinate system than by a spherical or rectangular coordinate system. It can be done with any three dimensional coordinate system, but the geometry favors the cylindrical in this case.
 
-## References
+<h3> References</h3>
 
 1. [Polar Coordinate System](https://en.wikipedia.org/wiki/Polar_coordinate_system)
 2. [Rectangular Coordinate System](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)

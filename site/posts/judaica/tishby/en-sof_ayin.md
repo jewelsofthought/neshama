@@ -1,16 +1,12 @@
 ---
 title: EN-SOF and AYIN
-description: null
-author: Isaac Tishby
-tags:
-  - external
+description: The Alpha and Omega, beginning and end
+tags: null
 date: 2015-01-01T11:32:16.154Z
 modified: 2022-01-30T19:53:14.934Z
 ---
 
 ## Wisdom of the Zohar
-
-## EN-SOF and AYIN
 
 > (Zohar II, 239a)
 

@@ -1,13 +1,9 @@
 ---
-title: 01 - Terms
-description: From Einstein to Antiquity
-tags:
-date: 2005-01-02T10:53:56.430Z
+title: 'Terminological Preliminaries'
+description: Describing the terms needed for this exposition
+tags: null
+date: 2005-01-01T10:01:01.430Z
 ---
-
-1. [Terminological Preliminaries](#terminological-preliminaries)
-
-## Terminological Preliminaries
 
 The topic of the present chapter is primarily not the concept of simultaneity but rather the word or the verbal expression that denotes this concept. As far as semantic considerations are involved, it suffices at this stage to define the term “simultaneity,” as understood by common sense, as the “temporal coincidence of events.”
 

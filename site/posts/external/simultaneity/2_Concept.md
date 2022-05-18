@@ -1,13 +1,9 @@
 ---
-title: 02 - In Antiquity
-description: From Einstein to Antiquity
-tags:
-date: 2005-01-03T10:53:56.430Z
+title: '02: The Concept of Simultaneity in Antiquity'
+description: How the ancients defined simultaneity
+tags: null
+date: 2005-01-01T10:02:01.430Z
 ---
-
-1. [The Concept of Simultaneity in Antiquity](#the-concept-of-simultaneity-in-antiquity)
-
-## The Concept of Simultaneity in Antiquity
 
 It is often said that the language of science is an extension or refinement of the language of ordinary life, because scientific concepts, no matter how sophisticated they may be, must ultimately be explainable by means of concepts used in the ordinary experiences of daily life.
 

@@ -1,17 +1,18 @@
 ---
-title: Lecture 2 - Atoms
+title: Atoms
 author: Shaun Williams, Phd
+description: Second lecture in the series about the physical elements of our world.
 url: http://shaunmwilliams.com/IntroChem/lecture1.html
 tags:
-date: 2005-03-05T17:20:34.413Z
+date: 2005-03-04T17:21:34.413Z
 ---
 
 ## Law of the conservation of mass
 
-            the mass of the products (overall) always equals the mass of the reacting substances
+> the mass of the products (overall) always equals the mass of the reacting substances
 
 A Graphic of the Atom
-[Graphic of the Atom](https://shaunmwilliams.com/IntroChem/lecture2.html#slide-7)
+![Graphic of the Atom](https://shaunmwilliams.com/IntroChem/figures/chapter2/Picture3.jpg)
 
 ## Atomic number and Mass Number
 

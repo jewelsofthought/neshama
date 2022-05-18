@@ -1,12 +1,9 @@
 ---
-title: Introduction - The Challenge to Science
-description: Order Out of Chaos - Ilya Prigogine & Isabel Stengers
+title: Introduction
+description: The Challenge to Science and to physics in general
 tags: null
-author: Alvin Toffler
-date: 2005-02-04T08:20:00.830Z
+date: 2005-02-01T08:04:01.830Z
 ---
-
-## 1
 
 The great founders of Western science stressed the universality and the eternal character of natural laws. They set out to formulate general schemes that would coincide with the very ideal of rationality.
 

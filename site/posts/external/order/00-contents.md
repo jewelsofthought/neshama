@@ -1,14 +1,8 @@
 ---
 title: Table of Contents
-description: Order Out of Chaos - Ilya Prigogine & Isabel Stengers
 tags: null
-author: Alvin Toffler
-date: 2005-02-01T08:20:00.830Z
+date: 2005-02-01T08:01:01.830Z
 ---
-
-FOREWORD: Science and Change by Alvin Toffler
-PREFACE: Man's New Dialogue with Nature
-INTRODUCTION: The Challenge to Science
 
 Book One: The Delusion of the Universal
 

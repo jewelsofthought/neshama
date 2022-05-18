@@ -1,8 +1,7 @@
 ---
 title: The Account of Creation
 description: The Account of Creation - Fire, Water and Spirit
-tags:
-  - judaica
+tags: null
 date: 2015-01-01T09:32:16.154Z
 modified: 2022-01-30T19:59:22.598Z
 ---
@@ -19,4 +18,4 @@ modified: 2022-01-30T19:59:22.598Z
 
 ![Diagram of verse](</posts/img/qkab/Creation%20of%20the%20World%20(Tishby).png>)
 
-[^1]: Gevurah, represented by the element of fire in the creation of the world.
+[^1]: **Gevurah**, represented by the element of fire in the creation of the world.

@@ -4,8 +4,6 @@ author: Aviva Zornberg
 description: Reflections on Genesis
 tags:
   - todo
-  - external
-  - zornberg
 date: 2010-12-01T14:51:59+02:00
 ---
 

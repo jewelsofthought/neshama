@@ -1,9 +1,8 @@
 ---
-title: Preface - Man's Dialogue with Nature
-description: Order Out of Chaos - Ilya Prigogine & Isabel Stengers
+title: Preface
+description: Man's Dialogue with Nature
 tags: null
-author: Alvin Toffler
-date: 2005-02-03T08:20:00.830Z
+date: 2005-02-01T08:03:01.830Z
 ---
 
 Our vision of the world around us is undergoing a radical change toward the multiple,[^1] the temporal, and the complex. It is true that there are phenomena that appear to us as deterministic and reversible, but there are also irreversible processes that involve an arrow of time.

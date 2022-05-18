@@ -1,6 +1,6 @@
 ---
 title: Xiong Shili
-description: null
+description: The cosmos is whole
 url: https://www.britannica.com/biography/Xiong-Shili
 author: Matt Stefon
 tags:

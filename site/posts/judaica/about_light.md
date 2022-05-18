@@ -1,11 +1,12 @@
 ---
 title: About the Ontology of light
-author: Elliot Wolfson
-description: The Speculum That Shines
+author: R' Y"mba
+description: Discussion of light in mystical vision
 tags:
   - todo
+  - speculum
 date: 2010-10-20T00:51:59+02:00
-modified: 2022-02-01T14:51:59+02:00
+modified: 2022-05-17T14:51:59+02:00
 ---
 
 I would like to talk about the role of the imagination in mystical vision. But before I do, I would like to express my gratitude to an amazing Kabbalist by the name of Elliot Wolfson. Much of the material of my talk, and its inspiration come from his book, _The Speculum that Shines: Vision and Imagination in Medieval Jewish Mysticism_. A journey guided by Elliot Wolfson is indeed one in which unimaginable riches are there for the worthy.

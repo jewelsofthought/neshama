@@ -1,5 +1,6 @@
 ---
-title: Lecture 1 - Matter and Energy
+title: Matter and Energy
+description: 'First lecture: The forces that play on the the physical elements of our world.'
 author: Shaun Williams, Phd
 url: http://shaunmwilliams.com/IntroChem/lecture1.html
 tags:

@@ -1,23 +1,18 @@
 ---
-title: 00 - Concepts of Simultaneity
-description: From Einstein to Antiquity
-author: Max Jammer
+title: 'Concepts of Simultaneity'
+description: Questioning classical physics in the light of quantum exploration.
 tags: null
-date: 2005-01-01T10:53:56.430Z
+date: 2005-01-01T10:00:01.430Z
 ---
 
-1. [00 - Concepts of Simultaneity](#00---concepts-of-simultaneity)
-   1. [Introduction](#introduction)
+[Here is the full paper](/references/Concepts-of-simultaneity-from-antiquity-to-einstein-and-beyond.pdf)
 
 > **We have to bear in mind that all our propositions involving time are always propositions about simultaneous events.**
 > -- Albert Einstein, 1905
 
-# 00 - Concepts of Simultaneity
-
 ## Introduction
 
-Modern physics, as is well known, led to a radical revision of the fundamental
-concepts of classical physics, such as the concepts of space, time, matter, energy, and causality.
+Modern physics, as is well known, led to a radical revision of the fundamental concepts of classical physics, such as the concepts of space, time, matter, energy, and causality.
 
 On the 14 December 1900, the “birthday” of the quantum theory, Max Planck announced what he then called “the natural constant _h_” and what later, under the name of “Planck’s constant,” became the “trademark” of quantum mechanics. For a similar reason Friday, 30 June 1905, may be called the “birth-day” of the theory of relativity, for on that day Albert Einstein’s seminal paper on the special theory of relativity was received by the editorial board of the _Annalen der Physik_.
 

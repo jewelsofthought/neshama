@@ -1,11 +1,8 @@
 ---
 title: Pleasure as Displeasure
 description: The Source of pleasure/displeasure
-author: Isaac Tishby
 ref: Chassidic Masters
 tags:
-  - external
-  - judaica
 date: 2010-12-02T16:00:00.000Z
 ---
 

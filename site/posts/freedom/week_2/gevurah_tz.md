@@ -1,8 +1,8 @@
 ---
 title: Transformation through Fear
-description:
+description: Fear G-d, or fear everything else.
 author: Shimona Tzukernik
-refURL: null
+refURL: https://www.chabad.org/library/article_cdo/aid/3556047/jewish/Transformation-Through-Fear.htm
 tags: null
 date: 2022-04-23T00:03:00.000Z
 ---

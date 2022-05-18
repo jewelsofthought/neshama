@@ -1,8 +1,8 @@
 ---
 title: Transformation through Balance
-description:
+description: The heart is at the center.
 author: Shimona Tzukernik
-refURL: null
+refURL: https://www.chabad.org/library/article_cdo/aid/3556050/jewish/Transformation-Through-Balance.htm
 tags: null
 date: 2022-04-30T01:03:00.000Z
 ---

@@ -3,9 +3,8 @@ title: The Ontology of Light
 pages:
   - 271
   - 288
-tags:
-  - external
-date: 2010-10-25T01:51:59+02:00
+tags: null
+date: 2010-10-20T00:52:59+02:00
 ---
 
 1. [ONTOLOGY OF LIGHT AND MYSTICAL VISION](#ontology-of-light-and-mystical-vision)

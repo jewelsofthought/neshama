@@ -1,7 +1,7 @@
 ---
 title: Visionary Ascent and Enthronement
 author: Elliot Wolfson
-description: The Speculum That Shines, Chapter 03.
+description: Notes on Chapter 03.
 tags:
   - todo
 date: 2010-10-23T03:51:59+02:00
@@ -22,7 +22,8 @@ Two types: _Ma'aseh Merkava_ of the rabbis, and _Hekhalot_ literature.
 
 Merkavah mystics vs. rabbis: Authors of _hekhalot_ literature rebel against the traditional concept of the world, expressed through a grandiose literaray effort - the Torah (_Sch&auml;fer_).
 
-Aware of merits of prayer and Torah, but traditional repertoire insufficient for them. No longer satisfied with gaining access to G-d solely through Torah. Wish to storm heave and gain direct access to G-d.
+Aware of merits of prayer and Torah, but traditional repertoire insufficient for them. No longer satisfied with gaining access to G-d solely through Torah. Wish to storm heaven and gain direct access to G-d.
+
 This was transmitted mainly by lay preachers.
 
 After destruction of 2nd temple, "not content with sublimating their longing for the direct presence of G-d (which their grandparents had experienced) to liturgical worship, Torah study and a pious life. "We seek to experience the heavenly worship directly". Yet, only in the synagogue could they obtain the knowledge that would give shape to their longing, context and purpose. (Halperin, _Faces of the Chariot_)

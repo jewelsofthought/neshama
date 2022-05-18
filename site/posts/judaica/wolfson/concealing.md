@@ -1,9 +1,7 @@
 ---
 title: Concealing the Concealment
 description: 'Murmuring Secrets: Eroticism and Esotericism in Medieval Kabbalah'
-author: Elliot R. Wolfson
-tags:
-  - external
+tags: null
 date: 2010-10-01T01:39:50.132Z
 ---
 

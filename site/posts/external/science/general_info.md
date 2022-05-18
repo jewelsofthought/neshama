@@ -2,7 +2,6 @@
 title: Bio-engineering
 tags:
   - covid
-  - external
 date: 2021-12-01T01:14:50.850Z
 ---
 

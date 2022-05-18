@@ -1,14 +1,11 @@
 ---
-title: Forward - Science and Change
-description: Order Out of Chaos - Ilya Prigogine & Isabel Stengers
+title: Forward
+description: Science and Change by Alvin Toffler
 tags: null
-author: Alvin Toffler
-date: 2005-02-02T08:20:00.830Z
+date: 2005-02-01T08:02:01.830Z
 ---
 
 ## SCIENCE AND CHANGE
-
-> by Alvin Toffler
 
 One of the most highly developed skills in contemporary Western civilization is dissection: the split-up of problems into their smallest possible components. We are good at it. So good, we often forget to put the pieces back together again.
 
