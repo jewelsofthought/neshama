@@ -130,6 +130,7 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addWatchTarget("site/assets/css/");
 
   // Copy the `img` and `css` folders to the output
+  eleventyConfig.addPassthroughCopy("site/references");
   eleventyConfig.addPassthroughCopy("site/assets/css");
   eleventyConfig.addPassthroughCopy("site/assets/img");
   eleventyConfig.addPassthroughCopy("site/assets/js");
