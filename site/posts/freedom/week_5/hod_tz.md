@@ -1,8 +1,8 @@
 ---
 title: Transformation through Non-Being
-description:
+description: The Struggle of Humility
 author: Shimona Tzukernik
-refURL: null
+refURL: https://www.chabad.org/library/article_cdo/aid/3556053/jewish/Transformation-Through-Non-Being.htm
 tags: null
 date: 2022-05-15T01:03:00.000Z
 ---

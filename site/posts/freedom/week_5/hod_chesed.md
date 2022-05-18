@@ -1,6 +1,6 @@
 ---
 title: Chesed in Hod
-description: Gentle Humility
+description: 'Meditation for the Twenty-Ninth Day: Gentle Humility'
 tags: null
 date: 2022-05-15T04:04:00.000Z
 ---
