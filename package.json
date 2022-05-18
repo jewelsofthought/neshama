@@ -4,7 +4,7 @@
   "description": "A repository of my writings - based on the 11t-blog model.",
   "scripts": {
     "build": "npm run clean && env NODE_ENV=production npx eleventy",
-		"clean": "rimraf dist",
+    "clean": "rimraf dist",
     "watch": "eleventy --watch",
     "debug": "DEBUG=Eleventy* eleventy",
     "start": "eleventy --serve"
