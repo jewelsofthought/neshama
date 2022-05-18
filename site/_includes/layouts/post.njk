@@ -41,12 +41,29 @@ templateClass: tmpl-post
 
     <div class="is-clearfix"></div>
 
-    {%- if description %}
-      <h3>Description:</h3>
-      <p style="color: blue; font-style: italic; padding-left: 2rem;">{{ description }}</p>
-      <hr class="is-black"/>
-    {%- endif %}
+    {% if author and not article %}
+      <div class="is-pulled-left">
+        <span class="tag is-light is-small" style="color: darkblue">
+          From: {{ author }}
+        </span>
+      </div>
+      <div class="is-clearfix"></div>
+    {% endif %}
 
+    {% if article and author %}  
+      <h3>Title:</h3>
+      <p style="colour: grey; padding-left: 2rem;">
+        {{ article  }} by {{ author }}
+      </p>
+    {% endif %}
+
+    {% if description %}
+      <h3>Description:</h3>
+      <p style="colour: grey; font-style: italic; padding-left: 2rem;">{{ description }}</p>
+    {%- endif %}
+  
+    <hr class="is-black"/>
+  
     <div class="main-content">
       {{ content | latex | safe }}
     </div>
