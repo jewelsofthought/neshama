@@ -1,5 +1,5 @@
 ---
-title: '02: The Concept of Simultaneity in Antiquity'
+title: 'The Concept of Simultaneity in Antiquity'
 description: How the ancients defined simultaneity
 tags: null
 date: 2005-01-01T10:02:01.430Z

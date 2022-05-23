@@ -43,17 +43,16 @@ The fundamental dynamics of life emerge at **Binah**, while **Gevurah** is the s
 
 **Gevurah** provides the elements of our dreams and of our nightmares, yet it is absolutely essential to manifest our Creative Energy. This week, focus on the forms of your feelings, noticing the polarities they bring and celebrate them. There is no need to resist any feeling, because when feelings are allowed, they reveal themselves – and from this awareness, they shift.[^2]
 
-## The Name of G-d
-
-<div style="text-align: center; font-weight:bold"> 
+<div style="text-align: center; font-size: 130%">
 The Name of G-d<br />
-at Gevurah<br />
-is Elohim,<br />
-אֵלוהים<br />
-which is translated “god” or "Lord of Hosts".<br />
+at <strong>Gevurah</strong><br />
+is <em>Elohim</em>,
+<h4 style="font-size: 200%">
+אֵלוהים
+</h4>
 </div>
 
-**_Elohim_** is the Name associated with judgement and severity, and so is associated with this _sefirah_. In Jewish tradition, the two most used names of G-d are **_Elohim_** and **_Adonai_** (written **YHVH**). **_Elohim_** is generally translated as “G-d”, **_Adonai_** is generally translated as “Lord” or “Eternal One”.
+**_Elohim_**, is the Name associated with judgement and severity, and so is associated with this _sefirah_. In Jewish tradition, the two most used names of G-d are **_Elohim_** and **_Adonai_** (written **YHVH**). **_Elohim_** is generally translated as “G-d”, though it meaning is more accurately "G-d of Hosts". **_Adonai_** is generally translated as “Lord” or “Eternal One”.
 **_Elohim_** is actually the plural form of the noun, yet it is almost always translated as if it were singular, and takes a singular verb and modifier. One way of explaining this is to understand **_Elohim_** as the One Being, **_Adonai_**, appearing to our awareness as the many. **_Elohim_** can be appreciated as the Presence of **_Adonai_** within each individual being, enabling us to experience the Immanent aspect of the Divine. This Presence is named **_Shechinah_**, which is also another name for **_Elohim_** in the ancient mystical text called the _Zohar_ or “Book of Splendour”. **_Shechinah_** is also the Presence of the Transcendent **_Adonai_** present in all living things, as well as the world itself!
 
 ## Meditation for the Second Week at GEVURAH.

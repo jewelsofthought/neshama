@@ -22,6 +22,7 @@ modified: 2022-02-14T14:13:07.098Z
 14. [Tetzaveh](#tetzaveh)
 15. [Sixty Days of Joy](#sixty-days-of-joy)
 16. [The Concealment of the Glory](#the-concealment-of-the-glory)
+17. [The Splendours](#the-splendours)
 
 ```
 שׁמִר רגליך כאשׁר תלך אל־בית האלוהים, וקרוב לשׁמיע מִתֶת
@@ -194,3 +195,8 @@ Science is necessary to prevent the transmission of secrets that portend the inh
 Zoharic Kabbalah: The reserve to hide secrets is juxtaposed with the modesty of covering one's genitals. The inappropriate disclosure of esoteric wisdom is on par with sexual improprieties.
 
 R' Isaac applied the sin of the mouth to flesh to the transgression of explicating matters of Torah that one did not receive directly from his Master, transmission that is like to the prohibition against making idols or worshipping images.
+
+## The Splendours
+
+Somewhere beyond the heavens, hidden in the mists of the cosmos, are Lights, which we call the "Splendours". These Splendours are even more powerful than the _sefiroth_, which are the Emanations of which we have spoken, some of which are the most we can perceive, though they are always influencing and guiding our lives. Yet it is these Splendours which truly satisfy the soul, even though they are unreachable and unknowable, and the our intellect cannot actually comprehend them. That is why the person who is able and worthy of striving in this thoughts to grasp these thing is joyful. [And know that Joy is always a characteristic of one whose soul swims in these nourishing waters]
+-- LIkutey Moharan 23:1,8

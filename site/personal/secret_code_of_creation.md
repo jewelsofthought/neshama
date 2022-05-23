@@ -2,8 +2,7 @@
 title: Secret Code of Creation
 refURL: youtube "The secret cod of creation"
 description: Response to "The Secret Code of Creation" by Dr. Jason Lisle.
-eleventyExcludeFromCollections: true
-tags: [personal]
+tags: [response]
 date:
 ---
 

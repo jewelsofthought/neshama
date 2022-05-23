@@ -1,17 +1,19 @@
 ---
-title: Neshamah
-description: Neshamah and in Hogsback
+title: Neshamah - Our place
+description: Neshamah in Hogsback
 tags:
   - neshama
 date: 2021-11-18T09:14:57.042Z
 modified: 2021-11-18T09:52:47.755Z
 ---
 
-1. [Part one: My understanding.](#part-one-my-understanding)
-2. [5 souls](#5-souls)
-3. [Archetypes](#archetypes)
-4. [And deeper:](#and-deeper)
-5. [5 levels of soul](#5-levels-of-soul)
+1. [Introduction](#introduction)
+2. [Part one: My understanding.](#part-one-my-understanding)
+3. [5 souls](#5-souls)
+4. [Archetypes](#archetypes)
+5. [And deeper:](#and-deeper)
+6. [5 levels of soul](#5-levels-of-soul)
+7. [Part two: Neshamah in Hogsback](#part-two-neshamah-in-hogsback)
 
 ## Introduction
 

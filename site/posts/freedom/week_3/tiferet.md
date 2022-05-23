@@ -52,21 +52,20 @@ Breath is one of the keys to the opening of **Tiferet**-awareness. The Zohar urg
 
 The vowel sounds at **Tiferet** are often experienced as “Ah”, while “Oh” is the sound at **Yesod**, and “Ee” as the sound at **Keter**. In your meditations, you might try these sounds and see what unfolds for you.
 
-## The Name of G-d
-
-<div style="text-align: center; font-weight:bold"> 
+<div style="text-align: center; font-size: 130%">
 The Name of G-d<br />
-at Tiferet<br />
-is Adonai,<br />
-יהוה<br />
-which is translated "Eternal One.<br />
+at <strong>Tiferet</strong><br />
+is <em>Adonai</em>,
+<h4 style="font-size: 200%">
+יהוה
+</h4>
 </div>
 
-The Name of G-d at **Tiferet** is pronounced _Adonai_, but is written **יהוה** (the Hebrew letters _Yod-Kay-Vav-Kay_). This Name, which is not pronounced, was often translated as “Lord”, but is nowadays referred to as **Ha’Shem**. This name is not pronounced as it is written because it speaks of That Which Is Beyond Name.[^2]
+The Name of G-d at **Tiferet** is pronounced _Adonai_, "Eternal One", but is written **יהוה** (the Hebrew letters _Yod-Kay-Vav-Kay_). This Name, which is not pronounced, was often translated as “Lord”, but is nowadays referred to as **Ha’Shem**. This name is not pronounced as it is written because it speaks of That Which Is Beyond Name.[^2]
 
 This four-letter name is known as the tetragrammaton, and whenever it appears in the Hebrew Bible or in prayer texts, we pronounce the word _Adonai_. It is important to remember that _Adonai_ is a totally different word which more literally translates as "Eternal Being."
 
-The Name **יהוה**', is a form of the Hebrew verb which means "to be," and so can be translated, "Unlimited Being". That is why many of us translate _Yod-Kay-Vav-Kay_ (saying _Adonai_) as "The Eternal One," or "The Eternal Presence."
+The Name **יהוה**, is a form of the Hebrew verb which means "to be," and so can be translated, "Unlimited Being". That is why many of us translate _Yod-Kay-Vav-Kay_ (saying _Adonai_) as "The Eternal One," or "The Eternal Presence."
 
 ## Meditation for the Third Week at TIFERET.
 

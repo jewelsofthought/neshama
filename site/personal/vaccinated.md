@@ -2,7 +2,7 @@
 title: Vaccinated
 description: Please help us, the unvaccinated.
 tags:
-  - covid
+  - plandemic
 date: 2021-12-14T05:59:13.379Z
 modified: 2021-12-14T13:25:23.083Z
 ---

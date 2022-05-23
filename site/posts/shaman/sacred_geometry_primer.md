@@ -15,7 +15,7 @@ modified: 2021-12-08T15:43:58.140Z
 
 Nice overview of Sacred Geometry, with some quite deep mathematical explanations of series (ala Fibonacci), fractals, etc.
 
-![Sacred Geometry Primer](./Sacred%20Geometry%20Primer.pdf)
+[Sacred Geometry Primer](/references/Sacred%20Geometry%20Primer.pdf)
 
 ## Flower of Life
 

@@ -48,14 +48,12 @@ There are sensations we appreciate as well as those we do not, just as there are
 
 We can become more aware of the intensity of energy, the “juice” of **Netzach** which is carried by a particular sensation. We can begin to honour and explore that energy when we do not get caught up in the container. It is the acceptance of the container that allows us to move beyond it.
 
-## The Name of G-d
-
-<div style="text-align: center; font-weight:bold"> 
+<div style="text-align: center; font-size: 130%">
 The Name of G-d<br />
-at Hod</br >
-is Elohim Tzeva’ot<br />
-אֱלֺוהִים צְבָאוֺת<br />
-which means “G-d of Hosts”.
+at <strong>Hod</strong></br >
+is <em>Elohim Tzeva’ot</em>,
+<h4 style="font-size: 200%">
+אֱלֺוהִים צְבָאוֺת</h4>
 </div>
 
 The Name of G-d at Hod is _Elohim Tzeva’ot_, which means “G-d of Hosts”. _Elohim_, generally, reflects the aspect of the One we meet as an “Indwelling Presence” within a world of multiplicity. _Elohim_ helps us understand the truth of the One manifesting as the many. _Tzeva’ot_, translated “hosts”, has the connotation of an “army”, a group of great force. Here, the “force” is contained in each particular perception. The _Elohim_ is the Unity hidden within the apparent multiplicity of perceived forms. Our perceptions have the strength to convince us of the reality of our world. From our perceptions we learn about ourselves in relationship to that world.

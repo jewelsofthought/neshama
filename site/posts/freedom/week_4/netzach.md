@@ -48,14 +48,12 @@ This is our journey on the right side of the tree, to become aware of the flow o
 
 Here, at **Netzach**, the flow already contains feelings, and the influences of **Tiferet**, not yet associated with any recognisable sensations or perceptions.
 
-## The Name of G-d
-
-<div style="text-align: center; font-weight:bold"> 
+<div style="text-align: center; font-size: 130%">
 The Name of G-d<br />
-at Netzach<br />
-is Adonai Tzeva'ot,<br />
-יהוה<br />
-which is translated "Eternal One of Hosts".<br />
+at <strong>Netzach</strong><br />
+is <em>Adonai Tzeva'ot</em>,
+<h4 style="font-size: 200%">
+יהוה צבאות
 </div>
 
 The Name of G-d at **Netzach** is _**Adonai Tzeva’ot**_, translated as “Eternal One of Hosts”, though written as _Yod-Kay-Vav-Kay Tzeva’ot_. In this context, “hosts” refers to the vibrational level&mdash;the sensations and perceptions&mdash;shared between the _sefirot_ of **Netzach** and **Hod** . The _Elohim_ of **Hod** present an apparent multiplicity; at **Netzach**, the “hosts” are _Adonai_, the unformed, undifferentiated aspect of the One. The Name _Yod-Kay-Vav-Kay Tzeva'ot_ refers to the energetic level prior to the manifestation of specific sensations.

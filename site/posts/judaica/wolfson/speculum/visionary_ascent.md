@@ -2,6 +2,8 @@
 title: Visionary Ascent and Enthronement
 author: Elliot Wolfson
 description: Notes on Chapter 03.
+pages:
+  - 77
 tags:
   - todo
 date: 2010-10-23T03:51:59+02:00

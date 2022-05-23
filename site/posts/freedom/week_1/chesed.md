@@ -32,17 +32,15 @@ I take moments of quiet each day this week to appreciate more fully the nature o
 **Chesed** represents the unlimited flow of energy as it flows down from the Divine Realms, undifferentiated, neither positive nor negative, preceding any polarity. This is the Impulse behind both the light and shadow at **Gevurah**, the basic principle reflected through each of the three pairs of _sefirot_, **Hod** and **Netzach**, **Gevurah** and **Chesed**, **Binah** and **Chochmah**. The _sefirot_ of force, on the right side of the Tree express energy before it separates into the polarities brought about through particular forms or specific expressions.
 This first week of the journey we focus on opening ourselves to receive from the Fountain of Life, and to be nourished. **Chesed** presents an abundant flow of that which is not yet differentiated into specific feelings.
 
-## The Name of G-d
-
-<div style="text-align: center; font-weight:bold"> 
+<div style="text-align: center; font-size: 130%">
 The Name of G-d<br />
-at Chesed<br />
-is El,<br />
-אֵל<br />
-which is translated “god”.<br />
+at <strong>Chesed</strong><br />
+is <em>El</em>,
+<h4 style="font-size: 200%">
+אֵל</h4>
 </div>
 
-Traditionally, _El_ reflects the Universal attributes of Compassion and Mercy. At **Chesed**, Mercy represents the ever-flowing, ever-providing, ever-sustaining Energy of unlimited abundance and possibility. _El_ offers Itself without reservation, and in that sense is truly Merciful and Loving.
+Traditionally, _El_, which basically means G-d, reflects the Universal attributes of Compassion and Mercy. At **Chesed**, Mercy represents the ever-flowing, ever-providing, ever-sustaining Energy of unlimited abundance and possibility. _El_ offers Itself without reservation, and in that sense is truly Merciful and Loving.
 
 Each feeling we experience is itself a shell containing the unlimited flow of Divine Energy. Open yourself to the abundance of that offering, beginning the journey to experience more fully the Fountain of Life that is always available to us.
 

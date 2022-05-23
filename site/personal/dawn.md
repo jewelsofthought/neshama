@@ -1,12 +1,12 @@
 ---
-title: Dawn
-description: Awakening at Dawn...
+title: Awakening at Dawn
+description: Morning meanderings...
 tags: null
 date: 2021-12-31T13:49:20.067Z
 modified: 2022-01-02T10:12:37.469Z
 ---
 
-Awaking at dawn for no reason, l realize why we wake just before dawn to say the morning prayers. It is the time when the light first enters the darkness and parallels the creation which contains the mystery of the light and darkness, speaking of the darkness as that which existed before creation, and the light as the expression of the vitality of the Presence. This principle is of the highest order, in that the Presence does not move, or express itself in any form or fashion that we might be capable of comprehending. Only a quality, or appellation of Its presence could we ever comprehend, or indeed, even experience.
+Awaking at dawn for no reason, I realize why we wake just before dawn to say the morning prayers. It is the time when the light first enters the darkness and parallels the creation which contains the mystery of the light and darkness, speaking of the darkness as that which existed before creation, and the light as the expression of the vitality of the Presence. This principle is of the highest order, in that the Presence does not move, or express itself in any form or fashion that we might be capable of comprehending. Only a quality, or appellation of Its presence could we ever comprehend, or indeed, even experience.
 
 As the light gathers, and slowly, majestically, elegantly and gracefully begins to penetrate the darkness of the night, garbed and adorned in all her joy, twinkling and flirtatious, as the day could never be, so did the Will of G!d, b'h, gather to manifest the creation. In the same manner we gather our intention, our will prior to manifesting in this realm. It is like the seed about to burst, the egg on the verge of cracking. And the thoughts you are thinking will affect the waters of your day.
 

@@ -3,9 +3,8 @@ title: Vision/Voice of G-d
 description: 'Notes: You cannot gaze upon G-d!'
 pages:
   - 44
-tags:
-  - speculum
-date: 2010-10-20T04:51:59+02:00
+tags: [speculum]
+date: 2010-10-20T01:02:59+02:00
 ---
 
 ## Speech
