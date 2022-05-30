@@ -2,15 +2,15 @@
 title: Yesod
 description: Transformation that through bonding intimately with another.
 tags: null
-date: 2022-05-22T00:01:00.000Z
+date: 2022-05-21T00:01:00.000Z
 ---
 
 <div style="text-align: center; font-weight: bold"> 
-<p>The Sixth Week </p>
-<h1 style="font-size: 300%; text-decoration: underline">נצח</h1>
-<h2>ִYesod</h2>
-<p>Foundation; Bonding or Connecting<p />
-<h3 style="font-style: italic">Transformation through Intimacy</h3>
+<p style="margin-bottom: 0">The Sixth Week </p>
+<h1 style="font-size: 300%; text-decoration: underline; margin-top: 0; margin-bottom: 0">נצח</h1>
+<h2 style="margin-top: .5em; margin-bottom: 0">ִYesod</h2>
+<p style="margin-top: .2em; margin-bottom: 0">Foundation; Bonding or Connecting</p >
+<h3 style="font-style: italic; margin-top: .2em">Transformation through Intimacy</h3>
 </div>
 <div style="margin-left: 2rem; margin-right: 2rem;text-align: justify">
 
@@ -31,16 +31,6 @@ Bonding, on the other hand, is a complete fusion of the two. Without bonding no 
 Bonding channels all five previous qualities into a constructive bond, giving it the meaning "foundation". Whereas all other human feelings are individual emotions, separate stories of a building, each a necessary component of human experience, bonding channels and integrates them all into one bond which creates a foundation upon which the structure of human emotions firmly stands. Bonding is giving all of yourself not just part; it is not one emotion but all of them. So **Yesod** completes the spectrum of the first six emotions.
 
 The foundation of **Yesod** is different from an ordinary foundation. It does not just rest beneath the higher levels of the structure, but encompasses them all. An effective bedrock of the emotional psyche cannot remain separate but must include and permeate all the emotions. Only then can bonding be constructive and everlasting.[^2]
-
-<h3>Reflections</h3>
-
-[^1]: This confuses me. Firstly, the ego cannot work without an agenda, either its own, or some adopted agenda. It is a directed energy, a vector. If it does not have something to do, some goal to achieve, then it is either in limbo, (and unhappy) or supporting someone else, who is ego driven, achieve theirs.
-
-In this intimate love, there has to be agendas, if it is only to love the other, to provide the other pleasure, or to help them achieve their own ego-driven goals.
-
-Once again, there is a masc/fem form of response – in the form of giving/receiving. In other words, one (fem) works towards creating the space in which this can occur. The other (masc) is more difficult to express, because it is the outward expression of this functioning “space”, and is judged by what the space produces and garners.
-
-[^2]: From a piece by Simon Jacobsen (on the Chabad website)
 
 </div>
 
@@ -95,3 +85,13 @@ This week we seek to more clearly to know, appreciate, and honour the shapes of 
 During your meditations this week, become more aware of the self behind your experiences. Who is receiving the sensations, the feelings and the thoughts of which you are aware? Move through the impressions to the one who is receiving those impressions. Explore all your experiences to learn more about the central identity who has them.
 
 Take _Shaddai_ and _El Chai_ as the sounds and the letter images upon which you focus today. As you focus on them, what do you experience? Explore these two names and the energies they carry.
+
+<h3>Reflections</h3>
+
+[^1]: This confuses me. Firstly, the ego cannot work without an agenda, either its own, or some adopted agenda. It is a directed energy, a vector. If it does not have something to do, some goal to achieve, then it is either in limbo, (and unhappy) or supporting someone else, who is ego driven, achieve theirs.
+
+In this intimate love, there has to be agendas, if it is only to love the other, to provide the other pleasure, or to help them achieve their own ego-driven goals.
+
+Once again, there is a masc/fem form of response – in the form of giving/receiving. In other words, one (fem) works towards creating the space in which this can occur. The other (masc) is more difficult to express, because it is the outward expression of this functioning “space”, and is judged by what the space produces and garners.
+
+[^2]: From a piece by Simon Jacobsen (on the Chabad website)

@@ -2,7 +2,7 @@
 title: Yesod in Hod
 description: 'Meditation for the Thirty-Fourth Day: Connected Humility'
 tags: null
-date: 2022-05-20T04:04:00.000Z
+date: 2022-05-19T04:04:00.000Z
 ---
 
 <div style="font-weight: bold; text-align:center">

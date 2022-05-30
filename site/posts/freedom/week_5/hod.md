@@ -2,7 +2,7 @@
 title: Hod
 description: Transformation that occurs through overcoming one's ego.
 tags: null
-date: 2022-05-15T00:01:00.000Z
+date: 2022-05-14T00:01:00.000Z
 ---
 
 <div style="text-align: center; font-weight: bold"> 

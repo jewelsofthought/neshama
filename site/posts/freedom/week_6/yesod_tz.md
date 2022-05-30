@@ -4,7 +4,7 @@ description: The Struggle of Humility
 author: Shimona Tzukernik
 refURL: https://www.chabad.org/library/article_cdo/aid/3556053/jewish/Transformation-Through-Intimacy.htm
 tags: null
-date: 2022-05-22T01:03:00.000Z
+date: 2022-05-21T01:03:00.000Z
 ---
 
 [Sefirat HaOmer, Part VI](https://www.chabad.org/library/article_cdo/aid/3556053/jewish/Transformation-Through-Intimacy.htm)

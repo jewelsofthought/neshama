@@ -2,7 +2,7 @@
 title: Tiferet in Hod
 description: 'Meditation for the Thirtieth-First Day: Balancing Humility'
 tags: null
-date: 2022-05-17T04:04:00.000Z
+date: 2022-05-16T04:04:00.000Z
 ---
 
 <div style="font-weight: bold; text-align:center">

@@ -2,7 +2,7 @@
 title: Netzach in Hod
 description: 'Meditation for the Thirty-Second Day: Genuine Humility'
 tags: null
-date: 2022-05-18T04:04:00.000Z
+date: 2022-05-17T04:04:00.000Z
 ---
 
 <div style="font-weight: bold; text-align:center">

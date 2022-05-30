@@ -2,7 +2,7 @@
 title: Tiferet in Gevurah
 description: Harmonious Constraint
 tags: null
-date: 2022-04-24T00:04:00.000Z
+date: 2022-04-25T00:04:00.000Z
 ---
 
 <div style="font-weight: bold; text-align:center">

@@ -2,7 +2,7 @@
 title: Gevurah in Hod
 description: 'Meditation for the Thirtieth Day: Constraining Humility'
 tags: null
-date: 2022-05-16T04:04:00.000Z
+date: 2022-05-15T04:04:00.000Z
 ---
 
 <div style="font-weight: bold; text-align:center">

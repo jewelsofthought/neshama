@@ -2,7 +2,7 @@
 title: Chesed in Yesod
 description: 'Meditation for the Thirty-Sixth Day: Be Kind and Connect'
 tags: null
-date: 2022-05-22T04:04:00.000Z
+date: 2022-05-21T04:04:00.000Z
 ---
 
 <div style="font-weight: bold; text-align:center">
