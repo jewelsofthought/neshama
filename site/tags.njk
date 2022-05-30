@@ -17,8 +17,6 @@ permalink: /tags/{{ tag | slug }}/
 ---
 <!-- filter: Controls what items are included in the index file for that particuar tag -->
 
-<h1>Tagged “{{ tag }}”</h1>
-
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
 

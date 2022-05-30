@@ -1,5 +1,5 @@
 ---
-layout: layouts/base.njk
+layout: layouts/home.njk
 title: The muddled mystic
 templateClass: tmpl-home
 eleventyNavigation:

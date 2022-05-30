@@ -4,14 +4,12 @@ description: Like a mandala made of sand, we build our lives, only for it to be
   washed away in the ocean of time.
 date: 2008-01-06T15:38:35.115Z
 tags:
-  - neshama
 modified: 2022-05-01
 ---
 
 1. [Mandala of being](#mandala-of-being)
 2. [Emotions](#emotions)
 3. [Thoughts](#thoughts)
-4.
 
 ## Mandala of being
 

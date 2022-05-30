@@ -1,8 +1,8 @@
 ---
-layout: layouts/post.njk
+layout: layouts/home.njk
 title: Neshamah
 description: A place for soul journeys.
-templateClass: tmpl-post
+templateClass: tmpl-home
 eleventyNavigation:
   key: About Me
 date:

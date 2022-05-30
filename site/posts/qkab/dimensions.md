@@ -18,6 +18,8 @@ date: 2015-01-01T10:32:16.154Z
 6. [Our Journey to/from Infinity](#our-journey-tofrom-infinity)
 7. [Human](#human)
    1. [Interactions](#interactions)
+8. [Zero & One](#zero--one)
+9. [Gears](#gears)
 
 ## Multi-dimensionality of the Human experience.
 
@@ -117,3 +119,20 @@ Animals for instance; amoral people; those that live in a world of polarities, o
 ### Interactions
 
 It is the difference between the one who says, “This is in my way. If I push all else aside, I can continue”, verses the other that considers the effect upon the one being pushed aside. And thus does not deal with the situation in the most efficient way in the moment, but could fumble at the critical point.
+
+## Zero & One
+
+Starting with only a zero (0) or a (1), all fractionalisation occurs upon encountering the densities of our manifest existence.
+
+From zero nothing emanates. It is the only point that is not a point. Once one emerges, then all other "numbers" can emanate from the one. But only nothing emanates from nothing. So how did something emerge from nothing? That is the deepest mystery of all.
+
+Regarding our conscious awareness, we start of as 1, aware only of the I and it's needs. Purely egotistical and trying to survive in a hostile environment. Selfish, youthful, unaware, we awaken to an other, and now are entering 2d. We move from the beautiful innocence of I to the awareness of the duality. From the simple - it is what it is - to seeing the reflection in the illusion, encountering the unreality of some deeply held beliefs until there is a deep splintering of inner and outer. It is here our true journey begins. We have just passed through the first gate and reached the outer temple courtyard. We have entered the exploration of duality.
+
+- 3rd - child, something born, another enters.
+- 4th - realising it is all in your imagination!
+
+## Gears
+
+A 4th to 3rd dimensional down-shift is like gearing down from 4th gear to 3rd gear. 3rd is a "denser" gear, providing more power and torque, but restricting the speed and distance that you can achieve in that gear. So it is with our consciousness. Most of us have not been taught and have to learn on the road how to use one's "gears". We exist in our bodies much like we behave with our cars. We expect it to work when we want to use it, and if something goes wrong, we take it to the mechanic (doctor) to fix it for us, and feel we need to know next to nothing about the running and maintenance of our bodies.
+
+But even more intense would be to think of us as a 4th dimension being living in 3d.
