@@ -5,7 +5,7 @@ tags:
   - todo
   - energy
 date: 2015-01-01T12:32:16.154Z
-modified: 2022-02-01T13:46:40.107Z
+modified: 2022-05-30T13:46:40.107Z
 ---
 
 1. [Fundamental property](#fundamental-property)
@@ -22,6 +22,10 @@ modified: 2022-02-01T13:46:40.107Z
    1. [Real: Form](#real-form)
    2. [Imaginary: Wave](#imaginary-wave)
 10. [Energy](#energy)
+11. [Chashmal/Electricity](#chashmalelectricity)
+12. [Water](#water)
+13. [Energy is energy - good or bad](#energy-is-energy---good-or-bad)
+14. [Zero Waste (Energy)](#zero-waste-energy)
 
 ## Fundamental property
 
@@ -68,6 +72,8 @@ One of the most effective tools of the _Sitra Ahara_, the "Other Side", Satan, i
 - energy in (linear) movement.
 
 ## Two states
+
+![Two aspects of energy](/posts/img/qkab/two%20aspects%20of%20energy.svg)
 
 (from EnEx 20200802)
 In energy there are two states: at rest, or potential energy; and dynamic, doing work, or power. Just as with stores of value. This money is at rest, static, until it is "moves", ie. is used to financially power some event. This is where it connects to SOA, or microservices, architecture. Making it actually data driven is perfect to adapt it to a social governing framework, it which decisions which impact people have to be made.
@@ -124,4 +130,30 @@ The only way we are made to be aware of this subtler energy is through its effec
 
 The quantum arena speaks of such energy. We feel it's effect in our everyday lives with our cell phones and other wireless devices. Yet there is an even more subtle energy, and it's one that vivifies everything, and we call it life when we see it move, and inanimate when it doesn't. Yet they all react to input and energy affects their structure and sometimes their behaviour too. So, they are in some sense alive.
 
----
+## Chashmal/Electricity
+
+> Electricity has opened the portal to the next stage of humanity's evolution.
+
+What if we look at _chashmal_ as the full electro-magnetic spectrum and beyond?
+
+## Water
+
+> Water as communication medium. So is Chashmal!
+
+All was fine, until we encountered electricity (_chashmal_). This was something we could only experience. We could not perceive it with any of our 5 senses. It was tremendously useful, and people were dying in their desire and need for its benefits and use. We did not hesitate at the door to this discovery, but rushed madly in - as if it was a new discovery of gold or diamonds - and began using this limitless font of energy we had discovered to benefit "all" [which as per usual, meant first those who could afford, or were lucky enough to be born into, access to it].
+
+No one thought to stop and the doorway and ask "What is it?". Because we were still in the trance of the certainty of empirical measurements - as many still are. It is an essentially 2d comprehension of the world around us, rather like the behemoth. And so we rushed in, where angels might fear to tread.
+
+So onward intrepid explorers, armed with your electrically powered machines, and let us see what we can do... Well, we live in the [outcome](intention.html). I am old, but, if you are young, you have to live with outcome of your ancestors creations.
+
+## Energy is energy - good or bad
+
+Energy is energy, whether good or bad, positive or negative, replenishing or diminishing.
+
+_Chashmal_, electricity, as fire, is both and bad. To the universe, there is no difference – though to God there might be. Thus both are equal in the universal scheme of things – though the outcomes might be different.
+
+Perhaps it is a rallying call, a guiding beacon calling us, challenging us to “manifest” the upper in the lower, and thus transform the lower.
+
+## Zero Waste (Energy)
+
+If the synergy is perfectly in sync, then there is **zero waste**, as all inputs will be used and all outputs nourish something in the chain of life [differentiate between local & global in/outputs] (like the [Oroborus](oroborus.html)). Similar to the _manna_ given to the Son of Israel while they were wandering in the desert - which produced no waste as it was spiritual food.

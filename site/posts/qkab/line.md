@@ -3,33 +3,26 @@ title: Line
 description: The line & infinity
 tags: [math]
 date: 2015-01-01T16:02:16.154Z
-modified: 2022-05-16T19:07:13.396Z
+modified: 2022-05-30T19:07:13.396Z
 ---
 
-1. [Mathematics](#mathematics)
-2. [In the beginning](#in-the-beginning)
-3. [Linear designation](#linear-designation)
-4. [Line](#line)
-5. [Time](#time)
-6. [Flow](#flow)
-7. [Formlessness](#formlessness)
-8. [Memories](#memories)
-9. [Which way [ inf <->1 ]?](#which-way--inf--1-)
-10. [Bow & Arrow](#bow--arrow)
+1. [Spiritual equations](#spiritual-equations)
+2. [Linear designation](#linear-designation)
+3. [Line](#line)
+4. [Time](#time)
+5. [Flow](#flow)
+6. [Formlessness](#formlessness)
+7. [Memories](#memories)
+8. [Which way [ inf <->1 ]?](#which-way--inf--1-)
+9. [Bow & Arrow](#bow--arrow)
 
-## Mathematics
+## Spiritual equations
 
 Taking a mathematical approach to the spiritual realm, we seek spiritual equations with which we can express the dynamics of the system we are in. There may be a spiritual calculus which can be used to describe the interactions that is coherent. Just as mathematics described in well-defined symbols large portions of our interactions with the world around us, so this spiritual mathematics could challenge much of the flotsam that floats around the central lake, as well as making some of it more accessible to any who are willing to learn the language of such symbols.
 
 This is what I believe forays like the Kabbalah, which I refer to as a spiritual science, are. It is a language, experientially explored, that is more capable of expressing much of the spiritual realm that we encounter and interact with.
 
-Mathematics does not posit a self as fundamental to being, just a sense of self. We, however, have a false sense of self by believing that any meaningful understanding of this self can be separate from the environment in which it was and is experiencing
-
-## In the beginning
-
-In the beginning was the absolute totality of the infinite of infinities, _Ein Sof Aur_. Perfection reigned, endless peace and harmony, no disturbance, no ripple... a state of complete nothingness, an infinite ocean of bliss. Upon this background nothing can be depicted, there is nothing to say or describe. For how would one a finite mind describe an infinite event?
-
-At some stage, something changed, something shifted, something happened to disturb this endless emptiness, and we say that "a point emerged" _ex nihilo_ - out of nothing. We call this "the beginning". This is is also known as the centre - or [middle point](/posts/qkab/middle/).
+Mathematics does not posit a self as fundamental to being, just a sense of self. We, however, have a false sense of self by believing that any meaningful understanding of this self can be separate from the environment in which it was and is experiencing itself.
 
 ## Linear designation
 
@@ -132,9 +125,3 @@ Any narrative that attemps to describe the "real" world(s)(s) we live can only b
 2. Inside [ 1 -> infinite ]:
    From the separate point of individual consciousness expanding into the unknown realms of the possibly infinite.
    This is a gap that the finite can never bridge, because the finite cannot contain the infinite whereas the infinite can contain an [unimaginable amount of finities](infinity.html){}.
-
-## Bow & Arrow
-
-Gikatilla: We seek to balance upon the energies in order to "ascend"/open the control channel (pillar) as a boat/chariot (רחב) upon the ocean of existence.
-
-![Like an arrow](/posts/img/qkab/math/gikatilla.png)

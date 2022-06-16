@@ -8,7 +8,7 @@ date: 2022-05-29T01:04:00.000Z
 <div style="font-weight: bold; text-align:center">
 <h2>Gevurah she’b Malkuth</h2>
 <i>Day Two of Week 7:</i> 
-<p>Restraint in Receiving[^1]</p>
+<p>Restraint in Receiving</p>
 
 </div>
 

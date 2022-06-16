@@ -8,7 +8,7 @@ date: 2022-05-30T01:04:00.000Z
 <div style="font-weight: bold; text-align:center">
 <h2>Tiferet she’b Malkuth</h2>
 <i>Day Three of Week 7:</i> 
-<p>Harmony in Receiving[^1]</p>
+<p>Harmony in Receiving</p>
 
 </div>
 

@@ -7,21 +7,22 @@ modified: 2022-01-11T17:10:18.179Z
 ---
 
 1. [Stillness](#stillness)
-2. [Trines](#trines)
+2. [Vesica Pisces](#vesica-pisces)
    1. [Trinity](#trinity)
    2. [Three's](#threes)
    3. [3 shapes](#3-shapes)
 3. [As above, so below (AASB)](#as-above-so-below-aasb)
-   1. [Upper & Lower](#upper--lower)
-4. [Help](#help)
+4. [Upper & Lower](#upper--lower)
+   1. [Upper & Lower](#upper--lower-1)
+5. [Help](#help)
 
 ## Stillness
 
 > **Absolute and total stillness**: If something is still, it cannot be observed. Thus everything can be measured/perceived if and when it moves.
 
-Absolute stillness is absolute form - what is also referred to as "dead matter", though essentially all that we refer to as matter, is dead in our minds. The dead tree - which we call now wood - can be burnt, bent, hacked and carved to our desire - for it is "dead". A steak - which is meat from a once sentient being, and we know refer to as "meat" - which itself is dead matter ready to be consumed. And to add the coup de gra, we burnt it before consuming it.
+Absolute stillness is absolute form&mdash;what is also referred to as "dead matter". Essentially all that we refer to as matter, is dead in our minds. The dead tree - which we call now wood - can be burnt, bent, hacked and carved to our desire - for it is "dead". A steak - which is meat from a once sentient being, and we know refer to as "meat" - which itself is dead matter ready to be consumed. And once it becomes "dead" to us, we can treat it as "dead" matter.
 
-Only form can deplete energy as well. In fact, it needs to consume energy to stay "in form". [J: Just as we need in-form-ation to remain in-form-ed about our form! ]
+In order to have any form requires energy. It needs to consume energy to stay "in form".
 
 ## Vesica Pisces
 
@@ -31,13 +32,15 @@ Only form can deplete energy as well. In fact, it needs to consume energy to sta
 
 ### Three's
 
-3 states, 3 responses, 3 reactions: positive, negative & neutral; for, against, not-sure; pro, anti, on the fence; beginning ($$1$$), end ($$\infty$$), middle&mdash;which is everything inbetween, and forms the "visible" segment.
+3 states, 3 responses, 3 reactions: positive, negative & neutral; for, against, not-sure; beginning ($$1$$), end ($$\infty$$), middle&mdash;which is everything inbetween which forms the "visible" segment.
 
-One could also term in masculine, feminine, and the {[Vesica Pisces](vesica_pisces.html)} as the interface described between the two.
+In masculine and feminine terms, the {[Vesica Pisces](vesica_pisces.html)} becomes an expression of the interface shared between the two.
 
 Two ways to deal with the middle: [Excluded middle](/posts/qkab/middle/) (used mainly in mathematics, and logic, and fascist regimes), or the [included middle](/posts/qkab/middle/).
 
-However, the boundaries of the space are defined (expressed) by the extremes (or the limits/boundaries). Thus is it the extremists, what we call the fanatics, or zealots, that pull society this way or that.
+The boundaries of the space are defined (expressed) by the extremes or the limits of that space. Thus is it the extremists, what we call the fanatics, or zealots, that pull society this way or that.
+
+The center will always have an influence, and its power is to perpetuate itself&mdash;for the power to live forever.
 
 ### 3 shapes
 
@@ -49,7 +52,7 @@ The inner represents the observer, the I, and the outer represents the observed,
 
 ## Upper & Lower
 
-There must be differences, otherwise things would be indistinguishable.Unless they are separated by a "brane", a curtain or barrier, that keeps them separate, though they are the same - without even realising it - for they just percieve one another through their "branes" [both membraInes and braIns (which are "branes with an I in them!).] There may be many differences, but they are so intertwined in one space, that it is impossible to tell where the one begins and the other ends. However, at some point, which we referred as the _klipah_ there is a difference. So we can accept the idea that there is a difference, and/or some sort of separation between the This and the That - in this case the Upper and the Lower.
+There must be differences, otherwise things would be indistinguishable. Unless they are separated by a "brane", a curtain or barrier, that keeps them separate, though they are the same - without even realising it - for we just perceive one another through our "branes". There may be many differences, but they are so intertwined in one space, that it is impossible to tell where the one begins and the other ends. However, at some point, which we refer to as the _klipah_, the husk, there is a difference. We the idea that there is a difference, and/or some sort of separation between the This and the That - in this case the Upper and the Lower.
 
 ![Diagram 1](/posts/img/qkab/above-below.png)
 

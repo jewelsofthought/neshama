@@ -13,6 +13,7 @@ modified: 2021-12-19T18:48:59.753Z
 4. [The Net of Indra](#the-net-of-indra)
 5. [Network](#network)
 6. [Oecumene](#oecumene)
+7. [System](#system)
 
 ## Graphs and Networks
 
@@ -89,3 +90,7 @@ The ecumene (US spelling) or oecumene (UK spelling; Greek: οἰκουμένη, 
 _NOTE: This was interesting to me because of the innate idea of being civilised vs. uncivilised arose in Roman Times. Before that it meant simply inhabited. It reminds me of the evolution of the word_ goy _in Hebrew. It originally referred to a non-Jewish person. Nowadays, it is used pejoratively._
 
 ---
+
+## System
+
+The robustness of the system is tested not when everything goes right, but by how well it overcomes challenges—the efficiency of the error-correcting algorithm. The efficacy of all communication systems is in how well they handle the incorrect communications that are inevitably going to occur.

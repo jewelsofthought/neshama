@@ -23,6 +23,9 @@ modified: 2022-02-14T14:13:07.098Z
 15. [Sixty Days of Joy](#sixty-days-of-joy)
 16. [The Concealment of the Glory](#the-concealment-of-the-glory)
 17. [The Splendours](#the-splendours)
+18. [Shabbat Service](#shabbat-service)
+19. [Flood](#flood)
+20. [Noah](#noah)
 
 ```
 שׁמִר רגליך כאשׁר תלך אל־בית האלוהים, וקרוב לשׁמיע מִתֶת
@@ -199,4 +202,16 @@ R' Isaac applied the sin of the mouth to flesh to the transgression of explicati
 ## The Splendours
 
 Somewhere beyond the heavens, hidden in the mists of the cosmos, are Lights, which we call the "Splendours". These Splendours are even more powerful than the _sefiroth_, which are the Emanations of which we have spoken, some of which are the most we can perceive, though they are always influencing and guiding our lives. Yet it is these Splendours which truly satisfy the soul, even though they are unreachable and unknowable, and the our intellect cannot actually comprehend them. That is why the person who is able and worthy of striving in this thoughts to grasp these thing is joyful. [And know that Joy is always a characteristic of one whose soul swims in these nourishing waters]
--- LIkutey Moharan 23:1,8
+-- Likutey Moharan 23:1,8
+
+## Shabbat Service
+
+The Shabbat service is analogous to the architecture of the temple. We have the service surrounding the reading of the Torah, just as the ark which contained the scrolls was in the inner chamber, surrounded by all the trappings of the _mishkan_ . That is where G-d's presence was.
+
+## Flood
+
+The waters of the flood that "unsouled" everyone did not destroy the earth, nor its vegetation. For the olive trees bore olives soon after the floods receded, as the dove that Noah sent forth returned with an olive.
+
+## Noah
+
+Noah sent the dove from himself, and receive it into himself with the olive branch. An ancient tree, with full round fruit, signifying the circle of life.

@@ -11,6 +11,7 @@ modified: 2022-05-09
 3. [Anthropos](#anthropos)
 4. [Balanced](#balanced)
 5. [Unbalanced](#unbalanced)
+6. [Bow & Arrow](#bow--arrow)
 
 ## Armageddon
 
@@ -49,3 +50,9 @@ In the old times, we imagined the Presence resting in a Temple that we build on 
 5. Against law of change.
 
 Seek to create order and balance through not "allowing" change to occur is a form of death. A living being is one in which balance is attained through the harmonic resonance of its various components, reacting and responding to the influences that it encounters. In other words, it is in constant relationship with itself, and its environment.
+
+## Bow & Arrow
+
+Gikatilla: We seek to balance upon the energies in order to "ascend"/open the control channel (pillar) as a boat/chariot (רחב) upon the ocean of existence.
+
+![Like an arrow](/posts/img/qkab/math/gikatilla.png)

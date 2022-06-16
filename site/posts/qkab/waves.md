@@ -12,7 +12,7 @@ modified: 2022-01-05T18:19:04.767Z
 
 Any wave can be represented in any wave form.
 
-The [included middle](/posts/qkab/middle/) is the domain of the involuntary, the "wave".
+The [included middle](/posts/qkab/middle_point/) is the domain of the involuntary, the "wave".
 
 The particle represents the intention, which sets the direction of the vector.
 

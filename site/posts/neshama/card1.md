@@ -15,7 +15,8 @@ modified: 2022-09-14T15:56:13.090Z
 5. [Spiritual Gym](#spiritual-gym)
 6. [Spiritual Lab](#spiritual-lab)
 7. [Inner Shape](#inner-shape)
-8. [Heaven](#heaven)
+8. [Female](#female)
+9. [Heaven](#heaven)
 
 {% endblock %}
 
@@ -58,6 +59,10 @@ A spiritual laboratory is where you carry out carefully crafted experiments to s
 > Many teach you about external movements, how to deal with outside forces. But it is the inner shape that is most important. For it is through the inner shape, that we experience the outer.Here we shape the inner. We focus on the internal shape of things. But what occurs on the outside is of prime importance.
 
 As the eyes and the ears, the nose and mouth, the heart, legs and arms of G-d having a human experience - this is where you could begin to embrace and embody the truth of your existence.
+
+## Female
+
+If you accept the fact that you are young and beautiful, and every man is going to try and kiss you&mdash;you will be more able to determine what goes on around you. All I say is - be gracious. Only use what you have to to get what you need. Don't be cruel.
 
 ## Heaven
 

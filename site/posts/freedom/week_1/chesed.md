@@ -48,10 +48,10 @@ Each feeling we experience is itself a shell containing the unlimited flow of Di
 
 <blockquote dir="rtl">
 וְאַתָּ֣ה אֲ֭דֹנָי אֵל־רַח֣וּם וְחַנּ֑וּן אֶ֥רֶךְ אַ֝פַּ֗יִם וְרַב־חֶ֥סֶד וֶאֱמֶֽת
-</blockquote>
-<blockquote>
+<p dir="ltr">
 And You, Eternal One, are El, full of Compassion, Gracious, Long-suffering and Bountiful in Lovingkindness and Truth.<br />
 -- (Psalm 86:15)
+</p>
 </blockquote>
 
 We begin without a clear image of where we wish to be. From a place of bondage, it is not possible to know the Promised Land. _Mitzrayim_, as the ancient kingdom of Egypt, represents our enslavements, both internal and external. The true slave is the one who believes in his enslavement, and thus his enslavement becomes self-enslavement. In order to find freedom to express what we are, we need to believe in the message of freedom. As long as we are caught in the in negative statements, whether self-to-self or self-to-other, and negative messages about the world, we remain slaves in _Mitzrayim_, which manifests as a place of stuckness.

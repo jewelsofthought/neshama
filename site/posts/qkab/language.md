@@ -1,7 +1,7 @@
 ---
 title: Symbolic Languages
 description: How to express the inexpressible?
-tags: null
+tags: [math]
 date: 2015-01-01T14:32:16.154Z
 modified: 2022-05-22
 ---

@@ -3,7 +3,7 @@ title: Dimensional entities
 description: Like a mandala made of sand, we build our lives, only for it to be washed away in the ocean of time.
 tags: [dimensions]
 date: 2015-01-01T00:32:16.154Z
-modified: 2022-05-22T16:12:18.201Z
+modified: 2022-05-30T16:12:18.201Z
 ---
 
 1. [Living beings](#living-beings)
@@ -14,6 +14,20 @@ modified: 2022-05-22T16:12:18.201Z
 2. [4th dimensional being](#4th-dimensional-being)
 3. [3d designs for 4d systems](#3d-designs-for-4d-systems)
 4. [Shamans & Mystics (& Mekubalim)](#shamans--mystics--mekubalim)
+5. [Multi-dimensionality of the Human experience.](#multi-dimensionality-of-the-human-experience)
+6. [Characteristics of Dimensions](#characteristics-of-dimensions)
+7. [Descriptions of Dimensions](#descriptions-of-dimensions)
+   1. [1D](#1d)
+   2. [2D](#2d)
+   3. [3D](#3d)
+   4. [4D](#4d)
+   5. [4 worlds](#4-worlds)
+8. [Summary](#summary)
+9. [Human](#human)
+   1. [Interactions](#interactions)
+10. [Gears](#gears)
+11. [Dimensional axioms](#dimensional-axioms)
+12. [Like a bullet (4d)](#like-a-bullet-4d)
 
 ## Living beings
 
@@ -69,11 +83,14 @@ As a 4<sup>th</sup> dimensional being, you are constantly aware of each one of t
 
 Imagine each moment of interaction (action -> reaction) as a supernova that spews out material as it bursts into light. A light so bright that it traverses infinity.
 
-From that vantage point, it looks something like this:
+From my, the individual, point of view, it looks something like this:
 
-> _From the depth of my being rises the impulse. With enough power and faith, it bursts forth and engages the other. At that tangential moment/pt of contact, the “shock wave” spreads out in all directions, proportional to the impact/power of the interaction._ > _It could be fleeting; it could be life changing._
+<blockquote class="poem">
+From the depth of my being rises the impulse. With enough power and faith, it bursts forth and engages the other. At that tangential moment/pt of contact, the “shock wave” spreads out in all directions, proportional to the impact/power of the interaction.<br />
+It could be fleeting; it could be life changing.
+</blockquote>
 
----
+## ![Like a bullet](/posts/img/qkab/Diagram%20Kab3%20-%20Bullet.png)
 
 ## 3d designs for 4d systems
 
@@ -98,3 +115,104 @@ In a time when the only language one could use to describe these realms was stor
 
 Science suffers from all the ills of any living religion. From the fanatics to the liberals, and all the various levels of interpretations of its texts, often by those who do not understand the original language it was written in.
 So let us enter into the magical realm of 4d and work together to live in a future that is not decreed and driven by this 3d chaos, but embraces where life is leading us, and gather to ensure a future for being human.
+
+## Multi-dimensionality of the Human experience.
+
+What if all these entities, our guardian angels, ego, consciousness and many other such associated beings are, in fact, expressions of the multidimensionality of your being. Take, for instance, your Guardian Angel, or even your Daemon. The question is, what would multi-dimensional consciousness actually look/feel like?
+
+The Kabbalah Tree is, in essence, an expression of this multi-dimensionality that we are becoming aware of.
+-- R’ Y”mba
+
+## Characteristics of Dimensions
+
+1. Every dimension contains within it every lower dimension.
+2. There are an infinite amount of projections of any higher dimensional object onto a lower dimension.
+3. The basic “reality” that is experienced in any dimension is the point of interaction, what we often call the “here and now”, a singularity&mdash;the (present) moment.
+4. Every object/event is made up of a set of points.
+
+Q: Is a higher dimensional point equivalent to a lower dimensional point?
+
+Each point can be represented exactly in every dimension. (As it goes up it would increase in dimensionality, but still be a point - albeit an _n_ dimensional one.
+But a point has “emptiness” in it, that can get filled, and so it would remain where it was, perhaps made more dense by all the energy from the upper dimension that has now been collected at that point. This is an interesting way of looking at the density of our dimensions. As one descends, it becomes more and more dense.
+
+5. The point is invariant, irrespective of dimension.
+
+It just takes more variables, more reference information, to locate the point in higher dimensions.
+
+6. Every N dimensional space has a N+1 brane or skin that “encloses” it. A soccer ball, for example.
+
+## Descriptions of Dimensions
+
+### 1D
+
+It is, a moment, an event. Generally represented by a circle. The only information is its position. It signifies the existence of something; its "first" emergence, or manifestation thereof. The point, or tangent of something.
+
+But that brings us to immediately recognise that if there is 1, a something, there has to be something "else", even if that other is the NOT of the previous. More often, in order for there to be any continuation, any recognition, there has to be at least one other. Basically there cannot be 1 that emerges without their being at least 2&mdash;the 1 that emerged and the whatever it emerged from!
+
+### 2D
+
+Represents a this and a that; an other appears, thus there is an awareness of self because of existence of other.
+Now we have length & breadth but no depth
+
+### 3D
+
+This could be indicative of a relation between two (at least). It introduces the aspect of depth, thus perspective. Also of reproduction&mdash;out of the two comes the one.
+
+### 4D
+
+Represented from our 3D space as the imaginary number. Which has a different space/time continuum. It manifests as effects in our space. Also known as the angelic realm, also the imaginary realm.
+
+In relation to 3D, would be able to “see" and pass through walls. Just as a 4d mage could “see the future”, similar to "passing through walls".
+
+A being, or consciousness, fully embodied in a dimension, is very effective within it. One finds man different examples of this. Someone who ignores or denies their 4d consciousness (what the Kabbalists call their _neshama_), will be incredibly efficient in the 3d. One who embraces, and focuses, only on the elements of his 2d existence – separating the world into recognisable/unrecognisable, useful/useless, good or bad will be horribly efficient in the short term, but woeful in the long term.
+
+### 4 worlds
+
+The 4 worlds of the Kabbalah, with also the 4 levels of interpretation of the writings, could be interpreted as dimensions, expressed in other terms.
+
+The 4 levels of "worlds" in the multi-world theory.
+
+## Summary
+
+1 -> pt
+2 -> line - relationship between 2 points in space
+3 -> plane/field - encompassing the 2 original points, and their relationship, thus producing shapes. Is the place where the points replicate/reproduce. This is the expression of the points connecting with other already existing elements.
+
+## Human
+
+> We are living in 3d space with 4d consciousness, moving along a 2d vector. But are descended from some 5d+ super-consciousness, or root soul.
+
+We are 4d (consciousness) beings having a 3d (real/mundane) experience. Or having an experience of living in a 3d reality.  
+Thus there is something always missing, something that we are always seeking, and the only way we can find it is by accepting the 4d consciousness that we are capable of accessing.
+
+Animals for instance; amoral people; those that live in a world of polarities, of right and wrong, good and evil. If one takes all you have to calculate for 3 dimensions into account, while another is only working in 2, the latter will be able to arrive at a decision sooner, as it can even implement it more swiftly, while you are hamstrung by the extra dimension you are taking into account. However, he is hampered by the inaccurate assessment that will haunt him all through his actions. This is due to propagation of error, which, as an approximation of the reality of the event, will be inevitable.
+
+### Interactions
+
+It is the difference between the one who says, “This is in my way. If I push all else aside, I can continue”, verses the other that considers the effect upon the one being pushed aside. And thus does not deal with the situation in the most efficient way in the moment, but could fumble at the critical point.
+
+## Gears
+
+A 4th to 3rd dimensional down-shift is like gearing down from 4th gear to 3rd gear. 3rd is a "denser" gear, providing more power and torque, but restricting the speed and distance that you can achieve in that gear. So it is with our consciousness. Most of us have not been taught and have to learn on the road how to use one's "gears". We exist in our bodies much like we behave with our cars. We expect it to work when we want to use it, and if something goes wrong, we take it to the mechanic (doctor) to fix it for us, and feel we need to know next to nothing about the running and maintenance of our bodies.
+
+But even more intense would be to think of us as a 4th dimension being living in 3d.
+
+## Dimensional axioms
+
+<blockquote dir="rtl">
+יענך יהוה ביום ישלח עזרך מקדש
+</blockquote>
+
+Underlying everything are the broad strokes, the “axioms”, the philosophic agreements, physical laws, etc. These are so subtle, that only gifted individuals can comprehend them and of those only the destined become anointed.
+
+In each world there are core principles. Each one has its own "physics" and aspect of time.
+
+# Point of reality
+
+Everything that actually "happens", occurs at the point of contact. Or, to be more specific, in the local area of “contact”, the meeting, or conjugal point.
+
+If a 2d object interacts with a 4d object, although this interaction might affect that 4d object in all 4 of its dimension, the 2d object would only be aware of the 2d interaction. If that contact is 2d, it is a 2d point of contact, and will only affect "half" of the 4d object/event.
+
+But for any point (whatever its dimension) to manifest, there must be a simple, powerful hadronic type of force that causes a moment of “recognition”, of manifestation/form&mdash;which could be referred to as an essential 1 (or 0) dimensional interaction, a truly spiritual moment. A moment which is not yet formed in the space/perception of the multidimensional being that it is occurring to. This moment will be one which has nothing but position (and intent/will). Although, if it is mature enough, it may perhaps have both shape and energy–but that information has not yet been arrived! In some strange way, whatever the dimension, the only interaction really occurs at the actual point of contact.
+
+Perhaps Hadronic energy is truly 1d energy and that is why it is so immensely powerful. It “holds” these energies for long enough for them to manifest as something that is perceivable.

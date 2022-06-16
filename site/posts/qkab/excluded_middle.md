@@ -1,21 +1,33 @@
 ---
 title: The excluded middle
 description: The bifurcation of the excluded middle
-tags: null
+tags: [science]
 date: 2015-01-01T16:02:16.154Z
-modified: 2022-01-11T17:32:18.974Z
+modified: 2022-05-30T17:32:18.974Z
 ---
 
-[excluded_middle](excluded_mid.html){
+## Principle of negation
 
-This is also an expression of what is known as the principle of the excluded middle: if P then there exists a ~P. For everything that exists there is an equal and opposite, if only in potential. Or, with something everyone is familiar with: "For every action, there is an equal and opposite reaction". This applies to energy, but I propose that it applies to everything - though not necessarily equal and opposite by our standards of measurement.}
+> If $$P$$ then there exists a $$\neg{P}$$.
 
-**Excluded middle**
+This states for every thing that exists there exists is an negative, an opposite. "For every action, there is an equal and opposite reaction"; "For every this, there is a that".
+
+### Excluded middle
 
 > For every $$P$$, there is a $$\neg{P}$$ such that $$\neg(\neg{P}) = P$$
 
-**Included middle**
+This is a stronger case, it proposes that there for every this, there is an equal that. In other words, one can pass from the one to the other, and there is nothing else inbetween the two. This is a strong philosophical position, on which most of modern mathematical proofs are based. Now, in the realm of mathematics, the realm of ideals and thought, in which a certain purity is maintained, this might be possible. However, the real world, the world of existence is just not so neat, and there are many examples of this not being true.
 
-> Between $$P$$ &amp; $$\neg P$$, there is are infinite options. The first (excluded middle) is a subset of this model. This is because one could postulate (even define) the existence of that singular point that is the negation of the point at source, however the only case.
+In fact, for many experiments to be able to take place, one needs to ignore all the factors that might influence the purity needed to ensure that what is being focussed upon is clear, and anything that might affect that purity, must be excluded. In other words, ensuring that the excluded middle holds.
 
-This is analogous to the case of the straight line, as a special case of all the possible lines. There is an infinite amount of paths to traverse between any two point, only one of which is straight.
+## Included middle
+
+> Between $$P$$ &amp; $$\neg P$$, there are infinite possibilities.
+
+The excluded middle is just one possibility. Just as between any two points there are an infinite amount of lines possible, with the straight line&mdash;the one that is most convenient to us&mdash;being a single specific case.
+
+## Complimentarity - CounterSpace
+
+This also illustrates the Principle of the Anti, or the: "For every action, there is an equal and opposite reaction", illustrated also in quantum theory, where for every sub-atomic particle, there exists an anti-particle.
+
+I extend the statement to: "For every object in the universe, there is an equal and opposite object". And I use the [example of the triangle](/posts/qkab/trinity/) to show this.

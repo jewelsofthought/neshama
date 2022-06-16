@@ -6,17 +6,32 @@ date: 2015-01-01T06:32:16.154Z
 modified: 2022-05-14T16:31:30.941Z
 ---
 
-1. [Thoughts](#thoughts)
-   1. [Thought (Neshama)](#thought-neshama)
-   2. [Thought (Neshama)](#thought-neshama-1)
-   3. [Thought (Neshama)](#thought-neshama-2)
-2. [Judaica (Personal)](#judaica-personal)
+1. [Chapter Outline](#chapter-outline)
+2. [Quotes](#quotes)
+   1. [Quote (Neshama)](#quote-neshama)
+   2. [Quote (Neshama)](#quote-neshama-1)
+   3. [Quote (Neshama)](#quote-neshama-2)
+   4. [Quote (ToL)](#quote-tol)
+   5. [Quote (ToL)](#quote-tol-1)
+   6. [Quote (ToL)](#quote-tol-2)
+   7. [Quote (Neshama)](#quote-neshama-3)
+   8. [Quote (ToL)](#quote-tol-3)
+   9. [Quote: Process (Neshama)](#quote-process-neshama)
+   10. [Quote: R' Saadia Ha'Gaon (Judaica)](#quote-r-saadia-hagaon-judaica)
+   11. [Quote: Prophet (Judaica)](#quote-prophet-judaica)
+3. [Thoughts](#thoughts)
+   1. [Thought - constraint](#thought---constraint)
+   2. [Thought - meditation](#thought---meditation)
+   3. [Thought (Neshama)](#thought-neshama)
+   4. [Thought (Neshama)](#thought-neshama-1)
+   5. [Thought (Neshama)](#thought-neshama-2)
+4. [Judaica (Personal)](#judaica-personal)
    1. [Kaballah (QKab)](#kaballah-qkab)
    2. [Meditation (Judaica)](#meditation-judaica)
    3. [Abulafia (Judaica)](#abulafia-judaica)
    4. [Merkava Descent (QKab)](#merkava-descent-qkab)
    5. [Metatron (QKab)](#metatron-qkab)
-3. [Personal](#personal)
+5. [Personal](#personal)
    1. [Quanta (qkab)](#quanta-qkab)
    2. [Desire (qkab)](#desire-qkab)
    3. [Divine Spark (qkab)](#divine-spark-qkab)
@@ -29,11 +44,32 @@ modified: 2022-05-14T16:31:30.941Z
       1. [Attract/Reject (qkab)](#attractreject-qkab)
       2. [Mercy (Neshama)](#mercy-neshama)
       3. [Free Will (qkab)](#free-will-qkab)
-      4. [Freedom (neshama)](#freedom-neshama)
-      5. [Compass (qkab)](#compass-qkab)
+      4. [Free will (Torah)](#free-will-torah)
+      5. [Freedom (neshama)](#freedom-neshama)
+      6. [Compass (qkab)](#compass-qkab)
    10. [Aware of the Circle (math)](#aware-of-the-circle-math)
    11. [Arrogance (Qkab)](#arrogance-qkab)
    12. [Enlightenment (qkab)](#enlightenment-qkab)
+   13. [Superiority](#superiority)
+
+# Chapter Outline
+
+1. Change the narrative (4D – 3D)
+2. Language transference (angels -> quantum -> 4d)
+3. Multi-dimensionality
+   a) Dimensions
+   b) all action occurs @ 1D, “the point”. What is the point (event, conversation, etc.).
+   c) Sex – the erotic nature of the universe.
+   Pt (masc.), encountering receptor (fem). {Remembering, that this is the process. In order to have a point that is penetrating, one has to have a point that is receiving too.}
+   They touch at a “pt” (or “collection” of points – which form, then, an object or event). Millions of pts of interaction occurring at any and every moment, extending from the center.
+4. Numbers (0 – 9 [10], 1 – 10 [11] -> 12?)
+5. Geometry (shapes, 6, 12, etc)
+6. Space, topology
+7. Quantum
+8. Imaginary numbers
+9. Transcendental states (bliss, nirvana, enlightenment)
+
+# Quotes
 
 ## Quote (Neshama)
 
@@ -96,6 +132,15 @@ All processes can be viewed as modifications of substances (material bodies).
 > The trustworthiness of the prophet hinges on the argument that the only reasonable explanation for their occurrence is through the agency of G-d.
 
 # Thoughts
+
+## Thought - constraint
+
+All aberrant behaviour occurs due to “unnatural” or excessive or unnecessary constraint – which is the exclusive abode of human existence
+-- R’ Y”mba
+
+## Thought - meditation
+
+Meditation that does not lead to clarification of commitment & action is entirely insufficient
 
 ## Thought (Neshama)
 
@@ -271,6 +316,16 @@ We have been granted free will, and thus the choice to constrain ourselves. For 
 
 Thus, the principle of _Chesed_, Mercy, needs to be invoked, which allows for the imperfections of being human to be acknowledged and integrated by allowing differences not to separate, but to unify and strengthen. The more heterogeneous environment is always the more robust, whereas the homogenous, tightly coupled environment is highly effective, and while it's rigidity allows it to protect itself, it is susceptible to sudden collapse as the failure of one component will likely cause cascading failures.
 
+### Free will (Torah)
+
+Why is following the Torah so onerous for so many? If it is indeed the blueprint of Creation, is this blueprint so flimsy, so delicately put together? If _Ha’Shem_ is omnipotent, why is there so much difficulty in following his commands? Why do we have to be cajoled and threatened, into obeying His Holy Word? Would we not, especially those who have seen His miracle, just follow them naturally?
+
+Is it because we have been granted some of the Divine essence, or power, that we call “free will”.
+
+However, this free will can only be expressed as a negative – that is to go against the “Will of G-d”.
+
+To have any choice in the realm of the omnipotent perfection, I would have to have the ability to negate the existence of such omnipotence—a contradiction in itself. Perhaps the only way to express this is through taking a position of against the existence of G-d, declaring myself part of the tribe whose structure is build around the belief that there is No G-d. This attitude becomes an action in the world and the members build a system around this core belief, explaining the universe and our world in terms of this belief. This line of thinking always end up at question of the first cause, “In the beginning”, then speaks of a state or an unfolding of effects, but avoiding the question of how did the space and the configurations that make these effects possible, arise in the first place.
+
 ### Freedom (neshama)
 
 What is freedom truly?
@@ -327,3 +382,7 @@ The shame of this present generation is their lack of acknowledgement of the yea
 Their arrogance is in their thinking that they are the first generation to wrestle with this existential problem - or are the best equipped to find a "solution" to a problem.
 
 A problem that is in fact an intrinsic aspect of the system itself.
+
+## Superiority
+
+A major motivation for religious endeavours, it seems, is the feeling of superiority that it engenders, and is, in many cases, encouraged. Thus humility has been a principle of all teachers of the mysteries. In fact is a requirement for anyone on the journey of authentic faith—and is one of the ways of separating one who has encountered the flame of truth, and one who claims to have, but has not.
