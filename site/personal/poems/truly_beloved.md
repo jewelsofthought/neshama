@@ -1,13 +1,15 @@
 ---
 title: G!d made flesh
 description: Randomisation
-tags: null
+tags: [judaica]
 date: 2002-01-01T05:01:10.856Z
 modified: 2020-06-04
 ---
 
-> למה תשׁקלוּ כסף בלוא־לחם ויגעכם בלוא לשׂבעה שׁמעוּ שׁמוע אלי ואכלוּ־טוב ותתענג בדשׁן נפשׁכם.
-> Why do you weigh out money for that which is not bread and offer the fruits of your toil for that which does not satisfy your soul?
+<h4 dir="rtl">
+למה תשׁקלוּ כסף בלוא־לחם ויגעכם בלוא לשׂבעה שׁמעוּ שׁמוע אלי ואכלוּ־טוב ותתענג בדשׁן נפשׁכם.</h4>
+<p dir="ltr">Why do you weigh out money for that which is not bread and offer the fruits of your toil for that which does not satisfy your soul?
+</p>
 
 ---
 
@@ -43,9 +45,9 @@ between two waves.
 What if galaxies are like cells of the body? Of the body of Elohim.
 
 Intricate webs twirl between,
-Each through connected.
+Each thoroughly connected.
 
-Inner beast is the desire to devour everything;
+The inner beast needs to devour everything;
 Being human is constraining those desires,
 And the highest form of this is
 constraint in service to the Divine.
@@ -56,14 +58,13 @@ Each serving that is greater,
 Until we are serving that which is greater
 Than all of us.
 
-(XX)
 Programmed with the desire to emulate the Divine.
 How absurd a thought -
 To create something other than Myself,
 Then program it with the drive to be just like Me!
-Infinite only exist if there is finite.
-But that finite becomes infinite, is a mystery.
-Yet the deepest mystery is ex-nihilo.
+Infinite only exist if there is finite,
+That finite becomes infinite, is a mystery.
+Yet the deepest mystery is ex-nihilo&mdash;
 How the supernal, inexpressible, non-existent Nothingness “stirred”.
 How could ‘no-thing’ stir up ‘some-thing’?
 Why would Nothing need something to Know It?
@@ -77,6 +78,6 @@ All the days of our lives.
 May all that we are and all that we do be fruitful and multiply,
 May I be awed by Your Beauty till the day I die.
 May I honour each and every day
-That is blessed by you, my life
+That is blessed by you.
 For without You my life would be extinguished
 in a moment.

@@ -8,7 +8,7 @@ modified: 2010-05-05
 
 <div class="poem">
 
-## What if I Return?
+<h3> What if I Return?</h3>
 
 He is coming.
 The excitement is rising.
@@ -33,7 +33,7 @@ Do I have a greater duty?
 Is it a possible there is one? They
 So need me, and love me –
 they might need to follow to help
-Fulfill their destinies too.
+Fulfil their destinies too.
 
 What if I return,
 and know that is the place I am meant to be?

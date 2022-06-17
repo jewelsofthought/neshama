@@ -7,7 +7,7 @@ date: 2002-01-01T05:03:10.856Z
 
 <div class="poem">
 
-## I Mankind
+<h3> I Mankind</h3>
 
 In the midst of all the foment,
 there is a deep calm.
@@ -31,15 +31,11 @@ Our time has come.
 Arise, Awaken, Surge forth to
 build what needs to be built.
 
-## II Deeper into love and joy.
-
 Do not forget the
 women, my brothers,
 for their Wisdom is the one
 that will connect and nourish
 us in our need.
-
-## III Being supported on my journey.
 
 In the glittering essence, in the
 depths of existence, the Divine

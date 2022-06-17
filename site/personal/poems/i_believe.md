@@ -1,7 +1,7 @@
 ---
 title: I believe, I believe
 description: The cycle is complete
-tags: null
+tags: [ok]
 date: 2002-01-01T05:01:10.856Z
 modified: 2020-06-04
 ---
@@ -11,19 +11,15 @@ Where a look accompanied by a tremor of excitement, can set a soul aflame.
 That evening was full of surprises, clearing my projection,
 The ego, special, non-sharing, shy of that part of me feeling exposed.
 
----
+&nbsp;&nbsp;\* \* \*
 
 Entering into the space of the Divine,
-coming to terms with my nature.
-Live fully expressing the truth of who/what I am.
-Reaching to fulfil my purpose in service to the divine
-and the divine in human nature.
+coming to terms with our nature.
 To spread my wings and fly through balancing my masculine, purposeful,
 and my feminine, receptive, desire for union.
 To be free from the constraints
 of the programming
 of my past—the pull of my ancestors;
-release the restraints that prevent me from being,
 release the constrains and express the light and love of my inner being.
 For men, everything is experienced as other,
 thus his strong need for union.
@@ -31,7 +27,7 @@ For women, aware of the union of everything,
 knowing of no difference between herself and another,
 constantly being battered on the rocks of the male’s state of separateness.
 
----
+&nbsp;&nbsp;\* \* \*
 
 The energy fusing with the material is the sexual realm of the upper world.
 The “descent” of the spirit into manifest form is the expression of the sexual in the spiritual space

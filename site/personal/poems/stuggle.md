@@ -1,11 +1,13 @@
 ---
 title: The struggle
-description: Still the stuggle rages inside
+description: Still the struggle rages inside
 tags: null
 date: 2002-01-01T05:01:20.856Z
 ---
 
-## My Struggle
+<div class="poem">
+
+<h3>My Struggle</h3>
 
 With the quiet iridescence of our struggle,
 We have seasons, some are gray and others
@@ -24,7 +26,7 @@ Contradictions revealed in the inner
 Chambers of my core,
 Howling and chanting
 In the darkness buried deep
-Inside me, from when
+Inside me, from whence
 I came.
 
 If the Leviathan, the dark energies,

@@ -7,7 +7,7 @@ date: 2002-01-01T05:03:10.856Z
 
 <div class="poem">
 
-## Where is my joy?
+<h3> Where is my joy?</h3>
 
 In the realm of religiousity
 Sit the demons of vanity and rote.

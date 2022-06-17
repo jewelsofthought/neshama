@@ -7,7 +7,7 @@ date: 2022-01-03T14:10:43.013Z
 
 <div class="poem">
 
-## Keep rowing
+<h3>Keep rowing</h3>
 
 The words flow,
 Like etching across the paper.
@@ -18,10 +18,11 @@ Stands God and creation.
 
 Misunderstandings float like orchids
 On the water. Eventually the lake
-Will be covered, and the fish will leave.
+Will be covered, and the fish will die.
 It is easy to break things, more difficult to
-Create them. When will the glue hold?
-Perhaps melding and growing into the
+make them.
+Will the glue of hope hold,
+melding and growing into the
 Gaps of my fear and mistrust.
 
 A weariness descends upon him. The

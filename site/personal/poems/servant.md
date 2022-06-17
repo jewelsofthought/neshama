@@ -7,7 +7,7 @@ date: 2022-01-03T14:10:43.013Z
 
 <div class="poem">
 
-## I am Your servant
+<h3> I am Your servant</h3>
 
 It seems on a Shabbos evening, the land is laced with
 The accouterments of America. The kids watch TV in
@@ -65,7 +65,5 @@ You wish me to be,
 to do the things I am supposed to be doing.
 
 I am your servant.
-
--- Yehuda Ben Aaron.
 
 </div>

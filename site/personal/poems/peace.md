@@ -27,12 +27,11 @@ Yin and Yang, Hard and Soft,
 Good and Evil, Temptation and Duty,
 On and on, step after step, we navigate
 this binary universe, on each side the brick walls of
-this alleyway we slowly creep along.
+this alleyway, we slowly creep along.
 
 To be at peace and in my place, is my
 ongoing prayer. Yet the wise warn us not
 to get too comfortable, for contained
-in the moment of
-ultimate joy, is its sorrow.
+in the moment of ultimate joy, is its sorrow.
 
 </div>

@@ -1,7 +1,7 @@
 ---
 title: Songs of Joy
 description: Based on Psalm CXXXIX
-tags: null
+tags: [judaica]
 date: 2002-01-01T05:01:10.856Z
 modified: 2020-06-04
 ---

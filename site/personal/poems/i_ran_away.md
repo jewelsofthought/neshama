@@ -30,4 +30,4 @@ And now?
 
 Feeling nothing,
 Only a seething mass in my belly
-Almost like riding a large serpent.
+like riding a large serpent.

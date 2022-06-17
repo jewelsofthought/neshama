@@ -5,7 +5,8 @@ tags: null
 date: 2002-01-01T05:03:20.856Z
 ---
 
-## Movement and Change
+<div  class="poem">
+<h3>Release</h3>
 
 The calm after the storm.
 First release the poisons,
@@ -31,3 +32,5 @@ How will I resolve this endless conflicts if
 Not with love and faith and joy in the miracles of existence.
 
 The release comes quietly.
+
+</div>
