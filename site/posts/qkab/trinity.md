@@ -6,15 +6,32 @@ date: 2015-01-01T22:12:16.154Z
 modified: 2022-01-11T17:10:18.179Z
 ---
 
-1. [Stillness](#stillness)
-2. [Vesica Pisces](#vesica-pisces)
+1. [Gimel - the third letter](#gimel---the-third-letter)
+2. [Stillness](#stillness)
+3. [Vesica Pisces](#vesica-pisces)
    1. [Trinity](#trinity)
    2. [Three's](#threes)
    3. [3 shapes](#3-shapes)
-3. [As above, so below (AASB)](#as-above-so-below-aasb)
-4. [Upper & Lower](#upper--lower)
+4. [As above, so below (AASB)](#as-above-so-below-aasb)
+5. [Upper & Lower](#upper--lower)
    1. [Upper & Lower](#upper--lower-1)
-5. [Help](#help)
+6. [Help](#help)
+
+## Gimel - the third letter
+
+_Gimel_ teaches us
+that two opposing forces must be blended to create
+a third, more complete, more perfect entity.
+Emanating from the singularity of the Aleph,
+Combining with the duality of the Bet,
+comes the synthesis known as Gimel.
+Not the one, nor the other,
+but a greater perfection through the synthesis
+of the Oneness,
+the Divine,
+with the duality, or existence
+– _Malchut_ –
+kingdom of man and woman.
 
 ## Stillness
 

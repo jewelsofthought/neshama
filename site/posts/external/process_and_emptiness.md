@@ -3,7 +3,7 @@ title: Process and Emptiness
 description: A Comparison of Whitehead’s Process Philosophy and Mahayana Buddhist Philosophy
 author: Thomas J. McFarlane
 tags:
-  - external
+  - qkab
   - process
 date: 2008-11-18T15:38:35.115Z
 modified: 2021-11-08T16:23:54.125Z

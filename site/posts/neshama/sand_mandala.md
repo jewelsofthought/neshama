@@ -3,7 +3,7 @@ title: Sand Mandala
 description: Like a mandala made of sand, we build our lives, only for it to be
   washed away in the ocean of time.
 date: 2008-01-06T15:38:35.115Z
-tags:
+tags: null
 modified: 2022-05-01
 ---
 

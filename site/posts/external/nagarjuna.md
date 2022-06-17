@@ -1,7 +1,7 @@
 ---
 title: Nagarjuna and Quantum Physics.
 tags:
-  - external
+  - qkab
   - process
 date: 2008-11-17T15:38:35.115Z
 modified: 2021-11-11T10:31:30.490Z
@@ -18,17 +18,17 @@ modified: 2021-11-11T10:31:30.490Z
 ### Eastern and Western Modes of Thought.
 
 1. [Nagarjuna and Quantum Physics.](#nagarjuna-and-quantum-physics)
-   1. [Christian Thomas Kohl.](#christian-thomas-kohl)
-   2. [Eastern and Western Modes of Thought.](#eastern-and-western-modes-of-thought)
-   3. [Introduction](#introduction)
-   4. [_Mahaprajnaparamita-sastra_](#mahaprajnaparamita-sastra)
-   5. [Summary.](#summary)
-   6. [Nagarjuna's view of reality.](#nagarjunas-view-of-reality)
+      1. [Christian Thomas Kohl.](#christian-thomas-kohl)
+      2. [Eastern and Western Modes of Thought.](#eastern-and-western-modes-of-thought)
+   1. [Introduction](#introduction)
+   2. [_Mahaprajnaparamita-sastra_](#mahaprajnaparamita-sastra)
+   3. [Summary.](#summary)
+   4. [Nagarjuna's view of reality.](#nagarjunas-view-of-reality)
       1. [Substantialism](#substantialism)
       2. [Subjectivism](#subjectivism)
       3. [Holism](#holism)
       4. [Instrumentalism](#instrumentalism)
-   7. [Nagarjuna’s viewpoint.](#nagarjunas-viewpoint)
+   5. [Nagarjuna’s viewpoint.](#nagarjunas-viewpoint)
       1. [A brief review of the 25 out of 27 chapters of the _Mulamadhyamakakarika_ (MMK):](#a-brief-review-of-the-25-out-of-27-chapters-of-the-mulamadhyamakakarika-mmk)
       2. [Chapter 1: Cause and effect.](#chapter-1-cause-and-effect)
       3. [Chapter 2: A mover and the distance within which to move.](#chapter-2-a-mover-and-the-distance-within-which-to-move)
@@ -39,18 +39,18 @@ modified: 2021-11-11T10:31:30.490Z
       8. [Chapter 23. Pure and impure.](#chapter-23-pure-and-impure)
       9. [Interpretation of MMK’s 25 chapters.](#interpretation-of-mmks-25-chapters)
       10. [Discussion of Nagarjuna’s work.](#discussion-of-nagarjunas-work)
-   8. [Quantum Physics](#quantum-physics)
+   6. [Quantum Physics](#quantum-physics)
       1. [The metaphysical foundations of quantum physics](#the-metaphysical-foundations-of-quantum-physics)
       2. [Albert Einstein’s contribution to the interpretation of quantum physics.](#albert-einsteins-contribution-to-the-interpretation-of-quantum-physics)
       3. [Niels Bohr’s contribution to the interpretation of quantum physics.](#niels-bohrs-contribution-to-the-interpretation-of-quantum-physics)
       4. [The concepts of interactions in the standard model of quantum physics.](#the-concepts-of-interactions-in-the-standard-model-of-quantum-physics)
-   9. [Conclusion.](#conclusion)
-   10. [Appendices](#appendices)
-       1. [Appendix 1: Meanings of pratityasamutpada.](#appendix-1-meanings-of-pratityasamutpada)
-       2. [Appendix 2: What is quantum entanglement?](#appendix-2-what-is-quantum-entanglement)
-       3. [Appendix 3: A. N. Whitehead and Albert Einstein about Modern Physics.](#appendix-3-a-n-whitehead-and-albert-einstein-about-modern-physics)
-   11. [Bibliography](#bibliography)
-   12. [Notes](#notes)
+   7. [Conclusion.](#conclusion)
+   8. [Appendices](#appendices)
+      1. [Appendix 1: Meanings of pratityasamutpada.](#appendix-1-meanings-of-pratityasamutpada)
+      2. [Appendix 2: What is quantum entanglement?](#appendix-2-what-is-quantum-entanglement)
+      3. [Appendix 3: A. N. Whitehead and Albert Einstein about Modern Physics.](#appendix-3-a-n-whitehead-and-albert-einstein-about-modern-physics)
+   9. [Bibliography](#bibliography)
+   10. [Notes](#notes)
 
 ## Introduction
 

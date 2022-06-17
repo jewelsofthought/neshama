@@ -1,7 +1,7 @@
 ---
 title: Emet
 description: Time - past, present and future.
-tags: null
+tags: [emet]
 date: 2010-10-02T00:39:50.132Z
 modified: 2019-01-02T04:09:21.167Z
 ---
