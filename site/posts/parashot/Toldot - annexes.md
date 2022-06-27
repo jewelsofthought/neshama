@@ -4,7 +4,7 @@ description: Story about Isaac and Jacob stealing Esau's birtright
 url: https://www.chabad.org/library/article_cdo/aid/2730/jewish/The-Palace-and-the-Pigeons.htm
 author: Tzvi Freeman
 tags: null
-date: 2021-10-30T22:15:22.481Z
+date: 2021-05-30T22:15:22.481Z
 modified: 2022-02-14T10:52:51.379Z
 ---
 

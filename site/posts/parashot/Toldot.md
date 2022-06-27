@@ -3,7 +3,7 @@ title: Toldot
 refURL: https://www.chabad.org/parshah/article_cdo/aid/3178/jewish/Toldot-in-a-Nutshell.htm
 description: Genesis 25:19-28:9 - Story about Isaac and Jacob stealing Esau's birthright
 tags: null
-date: 2021-10-30T22:15:22.481Z
+date: 2021-05-30T22:15:22.481Z
 ---
 
 ## Toldot in a nutshell
