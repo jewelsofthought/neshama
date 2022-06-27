@@ -9,13 +9,13 @@ modified: 2022-01-05T12:51:54.454Z
 1. [Personhood](#personhood)
 2. [Seeding](#seeding)
 3. [Actor](#actor)
+4. [Voluntary](#voluntary)
 
 ## Personhood
 
         If we wish the system to be about people, then the basic unit, the seed, of the system has to be the individual.
 
-If this individual is to have any autonomy, he
-must have an id within the system. This id should identify him or her as a person, and not as merely another part of the system.
+If this individual is to have any autonomy, he must have an id within the system. This id should identify him or her as a person, and not as merely another part of the system.
 
 This identification must allow or provide the individual with some a private, sovereign space in the system. Otherwise, he or she just becomes another brick in the wall, and becomes, in
 essence, an IT.

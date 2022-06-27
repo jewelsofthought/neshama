@@ -6,32 +6,30 @@ tags: null
 modified: 2021-10-12T18:16:11.174Z
 ---
 
-## Verification
-
-- Public Key Rings
-- First Verified by other members
-
 ## Network
 
 - Private
 - Multi-layered
 - Distributed
+- Tree structure
 
 ## Blockchain
 
 - Accountability
 - Governance
-- Regulate
+- Regulatory
 - Record
 
 ## Local currency/tokens
 
-## Tree structure
+- energy tokens
+  - work done/action
+  - potential energy
 
 ## Message Brokers
 
 - fail safe
-- log everything
+- log everything (blockchain)
 - everything (mostly) as a message
 - leverage existing technology
   - severless
@@ -42,4 +40,9 @@ modified: 2021-10-12T18:16:11.174Z
 - spread only by word-of-mouth
 - hand out cards, with code
   - needs to be activated.
-  - i call in say i have handed out card (activate)
+  - i notify i have handed out card (activate)
+
+## Verification
+
+- Public Key Rings
+- First Verified by other members who have met the person, and know who he/she is.

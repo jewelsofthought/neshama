@@ -14,13 +14,13 @@ modified: 2022-06-02T15:55:03.357Z
 
 ## OS – Open Source vs. proprietary
 
-It seems a losting battle in a capatilistic economy to propose any sort of open-source system as it will eventually be subsumed and come under the control of the propriety system. Volunteerism is noble, but in a system that requires private capital to ensure the basic needs of a person, will eventually have to give way to the capitalistic ifluence. This we know happens especially if and when there are children involved.
+It seems a losting battle in a capitalistic economy to propose any sort of open-source system as it will eventually be subsumed and come under the control of the propriety system. Volunteerism is noble, but in a system that requires private capital to ensure the basic needs of a person, will eventually have to give way to the capitalistic influence. This we know happens especially if and when there are children involved.
 
-The basic principle of capitalism, and thus control by an elite group of individuals, is the eminence of private property in our society. If we accept the belief that a property can be owned by an individual, which then confers upon him or her the right to dispose of it in whatever way he or she sees fit, it will eventually consolidate into the majority beging owned by the few.
+The basic principle of capitalism, and thus control by an elite group of individuals, is the eminence of private property in our society. If we accept the belief that a property can be owned by an individual, which then confers upon him or her the right to dispose of it in whatever way he or she sees fit, it will eventually consolidate into the majority begging owned by the few.
 
-However, if we propose that everything be held in common, we could just as easily fall into the trap of the "for the common good", which might be decided by a small group of individuals, who as time goes on, become less and less behooven to the general needs of the population. Firstly, who has the ability to decide what is the best for the common good of the people? And what will prevent those who administer the common good from themselves becoming subject to their own needs and desires?
+However, if we propose that everything be held in common, we could just as easily fall into the trap of the "for the common good", which might be decided by a small group of individuals, who as time goes on, become less and less behoven to the general needs of the population. Firstly, who has the ability to decide what is the best for the common good of the people? And what will prevent those who administer the common good from themselves becoming subject to their own needs and desires?
 
-## Povery and wealth
+## Poverty and wealth
 
 - Poverty is your problem (if I am wealthy), you solve it.
   In the modern society, if I have succeeded and thus am wealthy, then, your poverty - which is an expression of your lack of success - is your problem. You need to solve it - just as I solved my "poverty| problem.

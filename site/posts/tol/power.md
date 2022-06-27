@@ -3,10 +3,10 @@ title: Power
 description: Power is upheld by a belief in that power base
 tags: null
 date: 2003-01-17T13:09:01.930Z
-modified: 2022-05-09T08:18:14.780Z
+modified: 2022-06-21T08:18:14.780Z
 ---
 
-## Power (ToL)
+## Power
 
 > Where power goes, governance must follow.
 

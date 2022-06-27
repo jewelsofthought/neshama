@@ -8,9 +8,9 @@ modified: 2022-01-03T16:52:17.571Z
 
 1. [Fluid IT](#fluid-it)
 2. [Governance, risk, and compliance. (external)](#governance-risk-and-compliance-external)
-   1. [Governance:](#governance)
-   2. [Risk:](#risk)
-   3. [Compliance:](#compliance)
+   1. [Governance](#governance)
+   2. [Risk](#risk)
+   3. [Compliance](#compliance)
 3. [Risk](#risk-1)
 
 ## Fluid IT
@@ -33,7 +33,7 @@ Most organisations typically apply governance, risk, and compliance (GRC) in an 
 
 Jack Freund and Jack Jones describe a more specific overview of GRC as follows:
 
-### Governance:
+### Governance
 
 > Ultimately, leadership is expected to cost-effectively govern the organization’s risk landscape.
 
@@ -41,7 +41,7 @@ Accomplishing this requires setting and communicating expectations, overseeing a
 
 GRC solutions are supposed to assist with this by providing a way to report where these expectations are and are not being met, within a meaningful business context.
 
-### Risk:
+### Risk
 
 This objective is all about making better-informed risk decisions, which boils down to three things:
 
@@ -49,7 +49,7 @@ This objective is all about making better-informed risk decisions, which boils d
 - effectively rating and prioritising ‘risks,’ and
 - making decisions about how to mitigate ‘risks’ that are significant enough to warrant mitigation.”
 
-### Compliance:
+### Compliance
 
 On the surface, compliance is simply a matter of identifying the relevant expectations (e.g., requirements defined by Basel, Payment Card Industry (PCI), SOX, etc.), documenting and reporting on how the organisation is (or is not) complying with those expectations, and tracking and reporting on activities to close any gaps.”
 

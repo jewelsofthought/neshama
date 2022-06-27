@@ -3,7 +3,7 @@ title: Future
 description: This is the way of the future
 tags: [plandemic]
 date: 2003-01-18T13:08:51.930Z
-modified: 2022-01-03T14:54:41.012Z
+modified: 2022-06-21T14:54:41.012Z
 ---
 
 ## The Future
@@ -15,7 +15,7 @@ Thus you can receive this information - and decide what to do with it. But this 
 1. No more private property.
 2. Transactions will no longer be measured in static numerical fiat currency, but in units of energy i.e joules & potential energy (pe).
    Just as we have a reserve currency and a value currency...
-   This will require two measurments:
+   This will require two measurements:
    (i) Work done (production)
    (ii) Potential for work: This will cover research, ideas, etc.
    I am not sure how to measure creativity. ie art, etc.
