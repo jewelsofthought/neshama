@@ -48,9 +48,15 @@ modified: 2022-05-14T16:31:30.941Z
       5. [Freedom (neshama)](#freedom-neshama)
       6. [Compass (qkab)](#compass-qkab)
    10. [Aware of the Circle (math)](#aware-of-the-circle-math)
-   11. [Arrogance (Qkab)](#arrogance-qkab)
-   12. [Enlightenment (qkab)](#enlightenment-qkab)
-   13. [Superiority](#superiority)
+   11. [The lesson](#the-lesson)
+   12. [Arrogance (Qkab)](#arrogance-qkab)
+   13. [Enlightenment (qkab)](#enlightenment-qkab)
+   14. [Superiority](#superiority)
+   15. [Imperfection](#imperfection)
+   16. [Known](#known)
+   17. [No humans](#no-humans)
+   18. [Born](#born)
+   19. [Complexity (ToL)](#complexity-tol)
 
 # Chapter Outline
 
@@ -367,6 +373,12 @@ eg: Circle is only a name to recall an image that exists in my mind, with a coll
 
 There is a difference between the name - which is a pointer - and the actual object. In fact, there is no hint of any of the characteristics of the circle in this word.
 
+## The lesson
+
+Think of it in terms of the lesson of mathematics: with a few simple rules, we build the most complex (and internally coherent) system.
+
+My point is here that even in the realm of the imagination, where anything is possible, patterns appear.
+
 ## Arrogance (Qkab)
 
 > Presuming to be separate entities and sovereign independent beings.
@@ -386,3 +398,48 @@ A problem that is in fact an intrinsic aspect of the system itself.
 ## Superiority
 
 A major motivation for religious endeavours, it seems, is the feeling of superiority that it engenders, and is, in many cases, encouraged. Thus humility has been a principle of all teachers of the mysteries. In fact is a requirement for anyone on the journey of authentic faith—and is one of the ways of separating one who has encountered the flame of truth, and one who claims to have, but has not.
+
+## Imperfection
+
+It is not an imperfection in the perfection. It "arose" in the "mind" or "will" of the Creator to create (this creation). All of these words contain barely a grain of truth, because they are all anthropomorphic, using human ontology to describe the indescribable.
+
+In other words, the creation arose out of the perfection as an expression of that very perfection.
+
+Why, how, what or who, we will never know. For even the glimpses we are allowed might themselves be delusional&mdash;just keep on dreaming the dream. When enough of us dream the same dream, then we will begin to sing the songs that arise out of this dream. And when enough of us are singing the song of our souls, we will begin to manifest and build that which we dreamt and sang.
+
+## Known
+
+If it is know, then it is not unknown. Every piece of information now known was once unknown. For anything to exist it must be know&mdash;just maybe not by us!
+
+## No humans
+
+What difference would it make if there were no humans alive, except to other humans? None!
+All other species (of those remaining) seem to have an intrinsic and essential part to play in the unfolding web of life. What is ours? It seems that we are no essential to any part of the Web of Life. Is this why we are drawn by this insatiable desire to affect everything around us? Even our very human-ness? Is this a cry for love, so that the unfeeling, uncaring universe will notice us.
+
+By the fact that we are no essential to material life, makes me think that possibly we need to affect some other part or aspect of existence - like the "spiritual", the "ephemeral" part perhaps.
+
+Are we like children misbehaving so that our absent father will wake up and notice us? Is He so busy with His other affairs that He has no time or desire to pay any attention to us? Does He not care about us?
+
+I believe that He is paying incredible attention towards us, and is pouring His energy and love into us constantly.
+
+## Born
+
+I did not ask to be born as I am, in what I live. In fact, I have great difficulty with a lot of it. Perhaps the best anyone could hope to do, is make it better?
+
+My whole being, my very soul cries out "No! It cannot be!" I will not accept a fate, a universe so cruel and perverse as this is purported to be - though I myself have experienced mostly great things, much kindness and love, and a life full of abundance. I refuse to bow to the concept of a Sovereign Being filled with such human frailties and pettiness. G-d is not creating a drama for His entertainments. We are not pets performing some macabre dance. These are all nightmares dreamt up in minds sunk into darkness and despair at the absence of purpose or meaning.
+
+Yet that is the reality we are facing. It is a Truth that many struggle with, and not a few succumb to. We know, my brethren, that it is in times of darkness that our faith is truly tested. Measured not by our ability to wage war or take up arms in the name of what is true&mdash;not that that might not be an important part of the reality of what is coming&mdash;but by our ability to stand firm on mother earth. To claim, by our divine right to exist, my "internal" sovereignty.
+
+## Complexity (ToL)
+
+The only thing that can contain everything is nothing!
+
+The more information, the greater the complexity and the greater the energy requirements.
+
+Due to the level of complexity of the collective, plus its global nature, it has to be more inter-dependent that any past experience of such collectivism.
+
+A society built on handling crises, not for maintaining the stability of said society, will eventually begin to manufacture crises, even if unconsciously, or due to inherent/actual, imagined, or inherited fears. Once these behaviours have become embedded in the systems (systemic), they can then be consciously manipulated by those who have some perceived gain from said manipulation.
+
+Who has more to gain than those who hold power and wealth: "Everything to gain, everything to lose" is the refrain of kings and CEO's.
+
+A billionaire loses a billion, and has to live in his mansion on a measly million or so a year, having to trade or sell his other 5 abodes, perhaps let go of his luxury cars. Joe lost his business, had debts to pay, loses his house. Now has no money, no house, no job and little prospect of ever attaining a decent life. And we say that the billionaire lost everything? Because it is bigger, higher, faster, does not mean it is better!

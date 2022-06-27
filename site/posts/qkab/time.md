@@ -1,8 +1,9 @@
 ---
 title: Time
 description: Maybe time is not a point
-tags: [emet, todo]
-date: 2010-10-02T00:49:50.132Z
+tags: [wolfson, emet, todo]
+author: Eliot Wolfson
+date: 2015-12-01T21:32:16.154Z
 ---
 
 Maybe time is not a "point' but is a one-dimensional event, because one could say that a 1d point is actually an event. We, from our 3d perspective see it as a point, a location, but to all intents and purposes it could be a full-blown event that we only perceive in a limited scope. Let's call this event "time". We say that something happens in time <em>t</em>, though because we can only imagine/intuit a 1d event, generally out measurement of time <em>t</em> is the interval (or delta $$\bigtriangleup$$) between two events, which we then measure as $$t_1 - t_0$$, the "distance" between the beginning and the end of the event. {molecular orbitals have a similarity to human orbitals}. This event has $$\oslash$$ dimension and thus cannot be measured in any meaningful sense. It just "exists" for a moment, and this is "gone". {It impinges or affects your moment.} This moment "inbetween" is called "space". It is the reality from which everything emerges. It is possible to also give this space a number, 1 and thus a unit of measurement.
