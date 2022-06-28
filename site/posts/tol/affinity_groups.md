@@ -3,7 +3,6 @@ title: Affinity Group
 description: No seeds, no future.
 tags: null
 date: 2003-01-05T11:25:24.478Z
-modified: 2003-01-01T13:08:51.930Z
 ---
 
 ## Groups
