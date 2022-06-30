@@ -19,10 +19,10 @@ modified: 2021-12-19T19:05:21.600Z
 
               If we continue to do things
               the same way,
-              how can we expect a different result.
+              how can we expect a different result?
 
-              By the strength of our common endeavours we achieve more than we achieve alone, so as to create for each of us the means to realise our true potential and for all of us a community in which power, wealth and opportunity are in the hands of the many, not the few. Where the rights we enjoy reflect the duties we owe. And where we live together, freely, in a spirit of sharing, acceptance and honouring.”
-                    -- _Adapted from the Manifesto of the Chaordic Commons_
+> By the strength of our common endeavours we achieve more than we achieve alone, so as to create for each of us the means to realise our true potential and for all of us a community in which power, wealth and opportunity are in the hands of the many, not the few. Where the rights we enjoy reflect the duties we owe. And where we live together, freely, in a spirit of sharing, acceptance and honouring.”
+> &nbsp;&nbsp;&nbsp;-- _Adapted from the Manifesto of the Chaordic Commons_
 
 ## Abstract
 
@@ -34,10 +34,13 @@ I propose a system that is a web of trust, composed of communities of affinity g
 
 The basic unit of the network is an affinity group, which is a cell of approximately 10 people, located within a reasonable geographical distance from one another. These communities are made up of collections of affinity groups that network together to enhance co-operation and co-ordination.
 
-Existing protocols, some tried and tested, others newly fashioned, and others not yet fashioned, will be adapted to deal with issues of transparency, regulations, agreements, etc. For instance, by using blockchains, the network will itself be developed with technology that requires openness and transparency. Through recording all the transactions there will be accountability. For verification in the case of a dispute, it will be possible to refer to a definitive history to resolve differences through at least one full archive of all these transactions and communications. Smart contract technologies can be used to embed the agreements and regulations in transaction protocols themselves.
+Existing protocols, some tried and tested, others newly fashioned, and others not yet fashioned, need to be adapted to deal with issues of transparency, regulations, agreements, disputes, et al. For instance, by using blockchains to create a journal of all the transactions and decisions and interactions that occur within the network, it will be easier to incorporate protocols that requires openness and transparency. This journal could be used to determine accountability in the case of a dispute as it will be possible to refer to a definitive history to trace the evolution of said dispute.
 
-Rather than relying on purely technological methods, the identity problem is solved by utilising personal verification, like a reputation-based system,
-as a method of verifying someone’s identity.
+Smart contract technologies on the blockchain can also be used to embed the agreements and regulations in transaction protocols themselves, allowing for the usage of "intelligent" money.
+
+Rather than relying on purely technological methods, the verification of identity can be solved by utilising personal verification, using a reputation-based system, as a method of verifying someone’s identity. In other words, there will (and should) be others who can verify someone as who he or she says he is, who themselves are verified. Something like the PGP public keyrings of yore.
+
+Members take responsibility for the members with whom they are affiliated, especially the individuals they have personally invited into the network. Referrals must have meaning. There must be trust in the web that underpins the tree, else it will not be viable.
 
 If sufficient time and resources were available, many people would be willing and able to help fashion and create this system and its interfaces, just as many people have willingly helped build so many facets of the internet and the web, and continue to do so.
 
@@ -47,14 +50,23 @@ This network differs from other networks in that it requires a commitment from t
 
 The network will be built from the ground up. We first gather/identify the people, then create the network, not the other way round.
 
-It is a fully connected, but ordered network – a tree – through which all the people are connected. Just like an organism, the network is all connected, but passes through various pathways in order to reach other parts of the system. Thus we create cells, or affinity groups, that form the basis of this living tree.
+It is a fully connected, but ordered network – a tree – through which all the people are connected. Just as an organism in order to function properly, the network is all connected, though it passes through various pathways in order to reach other parts of the system. Thus we create cells, or affinity groups, that form the basis of this living tree.
 
-Members take responsibility for the members with whom they are affiliated, especially the individuals they have personally invited into the network. Referrals must have meaning. There must be trust in the web that underpins the tree, else it will not be viable.
+![Community clusters covering the earth](/posts/img/tol/02-1_clusters.png)
 
-Potential decisions to be discussed percolate up the network, with the various opinions collated, and then filter back down again once these issues have been finalised. All decisions are voted upon, with most weight being given to those that are most affected. The discussion and voting process takes place within the appropriate context or affected demographic, so that the various parts of the network only need take action within their local purview.
+Potential decisions to be discussed percolate up the network, with the various opinions collated, and then filter back down again once these issues have been finalised. All decisions are voted upon at each level, with most weight being given to those that are most affected. The discussion and voting process takes place within the appropriate context or affected demographic, so that the various parts of the network only need take action within their local purview. The decision on the "upper" or more widely spread areas are decided by how much of the constituency is on board with the requests they have received.
 
-If a project requires more consistent attention, a separate project sub-tree will be formed – a team – that will take responsibility. This team structure will be organised in the most effective manner. Once that particular project is complete, the team will disband until it is needed again. It might be a different group of people that respond to the next occurrence. Leaders will be chosen. One’s reputation will be known – there are methods of using crypto-currencies to gauge interest and popularity – and thus the popular leaders will attract more people who are willing to work with them than leaders who do not treat their teams appropriately.
+{To explain more fully see the section on [decisions](decisions.md)}
+
+![Social Networking Visualisation (Hong Seokee)](/posts/img/tol/02-2_visualisation.png)
+
+If a project requires more consistent attention, a separate project sub-tree will be formed – a team – that will take responsibility. This team structure will be organised in the most effective, which might need to be, for instance, hierarchical. However, once that particular project is complete, the team will disband until it is needed again. It might be a the same or a different group of people that respond to the next occurrence. Leaders of such will be chosen, that is appointed by the very people they represent, including those they lead. Remember, the one's who are most affected will be those whose decisions will have the most weight. Each one’s reputation will be known – there are known ways to gauge interest and popularity – and thus the popular leaders will attract more people who are willing to work with them than leaders who do not treat their teams appropriately.
 
 This is a vital, participatory network, a web that will connect everyone who is willing to support and actively engage in building the structures, especially of governance, that will support and benefit the greater proportion of the population. The more self-supporting, self-reliant, and self-sustaining the network, the more resilient it will be.
 
-It is from those connections that we will build this infrastructure. It is dynamic and responsive, inclusive, open and accountable. It is the platform upon which we can carry out a more effective method of governance, of transacting globally and locally, and hopefully, of achieving a better way of life for the majority of us.
+It is from those natural connections that we will build this infrastructure. It is dynamic and responsive, inclusive, open and accountable. It is the platform upon which we can carry out a more effective method of governance, of transacting globally and locally, and hopefully, of achieving a better way of life for the majority of us.
+
+The underlying idea of the network is not to solve the peoples problem, but rather to create a platform that will enable and facilitate the formation of both the most appropriate groups to solve the problems. Think of it rather as the kernel of the operating system for humanities continued survival. We will need to build the libraries and utilities that will enable the system to function in a meaningful fashion.
+
+> One of the most important insights of the systems view of life is the recognition that networks are the basic pattern of organization of all living systems. Ecosystems are understood in terms of food webs (i.e., networks of organisms); organisms are networks of cells; cells are networks of molecules; and then social networks are networks of communications. The network is a pattern that is common to all life. Wherever we see life, we see networks.
+> &nbsp;&nbsp;&nbsp; -- Fritzof Capra, “The Turning Point”.
