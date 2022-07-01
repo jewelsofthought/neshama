@@ -13,6 +13,25 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 // For rendering math in Markdown
 const katex = require('katex');
 
+// For image rendering
+const Image = require('@11ty/eleventy-img');
+
+
+// Use an async shortcode (different from the traditional shortcode config method) to render images
+async function imageShortcode(src, alt) {
+	if (alt === undefined) {
+		// Throw an error on a missing alt (alt="" works fine)
+		throw new Error(`Missing \`alt\` on myImage from: ${src}`);
+	}
+
+	let metadata = await Image(src, {
+		widths: [300, 600],
+		formats: ["png"]
+	});
+
+  let data = metadata.png[metadata.png.length - 1];
+  return `<img src="${data.url}" width="${data.width}" height="${data.height}" alt="${alt}" loading="lazy" decoding="async">`;
+}
 
 // Import transforms (min)
 
@@ -149,7 +168,11 @@ module.exports = function(eleventyConfig) {
     html: true,
     breaks: true,
     linkify: true
-  }).use(markdownItAttr).use(markdownItAnchor, {
+  }).use(markdownItAttr, {
+			leftDeliminator: '{',
+		  rightDeliminator: '}',
+			allowedAttributes: [] // empty array = all attributes allowed 
+	}).use(markdownItAnchor, {
     permalink: markdownItAnchor.permalink.ariaHidden({
       placement: "after",
       class: "direct-link",
@@ -183,6 +206,10 @@ module.exports = function(eleventyConfig) {
     ui: false,
     ghostMode: false
   });
+
+	// Use image shortcode to render images
+  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+  eleventyConfig.addJavaScriptFunction("image", imageShortcode);
 
   return {
     // Control which files Eleventy will process
