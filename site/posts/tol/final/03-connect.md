@@ -40,11 +40,15 @@ Initial requirements for joining the network are:
 
 The {[members](.html)} will consist of people who:
 
+3 levels of membership:
+
+1. Fully committed to the
+
 1. Are implementing this lifestyle fully or partially, need support and would like to expand their involvement in creating an alternative way of life – one which is more in balance with the bio-dynamics of the environment in which we exist;
 
-2. Wish to support people that are from (1), who will eventually join and fully participate in this venture.
+1. Wish to support people that are from (1), who will eventually join and fully participate in this venture.
 
-3. Are unhappy with the status quo, and would like to engage in another way of life, but are not sure what that is.
+1. Are unhappy with the status quo, and would like to engage in another way of life, but are not sure what that is.
 
 <figure style="float:left">
 <img src="/posts/img/tol/3-2_clustering.jpg" alt="Clustering in two-mode network" width="200">

@@ -19,6 +19,7 @@ The first is to be full member, having joined a community in whatever form that 
 ### Support membership
 
 There are those who cannot commit to this lifestyle but wish to support it until they can become full members. They will actively or passively support the network, paying their dues, some even providing energy and others, support to the network.
+
 Once the person has become a supporting member of the community, some percentage of his earnings that stem from the community itself will return to the community. If the portion that is returned to the community is less than the stipulated amount, then a certain amount will be extracted for services rendered by the community.
 
 ## Associate Member

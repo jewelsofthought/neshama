@@ -6,13 +6,12 @@ date: 2004-06-04T15:38:35.115Z
 modified: 2021-12-22T07:43:44.985Z
 ---
 
-1. [Stage II: Form the cells/leaves/affinity groups](#stage-ii-form-the-cellsleavesaffinity-groups)
-
 ## Stage II: Form the cells/leaves/affinity groups
 
-> ![Affinity crystal](/posts/img/tol/04-1_affinities.png)
-
-          Affinity Crystal
+<figure style="float:left">
+<img src="/posts/img/tol/04-1_affinities.png" alt="Affinity Crystal" width="200">
+<figcaption>Affinity Crystal</figcaption>
+</figure>
 
 As we build this network of connections, we group the members into cells, or affinity groups (af-groups), consisting of 10 people. This cell forms the basic unit of the Tree of Life, generally referred to as a leaf node or external node of the tree. All other nodes are called internal nodes, and their purpose is to support the leaf nodes. The people forming this cell must be geographically or physically close. If there are not sufficient people, they may be personally connected through some sort of physical (real, as opposed to virtual) connection. Their sponsor (referred to in point 2 of initial requirements, above) must be a member who personally knows them.
 
@@ -26,4 +25,4 @@ The benefits of this format are:
 - To allow for personal ID verification.
 - To reduce the amount of extraneous “noise” on the tree.
 - To be able to contain erratic behaviour of individuals.
-- To deal with disputes – as the dispute mechanism will propagate the same way. (See Disputes, later.)
+- To deal with disputes – as the dispute mechanism will propagate the same way. {See [Disputes](..html)}

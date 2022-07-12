@@ -10,17 +10,20 @@ modified: 2021-12-22T07:43:58.320Z
 
 ## Stage III: Form the tree
 
-> ![Basic Tree Structure](/posts/img/tol/05-1_structure.png)
+<figure style="float:left">
+<img src="/posts/img/tol/05-1_structure.png" alt="Basic Tree Structure" width="200">
+<figcaption>Basic Tree Structure</figcaption>
+</figure>
 
-            Basic Tree Structure
+<figure>
+<img src="/posts/img/tol/05-3_structure.png" alt="Extensive Tree Structure" width="300">
+<figcaption>Extensive Tree Structure</figcaption>
+</figure>
 
-> ![Circular Tree Structure](/posts/img/tol/05-2_structure.png)
-
-            Circular Tree Structure
-
-> ![Extensive Tree Structure](/posts/img/tol/05-3_structure.png)
-
-            Extensive Tree Structure
+<figure style="float:left">
+<img src="/posts/img/tol/05-2_structure.png" alt="Circular Tree Structure" width="300">
+<figcaption>Circular Tree Structure</figcaption>
+</figure>
 
 One member of the group is designated the parent, or facilitator, who collects and collates all the issues that have been brought to the meeting. This will require an extra two hours a week from this facilitator – who will only be one of the 10 members and the burden can be shared with his/her shadow.
 
@@ -44,6 +47,9 @@ Due to the transparent nature of all communication, the record keeping will be s
 
 It is natural that people will be attracted and motivated to work on issues that are closer to their hearts or needs.
 
-> ![Full diagram of tree](/posts/img/tol/05-4_full.png)
-
-            Full diagram of tree (modal)
+<figure>
+<a href="/posts/img/tol/05-4_full.png">
+<img src="/posts/img/tol/05-4_full.png" alt="Full Tree Structure" width="400">
+</a>
+<figcaption>Full Diagram of Tree Structure</figcaption>
+</figure>

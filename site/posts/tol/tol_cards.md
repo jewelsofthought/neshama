@@ -29,6 +29,7 @@ modified: 2022-06-21
 20. [Personal](#personal)
 21. [Action -> effect](#action---effect)
 22. [Quadrant](#quadrant)
+23. [Provide](#provide)
 
 ## Priesthood
 
@@ -199,3 +200,7 @@ The quadrant consists of "more/less", "increase/decrease".
 
 Only at close to the maximum of "more", is decrease a positive. Any other place, an increase is good... unless what is being increased is not good!
 Then increase is a negative.
+
+## Provide
+
+Anything that "they" provide us, they can take away/remove. "They", the unknown ones, that hide in the shadows, wielding the sword of Damocles. Everything "they" provide comes at a price/cost to us, from which they benefit (and it seems, generally, finanacially).
