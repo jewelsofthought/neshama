@@ -24,7 +24,7 @@ Each _sefirah_ has a specific energy, a characteristic aspect of the One Energy,
 
 By analogy, one might imagine that the Tree reflects the flow of electrical energy from the power plant to your home. If the power was directly connected to your house, it would immediately destroy not only all the wiring but even the house itself. So electricity flows from the power plant through a series of transforming stations in which its force is stepped down, so that it enters the home in a usable way.
 
-Energy flows downward through each _sefirah_, reflecting in aspects of spiritual, intellectual, emotional, and physical (sensory) reality as appropriate. Each is also represented as an area of the human body, as a colour and as a sound. Each has associated with it one of the Appellations of G-d, one of the aspects of Reality.
+Energy flows downward through each _sefirah_, reflecting in aspects of spiritual, intellectual, emotional, and physical (sensory) reality as appropriate. Each is also represented as an area of the human body, as a colour and as a sound. Each has associated with it one of the appellations of G-d, one of the aspects of Reality.
 
 [Tree of Life Diagram]()
 

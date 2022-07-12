@@ -7,10 +7,11 @@ modified: 2022-05-09
 ---
 
 1. [Good and evil](#good-and-evil)
-2. [Athiest](#athiest)
-3. [G!d is King](#gd-is-king)
-4. [Perfect world](#perfect-world)
-5. [Questions](#questions)
+2. [G-d fearing](#g-d-fearing)
+3. [Athiest](#athiest)
+4. [G!d is King](#gd-is-king)
+5. [Perfect world](#perfect-world)
+6. [Questions](#questions)
 
 ## Good and evil
 
@@ -33,11 +34,21 @@ You could say that if someone is purely good, then there is nothing that needs t
 
 In the same way, if someone is truly evil, he too will live his life as truly sovereign driven also by an inner (or outer) compulsion. He will influence those around him, and those that he cannot influence - he will bend to his will. This is what makes the force of evil so potent.
 
-The burning question of existence then becomes, if God is the creator of the universe, and therefore omnipotent, was He not the one who Created Evil in the first place? Why..? God? Why? That is a difficult question, perhaps THE question, especially in the midst of this inner battle of the _benoni_ between good and evil.
+The burning question of existence then becomes, if God is the creator of the universe, and therefore omnipotent, was He not the one who Created Evil in the first place? Wh y..? God? Why? That is a difficult question, perhaps THE question, especially in the midst of this inner battle of the _benoni_ between good and evil.
 
 You can dedicate a portion of your life and consciousness to delving into this question. If you decide to derive your answer for/by yourself, it will become a life-long pursuit, which many fail at, or, most often, tire of. They then settle on either a half-baked or/and personalised version of the truth of what they are seeking, or live on shifting sand as they constantly renewing their commitments, or, most often, just settle on someone else's answer, or version of the answer.
 
 Whatever answer you settle upon, whatever narrative you choose to describe who you are, will affect how you live your life, and many of the consequences thereof.
+
+## G-d fearing
+
+How can you argue about G-d's existence? G-d is the primal cause. "Thought cannot rise above the source of thoughts, just as water cannot rise above its source." Do you know where your thoughts come from? That you think these thoughts is of course, obvious&mdash;but how can you think thoughts, is the question? Does the scientific belief that we can find "physical" or electrical manifestation of them in your brain, prove that your brain must then be the source of any of your thoughts? It is like saying that your body is the source of all your feelings. If that is sufficient for you, then you become the source of all that you are, including your thoughts.
+
+However, the question that then arises is "Is this universe, this material manifestation infinite or not?" Science assumes not&mdash;though that might be because it is more convenient to do so, for it has no proof of that either. But, if it is finite, then there must have been a "birth" of the universe (or existence), a "creation", a primal beginning. What or who (to anthropmorphise) is the Mother that gave "birth" to this ceration. Who or what is the Father that provided the seed, which is the alpha of the omega of this creation? There is something&mdash;or nothing&mdash; that exists beyond, or before, this existence that we are aware of. Like $$ n < N \rightarrow \infty $$. Now in relation to this $$ \infty $$, a couple of billion years hear or there, passes in the blink of an eye. Obviously, if you debate time, arguing about a billion or 100 billion years, you have no concept of what $$ \infty $$ is.
+
+What if there were multiple universes created, and this one just happened to be right for us, for our existence? What does chance mean when you are playing with $$ \infty $$ ? In the realm of $$ \infty $$ anything is possible. So a universe came about that enable us, as human beings, to emerge. Obviously that is possible in an infinity of universes. So was there a design behind it, an intention that directed it? How could we hope to apprehend what the meaning of "intention" is in relation to an infinite being? No finite conscious being could hope to achieve that&mdash;unless it contained something of $$ \infty $$ inside its consciousness.
+
+Both intention and apprehension are finite concepts anyways&mdash;as is all science, always proposing a beginning and an end, imposing limits so that it can impose its views on infinity. For it works always within a closed system, with keeping certain variables/dynamics of the system fixed while observing others, whereas G-d works with $$ \infty $$. G-d is an open system, full of infinite potential and possibilities, containing an infinite amount of finities of which we are just one of them. One which happens to be "harmonious" to our existence. Thus we say "G-d created the world" or scientifically it might be restated, "An harmonious universe, one in which human beings could exist, arose out of the infinity of possibilities that exist.".
 
 ## Athiest
 
