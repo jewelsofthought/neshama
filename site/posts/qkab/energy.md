@@ -9,23 +9,25 @@ modified: 2022-05-30T13:46:40.107Z
 ---
 
 1. [Fundamental property](#fundamental-property)
-2. [Waves](#waves)
-3. [Release](#release)
-4. [Dynamic principle of Evil](#dynamic-principle-of-evil)
-5. [Form](#form)
-6. [Force](#force)
-7. [Two states](#two-states)
-8. [Measurement](#measurement)
+2. [Subtle vs dense](#subtle-vs-dense)
+3. [Light & dark](#light--dark)
+4. [Waves](#waves)
+5. [Release](#release)
+6. [Dynamic principle of Evil](#dynamic-principle-of-evil)
+7. [Form](#form)
+8. [Force](#force)
+9. [Two states](#two-states)
+10. [Measurement](#measurement)
    1. [Real](#real)
    2. [Virtual](#virtual)
-9. [Human measurement](#human-measurement)
+11. [Human measurement](#human-measurement)
    1. [Real: Form](#real-form)
    2. [Imaginary: Wave](#imaginary-wave)
-10. [Energy](#energy)
-11. [Chashmal/Electricity](#chashmalelectricity)
-12. [Water](#water)
-13. [Energy is energy - good or bad](#energy-is-energy---good-or-bad)
-14. [Zero Waste (Energy)](#zero-waste-energy)
+12. [Energy](#energy)
+13. [Chashmal/Electricity](#chashmalelectricity)
+14. [Water](#water)
+15. [Energy is energy - good or bad](#energy-is-energy---good-or-bad)
+16. [Zero Waste (Energy)](#zero-waste-energy)
 
 ## Fundamental property
 
@@ -33,11 +35,24 @@ modified: 2022-05-30T13:46:40.107Z
 
 One could think of consciousness as self-aware energy, and self-aware energy is energy that is aware of the information it is receiving and transmitting - to a lessor or greater degree.
 
-I like to express it in terms of [dimensions](/posts/qkab/dimensions.md).
+I like to express it in terms of {[dimensions](/posts/qkab/dimensions.md)}.
 
 The above idea might open one to the theories of _panpsychism_, which says that even a rock has consciousness. It exists as a rock, with all the characteristics of rock, but is it self-aware?
 
-However, there is a theory, a cosmology, wrapped in a practice and the living expression of an ancient tradition, in which consciousness IS the fundamental property of the universe, called [kabbalah](kabbalah_intro.html).
+However, there is a theory, a cosmology, wrapped in a practice and the living expression of an ancient tradition, in which consciousness IS the fundamental property of the universe, called {[kabbalah](kabbalah_intro.html)}.
+
+## Subtle vs dense
+
+Subtle energies affect congnition.
+Denser energies affect us physically.
+
+It is not a dialogue between good and evil.
+It needs to be a dialogue that recognises denser or subtler energies and their effects upon us and the world around us.
+
+## Light & dark
+
+Everything grows towards the light (plants).
+As soon as it is mobile, it moves towards the light (insect) until, as it becomes more conscious, it tries to attain an optimum balance between light and dark (animal), eventually using the energy of the dark (predator).
 
 ## Waves
 

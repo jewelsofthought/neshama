@@ -116,6 +116,12 @@ Are these memories that you hold to real? Do they not also merge and meld in the
 
 For we must remember that history is seldom a true rendering of events and how they unfolded, always being only the stories by the victors and sometimes the survivors.
 
+# Infinity
+
+$$ 0 < n < N < \infty $$
+
+No matter how large $$ N $$ is, even choosing the highest number you can imagine for this $$ N $$, these is always another number, say $$ N+1 $$, that is larger than $$ N $$, but less than $$\infty$$. This is a simple definition of infinity: as the "number" that is always larger than the largest number we can think of.
+
 ## Which way [ inf <->1 ]?
 
 Any narrative that attemps to describe the "real" world(s)(s) we live can only be approached from one of two perspectives:

@@ -57,6 +57,7 @@ modified: 2022-05-14T16:31:30.941Z
    17. [No humans](#no-humans)
    18. [Born](#born)
    19. [Complexity (ToL)](#complexity-tol)
+   20. [Perception](#perception)
 
 # Chapter Outline
 
@@ -443,3 +444,7 @@ A society built on handling crises, not for maintaining the stability of said so
 Who has more to gain than those who hold power and wealth: "Everything to gain, everything to lose" is the refrain of kings and CEO's.
 
 A billionaire loses a billion, and has to live in his mansion on a measly million or so a year, having to trade or sell his other 5 abodes, perhaps let go of his luxury cars. Joe lost his business, had debts to pay, loses his house. Now has no money, no house, no job and little prospect of ever attaining a decent life. And we say that the billionaire lost everything? Because it is bigger, higher, faster, does not mean it is better!
+
+## Perception
+
+All perception takes place in a straight line between the recipient and perceived source of the event. Does the response have to be straight line as well? Would that be the simplest and most direct. But is it the best?
