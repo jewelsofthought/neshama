@@ -3,8 +3,10 @@ title: The Transhuman agenda
 description: What if their agenda was fulfilled... this is the end!
 tags:
   - story
+  - todo
 date: 2001-01-01T00:11:18.856Z
 modified: 2022-05-22T19:17:26.846Z
+stars: '-'
 ---
 
 ## Brain story

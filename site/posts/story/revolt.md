@@ -2,8 +2,9 @@
 title: Faerae lectures
 description: Video (TV) description of our movement
 tags:
+  - story
   - tol
-date: 2003-02-04T00:23:12.962Z
+date: 2001-02-04T00:23:12.962Z
 modified: 2022-01-30T19:17:37.717Z
 ---
 
