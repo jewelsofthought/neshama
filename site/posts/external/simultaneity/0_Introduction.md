@@ -5,7 +5,7 @@ tags: null
 date: 2005-01-01T10:00:01.430Z
 ---
 
-[Here is the full paper](/references/Concepts-of-simultaneity-from-antiquity-to-einstein-and-beyond.pdf)
+[Here is the full paper](/references/Concepts-of-simultaneity-from-antiquity-to-einstein-and-beyond.pdf){target="\_blank"}
 
 > **We have to bear in mind that all our propositions involving time are always propositions about simultaneous events.**
 > -- Albert Einstein, 1905

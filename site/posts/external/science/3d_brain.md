@@ -1,8 +1,7 @@
 ---
 title: 3d-brain modeling
 description: There is both the dark and the light side of everything
-tags:
-  - networks
+tags: null
 date: 2005-03-01T17:20:34.413Z
 ---
 
