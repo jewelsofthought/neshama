@@ -3,7 +3,7 @@ title: 'Chukat פרשׁת חקת'
 description: 'Numbers 19-22:1 ספר במדבר'
 tags: null
 date: 2021-01-21T06:57:16.939Z
-modified: 2022-06-08
+modified: 2022-08-28
 ---
 
 <h5> 19] The Red Cow פרה אדומה</h5>
@@ -118,6 +118,7 @@ n21:9] G-d had not specified what material Moses was to fashion the serpent, but
 the outpouring of the rivers when it veered to dwell at Ar, and leaned against the border of Moab.
 
 n21:15] <strong>ואשׁר הנחלים &mdash;</strong>_The outpouring of the rivers_. Rivers of blood signaled to Israel that G-d had performed a monumental miracle on their behalf. The Amorites had planned to ambush the Israelites as they passed through a deep gorge near the Moabite border. They had hidden in caves over a narrow pass, ready to push huge boulders down upon the Jews as they passed through helplessly. Miraculously the cliffs that formed the walls of the gorge moved together with stone outcroppings moving into the caves and crushing the hidden Amorites. All of this was unknown to the Israelites until they saw blood flowing down the gorge.
+
 <strong>אשׁר נטה &mdash;</strong> _When it veered..._ The northern Amorite cliff moved southward toward Ar, until it "leaned" against it, crushing those waiting in ambush.
 
 21:21] -> Sihon, king of the Amorite did not permit them to pass; arrived at Jahaz and waged war against Israel. Israel took possession of his lands, from Arnon to Jabbok to the children of Ammon. Israel settled in Amorite cities; in Heshbon, city of Sihon.
