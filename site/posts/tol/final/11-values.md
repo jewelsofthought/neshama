@@ -6,24 +6,18 @@ date: 2004-06-12T15:38:35.115Z
 modified: 2021-12-22T07:47:20.699Z
 ---
 
-### Table of Contents
+1. [Unity](#unity)
+2. [Empowered vs. Victim](#empowered-vs-victim)
+3. [Co-exist](#co-exist)
+4. [Trust](#trust)
+5. [Freedom](#freedom)
+6. [Connect](#connect)
+7. [Polycentric vs. Centralised](#polycentric-vs-centralised)
+8. [Responsive vs. Absolutist.](#responsive-vs-absolutist)
+9. [Sharing economy](#sharing-economy)
+10. [Transaction vs. Money based.](#transaction-vs-money-based)
+11. [Information](#information)
 
-<div class="tc">
-
-1. [Table of Contents](#table-of-contents)
-2. [Unity](#unity)
-3. [Empowered vs. Victim](#empowered-vs-victim)
-4. [Co-exist](#co-exist)
-5. [Trust](#trust)
-6. [Freedom](#freedom)
-7. [Connect](#connect)
-8. [Polycentric vs. Centralised](#polycentric-vs-centralised)
-9. [Responsive vs. Absolutist.](#responsive-vs-absolutist)
-10. [Sharing economy](#sharing-economy)
-11. [Transaction vs. Money based.](#transaction-vs-money-based)
-12. [Information](#information)
-
-</div>
 Although I am describing the interactions and the relationship as system, the focus is on the human component in all of this. The system must be serving, and subservient to, the human that it is serving.
 
 In addition, in order for any human network to be successful, it needs the energy of people, not the system.

@@ -2,7 +2,7 @@
 title: Mult-scale networks
 description: Multi-layers, distributed, local network
 tags: null
-date: 2003-01-14T13:08:51.930Z
+date: 2004-10-14T13:08:51.930Z
 modified: 2022-01-05T10:38:09.797Z
 ---
 

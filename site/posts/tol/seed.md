@@ -2,27 +2,28 @@
 title: Sovereign Virtual Identity
 description: No seeds, no future.
 tags: null
-date: 2003-01-20T13:08:51.930Z
+date: 2004-01-20T13:08:51.930Z
 modified: 2022-01-05T12:51:54.454Z
 ---
 
-1. [Personhood](#personhood)
+1. [Together We Stand](#together-we-stand)
 2. [Seeding](#seeding)
 3. [Actor](#actor)
 4. [Voluntary](#voluntary)
 
-## Personhood
+## Together We Stand
 
-        If we wish the system to be about people, then the basic unit, the seed, of the system has to be the individual.
+> The highest form of giving is when the giver is unknown and the beneficiary is unknown.
 
-If this individual is to have any autonomy, he must have an id within the system. This id should identify him or her as a person, and not as merely another part of the system.
+It is time for the sleepers to awaken. For years we have been lurking in the shadows, looking, watching, participating, but seeing its faults and becoming more and more distant from this absurd theatre. These bombastic leaders of our societies, playing a game of their making, while the people shudder in dread at the fear of having no food and shelter. Millions suffer deprivation while trillions are spent are vapourware.
 
-This identification must allow or provide the individual with some a private, sovereign space in the system. Otherwise, he or she just becomes another brick in the wall, and becomes, in
-essence, an IT.
+Their weakness is two-fold. The first is their rigidity, and the second is their need for (centralised) control. Thus, naturally producing a rigid, vertical economy.
 
-Bringing us to the concept of **personhood** in cyber space.
+Thus we must be like the water, and move like the wind. We appear where we are needed, and then disperse back into the shadows. We do not need to be known. We do not seek fame, our names heralded across the banners of the globe.
 
-We should have control over that personhood and the data contained IN that "person" as he or she is represented and interacts in cyber space.
+There is work to be done, and we the engineers, and designers and visionaries of the world, wherever you are, and whoever you are, need to begin to do the work.
+
+The essence of the path has to be sharing and collaboration. Together we stand, divided we fall.
 
 ## Seeding
 

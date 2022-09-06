@@ -2,7 +2,7 @@
 title: Change
 description: The game has to change.
 tags: null
-date: 2003-01-05T13:08:51.930Z
+date: 2004-10-05T13:08:51.930Z
 ---
 
 1. [The Game has to change](#the-game-has-to-change)

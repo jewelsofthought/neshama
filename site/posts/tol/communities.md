@@ -2,34 +2,34 @@
 title: Communities
 description: Empowered communities that are sovereign and conscious
 tags: null
-date: 2003-01-06T13:08:51.930Z
-modified: 2022-06-21
+date: 2004-01-06T13:08:51.930Z
+modified: 2022-08-15
 ---
 
-1. [Hero's journey](#heros-journey)
-2. [The Template](#the-template)
-3. [Food & Water](#food--water)
-4. [Collaboration, not competition](#collaboration-not-competition)
+1. [Network of Communities](#network-of-communities)
+2. [Sacred life](#sacred-life)
+3. [Affinity groups](#affinity-groups)
+4. [Needs](#needs)
+5. [Food & Water](#food--water)
+6. [Collaboration, not competition](#collaboration-not-competition)
+7. [Creating the seeds](#creating-the-seeds)
+8. [Temple](#temple)
+9. [Temple meeting](#temple-meeting)
+10. [Communities](#communities)
+11. [Creation](#creation)
+12. [Non-electronic version](#non-electronic-version)
+13. [Self-sufficiency](#self-sufficiency)
+14. [Excess](#excess)
 
-## Hero's journey
+## Network of Communities
 
-Our journey begins on the inside, with the inner ‘I’, consistent with the view that we need to manifest our spiritual aspect in the material realm of consensual reality, rather than the other way round. This requires us first to awaken and become more consciousness of the effect we are having on the world around us. Thus begins the hero’s journey into the inner reaches of your own self – what we call the first soul, the _Nefesh_. That ‘I’ that I am in the world around me. However that is not the cause, not the first cause, and you will begin to understand that as you head deeper into the reaches of your inner being. There you encounter both forgiveness and responsibility. That you have to take responsibility for your part in what happened and is happening in your life – not the things you have no control over, but those that you do. Nevertheless, most certainly, you need to take full responsibility for your relationship with the “inevitable” events of your life.[^1] Those that seem to be part of your destiny. And believe me they are! For each one of us has a purpose, some big, some “small”, but just as it takes a village to make a village, so it will take the entire human population to fashion a global community.
+Vision of an international network of sustainable communities, sharing knowledge, labour and know-how, as well as resources. Similar to the kibbutz movement. The communities can be both urban and rural. They can consist of a shared household, or a collection of houses, creating a sub-culture that practices sustainable living.
 
-Then you need to forgive yourself for what you have done that was not true to your inner purpose and will – as in “Thy will be done, in heaven as on earth”. This is the place of the second soul – _Ruach_. Within that is when you reach the court and there encounter the breath of the Divine Creator, the one we call King. It is when you begin to experience awe and deep understanding of how it is all connected, and we are all part of a purpose that is so beyond purpose that it leaves you breathless.
+Travel from one community to another, always encountering similar situations, regarding food, etc. Each community would specialise in one aspect of the shift. People will travel to one of those communities to live and work and learn certain skills, as well as meeting people who are associated with the network.
 
-## The Template
+This will help with the cloistered aspect of communities, also helping the communities who need energy and support from and to the outside.
 
-What we need to understand, truly understand is that there is a template within which each one of us is born – we can even refer to as a Space – a space that has been granted each of us, and in this space we are “god”. We have been granted the right to do with it what we wish. Pollute it, destroy it, allow others to violate it. In this realm, we call it our body[^6] – the material manifestation of this space. It consists of the skin, the barrier, that divides the inside from the outside.[^7] Yet it is some-where in this body, in this space, that our consciousness lives.
-
-So it continues out and in, above and below, large and small. Each atom is made from a template, whose measurements and behaviour we are still attempting to describe nowadays. The galaxies are formed in similar ways, and gravity is gravity, however you interact with it. But how accurate is our description or knowledge of what it actually is?[^2]
-
-We, human beings, and all of life, in fact, all of creation, exist within the constraints of this template. That we cannot change.[^3] But we can create within the spaces of this template. The place of consciousness is that of an awareness of our existence within this creation, and the ability to remember, and thus make choices that will affect the unfolding of whatever we have created.
-
-The food we eat cannot feed the soul. It is our relationship with food that will feed our soul. Our affinity to it. So it is with everything that we interact with. If we have a “soul- full” relationship with it, then it feeds our soul. If not , then it just feeds our desire for that food.
-
-The step into the physical reality that we live in, is commitment. For commitments make the lines upon which our structures rely. Commitments used to be made with our word&mdash;we called it oaths and vows, when all a man had was his word. In fact creation begins with words “And He said... let there be light.”
-
-Once we have commitment, we can begin to build the framework of life, begin shaping our lives. If we take action and connect with others who share our world view, one in which we believe that every relationship is sacred, we can begin to plant the seeds of this web of life.
+## Sacred life
 
 The sacredness of life comes from the awareness of the connectedness of everything. That what you do to one, you do to all. “Do unto others as you would want them to do unto you”; “Love thy neighbour as thyself”; “Be kind unto the stranger.”
 
@@ -43,6 +43,18 @@ That is the centre, the pillar around which all will stand.
 
 In this sacred space, the deeper the truth spoken, the more we can know the person who speaks. In this way we create a communal space, within which to recognise the areas of positive resonance, and the work/service necessary to enable, support and encourage the manifestation of those areas in the lives of those affected.
 
+## Affinity groups
+
+These communities are made up of affinity groups. Small groups of people who “like” one another, and are willing to make a commitment to meet every week.
+
+Start each meeting with an acknowledgement of Spirit in whichever way that is meaningful to all. In other words express the movement from the mundane to the Sacred, the passing through the _Machsom_, the barrier, that sits between the two. Like the skin, that separates, and thus both blocks and protects, the inner parts of your body from the outer.
+
+End each meeting with a blessing of gratitude to those Spirits that gathered to help and protect and guide this meeting.
+
+The tenet of the meeting is around the manifestation of a (w)holistic life.
+
+## Needs
+
 There is a lot of talk nowadays of how we need to live,[^4] a long list of the things we need in order to live a good life.
 
 On the physical side, it might be lots of money, and a big house and a nice car and a lovely wife and good children. On the emotional side it is to be kind, and caring, and loving and considerate. On the mental side, it is to be honourable, and true. On the spiritual side, it is to be humble and in service to the Divine, both within and without.[^5] “Love the Lord with your heart and your soul”.
@@ -53,14 +65,6 @@ A spiritual flame consists of showing people how to do something that is more al
 
 The journey starts from first principles. That first principle says that we are made both of body and of spirit. It is an acknowledgement of Spirit. Once we acknowledge that, we can then begin to investigate the Sciences of the Sacred which contain the Wisdom of our Ancestors.
 
-We begin to create communities – communities of caring – and call them sacred communities, and these communities are made up of affinity groups. Small groups of people who “like” one another, and are willing to make a commitment to meet every week.
-
-Start each meeting with an acknowledgement of Spirit in whichever way that is meaningful to all. In other words express the movement from the mundane to the Sacred, the passing through the _Machsom_, the barrier, that sits between the two. Like the skin, that separates, and thus both blocks and protects, the inner parts of your body from the outer.
-
-End each meeting with a blessing of gratitude to those Spirits that gathered to help and protect and guide this meeting.
-
-The tenet of the meeting is around the manifestation of a (w)holistic life.
-
 ## Food & Water
 
 Start with the food and the water. Reams has been said and written on this topic. From the nutritional to the spiritual, not ignoring the emotional nor the mental aspects of our food and the manner in which we absorb the nutrition and the effect it has upon us.
@@ -70,6 +74,7 @@ This, in itself, will produce a change in everything. In order to obtain organic
 I will not even begin to speak of the effort that it might take to ensure that we all have good water to drink. Because at this stage most water that we drink is no longer free. In fact we have sunk so low, that we drink it out of bottles in which they have been confined. I would suggest that we drink more water, and less adulterated water in the form of soda’s, or caffeinated drinks, etc. Once that has been achieved, then the hunt is on to find pure water, water that itself has been less adulterated by human interference than most of our tap water.
 
 Similar to the concept of Kosher or Halaal, where we restrict ourselves to “spiritually” acceptable food, and never indulge in food that is not “kosher”, that is firstly, physically harmful, and secondly spiritually inappropriate.
+
 If we focus on these aspect of our lives, these very practical and essential items, many things will begin to change right there. Even if you are practising this, there is probably still some room for improvement – or for service. Helping others attain this; making it easier for each of us to obtain this food, etc, etc.
 
 ## Collaboration, not competition
@@ -90,6 +95,122 @@ Surely it makes sense to eat things that come from the earth, and are grown with
 
 So this economic system obviously incentives the processing of food, and not the growing and distribution of unprocessed foodstuffs. I believe we have the capacity to change this, and we can only do it together, through an organised network of collaborators.
 
+## Creating the seeds
+
+We eat to feed the body. Food cannot feed the soul. It is then our relationship with the food that will feed the soul. Our affinity to it. So it is with everything that we interact act with. If we have a “soul- full” relationship with it, then it feeds our soul. If not , then it goes to some other place... what that is we can speak of at another time.
+
+Commitment is to step into the physical reality that we live in. They define the lines, the limits, which form the foundations upon which our structures rely. Commitments used to be made with our word - we called them oaths and vows, when all a man had was his word. In fact creation begins with words “And He said... let there be light.”
+
+Once we have commitment, we can begin building the Tree of Life, from whose fruit new life will be seeded. If we make a commitment to connecting with others who believe that every relationship is sacred. A sacredness that comes from the awareness of the Oneness of everything, expressed in knowing that everything is connected. That everything you do has consequences, and nothing exists in a vacuum.
+
+## Temple
+
+At the centre of the community, it core, so to speak will be a space, which is designated as the Temple, and it is dedicated to Truth. It also carries the creed of “peace before truth”. Speak only if necessary, maintaining essential silence. And if you speak, consider the effect of your words. But if you do speak, speak only the truth – or else pray instead for forgiveness and mercy.
+
+That is the centre, the pillar around which all will stand.
+
+In this sacred space, the deeper the truth spoken, the more we can know the person who speaks. In this way we create a communal space, within which to recognise the areas of positive resonance, and the work/service necessary to enable, support and encourage the manifestation of those areas in the lives of those affected.
+
+There is a lot of talk nowadays of the ideal way of life. There is a huge debate on what makes the ideal lifestyle.[^4] On the physical side, it might be to have lots of money, and a big house and a nice car and a lovely wife and good children.
+
+On the emotional side it is to have a loving family and caring supportive community. On the mental side, is to do something meaningful or challenging. On the spiritual side, it is to be honour, obey and serve the Divine, both within and without.[^5]
+
+With this plethora of information, many people are starting to ask difficult questions about the fruits of this way of life that we are in, or heading towards, realise that something needs to be done to change the direction we are heading in.
+
+We may be feeling totally overwhelmed, and disempowered. This is because there are still not enough of us. The “thoughts” have not yet reached critical mass. Similar to what nutritionists tell us. Even though we know we should not eat “bad” food, we still indulge, even over-indulge – until we encounter a health crises. That is the difference between knowing and doing. It is made up of “I can’t because ...” Let us stand up, all of us that believe in a different way of living, and relating to the earth, and begin to do it.
+
+## Temple meeting
+
+Start each meeting with an acknowledgement of Spirit in whichever way that is meaningful to all. In other words express the movement from the mundane to the Sacred, the passing through the _Machsom_, the barrier, that sits between the two. Like the skin, that separates, and thus both blocks and protects, the inner parts of your body from the outer.
+
+And end each gathering with a blessing of gratitude to those Spirits that gathered to help and protect and guide the gathering.
+
+We gather to talk of and plan actions in order to envisage, and collaborate in creating spaces and platforms that facilitate a more (w)holistic lifestyle.
+
+## Communities
+
+> Does this have a connection to CommuniTree?
+
+In order for this new paradigm to emerge, we need to create and support communities whose transactions are not money based, especially not based on a fiat system and/or a credit/debt economy. From its inception, these communities will aim to provide all the basic necessities of life to all members of the community. Those that reside on this community will labour to maintain and support the community, but no transactions inside the community will be based on money, and all internal decisions as to the disbursement of resources will be based on communal need and for the benefit of the community, and thus the individuals who comprise this community.
+
+<figure style="float:left">
+<img src="/posts/img/tol/seed_of_life_circles.jpg" alt="Seed of life" width="200">
+<figcaption>Simple seed</figcaption>
+</figure>
+
+I realise this sounds much like radical socialism. But I do believe that there are many who struggle to keep all the necessary aspects of their lives and needs, and the needs of those who they are responsible for, going. They would be very happy to have help with those things - like food, cooking, bills, etc. Rather than thinking of it as socialism, think of it as an extended family. I speak here of "community", but if we stick to the concept of circles, then think of it as a collection of circles, rather like a flower of life, or a forest of trees.
+
+The goal of these communities will be to become as self-reliant – or rather, reliant on the network – as possible. This would enable them to become essentially money-free – their transactions could be valued and tracked by a network-wide crypto-currency. These communities will live in a shared economy, as much as they are able. They are only moneyless within the community. Due to the fact that they will be arising in the current system, they will still need to relate to the surrounding world in which money is a determining factor. One could say that internally the communities are money-free, but externally they will still be bound by fiat currency money.
+
+If all trading took place on as local a domain as possible, and, as is the general principle of the network, only trade wider if there is excess available. In this first case, the wider domain will still remain, if sensible and possible, within the network space. However, if there is an over-abundance available, and the network does not require it, it can be traded externally to the network. This will bring cash into the network, to provide products and services that this web of communities cannot, and to expedite its growth.
+
+At this stage, any crypto-currency has to become fiat (or fiat equivalent) currency to deal with most of today’s requirements. The only way to make this crypto-currency viable is by creating an eco-system that can transact and provide most of the needs of this eco-system – which I refer to as a web of communities. There is a tipping point at which this web can become self-reliant enough to be able to sustain a community currency, in the same way that any local currency has been able to. The difference is the potential global reach of this eco-system – in that it is able to transact across borders with ease, thus enabling easier resource transfer as well.
+
+What if it also levelled the global economic playing field by paying an equal rate in crypto-currency for work done (proof of work) no matter where the person was located?
+
+Let me explain. In the bitcoin arena, I have a fiat price that I wish to charge for my item. Say \$10 = $$N$$ bitcoin. If I want to purchase that item, I will have to pay $$N$$ bitcoin, which is, say, R150 in my currency. Thus I have paid R150 = \$10 for the item, yet in the bitcoin realm, I have paid $$N$$ bitcoin – the same amount, no matter what fiat currency I am coming from.
+
+Let us say, an engineer in the US, receives \$100 an hour for his work. That equals $$M$$ bitcoin. An engineer in South Africa, working through the network, will get $$M$$ bitcoin per hour as well, which equates to R1500 an hour, if cashed in – an excellent hourly rate.
+
+In whatever form the organisational structure appears, it will be permeated by the Tree of Life network, or a sub-tree thereof, to enable equal communication and representation – though only used in time of need.
+These communities will be networked to co-operate and collaborate so as to make them self-reliant and independent of any other inputs except for those that come from the network itself. We refer to them as eco-communities, for they will practise the ethics of the eco-movement, and produce/consume organic produce, produce/use renewable energy, avoid toxic materials, and, even further, produce their own clothes, eventually providing essential services like health support and education.
+
+This would incorporate the mapping of a tree of interaction of these communities in order to facilitate interaction and support, regarding both resources (educational and material), as well as to become suppliers to the greater network.
+
+Once such a global network of communities was established, and an individual who belonged to one community wished for a change, he could then transfer to another community, living according to the same money-less principles. This will become an autonomous space, a cyber-nation, whose “place” consists of a network of diverse communities.
+
+It will be a nation where any e-resident of this nation can transfer between any community and be cared for. If someone wants to obtain “residency” in the network, they will have to commit deeply to the network, and be living on or in one of the existing communities – or create a new one. All that these communities require is for the person to work diligently to maintain their community and the Tree of Life network as a whole. The community works as a unit, sharing resources, talents, etc., to benefit the community as a whole, and thus the members themselves.
+
+The members’ time can be focused on the important things in their lives and the lives of their community, rather than having to always worry about taking care of basic needs. Thus all spare time can be spent on improving the network in whatever way possible – small or big. In this scenario, people will have enough time and energy to uphold a civic system like the Tree of Life network.
+
+There are many such communities already in existence, as well as many who would like to take this step and live within a community that supports them. The jump to the next step, that of a functioning web of communities, dedicated to living a more environmentally sustainable lifestyle, in active support and communication with one another could be fairly swift.
+
+## Creation
+
+The process of creation is three pronged.
+
+1. cultural creatives.
+
+This avenue is one of inviting all the cultural creatives to join. This would be to approach all the groups and societies where they tend to gather, like Sierra Club, Green Peace, Amnesty International, etc., and seeing if there is a possibility of including mass membership. The requirement will be for them to organise their membership in the same network formation as would enable them to participate in the ToLnet.
+
+ToLNet would be a non-profit cooperative, though it would have a portion that would be not-for profit – called perhaps GreenWay.
+
+2. conscious communities
+
+The other is through the creation and sustaining of conscious communities, and the mapping of a tree of action of these communities in order to facilitate interaction and support, both in resources, educational and material, as well as to become suppliers to the greater network. There are many such fledgling communities already in existence, and many more would arise given the financial resources. Most of them would gladly join up to a network of support such as ToLNet would be offering. If they show greater success in managing their resources and finances, as they would if they joined the network, it would attract more membership.
+
+Once there is a global network of such communities, and someone was on a community, and wished for a change, he could then go and spend time on another community in the same environment. All that would be required of him or her is to find the transport money. They could hitch and hope, or perhaps, if available, obtain money from the community itself. There are also ways of earning it. Once the network is alive and its reach is great enough, then that problem of transport between the various communities could be handled by the communities themselves.
+
+It is similar to a family member wishing to go stay with another part of the family.
+
+3. Urban Communities
+
+Another is to encourage and facilitate the creation of urban communities. This would be more complex, consisting of affinity circles emerging from the ToL network itself.
+
+The reason for the “original”, which I also term “geographical” or “physical” affinity group, is to enable the communication and decision making aspect of the network to function effectively. However, just as in on the computer, once the internet is functioning, we can create our web of interactions. Thus markets can arise and feed one another, business based on others. It is like the android system on your phone, on which people have been provided the freedom to write apps to help themselves and others solve a problem that bothers them. It will be the same in a true free-market system, one that is controlled by huge interests – whose goal is not to make as much money or control as many resources as possible – but who represent the collective interests of the greater society.
+
+## Non-electronic version
+
+In order to consider a global governance system, one needs to take the electronically disenfranchised communities into account. It would actually be preferable to reduce our reliance on a purely electronic forms of governance in general. Thus one would hope for a hybrid between the two. However, the prevalence of cell-phones world-wide has reduced the amount of non-connected people.
+
+In a community that does not have electronic communication, or opted not to communicate electronically, there would be other forms of communication between the affinity groups that were not able or willing to physically meet. However, it would be very possible to have at least one communication device per parent group. If there is none, the network could provide one. Other than that, all the other criteria and methods of connectivity would be the same; perhaps the formation of the network and communication within the network would be slower, though more organic.
+
+There are also some initiatives underway to create a global distributed and robust network that will be more distributed than the current system – almost like a mesh network.
+
+## Self-sufficiency
+
+The ultimate goal would be to make the whole network self-sufficient. That is that it can provide itself all the items needed for its existence. The water, food, shelter, energy and resources to maintain each and every one of its communities – without the need for any external inputs.
+
+Remember, that though within the community there is no need for money, being embedded in a capitalist economy requires the community to interface with the economic realities of the surrounding environment. If there is a market that is created for the goods that are available within the community, then it will encourage the manufacture of that product.
+
+In the spirit of all transactions being open, the network can know what it costs to produce the article, and thus what it is truly worth, and can give input into improving it.
+
+## Excess
+
+If there is excess, it will be sold to the general population (non-ToLNet persons) at a fair profit which will be funnelled back into the community. The reason that the money earned needs to return to the community, is to prevent someone from having made much money and thus creating the economic class system that rules our society today. It would then produce a similar disparity found in the world today.
+
+This might not be the only way to reduce this impact, and if there are others, a community is very welcome to experiment.
+
 ---
 
 References:
@@ -107,3 +228,4 @@ References:
 [^6]: Actually, for [Mekubalim](mekubalim.md), [the template](tol-template.md) we aspire to is one which includes other aspects of human existence. Within this mapping, we identify 4 levels, PEMS, as well as the 3 pillars of existence: Force, Form and Balance.
 [^7]: What is “inside” this template, the one we refer to as ‘I’, is somehow connected to this outer template in some very mysterious way.
 [^8]: Just as the flame led the people through the wilderness by night, and a cloud by day, to Sinai,
+[^9]: An estimate in the 1980's set the number at around 160 million souls.

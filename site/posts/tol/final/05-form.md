@@ -42,13 +42,14 @@ An enhancement is for each parent to be different as the dynamic propagates deep
 This is where the true power of the Tree of Life network really shines. It has inverted the pyramid of power, in that, as we proceed deeper into the tree, there are more people available to deal with the issues that arise.
 Let me explain. At level one, we have 10 people available, at level two, 100. Our parent group then, at level two, has 100 people to choose from (although chosen in the groups of 10). Now the grandparent group will be chosen from 1000 people. If the basic requirement is for two hours a week for the af-group, and an extra two for the parent group, it will require just six hours a week from a member in order to be able to attend all three meetings: the af-group, the parent and the grandparent group. If all 1000 people were willing to offer that amount of time, one could have 100 grandparent groups solving issues that are pertinent to their domain and groups within that domain.
 
-This is, of course, an ideal situation. In reality, these six hours could be used for a multitude of tasks that will require implementation. However, once the network is self-reliant, and all the members’ time could be used to pursue the goals of the network, imagine what could be achieved.  
+This is, of course, an ideal situation. In reality, these six hours could be used for a multitude of tasks that will require implementation. However, once the network is self-reliant, and all the members’ time could be used to pursue the goals of the network, imagine what could be achieved.
+
 Due to the transparent nature of all communication, the record keeping will be such that any member will be able to become familiar with the issues at hand and their history, if needed, to participate in any grandparent meeting, even though said member was not in the parent one. Remember it is recursive.
 
 It is natural that people will be attracted and motivated to work on issues that are closer to their hearts or needs.
 
 <figure>
-<a href="/posts/img/tol/05-4_full.png">
+<a href="/posts/img/tol/05-4_full_large.png">
 <img src="/posts/img/tol/05-4_full.png" alt="Full Tree Structure" width="400">
 </a>
 <figcaption>Full Diagram of Tree Structure</figcaption>

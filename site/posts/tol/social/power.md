@@ -2,7 +2,7 @@
 title: Power
 description: Power is upheld by a belief in that power base
 tags: null
-date: 2003-01-17T13:09:01.930Z
+date: 2004-10-17T13:09:01.930Z
 modified: 2022-06-21T08:18:14.780Z
 ---
 

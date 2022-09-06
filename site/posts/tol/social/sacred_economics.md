@@ -2,7 +2,7 @@
 title: Sacred Economics
 description: Gift economy - Charles Eisenstein
 tags: null
-date: 2003-01-19T13:08:51.930Z
+date: 2004-10-19T13:08:51.930Z
 modified: 2022-06-02T15:55:03.357Z
 ---
 

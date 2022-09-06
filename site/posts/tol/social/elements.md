@@ -1,7 +1,7 @@
 ---
 title: ToLNet elements
 description: Some elements of ToLNet
-date: 2003-01-07T13:09:51.930Z
+date: 2004-10-07T13:09:51.930Z
 tags: null
 modified: 2022-06-02T18:16:11.174Z
 ---

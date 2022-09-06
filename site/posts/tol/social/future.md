@@ -2,7 +2,7 @@
 title: Future
 description: This is the way of the future
 tags: [plandemic]
-date: 2003-01-18T13:08:51.930Z
+date: 2004-10-18T13:08:51.930Z
 modified: 2022-06-21T14:54:41.012Z
 ---
 

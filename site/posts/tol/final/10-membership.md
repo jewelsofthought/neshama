@@ -3,7 +3,7 @@ title: Membership
 description: Membership options
 tags: null
 date: 2004-06-10T15:38:35.115Z
-modified: 2021-12-22T11:48:24.902Z
+modified: 2022-07-14T11:48:24.902Z
 ---
 
 [[TOC]]
@@ -21,6 +21,10 @@ The first is to be full member, having joined a community in whatever form that 
 There are those who cannot commit to this lifestyle but wish to support it until they can become full members. They will actively or passively support the network, paying their dues, some even providing energy and others, support to the network.
 
 Once the person has become a supporting member of the community, some percentage of his earnings that stem from the community itself will return to the community. If the portion that is returned to the community is less than the stipulated amount, then a certain amount will be extracted for services rendered by the community.
+
+Thus he becomes an active member of the community, though not benefitting from its full support. He can even participate in the decisions and other issues, though as a supporting member.
+
+If they are willing to give a tithe to the network, either in money or in energy, these communities can and will be well supported.
 
 ## Associate Member
 

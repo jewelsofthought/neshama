@@ -2,7 +2,7 @@
 title: Paradigm shift
 description: A shift in consciousness. Also know as pivoting.
 tags: null
-date: 2003-10-01T15:38:35.115Z
+date: 2004-10-01T15:38:35.115Z
 modified: 2022-01-27T08:02:43.006Z
 ---
 

@@ -2,7 +2,7 @@
 title: Destiny and Power
 description: Does power rule over everything?
 tags: null
-date: 2003-01-06T13:28:51.930Z
+date: 2004-10-06T13:28:51.930Z
 ---
 
 We are all pretending not to be in terror. Often by being too occupied with the "reality" of life and the many distractions thereof. There has to be someone, somewhere, sometime who has worked out the dynamics of the situation so at least he/she could help his/her descendants navigate these constantly flowing waters more capably.
@@ -17,4 +17,4 @@ Pure power is limited in range, and costly to boot. Influence is much broader: m
 
 The combination of power and influence lays out the grid within which our lives are played out.
 
-Within the realm of power and control, there can be no controller who controls the controls upon any society, except for G-d, the All Merciful. In most "real" cases, there is a group who execute the law, yet stand above it. In fact, the laws are there to ensure their excelusive position is maintained at all costs, and it is a servant to and of their whims.
+Within the realm of power and control, there can be no controller who controls the controls upon any society, except for G-d, the All Merciful. In most "real" cases, there is a group who execute the law, yet stand above it. In fact, the laws are there to ensure their exclusive position is maintained at all costs, and it is a servant to and of their whims.

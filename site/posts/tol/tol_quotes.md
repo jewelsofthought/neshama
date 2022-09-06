@@ -1,10 +1,10 @@
 ---
 title: Quotes
 description: Tree of Life Network ideas
-date: 2003-12-02T13:08:51.930Z
+date: 2004-12-02T13:08:51.930Z
 tags:
   - external
-modified: 2021-12-19T18:48:59.753Z
+modified: 2022-08-15T18:48:59.753Z
 ---
 
 1. [Graphs and Networks](#graphs-and-networks)
@@ -33,20 +33,15 @@ with the human spirit and biosphere.
 
 ## Non-violence
 
-```
-“The underlying philosophy of non-violence is that the people have more power than their government, but must connect with each other in order to mobilize that power.”
---Kusum Singh: Mass Communication without Mass Media: Gandhi’s message to a violent world
-```
+> “The underlying philosophy of non-violence is that the people have more power than their government, but must connect with each other in order to mobilize that power.”
+> --Kusum Singh: Mass Communication without Mass Media: Gandhi’s message to a violent world
 
 ## The Net of Indra
 
-```
-The Net of Indra is a profound and subtle metaphor for the structure of reality. Imagine a vast net; at each crossing point there is a jewel; each jewel is perfectly clear and reflects all the other jewels in the net, the way two mirrors placed opposite each other will reflect an image ad infinitum. The jewels in this metaphor stand for an individual being, or an individual consciousness, or a cell, or an atom, or a crystal. Every jewel is intimately connected with all other jewels in the universe, and a change in one jewel means a change, however slight, in every other jewel.
+> The Net of Indra is a profound and subtle metaphor for the structure of reality. Imagine a vast net; at each crossing point there is a jewel; each jewel is perfectly clear and reflects all the other jewels in the net, the way two mirrors placed opposite each other will reflect an image ad infinitum. The jewels in this metaphor stand for an individual being, or an individual consciousness, or a cell, or an atom, or a crystal. Every jewel is intimately connected with all other jewels in the universe, and a change in one jewel means a change, however slight, in every other jewel.
+> -- Stephen Mitchell, The Enlightened Mind.
 
-- Stephen Mitchell, The Enlightened Mind.
-```
-
-> This is the Jewel of Indra, the network as I envisage it. I believe that by creating and activating the structure, the most amazing things will happen. Once someone who believed they were disempowered suddenly becomes empowered, the energy that will be released will be so incredible we need just step back and let it do its work.
+This is the Jewel of Indra, the network as I envisage it. I believe that by creating and activating the structure, the most amazing things will happen. Once someone who believed they were disempowered suddenly becomes empowered, the energy that will be released will be so incredible we need just step back and let it do its work.
 
 ## Network
 
@@ -86,10 +81,6 @@ _NOTE: After reading a through his ideas, there are some that are excellent. His
 
 ## Oecumene
 
-```
-The ecumene (US spelling) or oecumene (UK spelling; Greek: οἰκουμένη, translit. oikouménē, lit. "inhabited") is an ancient Greek term for the known, the inhabited, or the habitable world. In Greek antiquity, it referred to the portions of the world known to Hellenic geographers, subdivided into three continents (Africa, Europe, and Asia). Under the Roman Empire, it came to refer to civilization itself, as well as the secular and religious imperial administration. In present usage, it is most often used in the context of "ecumenical" and describes the Christian Church as a unified whole, or the unified modern world civilization
-```
+> The ecumene (US spelling) or oecumene (UK spelling; Greek: οἰκουμένη, translit. oikouménē, lit. "inhabited") is an ancient Greek term for the known, the inhabited, or the habitable world. In Greek antiquity, it referred to the portions of the world known to Hellenic geographers, subdivided into three continents (Africa, Europe, and Asia). Under the Roman Empire, it came to refer to civilization itself, as well as the secular and religious imperial administration. In present usage, it is most often used in the context of "ecumenical" and describes the Christian Church as a unified whole, or the unified modern world civilization
 
 _NOTE: This was interesting to me because of the innate idea of being civilised vs. uncivilised arose in Roman Times. Before that it meant simply inhabited. It reminds me of the evolution of the word_ goy _in Hebrew. It originally referred to a non-Jewish person. Nowadays, it is used pejoratively._
-
----

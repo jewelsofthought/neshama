@@ -2,7 +2,7 @@
 title: Personhood
 description: Sovereignty and autonomy in the virtual world
 tags: null
-date: 2003-01-17T13:08:51.930Z
+date: 2004-01-17T13:08:51.930Z
 modified: 2022-01-03T18:18:14.780Z
 ---
 
@@ -19,6 +19,18 @@ The paradox inherent in this theft of our rights is that it is we who bring that
 [Hitler: 6m; Stalin 15m+; Khymer Rouge: 2m; 59m chinese homeless from floods; over 1m refugees from Syria, etc, etc, etc...]
 
 I claim this I that I am, and space in which I live - within a society that seeks a positive outcome for its I's, the members - and flourish.
+
+## Personhood
+
+        If we wish the system to be about people, then the basic unit, the seed, of the system has to be the individual.
+
+If this individual is to have any autonomy, he must have an id within the system. This id should identify him or her as a person, and not as merely another part of the system.
+
+This identification must allow or provide the individual with some a private, sovereign space in the system. Otherwise, he or she just becomes another brick in the wall, and becomes, in essence, an IT.
+
+Bringing us to the concept of **personhood** in cyber space.
+
+We should have control over that personhood and the data contained IN that "person" as he or she is represented and interacts in cyber space.
 
 ## Compromise
 

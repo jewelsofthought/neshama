@@ -3,10 +3,13 @@ title: Stage IV - Web of communities
 description: Connect
 tags: null
 date: 2004-06-06T15:38:35.115Z
-modified: 2022-01-10T14:27:27.274Z
+modified: 2000-12-15T14:27:27.274Z
+eleventyExcludeFromCollections: true
 ---
 
 ## Stage IV: Web of communities
+
+-> tol/communities.md
 
 In order for a new paradigm to emerge, we need to create and support communities whose transactions are not money based, and especially not based on a fiat system and/or a credit/debit economy. From its inception, these communities will aim to provide all the basic necessities of life to all members of the community, as well as to any member that visits the community, within reason. Those that reside in this community will labour to maintain and support the community, but no transactions inside the community will be based on money. All internal decisions regarding the disbursement of resources will be based on communal need and be for the benefit of the community, and thus the individuals that comprise this community.
 
