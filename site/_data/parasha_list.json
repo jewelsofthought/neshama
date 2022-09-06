@@ -1,14 +1,19 @@
 {
-  "parashot": [
-    "Balak",
-    "Terumah",
-    "Mishpatim",
-    "Yitro",
-    "Beshalach",
-    "Bo",
-    "Toldot - annexes",
-    "Toldot_- deception",
-    "Toldot",
-    "Vayeira"
+  "all_parashot": [
+    { "portion": "Vayera", "reading": "Genesis 18:1-22:24" },
+    { "portion": "Toldot", "reading": "Genesis 25:19-28:9" },
+    { "portion": "Bo", "reading": "Exodus 10:1-13:16" },
+    { "portion": "Beshalach", "reading": "Exodus 13:17-17:16" },
+    { "portion": "Yitro", "reading": "Exodus 18:1-20:23" },
+    { "portion": "Mishpatim", "reading": "Exodus 21:1-24:18" },
+    { "portion": "Terumah", "reading": "Exodus 25:1-27:19" },
+    { "portion": "Shemini", "reading": "Leviticus 9:1–11:47" },
+    { "portion": "Tazria", "reading": "Leviticus 12:1-13:59" },
+    { "portion": "Acharei Mot", "reading": "Leviticus 16:1–18:30" },
+    { "portion": "Behaalotecha", "reading": "Numbers 8:1–12:16" },
+    { "portion": "Chukat", "reading": "Numbers 19:1–22:1" },
+    { "portion": "Balak", "reading": "Numbers 22:2–25:9" },
+    { "portion": "Va'etchanan", "reading": "Deuteronomy 3:23–7:11" },
+    { "portion": "Eikev", "reading": "Deuteronomy 7:12–11:25" }
   ]
 }
