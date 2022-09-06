@@ -1,13 +1,10 @@
 ---
 title: Concealing the Concealment
-description: 'Murmuring Secrets: Eroticism and Esotericism in Medieval Kabbalah'
+description: About the doubly concealed concealment...
+article: 'Murmuring Secrets: Eroticism and Esotericism in Medieval Kabbalah'
 tags: null
 date: 2010-10-01T01:39:50.132Z
 ---
-
-## MURMURING SECRETS: EROTICISM AND ESOTERICISM IN MEDIEVAL KABBALAH
-
-_Elliot R. Wolfson_
 
 > When it cannot achieve its perfect form, the _A Bao A Qu_ suffers great pain, and its moaning is a barely perceptible murmur similar to the whisper of silk. But when the man or woman that revives the creature is filled with purity, the _A Bao A Qu_ is able to reach the topmost step, completely formed and radiating a clear blue light.
 

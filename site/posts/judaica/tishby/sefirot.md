@@ -3,7 +3,7 @@ title: Sefirot
 description: 4. The Conduct of the World Through the Sefirot
 ref: Tikkunei ha-Zohar, Second Preface, 17a-17b
 article: 'Wisdom of the Zohar (Vol I)'
-tags: [sefirot]
+tags: null
 date: 2010-12-02T16:01:00.000Z
 modified: 2022-06-03
 ---

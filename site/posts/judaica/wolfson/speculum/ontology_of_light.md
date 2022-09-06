@@ -7,9 +7,7 @@ tags: null
 date: 2010-10-20T00:52:59+02:00
 ---
 
-1. [ONTOLOGY OF LIGHT AND MYSTICAL VISION](#ontology-of-light-and-mystical-vision)
-
-## ONTOLOGY OF LIGHT AND MYSTICAL VISION
+<h3> ONTOLOGY OF LIGHT AND MYSTICAL VISION</h3>
 
 (pp. 270-276)
 

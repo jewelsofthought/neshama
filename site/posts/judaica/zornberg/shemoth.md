@@ -2,7 +2,7 @@
 title: Shemoth
 author: Aviva Zornberg
 description: The Mirror of Redemption
-tags: null
+tags: [external]
 date: 2010-12-02T14:51:59+02:00
 modified: 2021-12-27T08:50:46.274Z
 ---
