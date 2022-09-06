@@ -1,12 +1,10 @@
 ---
 title: Dream world
 description: We are the bridge, a consciousness that spans this "real" world and another world which we experience in our dreams.
-tags: [journal]
+tags: null
 date: 2021-12-31T14:01:20.067Z
 modified: 2022-06-29T10:12:37.469Z
 ---
-
-## Dreams (220629)
 
 It has been said that we are a bridge between two worlds, often described as the upper and the lower worlds. That is derived from the believe that if we are created by G-d, then we are born from the upper or divine world. What if we did not refer to it that way, but simply, for now as this world, and that world. This world being the familiar world, and that world being the "other" world. And as a bridge between the two we actually live in them both.
 

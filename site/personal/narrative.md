@@ -6,6 +6,14 @@ date: 2021-12-31T13:49:20.067Z
 modified: 2022-06-28T10:12:37.469Z
 ---
 
+Just like the intrepid explorers of yore,
+venturing into the dark hidden areas of the world,
+lost in the wilderness, they broke into two segments.
+
+The first group built walls, continuing what is known.
+The other group acknowledged the truth. The old ways are dying, and we need
+to find a new narrative. So...
+
 Be still, be quiet
 Stay where you are
 and listen,
