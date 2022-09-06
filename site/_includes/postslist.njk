@@ -4,8 +4,7 @@
     &nbsp;
     <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
 
-    
-    {% for tag in post.data.tags | filterTagList %}
+        {% for tag in post.data.tags | filterTagList %}
       {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
       <a href="{{ tagUrl | url }}"><span class="tag is-light is-small is-pulled-right">
         <span class="fa fa-tag"></span>
@@ -14,6 +13,12 @@
       </span>
     </a>
     {% endfor %}
+    
+    {% if post.data.stars %}
+        <span class="tag is-light is-small is-pulled-right" style="color: darkblue">
+          {{ post.data.stars }}
+        </span>
+      {% endif %}
 
   </li>
 {% endfor %}

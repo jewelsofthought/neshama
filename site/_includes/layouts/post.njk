@@ -8,7 +8,11 @@ templateClass: tmpl-post
     <section class="box">
       <div class="main_title">
         <h4 class="title is-4 blog-post-title" itemprop="name headline">
-        <a href="#">{{ title }}</a>
+        {% if refURL %} 
+          <a href="{{ refURL }}">{{ title }}</a>
+        {% else %}
+          {{ title }}  
+        {% endif %}
       </div>
 
     <div class="is-clearfix"></div>
@@ -22,8 +26,13 @@ templateClass: tmpl-post
           {{ page.date | readableDate }}
         {% endif %}
         </time>
+        &nbsp;
       </span>
-      &nbsp;
+      {% if stars %}
+        <span class="tag is-light is-small" style="color: darkblue">
+          {{ stars }}
+        </span>
+      {% endif %}
      </div>
 
     {%- for tag in tags | filterTagList -%}
