@@ -1,7 +1,7 @@
 ---
 title: From point to purpose
 description: Expansion from the point
-tags: [kab]
+tags: null
 date: 2015-01-01T19:12:16.154Z
 modified: 2021-12-28T13:23:06.287Z
 ---

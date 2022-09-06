@@ -10,7 +10,7 @@ date: 2008-01-11T15:38:35.115Z
 
 ## General thoughts on Hebrew
 
-- Some general thoughts on ![Hebrew](/site/posts/img/neshama/judaica/hebrew.png)
+- Some general thoughts on ![Hebrew](/posts/img/neshama/judaica/hebrew.png)
 
 ## Single Letter (Hebrew)
 

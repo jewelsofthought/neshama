@@ -6,15 +6,15 @@ date: 2008-01-24T15:38:35.115Z
 modified: 2022-05-02
 ---
 
-## Truth1
+## Truth
 
 The only way to rebuild our societies' structures will be to have their foundation, their {[axis mundi](axis_mundi.html)}, built upon Truth.
 
-Not the static truth of Kings and Idolatry, but the ;dynamic, living Truth of the One.
+Not the static truth of Kings and Idolatry, but the dynamic, living Truth of the One. Not the kind of truth that requires information to be classified.
 
-If the structure is an expression of that Oneness of being, and the reality whithin which we exist, is dealt with in truth&mdash;which means that both the good and the evil is acknowledged&mdash;we may find the road to fulfilment.
+If the protocol of a society is in tune with the Truth of Existence, the Oneness of the Living Presence&mdash;a protocol which acknowledges the difference between good and evil, and responds appropriately&mdash;we may find the road to fulfilment.
 
-For to build the truth into our foundations, means to acknowledge our human limitations, to fashion systems that respond to the all aspects of the human being, not just those that we want or like, but encompassing also the dark and challenging aspects of both our natures, and the environment in which we live.
+To build the Truth into our foundation, means to acknowledge firstly our dependence on the Awesome Presence of the Divine in Everything. Then, acknowledging our human limitations, to fashion systems that respond to the all aspects of the human being, not just those that we want or like, but relating also the dark and challenging aspects of our natures, and that of the nature that surrounds us.
 
 The only way to root this idea in the world is through prayer, meditation, clear thinking, using the Truth as the chisel with which we engrave the stones of our lives.
 
@@ -22,7 +22,7 @@ The only way to root this idea in the world is through prayer, meditation, clear
 
 "What is this Truth that you speak of? You talk of it as if it is some sort of absolute truth. We all know that truth is relative, especially in a fluid universe. Tell us of this Truth."
 
-"This Truth that I speak of is also not static, yet it holds a position relative to the object/event that is under observation. and is measured by its distance from what is **really** happening&mdash;something we can never be fully aware of.[^1]
+"This Truth that I speak of is also not static, yet it holds a position relative to the object/event that is under observation. It is measured by its distance from what is **really** happening&mdash;something we can never be fully aware of.[^1]
 
 The Truth of an event is the event itself. Thus it cannot be discussed in relation to its truth or falsity, for it is simply the event. However, the only truth we can know, is the "truth" that we can comprehend&mdash;which is essentially the truth that fits into our current narrative of being&mdash;which can only emerge subsequent to the event itself. That will become the created "reality" of the occurrence, fed by our perceptions, recorded according to our mores. It is only after the event has actually occurred, that it enters the imaginarium of our minds. That is where we begin to shape what had just occurred. As time passes, that memory, also fluid, is influenced by the factors that arise subsequently. As it morphs, and becomes more embedded, taking up residence in our imaginariums, it now becomes the absolute truth - as far as he or she is concerned, and there is little that will dissuade said person.
 

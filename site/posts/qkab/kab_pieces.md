@@ -7,6 +7,7 @@ modified: 2022-05-31
 ---
 
 1. [3 splendours (pp 90,96)](#3-splendours-pp-9096)
+2. [The kabbalist](#the-kabbalist)
 
 ## 3 splendours (pp 90,96)
 
@@ -46,3 +47,13 @@ For He is a part of us,
 And we are part of Creation.
 
 </div>
+
+## The kabbalist
+
+> I was born in the cauldron of creation
+
+A kabbalist does nothing... except perhaps pray &ndash; with all his heart and soul. All his work is in the upper realm. The one referred to as the imaginal realm. A realm exemplified by the imaginary numbers of mathematics, producing, through the intermarriage of the real and the imaginary, the realm of the complex.
+
+He performs the acts necessary to maintain his physical being, but only in order to pursue his calling and work in the upper worlds.
+
+Working as close to Source as he is able to, he has no apparent effect on anything tangible. As we are all connected to this source, his work can affect anything and everything. However, how long it will take till his actions manifest some effect, depends on many factors, both known and unknown.

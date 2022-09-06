@@ -2,7 +2,7 @@
 title: Merkabah Descent
 Description: An ascension journey
 tags: todo
-date: 2022-03-09T13:26:52.768Z
+date: 2014-03-09T13:26:52.768Z
 ---
 
 ## Merkabah Descent

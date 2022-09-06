@@ -46,21 +46,21 @@ There are a number of ways to relieve yourself from this hell of two parents (Go
 > One cannot be diminished by removing anything from One.
 > One cannot be increased by giving anything to One.
 
-One is NOT the ruler over everything. It IS everything&mdash;the good, the bad and the ugly. This One is referred to as the hidden aspect of G-d. The outward aspect is what you and I experience, and we will judge It by our experience of It. {Unless you have adopted another('s) narrative, and have become an extension of that other('s) drama, subjugating your own narrative to the "greater" one.}
+One is NOT the ruler over everything. It IS everything&mdash;the good, the bad and the ugly. This One is referred to as the hidden aspect of G-d. The outward aspect is what you and I experience, and we will judge It by our experience of It. Unless you have adopted another('s) narrative, and have become an extension of that other('s) drama, subjugating your own narrative to the "greater" one.
 
 ## Hidden Face
 
-Just as you (and I) have an outer aspect with which we engage in the outside world. It is that aspect of ourselves that others experience, what they "see", for it is the I that manifests in the world. But each one of us also has a hidden aspect buried inside ourselves, hiding from the world, and its evil ways.
+Just as you (and I) have an outer aspect with which we engage in the outside world. It is that aspect of ourselves that others experience, what they "see", for it is the I that manifests in the world. But within one of us there is a hidden aspect deeply buried, hiding from the world, and its evil ways.
 
-And many of us are driven by a deep desire to find an other with whom you can share that deep connection, deep enough to open that hidden aspect to them, and hope they will respond with love. That is the place of One, the hidden Face of G-d.
+Many of us are driven by a deep desire to find an other with whom you can share that deep connection, deep enough to open that hidden aspect to themselves, and hope the other will respond with love. That is the place of One, the hidden Face of G-d.
 
 ## Light & Dark
 
 > We cannot lesson the dark by focusing on it. Focusing on it is feeding it. We can only reduce the dark by increasing the light
 
 We cannot solve the problem by dwelling on it. Eventually it (the darkness) will swallow us.
-Only by living in the light can you overcome the darkness - though we are never free of it. For darkness is formed by light. "He formed the light, and created the darkness." One can only create form in light with darkness!
+Only by living in the light can you overcome the darkness - though we are never free of it. For all that we see as objects is formed by darkness. not light. "He formed the light, and created the darkness." One can only create form in light with darkness!
 
-Similarly, if you obsess over death - if [you are in terror of it](atheist.html) - it is because you do not believe in a greater narrative then our own life.
+Similarly, if you obsess over death - if [you are in terror of it](atheist.html) - it is because you do not believe in a greater narrative then your own life.
 
 ---

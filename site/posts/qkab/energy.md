@@ -28,6 +28,7 @@ modified: 2022-05-30T13:46:40.107Z
 14. [Water](#water)
 15. [Energy is energy - good or bad](#energy-is-energy---good-or-bad)
 16. [Zero Waste (Energy)](#zero-waste-energy)
+17. ["Trapped" energy](#trapped-energy)
 
 ## Fundamental property
 
@@ -151,6 +152,17 @@ The quantum arena speaks of such energy. We feel it's effect in our everyday liv
 
 What if we look at _chashmal_ as the full electro-magnetic spectrum and beyond?
 
+> _Chashmal_ is the vivifying force of creation
+> _Chashmal_ is the information bearer of creation
+
+When we feel something&mdash;that is _chashmal_. But it can only be detected/experienced as secondary effects. That is by its effect upon something that is already manifest.
+
+The power is always flowing through the system&mdash;even if we only experience it as discreet, with a gap between each pulsation. It does not cease, but when it is in "negative" space, we cannot experience it, except as a lack/no-thing. It is how that power is used i.e. regulated and constrained, that determines the information that is transmitted and received.
+
+> The only thing that can contain everything is nothing.
+
+> The more information carried in the system, the greater is its complexity, and the higher are its energy requirements.
+
 ## Water
 
 > Water as communication medium. So is Chashmal!
@@ -172,3 +184,11 @@ Perhaps it is a rallying call, a guiding beacon calling us, challenging us to â€
 ## Zero Waste (Energy)
 
 If the synergy is perfectly in sync, then there is **zero waste**, as all inputs will be used and all outputs nourish something in the chain of life [differentiate between local & global in/outputs] (like the [Oroborus](oroborus.html)). Similar to the _manna_ given to the Son of Israel while they were wandering in the desert - which produced no waste as it was spiritual food.
+
+## "Trapped" energy
+
+For something to exist in material form, it has to have "energy". The energy of form is trapped energy, energy that is held in a certain form. Two types of "trapping": one is benign, the other is forced. The first is one in which the being decides to constrain itself, the other is one in which it is forced by circumstances (or outside forces) to be constrained. It has what I call, angular momentum. As it holds that energy static, it is now in a potentially recognisable form. Energy has been removed from its locale. This is what forms it brane or skin. The energy held in a from is required to maintain a certain stasis or, potentially dynamic, balance.
+
+If it is "dead" this stasis is relatively stable, with a very small amount of energy being transferred form it into its environment and vice-versa. One could then define death as an energy situation that is below a certain threshold. If it is "alive", there is a more active interchange&mdash; which could even be judged by measuring the energy of these interactions. Thus, trivially, being alive is a measurement of a certain level of energy.
+
+As a result of this, in order to remain alive, requires an energy input. The entity/form needs energy/nourishment form its surroundings. Thus the inherently destructive aspect of being alive is generally ignored in the full energy equation/interaction.

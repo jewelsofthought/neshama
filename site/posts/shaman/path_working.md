@@ -3,7 +3,7 @@ title: Path-working on the Qabalistic Tree of Life
 author: Alex Sumner
 tags:
   - external
-date: 2021-10-24T13:26:52.768Z
+date: 2014-10-24T13:26:52.768Z
 modified: 2021-11-28T16:00:15.224Z
 ---
 

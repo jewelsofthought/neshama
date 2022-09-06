@@ -1,7 +1,8 @@
 ---
 title: Maria - the Prophetess
 author: Leonora Leet
-description: The Key to Hebraic Sacred Science
+article: The Key to Hebraic Sacred Science
+description: The first known alchemist
 date: 2015-11-01T03:06:23.352Z
 page:
   - 7

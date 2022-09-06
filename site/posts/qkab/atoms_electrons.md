@@ -21,18 +21,25 @@ How can we always measure this as clockwise, if it is being reborn? How does any
 
 $$e^-$$ also moves around. So there is an area of birth. The sphere for the _‘s’_ orbitals, the tears for the _‘p’_, that form quantum flowers of the universe. They are also the place where interactions take place.
 
-The $$e^-$$ would spin on all the vectors available in the sphere, completely “occupying” its orbital. Why then only clockwise and anti-clockwise? Because the emanations obey certain laws just like the angels. They can only manifest under certain conditions, and thus are all constrained similarly. It being a 2 dimensional being, it can perceive only itself or its opposite. An $$e^-$$ of spin $$\theta$$ would only recognise one of opposite spin,$$-{\theta}$$, or one of the same spin.
+The $$e^-$$ would spin on all the vectors available in the sphere, completely “occupying” its orbital. Why then only clockwise and anti-clockwise? Perhaps because clockwise is an expanding orbital and anti-clockwise a "shrinking" one. This makes sense if this is "appearing" and disappearing according to some "law" that extends from the 4th dimension.
 
-The neutrons and protons&mdash;perhaps all the sub-atomic particles are actually spiralling in and out of existence.
+Just as a note, today we speak of these as "physical laws". What is this physical law? It is a behaviour that obeys the
+
+Of course, these emanations obey certain laws just like the angels. They can only manifest under certain conditions, and thus are all constrained similarly. It being a 2 dimensional being, it can perceive only itself or its opposite. An $$e^-$$ of spin $$\theta$$ would only recognise one of opposite spin,$$-{\theta}$$, or one of the same spin.
+
+Then one would naturally have the $$e^+$$ which we would go on to label a proton (a positive electron), and the $$e^0$$ which has neither a negative nor a positive charge, and we call it a neutron. They should also have the clockwise and anti-clockwise spiral of their existence.
+
+> "the electron is the fundamental particle of matter and is a vortex of vacuum with a vacuum-less void at the center and it is dynamically stable..."
+> From [Paramahamsa Tewari](https://www.tewari.org), who had a paper published in Physics Essays entitled “[Structural Relation Between The Vacuum Space and The Electron](/references/Electron-Tawari.pdf){target="\_blank"}".
 
 ## Hydrogen bonds
 
 Let’s think of hydrogen as a single, as it has a single electron. It is thus eminently available to form relationships with other atoms, as it is missing its partner to complete the basic, and most primary, shell (s). All other atoms, lacking 1 or more electrons that will only form a part of a relationship, completing a secondary shell (p, d or f). When hydrogen finds its mate, to form this very special relationship that only it is capable of, it gives up most of its electron leaving behind a void (positive charge) towards the rest of the universe, which naturally attracts all sort of charged bodies with which it will want to bond. Because it is so eager to join with another it is willing to give up some of its power for the relationship that completes it.
 
-Carrying the idea further, we come across the fact that unless it is in an identical relationship with another hydrogen atom (H2), the attachment is somewhat unbalanced or polyamorous as one might describe it, as in H2O, and the hydro-carbon chains that form the fats and oils of life. In fact, a very interesting aspect of hydrogen, is that it is a major components of the two liquids that make up most of the form of living beings – oil and water. And those two forms are antagonistic.
+Carrying the idea further, we come across the fact that unless it is in an identical relationship with another hydrogen atom ($$H_2$$), the attachment is somewhat unbalanced or polyamorous as one might describe it, as in $${H_2}O$$, and the hydro-carbon chains that form the fats and oils of life. In fact, a very interesting aspect of hydrogen, is that it is a major components of the two liquids that make up most of the form of living beings – oil and water. And those two forms, consisting of the two gases of life, carbon ($$C$$) and oxygen ($$O$$),are antagonistic.
 
 “As below, so above” is an expression of the Kabbalistic principle of the macrocosm and the microcosm, reflections of the same Divine intent. If G!d wanted to teach us, would he not manifest the principle of “as in Heaven, so it is on Earth”? That is, use the “Laws of Nature” to lead us to Heaven? Would that not be the way of a compassionate G!d?
 
 There are some interesting examples of this. An intricate one, is following the idea of the brain as being a quantum computer. Consequently we, at some point, become aware of the quantum nature of this reality.
 
-Let us propose the atoms and molecules as Angels of G!d. They react, they do their work as they have been created to do, never deviating from their appointed mission, sacrificing themselves if necessary, but always “providing” the same interface, the same “message”. While we are the uncertainty, with what we call “free choice” that live in a world of probability, or rather indeterminacy, expressing our “living spirit”, living in that it can be influenced by intention and will – that which we call “choice”.
+Let us propose the atoms and molecules as [Angels of G!d](posts/neshama/angel_atoms/). They react, they do their work as they have been created to do, never deviating from their appointed mission, sacrificing themselves if necessary, but always “providing” the same interface, the same “message”. While we are the uncertainty, with what we call “free choice” that live in a world of probability, or rather indeterminacy, expressing our “living spirit”, living in that it can be influenced by intention and will – that which we call “choice”.

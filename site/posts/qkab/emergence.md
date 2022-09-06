@@ -158,8 +158,8 @@ _Malkhut_, the created, manifest world, the wondrous expression of our experienc
 
 <h3>Spiraling tree</h3>
 
-<figure style="float:right">cowbo
-<img src="/site/posts/img/qkab/spiral_cone_tree.svg" alt="spiralling tree" width="400">
+<figure style="float:right">
+<img src="/posts/img/qkab/spiral_cone_tree.svg" alt="spiralling tree" width="400">
 <figcaption>3d Tree as a spiral</figcaption>
 </figure>
 
@@ -202,3 +202,9 @@ Pushes down on _Yesod_. Drops its darkness to create _Malchut_
 Pushes on _Yesod_
 _Malchut_ ends up being the creation.
 All the rest is just preparation.
+
+## Full engine of emergence...
+
+connected to Chassidic Masters!
+
+![Full engine of emergence](/posts/img/qkab/emergence_full.svg)
