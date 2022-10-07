@@ -2,7 +2,7 @@
 title: Another beginning...
 description: Time is all we have.
 tags: null
-date: 2002-01-01T05:00:30.856Z
+date: 2002-01-02T05:10:30.856Z
 modified: 2022-06-14
 ---
 

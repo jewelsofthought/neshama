@@ -2,7 +2,7 @@
 title: Another cry
 description: Trying to see through the cold and darkness.
 tags: null
-date: 2002-01-01T05:00:20.856Z
+date: 2002-01-05T18:00:20.856Z
 ---
 
 <div class="poem">

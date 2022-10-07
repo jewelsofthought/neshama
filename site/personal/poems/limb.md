@@ -2,7 +2,7 @@
 title: Adventure
 description: Answering the call - lech lecha.
 tags: [ok]
-date: 2002-01-01T05:03:10.856Z
+date: 2002-01-11T10:03:10.856Z
 ---
 
 <div class="poem">

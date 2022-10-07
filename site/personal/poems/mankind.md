@@ -2,7 +2,7 @@
 title: True Community
 description: Alone, we die.
 tags: null
-date: 2002-01-01T05:03:10.856Z
+date: 2002-01-12T01:20:10.856Z
 ---
 
 <div class="poem">

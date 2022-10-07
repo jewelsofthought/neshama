@@ -2,7 +2,7 @@
 title: Teaching
 description: A teaching
 tags: ['ok']
-date: 2002-01-01T17:11:18.856Z
+date: 2002-01-19T05:01:18.856Z
 modified: 2020-06-04
 ---
 

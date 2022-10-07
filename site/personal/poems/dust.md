@@ -2,7 +2,7 @@
 title: Ashes to Ashes
 description: From dust we arise, and to dust we disintegrate.
 tags: null
-date: 2002-01-01T05:10:20.856Z
+date: 2002-01-04T26:10:20.856Z
 modified: 2022-06-16
 ---
 

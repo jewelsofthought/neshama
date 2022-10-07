@@ -2,7 +2,7 @@
 title: I believe, I believe
 description: The cycle is complete
 tags: [ok]
-date: 2002-01-01T05:01:10.856Z
+date: 2002-01-08T00:02:10.856Z
 modified: 2020-06-04
 ---
 

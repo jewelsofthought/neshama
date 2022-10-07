@@ -2,7 +2,7 @@
 title: In pain
 description: We rise from the darkness to receive the light.
 tags: [ok]
-date: 2002-01-01T05:13:20.856Z
+date: 2002-01-15T01:13:20.856Z
 ---
 
 <div class="poem">

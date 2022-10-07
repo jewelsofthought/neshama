@@ -2,7 +2,7 @@
 title: Your Servant
 description: How does one see in the darkness that is our life?
 tags: null
-date: 2022-01-03T14:10:43.013Z
+date: 2022-01-18T05:25:43.013Z
 ---
 
 <div class="poem">

@@ -2,7 +2,7 @@
 title: Infinite Desire
 description: To want is to be alive.
 tags: null
-date: 2002-01-01T05:00:20.856Z
+date: 2002-01-04T05:00:20.856Z
 modified: 2022-06-16
 ---
 
