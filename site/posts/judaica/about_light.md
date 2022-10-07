@@ -5,7 +5,7 @@ description: Discussion of light in mystical vision
 tags:
   - todo
   - speculum
-date: 2010-10-20T00:51:59+02:00
+date: 2010-01-01T02:51:59+02:00
 modified: 2022-05-17T14:51:59+02:00
 ---
 
@@ -37,6 +37,6 @@ Our journey begins from acknowledging the frequent use of light to depict the na
 
 Ezekiel's vision of the chariot upon which sits "the image of a man", is one of the principle sources of the visionary and mystical expressions in Kabbalah. Here we have a commentary on this vision, invoking the names of G-d to have a similar experience. What is not commented upon is the mixture of sound and light - for the names can both be visualised and sounded - the secret is in the name, and to be able to vocalise it, and thus envision it, correctly being of utmost importance. The third component is movement. An interesting aspect to mention, is that in most cases the focus was on one of the actions - to the exclusion of the others. Envisioning was done in stillness and silence. Vocalisation was generally done in community, but did not require movement, though both movement and visualisation could be a product thereof. And movement, or dance, was generally done in silence, though often to the accompaniment of music - whether vocal and/or instrumental. Admitadly
 
-## FOOTNOTES
+**Footnotes**
 
 [^1]: “Commentary on Ezekiel’s Chariot,” p. 3; see sources cited and discussed by Farber on pp. 78 n. 12, 80 n. 1.

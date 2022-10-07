@@ -8,7 +8,6 @@ date: 2022-04-15T00:02:00.000Z
 1. [The Tree of Life](#the-tree-of-life)
 2. [The Basics of The Ten Sefirot](#the-basics-of-the-ten-sefirot)
 3. [Learning the Ten Sefirot](#learning-the-ten-sefirot)
-4. [Footnotes](#footnotes)
 
 ## The Tree of Life
 
@@ -60,7 +59,7 @@ The Hebrew vowel sounds associated with specific can be vocalized or sensed in t
 
 ---
 
-## Footnotes
+**Footnotes**
 
 [^1]: It is interesting to note that this is how it would be described from the point of view of a mainfest consciousness. For as the only manifest that we are aware of, it would seem that the journey is from the unmanifest to the manifest. However, the journey could possibly be far different, and the manifest only a stage on the path.
 [^2]: Actually the form of the vibration of Emotion. Remembering that form is in essence trapped energy.

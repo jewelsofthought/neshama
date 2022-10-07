@@ -140,7 +140,7 @@ When a wave becomes **entangled** (either with enough other waves) or a "standin
 
 > Energy that does not have form cannot be represented in this world. It can only be recognised through its interaction with some other "form".
 
-It is only mathematics that is able to represent or describe this energies that do not have a manifest form like gravity or electricity. However, in the latter case there seems to be a form or order inherent in the energy&mdsh;a form which is itself only probable&mdash;which we can conveniently refer to as packets, or, as the wont is nowadays, quanta. Thus we intrinsically believe that there will be a similar form for Gravity. Though what if there is not? For all of this has been created not just for God's or our pleasure, but for our learning. Somehow, we were lost, or, as we refer to it biblically, fallen. Perhaps we are errant souls or expressions of some desire for self identity existing in the plurema. However that may be, we are here and dream always of the world to come in which the evil that roams the world will have been banished or demolished. And perhaps gravity will be a koan to lead science deeper into the mystery of creation.
+It is only mathematics that is able to represent or describe this energies that do not have a manifest form like gravity or electricity. However, in the latter case there seems to be a form or order inherent in the energy&mdsh;a form which is itself only probable&mdash;which we can conveniently refer to as packets, or, as the wont is nowadays, quanta. Thus we intrinsically believe that there will be a similar form for Gravity. Though what if there is not? For all of this has been created not just for God's or our pleasure, but for our learning. Somehow, we were lost, or, as we refer to it biblically, fallen. Perhaps we are errant souls or expressions of some desire for self identity existing in the pleroma. However that may be, we are here and dream always of the world to come in which the evil that roams the world will have been banished or demolished. And perhaps gravity will be a koan to lead science deeper into the mystery of creation.
 
 The only way we are made to be aware of this subtler energy is through its effect.
 
@@ -184,6 +184,8 @@ Perhaps it is a rallying call, a guiding beacon calling us, challenging us to â€
 ## Zero Waste (Energy)
 
 If the synergy is perfectly in sync, then there is **zero waste**, as all inputs will be used and all outputs nourish something in the chain of life [differentiate between local & global in/outputs] (like the [Oroborus](oroborus.html)). Similar to the _manna_ given to the Son of Israel while they were wandering in the desert - which produced no waste as it was spiritual food.
+
+A smaller the amount of wasted energy, the more harmonious is the interaction, the more effective will the energy usage be. It takes energy to deal with energy &ndash; even wasted energy. In fact, wasted energy is an expression of the propogation of error, for as the energy exchange increases, the waste will increase as well.
 
 ## "Trapped" energy
 

@@ -2,7 +2,7 @@
 title: Sacred Space
 description: The Inner Sanctum, a place to be safe.
 date: 2014-01-03T16:38:35.115Z
-tags: null
+tags: [todo]
 ---
 
 Let us all gather here in sacred space. Knowing that sacred space is also a potential pivotal point, a gateway, or even a portal to another world, another way of being. Seeking an encounter with the Divine, we enter His/Her space hoping to meet the King, as much as we fear such an event&mdash;knowing that if it occurs, it is life-changing.

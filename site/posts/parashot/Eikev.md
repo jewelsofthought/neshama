@@ -1,7 +1,7 @@
 ---
 title: Eikev
-description: Follow on the heel of G-d
-tags:
+description: Deuteronomy 7:12–11:25
+tags: null
 date: 2021-08-20T21:22:16.154Z
 ---
 

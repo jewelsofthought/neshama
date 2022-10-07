@@ -2,7 +2,7 @@
 title: Writings - Card 1
 description: null
 tags: null
-date: 2008-01-04T15:38:35.115Z
+date: 2008-01-03T01:38:35.115Z
 modified: 2022-09-14T15:56:13.090Z
 ---
 
@@ -17,6 +17,7 @@ modified: 2022-09-14T15:56:13.090Z
 7. [Inner Shape](#inner-shape)
 8. [Female](#female)
 9. [Heaven](#heaven)
+10. [Sex](#sex)
 
 {% endblock %}
 
@@ -69,3 +70,9 @@ If you accept the fact that you are young and beautiful, and every man is going 
 ![card1.1](/posts/img/neshama/new/card1_fig1.1.png)
 
 {% endblock %}
+
+## Sex
+
+Society can only, and needs to, operate in a sexless environment. Once sex enters the picture, it introduces all the emotional trauma and baggage that a person (people) carry and their relationship with power and money.
+
+This is the connection between the internal and the external.

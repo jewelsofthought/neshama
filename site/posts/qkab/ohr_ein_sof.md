@@ -112,16 +112,13 @@ We begin with the **Tzimtzum Aleph**, the First Constraint, which occurred when 
 
 In all of this resides a mystery for it says that the reason for all of this, for all of creation, was “the revelation of Its Names and Appellations!" Why would It need us to “reveal” Its names and appelations? What does it really mean, for the Upper Simple Light to “reveal”? Is it by us “revealing” Its names, It is revealed? Is it like a marriage? As you spend more time together, you understand the other, and thus your spouse is “revealed” in the same way?
 
-    1. Know, that before the Emanations were emanated and the Creations created, an Upper Simple Light[^1] had filled the entire reality.[^2] There was no vacant place,[^3] such as empty Air[^4] or a Space,[^5] but everything was filled with that simple, boundless Presence of Light.[^6] There was no idea of the Beginning nor of the End.[^7] All was One, Simple Light,[^8] completely balanced,[^9] called the Infinite Light, _Ohr Ein Sof_. [^10]
+1. Know, that before the Emanations were emanated and the Creations created, an Upper Simple Light[^1] had filled the entire reality.[^2] There was no vacant place,[^3] such as empty Air[^4] or a Space,[^5] but everything was filled with that simple, boundless Presence of Light.[^6] There was no idea of the Beginning nor of the End.[^7] All was One, Simple Light,[^8] completely balanced,[^9] called the Infinite Light, _Ohr Ein Sof_. [^10]
 
 Here we are describing in more detail what actually occurred at this momentous event, the one we might today know as the Big Bang Theory of Creation. It begins by emphasizing the fact that before anything emanated, or was created, there was only the Upper Simple Light, אור עליון פשוט, which filled everything, leaving no space vacant. This light expanded from the Vitality (strength, force, power) of the Creator.
 
 > Let me remind you that all the names and appellations used in the wisdom of the Kabbalah are never referring to the Vitality of the Creator but only to the Light that expands (or emanates) from Its Vitality. We are unable to utter a single word regarding Its Power, for the rule is that anything we do not attain, we do not know its name. Remember that and you will not fail!
 
-## Footnotes
-
-[^1]: Upper Simple Light: אור עליון פשוט. It refers to the Light that expands from the Vitality, [Strength, power, force] of the Creator.
-[^2]: What reality exist here, before any World had been created, that the Upper Light could fill? All the Worlds and all the Souls, that exist and that are destined to be created with all their incidents until the end of their correction, are all included in the Void, Ein Sof, in their full measure and glory.
+---
 
 There are two rudiments concerning these Worlds and Souls, we should discern in reality before us:
 
@@ -151,3 +148,8 @@ Furthermore, this substance determines the Importance, _Gadlut_ [greatness, emin
 For that reason we call this will to receive the “Vessel of Reception” of the _Ne’etzal_. It is regarded as its substance and the reason that it stopped being regarded as a _Ma'atzil_ and was denominated as a Ne’etzal. The Ne’etzal is defined by a substance that does not exist in the Ma'atzil whatsoever, for there is absolutely no will to receive in the Ma'atzil.
 
 There are four degrees in this substance, from Smallness, _Katnut_ [smallness, insignificance] to Greatness, _Gadlut_ of reception. The fourth degree, being the Greatness of the reception, is complete only in the Void, _Ein Sof_, before the Worlds were created. It is the only one that was subject to the Constraint, _Tzimtzum_, and we will clarify henceforth that it was emptied of every Flow that it had from the Void, _Ein Sof_, and remained a vacant Space. This is what the Sage means when he says that before the World was created this vacant Space did not exist.
+
+---
+
+[^1]: Upper Simple Light: אור עליון פשוט. It refers to the Light that expands from the Vitality, [Strength, power, force] of the Creator.
+[^2]: What reality exist here, before any World had been created, that the Upper Light could fill? All the Worlds and all the Souls, that exist and that are destined to be created with all their incidents until the end of their correction, are all included in the Void, Ein Sof, in their full measure and glory.

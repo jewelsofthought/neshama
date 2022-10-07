@@ -8,6 +8,7 @@ modified: 2022-05-31
 
 1. [3 splendours (pp 90,96)](#3-splendours-pp-9096)
 2. [The kabbalist](#the-kabbalist)
+3. [Kabbalah is a way of life.](#kabbalah-is-a-way-of-life)
 
 ## 3 splendours (pp 90,96)
 
@@ -57,3 +58,9 @@ A kabbalist does nothing... except perhaps pray &ndash; with all his heart and s
 He performs the acts necessary to maintain his physical being, but only in order to pursue his calling and work in the upper worlds.
 
 Working as close to Source as he is able to, he has no apparent effect on anything tangible. As we are all connected to this source, his work can affect anything and everything. However, how long it will take till his actions manifest some effect, depends on many factors, both known and unknown.
+
+## Kabbalah is a way of life.
+
+In the past, in order to learn Kabbalah, or participate in this way of life, one had to be fully immersed in the Jewish tradition. Presently, it seems, that Kabbalah is often used as a means of drawing new age proponents into the Jewish fold. I'm afraid I don't really live up to the "requirements" of the modern (or ancient) Kabbalistic meme. However, I feel a connection with **HaShem**, _Adonai_ and the _Elohim_ almost constantly, hovering in the space between the immanent and the transcendent &ndash; in dialogue with both. Kabbalah has helped me to find a language with which to express that, and a means with which to come to terms with my "practice" thereof.
+
+But living as a singular Jew in the mountains of the Eastern Cape&mdash;"frontier" country as it is called&mdash;brought here, btw, by following the flame by night and the cloud by day, I suddenly stepped into my own dream, and found my practice slipping. That space being filled by sublime moments alone and in communion with the greater "I" that surrounds all.

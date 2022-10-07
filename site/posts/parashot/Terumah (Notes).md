@@ -6,11 +6,35 @@ tags:
 date: 2021-02-02T04:16:14.428Z
 ---
 
+## Terumah in depth
+
+> Speak to the children of Israel, that they should take to Me a terumah (“uplifting”) (Exodus 25:2)
+
+Every created entity has a spark of G‑dliness within it, a pinpoint of divinity that constitutes its “soul,” its spiritual function and design. When we utilize something to serve the Creator, we penetrate its shell of mundanity, revealing and realizing its divine essence. Thus we elevate these “sparks,” reuniting them with their Source.
+
+(The Chassidic Masters)
+
+### Listening, speaking, and acting
+
+Rabba Sara Hurwitz from Yeshivat Maharat,
+
+The image of one bell, one mouth, surrounded by two eyes, or two pomegranates is what the _Gemara_ (_Megillah_ 18a) means when it says, _“A word is worth one sela (coin). Silence is worth two.”_ Perhaps the _Gemara_ alludes to the speak-half-as-much-as-you-know rule that the Alshich finds in the double pomegranates and the two-eyes-one-mouth; for every word you speak, make sure it is accompanied by two measures of silence. Only half of what we think in our heads, should actually be articulated.
+
+So, sometimes, we must be called upon to ring clearly, and make our views known, like a bell. But other times, silence must reign. We must hold back the thoughts that could be potentially hurtful or unhelpful. There is tremendous power in silence.
+
+From the tension of speaking and silence, emerges action.
+
+This triad of speaking, silence and action is a methodology that we must each employ when advocating for change. For righting wrongs, and bringing justice to our world. When we try to better our world, and continue God’s creative work, we must know when to speak out. We must know when not to talk, to remain silent, and control the anger, and frustration within us. And then, we must know when to act. To turn the sounds and silences into action.
+
+There is a time to talk out; a time to remain silent; a time to act.
+
+---
+
 ## Terumah "uplifting"
 
-      They shall make for Me a sanctuary, and I will dwell within them (25:8)
+> They shall make for Me a sanctuary, and I will dwell within them (25:8)
 
-      The verse does not say “and I will dwell within it,” but “and I will dwell within them” &mdash; within each and every one of them.
+The verse does not say “and I will dwell within it,” but “and I will dwell within them” &mdash; within each and every one of them.
 
 (Shaloh)
 
@@ -34,7 +58,7 @@ G-d (etc) is the name of everything that is NOT man-made. This includes nature, 
 
 ## אַמָּה (Ammah) "a cubit"
 
-Derived from אם - mother.
+Derived from <b>אם </b>- mother.
 
 This word we have rendered as a cubit has a strange derivation. I realise it would be bending the accepted meaning, but what if it did mean something else. Perhaps there is other information we can receive from this word - not just 17.5 inches long...
 
@@ -65,5 +89,3 @@ How long was an _Ammah_ anyway, if it was a measurement....
   **ארון** (_aron_) - Altar
 - empty, unless **HaShem** fills it.
 - blood services and sacrifices take place.
-
-## Ancient Jewish Compass - AME

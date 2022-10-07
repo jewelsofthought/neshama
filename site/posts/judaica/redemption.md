@@ -2,8 +2,12 @@
 title: Redemption
 description: Judgement of body and soul
 tags: [neshama]
-date: 2010-01-06T04:11:23.542Z
+date: 2010-01-18T04:11:23.542Z
 ---
+
+1. [Speak of redemption:](#speak-of-redemption)
+2. [End of Days](#end-of-days)
+3. [Meaning](#meaning)
 
 ## Speak of redemption:
 

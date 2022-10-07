@@ -46,8 +46,6 @@ date: 2022-01-31T17:26:16.218Z
 ./qkab/pure_narcissism.md
 [awken to consciousness](../consciousness.md)
 [Being in the Flow](../flow.html)".
-[unimaginable amount of finites](infinity.html)
-./qkab/math-numbers/line.md
 [Platonic solids](platonic_solids.html)
 [Hebrew letters](hebrew.html).
 [Zero to Hero](zero2one.html)

@@ -3,7 +3,7 @@ title: Consciousness, et. al.
 description: Consciousness - God or AI?
 tags:
   - consciousness
-date: 2008-01-01T08:32:16.154Z
+date: 2008-01-03T20:18:16.154Z
 modified: 2022-01-30T19:46:47.668Z
 ---
 

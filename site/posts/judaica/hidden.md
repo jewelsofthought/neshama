@@ -2,7 +2,7 @@
 title: The Glory
 description: The truth is hidden, there for us to find
 tags: [external]
-date: 2002-01-01T16:31:18.856Z
+date: 2010-01-08T06:31:18.856Z
 modified: 2022-07-06
 ---
 

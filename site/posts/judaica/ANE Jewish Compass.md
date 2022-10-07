@@ -2,8 +2,8 @@
 title: ANE Jewish Compass
 description: A compass requires a firmament.
 tags: null
-date: 2010-01-01T04:11:23.542Z
-modified: 2022-03-02T04:13:57.641Z
+date: 2010-01-01T14:11:23.542Z
+modified: 2022-01-02T04:13:57.641Z
 ---
 
 ## Ancient Near-East Compass

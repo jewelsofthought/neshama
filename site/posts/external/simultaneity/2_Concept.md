@@ -13,9 +13,4 @@ This does not mean, however, that he already possessed a distinctive verbal expr
 
 ---
 
-**Footnotes**
-
-[^1]:
-    B. L. Whorf, “Science and linguistics,” _Technical Review_ 42, 229–233, 247–248; reprinted in J. B. Carroll (ed.), _Language, Thought, and Reality—Selected Writings of Benjamin Lee Whorf_ (Cambridge, Massachusetts: MIT Press; New York: Wiley, 1956), pp. 207–219.
-    2 Ibid., p. 216.
-    3 Ibid., p. 216 (emphasis added).
+[^1]: B. L. Whorf, “Science and linguistics,” _Technical Review_ 42, 229–233, 247–248; reprinted in J. B. Carroll (ed.), _Language, Thought, and Reality—Selected Writings of Benjamin Lee Whorf_ (Cambridge, Massachusetts: MIT Press; New York: Wiley, 1956), pp. 207–219.

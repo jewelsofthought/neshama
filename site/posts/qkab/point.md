@@ -6,13 +6,20 @@ date: 2015-01-01T19:12:16.154Z
 modified: 2021-12-28T13:23:06.287Z
 ---
 
-![Point, line & circle".](/posts/img/qkab/point.png)
-
 In the Rosicrucian Beacon, Dec. 2000, The Hieroglyphic Monad of Dr. John Dee by Paul Goodall, FRC.
 
 > Theorem 1: _... the simple representation of things is achieved by the line and circle, but a circle cannot manifest without a line, and a line cannot come into existence without a point, a monad..._
 
 > Theorem 2: _The monad represents the initial point of creation out of which the universe manifests itself, followed by projection into a line (rectilinear movement), and then the formation of the circle (circular movement)._
+
+
+<figure style="float:left">
+<img src="/posts/img/qkab/point.png" alt="Point & Line" width="300">
+<figcaption>
+<span style="font-size: 80%">Click here for fuller explanation of the <br /><a href="/posts/img/neshama/full_point.png" alt="Full evolution of the point">Point & Line</a>.</span>
+</figcaption>
+</figure>
+
 
 The circle and the line came into existence together. The point, the monad that he speaks of, is a “point in infinity” – which is a concept we cannot clearly define in terms of the concept of this Creative Will, that we call infinity. For in order to speak of a point that emerges, we have to already have a division of the infinite oneness, else it could not emerge. So the point, the circle and the line emerge together.
 

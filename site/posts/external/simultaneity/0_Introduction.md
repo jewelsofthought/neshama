@@ -57,8 +57,6 @@ If two events are to be represented as occurring in succession, then—paradoxic
 
 ---
 
-**Footnotes: Introduction**
-
 [^5]: W. Heisenberg, _Physics and Philosophy_ (New York: Harper & Row, 1958), p. 110
 [^7]: Quoted by A. Fölsing, _Albert Einstein: a Biography_ (New York: Viking, 1997), p. 176;
 [^8]: J. B. Barbour, _Absolute or Relative Motion?_ (Cambridge: Cambridge University Press, 1989), vol. 1, p. 676.

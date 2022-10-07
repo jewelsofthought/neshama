@@ -9,8 +9,9 @@ modified: 2022-02-01T13:46:16.974Z
 
 # TODO
 
-inside-outside.png - trinity
+<p>
 lightning-bolt.png - tree of life diagram stuff
+</p>
 
 ---
 
@@ -31,23 +32,22 @@ lightning-bolt.png - tree of life diagram stuff
 15. flow.html - [ qkab/math-numbers/line ] { flow state }
 16. freedom.html - [ tolnet/old/tae_questions#web ] { What is "freedom"? }
 17. golden_shadow.html [neshama/bg002 - Masc & Fem.md#upper--lower]
-18. infinity.html - [ qkab/math-numbers/line ]
-19. intention.html - [ qkab/chashmal ] { What will be the outcome? }
-20. intention.html - [ qkab/outcome.md#intentionoutcome ]
-21. kabbalah_intro.html - [ qkab/energy#fundamental-property ]
-22. light_dark.html - [ tolnet/sustainable ]
-23. networks.html - [ tolnet/old/tae_questions#a-web-of-communities ] { graphs, networks }
-24. new_energy.html - [ tolnet/old/tae_questions#concept ] { energy, renewables, solar, biodiesel, etc}
-25. objectification.html [neshama/bg002 - Masc & Fem.md#upper--lower]
+18. intention.html - [ qkab/chashmal ] { What will be the outcome? }
+19. intention.html - [ qkab/outcome.md#intentionoutcome ]
+20. kabbalah_intro.html - [ qkab/energy#fundamental-property ]
+21. light_dark.html - [ tolnet/sustainable ]
+22. networks.html - [ tolnet/old/tae_questions#a-web-of-communities ] { graphs, networks }
+23. new_energy.html - [ tolnet/old/tae_questions#concept ] { energy, renewables, solar, biodiesel, etc}
+24. objectification.html [neshama/bg002 - Masc & Fem.md#upper--lower]
     - privacy_illusion.html ...
-26. outcome.html - [ qkab/outcome.md#intentionoutcome ]
-27. spirit.html - [ qkab/consciousness ] { The spiritual experience is optional }
-28. superior_man.html [neshama/bg002 - Masc & Fem.md#upper--lower]spirit - [ tolnet/old/tae-questions ] { body/spirit, inner/outer, manifest/unmanifest }
-29. sustainable.md - [ tolnet/old/tae_questions ] { sustainable/co-dependent }
+25. outcome.html - [ qkab/outcome.md#intentionoutcome ]
+26. spirit.html - [ qkab/consciousness ] { The spiritual experience is optional }
+27. superior_man.html [neshama/bg002 - Masc & Fem.md#upper--lower]spirit - [ tolnet/old/tae-questions ] { body/spirit, inner/outer, manifest/unmanifest }
+28. sustainable.md - [ tolnet/old/tae_questions ] { sustainable/co-dependent }
     - codependent.html...
-30. systems.html - [ tolnet/old/tae_questions#complex ] { complex systems }
-31. qkab/waves.html - [ tolnet/old/tae_questions#complex ]{ frequency, vibrations, waves}
-32. creation.html - [ qkab/cards.md#desire ] { zero to one }
+29. systems.html - [ tolnet/old/tae_questions#complex ] { complex systems }
+30. qkab/waves.html - [ tolnet/old/tae_questions#complex ]{ frequency, vibrations, waves}
+31. creation.html - [ qkab/cards.md#desire ] { zero to one }
 
 ---
 

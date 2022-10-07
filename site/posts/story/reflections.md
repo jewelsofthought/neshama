@@ -42,7 +42,7 @@ Let us begin from the fact that there are two possible aspects to look at anythi
 
 This brings us to the society in which we live, which is a human based experience of this. It is the controls necessary for a smoothly running society, as well as the methods of maintaining control by the power elites of said society. That is the reason they would like us to think of them as gods, or the offspring of gods, as to become confused and think that they are expressing the "will from above", which cannot be true, as there is only One who expresses this will from above and all the rest are only His servants.
 
-![Inside-outside](/posts/img/qkab/trinity.png)
+![Inside-outside](/posts/img/qkab/inside-outside.png)
 
 The field that has to some extent investigated this perspective is projective geometry. Rudolf Steiner's book on the subject is one that which approaches it from a more esoteric viewpoint, as well as being more accessible to the non-mathematically inclined. This geometry looks at objects from the infinite perspective, whereas the geometry that we are most familiar with, viewed an object from the viewpoint of the observer, and the infinite resided in the distance. This is, what might be described as, an egotistical viewpoint - just as our forefathers viewed the universe from the earth outward, believing that it was the "centre" of the universe. This is normal behaviour, starting from the place that we are at, the place that we know of. Our experience begins with us as the center, and then, through experience, we encounter the “other”, or “outside” objects. This is the general unfolding of our human experience.
 

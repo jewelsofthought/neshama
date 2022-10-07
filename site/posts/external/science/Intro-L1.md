@@ -7,14 +7,11 @@ tags:
 date: 2005-03-04T17:20:34.413Z
 ---
 
-1. [Shaun Williams, PhD](#shaun-williams-phd)
-2. [Matter and Energy](#matter-and-energy)
-3. [Physical Properties of Matter](#physical-properties-of-matter)
-4. [Energy](#energy)
+1. [Matter and Energy](#matter-and-energy)
+2. [Physical Properties of Matter](#physical-properties-of-matter)
+3. [Energy](#energy)
 
-## Shaun Williams, PhD
-
-> [Professor of Chemistry](http://shaunmwilliams.com)
+> [Shaun Williams, PhD](http://shaunmwilliams.com) Professor of Chemistry
 
 ## Matter and Energy
 

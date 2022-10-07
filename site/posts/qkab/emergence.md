@@ -21,7 +21,7 @@ This is connected with ![The Principle of Five](/posts/img/qkab/the%20principle%
 <h3>1.  Balanced tree</h3>
 
 <figure style="float:left">
-<img src="/posts/img/qkab/cube_of_emergence.svg" alt="Balance" width="100">
+<img src="/posts/img/qkab/balanced_tree.svg" alt="Balance" width="100">
 <figcaption>Perfect Balance</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ This is connected with ![The Principle of Five](/posts/img/qkab/the%20principle%
 <h3>2.  The emergence, a birth</h3>
 
 <figure style="float:left">
-<img src="/posts/img/qkab/1st_emergence.svg" alt="Balance" width="100">
+<img src="/posts/img/qkab/1st_emergence.svg" alt="Balance" width="200">
 <figcaption>In the beginning</figcaption>
 </figure>
 
@@ -208,3 +208,4 @@ All the rest is just preparation.
 connected to Chassidic Masters!
 
 ![Full engine of emergence](/posts/img/qkab/emergence_full.svg)
+

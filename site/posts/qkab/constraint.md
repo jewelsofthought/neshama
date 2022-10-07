@@ -14,11 +14,18 @@ modified: 2022-01-30T19:47:43.949Z
 
 That it takes an infinite amount of energy to produce a finite packet of energy is an expression of constraint (_tsimtsum_) inherent in this world&mdash;which is essentially a world of constraints or limits. Because in order for the finite to emerge from the infinite, the infinite has to constrain itself! Creating a world in which the infinite expresses its finiteness, or even more directly, as an expression of the finite inherent in the infinite.
 
+$$\infty$$&nbsp;$$\longrightarrow_{\infty^-}$$&nbsp;$$\epsilon$$
+$$\epsilon$$&nbsp;$$\longrightarrow_{\infty^+}$$&nbsp;$$\infty$$
+
+Any form of order requires constraint.
+
 ## Power exchange
 
 Another view of mercy as the infinite constraining itself to become finite, to allow the finite to exist. Constraint being another aspect of Love.
 
 And love always has an element of power (or energy). We speak of the power exchange inherent in all relations, because in order for there to be any relationship, or flow of energy, there has to be a difference, an energy differential between the two interacting elements, else there can be no exchange.
+
+This becomes a journey that is an exploration of power in love and love in power: _Chesed_ & _Gevurah_
 
 ## The Veil
 
@@ -38,6 +45,6 @@ Everything thus leads to G!d.
 
 It turns out, once again, paradoxically, that the only possible meeting place of the finite and infinite is 0, zero, nothing&mdash;the point of origin. By removing all the extraneous effects, all the coverings, letting go of self and ego and becoming like a hollow bone, it is possible to return to my point of origin, and in a state of Nothing attain an experience of the Infinite. As has been mentioned before, I can try and expand to embrace the infinite, or fill myself up with everything I can, and never reach the end, the fulfilment. The desire, the drive to reach the goal, the end, will only become more extreme, and soul-destroying, as your being become more and more covered in material.
 
-Only way to expand beyond your finite constraint, and experience the Infinite, is to encounter the Zero point, the point of simultaneity, where through annihilation you touch the Infinite pluroma. Death is the only doorway to life – not physical death! The alternative is to try and become infinite. But no part of the finite can ever contain the infinite, even if it believes it can. The only infinite is infinite desire – which means that it is a desire that can never be assuaged – and that is where this desire ends up, in an infinite loop – until all our energy will be devoted to the fulfilment (i.e practise) of that desire.
+Only way to expand beyond your finite constraint, and experience the Infinite, is to encounter the Zero point, the point of simultaneity, where through annihilation you touch the Infinite pleroma. Death is the only doorway to life – not physical death! The alternative is to try and become infinite. But no part of the finite can ever contain the infinite, even if it believes it can. The only infinite is infinite desire – which means that it is a desire that can never be assuaged – and that is where this desire ends up, in an infinite loop – until all our energy will be devoted to the fulfilment (i.e practise) of that desire.
 
 That is the discipline: Turning inward, through restraint. Coming to terms with your impulse ... the pulse from below. And by meeting it, and acknowledging it, turning into the life affirming/positive energy.

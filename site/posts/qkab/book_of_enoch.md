@@ -30,7 +30,7 @@ For those who are empiricists, who term themselves as "realists", basing their c
 
 However, if we trace the spiritual "evolution" from the Infinite Nothingness, the Void, to which we apply the No-Name, using the appelation _HaShem_, the (unpronounceable) Name, it becomes clearer.
 
-It might help to think of this soul/_nefesh_ journey that I am refering to, as a circle. It is essentially, in the words of T.S. Elliot, "to know" the place for the first time.
+It might help to think of this soul/_nefesh_ journey that I am referring to, as a circle. It is essentially, in the words of T.S. Elliot, "to know" the place for the first time.
 
 <blockquote class="poem">
 We shall not cease from exploration<br />

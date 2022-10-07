@@ -8,8 +8,7 @@ date: 2022-04-15T00:00:00.000Z
 1. [Omer Tradition](#omer-tradition)
 2. [Unfolding of Awareness](#unfolding-of-awareness)
 3. [Meditation Journal](#meditation-journal)
-   1. [Using this Book](#using-this-book)
-4. [Footnotes](#footnotes)
+4. [Using this Book](#using-this-book)
 
 > The Lubavitcher Rebbe, one of the great sages of the modern era, explains that the concept of _Sefirat HaOmer_ is a 49-day process of refining the darkness of the world.
 
@@ -76,11 +75,11 @@ process of choosing more significant intentions for our relationships, our famil
 
 A journey which has clear intentions helps manifest those intentions. Discover your goals as your journey continues, and state them as affirmations along with those already presented here. Write your goals as if you already had them. Visualise yourself coming into the “land” of your greater vision.
 
-### Using this Book
+## Using this Book
 
 This book is designed to allow the greatest flexibility possible while at the same time sustaining a clear focus on a process of authentic spiritual growing. It provides an invitation to personal spiritual expansion that can be used at any time. You can count back fifty days from a particularly significant moment that is approaching, like a wedding ceremony, birthday, or anniversary, and use the process to encourage greater wakefulness leading to that time. Some have used it to prepare for surgeries, or to support physical healing. Still others have
 found it helpful to simply open the book at random and "check-in" to the energies and meditations that they discover there.
 
-## Footnotes
+---
 
 [^1]: This non-matching of the seasonal festivals and celebrations of our faith is something that those of us that live in the Southern Hemisphere struggle with. How do we celebrate a harvest festival when it is autumn. If I take the _Omer_ as being a universal story of being released from the bondage of the winter, how do I deal with the fact that we are entering our period of winter bondage?

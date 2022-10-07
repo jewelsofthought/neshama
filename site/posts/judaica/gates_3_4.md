@@ -4,13 +4,13 @@ description: Gates 3 & 4; Spheres 8 & 7.
 author: Gikatilla
 article: Sha'are Orot
 tags: [external, gikatilla]
-date: 2010-12-02T14:58:59+02:00
+date: 2010-01-07T01:28:59+02:00
 modified: 2022-06-27T08:50:46.274Z
 ---
 
-Hod (G3) :: (ET) Elohim Tzvaot : אלוהים צבאות
-Netzach (G4) :: (YT) YHVH Tzvaot : יהוה צבאות
-Together: (YET) :: YHVH Elohim Tzvaot : יהוה אלוהִים צבאות
+Hod (Gate 3) :: [ET] Elohim Tzvaot : אלוהים צבאות
+Netzach (Gate 4) :: [YT] YHVH Tzvaot : יהוה צבאות
+Together [YET] :: YHVH Elohim Tzvaot : יהוה אלוהִים צבאות
 
 - both names within the same gate,
   each having a separate gate
@@ -39,8 +39,8 @@ YET
 
 El Chai:
 
-- includes all -> attribute _kol_ כל
-- when _El-Chai_ pours _Adonai_, known as/included in kol
+- includes all -> attribute _(kol)_&nbsp; כל
+- when _El-Chai_ pours _Adonai_, known as/included in _kol_
 - when _Adonai_ contained in _kol_, blesses all creation
 - _kol_ is all creation [through _Adonai_ which sustains each creature]
 - from the power of _kol_, _kol_ is brought forth

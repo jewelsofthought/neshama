@@ -19,12 +19,12 @@ modified: 2022-01-11T17:10:18.179Z
 
 ## Gimel - the third letter
 
-_Gimel_ teaches us
+_Gimel_ ג teaches us
 that two opposing forces must be blended to create
 a third, more complete, more perfect entity.
-Emanating from the singularity of the Aleph,
-Combining with the duality of the Bet,
-comes the synthesis known as Gimel.
+Emanating from the singularity of the Aleph א,
+Combining with the duality of the Bet ב,
+comes the synthesis known as Gimel ג.
 Not the one, nor the other,
 but a greater perfection through the synthesis
 of the Oneness,
@@ -45,7 +45,9 @@ In order to have any form requires energy. It needs to consume energy to stay "i
 
 ### Trinity
 
-![trinity](/posts/img/qkab/trinity.png)
+![trinity](/posts/img/qkab/inside-outside.png)
+
+Here we have the inside, the outside and the skin that differentiates between the two. If there is an upper and a lower, then there is a "line" that is neither upper or lower that marks the place at which the upper becomes the lower and vice versa.
 
 ### Three's
 

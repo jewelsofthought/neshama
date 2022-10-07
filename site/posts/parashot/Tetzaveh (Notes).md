@@ -9,6 +9,28 @@ modified: 2022-03-02T04:46:25.572Z
 
 ## Tetzaveh
 
+### In depth
+
+The word _tetzaveh_, “you shall command,” also means “you shall connect” and “you shall bond.”
+
+---
+
+_That they bring to you pure olive oil . . . to raise an everlasting lamp . . . from evening to morning (27:20–21)_
+
+For such is our mission in life: to impart the eternity and perfection of the Divine to a temporal world, and to do so not by annihilating or overwhelming the world’s temporality and diversity, but by illuminating its every state and condition&mdash;from “evening” to “morning”&mdash;with the divine light.
+(Lubavitzer Rabbi)
+
+---
+
+_Pure olive oil, crushed for the light (27:20)_
+
+Just as the olive yields light only when it is pounded, so are man’s greatest potentials realized only under the pressure of adversity.
+(The Talmud)
+
+---
+
+### Notes
+
 28:30] Placement of _Urim_ and _Tumim_ **into** breastplate, upon Aaron's heart.
 
 28:17-20] Names of stones: _odem_, _pitoah_, _barekes_, _nophech_, _sapir_, _yahalom_, _tarshish_, _shoham_, _yashfeh_.

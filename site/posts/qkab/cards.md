@@ -58,6 +58,7 @@ modified: 2022-05-14T16:31:30.941Z
    18. [Born](#born)
    19. [Complexity (ToL)](#complexity-tol)
    20. [Perception](#perception)
+   21. [D.T. Suzuki (Notes: P21)](#dt-suzuki-notes-p21)
 
 # Chapter Outline
 
@@ -448,3 +449,14 @@ A billionaire loses a billion, and has to live in his mansion on a measly millio
 ## Perception
 
 All perception takes place in a straight line between the recipient and perceived source of the event. Does the response have to be straight line as well? Would that be the simplest and most direct. But is it the best?
+
+## D.T. Suzuki (Notes: P21)
+
+_Keter_, _Ein Sof_ = \_satori
+|chokhmah|binah|
+|---|---|
+| בינה | חוכמה|
+|wisdom|understanding|
+|prajna|vijnana|
+|intuitive knowing|discoursive knowledge
+|grasp reality in its oneness|analyse information: subject & object|

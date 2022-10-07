@@ -1,8 +1,8 @@
 ---
 title: Book of Beliefs & Opinions
 description: Rabbi Saadia Gaon
-tags: null
-date: 2010-01-02T04:11:23.542Z
+tags: [todo]
+date: 2010-01-02T12:11:23.542Z
 modified: 2022-03-02T04:12:05.627Z
 ---
 
@@ -23,9 +23,6 @@ Once G-d miraculously transforms the nature of simple elements in joining them t
 - breaks in customary sequence = miracle
 - Doctrine of Miracles in a Theory of Nature - Mu'tazite Al-Nazzam
 -
-- trustworthiness of prophet hinges on the argument that the only reasonable explanation for their occurrence is as an agent of G-d.
-- agents of man -> angels (as signs of the message) - difficult to find and trust the prophet, and thus the prophetic messages
--
 - ordinary exegete - abrogate
 -
 - miracles -> revelatory laws - abrogation
@@ -34,7 +31,6 @@ Once G-d miraculously transforms the nature of simple elements in joining them t
 -
 - Created glory - Kavod nivra
 - Speech/voice (dibbur/qol)
-- Hasidei Ashkenaz
 -
 - Eternal voice (dalima)
 - veridical dreams
@@ -66,7 +62,7 @@ Once G-d miraculously transforms the nature of simple elements in joining them t
 
 - _Beriah_, _Yetzirah_, _Assiyah_ = Thought, Speech, Deed
 - Thought = internal; unified with thinker
-- Speech = intermittent; directed outward to another; 'limitation of thought/
+- Speech = intermittent; directed outward to another; 'limitation of thought'
 - Action = further away (from the "soul", the source of the experience); deeds exist independently
 - Angels : Comprehend Divine; bounded, ordained.
 - Man: Greater potential (for Good/Evil); Given choice - the blessing and the curse.
@@ -79,10 +75,13 @@ Once G-d miraculously transforms the nature of simple elements in joining them t
   - _Vav_: Has _Yud_ on top, ascent to אין סוף
 - _Het_:
   was Yud, enclosed, representing 3d.
-  > [NOTE: the image is of the _Yud_, the essential essence, manifesting. Then as the it grew legs and a head, and became the _Chet_. But, upon the _Yud_ manifesting, there was a space of not-_Yud_, that had to be as well. So the _heh_ has the not-_Yud_, while the _yud_, has hidden in the _Chet_. Now, when I refer to a space of not-_Yud_, it is the complimentary opposite, which is also known as a portal. By engaging/entangling (entering the space of) the not-_yud_, you can "track/trace" the _Yud_. You could say you enter through the not-_Yud_, and exit through the _Yud_, which is the same place. The mystery here is that only by contemplating the space of the not-_yud_, you can find the _Yud_, which is right there all the time. The mystery continues, because it is not the _Chet_, which is the representation of this, but the _Heh_, which is "missing" the _Yud_. But the real _Yud_, the one we are referring to here, is "hidden", or cannot be seen with our eyes, so it appears as an invisible _Yud_, one that only those with the right eyes can see, and know that it is the portal to the _Yud_ realm - but has to be approached from the non-_Yud_ space. (Am i mad?) ]
-  > difference between _Chet_ and _Bet_ is the _bet_ is open to the future, while _chet_ is only open below. Thus, the mystery of the _Chet_ is not to "fall" down, but to rise up to the ceiling, and open the _Yud_ portal at the top (left/feminine).
 
-Thus Vav could also be looked at as an ascent (or portal)
+<i>NOTE: the image is of the **yud**, the essential essence, manifesting. Then as the it grew legs and a head, and became the **chet**. But, upon the **yud** manifesting, there was a space of not-**yud**, that had to be as well. So the **heh** has the not-**yud**, while the **yud**, has hidden in the **chet**. Now, when I refer to a space of not-**yud**, it is the complimentary opposite, which is also known as a portal. By engaging/entangling (entering the space of) the not-**yud**, you can "track/trace" the **yud**. You could say you enter through the not-**yud**, and exit through the **yud**, which is the same place. The mystery here is that only by contemplating the space of the not-**yud**, you can find the **yud**, which is right there all the time. The mystery continues, because it is not the **chet**, which is the representation ofthis, but the **heh**, which is "missing" the **yud**. But the real **yud**, the one we are referring to here, is "hidden", or cannot be seen with our eyes, so it appears as an invisible **yud**, one that only those with the right eyes can see, and know that it is the portal to the **yud** realm - but has to be approached from the non-**yud** space.
+
+The difference between **chet** and **bet** is the **bet** is open to the future, while **chet** is only open below. Thus, the mystery of the **chet** is not to "fall" down, but to rise up to the heavens, and open the **yud** portal at the top (left/feminine).
+
+Thus **vav** could also be looked at as an ascent (or portal).
+</i>
 
 ## Beliefs & Opinions (cont)
 
@@ -99,7 +98,7 @@ Thus Vav could also be looked at as an ascent (or portal)
 
 Argument for intelligent design is the fact of a result not being the optimum one. If counter with "perhaps in some greater framework..."... then this greater framework much possess greater intelligence to.
 
-The Word of G-d is Speech -the thought made given voice, made manifest&mdash;which is the process of _Tzimtzum_. Which is the descent and flow of the Light, or life force, from the upper planes to the lower by a series of contractions. This density continues to occur until it reaches a density that is sufficient for manifest life to appear.
+The Word of G-d is Speech&mdash;the thought given voice, made manifest&mdash;which is the process of _Tzimtzum_. Which is the descent and flow of the Light, or life force, from the upper planes to the lower by a series of contractions. This density continues to occur until it reaches a density that is sufficient for manifest life to appear.
 
 Yet there seems to be a critical threshold beyond which it begins to affect the life negatively, and enters into a realm which we call _Sitra Ahara_, the Other. This "threshold" could be identified by the "Light becoming Dark", which means that it is less. And that would make sense - as the Light travels further and further from the source, it will get less. This densification of the Light is called _kelipot_.
 

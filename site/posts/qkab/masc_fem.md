@@ -18,6 +18,8 @@ modified: 2022-01-30T19:58:00.956Z
 5. [Desire for Power](#desire-for-power)
 6. [Transform](#transform)
 7. [Limits](#limits)
+8. [Sexual realm](#sexual-realm)
+9. [Sex with](#sex-with)
 
 ## Male & Female
 
@@ -89,3 +91,31 @@ The masculine’s tendency is towards nothingness, annihilation, death. His anal
 Adam, the primordial man, is both male and female. Jung states that the purpose of human life, is the “union of anima and animus". His name is derived from the name of the earth, _adamah_, which is, in essence '$$Adam + h$$'. The ‘$$h$$’ represents the breathe of G!d, as the earth (אדמה adamah) needed the Divine Breath ($$h$$) in order to live..
 
 A side note: $$h$$ is the symbol for [hydrogen](/posts/qkab/hydrogen.md) - which is the first, and most abundant element in the universe. It is also an essential component of both water and oil, the two liquids that comprise all living cells.
+
+## Sexual realm
+
+The energy fusing with the material is the sexual realm of the upper world. The "descent" of the spirit into manifest form is the expression of the sexual in the spiritual space we are referring to.
+
+For us, the sexual act is a possible entrance into the spiritual. For the woman, when in love, it is. For the man it seems to be more of a descent. The feminine ascends, and the masculine descends. Woman is "filled", man is "emptied". Woman encounters the infinite through the fullness, a fullness that fills the emptinesses that she wrangles with. Man encounters the divine through the emptiness - the emptiness that removes his ego, allowing him to hear the rousing silence.
+
+Woman needs security and a firm foundation to hold her as she traverses the universal space.
+
+## Sex with
+
+Nobody has the right to tell anyone else who they can or cannot have sex with, beyond the natural constraints of sex between adults. If my truth is, in the moment, that my desire for this person is real and soulful, and I do not express that due to guilt, I am not being authentic. I am then acting out of fear&mdash;especially fear of consequences.
+
+What meetings are possible in the angelic realm where actions are true? Where a look, accompanied by a tremor of excitement, can set a soul alight.
+
+## Prayer
+
+Come to terms with my .... nature. Emerge from the closet, so as to say. Live fully expressing the truth of who and what I am, in order to fulfil my purpose in service to my divine nature and my fellow humans.
+
+To spread my wings and fly.
+
+To be able to balance my masculine purpose and feminine desire for union.
+
+To be free of the constraints of the programming of my past (ancestors). To release the constraints that prevent me from being who I really am and express the love and light of my inner being.
+
+Focus on joy in your life, and let G!d take you to the money.
+
+The woma

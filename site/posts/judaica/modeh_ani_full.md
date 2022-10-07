@@ -2,7 +2,7 @@
 title: Modeh Ani - the full version
 description: Every morning, I awaken with Your breath.
 tags: ['neshama', 'poem']
-date: 2010-01-03T04:11:20.542Z
+date: 2010-01-12T11:20:54Z
 modified: 2022-06-05
 ---
 

@@ -88,7 +88,7 @@ My story begins with the one $$i$$ am becoming. The only way to do that is to ex
 
 Another way of looking at it, is that every shape has a positive version and a negative one. For instance the triangle has both an inner triangle, and an outer one. Why is this a positive and a negative? Well, if we think from the perspective of the triangle, then everything inside the triangle is part of triangle, and everything outside of triangle is out of triangle, like $$t+$$ and $$t-$$.
 
-![Pos/Neg triangle](/posts/img/qkab/trinity.png)
+![Pos/Neg triangle](/posts/img/qkab/inside-outside.png)
 
 This other I, we give the concept of 0, or zero - nothingness. Before I existed, what was there? When I don't exist anymore, what is there? So, we signify the other as 0, and the I, the point of existence, as 1. And this point 0, we can also represent as a point, or rather as the non-point (or place).
 

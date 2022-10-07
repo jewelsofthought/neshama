@@ -8,6 +8,7 @@ modified: 2021-11-26T08:30:37.054Z
 
 1. [(in)Finite Beings](#infinite-beings)
 2. [Finite intelligence](#finite-intelligence)
+   1. [Stasis](#stasis)
 
 ## (in)Finite Beings
 
@@ -39,3 +40,13 @@ _{As I mentioned - one of its main drives is to (dis)prove the Infinite's existe
 _2. encounter to unify. meet by acceptance and receptiveness; opening oneself to the Truth. Based on a belief in my Father. That He has not abandoned me. That He guides me, and speaks to me all the time, in His language, the language of_ Chashmal _, which can only be heard in silence._
 
 and then fall back. An ever repeating tower of Babel. That, too, is [the cycle that lives in everything](oroborus.html), especially the living. Our breath, the day, the very cosmos itself. The endless cycle of Samsara, gain and loss, expand/contract, transmit/receive.
+
+### Stasis
+
+If it is dead, this stasis is relatively stable, with a very small amount of energy being transferred to and from its environment.
+
+However, if it is "alive", there is a more active interchange &ndash; which could even be judged by measuring the energy of these interactions. In other words, one could even judge whether a "thing" is alive or dead by the amount of energy that is being transferred between it and its surroundings.
+
+As a result of this it requires a specific and ongoing energy input. In order to survive, the form needs nourishment from the surroundings. Thus to be alive has an inherently destructive aspect that is seldom taken into account as an important aspect of the full energy interaction.
+
+Thus it is inevitable, in a purely commercial situation, that eventually anything alive would become a liabiltiy. Anything that wished to live an autonomous existence would be looked at as useless. That is why there is the continuous destruction of the ancient, of the environment, and now of people themselves.

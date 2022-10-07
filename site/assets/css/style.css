@@ -18,7 +18,7 @@
   }
 }
 
-.footnotes {
+.footnote {
   font-size: 80%;
 }
 
@@ -29,9 +29,11 @@
   padding-inline-start: 15px; /* padding-left in latin, padding-right in hebrew */
   font-size: 120%;
   font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  font-weight: bold;
 }
 
 .blog-post blockquote p:dir(ltr) {
+  font-weight: normal;
   font-style: italic;
   margin-top: 0rem;
   margin-bottom: 0rem;
