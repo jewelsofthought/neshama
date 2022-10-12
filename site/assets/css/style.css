@@ -18,7 +18,7 @@
   }
 }
 
-.footnote {
+.footnotes {
   font-size: 80%;
 }
 
@@ -38,6 +38,7 @@
   margin-top: 0rem;
   margin-bottom: 0rem;
   font-size: 90%;
+  text-indent: 2rem;
 }
 
 .title.is-4 {
@@ -72,3 +73,4 @@
   margin-right: auto;
   background-color: #b2b5b8;
 }
+
