@@ -111,21 +111,10 @@ $$ z^{-1} = z^\* / z^2 $$
 
 ![graph of complex conjugate](/posts/img/neshama/ccj.svg)
 
-[^1]:
-    NOTE:
-    There is agreement & authority (forced agreement - another form of NCR!). This force is from a belief structure, which is theological in nature. Science, in fact, is just one of those belief structures. That it happens to be the most accepted theology at present, does not make it the only one, or the correct one. Every endeavour that tries to explain the universe will have its inaccuracies - no representation can be encompass the full reality of whatever it is trying to express. There will always be a margin of error&mdash;with G&ouml;del's incompleteness proof in support. That is the fundamental error that all theologies suffer from, and that is the arrogant belief in their absoluteness. Because we live in a world of constant change, walking a thin edge between live and death, we seek to find firm places upon which we can build our lives. And science is very convincing at that, using numbers and esoteric tricks that few mathematicians can even understand&mdash;let alone those who are using these powerful tools.
-
-[^2]:
-    NOTE:
-    Perhaps our counting is our way of maintaining this version of CR. It is similar to singing reality into existence using numbers. If we measure everything, if we quantify the world around us, and begin to value it commercially, we will create a commercial CR.
-
-[^3]:
-    NOTE:
-    I would say that CR is a subset of NCR
-
-[^4]:
-    NOTE:
-    I think this merging of CR & NCR is even more deeply entrenched. We are looking at the vast space of NCR through a CR lens, using CR methodology to interpret what we are seeing. That is the perspective of the inside out, finite to infinite. I believe we need to move to a greater perspective, that of the "large mind", as close as we are able to the infinite. In other words, taking the perspective not from the infinitely small, but from the infinite source that surrounds us. It is like looking at the world outside through a small window.
+[^1]: There is agreement & authority (forced agreement - another form of NCR!). This force is from a belief structure, which is theological in nature. Science, in fact, is just one of those belief structures. That it happens to be the most accepted theology at present, does not make it the only one, or the correct one. Every endeavour that tries to explain the universe will have its inaccuracies - no representation can be encompass the full reality of whatever it is trying to express. There will always be a margin of error&mdash;with G&ouml;del's incompleteness proof in support. That is the fundamental error that all theologies suffer from, and that is the arrogant belief in their absoluteness. Because we live in a world of constant change, walking a thin edge between live and death, we seek to find firm places upon which we can build our lives. And science is very convincing at that, using numbers and esoteric tricks that few mathematicians can even understand&mdash;let alone those who are using these powerful tools.
+[^2]: Perhaps our counting is our way of maintaining this version of CR. It is similar to singing reality into existence using numbers. If we measure everything, if we quantify the world around us, and begin to value it commercially, we will create a commercial CR.
+[^3]: I would say that CR is a subset of NCR
+[^4]: I think this merging of CR & NCR is even more deeply entrenched. We are looking at the vast space of NCR through a CR lens, using CR methodology to interpret what we are seeing. That is the perspective of the inside out, finite to infinite. I believe we need to move to a greater perspective, that of the "large mind", as close as we are able to the infinite. In other words, taking the perspective not from the infinitely small, but from the infinite source that surrounds us. It is like looking at the world outside through a small window.
 
     We represent imaginary numbers as $$ai$$, where $$a$$ is the real part, and $$i$$ the imaginary.
 
@@ -136,10 +125,7 @@ $$ z^{-1} = z^\* / z^2 $$
     This is an additive situation. But the latter part, the $$I$$ part, we can only express in CR terms, the $$i$$ serving to "tag" this part as the imaginary portion. It seems obvious since we can only function in CR, as someone who recognises a CR, the material from which to fashion explanations to NCR would (and could only) be built on CR. For a logician, the only explanation he would accept would be the "logical" one. Any other would be either rejected outright, or put in the "unknown" category&mdash;but not embraced.
 
     Because 3d is 1d lower than 4d (the imaginary realm), we can maintain our hold on reality by dropping the $$\Im$$-axis, and just work in the 3d reality. Especially if we use this $$\Im$$ realm to solve our solution in 3d&mdash;we can pretend it "never" happend&mdash;perhaps we just "imagined" it!
+[^5]: Why the focus on pain? Any event that had an effect on the person. Any "energy" that impacts the receiver would fall into this category.
 
-[^5]:
-    NOTE:
-    Why the focus on pain? Any event that had an effect on the person. Any "energy" that impacts the receiver would fall into this category.
-
-[^6]: NOTE: A form of conjugate.
-[^7]: NOTE: I wonder if that is why the virtual world, like Meta or the Metaverse, are so attractive
+[^6]: A form of conjugate.
+[^7]: I wonder if that is why the virtual world, like Meta or the Metaverse, are so attractive
