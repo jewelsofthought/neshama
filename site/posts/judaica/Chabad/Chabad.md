@@ -21,7 +21,7 @@ How can we possibly imagine that in the conglomerate of cells, organs and limbs 
 
 For 364 days a year, the fragments of our life and personality lie dispersed throughout the chambers of our soul and strewn across the expanses of space and time. On Yom Kippur, we are empowered to unite them with their source and point them towards their goal.
 
-<i>Note: This is a piece that upholds the idea of the "I" that I am, also is representative of the 1 that I am.</i>
+{NOTE: This is a piece that upholds the idea of the "I" that I am, also is representative of the 1 that I am.}
 
 ---
 

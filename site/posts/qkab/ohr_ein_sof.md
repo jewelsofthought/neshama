@@ -36,7 +36,7 @@ Another way to think of this, is that until there are more than one event, and t
 ## **Upper Simple Light**
 
 - Light that expands from the _Atzmut_ – Vitality, strength, power, force, of the Creator.
-  Note: Does not refer to actual _Atzmut_, but only the Light that expands from the _Atzmut_.
+  {NOTE: Does not refer to actual _Atzmut_, but only the Light that expands from the _Atzmut_.}
 
 - “**Upper Light** filled the entire reality”
   → the entire reality relating to their existence in the void.

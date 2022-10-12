@@ -6,7 +6,7 @@ ref:
   - privacy_illusion
   - superior_man
   - golden_shadow
-tags: null
+tags: [m&f]
 date: 2015-10-01T00:02:16.154Z
 modified: 2022-01-30T19:58:00.956Z
 ---
@@ -20,6 +20,7 @@ modified: 2022-01-30T19:58:00.956Z
 7. [Limits](#limits)
 8. [Sexual realm](#sexual-realm)
 9. [Sex with](#sex-with)
+10. [Prayer](#prayer)
 
 ## Male & Female
 
@@ -90,7 +91,7 @@ The masculine’s tendency is towards nothingness, annihilation, death. His anal
 
 Adam, the primordial man, is both male and female. Jung states that the purpose of human life, is the “union of anima and animus". His name is derived from the name of the earth, _adamah_, which is, in essence '$$Adam + h$$'. The ‘$$h$$’ represents the breathe of G!d, as the earth (אדמה adamah) needed the Divine Breath ($$h$$) in order to live..
 
-A side note: $$h$$ is the symbol for [hydrogen](/posts/qkab/hydrogen.md) - which is the first, and most abundant element in the universe. It is also an essential component of both water and oil, the two liquids that comprise all living cells.
+A side note: $$h$$ is the symbol for [hydrogen](/posts/qkab/hydrogen.html) - which is the first, and most abundant element in the universe. It is also an essential component of both water and oil, the two liquids that comprise all living cells.
 
 ## Sexual realm
 

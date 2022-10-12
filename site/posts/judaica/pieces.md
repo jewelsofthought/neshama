@@ -22,6 +22,7 @@ modified: 2022-02-14T14:13:07.098Z
 14. [The Splendours](#the-splendours)
 15. [Flood](#flood)
 16. [Noah](#noah)
+17. [<i>Sitre Torah</i> - Abulafia](#isitre-torahi---abulafia)
 
 <blockquote dir="rtl">
 שׁמִר רגליך כאשׁר תלך אל־בית האלוהים, וקרוב לשׁמיע מִתֶת
@@ -178,3 +179,9 @@ The waters of the flood that "unsouled" everyone did not destroy the earth, nor 
 ## Noah
 
 Noah sent the dove from himself, and received it into himself with the olive branch. An ancient tree, with full round fruit, signifying the circle of life.
+
+## <i>Sitre Torah</i> - Abulafia
+
+The strongest of these holy combinations from which you will know the secret of the Ineffable Name ... are the letters which are called _Urim_ and _Tummim_, which illuminate the eyes of the hearts, and complete the thoughts. and enlighten the path of understanding, and make know the planetary positions, and teach the existence of separate beings and tell the future
+
+{NOTE: What if that is true! Or I accept it as true? That would cause an existential breakdown.}

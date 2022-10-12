@@ -20,9 +20,11 @@ There is a connection with the Trinity and the three faces of the Hindu deity, a
 
 One bifurcates. Two are manifest, the third splendour is the one that emerges as the relationship between the two manifest. It may emerge in multiple forms too, as the doubling, or joining of the two. It also continues the process of life, the bifurcation.
 
-Perhaps the 3 are just really 3 out of the 10. As Judah Hasid mentions the 10 spheres, or ספירות… These are the 3 that are manifesting the known world. The rest are expressions, or steps into the ineffable. I am not sure. It seems that there are the 3 at the top, the six that make the One, and finally the Kingdom, מלכות, that manifests.
+Perhaps the 3 are just really 3 out of the 10. As Judah Hasid mentions the 10 spheres, or ספירות… These are the 3 that are manifesting the known world. The rest are expressions, or steps into the ineffable. It seems that there are the 3 at the top, the six that make the One, and finally the Kingdom, מלכות, that manifests.
 
-Of course, within מלכות, lies the pattern once again&mdash;the unmanifest, inner radiation of אין סוף.
+Of course, within מלכות, the pattern begins once again&mdash;the unmanifest, inner radiation of אין סוף.
+
+An aspect of the finite within the infinite, in order for it (the finite) to be eternal, it will have to return to its beginning at some stage.
 
 ![Tree within Tree](/posts/img/qkab/tree_in_tree.png)
 

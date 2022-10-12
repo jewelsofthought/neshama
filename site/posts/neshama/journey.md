@@ -9,7 +9,7 @@ modified: 2022-01-16T14:37:39.424Z
 1. [Hero’s Journey](#heros-journey)
 2. [The Template](#the-template)
 
-## Hero’s Journey -> see (Journey)[../tolnet/organisations.md#our-journey]
+## Hero’s Journey -> see (Journey)[../tol/organisations.html#our-journey]
 
 We begin on the inside, awakening to consciousness, slowly gaining awareness the world around us. As time goes by, we reach a level of cognition from and of our environment, and its topology. Our journey actually begins at this stage, and it might take many years, but the portal is an awareness of the other AND the effect we are having on the world around us. The end of the journey is of-course unattainable – and this is to be fully conscious of our world, both inner and outer, and the effect we have upon it. Then beings the hero’s journey into the inner reaches of your own self – what we call the soul, the _Nefesh_ - that which I am in the world around me. But that is not the cause, not the first cause, and you begin to understand that as you head deeper into the reaches of your inner being. where you encounter forgiveness and responsibility. That you are responsible for what is happening in your life, and you also need to be responsible for what has happened in your life. You need to forgive yourself for what you have done that was not true to your inner purpose and will – as in _“Thy will be done, in heaven as on earth”_.
 
