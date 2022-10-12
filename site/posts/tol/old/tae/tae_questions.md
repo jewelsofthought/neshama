@@ -457,8 +457,8 @@ But are there a million of us who are willing to organise into a coherent unit a
 
 **The Tree is the shape/entity that emerges/forms out of the background of the Web of Life.**
 
-```
-NOTE:
+
+{NOTE:
 Must stop referring to it as a tree. That is what confuses people. I must refer to it as the Web of Life, the Web of Truth, the Web of Trust.
 Does the Web of Truth & Trust = Web of Life?
 When asked: Why a Tree (of Life Network)? That will only be explained to those who can understand.
@@ -470,7 +470,7 @@ Cells cluster.
 Then we form collectives.
 Then we form corporeations.
 Then we are crowned with sovereignty.
-```
+}
 
 ---
 

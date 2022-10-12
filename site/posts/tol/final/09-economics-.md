@@ -10,7 +10,7 @@ modified: 2000-08-15T07:45:15.685Z
 
 ### Economics
 
--> tol/economics.md
+-> tol/economics.html
 
 There are many communities already in existence, as well as many that would like to take this step and live within a community that supports them. The jump to the next step, that of a functioning web of communities dedicated to living a more environmentally sustainable lifestyle in active support and communication with one another, could be fairly swift.
 

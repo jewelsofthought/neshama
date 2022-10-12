@@ -13,7 +13,7 @@ modified: 2021-12-22T07:47:25.033Z
 5. [Disputes](#disputes)
 6. [Threads (flow of information)](#threads-flow-of-information)
 
-[NOTE: (12-2021) I have referred to the affinity groups as af-groups - which is not the right name. I propose calling them the _A-groups_. They are after all, the primary concern for the network as a whole.]
+{NOTE: (12-2021) I have referred to the affinity groups as af-groups - which is not the right name. I propose calling them the _A-groups_. They are after all, the primary concern for the network as a whole.}
 
 ### Decision-making
 

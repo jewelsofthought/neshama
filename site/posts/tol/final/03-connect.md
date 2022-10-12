@@ -15,7 +15,7 @@ modified: 2021-12-22T07:42:56.785Z
 ## Stage 1: Connect to the network
 
 <figure>
-<img src="/posts/img/tol/03.1_types.md.png" alt="Various types of network">
+<img src="/posts/img/tol/03.1_types.png" alt="Various types of network">
 <figcaption>Various Types of Networks</figcaption>
 </figure>
 

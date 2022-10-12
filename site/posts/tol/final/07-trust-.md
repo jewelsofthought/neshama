@@ -12,7 +12,7 @@ eleventyExcludeFromCollections: true
 
 ## Stage V: Web of trust
 
--> tol/communities.md
+-> tol/communities.html
 
 As the network grows and needs blossom, a requirement for producers and consumers (roles in an economic model) will arise, for often the consumer and the producer are two aspects of the same person. This is where we create a web of trust. We already have a social web of trust, but this will be an object-orientated web of trust. Although this new web concerns objects, there are many aspects that will influence its life-cycle, and these will need to be trusted and monitored. The network will provide the necessary oversight so that consumers will know that the object is actually what it purports to be, and the claims it makes are true. At this stage, there are many regulations and regulatory bodies in the world in whom we no longer have confidence. By bringing a more personal aspect into the network and this web of trust, we will know, for instance, who is producing organic (non-pesticide) items and who is not. A set of regulations is not sufficient to ensure the integrity of the item. The network will take a more personal approach such as a visit by a member which is surely more valuable than a heap of regulations. All the relevant information will be available via the network.
 
@@ -22,7 +22,7 @@ Blockchains can be used to enhance this web of trust.
 
 ### Non-electronic version
 
--> tol/communities.md
+-> tol/communities.html
 
 Non-electronic version
 

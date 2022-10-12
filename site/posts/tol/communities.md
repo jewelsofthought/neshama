@@ -225,7 +225,7 @@ References:
 [^3]: And to do so, just because we can, or because it will gain us more power, would be very foolish.
 [^4]: As if we can choose the way to “create” our own style, just like going to the hairdresser for a new style. But that is only a cultural fashion, it is not about “who” you are.
 [^5]: In the physical, emotional and the mental. “Love the Lord with your heart and your soul”. That is why “the study of Torah equals them all”.
-[^6]: Actually, for [Mekubalim](mekubalim.md), [the template](tol-template.md) we aspire to is one which includes other aspects of human existence. Within this mapping, we identify 4 levels, PEMS, as well as the 3 pillars of existence: Force, Form and Balance.
+[^6]: Actually, for [Mekubalim](mekubalim.html), [the template](tol-template.html) we aspire to is one which includes other aspects of human existence. Within this mapping, we identify 4 levels, PEMS, as well as the 3 pillars of existence: Force, Form and Balance.
 [^7]: What is “inside” this template, the one we refer to as ‘I’, is somehow connected to this outer template in some very mysterious way.
 [^8]: Just as the flame led the people through the wilderness by night, and a cloud by day, to Sinai,
 [^9]: An estimate in the 1980's set the number at around 160 million souls.

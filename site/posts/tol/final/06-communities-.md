@@ -9,7 +9,7 @@ eleventyExcludeFromCollections: true
 
 ## Stage IV: Web of communities
 
--> tol/communities.md
+-> tol/communities.html
 
 In order for a new paradigm to emerge, we need to create and support communities whose transactions are not money based, and especially not based on a fiat system and/or a credit/debit economy. From its inception, these communities will aim to provide all the basic necessities of life to all members of the community, as well as to any member that visits the community, within reason. Those that reside in this community will labour to maintain and support the community, but no transactions inside the community will be based on money. All internal decisions regarding the disbursement of resources will be based on communal need and be for the benefit of the community, and thus the individuals that comprise this community.
 
