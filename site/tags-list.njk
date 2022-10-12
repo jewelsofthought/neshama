@@ -3,8 +3,9 @@ permalink: /tags/
 layout: layouts/home.njk
 ---
 <h1>Tags</h1>
-
+<ul style="list-style-type: none">
 {% for tag in collections.tagList  %}
+<li>
   {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
   <a href="{{ tagUrl | url }}"> <span class="tag is-light is-small">
     <span class="fa fa-tag"></span>
@@ -12,6 +13,8 @@ layout: layouts/home.njk
     {{ tag }}
     </span>
   </a>
+  </li>
 {% endfor %}
+</ul>
 
 
