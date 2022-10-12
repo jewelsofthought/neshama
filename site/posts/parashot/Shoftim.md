@@ -276,7 +276,7 @@ Is it G-d's goal for Israel that it be no different from any other nation, which
 </p>
 </blockquote>
 
-_NOTE:_ I know this refers to the service at the Temple, however there were more Levites (and Kohanim) than was needed for the services at the Temple. In addition, we do not have the Temple any more. It made sense, especially in the spreading of the duties of teaching the Law, as was expressed in Jithro and _the subsequent parasha in Deut_, that the Levites would be spread amongst the people in their cities.
+{NOTE: I know this refers to the service at the Temple, however there were more Levites (and Kohanim) than was needed for the services at the Temple. In addition, we do not have the Temple any more. It made sense, especially in the spreading of the duties of teaching the Law, as was expressed in Jithro and _the subsequent parasha in Deut_, that the Levites would be spread amongst the people in their cities.}
 
 ### 6-8&#93; Divided into shifts, or "watches"
 
@@ -299,9 +299,9 @@ _NOTE:_ I know this refers to the service at the Temple, however there were more
 
 The passage lists nine forms of sorcery. See _Exodus_ 22:17; _Leviticus_ 18:21; 19:26,31 and 20:2-7,27.
 
-_NOTE:_ This is the power of science &ndash; to predict the future. Through statistics, it has begun to control huge aspects of our future.
+{NOTE: This is the power of science &ndash; to predict the future. Through statistics, it has begun to control huge aspects of our future.}
 
-_NOTE_: Some of the nine forms of sorcery can be used for healing and guidance. However, what is to prevent someone who learns such a form to not be tempted to use it for prophecy?
+{NOTE: Some of the nine forms of sorcery can be used for healing and guidance. However, what is to prevent someone who learns such a form to not be tempted to use it for prophecy?}
 
 **n14-22] God sends His prophets to Israel** Jews do not need to fear that these prohibitions against learning the future makes them inferior to their neighbours. God reassured us that He will send us prophets.
 
@@ -313,13 +313,13 @@ _NOTE_: Some of the nine forms of sorcery can be used for healing and guidance. 
 (c) a prophet who suppresses a prophecy that G-d commanded him to communicate
 (_Rashi_)
 
-_NOTE:_ There are many prophets in the world today, nearly all of whom are not acting in accordance with their own prophecies. That is an interesting dividing line between the people that are predicting things that are happening in the world today. The hypocracy of the vaccine pushers, the conflicting actions of many of the climate-change doomsayers, etc.
+{NOTE: There are many prophets in the world today, nearly all of whom are not acting in accordance with their own prophecies. That is an interesting dividing line between the people that are predicting things that are happening in the world today. The hypocracy of the vaccine pushers, the conflicting actions of many of the climate-change doomsayers, etc.}
 
 #### 22&#93; If it occurs as he said, he is a prophet.
 
 **n21-22]** Once he has proven himself a prophet, he need not prove himself every time he speaks... How to tell if the prophet is a fraud? If the supposed prophet predicts a certain event, and it does not come about, he is proven false.
 
-_NOTE:_ Did Moshe Rabeinu ever prophesize? Does a leader need to be a prophet?
+{NOTE: Did Moshe Rabeinu ever prophesize? Does a leader need to be a prophet?}
 
 ### Chapter 19: יט
 
@@ -327,7 +327,7 @@ _NOTE:_ Did Moshe Rabeinu ever prophesize? Does a leader need to be a prophet?
 
 **n21] עין בעין**&mdash;<i>An eye for an eye</i>Refers to monetry compensation.
 
-_NOTE_ Ayin b'ayin, can also refer to seeing "eye to eye", as in agreeing or in harmony with one another.
+{NOTE: Ayin b'ayin, can also refer to seeing "eye to eye", as in agreeing or in harmony with one another.}
 
 ### Chapter 20: כּ
 

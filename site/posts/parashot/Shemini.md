@@ -56,7 +56,7 @@ Or perhaps this _heavenly fire_ is different to the fire that we know? We focus 
 
 Focusing on the _heavenly_ aspect of the _fire_, I ask similar questions.
 
-{Note: Perhaps part of the training of the _Kohan Ha'Gadol_ is to teach him how to know when the _heavenly fire_ has descended, for it is not a fire that flames and burns. This is also hinted at in the manner in which Nadav and Abihu died, with their clothes intact. See below [n10:1](#sacrifice-of-the-sons-n101)}
+{NOTE: Perhaps part of the training of the _Kohan Ha'Gadol_ is to teach him how to know when the _heavenly fire_ has descended, for it is not a fire that flames and burns. This is also hinted at in the manner in which Nadav and Abihu died, with their clothes intact. See below [n10:1](#sacrifice-of-the-sons-n101)}
 
 ֨### Fell on their faces (n9_24)
 
@@ -81,7 +81,7 @@ The concept of child sacrifice has still not completely died.
 
 One commentary speaks of the sacrifice of son's as sanctification of G-d Name, may He have mercy on us, and that His acceptance of their sacrifice as a testimony to their greatness.
 
-{Note: How long did they have to learn all the intricacies of priesthood? And this is the first time they performed the ceremony, ever. We look at their death as a somewhat merciless judgement, and say that they sinned. However, perhaps they were zealous, and wanted to get even closer to the Divine Presence, even though they were not ordered to. On the one hand, there is a punishment &ndash; though on the other hand, it was an acceptance of their sacrifice.}
+{NOTE: How long did they have to learn all the intricacies of priesthood? And this is the first time they performed the ceremony, ever. We look at their death as a somewhat merciless judgement, and say that they sinned. However, perhaps they were zealous, and wanted to get even closer to the Divine Presence, even though they were not ordered to. On the one hand, there is a punishment &ndash; though on the other hand, it was an acceptance of their sacrifice.}
 
 ### Heavenly Fire
 
@@ -89,7 +89,7 @@ Could it be the same fire heavenly fire that killed them?
 
 It says about (10:5) בכותנותם - by their tunics: The were moved by the sons of Aaron's uncle, Uziel, by grabbing hold of their tunics. So, although they died from the fire, their clothes were still intact. Thus, according to the n10:5, the fire burned their souls.
 
-{Note: The first firewalk I ever did, the facilitator said, I suppose in order to calm our anxiety, that we must remember that fire can only burn the material. So, would not Divine Fire be that fire that sears our soul?}
+{NOTE: The first firewalk I ever did, the facilitator said, I suppose in order to calm our anxiety, that we must remember that fire can only burn the material. So, would not Divine Fire be that fire that sears our soul?}
 
 ### Adding love to love
 

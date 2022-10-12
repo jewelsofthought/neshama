@@ -12,21 +12,22 @@ date: 2021-09-24T21:22:16.154Z
 26:2] "Go to the place that **HaShem**, your G-d, will choose..."
 </blockquote>
 
-_Note: This line is interesting, as it appears many times in this book. "Go to the place that Hashem, your G-d, will choose...". The place is not specified. It will still be chosen. That Jerusalem was eventually designated as the site of the temple, does that mean that it cannot change? Remember, for me, the temple that is to be built might not be the brick and mortar one which we are hoping for in Jerusalem..._
+{NOTE: This line is interesting, as it appears many times in this book. "Go to the place that Hashem, your G-d, will choose...". The place is not specified. It will still be chosen. That Jerusalem was eventually designated as the site of the temple, does that mean that it cannot change? Remember, for me, the temple that is to be built might not be the brick and mortar one which we are hoping for in Jerusalem...}
 
 <blockquote>
 26:17] You shall observe them will all your heart and your soul. Distinguished **HaShem** as your G-d. Walk in His ways, observe His decrees, commandments and statutes. Hearken to His voice.
 </blockquote>
 
-<i>Note: His decrees, commandments and statutes, as laid down in the Torah, and interpreted and enhanced and clarified by the Rabbis through the ages. Even today there is some disagreements (or differing opinions as the meaning of some of these decrees, statutes and commandments)&mdash;which is a good thing, as it opens up the possibility for new interpretations, which I think is essential for the continuation and evolution of our faith.
+{NOTE: His decrees, commandments and statutes, as laid down in the Torah, and interpreted and enhanced and clarified by the Rabbis through the ages. Even today there is some disagreements (or differing opinions as the meaning of some of these decrees, statutes and commandments)&mdash;which is a good thing, as it opens up the possibility for new interpretations, which I think is essential for the continuation and evolution of our faith.
 
-But, the line of "Hearken to His voice" is fascinating. What is His voice? Is it the same one that spoke at Mt. Sinai? If it is expressing the Infinite Source of Being, what would that voice sound like? How would I hear it? Is it in the song of the birds, or the roar of the lion; the howling wind and the drumbeat of the rain? Is not everything that exists an expression of that Voice? Or is it only sometimes and in some ways? Or is that our restricting <b>HaShem</b>? Or is the voice only expressed in the Torah, constrained to the Books of Moses?</i>
+But, the line of "Hearken to His voice" is fascinating. What is His voice? Is it the same one that spoke at Mt. Sinai? If it is expressing the Infinite Source of Being, what would that voice sound like? How would I hear it? Is it in the song of the birds, or the roar of the lion; the howling wind and the drumbeat of the rain? Is not everything that exists an expression of that Voice? Or is it only sometimes and in some ways? Or is that our restricting <b>HaShem</b>? Or is the voice only expressed in the Torah, constrained to the Books of Moses?
+}
 
 <blockquote>
 27:3] Inscribe the words of Torah on great stones
 </blockquote>
 
-<i>Note: This is (another) example where what is referred to as Torah is unclear. Some say that it is only the Ten Commandments, some say it had to be written in all seventy languages of the nations. If we take it literally (פשׁת), it would be a huge task to carve the Torah in stone in one language, let alone seventy. So it is taken as a "miracle"&mdash;and what does that mean? Did G-d write it in stone... again? There is also the question of if Moses was reiterating what had been already written in the four previous books, and now was telling the people to carve out the Torah, it would not be a writing of the five books of the Torah.
+{NOTE: This is (another) example where what is referred to as Torah is unclear. Some say that it is only the Ten Commandments, some say it had to be written in all seventy languages of the nations. If we take it literally (פשׁת), it would be a huge task to carve the Torah in stone in one language, let alone seventy. So it is taken as a "miracle"&mdash;and what does that mean? Did G-d write it in stone... again? There is also the question of if Moses was reiterating what had been already written in the four previous books, and now was telling the people to carve out the Torah, it would not be a writing of the five books of the Torah.}
 
 These concerns bring me to question deeply what it means when G-d or Moses refer to the Torah. It brings me to think of the Torah as a living thing&mdash;an ongoing, living, expression of Torah &ndash; as the "Word of G-d", and the Torah as received, i.e. as written, as a guide to the way we need to live, and an expression of our relationship with G-d.</i>
 
@@ -34,13 +35,13 @@ These concerns bring me to question deeply what it means when G-d or Moses refer
 27:5] Whole stones for the altar &ndash; no iron is to be raised upon them &ndash; לא תניף עלהם ברזל.
 </blockquote>
 
-<i>Note: It is interesting that only iron is mentioned. Was it because all masonry tools were fashioned from iron in those days? Was there no other metal that they could be made from?</i>
+{NOTE: It is interesting that only iron is mentioned. Was it because all masonry tools were fashioned from iron in those days? Was there no other metal that they could be made from?}
 
 <blockquote>
 27:10] All commandments and decrees which I command you "this day".
 </blockquote>
 
-<i>Note: These are not new decrees, so why add today?</i>
+{NOTE: These are not new decrees, so why add today?}
 
 <blockquote>
 27:15-26] 
@@ -59,23 +60,21 @@ Accursed is the man who:
 - will not uphold the words of this Torah, and perform them.
 </blockquote>
 
-<i>TODO: Note: All good advice, each one can be discussed separately.
-First in relation to G-d (graven image). Then in relation to his father and mother; then in relation to his community (boundary, and blind person).</i>
+{TODO: NOTE: All good advice, each one can be discussed separately.
+First in relation to G-d (graven image). Then in relation to his father and mother; then in relation to his community (boundary, and blind person).}
 
 <blockquote>
 23:3-14] Blessings &ndash; if you behave.
 23:15-68] Curses &ndash; if not.
 </blockquote>
 
-<i>Note: There is a strange conundrum here. This is a classic system of reward and punishment. Thus there is a certain amount of coercion here, which is never addressed. I believe that either one awakens (or is awoken) to faith in G-d, and the other elements, the decrees, etc., then become a part of your life, or you do not have faith, and do not believe, and then it requires coercion to force the unbeliever to "behave" accordingly
-</i>
+{NOTE: There is a strange conundrum here. This is a classic system of reward and punishment. Thus there is a certain amount of coercion here, which is never addressed. I believe that either one awakens (or is awoken) to faith in G-d, and the other elements, the decrees, etc., then become a part of your life, or you do not have faith, and do not believe, and then it requires coercion to force the unbeliever to "behave" accordingly.}
 
 <blockquote>
 29:3] Did not give heart to know or eyes to see or ears to hear (until this day)
 </blockquote>
 
-<i>Note: So if we did not have the senses to receive the Words of G-d until this day, how could we have expected to have the ability to carry out His commandments previously.
-</i>
+{NOTE: So if we did not have the senses to receive the Words of G-d until this day, how could we have expected to have the ability to carry out His commandments previously.}
 
 ---
 
@@ -87,7 +86,7 @@ n26:15] <b>השׁקיפה ממעון</b>&mdash;</i> Gaze down from Your holy abod
 
 n26:16-19] **God and Israel are inseparable.** Moses exhorted the people to observe [the commandments and his teachings] with all their heart and soul (_Ramban_), and always to think of the Torah as fresh and exciting; as if it had been given today (_Rashi_).
 
-<i>Note: The living torah!</i>
+{NOTE: The living torah!}
 
 n26:17-18] <b>הֶאֶמרתָ ... הֶאְֶמירךָ</b>&mdash;<i>Distinguished.</i> Because Israel accepted the Torah and committed itself to observer its commandments no matter what, the nation and G-d have mutually exalted one another. Israel _distinguished_ **HaShem** as its only G-d, and He _distinguished_ Israel as His only people (_Rashi_). These two verses constitute mutual pledges of allegiance between G-d and Israel.
 
@@ -96,8 +95,7 @@ n27:3] <b>דברי התורה</b>&mdash;<i>The words of the Torah</i>...Their cr
 <b></b>&mdash;<i></i>.
 n27:4] <b>ושַׂדְתָּ אותם בשׂיד</b>&mdash;<i>And you shall coat them with plaster</i>. After the Torah was inscribed on the stones, they were to be coated with a new covering of plaster, to protect the writing. Anyone wishing to copy the text of the Torah from the stones afterwards could easily remove the soft plaster (_Sotah_ 35b).
 
-<i>Note: Could the words be read with the plaster on it? If not, what was the use of the plaster to protect the writing that we cannot see? Then, was the plaster then replaced after removal?
-</i>
+{NOTE: Could the words be read with the plaster on it? If not, what was the use of the plaster to protect the writing that we cannot see? Then, was the plaster then replaced after removal?}
 
 n27:8] All commandments, not entire text, is inscribed on the stones.
 
@@ -111,7 +109,7 @@ n27:26] Accept the Torah in full and support Torah study
 
 n28:2] כי תשׁמא בקול&mdash; allusion to Torah and its study.
 
-<i>Note: Needs to evolve</i>
+{NOTE: Needs to evolve}
 
 n28:9] כי תשׁמור
 

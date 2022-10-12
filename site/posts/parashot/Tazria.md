@@ -18,7 +18,7 @@ date: 2021-03-02
 
 ## Laws of human contamination
 
-We have proceeded from the laws of contamination טוּמא of dead animals, to the laws of contamination טוּמה from human beings, starting with the birth of the child, where it all begins. (_Ibn Ezra_ to v. 2) {Note: be-in(g) - be-(g)-in}
+We have proceeded from the laws of contamination טוּמא of dead animals, to the laws of contamination טוּמה from human beings, starting with the birth of the child, where it all begins. (_Ibn Ezra_ to v. 2) {NOTE: be-in(g) - be-(g)-in}
 
 ## Childbirth and purification
 
@@ -47,7 +47,7 @@ Perhaps there was the feminine sacred which the women carried, that men <span st
 
 Two offerings, a sin offering (חטאה) and an elevation offering (לעולה).
 
-{Note: חט־א־ה - Sin passes through א which is the point of transformation, the zero point, to re-emerge through the breath of life, the ה. Perhaps modern Hebrew numberology should begin with א being the number 0, and ב being the number 1 (not necessarily the 1st!) For the beginning ב, is actually the beginning of the narrative. As without 2, there can be no story, there are no interactions when there is only one, }
+{NOTE: חט־א־ה - Sin passes through א which is the point of transformation, the zero point, to re-emerge through the breath of life, the ה. Perhaps modern Hebrew numberology should begin with א being the number 0, and ב being the number 1 (not necessarily the 1st!) For the beginning ב, is actually the beginning of the narrative. As without 2, there can be no story, there are no interactions when there is only one.}
 
 There are offerings for the child, for what the child may become. We have the two paths stretching before us till the end of our lives. The path of sin and the path of elevation.
 
@@ -65,7 +65,7 @@ The rabbi's say: The pattern that emerges is that tit is a DIvine retribution fo
 
 The mark was to appear on his skin, or literally on the skin of his meat שׁעור־בשׂרו(which does not make much sense actually!)
 
-{Note: Adam had a skin of light אור. Now we, his descendents from his fall, have skins עור, covering our nakedness. The above could also be translated as his "meat-skin"}
+{NOTE: Adam had a skin of light אור. Now we, his descendents from his fall, have skins עור, covering our nakedness. The above could also be translated as his "meat-skin"}
 
 ָAnd here is the list of unknown diseases referred to in the text: שְׁאת, סַבפַּחַת, בַחֶרֶת, מִסְפַּחַת, נֶתֶק, בוהק
 

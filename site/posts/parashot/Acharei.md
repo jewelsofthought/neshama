@@ -11,7 +11,7 @@ So it says that he bought the bull from his own money (as opposed to the sin-off
 The concern that arises from that is for 600,000+ population, and cattle to spare, what was the food for all these animals (because there were goats and sheep as well)? There was no grain that they grew or could grow being in the desert. There is no mention of manna from heaven for the animals, so my question remains: "What did the animals eat? Where did their food come from?"
 
 n16:16] The death of Nadab and Abihu is mentioned in conjunction with the chapter on Yom Kippur because just as Yom Kippur brings atonement, so does the death of the righteous.
-{Note: This is a difficult idea to swallow&mdash;that a blessing for the righteous is to die young? Perhaps from the perspective of G-d, this makes sense, but from the perspective of the human...}
+{NOTE: This is a difficult idea to swallow&mdash;that a blessing for the righteous is to die young? Perhaps from the perspective of G-d, this makes sense, but from the perspective of the human...}
 
 **Confession**
 

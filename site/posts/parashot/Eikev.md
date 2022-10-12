@@ -41,7 +41,7 @@ For forty years the children of Israel were sustained by “bread from heaven,�
 The challenge is to retain this recognition also after entering the Land and making the transition to “bread from the earth.” Even when we are nourished by bread which we earn by “the sweat of our brow,” we must remember that, in truth, our sustenance comes from G-d, and that we never receive an iota more or an iota less than what is allotted us from Above.
 (The Lubavitcher Rebbe)
 
-_Note: Now that is closer to my heart. Something that can be followed. Something that reminds me of the dependency I have upon G-d, and that nothing occurs “out of context” or “randomly”. To live in that paradigm – however knowing that that iota is not necessarily a static amount, as I would, in this realm of measurement, tend to imagine it. The realm of the Divine is a realm of timelessness and spacelessness, and thus an iota in the Divine realm then has to be interpreted in term of time and space of this realm. So, how can it be an “exact” measurement – in mundane terms._
+{NOTE: Now that is closer to my heart. Something that can be followed. Something that reminds me of the dependency I have upon G-d, and that nothing occurs “out of context” or “randomly”. To live in that paradigm – however knowing that that iota is not necessarily a static amount, as I would, in this realm of measurement, tend to imagine it. The realm of the Divine is a realm of timelessness and spacelessness, and thus an iota in the Divine realm then has to be interpreted in term of time and space of this realm. So, how can it be an “exact” measurement – in mundane terms.}
 
 _But as the Will of G-d evolves and responds to us, so that iota is expressed. If G-d is an ever-present influence, He is dynamic and alive. That is why the promise to Israel is not “absolute” but relative and dynamic._
 
@@ -51,17 +51,17 @@ _But as the Will of G-d evolves and responds to us, so that iota is expressed. I
 
 At the core of every existence is a divine utterance that created it (“Let there be light,” “Let the earth sprout forth vegetation,” etc.), which remains nestled within it to continuously supply it with being and life. The soul of man descends into the trappings and trials of physical life in order to unite with and elevate the “sparks of holiness” buried in the food it eats, the clothes it wears, and all the other objects and forces of the physical existence it interacts with. For when a person utilizes something, directly or indirectly, to serve the Creator, he penetrates its shell of mundanity, revealing and realizing its divine essence and purpose.
 
-_Note: Here is the truth that the only way to release the sparks of light is to enter into the places of darkness, the materiality of the object itself, within which the spark is hidden. This is why we need to engage and enjoy all our physical senses, for those are the tools that Ha’Shem provided us with to penetrate (dig) into the thickness and density of the material “world”, in order to release the sparks that are buried therein._
+{NOTE: Here is the truth that the only way to release the sparks of light is to enter into the places of darkness, the materiality of the object itself, within which the spark is hidden. This is why we need to engage and enjoy all our physical senses, for those are the tools that Ha’Shem provided us with to penetrate (dig) into the thickness and density of the material “world”, in order to release the sparks that are buried therein.}
 
 Therein lies a deeper meaning to the verse ([Psalms 107:5](https://www.chabad.org/16328#v5)): “The hungry and the thirsty, in them does their soul wrap itself.” A person may desire food and sense only his body’s hunger, but in truth his physical craving is but the expression and external “packaging” of a deeper yen—his soul’s craving for the sparks of holiness that are the object of its mission in physical life.
 (Rabbi DovBer, the Maggid of Mezeritch)
 
-_Note: Is this not the essence of our very existence, and expressed in clear terms. However, the meaning of these lovely words is the task, the challenge. To understand divine utterances in human terms is our work. How to do that?_
+{NOTE: Is this not the essence of our very existence, and expressed in clear terms. However, the meaning of these lovely words is the task, the challenge. To understand divine utterances in human terms is our work. How to do that?
 
-_The central challenge is “to serve the Creator”. What does that mean? In religious terms (and all religions preach the same action), it is to pr(act)ice in a certain manner. In Judaism it is to obey all the commandments, and to carry out all the_ mitzvot. _In Christianity, it is to... as in Islam, or Buddhism, or Hinduism. Each has its “commandments”, and its practice_ (halacha).
+The central challenge is “to serve the Creator”. What does that mean? In religious terms (and all religions preach the same action), it is to pr(act)ice in a certain manner. In Judaism it is to obey all the commandments, and to carry out all the _mitzvot_. In Christianity, it is to... as in Islam, or Buddhism, or Hinduism. Each has its “commandments”, and its practice (_halacha_).
 
-_The practice, the religion, is there, at its highest/best, to cleanse our souls so that we can “see” the Divine in everything. That is still not the spark – for the spark is the energy that moves/affects something. Here I have to speak of the [levels of soul](/site/posts/qkab/soul_levels)._
-
+The practice, the religion, is there, at its highest/best, to cleanse our souls so that we can “see” the Divine in everything. That is still not the spark – for the spark is the energy that moves/affects something. Here I have to speak of the [levels of soul](/site/posts/qkab/soul_levels).
+}
 ---
 
 > Who led you through that great and terrible desert . . . [a place of] thirst where there is no water (8:15)
@@ -102,7 +102,7 @@ Said G-d to him: “Moses! You err as they do! For there is nothing real in it.�
 Said Moses: “If this is the case, why should Your wrath burn against Your people?”
 (Midrash Rabbah)
 
-_Note: Now that is a question I have often asked? Why is G-d so upset with the people for making a Golden Calf?_
+{NOTE: Now that is a question I have often asked? Why is G-d so upset with the people for making a Golden Calf?}
 
 This is what Moses said: “Master of the Universe! When I asked You what their merit was that You should redeem them, since they are idolaters, You said: ‘You see them only now as idolaters, but I can foresee them departing from Egypt, and My dividing the Red Sea for them, and bringing them into the wilderness, and giving them the Torah and revealing Myself unto them face to face, and them accepting My kingship—yet denying Me at the end of forty days by making the calf!’
 
@@ -128,7 +128,7 @@ According to the Talmud, the _shittah_ was a type of cedar; in Rabbi Saadiah Gao
 
 Chassidic teaching sees the word _shittim_ as related to the word _shetut_, “folly”&mdash;an allusion to the fact that the function of the _Mishkan_ was to transform the folly of materialism into “folly of holiness”&mdash;commitment to G-d that transcends the rationale and normalcy of “the way things are.”
 
-_Note: I would ask what is the modern Mishkan – a place where we can _(or that will) transform the folly of materialism into the folly of holiness – that commitment to Wisdom that transcends the rationale and normalcy of “the way things are”.\_
+{NOTE: I would ask what is the modern _Mishkan_ – a place where we can (or that will) transform the folly of materialism into the folly of holiness – that commitment to Wisdom that transcends the rationale and normalcy of “the way things are”.}
 
 ---
 
@@ -142,7 +142,7 @@ The scholar’s soul is an irrigated field, devotedly developed and nurtured by 
 
 The irrigated field yields a harvest that is superior, in quantity and quality, to that of her passive sister. But the rain-watered field is a truer, purer reflection on her heavenly Maker.
 
-\_Note: Today, superior in quantity but no longer in quality. This is a spiritual way of expressing the need for “rain-watered” food.
+{NOTE: Today, superior in quantity but no longer in quality. This is a spiritual way of expressing the need for “rain-watered” food.}
 
 ---
 
@@ -156,7 +156,7 @@ nourished not by descending rain but by the overflow of the Nile, which would pe
 The people of Israel had been subjected to the Egyptian mentality for four generations. Thus they had to spend forty years in the desert, during which they were subjected to a diametrically opposite set of circumstances, in which one’s daily bread descends from heaven and one’s own efforts have no effect on the result. Only after this lesson in the true source of life could they enter the land that “drinks water of the rain of heaven”—where man’s efforts are crucial and significant, yet are permeated with a recognition of, and dependence upon, the true Source of All.
 (The Chassidic Masters)
 
-_Note: Would not the fact that “one’s efforts have no effect on the result” be disheartening? It would make the people passive and submissive. Only if you realise that if you dedicate all your efforts, your very life, to service of the Divine, will you always be receiving manna from Heaven._
+{NOTE: Would not the fact that “one’s efforts have no effect on the result” be disheartening? It would make the people passive and submissive. Only if you realise that if you dedicate all your efforts, your very life, to service of the Divine, will you always be receiving manna from Heaven.}
 
 ---
 

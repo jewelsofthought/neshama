@@ -23,7 +23,7 @@ Why would He Harden pharaoh's heart? Well, perhaps, after so many generations of
 
 The lesson needed to be engraved in the not only the current generation, but deep enough to affect many generations to come. And to cut that deep requires something extraordinary (in the {(ordinary mind)[ordinary.htmlj] - the mind that cannot conceive of any extra-ordinary!
 
-{Note: Definition of **ordinary** - the mind that cannot conceive of the extra-ordinary!}
+{NOTE: Definition of **ordinary** - the mind that cannot conceive of the extra-ordinary!}
 
 ## Long road
 

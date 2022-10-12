@@ -46,7 +46,7 @@ _However, it is heart-warming to see that this decree for all the people of the 
 
 n9:19-23] The people marched and rested without complaint, according to the word of G-d as indicated by the cloud. When the cloud lingered, did not journey. When the cloud lifted, they journeyed. However, the world of G-d was not spoken, it was a cloud! Also there were the silver trumpets that also announced the movement.
 
-_Note: I was wondering why the cloud is referred to as the word of G-d. It is as if he is speaking through this cloud - which has happened in His appearances in the Holy Sanctuary, where He has appeared in a cloud to speak to Moses. Does this imply that if there was no cloud, there would be no Word either?_
+{NOTE: I was wondering why the cloud is referred to as the word of G-d. It is as if he is speaking through this cloud - which has happened in His appearances in the Holy Sanctuary, where He has appeared in a cloud to speak to Moses. Does this imply that if there was no cloud, there would be no Word either?}
 
 10] The silver trumpets were only used during Moses' lifetime, after which they were "hidden" or buried. _They were silver trumpets, not ram's horn._ Long blasts, assemble at the אוהל מועד. Short blasts, east camps journey, then south camps. Or to wage war.
 
@@ -58,7 +58,7 @@ n10:9] Distress is a result of sin.
 
 n10:29-32] The journey would have taken Israel to the Holy Land in three days, had it not been for the succession of sins described in the next several chapters. I thought that G-d had already said that the generation who performed the sin of the golden calf were not going to enter into the Holy Land, and thus would wonder the desert for 40 years so that they would all die out. So how come this piece interferes with that.
 
-_Note: Another interesting piece, is that the assumption that people only lived for 40 years until the influx of modern medicine is perhaps based on this biblical passage!_
+{NOTE: Another interesting piece, is that the assumption that people only lived for 40 years until the influx of modern medicine is perhaps based on this biblical passage!}
 
 n10:29] לחובב _Hovav_, son of Reuel, one of the names of Moses' father-in-law, Jethro. _Ramban_ conjectures that he took the name _Hobab_ when he converted, in line with the custom of converts to adopt a new name when becoming Jewish.
 
