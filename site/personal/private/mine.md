@@ -3,7 +3,7 @@ title: Personal
 description: Personal view
 tags: null
 eleventyExcludeFromCollections: true
-date: 2020-01-11T08:26:35.929Z
+date: 2004-01-12T08:26:35.929Z
 modified: 2022-01-02T11:04:49.570Z
 ---
 
