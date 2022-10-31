@@ -15,10 +15,13 @@ modified: 2022-09-14T15:56:13.090Z
 5. [Spiritual Gym](#spiritual-gym)
 6. [Spiritual Lab](#spiritual-lab)
 7. [Inner Shape](#inner-shape)
-8. [Female](#female)
-9. [Heaven](#heaven)
-10. [Sex](#sex)
-11. [Spiritual $$\leftrightarrow$$ Physical](#spiritual-leftrightarrow-physical)
+8. [Heaven](#heaven)
+9. [Sex in Society](#sex-in-society)
+10. [Spiritual $$\leftrightarrow$$ Physical](#spiritual-leftrightarrow-physical)
+11. [Birth](#birth)
+12. [Possesion](#possesion)
+13. [Prayer](#prayer)
+14. [Darkness & Light](#darkness--light)
 
 {% endblock %}
 
@@ -66,15 +69,11 @@ A spiritual laboratory is where you carry out carefully crafted experiments to s
 
 As the eyes and the ears, the nose and mouth, the heart, legs and arms of G-d having a human experience - this is where you could begin to embrace and embody the truth of your existence.
 
-## Female
-
-If you accept the fact that you are young and beautiful, and every man is going to try want you, in one way or another&mdash;you will be more able to determine and control what goes on around you. All I say is - be gracious. Only use what you have to to get what you need. Don't be cruel.
-
 ## Heaven
 
 ![card1.1](/posts/img/neshama/new/card1_fig1.1.png)
 
-## Sex
+## Sex in Society
 
 Society can only, and perhaps needs to, operate in a sexless environment. Once sex enters the picture, it introduces all the emotional trauma and baggage that a person (people) carry and their relationship with power and money.
 
@@ -89,5 +88,37 @@ If truly spirit then physical world/life is a delusion, a projection, which we a
 The question then is whether you spend your energy in ensuing that your physical being&mdash;which is a delusion&mdash;is comfortable or in ensuring that you spiritual being is nourished.
 
 If it is the former, and all your spiritual energy is dissipated in material pursuits for the comfort of physical being, then it will diminish one's spiritual being until it will/may eventually be extinguished altogether.
+
+## Birth
+
+The impact of spirit entering the body, and encountering the constraining environment we are born into, is traumatic. This what creates the spaces of forgetfulness. For how could such a limited space contain the full wisdom of Torah.
+
+## Possesion
+
+Is it possible for the soul of one person to "occupy" the body of another?
+
+Most tales of possession speak of an entity, generally demonic, that takes possession of another. These encounters generally come from another realm. If the former cannot happen, then it speaks of the Divine protection of your space and your creation&mdash;which is the body that your soul has breathed life into". Remember how breath enters your body and the spreads and enters every cell of the body, so spiritually there is a breath that vivifies every organ of the body.
+
+Though we do have the choice to allow another power over us, or "give" one's power to another, or even more extreme, to a material goal or object &ndash; a drug, a woman, money, false idols, or some other form of material addiction. We are of an addictive nature, and need to direct, or constrain, our addictions appropriately. If we become addicted to positive things, like studying Torah (mental), worshipping G-d (emotional), practising random acts of kindness and chastity (_tzedakah_), that is the practice that we refer to as religion.
+
+Mysticism, on the other hand, is a call to the unknown, by the unknown itself&mdash;what is referred to as the mystery itself. Through faith, the alchemy of the unknown, the dark, and mysterious, produces gold.
+
+## Prayer
+
+Come to terms with my .... nature. Emerge from the closet, so as to say. Live fully expressing the truth of who and what I am, in order to fulfil my purpose in service to my divine nature and my fellow humans.
+
+To spread my wings and fly.
+
+To be able to balance my masculine purpose and feminine desire for union.
+
+To be free of the constraints of the programming of my past (ancestors). To release the constraints that prevent me from being who I really am and express the love and light of my inner being.
+
+Focus on joy in your life, and let G!d take you to the money.
+
+## Darkness & Light
+
+The darkness is inside. So, whenever I am alone, I am in darkness. There is only light outside us. Thus when we are with others, we are in light (enlightened?).
+
+Only when we look outside of ourselves, are we seeing light. THus we conclude that outside is real because I can see it (see the light), where as inside &ndash; where I cannot see what I am experiencing &ndash; is thus unreal &ndash; as opposed to the outside, where I can see what I am experiencing.
 
 {% endblock %}

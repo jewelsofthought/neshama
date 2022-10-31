@@ -145,9 +145,12 @@ Sanctions are an agreement of the global community not to supply or interact wit
 
 Boycotts are a willingness to do without certain things supplied by a group or company to which you have an objection, which is generally moral or ethical.
 
+<div class="note">
 NOTE: Sanctions generally do not affect the country (countries) imposing the sanctions. And most times if there is something that one of the sanctioning countries, they will break the sanctions overtly or covertly.
 
 NOTE: Boycotts are better, because they are more personal. Through boycotts, once the critical mass is reached, we will be able to effect much change very quickly. As the call to arms has stated, “We vote with our dollars”. Meaning by the purchasing choices we make, we can affect the suppliers who are driven purely by the profit motive.
+
+</div>
 
 #### Example: SA Breweries
 

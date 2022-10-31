@@ -6,7 +6,7 @@ date: 2004-10-05T13:08:51.930Z
 ---
 
 1. [The Game has to change](#the-game-has-to-change)
-   1. [The Maccabean Test](#the-maccabean-test)
+2. [The Maccabean Test](#the-maccabean-test)
 
 ## The Game has to change
 
@@ -16,7 +16,7 @@ But I ask you O great ones who rule over us and wish to control us like ants, li
 
 **The beauty of this strange Viral time is that it is clearly showing the difference between these two.**
 
-### The Maccabean Test
+## The Maccabean Test
 
 We are standing told that in order to continue to live our lives normally, we will need to kiss the ass of the statue of the pig that they have placed in our temples. Is not the "virus" that keeps us from gathering in our temples, and the vaccination that will allow us, the same thing? It is not the virus that is preventing the communal prayer, but the rules of our society that are not allowing us to gather there as they say there is a virus that prevents us. That is the pig they have created and placed there. Now, in taking the virus, you are kissing the statue - you are agreeing, nay willing, your body to act in accordance with the wishes of this new rule. And in doing so, are accepting their mandated behaviour. For to need accept it, is tantamount to revolution. And the punishment for such treason follows soon after. At first, no-one is forced. But once a critical mass is reached - they called it "herd immunity" - the balance will be upset, and they will have to become mandated, because if those who have submitted, believing that the new rule will improve their lot - which is the common mantra of those in power, or who wish to be in power - and it seldom improves the lot of this class, except that the chaos causes movement of certain segments, and when the dust has settled, the system will produce the same situation of the ruled and the rulers. It Are you going to bow to this because you need to earn a living? Or are you going to rather die at Masada, having stood up to your last breath against this evil that is taking over your world?
 

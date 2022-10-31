@@ -5,7 +5,7 @@ tags: null
 date: 2021-08-20T21:22:16.154Z
 ---
 
-> Because you hearken to these laws ([Deuteronomy 7:12[(https://www.chabad.org/9971#v12)])
+> Because you hearken to these laws ([Deuteronomy 7:12](https://www.chabad.org/9971#v12)])
 
 The commentaries dwell on the Hebrew word _eikev_ in this verse—an uncommon synonym for “because.” Many see a connection with the word _akeiv_ (same spelling, different pronunciation), which means “heel.”
 
@@ -18,21 +18,22 @@ _My take:_
 _1. This is a phenomenon that occurs often. I speak of it as the Rabbinic overlay on the Torah. This is a good example of it- the interpretation of “eikev” as heel. One of our famous sages will take this interpretation and speak of it, thereupon there will be many other Rabbi’s that will follow this line of interpretation, few questioning it. But beyond questioning it, it is only one other interpretation – what others could there be?_
 _2. This is stimulated by the strange times we are in. We will need a fresh direction and interpretations to continue into the future that awaits us. First we must fight the battle to prevent the forces of darkness from plunging us into slavery again. (Or are we already in bondage? If that is the case, then I pray for one of Moshe Rabbeinu’s stature to free us.)_
 
-לַעֲקוֹב verb – pa’al to follow, to tail; to watch, to observe
-מַעֲקָב noun surveillance, tracking
-עָקֵב noun footprint, trace; heel
-עֵקֶב adjective curved, winding, rolling (biblical)
-עָקוֹב conjunction following, because of, due to
+<div class="note">
+לַעֲקוֹב (v) &ndash; to follow, to tail; to watch, to observe<br />
+מַעֲקָב (n) &ndash; surveillance, tracking<br />
+עָקֵב (n) &ndash; footprint, trace; heel<br />
+עֵקֶב (adj) &ndash; curved, winding, rolling (biblical)<br />
+עָקוֹב (conj) &ndash; following, because of, due to<br />
 
-_Are we always to be under the heel of Ha’Shem? He promised the land and the prosperity to Abraham, yet it is conditional. We say He loves us, and Israel is His bride, yet His love is not-unconditional. So we have the new “religion” preached by Yehoshua, the Messiah, who say that all there is is love, and we need to love unconditionally. That is not right, for that means we are to love the evil-doers and the idol-worshipers, the liars and adulterers as well._
+{Note: Are we always to be under the heel of Ha’Shem? He promised the land and the prosperity to Abraham, yet it is conditional. We say He loves us, and Israel is His bride, yet His love is not-unconditional. So we have the new “religion” preached by Yehoshua, the Messiah, who say that all there is is love, and we need to love unconditionally. That is not right, for that means we are to love the evil-doers and the idol-worshipers, the liars and adulterers as well.
 
-_It is not to be suffering and oppression under His heel. It is to be released and in love with Ha’Shem. Will He marry someone who does not love Him the same way He loves her? It is not about the nation carrying out all the commandments – though it is about obeying them. It says to lay the tefillin every day. Yet it is the Rabbis who have told us to lay it before 10am. We accept their overlay, but it does not mean that they are correct for this time and this place. Just as their ordinances changed according to the society and environment we found ourselves in, so there is a great change, a great leap forward, that needs to occur._
+It is not to be suffering and oppression under His heel. It is to be released and in love with Ha’Shem. Will He marry someone who does not love Him the same way He loves her? It is not about the nation carrying out all the commandments – though it is about obeying them. It says to lay the tefillin every day. Yet it is the Rabbis who have told us to lay it before 10am. We accept their overlay, but it does not mean that they are correct for this time and this place. Just as their ordinances changed according to the society and environment we found ourselves in, so there is a great change, a great leap forward, that needs to occur.
 
-_The basic fact of our existence is based on our studying the Torah. That must continue. However, the interpretations need to continue to evolve, and have a real relationship with the world of the present. We cannot continue to do exactly as we have done for hundreds of years, and expect a different result._
+The basic fact of our existence is based on our studying the Torah. That must continue. However, the interpretations need to continue to evolve, and have a real relationship with the world of the present. We cannot continue to do exactly as we have done for hundreds of years, and expect a different result.
 
-_So the_ ekev _I would like to focus on is the following, tracking of God and God’s Will. For just as we evolve and develop, so will God’s Will (for us). For instance, does He still want us to sacrifice our animals on an altar in His name? Is that what we will be doing in the future, and is that the reason that we have to rebuild the temple (of Jerusalem)? And still we read the intricacies of animal sacrifice, of the incense that will burn in the temple that is to be built._
+So the **ekev** I would like to focus on is the following, tracking of God and God’s Will. For just as we evolve and develop, so will God’s Will (for us). For instance, does He still want us to sacrifice our animals on an altar in His name? Is that what we will be doing in the future, and is that the reason that we have to rebuild the temple (of Jerusalem)? And still we read the intricacies of animal sacrifice, of the incense that will burn in the temple that is to be built.
 
----
+</div>
 
 > He afflicted you, and suffered you to hunger, and fed you with manna . . . in order to make you know that man does not live by bread alone (8:3)
 
@@ -41,28 +42,32 @@ For forty years the children of Israel were sustained by “bread from heaven,�
 The challenge is to retain this recognition also after entering the Land and making the transition to “bread from the earth.” Even when we are nourished by bread which we earn by “the sweat of our brow,” we must remember that, in truth, our sustenance comes from G-d, and that we never receive an iota more or an iota less than what is allotted us from Above.
 (The Lubavitcher Rebbe)
 
+<div class="note">
 {NOTE: Now that is closer to my heart. Something that can be followed. Something that reminds me of the dependency I have upon G-d, and that nothing occurs “out of context” or “randomly”. To live in that paradigm – however knowing that that iota is not necessarily a static amount, as I would, in this realm of measurement, tend to imagine it. The realm of the Divine is a realm of timelessness and spacelessness, and thus an iota in the Divine realm then has to be interpreted in term of time and space of this realm. So, how can it be an “exact” measurement – in mundane terms.}
 
-_But as the Will of G-d evolves and responds to us, so that iota is expressed. If G-d is an ever-present influence, He is dynamic and alive. That is why the promise to Israel is not “absolute” but relative and dynamic._
+But as the Will of G-d evolves and responds to us, so that iota is expressed. If G-d is an ever-present influence, He is dynamic and alive. That is why the promise to Israel is not “absolute” but relative and dynamic.
 
----
+</div>
 
 > Man does not live by bread alone, but by the word that proceeds out of the mouth of G-d does man live (8:3)
 
 At the core of every existence is a divine utterance that created it (“Let there be light,” “Let the earth sprout forth vegetation,” etc.), which remains nestled within it to continuously supply it with being and life. The soul of man descends into the trappings and trials of physical life in order to unite with and elevate the “sparks of holiness” buried in the food it eats, the clothes it wears, and all the other objects and forces of the physical existence it interacts with. For when a person utilizes something, directly or indirectly, to serve the Creator, he penetrates its shell of mundanity, revealing and realizing its divine essence and purpose.
 
+<p class="note">
 {NOTE: Here is the truth that the only way to release the sparks of light is to enter into the places of darkness, the materiality of the object itself, within which the spark is hidden. This is why we need to engage and enjoy all our physical senses, for those are the tools that Ha’Shem provided us with to penetrate (dig) into the thickness and density of the material “world”, in order to release the sparks that are buried therein.}
-
+</p>
 Therein lies a deeper meaning to the verse ([Psalms 107:5](https://www.chabad.org/16328#v5)): “The hungry and the thirsty, in them does their soul wrap itself.” A person may desire food and sense only his body’s hunger, but in truth his physical craving is but the expression and external “packaging” of a deeper yen—his soul’s craving for the sparks of holiness that are the object of its mission in physical life.
 (Rabbi DovBer, the Maggid of Mezeritch)
 
+<div class="note">
 {NOTE: Is this not the essence of our very existence, and expressed in clear terms. However, the meaning of these lovely words is the task, the challenge. To understand divine utterances in human terms is our work. How to do that?
 
 The central challenge is “to serve the Creator”. What does that mean? In religious terms (and all religions preach the same action), it is to pr(act)ice in a certain manner. In Judaism it is to obey all the commandments, and to carry out all the _mitzvot_. In Christianity, it is to... as in Islam, or Buddhism, or Hinduism. Each has its “commandments”, and its practice (_halacha_).
 
 The practice, the religion, is there, at its highest/best, to cleanse our souls so that we can “see” the Divine in everything. That is still not the spark – for the spark is the energy that moves/affects something. Here I have to speak of the [levels of soul](/site/posts/qkab/soul_levels).
 }
----
+
+</div>
 
 > Who led you through that great and terrible desert . . . [a place of] thirst where there is no water (8:15)
 
@@ -102,8 +107,9 @@ Said G-d to him: “Moses! You err as they do! For there is nothing real in it.�
 Said Moses: “If this is the case, why should Your wrath burn against Your people?”
 (Midrash Rabbah)
 
+<p class="note">
 {NOTE: Now that is a question I have often asked? Why is G-d so upset with the people for making a Golden Calf?}
-
+</p>
 This is what Moses said: “Master of the Universe! When I asked You what their merit was that You should redeem them, since they are idolaters, You said: ‘You see them only now as idolaters, but I can foresee them departing from Egypt, and My dividing the Red Sea for them, and bringing them into the wilderness, and giving them the Torah and revealing Myself unto them face to face, and them accepting My kingship—yet denying Me at the end of forty days by making the calf!’
 
 “Since You have told me of their making a golden calf long before You did deliver them,” argued Moses, “why do You seek to slay them now that they have made it?”
@@ -128,8 +134,9 @@ According to the Talmud, the _shittah_ was a type of cedar; in Rabbi Saadiah Gao
 
 Chassidic teaching sees the word _shittim_ as related to the word _shetut_, “folly”&mdash;an allusion to the fact that the function of the _Mishkan_ was to transform the folly of materialism into “folly of holiness”&mdash;commitment to G-d that transcends the rationale and normalcy of “the way things are.”
 
+<p class="note">
 {NOTE: I would ask what is the modern _Mishkan_ – a place where we can (or that will) transform the folly of materialism into the folly of holiness – that commitment to Wisdom that transcends the rationale and normalcy of “the way things are”.}
-
+</p>
 ---
 
 > For the land into which you go . . . drinks water of the rain of heaven (11:10–11)
@@ -142,8 +149,9 @@ The scholar’s soul is an irrigated field, devotedly developed and nurtured by 
 
 The irrigated field yields a harvest that is superior, in quantity and quality, to that of her passive sister. But the rain-watered field is a truer, purer reflection on her heavenly Maker.
 
+<p class="note">
 {NOTE: Today, superior in quantity but no longer in quality. This is a spiritual way of expressing the need for “rain-watered” food.}
-
+</p>
 ---
 
 > For the land . . . is not like the land of Egypt . . . where you did sow your seed, and did water it by foot, like a vegetable garden . . . [rather,] it drinks water of the rain of heaven (11:10-11)
@@ -156,8 +164,9 @@ nourished not by descending rain but by the overflow of the Nile, which would pe
 The people of Israel had been subjected to the Egyptian mentality for four generations. Thus they had to spend forty years in the desert, during which they were subjected to a diametrically opposite set of circumstances, in which one’s daily bread descends from heaven and one’s own efforts have no effect on the result. Only after this lesson in the true source of life could they enter the land that “drinks water of the rain of heaven”—where man’s efforts are crucial and significant, yet are permeated with a recognition of, and dependence upon, the true Source of All.
 (The Chassidic Masters)
 
+<p class="note">
 {NOTE: Would not the fact that “one’s efforts have no effect on the result” be disheartening? It would make the people passive and submissive. Only if you realise that if you dedicate all your efforts, your very life, to service of the Divine, will you always be receiving manna from Heaven.}
-
+</p>
 ---
 
 > To love the L-rd your G-d and to serve Him with all your heart (11:13)

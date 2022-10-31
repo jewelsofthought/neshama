@@ -23,6 +23,7 @@ modified: 2022-02-14T14:13:07.098Z
 15. [Flood](#flood)
 16. [Noah](#noah)
 17. [<i>Sitre Torah</i> - Abulafia](#isitre-torahi---abulafia)
+18. [Shabbat - Chapter Two](#shabbat---chapter-two)
 
 <blockquote dir="rtl">
 שׁמִר רגליך כאשׁר תלך אל־בית האלוהים, וקרוב לשׁמיע מִתֶת
@@ -184,4 +185,21 @@ Noah sent the dove from himself, and received it into himself with the olive bra
 
 The strongest of these holy combinations from which you will know the secret of the Ineffable Name ... are the letters which are called _Urim_ and _Tummim_, which illuminate the eyes of the hearts, and complete the thoughts. and enlighten the path of understanding, and make know the planetary positions, and teach the existence of separate beings and tell the future
 
+<p class="note">
 {NOTE: What if that is true! Or I accept it as true? That would cause an existential breakdown.}
+</p>
+
+## Shabbat - Chapter Two
+
+<blockquote dir="rtl">
+.א
+מֻתָּר לְהַתְחִיל מְלָאכָה מֵעֶרֶב שַׁבָּת אַף עַל פִּי שֶׁהִיא נִגְמֶרֶת מֵאֵלֶיהָ בְּשַׁבָּת. שֶׁלֹּא נֶאֱסַר עָלֵינוּ לַעֲשׂוֹת מְלָאכָה אֶלָּא בְּעַצְמוֹ שֶׁל יוֹם. אֲבָל כְּשֶׁתֵּעָשֶׂה הַמְּלָאכָה מֵעַצְמָהּ בְּשַׁבָּת מֻתָּר לָנוּ לֵהָנוֹת בְּמַה שֶּׁנַּעֲשָׂה בְּשַׁבָּת מֵאֵלָיו:
+
+<div dir="ltr">
+
+1. It is permissible to begin the performance of a [forbidden] labour on Friday, even though the labour is completed on its own accord on the Sabbath itself,[^1] for the prohibition against work applies only on the Sabbath itself. Moreover, when a task is carried out on its own accord on the Sabbath,[^2] we are permitted to derive benefit from what was completed on the Sabbath.
+
+</div>
+</blockquote>
+
+It is difficult to apply these

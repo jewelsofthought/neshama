@@ -97,3 +97,35 @@ Every practice will have this at its core. The _Shma_ in Judaism, the _Om_ in Hi
 > In the infinite realm, any finite event can be reduced to a mere point. And any infinite event is of lessor order than the Infinite Infinity.
 
 _This is a introduction to the pieces on infinity, the beginning (creation), and one._
+
+---
+
+He looked down at the earnest faces in front of him...
+
+It had been a long journey to this place to meet and find this man hidden in the mountains of Africa.
+
+Lying there in my cocoon of bliss, one year old, I could see them leaning over the crib I was lying in. I did not recognise their shapes yet, just the energetics of our relationships. I was the centre and they were like electrons orbiting around the nucleus, like the interactions of atoms forming a molecule of existence. One could call it the DNA of our spiritual existence&mdash;the template that you are born with&mdash;rich or poor, surrounded by siblings or a single child to a single mum; parents who are happy or depressed, loving or violent, caring or distant, abusive or kind...
+
+Often when they leaned over me a worm-like tentacle would emerge and reach down towards me. It was filled with fear, as they were worried about me&mdash;whether I would live or I would die. But, for me, there was no distinction. I was just here, lying around, unable to sit up, reacting to what was around me, unable to move away. Everything reverberated with its sensations&mdash;whether hard or soft, slow or fast, loud or quiet&mdash;so many new feelings surrounding me.
+
+When I needed to cough, I coughed and when it was over, it was done. My only need was food and love and a safe space to be.
+
+Is that when it began?
+
+Although I could not understand their words, I could see them, as Yogananda said, "All babies are born with the capacity to speak any language on earth. I was born with the knowledge of all languages. Slowly, I had to learn that my parents only understood a specific language. I had to constrain myself in order to communicate with them."
+
+{I think it is not that they baby has knowledge of all languages. He has the ability to speak any one, if taught. But he does come in to life knowing a root language, what one might call the Divine language of existence.
+
+Those around me, I perceived/saw as vibrational patterns or crystals that formed shapes. I could tell by their nature what energy or intention they carried.
+
+---
+
+This is the creation of the vessel, the chariot, the construction that you will be shaped from and by throughout your life.
+
+The goal is for each one of us to re-pattern ourselves. It is referred to as redemption, חוזר בצובה, returning to the source through the process of first atonement then "atunement". This is done by passing through the three levels of forgiveness, till gratitude is all that remains.
+
+This will require a change. If you want your life to change, first change yourself. The Holy One, blessed be He, will not change.
+
+---
+
+In my bubble, or womb, of light, I had no fear. I was still aware of and connected to the Light. I was clean and pure, and thus radiated that image of Divine, that is spoken of in Genesis. Every morning, I am reminded of this. <b>אלוהים, הנפשׁ שׁנתתה בי, תהוּרה. </b>

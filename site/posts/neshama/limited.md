@@ -33,7 +33,9 @@ Perhaps all this talk of level IV civilisations, stems around our ability to act
 
 As, in each step of evolution, there are those who will remain behind to hold the foundations. One cannot ascend to a higher level without the lower levels being stable and nourished. They will continue to transact and relate in the 3d and 2d realities present today. These will be the ones who will enter the World to Come, and like Bodhisattvas, will guide and balance the energies of these vibrant dimensions, bringing greater fulfilment and understanding to many - as they have done throughout the ages. The only difference now, is that this is the birth time of this evolution. History is littered with failed attemps, ideas that never made it to print, that later emerged. Or that emerged in a disjoint part of the world. When the time of an idea/direction comes, the idea will emerge.
 
+<p class="note">
 {NOTE: Which would bolster the argument that we are going to need some other sort of understanding, some part of our mental capacities that we have not yet discovered/acknowledge, let alone plumbed - perhaps due to fear, we rather stay tethered to this purely material existence. At least it is rooted in something. As we have been saying for a long time - it will require a dynamic balance, between co-operation and competition for as to evolve.}
+</p>
 
 Perhaps our vaunted intelligence can only see so far. In other words, what if we are bounded in "thought" and comprehension. For the eye to see, the brain has to be able to evaluate what it is seeing. Otherwise, the data arrives, but nothing is done with it. It is indicative of the miles of printed paper that lies trashed and useless. In order for something to be seen, it requires a seer - i.e. transmitter/receiver!
 
@@ -42,7 +44,7 @@ It seems that we are driven at this stage by the belief that we humans can desig
 Perhaps we extend ourselves to the limit of our consciousness...
 
 <div style="margin-left: 2rem">
-<p>
+<p class="note">
 {NOTE: Which again, brings us to an interesting paradox, of actually, the belief in an infinite (or at least, greater) consciousness is what drives this desire to expand. There is a common desire to encounter the Infinite.}
 </p>
 <p>Two ways:</p>

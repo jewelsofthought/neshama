@@ -1,11 +1,3 @@
----
-title: Man on the cross
-description: What does the image say?
-tags: null
-date: 2008-01-12T15:38:35.115Z
-modified: 2021-11-30T15:28:53.426Z
----
-
 ## Cross
 
 Jesus on the Cross is the wrong image, it is, in essence, homo-erotic,

@@ -196,7 +196,7 @@ I found You coming toward me.<br />
 
 ## _Melech_
 
-- Teach children to see G-d in themselves and in each other {NOTE: First Biblical reference to this idea is the image of G-d in ourselves and each other}
+- Teach children to see G-d in themselves and in each other <span class="note">{NOTE: First Biblical reference to this idea is the image of G-d in ourselves and each other}</span>
 - Beware inflicting ‘G-d-abuse’, threatening children with a punitive G-d.
 - _Melech_ = _mem-lamed-kaf_ = waters of life source … channelled … to cup (us as receivers).
 - _Melech_ is a conduit for G-d
@@ -211,7 +211,9 @@ A fountain of blessings are You The-Eternal-Breath-Of-Life-Beyond-And-Within, Di
 - We are infinitely tiny in the universe; we are also infinitely large compared to the sub-atomic world
 - Space-time and matter ‘inter-are’; consciousness and reality/existence ‘inter-are’
 
+<p class="note">
 {NOTE: _Olam_ takes us into the lived experience of One-ness and that we ‘inter-are’.}
+</p>
 
 <div ="poem">
 Fix your mind on Me.<br />
@@ -224,13 +226,15 @@ for you are dear to me.<br />
 [Bhagavad Gita]<br />
 </div>
 
+<p class="note">
 {NOTE: Focus on G-d, love devotedly, serve, surrender self, join and embrace, be loved by G-d.}
+</p>
 
 ## Using a _bracha_ to introduce a _mitzvah_
 
 - Intimacy with G-d stirs us to do {Intimacy with G-d guides us}
 - G-d makes us holy, through our fulfilling _mitzvoth_
-  {NOTE: Sanctification is always a double-act between us and G-d}
+  <span class="note">{NOTE: Sanctification is always a double-act between us and G-d}</span>
 - “to live sacred lives through sacred action”
 - root of _mitzvah_ is _tzadi-vav_;
   _tzadi_ = right action, shaping energy {form};
@@ -245,20 +249,20 @@ for you are dear to me.<br />
 - _Mezzuzah_ = _shema_, G-d’s unity, return G-d’s love with ours
 - _Mitzvot_ are ethical imperatives from the collective wisdom of Judaism and have greater force than personal values or choices.
 - Do good, because G-d requires it of me?
-  {NOTE: Should I not do good because it is the right thing to do? But Judaism is a way to awaken this ethic in people who perhaps don't have it, or are unaware of its existence}
+  <span class="note">{NOTE: Should I not do good because it is the right thing to do? But Judaism is a way to awaken this ethic in people who perhaps don't have it, or are unaware of its existence}</span>
 - Save time by having no _bracha_ for _tzedakah_ (charity)
 - Jews once felt obligated; now we choose to be obligated
 - Noah: humanity and all world.
 - Abraham: Jewish insight into G-d
-  {NOTE: Torah was revealed at Sinai in the silent _aleph_}
+  <span class="note">{NOTE: Torah was revealed at Sinai in the silent _aleph_}</span>
 - Strip away and risk everything to hear G-d. We hear G-d from inside ourselves. Moses heard G-d with Moses’ own voice.
-  {NOTE: Are these the inner imperatives we simultaneously hear and obey in the _shema_?}
+  <span class="note">{NOTE: Are these the inner imperatives we simultaneously hear and obey in the _shema_?}</span>
 - _yetzer tov_ which is G-d, and _yetzer ra_ which is our impulse; ie wed authority and authenticity.]
 - To do a _mitzvah_ is to enter into I-Thou with G-d
 - Reshape behaviour to have more experience of inter-being with G-d
 - “Each time we (make) love (with) G-d, we stand at Sinai in _Atzliut_, in that timeless kiss of shared being.”
 - Tap ancient wisdom to serve the future; restore mystical tradition; meditation; psycho-spiritual prayer and joyous celebration from Chasidism
-  {NOTE: Borrow the wisdom underlying _mitzvoth_ as principles for today}
+  <span class="note">{NOTE: Borrow the wisdom underlying _mitzvoth_ as principles for today}</span>
 - Mustn’t reject tradition, but also not be a slave to it – join in renewal.
 - "Torah is an unripe fruit of Divine wisdom" (Zohar)
 - "G-d is wherever we let Him in" (Kotzker Rebbe)

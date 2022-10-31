@@ -30,6 +30,7 @@ modified: 2022-08-15T17:48:59.753Z
 22. [Non-human consciousness (NHC)](#non-human-consciousness-nhc)
 23. [Complex systems](#complex-systems)
 24. [Nature](#nature)
+25. [Interactions](#interactions)
 
 ---
 
@@ -195,8 +196,9 @@ We are so eager to embrace NHC, but have yet to acknowledge the trove we are sur
 
 A characteristic of complex systems is that they are self-organising. Which means that each element, including the element that contains all (or part) of these elements, "self" regulates, or regulates itself.
 
-{NOTE: This is a typical objectification, a separation. The same separation we often make between us & G-d - as something that exists outside of myself - which makes me "self" sovereign {sovereign to myself, and no one else}. We then have the option to reject or accept that outside element. Instead, we could accept that we are entangled, so much so, that it is difficult to tell the two &mdash; what is truly me & what is G-d &mdash; apart.
-
+<p class="note">
+{NOTE: This is a typical objectification, a separation. The same separation we often make between us & G-d - as something that exists outside of myself - which makes me "self" sovereign {sovereign to myself, and no one else}. We then have the option to reject or accept that outside element. Instead, we could accept that we are entangled, so much so, that it is difficult to tell the two &mdash; what is truly me & what is G-d &mdash; apart.}
+</p>
 The most important things to keep in mind are:
 
 1. A perception of something is not the thing itself, but an "imaginary" or "made-up" version of the actual "thing".
@@ -207,3 +209,9 @@ The most important things to keep in mind are:
 The closer to nature our lives are, not in that we all have to be pioneers, but that we are not living in contradiction or against the "laws of nature", the healthier and more effective our lives will be. Science tries to describe the natural processes, and then to emulate them&mdash;which is a form of control and of overcoming. Perhaps science should focus on working with the laws that it describes, rather than going against them.
 
 It could bring us into a biblical frame of reference as going against the "Will of G-d". For if G-d is creator of this world, then it is through and by the processes that He has created that He Speaks to us. Thus it is the best to try and listen and hear what She has to say, and operate accordingly.
+
+## Interactions
+
+I see people interacting with one another in new way. The only gateway into that is to have shared revelatory/transcendent experiences. Then the work begins.
+
+Similar to falling into a love relationship. It is a transcendent experience, but the real work is always in 3d. Dealing with the density and darkness of the 3d reality of the other, that is where we can manifest our connection.

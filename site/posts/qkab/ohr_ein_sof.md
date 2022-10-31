@@ -16,7 +16,9 @@ However that may be, it is certain that there was not a single event.
 
 Another way to think of this, is that until there are more than one event, and these events interact in some form or fashion, there is nothing that can happen. Thus although there might be information contained in this single event, unless there is another event interacting with it, this event will have absolutely no effect on anything, except itself! [narcissism](narcissism.html)
 
+<p class="note">
 {NOTE: Thus we have 3 identifiable things - 2 events & some sort of interaction between the two. Then that interaction can affect one (or both) of these events. We could say we have two points and a line between them. That "line", if itself represented as a point (of notice), a triangle (or triplet) would be a clearer symbol to represent that situation with. However, one could say that that triangle needs to be situated in a space that is not quite this space. It extends along a different dimension or axis as is more commonly known. If another event emerged out of two, or more,connected, or more events, would we then have a triangle emerging.}
+</p>
 
 ## Ohr Ein Sof
 
@@ -36,7 +38,7 @@ Another way to think of this, is that until there are more than one event, and t
 ## **Upper Simple Light**
 
 - Light that expands from the _Atzmut_ – Vitality, strength, power, force, of the Creator.
-  {NOTE: Does not refer to actual _Atzmut_, but only the Light that expands from the _Atzmut_.}
+  <span class="note">{NOTE: Does not refer to actual <i>Atzmut</i>\_, but only the Light that expands from the <i>Atzmut</i>.}</span>
 
 - “**Upper Light** filled the entire reality”
   → the entire reality relating to their existence in the void.

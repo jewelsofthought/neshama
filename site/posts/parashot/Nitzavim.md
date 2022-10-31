@@ -6,7 +6,10 @@ date: 2021-10-04T00:22:16.154Z
 ---
 
 **Renewal of the covenant** - Fear of admonition (98 curses)
+
+<p class="note">
 {NOTE: Element of sealing the covenant by/when entering the land of Israel. It is as if the previous narrative is preparation for that.(Land of) Israel representing secular/mundane/manifest life. Previously a spiritual story.}
+</p>
 
 ## Deuteronomy Chapter 29, verse
 
@@ -33,10 +36,13 @@ n29:10] <b>טפכים </b>&mdash; <i>Your small children</i>. The future of the 
 </p>
 </blockquote>
 
+<p class="note">
 {NOTE: Why does It say: "This day?" Did we not already enter into the "covenant of the Lord"? Perhaps, from here, we take that every day we enter into our covenant anew.}
+</p>
 
 n29:11] <b>בברית ובאלתו</b> &mdash; <i>Covenant and imprecation</i> (invoke curse). This refers to the curse that will come upon those who defy the covenant.
 
+<div class="note">
 <p dir="rtl">
 <b>כּורת</b> &mdash; seals
 <br />
@@ -48,7 +54,7 @@ n29:11] <b>בברית ובאלתו</b> &mdash; <i>Covenant and imprecation</i> (
 <span dir="ltr">
 Biblical meaning: curse, oath, covenant. However, the modern meaning is club, stick, bat.</span>
 </p>
-
+</div>
 ---
 
 <blockquote dir="rtl">
@@ -65,7 +71,9 @@ n29:14] <b>וְאֵ֨ת אֲשֶׁ֥ר אֵינֶ֛נּוּ פֹּ֖ה</b> &mdas
 
 The covenant was binding even on unborn generations ... because parents and children are like trees and their seeds. Just as the potential of all saplings is contained in the parent tree, so future generation are contained, in the parents who will give birth to them.
 
+<p class="note">
 {NOTE: But it could also refer to all those who have not heard the call, and was not at Sinai or amongst the people who crossed over the Jordan. It may be speaking of the nations that were not there, for G-d could see the whole world, and know of the people that lived in distant lands that maybe the Jews about to enter the land of Israel did not even know about. But He would know and would care.}
+</p>
 
 ---
 
@@ -90,13 +98,14 @@ n29:15-18] **Warning against Idolatory**. The passage warns against an astoundin
 
 n29:18] <b>שָׁל֣וֹם יִֽהְיֶה־לִּ֔י</b> &mdash; <i>Peace will be with me</i>
 
-{NOTE: It is more likely "God's peace upon (or for) me."
-I walk as my heart sees fit (_feminine_).
-I walk according to my covenant (with G-d) (_masculine_)
+<p class="note">
+{NOTE: It is more likely "God's peace upon (or for) me."<br />
+I walk as my heart sees fit (_feminine_).<br />
+I walk according to my covenant (with G-d) (_masculine_)<br />
 }
+</p>
 
-
-n29:18] <b>למען סְפות הרַווה את־הצמאַה</b> &mdash; <i>Thereby adding the watered upon the thirsty</i>. "Watered" is a metaphor for <b>שׁוגג</b>, _unintentional sin_, because when a person has had too much to drink and becomes intoxicated, he may sin without being aware of what he is doing. {NOTE: So we can label the sin as a lessor one, but it is overridden by the sin of becoming intoxicated in the first place, perhaps in order to behave in a sinful manner.}_ "Thirsty" is a metaphor for <b>מזיד</b>, _intentional sin_, because a thirsty person is rational and seeks means of satisfying his craving. Thus, the sense of t he verse is that only under normal circumstances does G-d treat unintentional sins leniently, but when a person falls prey to the delusion that he is free to do as he pleases &mdash; _peace will be with me_ &mdash; G-d holds him responsible even for his unintentional sins (_watered_), since they are the result of indifference to the gravity of a transgression. (_Rashi_)
+n29:18] <b>למען סְפות הרַווה את־הצמאַה</b> &mdash; <i>Thereby adding the watered upon the thirsty</i>. "Watered" is a metaphor for <b>שׁוגג</b>, _unintentional sin_, because when a person has had too much to drink and becomes intoxicated, he may sin without being aware of what he is doing. <span class="note">{NOTE: So we can label the sin as a lessor one, but it is overridden by the sin of becoming intoxicated in the first place, perhaps in order to behave in a sinful manner.}</span> "Thirsty" is a metaphor for <b>מזיד</b>, _intentional sin_, because a thirsty person is rational and seeks means of satisfying his craving. Thus, the sense of t he verse is that only under normal circumstances does G-d treat unintentional sins leniently, but when a person falls prey to the delusion that he is free to do as he pleases &mdash; _peace will be with me_ &mdash; G-d holds him responsible even for his unintentional sins (_watered_), since they are the result of indifference to the gravity of a transgression. (_Rashi_)
 
 ---
 
@@ -116,7 +125,9 @@ n29:28] <b>הנסתרות לה’ ־ </b>&mdash; <i>the hidden [sins] are for G-
 
 ## Deuteronomy Chapter 30
 
+<p class="note">
 {NOTE: This is a litany as to the good things that will happen if (and when) we "accept G-d and love Him with all our heart and all our soul. It is a lovely piece in many ways, but what I find particularly interesting is the turn of phrase(s) used to describe this abiding love we should arouse in ourselves. What stands out for me is the continuous "listen to His Voice". It has caused me to spend many hours meditating on what is meant by "His Voice". The majority of Rabbi's seem to look at it as "the reading/study of the Torah", but, postmodernist that I am, I wander. If G-d is everywhere and everything... would not His Voice be everywhere and in everything? Those Words uttered in the creation of the world would still be reverberating today, and, even more so, if, according to Kabbalah, the creation is happening continuously.}
+</p>
 
 <blockquote dir="rtl">
 א וְהָיָה֩ כִֽי־יָבֹ֨אוּ עָלֶ֜יךָ כָּל־הַדְּבָרִ֣ים הָאֵ֗לֶּה הַבְּרָכָה֙ וְהַקְּלָלָ֔ה אֲשֶׁ֥ר נָתַ֖תִּי לְפָנֶ֑יךָ וַֽהֲשֵֽׁבֹתָ֙ אֶל־לְבָבֶ֔ךָ בְּכָ֨ל־הַגּוֹיִ֔ם אֲשֶׁ֧ר הִדִּיחֲךָ֛ יְהֹוָ֥ה אֱלֹהֶ֖יךָ שָֽׁמָּה:

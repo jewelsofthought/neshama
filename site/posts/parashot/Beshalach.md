@@ -23,7 +23,9 @@ Why would He Harden pharaoh's heart? Well, perhaps, after so many generations of
 
 The lesson needed to be engraved in the not only the current generation, but deep enough to affect many generations to come. And to cut that deep requires something extraordinary (in the {(ordinary mind)[ordinary.htmlj] - the mind that cannot conceive of any extra-ordinary!
 
+<p class="note">
 {NOTE: Definition of **ordinary** - the mind that cannot conceive of the extra-ordinary!}
+<p>
 
 ## Long road
 
@@ -84,7 +86,9 @@ Manna:
 
 What happened to all the animals they took with them? Were they all used..?
 
-Note 17-18: Esau hated his father, Jacob? Why?
+<p class="note">
+{Note 17-18: Esau hated his father, Jacob? Why?}
+</p>
 
 17: Complain - for the 3<sup>rd</sup> time
 

@@ -37,9 +37,9 @@ Another interpretation is: “You shall tear down their altars . . . and destroy
 <p style="padding-left: 2.5rem">
 &mdash;&nbsp; (Talmud, Makkot 22a)
 </p>
-
-{NOTE: Does this then speak of **HaShem** appearing in other places as well? And why would He not, if He is Ruler over the whole world?}
-
+<p class="note>
+{NOTE: Does this then speak of <b>HaShem</b> appearing in other places as well? And why would He not, if He is Ruler over the whole world?}
+</p>
 ---
 
 > Only to the place which the L-rd your G-d shall choose (12:5)
@@ -51,18 +51,22 @@ The location of the altar [in the Holy Temple] is very exactly defined. . . . It
 </span>
 </p>
 
-{NOTE: It would be in a specific geographic location. A single place. But working backwards, the earth of this place – is it meaningful the location that it comes from? Is not all the earth of this place G-d’s earth? So the places where they built altars could be different physical locations, all pointing to the same spiritual “location” – **Ha’Shem**.}
+<p class="note">
+{NOTE: It would be in a specific geographic location. A single place. But working backwards, the earth of this place – is it meaningful the location that it comes from? Is not all the earth of this place G-d’s earth? So the places where they built altars could be different physical locations, all pointing to the same spiritual “location” – <b>Ha’Shem</b>.}
+<p>
 
 ---
 
-{NOTE: Now there is the discussion of Kashrut, as regards meat. One could say that if there was no meat or fish eaten, then all food would be kosher. Thus it brings me to the realisation that the only food that is forbidden is food that is obtained from the flesh of a once-living being – that you have killed, (or that has been killed for you to consume), even if it is done by process of_ sechita. _Therefore, one could say, that one of the ways to herald in the Messianic era is to stop eating meat._
+<div class="note">
+
+{NOTE: Now there is the discussion of Kashrut, as regards meat. One could say that if there was no meat or fish eaten, then all food would be kosher. Thus it brings me to the realisation that the only food that is forbidden is food that is obtained from the flesh of a once-living being – that you have killed, (or that has been killed for you to consume), even if it is done by process of<b>sechita</b>. Therefore, one could say, that one of the ways to herald in the Messianic era is to stop eating meat.
 
 It is permissable to eat meat on special occasions – those in which you dedicate the meat in service to the Divine Will. This is due to the command to eat the meat at the temple, and not in the towns. We know there is some leniency, because this was only applicable in the land of Israel at the time of the temple. Otherwise, if you are too far from the temple, or there is none, it is permissable to eat the meat in one’s home. It also permissable to eat meat if it is a matter of life and death as well – as the ultimate expression of one’s lack of faith is to die unnecessarily or by your own hand.
 
 Being a vegetarian, none of these laws of kashrut apply to my home. The only way the unkosher can enter is through someone else tainting the food that I eat. If someone wants to know that laws of kashrut, that is fairly simple to explain. But, I would advise to stop eating meat as the simplist way to cleanse one’s home of the dense energy of meat and death.
 }
 
----
+## </div>
 
 > For you are a holy people to the L-rd your G-d
 
@@ -101,8 +105,9 @@ The “bound” elements of creation also have a role in the realization of the 
 &mdash;&nbsp;(The Chassidic Masters)
 </p>
 
+<p class="note">
 {NOTE: Much too meat orientated. If I eat/consume anything – not just meat then it should be a process of transmutation.}
-
+</p>
 ---
 
 > If there will be among you a needy person, from one of your brothers in one of your cities . . . (15:7)

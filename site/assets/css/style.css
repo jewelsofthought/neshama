@@ -18,8 +18,12 @@
   }
 }
 
-.footnotes {
+.footnotes, footnote, .note {
   font-size: 80%;
+}
+
+.note {
+  font-style: italic;
 }
 
 .content blockquote:dir(rtl) {
@@ -38,8 +42,12 @@
   margin-top: 0rem;
   margin-bottom: 0rem;
   font-size: 90%;
+}
+
+.blog-post blockquote p:dir(ltr):not(:first-child) {
   text-indent: 2rem;
 }
+
 
 .title.is-4 {
   font-size: 2rem;

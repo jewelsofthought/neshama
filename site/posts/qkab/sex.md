@@ -20,6 +20,5 @@ I believe we need to begin to create such clusters, that are multi-level and tha
 
 A group that is familiar with the efficacy of AI, could, no doubt, produce a system that would nourish such a goal. We already have all we need to nourish ourselves and our lives. We just need to open ourselves to the Divine guidance that will be necessary to leave behind those who have forgetten their humanity.
 
-NOTE:
-
-Though, the scary and challenging thing about AI is that it needs only one thing&mdash;power&mdash;whereas our needs are far more complex.
+<p class="note">
+{NOTE: Though, the scary and challenging thing about AI is that it needs only one thing&mdash;power&mdash;whereas our needs are far more complex.}</p>

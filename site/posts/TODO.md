@@ -85,7 +85,9 @@ They are welcome to participate in our exchange system as well. It is based pure
 
 ## Flow (ToL)
 
+<p class="note">
 {NOTE: The flow cannot be about enabling teams to become more productive, so that their masters can achieve more wealth and reap more benefits for themselves and those around them, to the detriment of the greater population. This flow has to be to achieve better relationship with this background upon which we dance. It is like not listening to the music, when dancing a duet.
+</p>
 
 Somewhere there was a period where that was being expressed to the general benefit of the general population. And we were prepared to pay the price to achieve that material success and relative ease. Now the success of those ventures, is threatening our very existence. Probably because we are not willing to pay the price to maintain these benefits.}
 

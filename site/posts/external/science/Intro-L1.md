@@ -39,6 +39,7 @@ Four common physical properties are:
 - density
 - temperature
 
+<div class="note">
 { NOTE:
 This is where I start diverging from this model. These are not the physical properties of matter. These are the measurable physical properties of matter that are of concern to us.
 
@@ -46,6 +47,8 @@ However, as we shall see, density is the relationship of mass to volume. So why 
 
 Finally, I ask the question whether temperature is an innate characteristic of the matter in question, or whether it is just a measure of deviance? And if [energy is the capacity to transfer heat](http://shaunmwilliams.com/IntroChem/lecture1.html#slide-25), is not the temperature of the item a measure of the heat that it is containing, or, perhaps, the energy that one has "absorbed".
 }
+
+</div>
 
 ## Energy
 
@@ -60,9 +63,11 @@ Two main forms of energy are:
 - Kinetic energy: the energy of motion
 - Potential energy: energy possessed by an object because of its position
 
+<p class="note">
 { NOTE:
 Mass as energy at "rest", or in a stasis. This "mass event" can possibly contain excess energy, which will be express by the transfer of energy by or from the mass.
 }
+</p>
 
 - [Energy Units](http://shaunmwilliams.com/IntroChem/lecture1.html#slide-27)
 

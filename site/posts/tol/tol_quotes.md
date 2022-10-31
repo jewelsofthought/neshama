@@ -75,7 +75,9 @@ This is the Jewel of Indra, the network as I envisage it. I believe that by crea
 
 Robert Muller is the former Assistant Secretary-General of the United Nations and is now Chancellor, UN University for Peace, Costa Rica. He wrote the poem for Jessica Lipnack and Jeffrey Stamps in honour of their book, _Networking: The First Report and Directory_.
 
+<p class="note">
 {NOTE: After reading a through his ideas, there are some that are excellent. His ability to think in global terms, analysing many of the large scale issues that need to be dealt with, is commendable. To that end, it was be beneficial to us all if these ideas were to be implemented. However I question his uncompromising support for a form of World Government based upon the current political and economic framework. The Government could turn out to be even more distant from the average person, the citizens. It could become another form of the present government, only perhaps larger and more bureaucratic and politicized, and even more unaccountable. How tedious the process of change or agreement or action would be? How distant, how unaccountable would that body be in the end, to the average person. And once set in motion, how incredibly difficult it would be to change any direction.}
+</p>
 
 ---
 
@@ -83,4 +85,6 @@ Robert Muller is the former Assistant Secretary-General of the United Nations an
 
 > The ecumene (US spelling) or oecumene (UK spelling; Greek: οἰκουμένη, translit. oikouménē, lit. "inhabited") is an ancient Greek term for the known, the inhabited, or the habitable world. In Greek antiquity, it referred to the portions of the world known to Hellenic geographers, subdivided into three continents (Africa, Europe, and Asia). Under the Roman Empire, it came to refer to civilization itself, as well as the secular and religious imperial administration. In present usage, it is most often used in the context of "ecumenical" and describes the Christian Church as a unified whole, or the unified modern world civilization
 
+<p class="note">
 {NOTE: This was interesting to me because of the innate idea of being civilised vs. uncivilised arose in Roman Times. Before that it meant simply inhabited. It reminds me of the evolution of the word _goy_ in Hebrew. It originally referred to a non-Jewish person. Nowadays, it is used pejoratively.}
+</p>

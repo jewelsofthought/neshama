@@ -29,13 +29,13 @@ date: 2021-09-03T00:33:06.076Z
 5. [Chapter 19: יט](#chapter-19-יט)
    1. [21&#93; Eye for an eye](#21-eye-for-an-eye)
 6. [Chapter 20: כּ](#chapter-20-כּ)
-   1. [:1&#93; Battle. Do not fear for the Lord, your G-d, is with you.](#1-battle-do-not-fear-for-the-lord-your-g-d-is-with-you)
+   1. [1&#93; Battle. Do not fear for the Lord, your G-d, is with you.](#1-battle-do-not-fear-for-the-lord-your-g-d-is-with-you)
    2. [5-9&#93; Relieve soldiers: house, vineyard, betrothed, fearful.](#5-9-relieve-soldiers-house-vineyard-betrothed-fearful)
    3. [10-18&#93; Offer peace - or annihilate males.](#10-18-offer-peace---or-annihilate-males)
    4. [19-20&#93; Do not destroy fruit trees](#19-20-do-not-destroy-fruit-trees)
 7. [Chapter 21: כּא](#chapter-21-כּא)
    1. [5&#93; Kohanim serve **HaShem** (lovely phrase)](#5-kohanim-serve-hashem-lovely-phrase)
-   2. [9&#93; Remove innocent blood from you midst](#9-remove-innocent-blood-from-you-midst)
+   2. [9&#93; Remove innocent blood from your midst](#9-remove-innocent-blood-from-your-midst)
 
 ### Chapter 16: יו
 
@@ -115,7 +115,7 @@ It is also forbidden to set up a pillar i.e. a single stone for any sort of wors
 
 **n3] אֲשֶׁ֥ר לֹֽא־צִוִּֽיתִי**&mdash;<i>which I have not commanded</i> you to worship (_Rashi_), even though they are my handiwork (_Ibn Ezra_). _Sforno_ comments that this term refutes a common claim of idol worshippers, that the heavenly bodies have independent powers, since G-d _commanded_ them to assume control over such matters as fertility, rainfall, health, and so on. In response to such erroneous beliefs, G-d says that He has _not commanded_ them at all; rather He created certain spiritual or natural forces to serve particular functions, but they have no freedom or power to choose what they will or will not do.
 
-**\*n5]**The idol has no power to save its worshippers, even in its own locale.
+**n5]** The idol has no power to save its worshippers, even in its own locale.
 
 #### 6&#93; Witnesses
 
@@ -276,7 +276,9 @@ Is it G-d's goal for Israel that it be no different from any other nation, which
 </p>
 </blockquote>
 
-{NOTE: I know this refers to the service at the Temple, however there were more Levites (and Kohanim) than was needed for the services at the Temple. In addition, we do not have the Temple any more. It made sense, especially in the spreading of the duties of teaching the Law, as was expressed in Jithro and _the subsequent parasha in Deut_, that the Levites would be spread amongst the people in their cities.}
+<p class="note">
+{NOTE: I know this refers to the service at the Temple, however there were more Levites (and Kohanim) than was needed for the services at the Temple. In addition, we do not have the Temple any more. It made sense, especially in the spreading of the duties of teaching the Law, as was expressed in Jithro and the subsequent parasha in Deut, that the Levites would be spread amongst the people in their cities.}
+</p>
 
 ### 6-8&#93; Divided into shifts, or "watches"
 
@@ -299,9 +301,12 @@ Is it G-d's goal for Israel that it be no different from any other nation, which
 
 The passage lists nine forms of sorcery. See _Exodus_ 22:17; _Leviticus_ 18:21; 19:26,31 and 20:2-7,27.
 
-{NOTE: This is the power of science &ndash; to predict the future. Through statistics, it has begun to control huge aspects of our future.}
+<div class="note">
+{NOTE: This is the power of science &ndash; to predict the future. Through statistics, it has begun to control huge aspects of our future.
 
-{NOTE: Some of the nine forms of sorcery can be used for healing and guidance. However, what is to prevent someone who learns such a form to not be tempted to use it for prophecy?}
+Some of the nine forms of sorcery can be used for healing and guidance. However, what is to prevent someone who learns such a form to not be tempted to use it for prophecy?}
+
+</div>
 
 **n14-22] God sends His prophets to Israel** Jews do not need to fear that these prohibitions against learning the future makes them inferior to their neighbours. God reassured us that He will send us prophets.
 
@@ -313,13 +318,17 @@ The passage lists nine forms of sorcery. See _Exodus_ 22:17; _Leviticus_ 18:21; 
 (c) a prophet who suppresses a prophecy that G-d commanded him to communicate
 (_Rashi_)
 
+<p class="note">
 {NOTE: There are many prophets in the world today, nearly all of whom are not acting in accordance with their own prophecies. That is an interesting dividing line between the people that are predicting things that are happening in the world today. The hypocracy of the vaccine pushers, the conflicting actions of many of the climate-change doomsayers, etc.}
+</p>
 
 #### 22&#93; If it occurs as he said, he is a prophet.
 
 **n21-22]** Once he has proven himself a prophet, he need not prove himself every time he speaks... How to tell if the prophet is a fraud? If the supposed prophet predicts a certain event, and it does not come about, he is proven false.
 
+<p class="note">
 {NOTE: Did Moshe Rabeinu ever prophesize? Does a leader need to be a prophet?}
+</p>
 
 ### Chapter 19: יט
 
@@ -327,7 +336,9 @@ The passage lists nine forms of sorcery. See _Exodus_ 22:17; _Leviticus_ 18:21; 
 
 **n21] עין בעין**&mdash;<i>An eye for an eye</i>Refers to monetry compensation.
 
-{NOTE: Ayin b'ayin, can also refer to seeing "eye to eye", as in agreeing or in harmony with one another.}
+<p class="note">
+{NOTE: </b>Ayin b'ayin</b>, can also refer to seeing "eye to eye", as in agreeing or in harmony with one another.}
+</p>
 
 ### Chapter 20: כּ
 
@@ -336,7 +347,7 @@ Those unfit for battle are exempt from service.
 Offer peace to our foes before the battle begins.
 Do not destroy productive trees during a siege.
 
-#### :1&#93; Battle. Do not fear for the Lord, your G-d, is with you.
+#### 1&#93; Battle. Do not fear for the Lord, your G-d, is with you.
 
 **n1-4] משׁוח מלחמה/The Kohen anointed for battle.** His task is to proclaim the commandment that we must not lose heart, but trust in the salvation of the One for Whom we are about to fight(_Sotah 42a_). If we deal fairly with one another, we will not need to fear hostile enemies. (_Rashi_)
 
@@ -365,7 +376,7 @@ Except for the people on the land: Hittite, Amorite, Canaanite, Perizzite, Hitti
 </p>
 </blockquote>
 
-#### 9&#93; Remove innocent blood from you midst
+#### 9&#93; Remove innocent blood from your midst
 
 <blockquote dir="rtl">
  	  	טוְאַתָּ֗ה תְּבַעֵ֛ר הַדָּ֥ם הַנָּקִ֖י מִקִּרְבֶּ֑ךָ כִּי־תַֽעֲשֶׂ֥ה הַיָּשָׁ֖ר בְּעֵינֵ֥י יְהֹוָֽה:

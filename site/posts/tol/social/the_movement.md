@@ -47,7 +47,9 @@ Enough of separate tribalism. We all know what we need to manifest. All these se
 
 We begin by building the support infrastructure upon which we can manifest this paradigm. And all these groups are essential in the creation of this model. We first and foremost need a communication and support network, a tree of life network that will connect all of us that believe and know that this current situation needs to change. This is how to link with one another – like holding hands to create a long chain of information and action – that will provide the unity and strength to change the current situation. Once we have that in place, we can start to organise and build this infrastructure so that we can ensure the future for our children.
 
+<p class="note">
 {NOTE: This was written many years ago, and like all idealism, the reality of the dream is radically different, and becomes, in the hands of the human oligarchs, an evil and devious monster. If those who wish for power, whose greed knows no boundaries are the ones who implement such a global system, it will become a system of control and authorotarian dictatorship, and dystopian nightmare. How can those who are disempowered, and believe that they are slaves, ever become masters of their own fates, let alone the fate of the world?}
+</p>
 
 _So we have the “great reset”, agenda 2030, in which their will be a one-world government run by the global corporations carrying forth decisions that are shaped by an almost unknown, unelected global elite, whose first priority will be to ensure the continuation of their privilege and their power._
 

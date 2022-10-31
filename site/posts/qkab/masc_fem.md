@@ -17,10 +17,16 @@ modified: 2022-01-30T19:58:00.956Z
 4. [Roles](#roles)
 5. [Desire for Power](#desire-for-power)
 6. [Transform](#transform)
-7. [Limits](#limits)
-8. [Sexual realm](#sexual-realm)
-9. [Sex with](#sex-with)
-10. [Prayer](#prayer)
+7. [Sexual Journey](#sexual-journey)
+   1. [A word on the beloved](#a-word-on-the-beloved)
+8. [Limits](#limits)
+9. [Sexual realm](#sexual-realm)
+10. [Sex with](#sex-with)
+11. [Female](#female)
+12. [Coitus](#coitus)
+13. [Misc](#misc)
+14. [F\*ck\*\*\*](#fck)
+15. [Dance with Joy](#dance-with-joy)
 
 ## Male & Female
 
@@ -79,6 +85,22 @@ _The female transforms the male energy into form_
 
 However, it requires the union of male &amp; female, and, on the upper level, it requires this union to be harmonious and balanced. If the male is not contained by the female, and manifests form, it is misplace (misappropriated) energy, thus has the tendency to become destructive, as it will need to destroy this form (the female). If energy is not utilised, not only does it go to waste, but it turns toxic. [anaerobic - no oxygen](anaerobic.html). Think of under-utilised electrical energy&mdash;like a fully charged battery.
 
+## Sexual Journey
+
+The masculine sexual impulse enters the young body. It is new, it is powerful and overwhelms the vessel in which it needs to be contained. Due to the unrelieved pressure, it could crack, thus needs to be well bound to contain it.
+
+This intense, and misunderstood urge for the young female is overwhelming, while the young woman is radiating sexuality and beauty, flush with her youthful eroticism.
+
+If this masculine urge for the female is not contained or focused on a beloved, and continuous till his later years, the older man will find the older woman unattractive, and continue to attempt to suck of the juice of the your girl. This will tilt the sexual energy into other forms, and will need to be fulfilled by other means in order to compensate for the lack of pure, clear sexuality.
+
+### A word on the beloved
+
+Whatever criticisms have been laid against the romantic ideal of the beloved, it came (and still comes) from our deep desire for union with the Beloved G-d, who is the Creator of All, bless Him forevermore. {You could say the Creator is male, the Nourisher is female&mdash;that is ignoring the fact that the Creator is both male and female and that it is only because of the constraints and comforts of our language that we refer to It as Him.}
+
+Once we had G-d manifest in human form (male, of course), now we could easier allow ourselves to love another human as we would G-d, our true Beloved. Once our focus on the unknowable Divine Source, may His dew water us eternally, wavered, then this attachment could be formed to anything. {This is the reason for the prohibition of idol worship.}
+
+To constrain our sexual urges through love of the beloved, whether it is the human loved or the Divine, it raises us to seek a relationship with either the Divine aspect of my partner or the Divine Presence that surrounds us all. The alternative is to encourage sexual exploration, and dalliances, which will only lead to abomination and the perversion of desire.
+
 ## Limits
 
 $$\lim_{n \to 0} (1/n) = \infty$$
@@ -107,16 +129,38 @@ Nobody has the right to tell anyone else who they can or cannot have sex with, b
 
 What meetings are possible in the angelic realm where actions are true? Where a look, accompanied by a tremor of excitement, can set a soul alight.
 
-## Prayer
+## Female
 
-Come to terms with my .... nature. Emerge from the closet, so as to say. Live fully expressing the truth of who and what I am, in order to fulfil my purpose in service to my divine nature and my fellow humans.
+If you accept the fact that you are young and beautiful, and every man is going to try want you, in one way or another&mdash;you will be more able to determine and control what goes on around you. All I say is - be gracious. Only use what you have to to get what you need. Don't be cruel.
 
-To spread my wings and fly.
+## Coitus
 
-To be able to balance my masculine purpose and feminine desire for union.
+The only truly heterosexual sexual act is vaginal penetration. All the rest are "diversions", and should be for the the pleasuring of the female.
 
-To be free of the constraints of the programming of my past (ancestors). To release the constraints that prevent me from being who I really am and express the love and light of my inner being.
+## Misc
 
-Focus on joy in your life, and let G!d take you to the money.
+Male $$\rightarrow$$ line
+Female $$\rightarrow$$ circle
+Sex $$\Rightarrow$$ on/off $$\rightarrow$$ cycle
 
-The woma
+## F\*ck\*\*\*
+
+Male wants the female for sex. That is a driving imperative. If he is "pure" male, then he would (if allowed) have a no nonsense approach. He would rip off her clothes and f\*ck.
+
+In order to make the experience worthwhile and for the upliftment and pleasure of both parties, to make the journey last, he needs "diversion". He has to "miss the mark", otherwise it is game over in a short time. Thus he needs to insert time into the experience, which equals creativity.
+
+That is what love introduces into the experience, the willingness and desire to spend time to make sure that the outcome is positive for them both. The only way to truly uplift both parties and especially the feminine is through love of his partner, and ideally he would see in her the feminine Divine. For he sees feminine energy everywhere, and, in his response, will change things in her environment.
+
+Love is when he sees her manifest in the objects around him.
+
+What if she just wants sex too, and not complicate it with the demand of love. This should balance things out, but it does not seem to. In that case, often it is the man that is hurt, and will end up referring to her as a slut.
+
+Woman controls man through sex, unless the man has enslaved her sexually, generally by overpowering physically or by means of societal controls. On the individual scale, it is emotional power that will stop him taking her, whereas on the communal scale it is social and legal pressures.
+
+If she manages to control his sexual imperative, he will become sexually disconnected and unhappy, as he is not in tune with his own life force.
+
+True love is not love that only loves you when you do what it wants. Just as true faith is not love G-d when things are good for you (like in the story of Job)
+
+## Dance with Joy
+
+![Dance with Joy](/posts/img/qkab/dance_in_joy.svg)

@@ -5,6 +5,7 @@ tags:
   - external
 date: 2014-10-24T13:26:52.768Z
 modified: 2021-11-28T16:00:15.224Z
+eleventyExcludeFromCollections: true
 ---
 
 # Path-working on the Qabalistic Tree of Life
@@ -14,21 +15,21 @@ From: _Journal of Western Mystery Tradition_, No. 3, Vol. 1. Autumnal Equinox 20
 
 ## Introduction
 
-"Path-working" is a comparatively new phenomenon in the Western Mystery Tradition, as it does not seem to have existed as an occult practice prior to the occult revival of the late nineteenth century. Yet nowadays it is an established practice amongst many schools of magical thought. Pat Zalewski reveals that it is part of the curriculum for a _Theoricus Adeptus Minor_ of the Golden Dawn[1]; it is described in the writings of Dion Fortune[2], Israel Regardie[3], Melitta Denning and Osborne Phillips[4] to name but a few.
+"Path-working" is a comparatively new phenomenon in the Western Mystery Tradition, as it does not seem to have existed as an occult practice prior to the occult revival of the late nineteenth century. Yet nowadays it is an established practice amongst many schools of magical thought. Pat Zalewski reveals that it is part of the curriculum for a _Theoricus Adeptus Minor_ of the Golden Dawn[^1]; it is described in the writings of Dion Fortune[^2], Israel Regardie[^3], Melitta Denning and Osborne Phillips[^4] to name but a few.
 
-Simply put, "Path-working" is the art of clairvoyantly investigating the Paths of the Tree of Life. Path-working as a technique seems to have developed from the clairvoyant practices of Adepts in the Stella Matutina - one of the off-shoots of the Golden Dawn:
+Simply put, "Path-working" is the art of clairvoyantly investigating the Paths of the Tree of Life. Path-working as a technique seems to have developed from the clairvoyant practices of Adepts in the _Stella Matutina_ - one of the off-shoots of the Golden Dawn:
 
-> Another technique, making use of this faculty[^5], was described in a paper recording a lecture by Frater Sub Spe.[^6] The idea was to re-read the rituals, and then endeavour to re-tread the Paths astrally. One example given, was that the Seer should formulate in imagination a vast pylon, and within its gates he should visualise the Hebrew Letter _Tau_, the 32nd Path. This should be preceded by a study of the Ritual of the Theoricus Grade, especially the Rite of the Kerubic Stations. Then imagining himself passing through this Letter _Tau_, and entering the Pylon, he should make the appropriate Pentagrams and Hexagrams, and vibrating the Divine Names appropriate to that plane. The resulting vision should be similar to the passage of the Path in the ceremony, but whereas this latter was purely symbolic, the former may be real and dynamic, and may develop into an initiation in the true sense of the word. The same technique may be applied to every Path and to every _Sephirah_.[^7]
+Another technique, making use of this faculty[^5], was described in a paper recording a lecture by Frater Sub Spe.[^6] The idea was to re-read the rituals, and then endeavour to re-tread the Paths astrally. One example given, was that the Seer should formulate in imagination a vast pylon, and within its gates he should visualise the Hebrew Letter _Tau_, the 32nd Path. Then imagining himself passing through this Letter _Tau_, and entering the Pylon, he should make the appropriate Pentagrams and Hexagrams {appropriate Sacred (Geometric) Symbols}, and vibrating the Divine Names appropriate to that plane. The resulting vision should be similar to the passage of the Path in the ceremony, but whereas this latter was purely symbolic, the former may be real and dynamic, and may develop into an initiation in the true sense of the word. The same technique may be applied to every Path and to every _Sephirah_.[^7]
 
 However, one should not imagine that when, nowadays, different people in the Western Mystery Tradition refer to Path-working they mean exactly the same thing. For example, in the Aurum Solis, Path-working is a means of raising ones consciousness from a lower _Sephirah_, to a higher one. The actual Path-working consists of a "guided meditation": the leader or facilitator tells the Path-workers what to experience, rather than leaving it to their own imagination.[^8]
 
 Dion Fortune, on the other hand, is in favour of such guided meditations up to a point, but advises that the leader of the session (the Hierophant) should leave spaces where the Path-workers can engage in silent reflection, and thereby come up with their own individual insights. She also recommends her own particular method for the **"composition of place"**, i.e. the creation of the astral scene one experiences at the start of the vision.[^9]
 
-Again, one must assume that the Path-working envisaged by Zalewski is different to that attributed by Regardie to Brodie-Innes: the Path-workings required by a Theoricus Adeptus Minor is all 22 on the Tree of Life - a Th.A.M would only have been initiated into 9 paths by that stage of his progress through the order.
+The Path-workings required by a Theoricus Adeptus Minor is all 22 on the Tree of Life.
 
 Nevertheless, we can express some generalities about all forms of Path-working: they all concern learning from astrally experiencing the Paths of the Tree of Life; and they almost always feature the Tarot Trumps heavily. This is because Path-Working, being a visual exercise, needs some sort of visual focus: hence the images of the Tarot Trumps are the most convenient for this purpose, and often serve to frame the type of vision that ensues.
 
-I should here point out that in talking about the Paths of the Tree of Life, and Tarot Card attributions, I am mainly referring to the "Golden Dawn" attributions, which are the ones used by the majority of practitioners in the Western Mystery Tradition today. However, a significant number of people have argued for a different set of attributions, for example, Aleister Crowley. Although in his 1907 reference book 777 he published the Golden Dawn attributions, his later work on the Tarot, The Book of Thoth departs from this scheme in that "The Star" and "The Emperor" are placed on (what were) each others' paths ה and צ.[^10]
+I should here point out that in talking about the Paths of the Tree of Life, and Tarot Card attributions, I am mainly referring to the "Golden Dawn" attributions, which are the ones used by the majority of practitioners in the Western Mystery Tradition today. However, a significant number of people have argued for a different set of attributions, for example, Aleister Crowley. Although in his 1907 reference book 777 he published the Golden Dawn attributions, his later work on the Tarot, The Book of Thoth departs from this scheme in that "The Star" and "The Emperor" are placed on (what were) each others' paths **ה** and **צ**.[^10]
 
 This points to a field of what I am certain would be a fruitful field of future research, namely, to what extent does arbitrarily changing the symbols involved affect the nature of the Path-working.
 
@@ -36,18 +37,20 @@ A different, though slightly related question is whether it matters if one uses 
 
 ## Path-working and the Active Imagination
 
-It seems unlikely that what began as an obscure reference in a secret Magical order would have become a popular practice in the Western Mystery Tradition, had it not been assimilated into Analytical Psychology by C G Jung. Jung developed a technique called "Active Imagination", which is similar to Path-working in that it seems to be mightily similar to Clairvoyance:
+It seems unlikely that what began as an obscure reference in a secret Magical order would have become a popular practice in the Western Mystery Tradition, had it not been assimilated into Analytical Psychology by C G Jung. Jung developed a technique called _"Active Imagination"_, which is similar to Path-working in that it seems to be mightily similar to Clairvoyance:
 
 > …[Y]ou choose a dream, or some other fantasy-image, and concentrate on it by simply catching hold of it and looking at it. … You then fix this image in the mind by concentrating your attention. Usually it will alter, as the mere fact of contemplating it animates it. The alterations must be carefully noted down all the time, for they reflect the psychic processes in the unconscious background, which appear in the form of images consisting of conscious memory material. In this way conscious and unconscious are united, just as a waterfall connects above and below.[^11]
 
 Jung goes on to say that instead of merely observing the sequence of events, the individual takes part in the scene, as if he is not the controller of the fantasy sequence, but a participator or character therein. Although, to a certain extent, he looks on from outside, impartially, he is also an acting and suffering figure in the drama of the psyche. This recognition is absolutely necessary and marks an important advance.[^12] The ultimate effect of this is, according to Jung, to assimilate lessons from the Unconscious into Consciousness - it thus plays a vital role in the process of "Individuation" - i.e. Jung's term for the process of psychic healing, and the integration of all parts of the psyche.
 
-**Active Imagination** does not make use of the Tree of Life, nor does it make use of the Tarot Trumps. Yet I believe there is a still a subtle connection. Firstly, Path-working does indeed rely on the Path-worker to *"choose a dream, or some other fantasy-image, and concentrate on it"* - it so happens that the fantasy-image in question is arbitrarily determined by the symbolism of the Tree of Life in general, and perhaps the appropriate Tarot Trump in particular. Moreover, the process of Path-working requires the Path-worker to recognise, just as in Active Imagination, that he is a character participating in the vision he is experiencing, not merely an observer, and certainly not its detached creator.
+**Active Imagination** does not make use of the Tree of Life, nor does it make use of the Tarot Trumps. Yet I believe there is a still a subtle connection. Firstly, Path-working does indeed rely on the Path-worker to *"choose a dream, or some other fantasy-image, and concentrate on it"* &ndash; it so happens that the fantasy-image in question is arbitrarily determined by the symbolism of the Tree of Life in general, and perhaps the appropriate Tarot Trump in particular. Moreover, the process of Path-working requires the Path-worker to recognise, just as in Active Imagination, that he is a character participating in the vision he is experiencing, not merely an observer, and certainly not its detached creator.
 
-Secondly, Jung himself first developed the Active Imagination technique by practising it himself, when he was going through a time of crisis in his life - he had been traumatised by his break-up with Freud. We may guess the extent of this trauma because Jung said, describing the importance of being involved in the vision as opposed to merely an observer, that it is meant to integrate the statements of the unconscious, to assimilate their compensatory content, and thereby produce a whole meaning *which alone makes life worth living and, for not a few people, possible at all* (my emphasis).[^13] Could Jung have been speaking impersonally about himself?
+Secondly, Jung himself first developed the Active Imagination technique by practising it himself, when he was going through a time of crisis in his life &ndash; he had been traumatised by his break-up with Freud. We may guess the extent of this trauma because Jung said, describing the importance of being involved in the vision as opposed to merely an observer, that it is meant to integrate the statements of the unconscious, to assimilate their compensatory content, and thereby produce a whole meaning *which alone makes life worth living and, for not a few people, possible at all* (my emphasis).[^13] Could Jung have been speaking impersonally about himself?
 
-During Jung's Active Imagination sessions, he noticed two types of fantasies recurring: one type was related to images from his own past, but another type were "mythological, archetypal, spiritual, and religious".[^14] Jung did not understand how these were connected to his own past, although he did recognise that they were symbols of basic drives common to Mankind across the world and throughout history. This was how Jung began to form his theory of the Collective Unconscious.
-The irony here is that the symbolism of the Paths of the Tree of Life is "mythological, archetypal, spiritual, and religious" - because this is exactly with what the Hermetic Qabalah concerns itself. Primarily this is through its connection with Astrology, which has preserved the symbolism of the old Greek and Roman religions in an unbroken tradition for over two thousand years. Moreover, I believe that many of the Tarot Trumps are direct representations of Archetypes of the collective unconscious. Take for example, "Death". Death has long been anthropomorphized as "The Grim Reaper", and the thirteenth Tarot Trump (which represents the twenty-fourth path, from _Netzach_ to _Tiphereth_) reinforces that symbolism. Just how powerful is this as an archetypal image? I received this account whilst researching this article: a woman, who at age five, experienced a series of vivid dreams whilst critically ill. Note that according to her, she had never at that age heard of any of this "Death" imagery.
+During Jung's Active Imagination sessions, he noticed two types of fantasies recurring: one type was related to images from his own past, but another type were "mythological, archetypal, spiritual, and religious".[^14]
+Jung did not understand how these were connected to his own past, although he did recognise that they were symbols of basic drives common to Mankind across the world and throughout history. This was how Jung began to form his theory of the Collective Unconscious.
+
+The irony here is that the symbolism of the Paths of the Tree of Life is "mythological, archetypal, spiritual, and religious" &ndash; because this is exactly with what the Hermetic Qabalah concerns itself. Primarily this is through its connection with Astrology, which has preserved the symbolism of the old Greek and Roman religions in an unbroken tradition for over two thousand years. Moreover, I believe that many of the Tarot Trumps are direct representations of Archetypes of the collective unconscious. Take for example, "Death". Death has long been anthropomorphized as "The Grim Reaper", and the thirteenth Tarot Trump (which represents the twenty-fourth path, from _Netzach_ to _Tiphereth_) reinforces that symbolism. Just how powerful is this as an archetypal image? I received this account whilst researching this article: a woman, who at age five, experienced a series of vivid dreams whilst critically ill. Note that according to her, she had never at that age heard of any of this "Death" imagery.
 
 > The dream garden was quite large and I remember that if I stretched my neck up a bit that I could just see over the wall. There were burnt fields of wheat outside.
 
@@ -57,7 +60,7 @@ The irony here is that the symbolism of the Paths of the Tree of Life is "mythol
 
 When I asked her what she felt she had learnt from these dreams, she replied:
 
-> This "facet" of Death communicated in riddle/oracular form which intrigued the child me. This seems to be the natural medium for the subconscious as seen in works of inspiration and humanity's holy books. It is a powerful imprinting medium methinks. I learnt that Death was a process, much like Life is seen to be. I learn that everything exists in a state of change. As a child I learnt that focus was my only reality. And all of this was very private and sustaining.[16]
+> This "facet" of Death communicated in riddle/oracular form which intrigued the child me. This seems to be the natural medium for the subconscious as seen in works of inspiration and humanity's holy books. It is a powerful imprinting medium methinks. I learnt that Death was a process, much like Life is seen to be. I learn that everything exists in a state of change. As a child I learnt that focus was my only reality. And all of this was very private and sustaining.[^16]
 
 Hence, whereas it seems that with the Active Imagination, Jung was drawn inadvertently to the archetypes of the Collective Unconscious. In Path-working, the Hermetic student is deliberately given a set framework within which to explore those archetypes him- or her-self. If we continue the Jungian comparison, we can infer that just as in Analytical Psychology, Active Imagination is a vital tool to effect "Individuation", in the Qabalah Path-working effects a similar kind of process - it is an aid to help the Path-worker progress along the initiatory path.
 
@@ -78,7 +81,9 @@ The first thing we notice is that in each of the three passages the Path-workers
 
 Space prevents me from giving details from all the Path-workings I have surveyed, both mine and other peoples. But I have seen much evidence to indicate that generally, the symbolism of the Paths of the Tree of Life is such that different people tend to obtain similar results when working them. In my experience, the paths take on some of the nature of the Sephiroth which lie at their upper-most end, corresponding closely with my ideas of the grades to which those Sephiroth would be attributed. For example:
 
-- The paths ק,שׁ,ה - Basic initiatory challenges for the aspirant;
+The paths
+
+- ק,שׁ,ה - Basic initiatory challenges for the aspirant;
 - פ,צ,ר - qualities of the Personality;
 - ס,נ,ע - the conflict between materialism (Sensuality) and asceticism (Spirituality) (N.B. these are the paths which form the bridge between the Personality and Individuality);
 - ט,י,כ,ל,מ - qualities of higher Adeptship;
@@ -87,7 +92,7 @@ Space prevents me from giving details from all the Path-workings I have surveyed
 
 All in all Path-working tends to make the Tree of Life far more personal to the individual. At first, the initiate probably only looks on the Tree of Life as a set of correspondences to be memorised: but after Path-working, i.e. experiencing the Tree at a psychic level, the correspondences are connected together in the Initiate's mind through the memories of the astral adventures. It thus becomes easier for the Initiate to invoke those forces in the future, because now they will stir his imagination vividly whereas before they would not.
 
-Furthermore, the experience of Path-working seems to be that the Path-worker goes on a quest to find the lost parts of the self, and finds them through investigating the symbolism of the Tree of Life. When this is viewed in light of the use of the Major Arcana therein, it reinforces the pre-eminence of the Tarot as well - not just as a method of mere fortune-telling, but as a set of symbols of deep psychological significance. One of the side-effects of Path-working must inevitably be that afterwards, a given Tarot Trump is linked to the mystical revelation which the Path-worker experienced when investigating its corresponding Path. Hence the Path-worker cannot look at the Tarot again in the same light: before it was an arbitrary set of symbols; now they stir memories of great psychic import.
+Furthermore, the experience of Path-working seems to be that the Path-worker goes on a quest to find the lost parts of the self, and finds them through investigating the symbolism of the Tree of Life. When this is viewed in light of the use of the Major Arcana therein, it reinforces the pre-eminence of the Tarot as well &ndash; not just as a method of mere fortune-telling, but as a set of symbols of deep psychological significance. One of the side-effects of Path-working must inevitably be that afterwards, a given Tarot Trump is linked to the mystical revelation which the Path-worker experienced when investigating its corresponding Path. Hence the Path-worker cannot look at the Tarot again in the same light: before it was an arbitrary set of symbols; now they stir memories of great psychic import.
 
 ## Path-working: A Suggested Method
 
@@ -114,41 +119,43 @@ A vital part of the Composition of place at this point consists of populating th
 
 The Path-working begins by Opening the Temple, and by propitiating the Hierophantic God-form - to demonstrate that one has the right to be in that _Sephira_ in the first place. At the very least this propitiation will consist of saluting with the appropriate grade-sign, and vibrating the Grand Name of that _Sephira_ (e.g.: _Yesod_ - "_Shaddai El Chai_").
 
-Then, the Path-worker will need to propitiate the God-form who is the Guardian of the Path that they to work - to demonstrate that they are worthy to enter that Path. I suggest that this itself will at least consist of the Pentagram or Hexagram Ritual (or both) which is associated with the astrological or elemental forces of the Path.
+Then, the Path-worker will need to propitiate the God-form that is the Guardian of the Path that they wish to walk - to demonstrate that they are worthy to enter that Path. I suggest that this itself will at least consist of the Pentagram or Hexagram Ritual (or both) which is associated with the astrological or elemental forces of the Path.
+
 The following three tables give the correspondences - from a "Golden Dawn" point of view. For Zodiacal signs, the Hexagram ritual may be performed in addition to the Pentagram ritual, as the influence of the planetary can often be "felt" just as much as can the Sign's Triplicity.
 
-| **Path** | **Tarot Trump** | _(Supreme Hexagram Ritual of...)_ |
-| -------- | --------------- | --------------------------------- | --------- |
-| 15       | The Emperor     | Aries                             | _Mars_    |
-| 16       | The Hierophant  | Taurus                            | _Venus_   |
-| 17       | The Lovers      | Gemini                            | _Mercury_ |
-| 18       | The Chariot     | Cancer                            | _Moon_    |
-| 19       | Strength        | Leo                               | _Sun_     |
-| 20       | The Hermit      | Virgo                             | _Mercury_ |
-| 22       | Justice         | Libra                             | _Venus_   |
-| 24       | Death           | Scorpio                           | _Mars_    |
-| 25       | Temperance      | Sagittarius                       | _Jupiter_ |
-| 26       | The Devil       | Capricorn _Saturn_                |
-| 28       | The Star        | Aquarius                          | _Saturn_  |
-| 29       | The Moon        | Pisces                            | _Jupiter_ |
+| **Path** | **Tarot Trump** | _Hexagram Ritual_ | **Planet** |
+| -------- | --------------- | ----------------- | ---------- |
+| 15       | The Emperor     | Aries             | _Mars_     |
+| 16       | The Hierophant  | Taurus            | _Venus_    |
+| 17       | The Lovers      | Gemini            | _Mercury_  |
+| 18       | The Chariot     | Cancer            | _Moon_     |
+| 19       | Strength        | Leo               | _Sun_      |
+| 20       | The Hermit      | Virgo             | _Mercury_  |
+| 22       | Justice         | Libra             | _Venus_    |
+| 24       | Death           | Scorpio           | _Mars_     |
+| 25       | Temperance      | Sagittarius       | _Jupiter_  |
+| 26       | The Devil       | Capricorn         | _Saturn_   |
+| 28       | The Star        | Aquarius          | _Saturn_   |
+| 29       | The Moon        | Pisces            | _Jupiter_  |
 
-**Path**|**Tarot**|**Trump**| _(Supreme Pentagram Ritual of...)_
-...|...|...|...
-12|The Magician| Mercury
-13|The High Priestess| Moon
-14|The Empress |Venus
-21|The Wheel of Fortune| Jupiter
-27|The Tower |Mars
-30|The Sun |Sun
-32|The Universe |Saturn| Earth
+| **Path** | **Tarot**            | _Pentagram Ritual_ |
+| -------- | -------------------- | ------------------ |
+| 12       | The Magician         | Mercury            |
+| 13       | The High Priestess   | Moon               |
+| 14       | The Empress          | Venus              |
+| 21       | The Wheel of Fortune | Jupiter            |
+| 27       | The Tower            | Mars               |
+| 30       | The Sun              | Sun                |
+| 32       | The Universe         | Saturn, Earth      |
 
-**Path**| **Tarot**| **Trump** |_(Supreme Pentagram Ritual of...)_
-...|...|...|...
-11|The Fool| Air
-23|The Hanged| Man| Water
-31|Judgement| Fire| Spirit
+| **Path** | **Tarot**      | _(Supreme Pentagram Ritual of...)_ |
+| -------- | -------------- | ---------------------------------- |
+| 11       | The Fool       | Air                                |
+| 23       | The Hanged Man | Water                              |
+| 31       | Judgement      | Fire Spirit                        |
 
 With the Planetary paths, only the Hexagram Ritual should be performed. Conversely, with the Elemental Paths, only the Pentagram Ritual should be performed.
+
 However, one should note that according to 777, two of the Paths have double attributions: path 31, "Judgement", to both Fire and Spirit; and path 32, "The Universe", to both the planet Saturn and the element Earth. To be safe, I did two sets of Pathworkings for each of these paths. So in the case of Path 31, Shin, on the one occasion I worked exclusively with the Fire Pentagram and Fire Attributions; on the other, I worked exclusively with Spirit. Likewise with Path 32, _Tav_ in its Saturn aspect, and _Tav_ in its Earth Aspect.[^19]
 
 Therefore, with these two paths, the italicised Pentagram or Hexagram Ritual is meant to be an alternate ritual to be carried out on a separate occasion - not a complementary ritual to be used on the same occasion.
@@ -291,14 +298,12 @@ Malkuth - Yesod
 The Universe
 Saturn or Earth
 
-Index
+## Acknowledgement
 
-Acknowledgement
-I would like to thank all the members of the MSN Community "Pathworking Symposium", some of whose contributions to that forum I feature in this article.
-http://communities.msn.com/PathworkingSymposium/  
-Index
+I would like to thank all the members of the MSN Community "[Pathworking Symposium](http://communities.msn.com/PathworkingSymposium/)", some of whose contributions to that forum I feature in this article.
 
-Bibliography
+## Bibliography
+
 Crowley, Aleister : 777
 Crowley, Aleister: The Book of Thoth.
 Crowley, Vivianne: Jungian Spirituality, Thorsons, 1998.
@@ -310,34 +315,33 @@ Regardie, Israel: The Golden Dawn, 6th Edition, Llewellyn Publications 1989.
 Williams, J. L.: The Rites of Life: Pathworking, Tarot and the Qabalistic Tree of Life, 2001.
 Zalewski, Patrick : Secret Inner Order Rituals of the Golden Dawn, Falcon Press 1988.
 
+[19]
+
 Index
 
-Notes
-[1] Thoth Hermes Temple Study Course for Adeptus Minor 5=6, p .21, Secret Inner Order Rituals of the Golden Dawn, Patrick Zalewski.
-[2] Chapter 28, The Mystical Qabalah, Dion Fortune.
-[3] The Meaning of Magic, The Art and Meaning of Magic, Israel Regardie.
-[4] Book 1 Appendix C, The Sword and the Serpent, Melitta Denning & Osborne Phillips.
-[5] I.e. Clairvoyance.
-[6] J. W. Brodie-Innes.
-[7] Regardie, The Golden Dawn, pp. 463 - 464.
-[8] Denning & Phillips, op. cit.
-[9] Fortune, op. cit.
-[10] For Crowley's reasoning as to why this swap is made, see The Book of Thoth, III The Roman Numbers of the Trumps.
-[11]Jung, The Conjunction, Collected Works, Vol 14, par. 706.
-[12] Ibid., par. 753.
-[13] Ibid. par. 756.
-[14] Jungian Spirituality, Vivianne Crowley, p.45.
-[15] Posted by "Sat Anpu" to the site http://communities.msn.com/PathworkingSymposium/.
-[16] Ibid.
-[17] Dennings & Phillips, op. cit.
-[18] The Rites of Life: Pathworking, Tarot and the Qabalistic Tree of Life Life, J.L. Williams, 2001. See also http://www.dragonflycreative.com/bookexcerpts.html
-[19]
-There are therefore two letters of the alphabet which have to do double duty. The element of Fire is very close kin to the idea of Spirit; so the letter Shin, belonging to Fire, may be taken to mean Spirit as well. There is a special reason why this should be so, although it only applies in later ages, since the introduction of the dogma that Spirit rules the four elements, and the formation of the "Pentagram of Salvation" connected with the Hebrew word IHShVH, Yeheshuah.
+[^1]: _Thoth Hermes Temple Study Course for Adeptus Minor_ 5=6, p .21, "Secret Inner Order Rituals of the Golden Dawn", Patrick Zalewski.
+[^2]: Chapter 28, "The Mystical Qabalah", Dion Fortune.
+[^3]: The Meaning of Magic, "The Art and Meaning of Magic", Israel Regardie.
+[^4]: Book 1 Appendix C, The Sword and the Serpent, Melitta Denning & Osborne Phillips.
+[^5]: I.e. Clairvoyance.
+[^6]: J. W. Brodie-Innes.
+[^7]: Regardie, "The Golden Dawn", pp. 463 - 464.
+[^8]: Denning & Phillips, op. cit.
+[^9]: Fortune, op. cit.
+[^10]: For Crowley's reasoning as to why this swap is made, see "The Book of Thoth", III The Roman Numbers of the Trumps.
+[^11]: Jung, The Conjunction, "Collected Works", Vol 14, par. 706.
+[^12]: Ibid., par. 753.
+[^13]: Ibid. par. 756.
+[^14]: _Jungian Spirituality_, Vivianne Crowley, p.45.
+[^15]: [Posted by "Sat Anpu"](http://communities.msn.com/PathworkingSymposium/).
+[^16]: Ibid.
+[^17]: Dennings & Phillips, op. cit.
+[^18]: _The Rites of Life: Pathworking, Tarot and the Qabalistic Tree of Life_ J.L. Williams, 2001. See [excerpts from the book](http://www.dragonflycreative.com/bookexcerpts.html).
+[^19]: There are therefore two letters of the alphabet which have to do double duty. The element of Fire is very close kin to the idea of Spirit; so the letter _Shin_, belonging to Fire, may be taken to mean Spirit as well. There is a special reason why this should be so, although it only applies in later ages, since the introduction of the dogma that Spirit rules the four elements, and the formation of the "Pentagram of Salvation" connected with the Hebrew word IHShVH, Yeheshuah.
 
 "With regard to Earth, it was considered adequate to make the letter Tau, belonging to Saturn, correspond also to Earth.
 
-"These additions are clear evidence that the Tarot took definite and arbitrary steps to assert the new discovery in Magick some two thousand years ago; for no system is more rigid than a Hebrew system. And the system of the Sepher Yetzirah is the deepest rooted of all the elements of the Hebrew system, the most dogmatic of them all."
-The Book of Thoth, Aleister Crowley, III The Atu of Tahuti.
-[20]The Path Number corresponds to the Path of the Sepher Yetzirah, and to the row in 777.
+"These additions are clear evidence that the Tarot took definite and arbitrary steps to assert the new discovery in Magick some two thousand years ago; for no system is more rigid than a Hebrew system. And the system of the _Sepher Yetzirah_ is the deepest rooted of all the elements of the Hebrew system, the most dogmatic of them all."
 
-Index
+_The Book of Thoth_, Aleister Crowley, III The Atu of Tahuti.
+[20]The Path Number corresponds to the Path of the _Sepher Yetzirah_, and to the row in 777.

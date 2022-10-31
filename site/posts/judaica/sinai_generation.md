@@ -2,7 +2,7 @@
 title: Generation of Sinai
 description: The missing generation
 tags: null
-date: 2010-01-19T06:11:23.542Z
+date: 2010-01-24T18:05:01.542Z
 modified: 2021-10-26T14:28:22.486Z
 ---
 
@@ -14,7 +14,7 @@ modified: 2021-10-26T14:28:22.486Z
 
 ## Laws (in Sinai)
 
-The absurdity of the Torah Laws, (perhaps including the Oral Torah) which had been given at Sinai, were then obeyed by the generation that wandered in Sinai. Why and how could they obey them, if there, for instance, was no Temple? How could they keep the Laws of Kashrut if they were receiving manna from heaven, that would be by its very nature, kosher? They had no need for work, as they had food and their clothes needed no mending. I wonder if there tents and other materials did.
+The Torah Laws, (perhaps including the Oral Torah) which had been given at Sinai, were then obeyed by the generation that wandered in Sinai. Why and how could they obey them, if there, for instance, was no Temple? How could they keep the Laws of Kashrut if they were receiving manna from heaven, that would be by its very nature, kosher? They had no need for work, as they had food and their clothes needed no mending. I wonder if there tents and other materials did.
 
 In a sense the laws were given to a generation who were unable to practice them!
 

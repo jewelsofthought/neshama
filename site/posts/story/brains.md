@@ -11,6 +11,6 @@ stars: '-'
 
 ## Brain story
 
-In the story of the Brains, I have used this idea. The world they live in and interact in is one of holographic projections and scenes that change as if by magic. For example, if two people are sitting at a table, and want to have a cup of tea, the tea will “appear” on the table and they will “drink” it, enjoying its taste and texture – and all this is happening in the world of holographic projections that they have created, except for the actual experience of drinking the tea. And the tea you were “drinking” would taste any way you wished it to.
+In the story of the Brains, I have used this idea. The world they live in and interact in is one of holographic projections and scenes that change as if by magic. For example, if two people are sitting at a table, and want to have a cup of tea, the tea will “appear” on the table and they will “drink” it, enjoying its taste and texture – and all this is happening in the world of projections that they have created, except for the actual experience of drinking the tea. And the tea you were “drinking” would taste any way you wished it to.
 
 This is part of the education that the Brain undergoes in his youth.

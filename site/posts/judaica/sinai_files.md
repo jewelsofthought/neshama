@@ -17,7 +17,7 @@ Moses challenges them from a human point of view, asking them whether they know 
 
 In the end, he convinces them, and they all praise him for his eloquence and strong argument. Even the angel of death helps him.
 
-Afterwards, apparently, Satan (who does not seem to have any authority over the angel of death. {NOTE: Which brings me to think that Satan only has power over the fallen ones, the demons, not any angels. That is part of his punishment}).
+Afterwards, apparently, Satan (who does not seem to have any authority over the angel of death. <span class="note">{NOTE: Which brings me to think that Satan only has power over the fallen ones, the demons, not any angels. That is part of his punishment}.</span>
 
 He asks the natural elements where the Torah is, and they all answer that they do not know!
 

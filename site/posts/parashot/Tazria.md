@@ -8,7 +8,7 @@ date: 2021-03-02
 1. [Laws of human contamination](#laws-of-human-contamination)
 2. [Childbirth and purification](#childbirth-and-purification)
 3. [Childbirth](#childbirth)
-4. [Tzaria](#tzaria)
+4. [<i>Tzaria</i>](#itzariai)
 5. [End](#end)
 
 > ייטב בעיניב : approved
@@ -18,7 +18,7 @@ date: 2021-03-02
 
 ## Laws of human contamination
 
-We have proceeded from the laws of contamination טוּמא of dead animals, to the laws of contamination טוּמה from human beings, starting with the birth of the child, where it all begins. (_Ibn Ezra_ to v. 2) {NOTE: be-in(g) - be-(g)-in}
+We have proceeded from the laws of contamination טוּמא of dead animals, to the laws of contamination טוּמה from human beings, starting with the birth of the child, where it all begins. (_Ibn Ezra_ to v. 2) <span class="note">{NOTE: be-in(g) - be-(g)-in}</span>
 
 ## Childbirth and purification
 
@@ -47,7 +47,9 @@ Perhaps there was the feminine sacred which the women carried, that men <span st
 
 Two offerings, a sin offering (חטאה) and an elevation offering (לעולה).
 
+<p class="note">
 {NOTE: חט־א־ה - Sin passes through א which is the point of transformation, the zero point, to re-emerge through the breath of life, the ה. Perhaps modern Hebrew numberology should begin with א being the number 0, and ב being the number 1 (not necessarily the 1st!) For the beginning ב, is actually the beginning of the narrative. As without 2, there can be no story, there are no interactions when there is only one.}
+</p>
 
 There are offerings for the child, for what the child may become. We have the two paths stretching before us till the end of our lives. The path of sin and the path of elevation.
 
@@ -55,7 +57,7 @@ _These offerings and rituals symbolise that birth inaugurates the beginnings of_
 
 And not to have to punish him for having chosen the path of sin. In the hope of cleansing him of any sins that he might have brought with him into this world, we offer the sin offering. For the privilege of raising the child to a life of dedication and holiness, the elevation offering is offered.
 
-## Tzaria
+## <i>Tzaria</i>
 
 The unknown affliction. What if it was a bacteria that has since dissappeared? The only contradiction would be when someone turned completely white, they would be looked at as pure, and could only be contaminated if healthy skin appeared.
 
@@ -63,11 +65,13 @@ That would still leave us with the conclusion that today it would still be inter
 
 The rabbi's say: The pattern that emerges is that tit is a DIvine retribution for the offender's failure to feel the needs and share the hurt of others. G-d rebukes this anti-social behaviour by isolating him from society, so that he can experience the pain he has imposed on others&mdash; and heal himself though repentance.
 
-The mark was to appear on his skin, or literally on the skin of his meat שׁעור־בשׂרו(which does not make much sense actually!)
+The mark was to appear on his skin, or literally on the skin of his meat <b>שׁעור־בשׂרו</b> (which does not make much sense actually!)
 
-{NOTE: Adam had a skin of light אור. Now we, his descendents from his fall, have skins עור, covering our nakedness. The above could also be translated as his "meat-skin"}
+<p class="note">
+{NOTE: Adam had a skin of light <b>אור</b>. Now we, his descendants from his fall, have skins עור, covering our nakedness. The above could also be translated as his "meat-skin"}
+</p>
 
-ָAnd here is the list of unknown diseases referred to in the text: שְׁאת, סַבפַּחַת, בַחֶרֶת, מִסְפַּחַת, נֶתֶק, בוהק
+ָAnd here is the list of unknown diseases referred to in the text: <b>שְׁאת, סַבפַּחַת, בַחֶרֶת, מִסְפַּחַת, נֶתֶק, בוהק</b>
 
 ## End
 
