@@ -8,10 +8,14 @@ modified: 2022-05-09
 
 1. [Good and evil](#good-and-evil)
 2. [G-d fearing](#g-d-fearing)
-3. [Athiest](#athiest)
-4. [G!d is King](#gd-is-king)
-5. [Perfect world](#perfect-world)
-6. [Questions](#questions)
+3. [Thoughts](#thoughts)
+4. [Is the universe infinite ($$ \infty $$)?](#is-the-universe-infinite--infty-)
+5. [In the realm of the Infinite ($$ \infty $$)](#in-the-realm-of-the-infinite--infty-)
+6. [Designed or ... not](#designed-or--not)
+7. [Athiest](#athiest)
+8. [G!d is King](#gd-is-king)
+9. [Perfect world](#perfect-world)
+10. [Questions](#questions)
 
 ## Good and evil
 
@@ -24,37 +28,102 @@ Now we don't know how much of each there is, nor even how it is distributed in t
 
 In fact, the best we can do, is to build bubbles of space & time that contain the good (and thus bubbles that also "contain" the evil).
 
-Let's change perspective, and look at this representation as one that speaks of "how evil, or how good?". And let's look at it this way:
+Let's change perspective, and look at this representation as one that speaks of "how evil, or how good?" And let's look at it this way:
 
-There will be at least one spot where unadulterated evil can exist just as there is at least one spot where the true good can exist. These define the boundaries of the world of good and evil. They define the boundary of the domain of good & evil. What exists beyond? Well, in the realm of the infinite infinities, or the infinitely infinite, or the infinity of infinities.... who knows?
+There will be at least one spot where unadulterated evil can exist just as there is at least one spot where pure good can exist. These define the boundaries of the world of good and evil. They define the boundary of the domain of good & evil. What exists beyond? Well, in the realm of the infinite infinities, or the infinitely infinite, or the infinity of infinities.... who knows?
 
-This then represents the space of the purest of good & evil, inside the circle are all the different gradations of good and evil - the _benonim_ (in-betweeners, the mundanes). In essence, the whole narrative is about you and I, the _benonim_, the "average", the "normal" - for we make up the vast majority of human existence.
+This then represents the space of the purest of good & evil. Let's think of this space as a circle, with the one side being that of pure evil and the other being that of pure good. Inside the circle are all the different gradations and combinations of good and evil. Though there is a small, perhaps minute, percentage, of pure good or pure evil, the majority of the space consists of the _benonim_, the in-betweeners or mundanes, who are neither purely good nor purely evil, but an agglomeration of the two. In essence, the whole narrative is about you and I, the _benonim_, the "average", the "normal" - for we make up the vast majority of human existence.
 
-You could say that if someone is purely good, then there is nothing that needs to be done. They will live a completely sovereign existence according to their inner edicts, and nothing can shake them or divert them. He will draw people to him by his integrity and clarity, but will not seek them out. He will allow them to find him and to leave him if that is not their path.
+If someone is purely good, then there is nothing that needs to be done. He will live a completely sovereign existence according to his inner edicts, and nothing can shake him or divert him. He will draw people to him by his integrity and clarity, but will not seek them out. He will allow them to find him and to leave him if that is not their path.
 
 In the same way, if someone is truly evil, he too will live his life as truly sovereign driven also by an inner (or outer) compulsion. He will influence those around him, and those that he cannot influence - he will bend to his will. This is what makes the force of evil so potent.
 
-The burning question of existence then becomes, if God is the creator of the universe, and therefore omnipotent, was He not the one who Created Evil in the first place? Wh y..? God? Why? That is a difficult question, perhaps THE question, especially in the midst of this inner battle of the _benoni_ between good and evil.
+The burning question of existence then becomes, if God is the creator of the universe, and therefore omnipotent, was He not the one who Created Evil in the first place? Why, God, oh why? That is a difficult question, perhaps THE essential question of our existence, especially in the midst of this inner battle of the _benoni_ between good and evil.
 
-You can dedicate a portion of your life and consciousness to delving into this question. If you decide to derive your answer for/by yourself, it will become a life-long pursuit, which many fail at, or, most often, tire of. They then settle on either a half-baked or/and personalised version of the truth of what they are seeking, or live on shifting sand as they constantly renewing their commitments, or, most often, just settle on someone else's answer, or version of the answer.
+You can dedicate a portion of your life and consciousness to delving into this question. If you decide to derive your answer for/by yourself, it will become a life-long pursuit, which many fail at, or, most often, tire of. They then settle on either a half-baked or/and personalised version of the truth of what they are seeking, or live on shifting sand as they constantly renew their commitments in t heir search for the answer that will satisfy then, or, most often, just settle on someone else's answer, or version of the answer.
 
-Whatever answer you settle upon, whatever narrative you choose to describe who you are, will affect how you live your life, and many of the consequences thereof.
+Whatever answer you settle upon, whatever narrative you choose to describe who you are, will affect how you live your life, and produce many of the consequences thereof.
 
 ## G-d fearing
 
-How can you argue about G-d's existence? G-d is the primal cause. "Thought cannot rise above the source of thoughts, just as water cannot rise above its source." Do you know where your thoughts come from? That you think these thoughts is of course, obvious&mdash;but how can you think thoughts, is the question? Does the scientific belief that we can find "physical" or electrical manifestation of them in your brain, prove that your brain must then be the source of any of your thoughts? It is like saying that your body is the source of all your feelings. If that is sufficient for you, then you become the source of all that you are, including your thoughts.
+How can you argue about G-d's existence? The only way one can do this is by looking at G-d as having been created, which is the anthropomorphisation of the Primal Cause. G-d is not a Man up in Heavens, or any other sort of creation that exists in the realm of our consciousness. Although we refer to Him with a personal pronoun, His essence is non-material, and thus, any human characteristics that we attribute to Him are for our benefit, and do not speak of His being in any shape or form.
 
-However, the question that then arises is "Is this universe, this material manifestation infinite or not?" Science assumes not&mdash;though that might be because it is more convenient to do so, for it has no proof of that either. But, if it is finite, then there must have been a "birth" of the universe (or existence), a "creation", a primal beginning. What or who (to anthropmorphise) is the Mother that gave "birth" to this ceration. Who or what is the Father that provided the seed, which is the alpha of the omega of this creation? There is something&mdash;or nothing&mdash; that exists beyond, or before, this existence that we are aware of. Like $$ n < N \rightarrow \infty $$. Now in relation to this $$ \infty $$, a couple of billion years hear or there, passes in the blink of an eye. Obviously, if you debate time, arguing about a billion or 100 billion years, you have no concept of what $$ \infty $$ is.
+And as is expressed in the prayer, _Yigdal_:
 
-What if there were multiple universes created, and this one just happened to be right for us, for our existence? What does chance mean when you are playing with $$ \infty $$ ? In the realm of $$ \infty $$ anything is possible. So a universe came about that enable us, as human beings, to emerge. Obviously that is possible in an infinity of universes. So was there a design behind it, an intention that directed it? How could we hope to apprehend what the meaning of "intention" is in relation to an infinite being? No finite conscious being could hope to achieve that&mdash;unless it contained something of $$ \infty $$ inside its consciousness.
+<div dir="rtl" style="text-align:center; margin-bottom: 1rem">
+יִגְדַּל אֱלֹהִים חַי וְיִשְׁתַּבַּח.
+נִמְצָא וְאֵין עֵת אֶל מְצִיאוּתוֹ׃<br />
+אֶחָד וְאֵין יָחִיד כְּיִחוּדוֹ.
+נֶעְלָם וְגַם אֵין סוֹף לְאַחְדּוּתוֹ׃<br />
+אֵין לוֹ דְמוּת הַגּוּף וְאֵינוֹ גּוּף.
+לֹא נַעֲרֹךְ אֵלָיו קְדֻשָּׁתוֹ׃<br />
+קַדְמוֹן לְכָל־דָּבָר אֲשֶׁר נִבְרָא.
+רִאשׁוֹן וְאֵין רֵאשִׁית לְרֵאשִׁיתוֹ׃
+</div>
 
-Both intention and apprehension are finite concepts anyways&mdash;as is all science, always proposing a beginning and an end, imposing limits so that it can impose its views on infinity. For it works always within a closed system, with keeping certain variables/dynamics of the system fixed while observing others, whereas G-d works with $$ \infty $$. G-d is an open system, full of infinite potential and possibilities, containing an infinite amount of finities of which we are just one of them. One which happens to be "harmonious" to our existence. Thus we say "G-d created the world" or scientifically it might be restated, "An harmonious universe, one in which human beings could exist, arose out of the infinity of possibilities that exist.".
+| Transliteration                                                    | Translation                                                                                   | Alternative Translation                                                             |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| _yigdal elohim khai v’yishtabakh, nimtza v’ein eit el metziyuto_   | Acclaim and praise the living God who exists beyond the boundaries of time.                   | Meet the living presence, the sacred One; past present future, here and never gone. |
+| _echad v’ein yakhid k’yikhudo, ne’elam v’gam ein sof l’akhduto_    | Most singular of all, concealed and yet also without bound                                    | One and with no other One like this One; subtle, infinite, complete, unbroken.      |
+| _ein lo d’mut ha’guf v’eino guf, lo na’arokh eilav kedushato_      | He has no body — nor even the appearance of a body, it is impossible to measure his holiness. | It has no body, no comparison; unique in uniqueness in unison.                      |
+| _kadmon k’khol davar asher nivra, rishon v’ein reishit l’reishito_ | Prior to everything that was created, first of all, and yet himself without a beginning.      | Primordial, primary, unbegotten; before the creation, the origin.                   |
+
+Or in the peom [Yigdal](https://www.poetrynook.com/poem/yigdal) from Newton Mann:
+
+<div class="poem">
+Praise to the living God!<br />
+All praised be his Name,<br />
+Who was, and is, and is to be,<br />
+For aye the same!<br />
+The One Eternal God<br />
+Ere aught that now appears:<br />
+The First, the Last, beyond all thought<br />
+His timeless years!<br />
+
+Formless, all lovely forms
+Declare his loveliness;
+Holy, no holiness of earth
+Can his express.
+
+</div>
+
+## Thoughts
+
+G-d is the primal cause.
+
+> "Thought cannot rise above the source of thoughts, just as water cannot rise above its source."
+
+Do you know where your thoughts come from? That you think these thoughts is of course, obvious&mdash;but how can you think thoughts, is the question. That science can find evidence of "physical" or electrical manifestations of them in your brain, prove that your brain must then be the source of any of your thoughts? It is like saying that your body is the source of all your feelings. If that is sufficient for you, then you become the source of all that you are, including your thoughts.
+
+## Is the universe infinite ($$ \infty $$)?
+
+Before we can even attempt to define what G-d is(n't), the question that arises first, is whether this universe, this material manifestation is infinite or not." If it is finite, then there must have been a "birth" of the universe (or existence), a "creation", a primal beginning. What or who (to anthropomorphise) is the Mother that gave "birth" to this creation. Who or what is the Father that provided the seed, which is the alpha of the omega of this creation? There is something&mdash;or nothing&mdash;that exists beyond, or before, this existence that we are aware of. Now in relation to this&nbsp;$$ \infty$$, a couple of billion years here or there, passes in the blink of an eye. Obviously, if you are dealing with infinite time arguing about a billion or 100 billion years, you have no concept of what $$ \infty $$ is.
+
+## In the realm of the Infinite ($$ \infty $$)
+
+In the realm of $$ \infty $$ anything is possible. Thus there could have been multiple universes that were created, and this one just happened to be right for our existence. Those other universes could still be existing, or could have been destroyed. One could even propose that in the realm of $$ \infty $$ it is inevitable that a universe such as ours would exist. After all, could not all the possible universes have been created and one of them just happens to be one in which conscious beings emerge?
+
+Even if our science claims that it is highly improbable that such a situation could arise, in the realm of the $$ \infty $$ anything is possible, and given enough time, everything that one can imagine could occur, no matter how improbable&mdash;for in the realm of $$ \infty $$ everything is possible.
+
+The fact that we are conscious, and conscious of being conscious, is what is strange about this story.
+
+But one still cannot claim that this infinite set of universes arose without some primal cause that is beyond anything any being, conscious or not, can apprehend.
+
+## Designed or ... not
+
+Was there a design(er) behind it, an intention that directed it? How could we hope to apprehend what the meaning of "intention" is in relation to an $$ \infty $$ being? No finite conscious being could hope to achieve that&mdash;unless it contained something of $$ \infty $$ in its consciousness.
+
+Both intention and apprehension are finite concepts anyways&mdash;as is all rational science of finite beings who always propose a beginning and an end&mdash;being finite&mdash;imposing limits so that it can contain its views on infinity. For it works always within a closed system, with keeping certain variables/dynamics of the system fixed while observing others, whereas G-d works with $$ \infty $$. G-d is an open system, full of infinite potential and possibilities, containing an infinite amount of finities of which we are just one of them. One which happens to be "harmonious" to our existence. Thus we say "G-d created the world" or scientifically it might be restated, "An harmonious universe, one in which human beings could exist, arose out of the infinity of possibilities&mdash;i.e., possible universes&mdash;that exist.".
 
 ## Athiest
 
-G-d is removed from the equation by the atheist, who will then replace it with nothing, or with some other belief system. Generally, it will be the latter. At this stage, most of us have replaced it with science, the ultimate expression of the rational mind or so it is described by its believers while not taking into account that the limitations of rationality.
+G-d is removed from the equation by the atheist, who will then replace it with nothing, or with some other belief system&mdash;one that excludes G-d. Thus one ends up with the space that is defined by those that believe in G-d, the Creator, and those that do not.
 
-What we find in that case, is that in the midst of the most rational of times (the scientific age), our behaviour becomes more and more irrational. Now we have reached a trans-human stage, where we can improve on the natural course of evolution with our science, and believe that we can replace G-d with AI - despite overwhelming evidence as to the risks and failures of such an approach.
+At this stage, most of us have replaced it with science, the ultimate expression of the rational mind or so it is described by its believers while not taking into account that the limitations of rationality.
+
+What we find in this case, is that in the midst of the most rational of times (the scientific age), our behaviour becomes more and more irrational. Now we have reached a trans-human stage, where we can improve on the natural course of evolution with our science, and believe that we can replace G-d with AI&mdash;despite overwhelming evidence as to the risks and failures of such an approach.
+
+This is reminiscent of the [Tower of Babel](https://www.chabad.org/library/bible_cdo/aid/8175/jewish/Chapter-11.htm).
 
 On the other hand, if there is a G-d, and we act abominably, we blame G-d for creating us (humans) that way.
 

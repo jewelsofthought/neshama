@@ -92,9 +92,11 @@ If I seek conflict, or reject your version, we remain stuck in this perpetual cy
 
 Similar is my relationship with this background. I can submit, which is the synthesis, and the, even if not the easiest, it is the most beneficial in the long term. Alternatively, I can try and fight it. If I lose, I pay the price for rejecting it. If I win, I am successful\*mdash;but estranged from it. Both will require that I surround myself with a bastion of others who will benefit from my/our success, or will support me in my constant fight against the reality I have created. Both require us to create and maintain our version of the what is really happening in this background. Inevitably, we build a "system", a society, in which we can hold onto this narrative, which has in some way benefited me and my supporters. The end result is that you believe so completely in this narrative that you relate to it as if the narrative (and not the actual event) is real - and made of real things that cannot be changed.
 
-This is the **Wisdom Mantra**: G-d grant me the Wisdom to change the things I can, to accept the things I cannot, and to know the difference.
+This is the **Wisdom Mantra**:
 
-Perhaps this is why it has been called an "ego trip", as your ego needs to identify (and be nourished) by this story. The more completely you accept it, the more you begin to fully live it&mdash;and thus perpetuate it, sothat it does become "real". Real laws, real prison, real weapons, real killing.
+> G-d grant me the Wisdom to change the things I can, to accept the things I cannot, and to know the difference.
+
+This is why it has been called an "ego trip", as your ego needs to identify (and be nourished) by this story. The more completely you accept it, the more you begin to fully live it&mdash;and thus perpetuate it, sothat it does become "real". Real laws, real prison, real weapons, real killing.
 
 The success of this venture will always depend on how accurate its depiction of the reality is.
 

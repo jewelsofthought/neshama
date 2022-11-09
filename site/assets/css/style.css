@@ -22,30 +22,94 @@
   font-size: 80%;
 }
 
-.note {
-  font-style: italic;
+/*** MARK ****/
+/*
+mark {
+  border-style: solid;
+    border-width: 1px;
+    padding: 3px;
+    border-radius: 5px;
 }
 
-.content blockquote:dir(rtl) {
+
+
+mark mark {
+    margin: 0 -3px;
+}
+mark .start {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-right: none;
+}
+mark .end {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-left: none;
+}
+
+*/
+
+/* Regular yellow for underlinings */
+
+/* For starred pieces */
+.purple {
+    background-color: rgba(0, 0, 255, 0.15);
+    border-color: rgba(0, 0, 255, 0.5);
+}
+mark .green {
+    background-color: rgba(0, 255, 0, 0.15);
+    border-color: rgba(0, 255, 0, 0.5);
+}
+
+mark .red {
+  background-color: rgba(255, 0, 0, 0.15);
+    border-color: rgba(255, 0, 0, 0.5);
+}
+
+/* For paragraphs */
+.orange {
+    background-color: rgba(255, 150, 0, 0.15);
+    border-color: rgba(255, 150, 0, 0.5);
+}
+
+/* Blue - translation of words, and books that are mentioned. */
+.blue {
+    background-color: rgba(0, 150, 255, 0.15);
+    border-color: rgba(0, 150, 255, 0.5);
+}
+
+
+:dir(rtl) {
   text-align: start; /* left in latin, right in arabic */
   margin-inline-start: 0px; /* margin-left in latin, margin-right in hebrew */
-  border-inline-start: 5px solid gray; /* border-left in latin, border-right in hebrew */
+  border-inline-start: 1px solid gray; /* border-left in latin, border-right in hebrew */
   padding-inline-start: 15px; /* padding-left in latin, padding-right in hebrew */
-  font-size: 120%;
+  font-size: 1.2rem;
   font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
-  font-weight: bold;
+  font-weight: 900;
 }
 
-.blog-post blockquote p:dir(ltr) {
+.mord:not(.mathnormal) {
+  font-weight: 900;
+}
+
+blockquote p:dir(ltr) {
   font-weight: normal;
   font-style: italic;
   margin-top: 0rem;
   margin-bottom: 0rem;
-  font-size: 90%;
+  font-size: initial;
 }
 
-.blog-post blockquote p:dir(ltr):not(:first-child) {
+blockquote p:dir(ltr):not(:first-child) {
   text-indent: 2rem;
+}
+
+
+
+blockquote {
+  border-left: 1px solid #dbdbdb;
+  border-inline-start: 1px solid gray;
 }
 
 

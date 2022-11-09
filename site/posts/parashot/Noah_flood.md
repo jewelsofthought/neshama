@@ -2,8 +2,8 @@
 title: The Flood
 description: The Flood as an EM event
 tags: null
-date: 2008-01-21T16:38:35.115Z
-modified: 2022-05-09T14:02:54.775Z
+modified: 2018-01-21T16:38:35.115Z
+date: 2022-10-29T02:33:06.076Z
 ---
 
 ## The Flood (Judaica)
@@ -22,7 +22,7 @@ Steven King wrote a book about a signal that was sent out on our the cell phones
 
 One of the clues here is that in biblical tales, water has often been a metaphor for elements that express themselves as waves, as in "The Spirit of the Lord was over the waters". These unseen forces (as in the EM spectrum) are represented in the modern world as waves as well. These "waves" are not any more real now that we can express them mathematically.
 
-In the early times, light, when represented by waves, were thought to be propogated in a medium called the luminous ether, just as the waves of the ocean need the medium of water to propogate.
+In the early times, light, when represented by waves, were thought to be propogated in a medium called the luminous ether, just as the waves of the ocean need the medium of water to propagate.
 
 ## EM-sensitive (Neshama)
 
@@ -36,7 +36,7 @@ Why was it different when there was spiritual/unseen/mysterious energies that af
 
 Once again, we find ourselves being asked to believe in material measurements above and beyond those measurements that we encounter from the G-d made machines - human and otherwise.
 
-In addition, if the machines can sense this energy, how can we claim that they cannot be sensed by living beings. We radiate our environment with these waves and energies that power so much of our material lives, and yet continously deny any claims that they might affect living systems.
+In addition, if the machines can sense this energy, how can we claim that they cannot be sensed by living beings. We radiate our environment with these waves and energies that power so much of our material lives, and yet continuously deny any claims that they might affect living systems.
 
 We bathe an area in radio waves. The bees dissappear, and we deny any connection - seeking some chemical or more elemental cause of their demise. People are suffering all sorts of strange illnesses, some of which were exceedingly rare before electrification, and we deny that electricity might have any effect on their health?
 

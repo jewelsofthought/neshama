@@ -3,19 +3,18 @@ title: Armageddon
 description: What will the revealing be?
 tags: null
 date: 2008-01-01T25:38:35.115Z
+stars: '***'
 modified: 2022-05-09
 ---
 
-1. [Armageddon](#armageddon)
+1. [Apocalypse: unveiling!](#apocalypse-unveiling)
 2. [Temple](#temple)
 3. [Anthropos](#anthropos)
 4. [Balanced](#balanced)
 5. [Unbalanced](#unbalanced)
 6. [Bow & Arrow](#bow--arrow)
 
-## Armageddon
-
-> Apocalypse: unveiling!
+## Apocalypse: unveiling!
 
 This will herald in an end of days. It is clearly a fight between [good and evil](/site/posts/neshama/good_evil/) It is not a physical fight&mdash;though there may be much fighting that happens&mdash;but a spiritual one. The battle, as usual, is narrowing to be between those that fear G-d, the G!d-fearing, and those that hate G-d, the atheist.
 
@@ -31,7 +30,7 @@ Just as the future temple will be imaginary, so will the Presence that will rest
 
 The ego (_nefesh_), or Id, as Freud called it, can never be reduced or change shape&mdash;just like a living cell. It is only affected by what is in it, what it absorbs, and what is occurring in its local environment.
 
-In the old times, we imagined the Presence resting in a Temple that we build on earth. However, our future requires the creation of the Anthropos. Each one of us will become a cell in the body of this Anthropos. Together we have to form it&mdash;but first we have to imagine it. It will not formed from the dust of the earth, as we have been, but from our light. It will be created from our living spirits joining to produce a Living Spirit that will "flutter over the waters". A Spirit that will imbibe all, and enable us to see one another in such a way that we will be able to know each other's truth. Such an Anthropos will be based on Truth and Lovingkindness/Compassion.
+In the old times, we imagined the Presence resting in a Temple that we build on earth. However, our future requires the creation of the Anthropos. Each one of us will become a cell in the body of this Anthropos. Together we have to form it&mdash;but first we have to imagine it. It will not formed from the dust of the earth, as we have been, but from our light. It will be created from our living spirits joining to produce a Living Spirit that will "flutter over the waters". A Spirit that will imbibe all, and enable us to see one another in such a way that we will be able to know each other's truth. Such an Anthropos will be based on Truth.
 
 ## Balanced
 

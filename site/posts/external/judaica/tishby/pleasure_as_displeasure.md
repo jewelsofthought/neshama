@@ -1,7 +1,7 @@
 ---
 title: Pleasure as Displeasure
 description: The Source of pleasure/displeasure
-ref: Chassidic Masters
+article: Chassidic Masters
 tags: [external]
 date: 2010-09-02T16:00:00.000Z
 ---
