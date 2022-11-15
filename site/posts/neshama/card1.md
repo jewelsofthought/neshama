@@ -8,24 +8,29 @@ modified: 2022-09-14T15:56:13.090Z
 
 {% block tableContents %}
 
-1. [Centre](#centre)
-2. [The truth](#the-truth)
-3. [Your Gift](#your-gift)
-4. [Your Eldership](#your-eldership)
-5. [Spiritual Gym](#spiritual-gym)
-6. [Spiritual Lab](#spiritual-lab)
-7. [Inner Shape](#inner-shape)
-8. [Heaven](#heaven)
-9. [Sex in Society](#sex-in-society)
-10. [Spiritual $$\leftrightarrow$$ Physical](#spiritual-leftrightarrow-physical)
-11. [Birth](#birth)
-12. [Possesion](#possesion)
-13. [Prayer](#prayer)
-14. [Darkness & Light](#darkness--light)
+1. [All change can only happen via יהוה](#all-change-can-only-happen-via-יהוה)
+2. [Centre](#centre)
+3. [The truth](#the-truth)
+4. [Your Gift](#your-gift)
+5. [Your Eldership](#your-eldership)
+6. [Spiritual Gym](#spiritual-gym)
+7. [Spiritual Lab](#spiritual-lab)
+8. [Inner Shape](#inner-shape)
+9. [Heaven](#heaven)
+10. [Sex in Society](#sex-in-society)
+11. [Spiritual $$\leftrightarrow$$ Physical](#spiritual-leftrightarrow-physical)
+12. [Birth](#birth)
+13. [Possesion](#possesion)
+14. [Prayer](#prayer)
+15. [Darkness & Light](#darkness--light)
 
 {% endblock %}
 
 {% block mainContents %}
+
+## All change can only happen via יהוה
+
+_If **Ha'Shem** is the **Source of everything**, then true manifestation can only extend from this **Source**, therefore we must direct any and all desire, any and all prayer, any request to **Ha'Shem** - for only **He** can cause real change to occur._
 
 ## Centre
 

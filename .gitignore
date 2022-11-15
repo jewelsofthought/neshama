@@ -9,3 +9,5 @@ nohup.out
 source/
 .vscode/
 *.tar
+.eleventy.js.bak
+untitled.md

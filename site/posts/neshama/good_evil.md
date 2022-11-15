@@ -1,13 +1,14 @@
 ---
 title: Good and Evil
-description: Choice
+description: Free Choice
 tags: null
+starts: '***'
 date: 2008-01-10T15:38:35.115Z
-modified: 2022-05-09
+modified: 2022-11-13
 ---
 
 1. [Good and evil](#good-and-evil)
-2. [G-d fearing](#g-d-fearing)
+2. [G-d exists](#g-d-exists)
 3. [Thoughts](#thoughts)
 4. [Is the universe infinite ($$ \infty $$)?](#is-the-universe-infinite--infty-)
 5. [In the realm of the Infinite ($$ \infty $$)](#in-the-realm-of-the-infinite--infty-)
@@ -26,13 +27,25 @@ It is one of the reasons we say that God is good - because He allows us a choice
 
 Now we don't know how much of each there is, nor even how it is distributed in this world. We just know that it is, and it is everywhere!
 
-In fact, the best we can do, is to build bubbles of space & time that contain the good (and thus bubbles that also "contain" the evil).
+In fact, the best we can do, is build bubbles of space & time that contain the good (and thus bubbles that also "contain" the evil).
 
 Let's change perspective, and look at this representation as one that speaks of "how evil, or how good?" And let's look at it this way:
 
-There will be at least one spot where unadulterated evil can exist just as there is at least one spot where pure good can exist. These define the boundaries of the world of good and evil. They define the boundary of the domain of good & evil. What exists beyond? Well, in the realm of the infinite infinities, or the infinitely infinite, or the infinity of infinities.... who knows?
+There will be at least one spot where unadulterated evil can exist just as there is at least one spot where pure good can exist. These define the boundaries of the world of good and evil. Well, in the realm of the infinite infinities, or the infinitely infinite, or the infinity of infinities.... who knows?
 
-This then represents the space of the purest of good & evil. Let's think of this space as a circle, with the one side being that of pure evil and the other being that of pure good. Inside the circle are all the different gradations and combinations of good and evil. Though there is a small, perhaps minute, percentage, of pure good or pure evil, the majority of the space consists of the _benonim_, the in-betweeners or mundanes, who are neither purely good nor purely evil, but an agglomeration of the two. In essence, the whole narrative is about you and I, the _benonim_, the "average", the "normal" - for we make up the vast majority of human existence.
+<figure>
+<img src="/posts/img/neshama/good_evil-01.svg" alt="Good & Evil" >
+<figcaption>Good & Evil</figcaption>
+</figure>
+
+<figure style="float:right">
+<img src="/posts/img/tao_brush.jpg" alt="Tao" width="100">
+<figcaption>Tao - the interplay<br /> between light and dark</figcaption>
+</figure>
+
+Let's think of this space as a circle, with the edge of one side being that of pure evil and the other being that of pure good. This then represents the "place" of the purest of good & evil. Inside the circle are all the different gradations and combinations of good and evil. THis will bring us to a symbol that is very similar to the Tao.
+
+Though there is a small, perhaps minute, percentage, of pure good or pure evil, the majority of the space consists of the _benonim_, the in-betweeners or mundanes, who are neither purely good nor purely evil, but an agglomeration of the two. In essence, the whole narrative is about you and I, the _benonim_, &mdash; for we make up the vast majority of human existence.
 
 If someone is purely good, then there is nothing that needs to be done. He will live a completely sovereign existence according to his inner edicts, and nothing can shake him or divert him. He will draw people to him by his integrity and clarity, but will not seek them out. He will allow them to find him and to leave him if that is not their path.
 
@@ -44,7 +57,7 @@ You can dedicate a portion of your life and consciousness to delving into this q
 
 Whatever answer you settle upon, whatever narrative you choose to describe who you are, will affect how you live your life, and produce many of the consequences thereof.
 
-## G-d fearing
+## G-d exists
 
 How can you argue about G-d's existence? The only way one can do this is by looking at G-d as having been created, which is the anthropomorphisation of the Primal Cause. G-d is not a Man up in Heavens, or any other sort of creation that exists in the realm of our consciousness. Although we refer to Him with a personal pronoun, His essence is non-material, and thus, any human characteristics that we attribute to Him are for our benefit, and do not speak of His being in any shape or form.
 

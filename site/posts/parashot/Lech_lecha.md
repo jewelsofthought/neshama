@@ -1,20 +1,9 @@
 ---
 title: Lech Lecha פרשׁת לך לך
-description: 'Genesis 6:9 // בראשׁית  - Creation of the world...'
+description: 'Genesis 12:1–17:27 // בראשׁית '
 tags: null
 date: 2022-11-05T01:33:06.076Z
 ---
-
-<article>
-
-<blockquote dir="rtl">
-<p dir="ltr">
-</p>
-</blockquote>
-
-</article>
-
-<b></b> &mdash; <i></i>
 
 ## Chapter 12
 
@@ -33,8 +22,6 @@ date: 2022-11-05T01:33:06.076Z
     birthplace and from your father's house, to the land that I will show you.
   </p>
 </blockquote>
-
-n12]
 
 **&#9798; A new creation.**
 
@@ -261,10 +248,12 @@ n13:3] <b>לְמַסָּעָ֔יו</b> &mdash; <i>On his journeys</i>One should 
 
 ### 13:11] Lot chooses money over morality.
 
+#### 11] Lot chooses to live near Sodom
+
 <blockquote dir="rtl">
 יא וַיִּבְחַר־ל֣וֹ ל֗וֹט אֵ֚ת כָּל־כִּכַּ֣ר הַיַּרְדֵּ֔ן וַיִּסַּ֥ע ל֖וֹט מִקֶּ֑דֶם וַיִּפָּ֣רְד֔וּ אִ֖ישׁ מֵעַ֥ל אָחִֽיו:
 <p dir="ltr">
-11. And Lot chose for himself the entire plain of the Jordan, and Lot traveled from the east, and they parted from one another.
+11. And Lot chose for himself the entire plain of the Jordan, and Lot travelled from the east, and they parted from one another.
 </p>
 </blockquote>
 
@@ -272,23 +261,35 @@ n11] <b>מִקֶּ֑דֶם</b> &mdash; <i>From the east.</i> Since the word קּ
 
 Lot chose the richest part of the country, although it was also the cruelest and most corrupt. Perhaps, he thought, that he could enjoy the Sodomites' wealth without being affected by their evil. As usually happens, he was wrong.
 
-### 14-18] The repetition of the promise
+### 13:״14-18 The repetition of the promise
 
 <div class="note">
 Note: He promises all that he sees (v15) to Abraham and his seed for eternity (v16). He says that his seed will be "like the dust of the earth" (v16). Then (v17), He tells Abraham to walk the length and breadth of the land. How will Abraham be able to do that? It would take many days to walk the land, and how would he determine where it ended? Where was Abraham at the time he was told that all that he sees is his inheritance?
 </div>
 
-n16] Dust: The nation that sprung from his seed would outlive all nations.
+### 13:16] Like the dust of the earth^[Later G-d says that Abraham's future offspring will be as many as "as the stars in the sky"]
 
-### 18] Builds an altar [x3]
+<blockquote dir="rtl">
+טז וְשַׂמְתִּ֥י אֶת־זַרְעֲךָ֖ כַּֽעֲפַ֣ר הָאָ֑רֶץ אֲשֶׁ֣ר | אִם־יוּכַ֣ל אִ֗ישׁ לִמְנוֹת֙ אֶת־עֲפַ֣ר הָאָ֔רֶץ גַּם־זַרְעֲךָ֖ יִמָּנֶֽה:
+<p dir="ltr">
+ 16. And I will make your seed like the dust of the earth, so that if a man will be able to count the dust of the earth, so will your seed be counted.
+</p>
+</blockquote>
 
-n18] Builds an altar
+#### 13:18]
 
-{Note: In this case, first G-d speaks to Abraham, then he builds the altar.}
+<blockquote dir="rtl">
+יח וַיֶּֽאֱהַ֣ל אַבְרָ֗ם וַיָּבֹ֛א וַיֵּ֛שֶׁב בְּאֵֽלֹנֵ֥י מַמְרֵ֖א אֲשֶׁ֣ר בְּחֶבְר֑וֹן וַיִּֽבֶן־שָׁ֥ם מִזְבֵּ֖חַ לַֽיהֹוָֽה:
+<p dir="ltr">
+18. And Abram pitched his tents, and he came, and he dwelt in the plain of Mamre, which is in Hebron, and there he built an altar to the Lord.
+</p>
+</blockquote>
 
-## Chapter 14 - War of the Kings
+n18] {Abraham builds an altar in gratitude for what G-d has promised him.
+In this case, first G-d speaks to Abraham, then he builds the altar.}
 
-{Note: The names are fascinating.}
+## Chapter 14 - War of the Kings^[Note: The names are fascinating.]
+
 v1:
 
 - Amraphel the king of Shinar,

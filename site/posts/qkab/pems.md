@@ -90,3 +90,16 @@ s, p, d, f orbitals.
 | Mental    | d    | 4 dimensional, complex to describe, fills s&p space    | 32                       |
 | Emotional | p    | 3 dimensional, regular                                 | 8                        |
 | Physical  | s    | simple, clear                                          | 2                        |
+
+### PEMS: (Middle) Point
+
+Within this perfect nothingness arose a single point.
+
+This single point bifurcated into two points, the upper & lower, dense & subtle, close & distant, pure & impure producing the greater & lessor balance. This becomes a one dimensional 1D space that can be represented by two points, so this becomes potentially 2D.
+
+These points represent anything&mdash;force, events, beginnings, etc.  
+The only relationship any two points have to one another is that they are opposites or complimentaries, for with darkness we cannot have light/vision. Without the upper, there is no lower, etc. This relationship could be expressed as two equal but opposite forces, with their bond. They are like siblings, for they emerge from the same point. This now becomes a trinity, the three by which we represent this 3D reality.
+
+There are many such trinities one can find. The point, line and and plane make up one. The point here is that it consists of two forces, with a force between them creating the 3D world.
+
+However, there is one more variable that we need to take into account, and that is that of time&mdash;specifically as conscious beings&mdash;beings conscious of time.
