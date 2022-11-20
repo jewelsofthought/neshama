@@ -172,14 +172,6 @@ module.exports = function(eleventyConfig) {
 			leftDeliminator: '{',
 		  rightDeliminator: '}',
 			allowedAttributes: [] // empty array = all attributes allowed 
-	}).use(markdownItAnchor, {
-    permalink: markdownItAnchor.permalink.ariaHidden({
-      placement: "after",
-      class: "direct-link",
-      symbol: "#",
-      level: [1,2,3,4],
-    }),
-    slugify: eleventyConfig.getFilter("slug")
   }).use(markdownItFootnote);
 
 	markdownLibrary.renderer.rules.footnote_block_open = () => (
