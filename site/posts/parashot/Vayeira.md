@@ -81,7 +81,7 @@ However, that is not what really fascinates me regarding this week's reading. Bu
 <blockquote dir="rtl">
 א וַיֵּרָ֤א אֵלָיו֙ יְהֹוָ֔ה בְּאֵֽלֹנֵ֖י מַמְרֵ֑א וְה֛וּא ישֵׁ֥ב פֶּֽתַח־הָאֹ֖הֶל כְּחֹ֥ם הַיּֽוֹם:
   <p dir="ltr">
-1. Now **HaShem** appeared to him in the plains of Mamre, and he was sitting at the entrance of the tent when the day was hot.
+1. Now <b>HaShem</b> appeared to him in the plains of Mamre, and he was sitting at the entrance of the tent when the day was hot.
   </p>
 </blockquote>
 
@@ -673,11 +673,11 @@ There are not, nor can there be, human morals without faith in **HaShem** and fe
 
 _Rambam_, too, discusses at length the power of _yirat shamayim_, as preserving human morals within oneself, between man and wife, and at a time when there is none to see him.
 
-_Ikarim_ says that "Thhe religion of ethics errs and say that what is ugly is beautiful". He brings proof from Plato, who proposed a regime in whic hthe elite would share women. He lists many weaknesess in a religion based on human ethics, and especially the fact that it cannot prevent a person from committing a crime in private, when there is no one to see and he has no one to fear.
+_Ikarim_ says that "The religion of ethics errs and say that what is ugly is beautiful". He brings proof from Plato, who proposed a regime in whic hthe elite would share women. He lists many weaknesess in a religion based on human ethics, and especially the fact that it cannot prevent a person from committing a crime in private, when there is no one to see and he has no one to fear.
 
 #### His fear of sin (p94)
 
-_Chazal_ sasy: "Whoever's fear of sin precedes his wisdom, his wisdom will continue to exist; if not, his wisdom will not continue to exist. In _Pirkey D'Rebbi Eliezer_, we are told, "Do not fear a person whic is an officer or a ruler, but fear people that have no _yirat shamayim_.
+_Chazal_ says: "Whoever's fear of sin precedes his wisdom, his wisdom will continue to exist; if not, his wisdom will not continue to exist. In _Pirkey D'Rebbi Eliezer_, we are told, "Do not fear a person whic is an officer or a ruler, but fear people that have no _yirat shamayim_.
 
 > There is no ideal which can survive without the life force of the fire of G-dliness. The individual and social person remains as a _golem_ without a soul, and there is nothing that moves in him except a small measure of mechanical life which the flow of blood gives technical power. As a result, there is nothing that is more frightening to the world the the wicked-foolish denial of the existence of G-d. This is the most senseless view which finds itself into the hearts of the least worthy.
 

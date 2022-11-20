@@ -1,10 +1,13 @@
 ---
 title: Psalm 86
 description: O Lord...
-tags: null
+tags: [todo]
 date: 2010-01-16T07:11:23.542Z
 modified: 2022-11-10T14:13:07.098Z
 ---
+
+| hebrew | english | julian |
+| ------ | ------- | ------ |
 
 <div style="line-height: 2rem">
 <blockquote dir="rtl">
@@ -29,7 +32,7 @@ modified: 2022-11-10T14:13:07.098Z
 <div style="margin-left: 2rem">
 A prayer of David. 
 O Lord, incline Your ear; answer me for I am poor and needy.<br />
-Watch my soul for I am a pious man; save Your servant-You, my God-who trusts in You.<br />
+Watch my soul for I am a pious man; save Your servant&mdash;You, my God&mdash;who trusts in You.<br />
 Be gracious to me, O Lord, for I call to You all the days.<br />
 Cause the soul of Your servant to rejoice, for to You, O Lord, I lift my soul.<br />
 For You, O Lord, are good and forgiving, with much kindness to all who call You.<br />
@@ -41,7 +44,7 @@ For You are great and perform wonders, You, O God, alone.<br />
 Teach me Your way, O Lord; I shall walk in Your truth. Unify my heart to fear Your name.<br />
 I shall thank You, O Lord my God, with all my heart, and I shall glorify Your name forever.<br />
 For Your kindness is great toward me, and You have saved my soul from the lowest depths of the grave.<br />
-O God, wilful transgressors have risen against me, and a company of mighty ones have sought my life, and they did not place You before themselves.<br />
+O God, wilful transgressors have risen against me, [and a company of mighty ones have sought my life,] and they did not place You before themselves.<br />
 But You, O Lord, are a compassionate and gracious God, slow to anger and with much kindness and truth.<br />
 Turn to me and be gracious to me; grant Your might to Your servant and save the son of Your maidservant.<br />
 Grant me a sign for good, and let my enemies see [it] and be ashamed, for You, O Lord, have helped me and comforted me.<br />

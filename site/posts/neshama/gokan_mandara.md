@@ -62,19 +62,9 @@ Mandala from Drepung Gomang Monastary
 
 <figure style="float:left">
 <a href="/posts/img/neshama/mandalas/Mandala 3d.jpg"> 
-<img src="/posts/img/neshama/mandalas/Mandala 3d.jpg" srcset="/posts/img/neshama/mandalas/Mandala 3d-200.jpg 200w, /posts/img/neshama/mandalas/Mandala 3d-400.jpg 400w, /posts/img/neshama/mandalas/Mandala 3d-800.jpg 800w, /posts/img/neshama/mandalas/Mandala 3d.jpg 1200w, /posts/img/neshama/mandalas/Mandala 3d.jpg 3000w " alt="3d Mandala">
+<img src="/posts/img/neshama/mandalas/Mandala_3d.jpg" srcset="/posts/img/neshama/mandalas/Mandala_3d-200.jpg 200w, /posts/img/neshama/mandalas/Mandala_3d-400.jpg 400w, /posts/img/neshama/mandalas/Mandala_3d-800.jpg 800w, /posts/img/neshama/mandalas/Mandala_3d.jpg 1200w, /posts/img/neshama/mandalas/Mandala_3d.jpg 3000w " alt="3d Mandala">
 </a>
 <figcaption >
 3d Mandala
 </figcaption>
 </figure>
-
-<figure style="float:left">
-<a href="/posts/img/neshama/mandalas/Tibetan Mandala.jpg"> 
-<img src="/posts/img/neshama/mandalas/Tibetan Mandala.jpg" srcset="/posts/img/neshama/mandalas/Tibetan Mandala-200.jpg 200w, /posts/img/neshama/mandalas/Tibetan Mandala-400.jpg 400w, /posts/img/neshama/mandalas/Tibetan Mandala-800.jpg 800w, /posts/img/neshama/mandalas/Tibetan Mandala.jpg 1200w" alt="Tibetan Mandala">
-</a>
-<figcaption >
-Tibetan Mandala
-</figcaption>
-</figure>
-<br clear="all">
