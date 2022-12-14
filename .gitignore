@@ -7,7 +7,6 @@ netlify.toml
 node_modules/
 nohup.out
 source/
+*.code-workspace
 .vscode/
 *.tar
-.eleventy.js.bak
-untitled.md
