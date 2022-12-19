@@ -1,16 +1,13 @@
 ---
 title: Path-working on the Qabalistic Tree of Life
 author: Alex Sumner
+article: _Journal of Western Mystery Tradition_, No. 3, Vol. 1. Autumnal Equinox 2002
 tags:
   - external
+  - hermetic
 date: 2014-10-24T13:26:52.768Z
 modified: 2021-11-28T16:00:15.224Z
 ---
-
-# Path-working on the Qabalistic Tree of Life
-
-Author: Alex Sumner
-From: _Journal of Western Mystery Tradition_, No. 3, Vol. 1. Autumnal Equinox 2002
 
 ## Introduction
 
@@ -18,7 +15,8 @@ From: _Journal of Western Mystery Tradition_, No. 3, Vol. 1. Autumnal Equinox 20
 
 Simply put, "Path-working" is the art of clairvoyantly investigating the Paths of the Tree of Life.[^2] In shamanic terms, it is a form of a guided journey, using the various _Sephirot_ and the Hebrew letters that join them as guidelines and inspiration in the journey of the Tree.
 
-Another technique, making use of this clairvoyant faculty[^6] was to re-read the rituals, and then endeavour to walk across a/the Path(s) astrally. This is also based on the early Kabbalistic techniques that used prayer and chanted the names of the guardians of the tree in order to enter the seven mansions that led to the Throne Room. }
+Another technique, making use of this clairvoyant faculty[^6] was to re-read the rituals, and then endeavour to walk across a/the Path(s) astrally. {Note: This is also based on the early Kabbalistic techniques that used prayer and chanted the names of the guardians of the tree in order to enter the seven mansions that led to the Throne Room. }
+
 One example given, was that the Seer should formulate in imagination a vast pylon, and within its gates he should visualise the Hebrew Letter _Tau_, the 32nd Path. Then imagining himself passing through this Letter _Tau_, and entering the Pylon, he should make appropriate Sacred (Geometric) Symbols, while chanting the Divine Names appropriate to that plane. The resulting vision should be similar to the passage of the Path in the ceremony, but whereas this latter was purely symbolic, the former may be real and dynamic, and may develop into an initiation in the true sense of the word. The same technique may be applied to every Path and to every _Sephirah_.[^7]
 
 Path-working can be used as a means of raising ones consciousness from a lower _Sephirah_, to a higher one. The actual Path-working consists of a "guided meditation": the leader or facilitator takes the initiates through a guided meditation using the archetypes associated with the Paths on the tree. [^8] The leader of the session leaves spaces where the Path-workers can engage in personal, inner reflection, and thereby come up with their own individual insights. There should be a particular method for the **"composition of place"**, i.e. the creation of the astral scene one experiences at the start of the vision.[^9]
@@ -55,7 +53,7 @@ When this is viewed in light of the use of the Hebrew letters thereon, it reinfo
 
 ## Path-working: A Suggested Method
 
-{
+{ Note:
 Needs reworking. My concept is to arrange for 10 people (preferably at least 3 men and 3 women, the other 4 can be either), each representing a _Sephirah_, and then work on the interactions between.
 }
 
@@ -277,11 +275,11 @@ _The Book of Thoth_, Aleister Crowley, III The Atu of Tahuti.
 
 But do the Paths of the Tree of Life really represent a valid set of Archetypes?
 
-{ This is an interesting discussion. If I had to use Tau, I would say that it is representative of an ending (in this format). The final path to incarnation. The future that is always beckoning and always ready to open to us. His association of Tau as judgement, and thus fire, will have to be further investigated}
+{Note: This is an interesting discussion. If I had to use Tau, I would say that it is representative of an ending (in this format). The final path to incarnation. The future that is always beckoning and always ready to open to us. His association of Tau as judgement, and thus fire, will have to be further investigated}
 
 It is possible to test this, by seeing how different individuals' experiences of Path-working compare. Let us assume that these individuals each explore a given path, each relying on their own "clairvoyant faculty" (or Active Imagination) to provide their data, and not passively indulging in a completely guided meditation. If the Paths are indeed Archetypal, we should expect to see that the visions produced all share common characteristics, which go beyond what is suggested by the conscious imagery of those Paths. In a series of surveys over the past 6 months, I did see that this was in fact the case.
 
-{Why would judgement be associated with this, the 31st path? Would it not be better associated with a path that extends from _Din/Gevurah_ itself? As this is the _Sephirah_ that represents Judgement in the Tree.}
+{Note: Why would judgement be associated with this, the 31st path? Would it not be better associated with a path that extends from _Din/Gevurah_ itself? As this is the _Sephirah_ that represents Judgement in the Tree.}
 
 Let us take, for example, the Thirty First Path of the Tree of Life, which is associated with Fire, and with the Tarot Trump "Judgement". I present three excerpts from Path-workings - the first, by myself, which I did approximately two years ago. The second two are accounts which I discovered much more recently: one is from the Aurum Solis, and the other is by the writer J. L. Williams.
 
@@ -301,7 +299,7 @@ The first thing we notice is that in each of the three passages the Path-workers
     [
     For example:
 
-{ This is another hermetic interpretation that I am not sure that I agree with. I think that Aryeh Kaplan's explanation in the _Sefer Yetzirah_ is much more accurate and in line with the Kabbalah.}
+{Note: This is another hermetic interpretation that I am not sure that I agree with. I think that Aryeh Kaplan's explanation in the _Sefer Yetzirah_ is much more accurate and in line with the Kabbalah.}
 
 The paths
 
@@ -310,21 +308,17 @@ The paths
 - ס,נ,ע - the conflict between materialism (Sensuality) and asceticism (Spirituality) (N.B. these are the paths which form the bridge between the Personality and Individuality);
 - ט,י,כ,ל,מ - qualities of higher Adeptship;
 - ו,ה,ג,ח,ז - ways of making the transition to Supernal consciousness (these are the paths which "Cross the abyss");
-- א,ב,ד - highest, most abstract Theurgy. {should be א,מ,שׁ}
+- א,ב,ד - highest, most abstract Theurgy. {Note: This should be א,מ,שׁ, the three mother letters}
   ]
 
 [^14c]:
-    [
-    { This is an interesting stretch to achieve using the Hebrew letters for pathworking on the Tree! This is what we have to reach for.
+    { Note: This is an interesting stretch to achieve using the Hebrew letters for pathworking on the Tree! This is what we have to reach for.
     }
     When this is viewed in light of the use of the Major Arcana therein, it reinforces the pre-eminence of the Tarot as well &ndash; not just as a method of mere fortune-telling, but as a set of symbols of deep psychological significance. One of the side-effects of Path-working must inevitably be that afterwards, a given Tarot Trump is linked to the mystical revelation which the Path-worker experienced when investigating its corresponding Path. Hence the Path-worker cannot look at the Tarot again in the same light: before it was an arbitrary set of symbols; now they stir memories of great psychic import.
-    ]
 
 [^14d]:
-    [
-    { What ceremony would be used at the opening?}
+    { Note: What ceremony would be used at the opening?}
     The opening in the very least will include the Lesser Banishing Rituals of the Pentagram and Hexagram.
-    ]
 
 [^14e]: The following three tables give the correspondences - from a "Golden Dawn" point of view. For Zodiacal signs, the Hexagram ritual may be performed in addition to the Pentagram ritual, as the influence of the planetary can often be "felt" just as much as can the Sign's Triplicity.
 

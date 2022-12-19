@@ -1,7 +1,8 @@
 ---
 title: Depression
-description: There is both the dark and the light side of everything
-tags: [poem]
+description: There is both the dark side to everything
+tags: null
+stars: '***'
 date: 2008-01-05T15:48:35.115Z
 modified: 2022-07-04T15:21:56.465Z
 ---
@@ -33,7 +34,7 @@ It has an emotional, and
 energetic effect.
 It is a metaphor,
 symbolising crossing over.
-It could manifest as depression
+It manifests as depression
 when blocked. Or anxiety&mdash;
 seeing the possible future;
 a place to go; something else.
@@ -42,13 +43,13 @@ that door...!"
 
 This also manifests as the sphere
 of influence surrounding the
-physical doorway (see fig)
+physical doorway
 like the Vesuvian man.
 
 The emergence of the realisation
 of the spheres of influence; things
-hinted, an awakening to the mystery
-that...
+hinted, an awakening to the hidden
+that contains...
 
 the secret, the mystery, the spiritual.
 An awakening to the incredible dance within

@@ -10,3 +10,4 @@ source/
 *.code-workspace
 .vscode/
 *.tar
+*.bkp

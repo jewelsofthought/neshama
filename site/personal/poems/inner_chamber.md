@@ -1,8 +1,9 @@
 ---
 title: Healing
 description: The Inner Chamber
-tags: [poem]
-date: 2008-01-09T13:38:35.115Z
+tags: [neshama]
+stars: '****'
+date: 2008-01-08T14:38:35.115Z
 ---
 
 <div class="poem">
@@ -46,7 +47,7 @@ If the spiritual enters this space,
 we become uncontrollable.
 
 What prevents this healing
-is the placing of our ego
+is the eo that resides
 in this space.
 Invite the Divine to enter.
 Pray for G-d/Holy Spirit/Allah
@@ -60,6 +61,6 @@ The Divine Light heals.
 Healing being a form of creating light from darkness&mdash;
 creating something where there was nothing.
 Through forgiveness and gratitude,
-we enter this portal.
+we may be blessed to enter this portal.
 
 </div>

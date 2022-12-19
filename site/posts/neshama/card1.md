@@ -2,6 +2,7 @@
 title: Writings - Card 1
 description: null
 tags: null
+stars: '****'
 date: 2008-01-03T01:38:35.115Z
 modified: 2022-09-14T15:56:13.090Z
 ---
@@ -18,11 +19,11 @@ modified: 2022-09-14T15:56:13.090Z
 8. [Inner Shape](#inner-shape)
 9. [Heaven](#heaven)
 10. [Sex in Society](#sex-in-society)
-11. [Spiritual $$\leftrightarrow$$ Physical](#spiritual-leftrightarrow-physical)
+11. [Spiritual $$\\leftrightarrow$$ Physical](#spiritual-leftrightarrow-physical)
 12. [Birth](#birth)
 13. [Possesion](#possesion)
 14. [Prayer](#prayer)
-15. [Darkness & Light](#darkness--light)
+15. [Darkness \& Light](#darkness--light)
 
 {% endblock %}
 
@@ -30,7 +31,7 @@ modified: 2022-09-14T15:56:13.090Z
 
 ## All change can only happen via יהוה
 
-_If **Ha'Shem** is the **Source of everything**, then true manifestation can only extend from this **Source**, therefore we must direct any and all desire, any and all prayer, any request to **Ha'Shem** - for only **He** can cause real change to occur._
+> If **Ha'Shem** is the **Source of everything**, then true manifestation can only extend from this **Source**. Therefore we must direct any and all desire, any and all prayer, every request to **Ha'Shem** - for only **He** can cause real change to occur.
 
 ## Centre
 
@@ -40,7 +41,7 @@ And to some extent the rules and mechanics of measurement.
 
 ## The truth
 
-> The truth will set you free --
+> The truth will set you free &mdash
 
 to do good, or to do evil!
 
@@ -70,9 +71,9 @@ A spiritual laboratory is where you carry out carefully crafted experiments to s
 
 ## Inner Shape
 
-> Many teach you about external movements, how to deal with outside forces. But it is the inner shape that is most important. For it is through the inner shape, that we experience the outer.Here we shape the inner. We focus on the internal shape of things. But what occurs on the outside is of prime importance.
+> Many teach you about external movements, how to deal with outside forces. But it is the inner shape that is most important. For it is through the inner shape, that we experience the outer. Here we shape the inner. We focus on the internal shape of things. But what occurs on the outside is of prime importance.
 
-As the eyes and the ears, the nose and mouth, the heart, legs and arms of G-d having a human experience - this is where you could begin to embrace and embody the truth of your existence.
+As the eyes and the ears, the nose and mouth, the heart, legs and arms of G-d having a human experience, this is where you could begin to embrace and embody the truth of your existence.
 
 ## Heaven
 
@@ -82,31 +83,31 @@ As the eyes and the ears, the nose and mouth, the heart, legs and arms of G-d ha
 
 Society can only, and perhaps needs to, operate in a sexless environment. Once sex enters the picture, it introduces all the emotional trauma and baggage that a person (people) carry and their relationship with power and money.
 
-This is an example of the connection between the internal and the external. The actual event, coitus, is not what affects the person long term, but the subjective experience of that act.
+This is an example of the connection between the internal and the external. The actual event, coitus, is not what affects the person long term, but the subjective, inner, experience of that act.
 
-Even when coitus has not taken place, the influence of the sexual upon the behaviour of the people can still be significance. It can be exploited in many ways, both bad and good. However, if the ultimate goal of the usage is material it will result in perversion. If it is used for love, it will enhance all, especially all who are in relationship with the participants&mdash;it is the act of love.
+Even when coitus has not taken place, the influence of the sexual upon the behaviour of the people can still be significance. It can be exploited in many ways, both good and bad. If the ultimate goal of the usage is material it will result in perversion. If it is used for love, it will enhance all, especially all especially those who are in relationship with the participants&mdash;it is an act of love.
 
 ## Spiritual $$\leftrightarrow$$ Physical
 
-If truly spirit then physical world/life is a delusion, a projection, which we are constantly creating and maintaining, thus our spiritual energy is dispersed in maintaining an illusion of ourselves that is incorrect.
+If we are truly spirit then the physical world is a delusion, a projection, which we are constantly creating and maintaining. Thus our spiritual energy is dispersed in maintaining an illusion of ourselves that is incorrect.
 
-The question then is whether you spend your energy in ensuing that your physical being&mdash;which is a delusion&mdash;is comfortable or in ensuring that you spiritual being is nourished.
+The question then is whether you spend your energy in ensuing that your physical being&mdash;which is a delusion&mdash;is comfortable or in ensuring that your spiritual&mdash;where your true essence resides&mdash; being is nourished.
 
 If it is the former, and all your spiritual energy is dissipated in material pursuits for the comfort of physical being, then it will diminish one's spiritual being until it will/may eventually be extinguished altogether.
 
 ## Birth
 
-The impact of spirit entering the body, and encountering the constraining environment we are born into, is traumatic. This what creates the spaces of forgetfulness. For how could such a limited space contain the full wisdom of Torah.
+The impact of spirit entering the body, and encountering the constraining environment we are born into, is traumatic. This is what creates the spaces of forgetfulness, the places of cognitive dissonance. For how could such a limited space contain the full wisdom of Torah.
 
 ## Possesion
 
 Is it possible for the soul of one person to "occupy" the body of another?
 
-Most tales of possession speak of an entity, generally demonic, that takes possession of another. These encounters generally come from another realm. If the former cannot happen, then it speaks of the Divine protection of your space and your creation&mdash;which is the body that your soul has breathed life into". Remember how breath enters your body and the spreads and enters every cell of the body, so spiritually there is a breath that vivifies every organ of the body.
+Most tales of possession speak of an entity, generally demonic, that takes possession of another. These encounters generally come from another realm. In order for this not to occur, you have to call to the Divine protection of your space and your creation&mdash;which is the body that your soul has "breathed life into". Remember how breath enters your body and the spreads and enters every cell of the body, so spiritually there is a breath or spirit, that vivifies every organ of the body.
 
-Though we do have the choice to allow another power over us, or "give" one's power to another, or even more extreme, to a material goal or object &ndash; a drug, a woman, money, false idols, or some other form of material addiction. We are of an addictive nature, and need to direct, or constrain, our addictions appropriately. If we become addicted to positive things, like studying Torah (mental), worshipping G-d (emotional), practising random acts of kindness and chastity (_tzedakah_), that is the practice that we refer to as religion.
+We do have the choice whether to allow another power over us, whether to "give" one's power to another, or even more extremely, to a material goal or object&ndash;a drug, a woman, money, false idols, or some other form of material addiction. We are of an addictive nature, and need to direct, or constrain, our addictions appropriately. If we become addicted to positive things, like studying Torah (mental), worshipping G-d (emotional), practising random acts of kindness and chastity (physical) (_tzedakah_), that is the practice that we refer to as religion.
 
-Mysticism, on the other hand, is a call to the unknown, by the unknown itself&mdash;what is referred to as the mystery itself. Through faith, the alchemy of the unknown, the dark, and mysterious, produces gold.
+Mysticism, on the other hand, is a call to the unknown, by the unknown itself&mdash;which is referred to as the mystery itself. Through faith, the alchemy of the unknown, the dark, and mysterious, produces gold.
 
 ## Prayer
 
@@ -118,12 +119,12 @@ To be able to balance my masculine purpose and feminine desire for union.
 
 To be free of the constraints of the programming of my past (ancestors). To release the constraints that prevent me from being who I really am and express the love and light of my inner being.
 
-Focus on joy in your life, and let G!d take you to the money.
+Focusing on joy in me life, letting G!d take me to the money.
 
 ## Darkness & Light
 
-The darkness is inside. So, whenever I am alone, I am in darkness. There is only light outside us. Thus when we are with others, we are in light (enlightened?).
+The darkness is inside. So whenever I am alone, I am in darkness. There is only light outside me. Thus when I are with others, I am in light (enlightened?).
 
-Only when we look outside of ourselves, are we seeing light. THus we conclude that outside is real because I can see it (see the light), where as inside &ndash; where I cannot see what I am experiencing &ndash; is thus unreal &ndash; as opposed to the outside, where I can see what I am experiencing.
+Only when I am looking outside of myself, am I seeing light. Thus we conclude that outside is real because I can see it (see the light), whereas inside &ndash; where I cannot see what I am experiencing &ndash; is thus unreal.
 
 {% endblock %}

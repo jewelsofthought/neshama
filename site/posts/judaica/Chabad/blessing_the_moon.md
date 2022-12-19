@@ -1,11 +1,11 @@
 ---
 title: Blessing the Moon
 description: The monthly sanctification of the moon
-tags: [chabad]
+refURL: https://www.chabad.org/library/article_cdo/aid/607391/jewish/Thank-G-d-for-the-Moon.htm
+tags: [external]
+stars: '**'
 date: 2010-03-02T12:51:59+02:00
 ---
-
-[Thank G‑d for the Moon!](https://www.chabad.org/library/article_cdo/aid/607391/jewish/Thank-G-d-for-the-Moon.htm)
 
 <figure style="float:right">
 <img src="/posts/img/judaica/moon.webp" alt="Balance" width="250" height="187">

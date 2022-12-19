@@ -1,34 +1,35 @@
 ---
 title: In pain
 description: We rise from the darkness to receive the light.
-tags: [ok]
+tags: null
+stars: '**'
 date: 2002-01-15T01:13:20.856Z
 ---
 
 <div class="poem">
 
-In the midst of the pain,
+In the midst of my pain,
 Hold me ever more tightly.
 The memories of my past
 haunt me daily, appearing
 as visions in my dreams
 
 The future beckons, the
-hand paint, the voices
-calling. Fear stalks the
+hand paints, the voices
+call. Fear stalks the
 hallways, the voice from
 my past warning me,
 apparitions, circle around,
-baiting, mocking laughing.
+baiting, mocking, laughing.
 
-You will fail, they say.
-You are bad, they taunt.
+"You will fail", they say.
+"You are bad, they taunt."
 
 "Begone", I command, "Let the
 Light in. I am meant to
 be in joy, with God
 as my guide. And so it will
-be.
+be."
 
 Travelling down the pathways
 of my unconsciousness, I come

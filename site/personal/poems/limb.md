@@ -1,7 +1,8 @@
 ---
 title: Adventure
 description: Answering the call - lech lecha.
-tags: [ok]
+tags: null
+starts: '**'
 date: 2002-01-11T10:03:10.856Z
 ---
 
@@ -33,10 +34,10 @@ extending over a cliff.
 Society just watches
 with knowing detachment
 as I lose my grip
-and fall to my death.
+and fall to my demise.
 
 It is in the descent
-that I release the bounds of ego
+that I release the bonds of ego
 and surrender to my fate,
 becoming aware.
 
@@ -54,7 +55,7 @@ which far surpass my status quo.
 My lack of trust holds me back.
 In my fear of judgement
 I have given energy to doubts and fears
-and limiting beliefs
+and limiting beliefs.
 Find your wings and fly,
 Soar to new heights that you alone
 Can imagine...

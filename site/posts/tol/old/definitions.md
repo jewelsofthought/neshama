@@ -22,10 +22,10 @@ modified: 2022-01-04T16:46:42.843Z
 11. [Co-ordinate](#co-ordinate)
 12. [Join](#join)
 13. [Oblige](#oblige)
-   1. [Obligation](#obligation)
+    1. [Obligation](#obligation)
 14. [Structure:](#structure)
 15. [Sustainable](#sustainable)
-   1. [Sustain -> Sustenance](#sustain---sustenance)
+    1. [Sustain -\> Sustenance](#sustain---sustenance)
 16. [Synchronicity](#synchronicity)
 17. [Unite](#unite)
 
@@ -42,9 +42,9 @@ There exist representative examples/patterns of underlying theory/viewpoint.
 
 Manifest the structure that is already here... Just waiting to be born!
 
-        ** For a shared purpose,
-        ** For a common goal,
-        ** With a communial vision.
+- For a shared purpose,
+- For a common goal,
+- With a communal vision.
 
 Create/manifest a structure that will enable us (the people) to collaborate in creating system, as sustainable as possible. A system that has the characteristics/qualities of human-centric, heart-centred, earth-conscious paradigm.
 

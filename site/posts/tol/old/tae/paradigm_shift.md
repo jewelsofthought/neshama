@@ -29,3 +29,21 @@ From static, absolute, empirical view of objects that are time-invariant, to loo
 Instead of creating, constantly seeking expansion, we need to learn as a society, a nation and a community to practice constraint.
 
 In any relationship of sharing there is a giver and a taker. One could say a loser and a winner. That is how energy flows. If the recipient uses all the energy to produce or maintain something productive, all and good. Waste, however, is energy that is not utilised. If he hoards the energy, then it is not being used, and becomes toxic - for he will be collecting "waste" energy. If he (the recipient) has used his energy well, he will have regained his strength, and will be able now to become a giver... That is how the circles are completed.
+
+## Circle of human possibilities (ToL)
+
+Not all of us have the skill or talent. Just like not all of us are good at mathematics, even though we may all go through the same basic math training.
+
+If one thought of a circle as representing all the of the possibilities of human. It would contain all the characteristics that have ever manifested themselves as well as any that possibly could.
+
+We are each of us carved from this stone. Call it the root soul, if you like – _Adam Kadmon_. We are gifted with a certain selection from this pool of characteristics. Because we can change, we can always embrace through training, intent, purpose, focus, another of these characteristics.
+
+But, to embrace one of your gifts and use that time and energy and commitment to further that one, would probably be far more beneficial to all and sundry. Though, because it is a natural law, there are always exceptions.
+
+## Human Elements (ToL)
+
+If you can’t master your own inner space, how will you negotiate, develop, design, technical spaces with their human elements?
+
+Human element(s) considers the full range of human characteristics, including the good and the bad. The circle of probability within the circle of possibilities.
+
+Any **governing system**, whether economic or not, needs to be designed to take this into account. An economic system, using numbers to represent human aspirations and needs, will be based on a extremely flawed and limited appreciation of what it takes to be human, is clearly inadequate. Any system affecting us is only as good as the description of the elements of the system. Just as Quantum Physics is trying to describe the very elements that make up our environment, so we need to find another language, with more appropriate symbols, to describe the elements that make up any of our human systems.

@@ -24,7 +24,7 @@ The message of this book is that we can have a union in which we know our Belove
 
 Not that attaining this union is easy. For most of us it requires years of training and practice. It is said that there are two types of prophets, and that is the one—he who has received the impulse from below. The other is when suddenly a bolt strikes you from the heavens and you receive a message or vision that changes the course of your life. We refer to this as the _Hineni_ moment. This is the impulse from above.
 
-(Boldness towards heaven...?
+{Note: Boldness towards heaven...?}
 
 ===
 

@@ -2,9 +2,11 @@
 title: I ran away
 description: Still unhappy...
 tags: null
-date: 2002-01-08T00:25:10.856Z
+date: 2002-01-08T00:18:10.856Z
 modified: 2020-06-04
 ---
+
+<div class="poem">
 
 I ran away
 instead of facing the darkness
@@ -31,3 +33,5 @@ And now?
 Feeling nothing,
 Only a seething mass in my belly
 like riding a large serpent.
+
+</div>

@@ -1,9 +1,10 @@
 ---
 title: Hod & Netzach
-description: Gates 3 & 4; Spheres 8 & 7.
+description: 'Overview: Gates 3 & 4; Spheres 8 & 7'
 author: Gikatilla
 article: Sha'are Orot
 tags: [external, gikatilla]
+stars: '****'
 date: 2010-01-07T01:28:59+02:00
 modified: 2022-06-27T08:50:46.274Z
 ---

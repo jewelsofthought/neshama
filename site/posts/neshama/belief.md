@@ -1,7 +1,8 @@
 ---
-title: A piece on belief
+title: A conversation on belief
 description: To believe or not to believe...
 tags: null
+stars: '***'
 date: 2008-01-02T05:38:35.115Z
 ---
 
@@ -9,7 +10,7 @@ Ruth: Interesting. I think this is something we might only be able to speculate 
 
 Jewelsofthought: Beings that serve the Divine.
 
-Ruth: What qualifies as serving the divine? And how do/can we know this? And what is the divine?
+Ruth: What qualifies as serving the divine? How do/can we know this? And What is the divine?
 
 Jewelsofthought: Are you really asking that question? You no longer believe in something greater or more encompassing than the human experience? Have you become a non-believer, an atheist?
 

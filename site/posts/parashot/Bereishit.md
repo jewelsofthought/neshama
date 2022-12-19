@@ -46,7 +46,7 @@ Rashi 1:1] <b>בראשית ברא:</b> <i>In the beginning of G-d's creation of<
 </article>
 
 <br clear="all">
-
+              
 <article>
 <blockquote dir="rtl">
 	ב וְהָאָ֗רֶץ הָֽיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְח֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם:

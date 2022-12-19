@@ -2,6 +2,7 @@
 title: Body shape
 description: Looking at describing the body as squares
 tags: null
+stars: '**'
 date: 2008-01-02T20:00:35.115Z
 modified: 2022-05-03T08:19:57.371Z
 ---

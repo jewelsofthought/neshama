@@ -1,8 +1,8 @@
 ---
 title: A Cry for Love
 description: Can we find the Light?
-tags:
-  - ok
+tags: null
+stars: '***'
 date: 2002-01-03T25:00:50.856Z
 modified: 2022-06-16
 ---
@@ -24,7 +24,7 @@ living in Babylon,
 
 We had it all worked out once upon a Time.
 Then what happened?
-It’s all just a joke.
+It’s all just a joke, now.
 
 Life is a winding path,
 we don't know
@@ -37,7 +37,7 @@ By becoming rich,
 says the one.
 
 No, by becoming holy, says the other.
-Reach for achieve nirvana,
+Reach for Nirvana,
 where you will find everlasting bliss,
 content in the bosom of your God.
 
@@ -57,7 +57,7 @@ the fear of death.
 Dancing into ecstasy as a way of life.
 Dancing as the Shamans danced.
 Dancing like the yogis,
-Dancing as we have danced for eons.
+Dancing as we have danced for aeons.
 
 Dancing your happiness, your sadness, your journey,
 dancing your madness away.
@@ -74,7 +74,7 @@ crafted to bring us into trance?
 
 Every dance has steps
 once mastered,
-joy can begin to be expressed
+the joy can begin to be expressed
 within the structure defined by these steps.
 
 A structure that allows for the maximum amount of freedom,
@@ -118,15 +118,14 @@ place them in the form of the medicine wheel
 amidst the sounds of drumming,
 
 we began to dance and sing and laugh.
-For the Lord is happy when His children are joyous
-for this is how we express our enjoyment of His Creation.
+For the Lord is happy when His children are joyous.
+This is how we express our enjoyment of His Creation.
 
 It rained and it rained, for days afterwards.
 
 I have to leave on my journey now.
 
 My name is Anwhlunkyhvha –
-pronounced Anwhalun¡ha
 which means "I am of the earth".
 
 Anyone who has loved unconditionally
@@ -183,12 +182,12 @@ dreading the future.
 Traversing the pathway
 from mind to memory to mind
 we pick up influences
-from all the ten _sephirot_.
+from all ten _sephirot_.
 
 A coherent universe –
 that is what it means
-when we say God is One –
-is fully connected,
+when we say God is One.
+One that is fully connected,
 thus obviously one part will vibrate/change
 whenever there is a change in another.
 
@@ -196,8 +195,8 @@ With every breath you take,
 you affect everything in the universe.
 
 Reaching for coherency,
-I end up with Chaos
-equilibrium where nothing happens.
+I end up with equilibrium
+where nothing happens.
 Everyone and everything
 is in a state of bliss,
 they do not need anything.
@@ -229,7 +228,8 @@ Have you lost your faith?
 
 The perfect balance is
 when everyone is able
-to express the Truth of their self.
+to express the Truth of their
+own, individual self.
 
 Though we may not understand,
 we have to
@@ -268,7 +268,7 @@ There are the predators that need to kill,
 so we accept human predators,
 both sanctioned and unsanctified.
 As long as we kill to eat,
-as long as we kill to survice,
+as long as we kill to survive,
 it will continue,
 all just part of the cycle of life.
 
