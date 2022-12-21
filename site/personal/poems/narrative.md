@@ -2,7 +2,7 @@
 title: A new narrative
 description: The old ways are dying. We have to find a new narrative.
 tags: null
-date: 2021-12-31T13:49:20.067Z
+date: 2002-01-13T01:03:10.856Z
 modified: 2022-06-28T10:12:37.469Z
 ---
 
@@ -11,9 +11,11 @@ venturing into the dark hidden areas of the world,
 lost in the wilderness, they broke into two segments.
 
 The first group built walls, continuing what is known.
-The other group acknowledged the truth. The old ways are dying, and we need
+The other group acknowledged the truth.
+The old ways are dying, and we need
 to find a new narrative. So...
 
+<div class="poem">
 Be still, be quiet
 Stay where you are
 and listen,
@@ -49,3 +51,5 @@ His mode and method of speech is
 completely different from ours&mdash;
 so different that we cannot even
 imagine what it might be.
+
+<div>

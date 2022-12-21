@@ -2,7 +2,7 @@
 title: The Holy One
 description: A psalmist sings
 tags: ['judaica']
-date: 2002-01-07T16:09:18.856Z
+date: 2002-01-30T01:09:18.856Z
 ---
 
 ```

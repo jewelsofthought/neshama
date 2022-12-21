@@ -2,7 +2,7 @@
 title: Rooted in the Divine
 description: My sustenance
 tags: null
-date: 2022-01-17T15:15:43.013Z
+date: 2002-01-18T15:03:10.856Z
 ---
 
 <div class="poem">

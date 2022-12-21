@@ -1,8 +1,8 @@
 ---
 title: Psalm CXXXIX
 description: Song of Joy
-tags: null
-date: 2022-01-15T26:04:43.013Z
+tags: [judaica]
+date: 2002-01-30T02:03:10.856Z
 modified: 2022-01-03T14:25:52.703Z
 ---
 
