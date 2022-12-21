@@ -2,7 +2,7 @@
 title: Collection of Pieces
 description: 'Random thoughts: Apocalypse means unveiling!'
 tags: null
-date: 2015-01-01T06:32:16.154Z
+date: 2015-01-01T00:32:16.154Z
 modified: 2022-05-14T16:31:30.941Z
 ---
 

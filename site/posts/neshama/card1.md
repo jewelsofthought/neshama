@@ -29,6 +29,22 @@ modified: 2022-09-14T15:56:13.090Z
 
 {% block mainContents %}
 
+> If richer and fuller languages for redemption are to evolve, fantasies that fetishise the past must be relinquished
+
+> Each organ is a recording and playback mechanism, blood is the recording tape with metal filings, cells are the components that make up the living crystals, and bones are the crystallisation of this information.
+
+> In order for there to be an outcome, the laws of symmetry must be broken.
+
+> Just as we wake in the morning hungry for food to nourish our bodies, do we need to awaken with the same spiritual hunger to sustain our souls.
+
+> "Nothing left to lose" implies that you had something to lose and then were placed&mdash;or forced&mdash; into having nothing left to lose.
+
+> To live a "big" life takes "big" energy, not only from you, but from your environment. Think of moving a skateboard 1km, versus a car, or an 18-wheeler..
+
+> During the growing phase , your gift is your tool. If it becomes a weapon, then you will live by the rule of the sword.
+
+> Eldership is attained/ordained when you gain the wisdom of your gift. Which is expressed in gratitude: "I have been granted my portion." That is "I have been blessed with the gift of ...".
+
 ## All change can only happen via יהוה
 
 > If **Ha'Shem** is the **Source of everything**, then true manifestation can only extend from this **Source**. Therefore we must direct any and all desire, any and all prayer, every request to **Ha'Shem** - for only **He** can cause real change to occur.

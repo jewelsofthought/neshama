@@ -2,7 +2,7 @@
 title: Book of Enoch
 description: Correct history, incorrect interpretation
 tags: null
-date: 2015-01-01T13:52:16.154Z
+date: 2015-01-02T15:52:16.154Z
 modified: 2020-12-01
 ---
 

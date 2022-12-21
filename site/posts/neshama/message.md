@@ -2,7 +2,7 @@
 title: The message
 description: Focus on the message, not the messenger.
 tags: null
-date: 2008-01-17T15:38:35.115Z
+date: 2008-01-13T13:38:35.115Z
 modified: 2022-02-14T14:01:54.030Z
 ---
 

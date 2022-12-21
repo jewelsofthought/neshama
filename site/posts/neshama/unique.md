@@ -3,7 +3,7 @@ title: Unique Experience
 description: Each of us has their own unique experience of life.
 tags: null
 stars: '***'
-date: 2008-01-24T21:38:35.115Z
+date: 2008-01-21T21:38:35.115Z
 modified: 2022-08-17
 ---
 

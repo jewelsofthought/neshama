@@ -1,7 +1,7 @@
 ---
 title: G-d & man
 description: God, man, the temple and our eternal conflict.
-date: 2008-01-15T20:38:35.115Z
+date: 2008-01-15T15:38:35.115Z
 tags: null
 ---
 

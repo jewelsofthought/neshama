@@ -2,7 +2,7 @@
 title: Sound & Noise
 description: All sounds carry information
 tags: null
-date: 2008-01-21T15:38:35.115Z
+date: 2008-01-19T15:38:35.115Z
 modified: 2022-02-14T14:02:54.775Z
 ---
 

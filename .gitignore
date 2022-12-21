@@ -11,3 +11,4 @@ source/
 .vscode/
 *.tar
 *.bkp
+.alphabet

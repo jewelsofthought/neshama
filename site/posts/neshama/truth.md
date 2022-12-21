@@ -2,7 +2,7 @@
 title: Truth
 description: The fundamental path. Right thought, right speech & right action.
 tags: null
-date: 2008-01-24T15:38:35.115Z
+date: 2008-01-20T75:38:35.115Z
 modified: 2022-05-02
 ---
 

@@ -2,7 +2,7 @@
 title: Electrons & Atoms
 description: An angelic influence on everything
 tags: [science]
-date: 2015-01-01T13:32:16.154Z
+date: 2015-01-01T20:32:16.154Z
 modified: 2022-09-14
 ---
 

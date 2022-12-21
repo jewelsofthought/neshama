@@ -1,6 +1,6 @@
 {
-  "name": "eleventy-base-blog",
-  "version": "5.0.2",
+  "name": "neshama-blog",
+  "version": "1.0.0",
   "description": "A repository of my writings - based on the 11t-blog model.",
   "scripts": {
     "build": "npm run clean && env NODE_ENV=production npx eleventy",
@@ -27,7 +27,7 @@
     "node": "16.11.1"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-navigation": "^0.3.2",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.1.3",

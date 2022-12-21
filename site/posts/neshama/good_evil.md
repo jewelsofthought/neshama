@@ -10,8 +10,8 @@ modified: 2022-11-13
 1. [Good and evil](#good-and-evil)
 2. [G-d exists](#g-d-exists)
 3. [Thoughts](#thoughts)
-4. [Is the universe infinite ($$ \infty $$)?](#is-the-universe-infinite--infty-)
-5. [In the realm of the Infinite ($$ \infty $$)](#in-the-realm-of-the-infinite--infty-)
+4. [Is the universe infinite ($$ \\infty $$)?](#is-the-universe-infinite--infty-)
+5. [In the realm of the Infinite ($$ \\infty $$)](#in-the-realm-of-the-infinite--infty-)
 6. [Designed or ... not](#designed-or--not)
 7. [Athiest](#athiest)
 8. [G!d is King](#gd-is-king)
@@ -23,11 +23,11 @@ modified: 2022-11-13
 > Good and evil are decided relative to the choice allowed.
 > The essential difference between good and evil - good gives us a choice, evil never does.
 
-It is one of the reasons we say that God is good - because He allows us a choice of whether to follow the impulse to do Good or that to do Evil.
+It is one of the reasons we say that God is good - because He allows us to choose whether to follow the impulse to do Good or that to do Evil.
 
 Now we don't know how much of each there is, nor even how it is distributed in this world. We just know that it is, and it is everywhere!
 
-In fact, the best we can do, is build bubbles of space & time that contain the good (and thus bubbles that also "contain" the evil).
+In fact, the best we can do, is build bubbles of space & time that contain the good&mdash;and thus bubbles that also "contain" the evil.
 
 Let's change perspective, and look at this representation as one that speaks of "how evil, or how good?" And let's look at it this way:
 
@@ -43,17 +43,19 @@ There will be at least one spot where unadulterated evil can exist just as there
 <figcaption>Tao - the interplay<br /> between light and dark</figcaption>
 </figure>
 
-Let's think of this space as a circle, with the edge of one side being that of pure evil and the other being that of pure good. This then represents the "place" of the purest of good & evil. Inside the circle are all the different gradations and combinations of good and evil. THis will bring us to a symbol that is very similar to the Tao.
+Let's think of this space as a circle, with the edge of one side being that of pure evil and the other being that of pure good. This then represents the "place" of the purest of good & evil. Inside the circle are all the different gradations and combinations of good and evil. This will bring us to a symbol that is very similar to the Tao.
 
-Though there is a small, perhaps minute, percentage, of pure good or pure evil, the majority of the space consists of the _benonim_, the in-betweeners or mundanes, who are neither purely good nor purely evil, but an agglomeration of the two. In essence, the whole narrative is about you and I, the _benonim_, &mdash; for we make up the vast majority of human existence.
+Though there is a small, perhaps minute, percentage, of pure good or pure evil, the majority of the space consists of the _benonim_, the in-betweeners or mundanes, who are neither purely good nor purely evil, but an agglomeration of the two. Perhaps see at as an entwining, rather like the connected double helix of the DNA.
+
+Essentially, the whole narrative is about you and I, the _benonim_, &mdash; for we make up the vast majority of human existence.
 
 If someone is purely good, then there is nothing that needs to be done. He will live a completely sovereign existence according to his inner edicts, and nothing can shake him or divert him. He will draw people to him by his integrity and clarity, but will not seek them out. He will allow them to find him and to leave him if that is not their path.
 
 In the same way, if someone is truly evil, he too will live his life as truly sovereign driven also by an inner (or outer) compulsion. He will influence those around him, and those that he cannot influence - he will bend to his will. This is what makes the force of evil so potent.
 
-The burning question of existence then becomes, if God is the creator of the universe, and therefore omnipotent, was He not the one who Created Evil in the first place? Why, God, oh why? That is a difficult question, perhaps THE essential question of our existence, especially in the midst of this inner battle of the _benoni_ between good and evil.
+The burning question of existence then becomes, if God is the creator of the universe, and therefore omnipotent, was He not the one who Created Evil in the first place? Why, God, oh why? That is a difficult question, perhaps THE essential question of our existence, especially in the midst of this inner battle of the _benoni_ between good and evil.[^1]
 
-You can dedicate a portion of your life and consciousness to delving into this question. If you decide to derive your answer for/by yourself, it will become a life-long pursuit, which many fail at, or, most often, tire of. They then settle on either a half-baked or/and personalised version of the truth of what they are seeking, or live on shifting sand as they constantly renew their commitments in t heir search for the answer that will satisfy then, or, most often, just settle on someone else's answer, or version of the answer.
+I can dedicate a portion of your life and consciousness to delving into this question. If I decide to derive my answer for/by myself, it will become a life-long pursuit, which many fail at, or, most often, tire of. I then settle on either a half-baked or/and personalised version of the truth of what I am seeking, or live on shifting sand as I constantly renew my commitments in my search for the answer that will satisfy me, or, most often, just settle on someone else's answer, or version of the answer.
 
 Whatever answer you settle upon, whatever narrative you choose to describe who you are, will affect how you live your life, and produce many of the consequences thereof.
 
@@ -85,7 +87,7 @@ Or in the peom [Yigdal](https://www.poetrynook.com/poem/yigdal) from Newton Mann
 
 <div class="poem">
 Praise to the living God!<br />
-All praised be his Name,<br />
+All praised be His Name,<br />
 Who was, and is, and is to be,<br />
 For aye the same!<br />
 The One Eternal God<br />
@@ -94,9 +96,9 @@ The First, the Last, beyond all thought<br />
 His timeless years!<br />
 
 Formless, all lovely forms
-Declare his loveliness;
+Declare His loveliness;
 Holy, no holiness of earth
-Can his express.
+Can His express.
 
 </div>
 
@@ -186,3 +188,5 @@ Thus if you are not clear, and have not focussed on keeping your mind and your b
 And to whom are you directing your questions about life and its purpose? It would be necessary to choose to direct them to someone who has dedicated his/her life to the exploration of such a path, through the study and practice required - whether dead or alive.
 
 ![Imperfectly perfect](/posts/img/neshama/new/card1_fig1.2.png)
+
+[^1]: [The Soul’s Wrestling Match: Can It Be a Peaceful Battle?](https://www.chabad.org/parshah/article_cdo/aid/5310747/jewish/The-Souls-Wrestling-Match-Can-It-Be-a-Peaceful-Battle.htm)

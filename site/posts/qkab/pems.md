@@ -64,11 +64,11 @@ Quantum, atomic, molecular, organism
 One could think of this as a ladder.
 
 > All organisms have a physical presence.
-> All organisms have an (emotional) reaction to their environment. That is termed emotional.
-> All organisms have a (mental) pattern of development. This is
-> Only the self-aware and self expressive organism can have a spiritual experience.
+> All organisms have an reaction to their environment. That is termed emotional.
+> All organisms have a pattern of development. This is termed mental
+> Only the self-aware and self-expressive organism can be aware of the totality of the experience we are having. This is termed spiritual.
 
-All other organisms would not be able to, nor would have any need to separate themselves in order to be able to recognise a spiritual event. There is no separation for them from the event itself. They are full in it.
+All other organisms would not be able to, nor would have any need to separate themselves in order to be able to recognise a spiritual event. There is no separation for them from the event itself. They are fully in it.
 
 ### Fundamental Particles
 

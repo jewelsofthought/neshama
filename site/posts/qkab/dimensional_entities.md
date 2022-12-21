@@ -2,7 +2,7 @@
 title: Dimensional entities
 description: Like a mandala made of sand, we build our lives, only for it to be washed away in the ocean of time.
 tags: [dimensions]
-date: 2015-01-01T00:32:16.154Z
+date: 2015-01-04T09:32:16.154Z
 modified: 2022-05-30T16:12:18.201Z
 ---
 
