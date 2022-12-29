@@ -6,50 +6,34 @@ date: 2008-01-20T08:38:35.115Z
 modified: 2022-02-14T13:03:44.369Z
 ---
 
-1. [Pieces](#pieces)
-2. [Thorn in your side](#thorn-in-your-side)
-3. [Sleep](#sleep)
-4. [Vayetzi](#vayetzi)
-5. [To be religious](#to-be-religious)
-6. [1 and -1, good and evil](#1-and--1-good-and-evil)
-7. [Red Toyota](#red-toyota)
-8. [Labour](#labour)
-9. [Negative agenda](#negative-agenda)
-10. [Co-create](#co-create)
-11. [Human being](#human-being)
-12. [Back in "real" space](#back-in-real-space)
-13. [Bureaucratic institutions](#bureaucratic-institutions)
-14. [High, then low](#high-then-low)
-15. [Judaica](#judaica)
-16. [Sexual Energy](#sexual-energy)
-17. [Male/female dynamics](#malefemale-dynamics)
-18. [Infinity](#infinity)
-19. [The dance](#the-dance)
-20. [Chemical dependency](#chemical-dependency)
-21. [Global leadership](#global-leadership)
-22. [Mystic \& Magic](#mystic--magic)
-23. [Numbers](#numbers)
-24. [Ego \& Mind](#ego--mind)
-25. [Meaning of the Merkabah](#meaning-of-the-merkabah)
-26. [Shamanic Power](#shamanic-power)
-
-## Pieces
-
-> If richer and fuller languages for redemption are to evolve, fantasies that fetishise the past must be relinquished
-
-> Each organ is a recording and playback mechanism, blood is the recording tape with metal filings, cells are the components that make up the living crystals, and bones are the crystallisation of this information.
-
-> In order for there to be an outcome, the laws of symmetry must be broken.
-
-> Just as we wake in the morning hungry for food to nourish our bodies, do we need to awaken with the same spiritual hunger to sustain our souls.
-
-> "Nothing left to lose" implies that you had something to lose and then were placed&mdash;or forced&mdash; into having nothing left to lose.
-
-> To live a "big" life takes "big" energy, not only from you, but from your environment. Think of moving a skateboard 1km, versus a car, or an 18-wheeler...
+1. [Thorn in your side](#thorn-in-your-side)
+2. [Sleep](#sleep)
+3. [To be religious](#to-be-religious)
+4. [1 and -1, good and evil](#1-and--1-good-and-evil)
+5. [Red Toyota](#red-toyota)
+6. [Labour](#labour)
+7. [Negative agenda](#negative-agenda)
+8. [Co-create](#co-create)
+9. [Human being](#human-being)
+10. [Back in "real" space](#back-in-real-space)
+11. [Bureaucratic institutions](#bureaucratic-institutions)
+12. [High, then low](#high-then-low)
+13. [Judaica](#judaica)
+14. [Sexual Energy](#sexual-energy)
+15. [Male/female dynamics](#malefemale-dynamics)
+16. [Infinity](#infinity)
+17. [The dance](#the-dance)
+18. [Chemical dependency](#chemical-dependency)
+19. [Global leadership](#global-leadership)
+20. [Mystic \& Magic](#mystic--magic)
+21. [Numbers](#numbers)
+22. [Ego \& Mind](#ego--mind)
+23. [Meaning of the Merkabah](#meaning-of-the-merkabah)
+24. [Shamanic Power](#shamanic-power)
 
 ## Thorn in your side
 
-A third approach sees the suffering associated with sin as the by-product of G-d's rehabilitation of the iniquitous soul. The analogy is the removal of an infectious splinter from a person's body: the pain that is experienced is not a "punishment" as such for the person's carelessness, but an inevitable part of the healing process itself. The fact that a foreign body has become embedded in living flesh and has caused its decay makes its removal a painful experience. By the same token, when something alien to the soul's bond with G-d has become embedded within it, the extraction of this alien body, and the healing of the bond, is experienced as painful to both body and soul.
+Once could see the suffering associated with sin as the by-product of G-d's rehabilitation of the iniquitous soul. The analogy is the removal of an infectious splinter from a person's body: the pain that is experienced is not a "punishment" as such for the person's carelessness, but an inevitable part of the healing process itself. The fact that a foreign body has become embedded in living flesh and has caused its decay makes its removal a painful experience. By the same token, when something alien to the soul's bond with G-d has become embedded within it, the extraction of this alien body, and the healing of the bond, is experienced as painful to both body and soul.
 
 ---
 
@@ -59,27 +43,13 @@ A third approach sees the suffering associated with sin as the by-product of G-d
 
 > "This soul fills the body, and when a person sleeps she ascends, drawing down life from above" - R' Me'ir (Tishby, _Wisdom of the Zohar_, 2:809-12)
 
-The abundance of the earth is in all. "All" designates _Yesod_, who transmits the entire flow of emanation to _Shekhinah_, symbolised by the earth&mdash;and through Her to the worlds below. So it is with the energy of life.
-
 ---
-
-## Vayetzi
-
-> During the growing phase , your gift is your tool. If it becomes a weapon, then you will live by the rule of the sword.
-
-> Eldership is attained/ordained when you gain the wisdom of your gift. Which is expressed in gratitude: "I have been granted my portion." That is "I have been blessed with the gift of ...".
 
 ## To be religious
 
 To be religious means to have an intuitive feeling of the unity of everything (that is **HaShem**). G-d is the name we give to this unity. And so we gather around the call of the _Shma_, just as the people were called by the _shofar_ in times of old.
 
 ---
-
-He did not wish to bewail his situation for he knew that the intrinsic problem was with his relationship with himself.
-
-Though, it must be said, that he was becoming emotionally bankrupt. Where he was driven by his addictions, all of which had control over him. How sad! The road to ... self-destruction. He could not possibly succeed on this path. He knew the answer to his quandary too. It would require embarking on the path of healing. The only thing holding him back was his perception of their finances.
-
-It has been so long since he had achieved anything meaningful. Anything he could look back at and be proud of.
 
 ---
 

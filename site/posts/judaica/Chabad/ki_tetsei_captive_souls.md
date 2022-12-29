@@ -1,7 +1,7 @@
 ---
 title: Captive Souls
 description: Shedding the excess to free the imprisoned soul
-refURL: https://www.chabad.org/kabbalah/article_cdo/aid/380335/jewish/Captive-Souls.htm
+url: https://www.chabad.org/kabbalah/article_cdo/aid/380335/jewish/Captive-Souls.htm
 tags: [external]
 stars: '**'
 date: 2010-01-03T01:11:23.542Z

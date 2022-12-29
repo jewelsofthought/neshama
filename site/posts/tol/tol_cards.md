@@ -2,7 +2,7 @@
 title: Various Thoughts
 description: Miscellaneous ideas
 tags: null
-date: 2004-01-04T13:08:51.930Z
+date: 2004-01-01T00:00:51.930Z
 modified: 2022-08-15T17:48:59.753Z
 ---
 
@@ -31,6 +31,8 @@ modified: 2022-08-15T17:48:59.753Z
 23. [Complex systems](#complex-systems)
 24. [Nature](#nature)
 25. [Interactions](#interactions)
+26. [Bio-engineering](#bio-engineering)
+27. [Economics](#economics)
 
 ---
 
@@ -215,3 +217,17 @@ It could bring us into a biblical frame of reference as going against the "Will 
 I see people interacting with one another in new way. The only gateway into that is to have shared revelatory/transcendent experiences. Then the work begins.
 
 Similar to falling into a love relationship. It is a transcendent experience, but the real work is always in 3d. Dealing with the density and darkness of the 3d reality of the other, that is where we can manifest our connection.
+
+## Bio-engineering
+
+Because of our new found abilities to reform living organisms, if we do not have a strict moral code regulating this, we will produce abominations!
+
+It could result in a whole new species, one never before considered, like the Brains&mdash;who embrace the space with a certain vibrational energy and thus form it = <b>בינה</b>.
+
+## Economics
+
+1. Economics of scarcity:
+2. Economics of abundance:\_
+   - Long tail\_
+
+Whoever controls the resources controls the people. Thus the government will need to "set fiscal policy". Because of separation of the state and religion, it will have no moral, ethical nor spiritual basis. So in the end it will be ego driven, with a purely material goal, covered in a cloak of pseudo-idealism.

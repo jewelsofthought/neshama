@@ -2,7 +2,7 @@
 title: Piece on Hashmal
 pages:
   - 344
-tags: [external]
+tags: null
 date: 2010-10-20T01:52:59+02:00
 modified: 2020-06-05
 ---

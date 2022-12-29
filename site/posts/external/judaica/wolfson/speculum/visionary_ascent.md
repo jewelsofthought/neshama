@@ -6,7 +6,6 @@ pages:
   - 77
 tags:
   - todo
-  - external
 date: 2010-10-23T03:51:59+02:00
 ---
 
@@ -23,7 +22,7 @@ The texts are orthodox, in no way heretical.
 
 Two types: _Ma'aseh Merkava_ of the rabbis, and _Hekhalot_ literature.
 
-Merkavah mystics vs. rabbis: Authors of _hekhalot_ literature rebel against the traditional concept of the world, expressed through a grandiose literaray effort - the Torah (_Sch&auml;fer_).
+_Merkavah_ mystics vs. rabbis: Authors of _hekhalot_ literature rebel against the traditional concept of the world, expressed through a grandiose literaray effort - the Torah (_Sch&auml;fer_).
 
 Aware of merits of prayer and Torah, but traditional repertoire insufficient for them. No longer satisfied with gaining access to G-d solely through Torah. Wish to storm heaven and gain direct access to G-d.
 

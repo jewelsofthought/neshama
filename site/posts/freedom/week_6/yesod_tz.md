@@ -2,7 +2,7 @@
 title: Transformation through Intimacy
 description: The Struggle of Humility
 author: Shimona Tzukernik
-refURL: https://www.chabad.org/library/article_cdo/aid/3556053/jewish/Transformation-Through-Intimacy.htm
+url: https://www.chabad.org/library/article_cdo/aid/3556053/jewish/Transformation-Through-Intimacy.htm
 tags: null
 date: 2022-05-21T01:03:00.000Z
 ---

@@ -1,6 +1,6 @@
 ---
-title: Economics
-description: The economics of bootstraping and growing the network
+title: ToLNet Economics
+description: The economics of bootstrapping and growing the network
 tags: null
 date: 2004-01-06T13:08:51.930Z
 modified: 2021-09-23T15:40:31.756Z

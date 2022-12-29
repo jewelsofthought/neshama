@@ -24,6 +24,7 @@ modified: 2022-09-14T15:56:13.090Z
 13. [Possesion](#possesion)
 14. [Prayer](#prayer)
 15. [Darkness \& Light](#darkness--light)
+16. [Choice](#choice)
 
 {% endblock %}
 
@@ -142,5 +143,9 @@ Focusing on joy in me life, letting G!d take me to the money.
 The darkness is inside. So whenever I am alone, I am in darkness. There is only light outside me. Thus when I are with others, I am in light (enlightened?).
 
 Only when I am looking outside of myself, am I seeing light. Thus we conclude that outside is real because I can see it (see the light), whereas inside &ndash; where I cannot see what I am experiencing &ndash; is thus unreal.
+
+## Choice
+
+Assuming that we are faced with the choosing between a spiritual and a material option, if you choose the spiritual, then it is a spiritual path that you will embark upon. If, however, you choose the material option, it is a material path that you will find yourself upon. Both are filled with challenges and blessings, and both are valid. It is a life (existential) choice; and one can choose the other at any point. Though we say _choose_ the spiritual, and _fall into_ the material.
 
 {% endblock %}

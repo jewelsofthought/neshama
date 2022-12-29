@@ -2,7 +2,7 @@
 title: Sovereign Virtual Identity
 description: No seeds, no future.
 tags: null
-date: 2004-01-20T13:08:51.930Z
+date: 2004-01-18T04:04:51.930Z
 modified: 2022-01-05T12:51:54.454Z
 ---
 

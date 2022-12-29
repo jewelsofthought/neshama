@@ -2,7 +2,7 @@
 title: Path of Blessing or Curse
 tags:
   - external
-refURL: https://fgbt.org/Lessons/how-to-choose-the-path-of-blessing-or-curse.html
+url: https://fgbt.org/Lessons/how-to-choose-the-path-of-blessing-or-curse.html
 date: 2010-12-01T01:17:59.290Z
 modified: 2021-12-08T15:43:31.803Z
 ---

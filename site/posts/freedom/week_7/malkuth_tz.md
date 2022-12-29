@@ -2,7 +2,7 @@
 title: Transformation through Self-Expression
 description: The Struggle for Authenticity
 author: Shimona Tzukernik
-refURL: https://www.chabad.org/library/article_cdo/aid/3556053/jewish/Transformation-Through-Self-Expression.htm
+url: https://www.chabad.org/library/article_cdo/aid/3556053/jewish/Transformation-Through-Self-Expression.htm
 tags: null
 date: 2022-05-28T01:03:00.000Z
 ---

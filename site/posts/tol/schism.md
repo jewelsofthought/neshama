@@ -2,7 +2,7 @@
 title: the Schism of Christianity
 description: The Great Schism of 1054 and the Split of Christianity
 tags: null
-date: 2004-01-17T13:08:51.930Z
+date: 2004-01-18T03:08:51.930Z
 modified: 2022-12-11T18:18:14.780Z
 ---
 

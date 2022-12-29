@@ -3,7 +3,7 @@ title: The Ontology of Light
 pages:
   - 271
   - 288
-tags: [external]
+tags: null
 date: 2010-10-20T00:52:59+02:00
 ---
 

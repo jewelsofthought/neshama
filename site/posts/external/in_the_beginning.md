@@ -1,7 +1,7 @@
 ---
 title: In the beginning
 description: The Word is Logos
-refURL: https://interestingliterature.com/2021/06/john-in-the-beginning-was-the-word-with-god-analysis-meaning/?utm_source=rss&utm_medium=rss&utm_campaign=john-in-the-beginning-was-the-word-with-god-analysis-meaning
+url: https://interestingliterature.com/2021/06/john-in-the-beginning-was-the-word-with-god-analysis-meaning/?utm_source=rss&utm_medium=rss&utm_campaign=john-in-the-beginning-was-the-word-with-god-analysis-meaning
 tags:
   - neshama
   - hermetic

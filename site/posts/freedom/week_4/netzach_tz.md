@@ -2,7 +2,7 @@
 title: Transformation through Ambition
 description: Ambition is what drives the engine
 author: Shimona Tzukernik
-refURL: https://www.chabad.org/library/article_cdo/aid/3556052/jewish/Transformation-Through-Ambition.htm
+url: https://www.chabad.org/library/article_cdo/aid/3556052/jewish/Transformation-Through-Ambition.htm
 tags: null
 date: 2022-05-07T01:03:00.000Z
 ---

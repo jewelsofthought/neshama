@@ -2,7 +2,7 @@
 title: Communities
 description: Empowered communities that are sovereign and conscious
 tags: null
-date: 2004-01-06T13:08:51.930Z
+date: 2004-01-03T14:00:51.930Z
 modified: 2022-08-15
 ---
 

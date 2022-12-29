@@ -2,7 +2,7 @@
 title: Concealing the Concealment
 description: About the doubly concealed concealment...
 article: 'Murmuring Secrets: Eroticism and Esotericism in Medieval Kabbalah'
-tags: [external]
+tags: null
 date: 2010-10-01T01:39:50.132Z
 ---
 

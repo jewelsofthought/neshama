@@ -10,7 +10,7 @@ modified: 2022-05-30T13:46:40.107Z
 
 1. [Fundamental property](#fundamental-property)
 2. [Subtle vs dense](#subtle-vs-dense)
-3. [Light & dark](#light--dark)
+3. [Light \& dark](#light--dark)
 4. [Waves](#waves)
 5. [Release](#release)
 6. [Dynamic principle of Evil](#dynamic-principle-of-evil)
@@ -18,11 +18,11 @@ modified: 2022-05-30T13:46:40.107Z
 8. [Force](#force)
 9. [Two states](#two-states)
 10. [Measurement](#measurement)
-   1. [Real](#real)
-   2. [Virtual](#virtual)
+    1. [Real](#real)
+    2. [Virtual](#virtual)
 11. [Human measurement](#human-measurement)
-   1. [Real: Form](#real-form)
-   2. [Imaginary: Wave](#imaginary-wave)
+    1. [Real: Form](#real-form)
+    2. [Imaginary: Wave](#imaginary-wave)
 12. [Energy](#energy)
 13. [Chashmal/Electricity](#chashmalelectricity)
 14. [Water](#water)
@@ -186,6 +186,8 @@ Perhaps it is a rallying call, a guiding beacon calling us, challenging us to â€
 If the synergy is perfectly in sync, then there is **zero waste**, as all inputs will be used and all outputs nourish something in the chain of life [differentiate between local & global in/outputs] (like the [Oroborus](oroborus.html)). Similar to the _manna_ given to the Son of Israel while they were wandering in the desert - which produced no waste as it was spiritual food.
 
 A smaller the amount of wasted energy, the more harmonious is the interaction, the more effective will the energy usage be. It takes energy to deal with energy &ndash; even wasted energy. In fact, wasted energy is an expression of the propogation of error, for as the energy exchange increases, the waste will increase as well.
+
+> Nature has no waste. _Nothing_ in nature is wasted. Waste being energy that is not used or incorrectly (mis-) used.
 
 ## "Trapped" energy
 

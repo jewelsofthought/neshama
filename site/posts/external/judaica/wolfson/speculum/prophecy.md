@@ -3,7 +3,7 @@ title: Prophetic Vision
 Description: Hermeneutics of Visionary Experience
 pages:
   - 352
-tags: [external]
+tags: null
 date: 2010-10-20T02:52:59+02:00
 modified: 2020-06-27
 ---

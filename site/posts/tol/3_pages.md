@@ -2,7 +2,7 @@
 title: ToLNet - the elevator pitch
 description: No seeds, no future.
 tags: null
-date: 2004-01-01T01:25:24.478Z
+date: 2004-01-01T00:03:24.478Z
 modified: 2020-06-28
 ---
 

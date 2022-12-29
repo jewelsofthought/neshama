@@ -1,7 +1,7 @@
 ---
 title: Quantum Mind
 desription: 'Quantum Mind: The Edge Between Physics and Psychology'
-refURL: https://www.thefreelibrary.com/Quantum+Mind%3a+The+Edge+Between+Physics+and+Psychology.-a0163336422
+url: https://www.thefreelibrary.com/Quantum+Mind%3a+The+Edge+Between+Physics+and+Psychology.-a0163336422
 tags:
   - qkab
   - external

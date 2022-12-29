@@ -1,7 +1,7 @@
 ---
 title: Biocentrism
 description: Reality is a process that requires our consciousness
-refURL:
+url:
 author: Dr. Robert Lanza
 tags:
   - neshama
