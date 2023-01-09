@@ -89,11 +89,13 @@ mark .red {
   font-weight: 900;
 }
 
+/* Do I need this?
 .mord:not(.mathnormal) {
   font-weight: 900;
 }
+*/
 
-blockquote p:dir(ltr) {
+blockquote *:dir(ltr) {
   font-weight: normal;
   font-style: italic;
   margin-top: 0rem;

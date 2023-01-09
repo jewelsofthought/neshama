@@ -2,7 +2,7 @@
 title: Wave/Particle
 description: Frequency, vibrations, waves - and the included middle.
 tags:
-date: 2015-01-02T00:12:16.154Z
+date: 2015-01-23T01:12:16.154Z
 modified: 2022-01-05T18:19:04.767Z
 ---
 

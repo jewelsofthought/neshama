@@ -3,69 +3,43 @@ title: Collection of Pieces
 description: 'Random thoughts: Apocalypse means unveiling!'
 tags: null
 date: 2015-01-01T00:32:16.154Z
-modified: 2022-05-14T16:31:30.941Z
+modified: 2022-05-00T00:31:30.941Z
 ---
 
 1. [Outline (todo)](#outline-todo)
-2. [Quotes](#quotes)
-   1. [Judaica: Prophets](#judaica-prophets)
-      1. [Act of Creation (judaica)](#act-of-creation-judaica)
-      2. [\*\*\* Miracles (judaica)](#-miracles-judaica)
-      3. [Prophet (judaica)](#prophet-judaica)
-   2. [Neshama](#neshama)
-      1. [Ultimate Good (neshama)](#ultimate-good-neshama)
-      2. [Faith (neshama)](#faith-neshama)
-3. [</p>](#p)
-   1. [ToL](#tol)
-      1. [Quotes (ToL)](#quotes-tol)
-4. [Thoughts](#thoughts)
-   1. [ToL](#tol-1)
-      1. [Constraint (ToL)](#constraint-tol)
-      2. [No humans (ToL)](#no-humans-tol)
-      3. [Born (ToL)](#born-tol)
-      4. [Complexity (ToL)](#complexity-tol)
-   2. [Neshama](#neshama-1)
-      1. [Meditation (neshama)](#meditation-neshama)
-      2. [Love (neshama)](#love-neshama)
-      3. [Finite Beings (neshama)](#finite-beings-neshama)
-      4. [Snake (neshama)](#snake-neshama)
-      5. [Context (neshama)](#context-neshama)
-      6. [Perception (neshama)](#perception-neshama)
-      7. [Evolution (neshama)](#evolution-neshama)
-      8. [Here & now (neshama)](#here--now-neshama)
-      9. [Pleasing the Creator (neshama)](#pleasing-the-creator-neshama)
-      10. [Devotion (neshama)](#devotion-neshama)
-      11. [Mercy (neshama)](#mercy-neshama)
-      12. [Free will (neshama)](#free-will-neshama)
-      13. [Freedom (neshama)](#freedom-neshama)
-      14. [Superiority (neshama)](#superiority-neshama)
-   3. [QKab](#qkab)
-      1. [Kaballah (qkab)](#kaballah-qkab)
-      2. [Merkava Descent (qkab)](#merkava-descent-qkab)
-      3. [Metatron (qkab)](#metatron-qkab)
-      4. [Quanta (qkab)](#quanta-qkab)
-      5. [Desire (qkab)](#desire-qkab)
-      6. [Divine Spark (qkab)](#divine-spark-qkab)
-      7. [Dim beings (qkab)](#dim-beings-qkab)
-      8. [Constraint (_Gevurah_) (qkab)](#constraint-gevurah-qkab)
-      9. [Attract/Reject (qkab)](#attractreject-qkab)
-      10. [Free Will (qkab)](#free-will-qkab)
-      11. [Compass (qkab)](#compass-qkab)
-      12. [Aware of the Circle (qkab)](#aware-of-the-circle-qkab)
-      13. [The lesson (qkab:math)](#the-lesson-qkabmath)
-      14. [Stars (qkab:science)](#stars-qkabscience)
-      15. [Arrogance (qkab)](#arrogance-qkab)
-      16. [Enlightenment (qkab)](#enlightenment-qkab)
-      17. [Imperfection (qkab)](#imperfection-qkab)
-      18. [Known (qkab)](#known-qkab)
-      19. [D.T. Suzuki [Notes: P21] (qkab)](#dt-suzuki-notes-p21-qkab)
-      20. [<i>Shekhina</i> (qkab)](#ishekhinai-qkab)
-         1. [Insight (qkab)](#insight-qkab)
-         2. [Infinite collections](#infinite-collections)
-   4. [Balance the Tree (qkab)](#balance-the-tree-qkab)
-   5. [Poles](#poles)
-5. [Dynamic flux](#dynamic-flux)
-6. [Grows](#grows)
+2. [Kaballah](#kaballah)
+3. [Merkava Descent](#merkava-descent)
+4. [Metatron](#metatron)
+5. [Quanta](#quanta)
+6. [Desire](#desire)
+7. [Divine Spark](#divine-spark)
+8. [Dim beings](#dim-beings)
+9. [Constraint (_Gevurah_)](#constraint-gevurah)
+10. [Attract/Reject](#attractreject)
+11. [Free Will](#free-will)
+12. [Compass](#compass)
+13. [Aware of the Circle](#aware-of-the-circle)
+14. [The lesson (qkab:math)](#the-lesson-qkabmath)
+15. [Stars (qkab:science)](#stars-qkabscience)
+16. [Arrogance](#arrogance)
+17. [Enlightenment](#enlightenment)
+18. [Imperfection](#imperfection)
+19. [Known](#known)
+20. [D.T. Suzuki \[Notes: P21\]](#dt-suzuki-notes-p21)
+21. [Shekhina](#shekhina)
+22. [Insight](#insight)
+23. [Infinite collections](#infinite-collections)
+24. [Balance the Tree](#balance-the-tree)
+25. [Poles](#poles)
+26. [Dynamic flux](#dynamic-flux)
+27. [Grows](#grows)
+28. [Wisdom](#wisdom)
+29. [Intention/Outcome.](#intentionoutcome)
+30. [Multi-dimensionality of being](#multi-dimensionality-of-being)
+31. [Todo](#todo)
+32. [Journey into sacred imagination](#journey-into-sacred-imagination)
+33. [Akashic record](#akashic-record)
+34. [Imagination](#imagination)
 
 ---
 
@@ -88,265 +62,21 @@ modified: 2022-05-14T16:31:30.941Z
 
 ---
 
-## Quotes
-
----
-
-### Judaica: Prophets
-
-#### Act of Creation (judaica)
-
-> If the world results in an act of creation, G-d, as the Creator, can introduce changes at will. Our Rabbis limit the scope of such change.
-> &mdash; R' Saadia Ha'Gaon
-
-<p class="note">
-{NOTE: I believe that this is an incorrect understanding of the Will of G-d. It is perfect, and thus is constant. There is not "wilfull change", it is all an expression of His Will, even though we judge it to be wilful.}
-</p>
-
-#### \*\*\* Miracles (judaica)
-
-> Once G-d miraculously transforms the nature of simple elements in joining them to composite bodies, the only subsequent changes are the miracles performed to validate the prophetic mission.
-
-#### Prophet (judaica)
-
-> The trustworthiness of the prophet hinges on the argument that the only reasonable explanation for their occurrence is through the agency of G-d.
-
----
-
-### Neshama
-
-#### Ultimate Good (neshama)
-
-> The Supernal rests only on what is surrendered to him.
-
-This is an expression of the ultimate Good of the Divine. For Good will always give us a choice. Thus G-d does not force us to experience Him. Yes, it is true, that we reap our karmic rewards according to our actions, but one could say that that is inherent in the system. It is an expression of the very laws, whether physical or spiritual, that are the dynamics of the very experience (Universe) that we exist in.
-
-#### Faith (neshama)
-
-> Where knowledge ends, faith begins.
-
-It is through faith which transcends comprehension that one can feel true closeness to G-d.
-
-> Inasmuch as my intelligence and the root of my soul are of too limited a capacity to constitute a "chariot" or abode for His blessed Unity in Perfect Truth. Since my mind cannot conceive nor apprehend Him with any degree of certainty in the world, nor even one iota of that of the Prophets and the Patriarchs.
-
-What is faith then? It is the believe/knowledge that we are only a small part of the greater whole, and that what constitutes the totality is far greater than anything I can imagine. Thus life consists of an exploration into this great mystery.
-
-> “We know that human vision assimilates only a small fragment of the spectrum; as far as our senses are concerned, the rest of it does not exist.”
-> &mdash; Rabbi Adin Steinsaltz
-
-It is more than likely that as far as all our senses are concerned, the rest does not exist. We cannot know what we don't know; we cannot comprehend the incomprehensible. And most of us have a survival mechanism, that keeps us safe in what we know, and is very reluctant to experience the unknown&mdash;a dark and terrifying place, filled with all sorts of monsters that we do may not be able to handle. Besides, it might cause a complete reassessment of the current life experience that you are going through.
-
-> The process reality of being is beyond our cognitive reach (Henry Bergson)
-
-<p class="note">
-{NOTE: Processist, processuality, processism. All processes can be viewed as modifications of substances (material bodies).}
-</p>
----
-
-### ToL
-
-#### Quotes (ToL)
-
-- Punish only he who has committed the crime.
-  &nbsp;&nbsp;&nbsp;&mdash; Marcus Aurelius
-
-- The best revenge is to be un-like your enemy.
-
-- If something is possible for someone, it is possible for anyone.
-
-- Accept the things to which fate binds you
-
-- There is nothing that hinders you from doing what must be done.
-
----
-
-## Thoughts
-
----
-
-### ToL
-
-#### Constraint (ToL)
-
-All aberrant behaviour occurs due to “unnatural” or excessive or unnecessary constraint – which is the exclusive abode of human existence.
-&nbsp;&nbsp;&nbsp;&mdash; R’ Y”mba
-
-#### No humans (ToL)
-
-What difference would it make if there were no humans alive, except to other humans? None!
-
-All other species (of those remaining) seem to have an intrinsic and essential part to play in the unfolding web of life. What is ours? It seems that we are no essential to any part of the Web of Life. Is this why we are drawn by this insatiable desire to affect everything around us? Even our very human-ness? Is this a cry for love, so that the unfeeling, uncaring universe will notice us.
-
-By the fact that we are no essential to material life, makes me think that possibly we need to affect some other part or aspect of existence - like the "spiritual", the "ephemeral" part perhaps.
-
-Are we like children misbehaving so that our absent father will wake up and notice us? Is He so busy with His other affairs that He has no time or desire to pay any attention to us? Does He not care about us?
-
-I believe that He is paying incredible attention towards us, and is pouring His energy and love into us constantly.
-
-#### Born (ToL)
-
-I did not ask to be born as I am, in what I live. In fact, I have great difficulty with a lot of it. Perhaps the best anyone could hope to do, is make it better?
-
-My whole being, my very soul cries out "No! It cannot be!" I will not accept a fate, a universe so cruel and perverse as this is purported to be - though I myself have experienced mostly great things, much kindness and love, and a life full of abundance. I refuse to bow to the concept of a Sovereign Being filled with such human frailties and pettiness. G-d is not creating a drama for His entertainments. We are not pets performing some macabre dance. These are all nightmares dreamt up in minds sunk into darkness and despair at the absence of purpose or meaning.
-
-Yet that is the reality we are facing. It is a Truth that many struggle with, and not a few succumb to. We know, my brethren, that it is in times of darkness that our faith is truly tested. Measured not by our ability to wage war or take up arms in the name of what is true&mdash;not that that might not be an important part of the reality of what is coming&mdash;but by our ability to stand firm on mother earth. To claim, by our divine right to exist, my "internal" sovereignty.
-
-#### Complexity (ToL)
-
-The only thing that can contain everything is nothing!
-
-The more information, the greater the complexity and the greater the energy requirements.
-
-Due to the level of complexity of the collective, plus its global nature, it has to be more inter-dependent that any past experience of such collectivism.
-
-A society built on handling crises, not for maintaining the stability of said society, will eventually begin to manufacture crises, even if unconsciously, or due to inherent/actual, imagined, or inherited fears. Once these behaviours have become embedded in the systems (systemic), they can then be consciously manipulated by those who have some perceived gain from said manipulation.
-
-Who has more to gain than those who hold power and wealth: "Everything to gain, everything to lose" is the refrain of kings and CEO's.
-
-A billionaire loses a billion, and has to live in his mansion on a measly million or so a year, having to trade or sell his other 5 abodes, perhaps let go of his luxury cars. Joe lost his business, had debts to pay, loses his house. Now has no money, no house, no job and little prospect of ever attaining a decent life. And we say that the billionaire lost everything? Because it is bigger, higher, faster, does not mean it is better!
-
----
-
-### Neshama
-
-#### Meditation (neshama)
-
-Meditation that does not lead to clarification of commitment & action is entirely insufficient.
-&nbsp;&nbsp;&nbsp;&mdash; R’ Y”mba
-
-#### Love (neshama)
-
-> Love what you have. You can only desire what you don't have. (Therefore love is not desire!)
-
-> Hate what you have, then you will love something that you don't have. That which represents the counter to that which you have.
-
-#### Finite Beings (neshama)
-
-If we are finite beings, and although fashioned from the cloth/image of the Infinite Supernal Being, we are enclosed in a finite "vehicle", perhaps there is a part of G-d's desire that would like His "children" to return to Him, as is often said in the Biblical readings. The only way to know the path to His door, is through receiving that part of each of us where He exists. Thus, I say, in each finite being there is a piece of the infinite, otherwise we could never have encountered the paradoxical idea of the existence of the finite within the infinite.
-
-<p class="note">
-{NOTE: Is it that each number, being a part of the infinite of numbers, must also have an infinity with it. Therefore, must there be "infinity" in every number as well? Is it an iff? If every number is part of the infinite set of numbers, is not infinity a "part" (that we might have to label a composite, as we do not have the words to express the infinite that must then exist in every finite part that is a piece of that infinite whole. The meditation on that is that after you have cut the pie into pieces, is it not still a whole pie. Even if each piece is devoured, they still would still, "theoretically", make up the whole pie&mdash;of course, if they would need to be "reconstituted". My question is, however, how do we express that whole that exists in each piece.}
-</p>
-
-#### Snake (neshama)
-
-The tree is a snake entity that emerges out of the background of the Tree of Life.
-
-#### Context (neshama)
-
-Abulafia could not speak of it other than in the context within which they were all steeped (both him and his audience). Just as a mathematician can only use mathematics to express what he sees, so the Rabbi's could only speak in the language of their teachers.
-
-#### Perception (neshama)
-
-All perception takes place in a straight line between the recipient and perceived source of the event. Does the response have to be straight line as well? Would that be the simplest and most direct. But is it the best?
-
-#### Evolution (neshama)
-
-> You can only be freed by someone/something from the outside.
-> You can only be freed by someone/something that is itself free!
-
-- Revolution: if it is from the inside, it will only produce another version of what was. Often the same design. Even the same inmates &ndash; just a different location, and perhaps guards/wardens with different faces.
-- Evolution: All evolution occurs due to outside force(s). However its disruptive effect is relative to the inner coherence/harmony of the body/society that is evolving/changing.
-- All evolution is built on the previous iteration, and
-- there are always those left behind [Noah's Ark](noah_ark.html)
-  More accurately, every higher order of magnitude contains within it every lower order of magnitude as well (simultaneously).
-
-#### Here & now (neshama)
-
-- Absolute: here & now
-
-The only absolute is that you are here, and aware. This "point" of awareness we call "Now". And the place that you experience it, is called "Here".
-
-Even though the "now" of your experience is not simultaneous with the Now of the occurrence. It has to become the anchor upon which your life is tethered.
-
-- Relative: past & future
-
-The past is like sight. Depending on the perspective/the line upon which you gaze, you will see your past &ndash; which is the only real past you know. All the rest, that we call history, are narratives (generally told by the victors) and guesses as to what actually occurred. But the only true experience you have of the past, is those you have had, that you have lived.
-
-And those experiences morph and change as time goes by, till they become vague discordant memories of a time long gone.
-
-- Absolute/Relative
-
-To know, to experience, to perceive of something as relative, there needs to be an absolute frame of reference. Even if that frame is relative to some greater system, it becomes the "absolute", fixed point of reference. The Axis around which your whole world turns. In order to change my life I have to change this [Axis Mundi](axis_mundi.html) (the central pillar) upon which my whole life stands.
-
-This is like the compass which needs one fixed foot in order know where the other is directed.
-
-#### Pleasing the Creator (neshama)
-
-Bestow להנאת הבורה - for the delight of the Creator. Same as a parent/child relationship; or perhaps a teacher/student; or, best, a mentor & a novice.
-
-Think of the first time a child "gives" something to its parent. How the parent delights in that gift. Whether it is the smile of a baby, or the scribbles of a young child, most parents value it for years. Think of a student that passes his grades, how proud is the teacher. Or a novice that understands the teachings, and the teacher knows that he is on the right path. So it for our Lord and Master, the Shepherd that bore us.
-
-It seems that the constraint that holds most of us, is around our lack of giving towards our parents, and thus our ancestors - upon whose shoulders we stand. We seem to lack in compassion and forgiveness even for those who bore us, and sustained us, until we were able to make our own decisions (even the bad ones). We have forgotten about [honour](honour.html), and respect and decency - which implies, nay requires, some sort of code or covenant. In the same way, and I think this is the root cause of much of our disease &mdash; we no longer pay respect to our Creator. Like spoilt children, we even resent what we have been provided, always looking at and desiring, what we don't have &mdash; but seldom taking responsibility for the mess we ourselves have engendered.
-
-Shamanically: "Magic of their Alchemical Union". Not personal. Shitty parents. Need to enter spirit, connect to your soul-purpose. As nothing can come into being without spirit, which working through each one of us, enabled us to manifest. It is all spirit. Do not be lulled into thinking it is literal, material or empirical &mdash; imagining that you are the real deal, the full package. That is foolish. There is so much more than you in this world...
-
-#### Devotion (neshama)
-
-Devotion consists of:
-
-- Prayer (words)
-- Movement (dance)
-- Music (sound)
-
-#### Mercy (neshama)
-
-> Free choice as a turning away
-
-The image from the _Zohar_ is of G-d turning His Eyes away, showing the whites of His Eye/I, in order to allow us to be human. In this picture, He Acts like a true lover, giving you the opportunity to reject Him (or Her).
-
-Oh the joy when you choose Her. The righteous abundance that is showered upon you. The service that is required and the awesome, miraculous tasks that are laid before me. Thank you, my Guardian. Not measured in riches of this world, but riches of another that are worth far more in this world than any jewel or other earthly artifact.
-
-#### Free will (neshama)
-
-Why is following the Torah so onerous for so many? If it is indeed the blueprint of Creation, is this blueprint so flimsy, so delicately put together? If _Ha’Shem_ is omnipotent, why is there so much difficulty in following his commands? Why do we have to be cajoled and threatened, into obeying His Holy Word? Would we not, especially those who have seen His miracle, just follow them naturally?
-
-Is it because we have been granted some of the Divine essence, or power, that we call “free will”.
-
-However, this free will can only be expressed as a negative – that is to go against the “Will of G-d”.
-
-To have any choice in the realm of the omnipotent perfection, I would have to have the ability to negate the existence of such omnipotence—a contradiction in itself. Perhaps the only way to express this is through taking a position of against the existence of G-d, declaring myself part of the tribe whose structure is build around the belief that there is No G-d. This attitude becomes an action in the world and the members build a system around this core belief, explaining the universe and our world in terms of this belief. This line of thinking always end up at question of the first cause, “In the beginning”, then speaks of a state or an unfolding of effects, but avoiding the question of how did the space and the configurations that make these effects possible, arise in the first place.
-
-#### Freedom (neshama)
-
-What is freedom truly?
-
-Freedom to
-
-- express yourself
-- be yourself
-- who you truly are
-- realise your dreams (not phantasies)
-
-[Q: Is freedom necessary in order to serve others?]
-
-First, one has to learn who you are and for that we need..
-
-> Freedom of constraint, constraint of freedom
-
-#### Superiority (neshama)
-
-A major motivation for religious endeavours, it seems, is the feeling of superiority that it engenders, and is, in many cases, encouraged. Thus humility has been a principle of all teachers of the mysteries. In fact is a requirement for anyone on the journey of authentic faith—and is one of the ways of separating one who has encountered the flame of truth, and one who claims to have, but has not.
-
----
-
-### QKab
-
-#### Kaballah (qkab)
+## Kaballah
 
 If the ultimate goal of Kabbalah is to bring people back to Judaism and the Torah & _Mitzvot_, then it is not the Kabbalah that our sages propagated. For that Kabbalah comes after being steeped in Torah & from obeying the _Mitzvot_, i.e. being righteous, not before. Kabbalah is meant to lead the student into the deeper mysteries of the Torah (and universe), to gain a deeper understanding of God and His Purpose, how the Universe looks and works, what spiritual energy is and thus, how to understand it and its dynamics in our lives.
 
-#### Merkava Descent (qkab)
+## Merkava Descent
 
 The Merkava Descent, as taught by Martha-Joy Aft, is correct (even if only for this time and this place). It is our inheritance - a portal to another world, perhaps the "other world", that is part of our true inheritance, in addition to this one.
 
-#### Metatron (qkab)
+## Metatron
 
 As each string (ala string theory) conjoins with others to form a "metatron", the primal/root particle, from which all others are formed. It carries all the information for the creation. One could say it contains the DNA/blueprint of Creation. Examples: [Platonic solids](platonic_solids.html); [Hebrew letters](hebrew.html).
 
 It is the principle of greater density, which is a product of "simultaneity". The relationship between these strings will determine the form that emanates. In this state, there is no time, and no space. It is the emergence into 3d space and time- which has to exist for a certain duration of time, long enough for us to cognite/perceive it...
 
-#### Quanta (qkab)
+## Quanta
 
 Paradox:
 
@@ -362,7 +92,7 @@ If we could only realise Spirit as Divine Energy, energy that we cannot measure 
 
 The Torah as being a kind of manual and design handed down to us by the Divine.
 
-#### Desire (qkab)
+## Desire
 
 > Desire arose...
 
@@ -376,19 +106,19 @@ Or perhaps, it is only a part of Perfection that would naturally see Perfection 
 
 Thus the story begins when the One, absolute unity, absolute perfection, becomes Two. That is the true miracle of life, and the whole purpose of our existence.
 
-#### Divine Spark (qkab)
+## Divine Spark
 
 Who recognises this Divine spark? For only the Divine can know the Divine.
 
 It transpires that only if, paradoxically, you have a Divine self could you recognise the Divine &ndash; for it is the Divine self in you that recognises Itself. It is "G-d knowing Itself".
 
-#### Dim beings (qkab)
+## Dim beings
 
 > Manifesting as 2d beings living in a 3d reality with a 4d imagination.
 
 Perhaps that is our evolutionary cycle. We are born as 1d beings: only know myself, my feelings, my needs. Then, upon realising the Other, become 2d: (right/wrong; pain/pleasure; love/hate; good/bad; rich/poor...) Everything is a this (me), and a that &ndash; that potentially opposes, is other, for me. Upon connecting with someone/something else's heart, encountering true love of some other, (entering the heart space together), it becomes a 3d reality, having depth now, as in deep pain/deep love; deep desire, infinite spaces to explore together, feeding and nourishing one another, getting to "know" the object of desire. Which is the reality we live in. It has not only length and breadth, but depth too. Now, and then (as has been recorded), we are embracing a 4th dimensional, imaginative, virtual reality that has strange laws and even stranger effects/beings.
 
-#### Constraint (_Gevurah_) (qkab)
+## Constraint (_Gevurah_)
 
 One needs to practise constraint prior to the event, not subsequent to it. The latter removes all pleasure, making the experience rather torturous. That is the role of the teacher/mentor, to constrain the pupil, and by constraining him, he attains his form. But before that, he needs to be anchored. This is important. In the beginning he is tethered or chained to the goal. This is through an oath or vow that he or she needs to declare. Once his position has been fixed, the teacher can then begin to take him deeper into the mysterious realm. Thus the constraint will form the student, not break him or her.
 
@@ -400,7 +130,7 @@ Due to the truism that to overcome your own weaknesses is the most difficult bat
 
 The only solution to this dilemma is to "create" an ideal, and to aim for that ideal. The most common and tested version of that is G-d, or some variant thereof. As long as that variant contains the same characteristics: Perfect, Absolute, Infinite, Unknowable Oneness.
 
-#### Attract/Reject (qkab)
+## Attract/Reject
 
 In the physical universe, like rejects like and opposites attract. That is because we can only desire what we do not have. In the physical realm it is a purely pain/pleasure response that directs us.
 
@@ -421,13 +151,13 @@ The felt reaction to the "no-choice", that of allowing some "other" impulse to d
 > What is fear but the memory of pain, and the hope to avoid it in the future?
 > What is love but the memory of pleasure, and the hope to encounter it in the future?
 
-#### Free Will (qkab)
+## Free Will
 
 We have been granted free will, and thus the choice to constrain ourselves. For through that choice we become empowered. Of those (of us) who have been born in a constrained environment, our only manner of expressing this principle is by exercising greater and greater restraint/control.
 
 Thus, the principle of _Chesed_, Mercy, needs to be invoked, which allows for the imperfections of being human to be acknowledged and integrated by allowing differences not to separate, but to unify and strengthen. The more heterogeneous environment is always the more robust, whereas the homogenous, tightly coupled environment is highly effective, and while it's rigidity allows it to protect itself, it is susceptible to sudden collapse as the failure of one component will likely cause cascading failures.
 
-#### Compass (qkab)
+## Compass
 
 "Providing people who are lost with a compass is not going to enable them to 'find' themselves. It is like providing a hungry man with a fish - rather provide him with a fishing rod, and a river or ocean filled with fish, and teach him to fish - hoping he won't die of starvation in the meantime! And when the fishing rod breaks, hope that he has caught enough fish to be able to repair it...
 
@@ -441,7 +171,7 @@ But the story is the same. One has to learn to read the map. In other words, one
 
 In addition, one has to learn how the compass is used in the mapping system - through a similar process...
 
-#### Aware of the Circle (qkab)
+## Aware of the Circle
 
 We measure, another way of naming natural phenomenon.
 
@@ -451,13 +181,13 @@ eg: Circle is only a name to recall an image that exists in my mind, with a coll
 
 There is a difference between the name - which is a pointer - and the actual object. In fact, there is no hint of any of the characteristics of the circle in this word.
 
-#### The lesson (qkab:math)
+## The lesson (qkab:math)
 
 Think of it in terms of the lesson of mathematics: with a few simple rules, we build the most complex (and internally coherent) system.
 
 My point is here that even in the realm of the imagination, where anything is possible, patterns appear.
 
-#### Stars (qkab:science)
+## Stars (qkab:science)
 
 What if each star was surrounded by some energy that "warps" light in such a way as to make them seem a certain distance, or look a certain way, or seem to have specific behaviours as observed by us. Perhaps they seem to be along away.
 
@@ -465,13 +195,13 @@ It is somewhat of an extension of the "observer affects what is seen". When we l
 
 So we become a ball hanging in space &ndash; which could be an infinite nothingness &ndash; with little star spaces, each with its own characteristics and each affected by the light they emit.
 
-#### Arrogance (qkab)
+## Arrogance
 
 > Presuming to be separate entities and sovereign independent beings.
 
 This is the road to narcissism, and megalomania.
 
-#### Enlightenment (qkab)
+## Enlightenment
 
 Perhaps another way of describing "enlightenment" is the ability to have greater understanding and insight into the working of the complex system we exist in.
 
@@ -481,7 +211,7 @@ Their arrogance is in their thinking that they are the first generation to wrest
 
 A problem that is in fact an intrinsic aspect of the system itself.
 
-#### Imperfection (qkab)
+## Imperfection
 
 It is not an imperfection in the perfection. It "arose" in the "mind" or "will" of the Creator to create (this creation). All of these words contain barely a grain of truth, because they are all anthropomorphic, using human ontology to describe the indescribable.
 
@@ -489,11 +219,11 @@ In other words, the creation arose out of the perfection as an expression of tha
 
 Why, how, what or who, we will never know. For even the glimpses we are allowed might themselves be delusional&mdash;just keep on dreaming the dream. When enough of us dream the same dream, then we will begin to sing the songs that arise out of this dream. And when enough of us are singing the song of our souls, we will begin to manifest and build that which we dreamt and sang.
 
-#### Known (qkab)
+## Known
 
 If it is know, then it is not unknown. Every piece of information now known was once unknown. For anything to exist it must be know&mdash;just maybe not by us!
 
-#### D.T. Suzuki [Notes: P21] (qkab)
+## D.T. Suzuki [Notes: P21]
 
 _Keter_, _Ein Sof_ = _satori_
 
@@ -505,7 +235,7 @@ _Keter_, _Ein Sof_ = _satori_
 | intuitive knowing            | discoursive knowledge                 |
 | grasp reality in its oneness | analyse information: subject & object |
 
-#### <i>Shekhina</i> (qkab)
+## <i>Shekhina</i>
 
 <div class="poem">
 
@@ -544,13 +274,13 @@ of your life is created.
 
 </div>
 
-##### Insight (qkab)
+## Insight
 
 > Only with $$4^d$$ insight can we understand the $$3^d$$ nature of the tree.
 
 ![Insight](/posts/img/qkab/insight.svg)
 
-##### Infinite collections
+## Infinite collections
 
 - Infinite amount of infinite collections in the infinite infinities of infinite finites in infinity.
 
@@ -581,11 +311,11 @@ Even deeper: In terms of infinities, one can distinguish one from the other. In 
 
 By comparing different infinite collections of finite elements no matter &mdash; a reductive process could reduce each one of these elements&mdash;no matter how complicated&mdash;to a point. We can now speak of different infinities. Each one of which is, in essence, a pseudo-infinity, or one could even say, a partial infinity (another absurdity). This presupposes an element, bound in some fashion, to become finite.
 
-### Balance the Tree (qkab)
+## Balance the Tree
 
 ![Balancing the Tree](/posts/img/qkab/balancing_tree.svg)
 
-### Poles
+## Poles
 
 Everything can be described in terms of their polarity. The extent of any space or event will be measured/described in terms of its poles, that is its opposites/compliments.
 
@@ -602,3 +332,108 @@ Instead of looking at ourselves as some sort of "object" [objectification], an "
 ## Grows
 
 Everything grows towards the light. If it is mobile, it tries to attain an optimum balance between light and dark, finally using the dark as energy.
+
+## Wisdom
+
+It is said that Wisdom is the ability to understand the essence, the principles, the “fundamentals” of a topic, and then are able to apply this understanding of principles to other initiatives. Perhaps one could then refer to mathematics as a language of wisdom, and equations as the sentences with which it speaks, the symbols beings vowels that bring the consonants to life.
+
+## Intention/Outcome.
+
+> The conclusions drawn from data is dependent on the system of measurement used, plus the tools of interpretations.
+
+Time when future was unknown, the focus was on [intent](intention.html). After having gained some ["control"](control.html) (or so it may seem) - in terms of predictability/probability - of future events, [outcome](outcome.html) becomes as, if not more critical, important as intention was in the ancient and modern times.
+
+These outcomes need to be measured through the same emperical measurements as science is using to measure the "imaginary" energies that are swirling all around us, which we, for many centuries, were generally unaware of (the quantum). And the principles derived by the same principles, and as accurate in prediction as F=ma is in its role of keeping the outcome on target!
+
+> Outcome can only be measured in relation to the dynamics of the system itself. Whether postive or negative depends on the breadth of the measurement of the outcome (whether local or global/general), and its original impetus (what caused it), and its depth (how deep/powerful is its source).
+>
+> ## Meaning of the <i>Merkabah</i>
+
+Kabbalists called it the _Merkabah_, meaning "four-wheel chariot."
+
+Actually, _Merkaba_ is a compilation of Egyptian words. All the component syllables are Egyptian words. _Mer_ means "place of ascending", _Ka_ is “spirit-soul” and _Ba_ is “earth-self”. You can see there is a connection here.
+
+## Multi-dimensionality of being
+
+What if all these entities, our guardian angels, ego, consciousness and many such associated beings, are, in fact, expressions of the multi-dimensionality of our very beings. How would I experience multi-dimensional consciousness? Whether my own, or someone other beings.
+
+## Todo
+
+How: Reductionist $$\rightarrow$$ many phenomenon, few ideas.
+Why: do not know.
+Monotheism: One idea to explain everything. Means "dropping" to earth.
+Same as apple dropping to ground, because they can be described by same equations.
+5 forces - gravity, electromagnetic, hadronic, weak, strong $$\rightarrow$$ 5 platonic solids.
+Rutherford discovered nucleus and proton by a fluke.
+Positron: everything has anti-matter, "shadow". Same charge as $$e^-$$, must greater mass
+Pion: $$\rightarrow$$ strong force.
+
+| Leptons                          | Hadrons                                       |
+| -------------------------------- | --------------------------------------------- |
+| $$e^-$$, $$e^+$$, $$\pm neutrino | proton, neutron - banyon $$\rightarrow$$ 3q's |
+| muon - heavy                     | pion - meson $$\rightarrow$$ 2q's             |
+| tau - heavier                    |                                               |
+
+E/M - light, wave particle as quantisation of the wave/force. We feed it by looking at it.
+Higgs boson too heavy! Or it doesn't exist.
+What are we seeing?
+
+quark-gluon plasma.
+
+particles mass - Higgs boson
+Dark matter - supersymmetry (95%)
+Weakness of gravity, extra dimensions
+Electon field fills whole universe.
+Fundamental object in QP is a filed
+Particles are ripples; Higgs field is the glue. Some particles stick to it and attain mass; others don't.
+Einstein: cosmological constant
+
+Space-time bent; it is also falling perhaps.
+10 dimensions
+string theory: 10 or 11 dimension space
+Matter/anti-matter symmetry
+Why do we only see matter around us?
+
+Cathedrals: modern day. Sought G-d, the single idea.
+
+## Journey into sacred imagination
+
+We prefer to refer to this space as "sacred imagination" rather than the "spirit world".
+
+The flute and its sound are separate but one, just as we are separate from G-d, but one with Her.
+
+Using the feminine pronoun Her, when referring to G-d, except in Her manifestly masculine roles, is an open acknowledgement of the Feminine as an intrinsic aspect of the Divine and not just a hidden, generally unacknowledged backdrop to the masculine drama.
+
+Myth, drama and poetry, inspiration and ritual all borrow from the sacred imagination in their attempts to discover or create "portals" to the realm of the sacred by attempting to capture some essence of Divine Spirit and manifest it in our lives i.e. in the world around.
+
+For we know, we all acknowledge the need for the sacred in our lives. Those of us who are spiritually awake see it in the Great Mystery in which we are all enshrouded. Our despair based on the lack of acknowledge of the mysterious in our lives. This explains the compelling desire to embrace the Divine in our lives and grow it, until it becomes my life, the I have reached the world to come, _Olam ha'ba_.
+
+_Olam ha'ba_ is like the limit in calculus, the potential infinity that we can always approach, but never reach, never quite fully embrace. Until, in some magical, mysterious fashion, passing through a point of singularity &mdash; a dark night of the soul &mdash; to arrive at the place of infinity, &mdash; the sacred imagination &mdash; only to find that we have returned, and are back in _Malkhut_ (T.S. Elliot - "To arrive at the end of the journey, and realise that it is the beginning").
+
+For if, by edit, the "Will of G-d" is for me to incarnate, my "natural" direction is towards מלכות - _Malkhut_. So the return, תשׁובה - _tsuva_, occurs when you no longer look towards _Malkhut_ for your salvation, but change your orientation towards the heavens instead.
+
+{NOTE:
+
+The product (multiplication) of two numbers is a similar operation as the journey of two atoms merging. (see diagram)
+
+}
+
+We assume that we comprise a set of "functions" that are well-behaved, a class that, as it tends towards infinity, actually becomes rooted in the real world. These functions are all continuous, of course... Which is not completely true of our consciousness &mdash; even if it is only from the viewpoint of the physical brain. Or these functions could be more similar to the Mandlebrot set, which comprise a set of functions that have elements of infinity embedded in each one of the functions.
+
+{NOTE: Though we could look at everything as having an element of infinity embedded in it. We show this by asking the question does a finite number have infinity embedded in it, when it, by definition is embedded in infinity itself (and sometimes multiple infinities &mdash; as in a real number, is also part of the infinity of whole numbers.)}
+
+## Akashic record
+
+It s about living a life. Just as the god's of creation carved the manifest universe out of nothing, so we carve our lives out in the divine space granted us.
+
+When you say have a short time left, will you look back at your life and say "that was a life well-lived?"
+
+Do not fret. For you who life has been remembered. Some call it the Akashic Records, the space where all the events of the past have been recorded. Where each one of our lives, our histories, are being kept &ndash; down to the minutest detail.
+
+From this record, it is possible to recreate any being. In fact, it is possible to recreate any element that has ever manifested in the universe. The only criterion is that it needs to have time in its history. No time, no history! of course, the longer the time period, the less local is the history. Think of it like a database rewind.
+
+Now one catch is that it is the very configuration of the spaces in which these events are occurring that contains the very full manifest history of these very events.
+
+## Imagination
+
+What are these images but trapped light? Light that we evoked or resonated with and now hold in our memory. This is how we learn we can manipulate the light.

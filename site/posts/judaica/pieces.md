@@ -22,8 +22,13 @@ modified: 2022-02-14T14:13:07.098Z
 14. [The Splendours](#the-splendours)
 15. [Flood](#flood)
 16. [Noah](#noah)
-17. [<i>Sitre Torah</i> - Abulafia](#isitre-torahi---abulafia)
+17. [Sitre Torah - Abulafia](#sitre-torah---abulafia)
 18. [Shabbat - Chapter Two](#shabbat---chapter-two)
+19. [Sleep (Judaica/quotes)](#sleep-judaicaquotes)
+20. [Judaica](#judaica)
+21. [Quotes](#quotes)
+    1. [Act of Creation (judaica)](#act-of-creation-judaica)
+    2. [\*\*\* Miracles (judaica)](#-miracles-judaica)
 
 <blockquote dir="rtl">
 שׁמִר רגליך כאשׁר תלך אל־בית האלוהים, וקרוב לשׁמיע מִתֶת
@@ -203,3 +208,47 @@ The strongest of these holy combinations from which you will know the secret of 
 </blockquote>
 
 It is difficult to apply these
+
+## Sleep (Judaica/quotes)
+
+> "When a person climbs into bed, his soul leaves him..." (Tishby, _Wisdom of the Zohar_, 1:121b, note 8, p203)
+
+> "This soul fills the body, and when a person sleeps she ascends, drawing down life from above" - R' Me'ir (Tishby, _Wisdom of the Zohar_, 2:809-12)
+
+> To be religious means to have an intuitive feeling of the unity of everything (that is **HaShem**). G-d is the name we give to this unity. And so we gather around the call of the _Shma_, just as the people were called by the _shofar_ in times of old.
+
+> The extent to which you wish to give to the Creator, will be the extent to which you gain satisfaction with what you do.
+
+## Judaica
+
+1/10/2002 10:54 AM
+Parshas Va'era
+Yechezkel 28:25
+
+This week's _haftorah_ teaches us a profound lesson in arrogance and self
+dependency. **HaShem** instructed the prophet Yechezkel to deliver a crushing blow to Pharaoh and his Egyptian empire and predict its total destruction.
+
+**HaShem** said, "Behold I am sending the sword after you that will decimate
+man and animal. Egypt will lay desolate and ruined....in response to your
+saying, 'The river is mine and I developed it.'" (29:8,9) **HaShem** held
+Pharaoh and Egypt fully accountable for their arrogant approach to
+prosperity crediting their sustenance solely to their technology.
+
+> Never to forget our limited role in our personal success. We must never forget that **HaShem** is our true provider and He develops and secures our efforts with their ultimate success.
+
+---
+
+## Quotes
+
+### Act of Creation (judaica)
+
+> If the world results in an act of creation, G-d, as the Creator, can introduce changes at will. Our Rabbis limit the scope of such change.
+> &mdash; R' Saadia Ha'Gaon
+
+<p class="note">
+{NOTE: I believe that this is an incorrect understanding of the Will of G-d. It is perfect, and thus is constant. There is not "wilfull change", it is all an expression of His Will, even though we judge it to be wilful.}
+</p>
+
+### \*\*\* Miracles (judaica)
+
+> Once G-d miraculously transforms the nature of simple elements in joining them to composite bodies, the only subsequent changes are the miracles performed to validate the prophetic mission.

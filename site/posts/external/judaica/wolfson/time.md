@@ -1,7 +1,7 @@
 ---
 title: Time
 description: Maybe time is not a point
-tags: [wolfson, todo]
+tags: [todo]
 author: Eliot Wolfson
 date: 2015-12-01T21:32:16.154Z
 ---

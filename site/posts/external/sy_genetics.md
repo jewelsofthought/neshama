@@ -1,8 +1,9 @@
 ---
 title: SY genetics
-description: Interpreting the "Sefer Yetzirah" through Genetic Engineering
+description: 'Interpreting the <i>Sefer Yetzirah</i> through Genetic Engineering'
 tags:
   - external
+  - qkab
 date: 2015-12-01T21:12:16.154Z
 ---
 

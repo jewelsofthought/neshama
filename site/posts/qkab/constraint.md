@@ -2,7 +2,7 @@
 title: The Constraint
 description: In order to manifest, there was a reduction of Infinity.
 tags: null
-date: 2015-01-03T15:32:16.154Z
+date: 2015-01-03T14:32:16.154Z
 modified: 2022-01-30T19:47:43.949Z
 ---
 

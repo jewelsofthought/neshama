@@ -14,7 +14,7 @@ stars: '***'
 
 Why write another book on Shamanism, a reader might rightly ask? Why this book specifically? Well this is not really a book about Shamanism. It is a book about a journey, a personal journey, and about journeying itself.
 
-Our story begins a long time ago, and is based on an unwavering belief in a higher spiritual power, the Creator, Source of Everything. From that extends the belief in the Oneness of Everything, and thus its interconnectiveness. It also places us, in this life experience, as a bridge between the upper and the lower realms of our existence. The most commen English term we use for this is God, but not the God that sits up in heaven (or on Mount Olympus) and gazes down on our petty concerns, but a God, who Himself is Unnameable and Unkowable, that permeates everything, and is deeply involved &ndash in fact, is the Source of &mdash; everything. Yes, I know it might not be really PC, or socially acceptable amongst the more enlightened to use such an archaic term, but unless we transfer to another language, this is the Word I have.
+Our story begins a long time ago, and is based on an unwavering belief in a higher spiritual power, the Creator, Source of Everything. From that extends the belief in the Oneness of Everything, and thus its interconnectiveness. It also places us, in this life experience, as a bridge between the upper and the lower realms of our existence. The most commen English term we use for this is God, but not the God that sits up in heaven (or on Mount Olympus) and gazes down on our petty concerns, but a God, who Himself is Unnameable and Unknowable, that permeates everything, and is deeply involved &ndash in fact, is the Source of &mdash; everything. Yes, I know it might not be really PC, or socially acceptable amongst the more enlightened to use such an archaic term, but unless we transfer to another language, this is the Word I have.
 
 ===
 
@@ -22,7 +22,9 @@ Our story begins a long time ago, and is based on an unwavering belief in a high
 
 The message of this book is that we can have a union in which we know our Beloved. In which we become one with Her, if only for a moment, at the height of our joining&mdash;what we refer to on this plane of existence, as the orgasm, or as enlightenment, in the Otherworld, what some refer to as world of Spirit, or the Angelic realm.
 
-Not that attaining this union is easy. For most of us it requires years of training and practice. It is said that there are two types of prophets, and that is the one—he who has received the impulse from below. The other is when suddenly a bolt strikes you from the heavens and you receive a message or vision that changes the course of your life. We refer to this as the _Hineni_ moment. This is the impulse from above.
+Not that attaining this union is easy. It is said that there are two types of prophets, the one is an expression of the impulse from below and the other, the impulse from above. The impulse from below is expressed through the years of training and practice that is required for most of those who have attained a higher spiritual state. The other is when suddenly a bolt strikes you from the heavens and you receive a message or vision that changes the course of your life. We refer to this as the _hineni_ moment. This is the impulse from above.
+
+However, the _hineni_ moment can only be fulfilled through the awakening of the impulse from below, as the recipient will have to do the necessary work, and pass through the required ordeals in order to fulfil his task. Otherwise, the consequences of the lightning bolt that he received could be dire (_see_ the Four Rabbis)
 
 {Note: Boldness towards heaven...?}
 

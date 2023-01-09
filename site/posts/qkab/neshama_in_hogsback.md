@@ -3,7 +3,7 @@ title: Five soul levels
 description: Description of the five level of soul from Kabbalah
 tags:
   - neshama
-date: 2015-01-14T05:02:16.154Z
+date: 2015-01-14T05:19:16.154Z
 modified: 2021-11-18T09:52:47.755Z
 ---
 

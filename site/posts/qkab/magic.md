@@ -2,7 +2,7 @@
 title: Magic as Connection
 description: The Magic of the 4th Dimension, and our ability to breach this realm and that one.
 tags: [dimensions]
-date: 2015-01-01T04:32:16.154Z
+date: 2015-01-13T01:07:16.154Z
 modified: 2022-05-22
 ---
 

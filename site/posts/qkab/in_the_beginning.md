@@ -2,7 +2,7 @@
 title: In the beginning
 description: The Creation started ...
 tags: null
-date: 2015-01-01T16:02:16.154Z
+date: 2015-01-09T14:02:16.154Z
 modified: 2022-05-30T19:07:13.396Z
 ---
 

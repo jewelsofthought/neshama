@@ -2,7 +2,7 @@
 title: The excluded middle
 description: The bifurcation of the excluded middle
 tags: [science]
-date: 2015-01-01T16:02:16.154Z
+date: 2015-01-05T24:03:16.154Z
 modified: 2022-05-30T17:32:18.974Z
 ---
 

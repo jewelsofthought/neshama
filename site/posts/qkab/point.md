@@ -2,7 +2,7 @@
 title: From point to purpose
 description: Expansion from the point
 tags: null
-date: 2015-01-01T19:12:16.154Z
+date: 2015-01-16T15:12:16.154Z
 modified: 2021-12-28T13:23:06.287Z
 ---
 
@@ -12,14 +12,12 @@ In the Rosicrucian Beacon, Dec. 2000, The Hieroglyphic Monad of Dr. John Dee by 
 
 > Theorem 2: _The monad represents the initial point of creation out of which the universe manifests itself, followed by projection into a line (rectilinear movement), and then the formation of the circle (circular movement)._
 
-
 <figure style="float:left">
 <img src="/posts/img/qkab/point.png" alt="Point & Line" width="300">
 <figcaption>
 <span style="font-size: 80%">Click here for fuller explanation of the <br /><a href="/posts/img/neshama/full_point.png" alt="Full evolution of the point">Point & Line</a>.</span>
 </figcaption>
 </figure>
-
 
 The circle and the line came into existence together. The point, the monad that he speaks of, is a “point in infinity” – which is a concept we cannot clearly define in terms of the concept of this Creative Will, that we call infinity. For in order to speak of a point that emerges, we have to already have a division of the infinite oneness, else it could not emerge. So the point, the circle and the line emerge together.
 
@@ -29,4 +27,4 @@ The line is created by the movement of _Shechina_ through everything. That is wh
 
 For in reality, there is no such thing as a line. Always it must consist of a set of points that have a certain connection, a path that they follow. If these points are sufficiently close together, they constitute a line. Could one not say the same thing about a circle. Not at all. That is because a circle defines an inner space, and the border is there, not as a line, but as a demarcation of its extent – which being space, this skin is to all intents and purposes continuous.
 
-To get somewhat technical, one could thing of a point as a 1d element. Thus it has no mass, no representation, it is only a position, a place in space. If there is movement, then one traces this position with a line. That line then defines a space, that becomes the circle. The circle could be thought of as a larger point then. A point that has “spacial presence” (spence?) or “spacial mass” (spass?)
+One could think of a point as a one dimensional element. Thus it has no mass, no representation, it is only a position, a place in space. If there is movement, then one traces this position with a line. That line then defines a space, that becomes the circle. The circle could be thought of as a larger point then. A point that has “spacial presence” (spence?) or “spacial mass” (spass?)

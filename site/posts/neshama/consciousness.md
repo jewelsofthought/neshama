@@ -14,6 +14,7 @@ modified: 2022-01-30T19:46:47.668Z
 5. [Message Broker](#message-broker)
 6. [Time](#time)
 7. [World of Separation](#world-of-separation)
+8. [Dynamic](#dynamic)
 
 > Either we believe in a divinely ordained existence, or we accept that the cosmos and our existence are just improbable events that occurred by random chance. This cosmology will often lead to the probability of acknowledging a humanly ordained one, as preferable to the darkness and chaos of a randomly occuring one.
 
@@ -79,3 +80,7 @@ Divide time into mundane & sacred time.
 ## World of Separation
 
 We exist in the world of separation in the realm of oneness (which is, in reality, the only "Other"). Measurement is a language of/to deal with separation (or those that are separate). Thus, out of the One come the many and out of the many, emerges One. In the bible it says that **HaShem** is hidden in plain sight (or could I say, hidden from _plain_ sight.)
+
+## Dynamic
+
+We think of consciousness as an awareness that is in essence static. Whereas the only consciousness that could be "static" is perhaps the Divine One. Ouor consciousness is dynamic. It grows, changes and adapts to whatever it encounters, changing perception and changing reaction according to its progress. Just as we encounter the growth and constantly changing aspect of our bodies, so it is similarly with our consciousness.

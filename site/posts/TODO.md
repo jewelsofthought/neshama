@@ -47,12 +47,12 @@ lightning-bolt.png - tree of life diagram stuff
     - codependent.html...
 29. systems.html - [ tolnet/old/tae_questions#complex ] { complex systems }
 30. qkab/waves.html - [ tolnet/old/tae_questions#complex ]{ frequency, vibrations, waves}
-31. creation.html - [ qkab/cards.md#desire ] { zero to one }
+31. creation.html - [qkab/cards.md#desire](../zero to one/)
 
 ---
 
 1. [TODO](#todo)
-   1. [Adam & Eve (Judaica)](#adam--eve-judaica)
+   1. [Adam \& Eve (Judaica)](#adam--eve-judaica)
    2. [Atheist (ToL)](#atheist-tol)
    3. [Decentralised system (ToL)](#decentralised-system-tol)
    4. [Energy as Currency (ToL)](#energy-as-currency-tol)
@@ -63,7 +63,6 @@ lightning-bolt.png - tree of life diagram stuff
       1. [Private property (ToL)](#private-property-tol)
    9. [Sustainable (ToL)](#sustainable-tol)
    10. [Complex Systems (ToL)](#complex-systems-tol)
-   11. [Desire (Neshama)](#desire-neshama)
 
 ## Adam & Eve (Judaica)
 
@@ -136,7 +135,3 @@ As in communities that self-sufficient, and are able to robust and dynamic
 ## Complex Systems (ToL)
 
 [Reproduction:]Takes a certain amount of iterations (generally, at least, 4) in order for the "complexity" (actually regularity) to appear. [Regulating:] At which point it becomes "self-regulating/governing". It manifests order/pattern - but the pattern is unpredictable.
-
-## Desire (Neshama)
-
-The beginning begins with the emergence of the One. How the zero became 1 is beyond a miracle. There are absolutely no words (in any language) that describe either what the 0 is, or how it became 1. Though there is a way to express it in every language, and it is an essential part of every language. In fact, everyone can "speak" this divine language. It is called ... silence!

@@ -5,25 +5,29 @@ site/posts/story/poems                 2002-02
 
 site/posts/tol                         2004-01
 site/posts/tol/social                  2004-02
-site/posts/tol/old                     2004-11
-site/posts/tol/old/tae                 2004-12
-
+site/posts/tol/old                     2004-03-01
+site/posts/tol/old/tae                 2004-03-02
 
 site/posts/neshama                     2008-01
-site/posts/neshama/book_gift           2008-10-
+site/posts/neshama/book_gift           2008-02
+site/posts/neshama:process             2008-03-01
 
-site/posts/shaman                      2009-01
+
 
 site/posts/judaica                     2008-01
-site/posts/external/judaica/           2011-01
-site/posts/external/judaica/tishby     2011-02
-site/posts/external/judaica/zornberg   2011-03
-site/posts/external/judaica/universal_kabbalah  2012-01 (Leet)
-site/posts/external/judaica/wolfson    2013-01 (Wolfson)
+site/posts/external/judaica/           2008-02
+site/posts/external:judaica            2008-02
+site/posts/external/judaica/tishby     2008-03-20
+site/posts/external/judaica/zornberg   2008-03-26
+site/posts/external/judaica/universal_kabbalah  2008-03-12 (Leet)
+site/posts/external/judaica/wolfson    2008-03-23 
+
 
 site/posts/qkab                        2016-01
+site/posts/shaman                      2016-02
+site/posts/external:qkab               2016-11
 
-site/posts/external                    2017-01
+site/posts/external/judaica            2008-12
 site/posts/freedom                     2018-01
 site/posts/freedom/week1               2018-02
 ...
@@ -32,13 +36,17 @@ site/posts/freedom/week7               2018-08
 site/posts/parashot                    2022-
 
 [TODO: Tags]
-site/posts/tol:economics               2003-02
-site/posts/tol:definitions             2003-09
-site/posts/external:tol                2003-12
-site/posts/neshama:process             2008-11
+site/posts/tol:economics               2003-02-05
+site/posts/tol:definitions             2003-02-04
+site/posts/external:tol                2003-11
+
 site/posts/external:neshama,hermetic   2008-11-20
 site/posts/external:judaica            2010-12-01
 site/posts/external:judaica,hermetic   2010-12-20
 site/posts/qkab:m&f                    2015-10
-site/posts/external:qkab               2015-12
+
+site/posts/external                    2022-01 - depends on external to what!
+
+
+
 site/posts/external:covid              2021-12

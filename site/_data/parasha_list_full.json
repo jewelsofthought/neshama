@@ -15,7 +15,11 @@
     { "portion": "Vayeshev", "heb": "", "reading": "Genesis 37:1–40:23" },
     { "portion": "Miketz", "heb": "מִקֶץ", "reading": "Genesis 41:1-44:17" },
     { "portion": "Vayigash", "heb": "", "reading": "Genesis 44:18-47:27" },
-    { "portion": "Vayechi", "heb": "", "reading": "Genesis 47:28-50:26" },
+    {
+      "portion": "Vayechi",
+      "heb": "וַיְחִ֤י",
+      "reading": "Genesis 47:28-50:26"
+    },
     { "portion": "Shemot", "heb": "", "reading": "Exodus 1:1 - 6:1" },
     { "portion": "Va'era", "heb": "", "reading": "Exodus 6:2-9:35" },
     { "portion": "Bo", "heb": "", "reading": "Exodus 10:1-13:16" },
@@ -43,7 +47,7 @@
     { "portion": "Shelach", "heb": "", "reading": "Numbers 13:1–15:41" },
     { "portion": "Korach", "heb": "", "reading": "Numbers 16:1–18:32" },
     { "portion": "Chukat", "heb": "", "reading": "Numbers 19:1–22:1" },
-    { "portion": "Balak", "heb": "", "reading": "Numbers 22:2–25:9" },
+    { "portion": "Balak", "heb": "בלק", "reading": "Numbers 22:2–25:9" },
     { "portion": "Pinchas", "heb": "", "reading": "Numbers 25:10–30:1" },
     { "portion": "Matot", "heb": "", "reading": "Numbers 30:2–32:42" },
     { "portion": "Massei", "heb": "", "reading": "Numbers 33:1–36:13" },

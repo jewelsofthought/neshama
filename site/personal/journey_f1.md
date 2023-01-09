@@ -3,7 +3,7 @@ title: Journey
 description: All my life, I have journeyed
 tags:
   - shaman
-date: 2014-03-09T13:30:52.768Z
+date: 2014-03-09T13:00:00.768Z
 ---
 
 I have journeyed all my life. When I was a kid, I never called it journeying. We had all sorts of names for it, like "zoning out", or "spacing out". Today I wonder if it is called ADD, or ADHD, or something similar that can me medicated.

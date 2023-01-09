@@ -48,7 +48,7 @@ date: 2022-01-31T17:26:16.218Z
 [Being in the Flow](../flow.html)".
 [Platonic solids](platonic_solids.html)
 [Hebrew letters](hebrew.html).
-[Zero to Hero](zero2one.html)
+[Zero to Hero](../qkab/zero_one/)
 [Noah's Ark](noah_ark.html)
 [Axis Mundi](axis_mundi.html)
 [honour](honour.html)

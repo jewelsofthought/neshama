@@ -4,7 +4,7 @@ description: null
 tags:
   - todo
   - energy
-date: 2015-01-05T14:32:16.154Z
+date: 2015-01-05T14:12:16.154Z
 modified: 2022-05-30T13:46:40.107Z
 ---
 
@@ -185,7 +185,7 @@ Perhaps it is a rallying call, a guiding beacon calling us, challenging us to â€
 
 If the synergy is perfectly in sync, then there is **zero waste**, as all inputs will be used and all outputs nourish something in the chain of life [differentiate between local & global in/outputs] (like the [Oroborus](oroborus.html)). Similar to the _manna_ given to the Son of Israel while they were wandering in the desert - which produced no waste as it was spiritual food.
 
-A smaller the amount of wasted energy, the more harmonious is the interaction, the more effective will the energy usage be. It takes energy to deal with energy &ndash; even wasted energy. In fact, wasted energy is an expression of the propogation of error, for as the energy exchange increases, the waste will increase as well.
+A smaller the amount of wasted energy, the more harmonious is the interaction, the more effective will the energy usage be. It takes energy to deal with energy &ndash; even wasted energy. In fact, wasted energy is an expression of the propagation of error, for as the energy exchange increases, the waste will increase as well.
 
 > Nature has no waste. _Nothing_ in nature is wasted. Waste being energy that is not used or incorrectly (mis-) used.
 

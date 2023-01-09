@@ -2,7 +2,7 @@
 title: Trinity - Triangle
 description: The 3-some.
 tags: null
-date: 2015-01-01T22:12:16.154Z
+date: 2015-01-20T18:09:16.154Z
 modified: 2022-01-11T17:10:18.179Z
 ---
 
@@ -13,8 +13,8 @@ modified: 2022-01-11T17:10:18.179Z
    2. [Three's](#threes)
    3. [3 shapes](#3-shapes)
 4. [As above, so below (AASB)](#as-above-so-below-aasb)
-5. [Upper & Lower](#upper--lower)
-   1. [Upper & Lower](#upper--lower-1)
+5. [Upper \& Lower](#upper--lower)
+   1. [Taking control](#taking-control)
 6. [Help](#help)
 
 ## Gimel - the third letter
@@ -77,7 +77,7 @@ There must be differences, otherwise things would be indistinguishable. Unless t
 
 Or perhaps it behaves more like the photons in the double slit experiment, where each ray can follow any path to the upper realm, but collapses to certain one’s because of what the consciousness in the lower realm is “observing”.
 
-### Upper & Lower
+### Taking control
 
 Yet, if there are differences between U & L, what are they?
 One is that U has info that is essential for us to “heal” ourselves – and attain our inheritance.

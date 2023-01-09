@@ -14,9 +14,12 @@ modified: 2022-11-13
 5. [In the realm of the Infinite ($$ \\infty $$)](#in-the-realm-of-the-infinite--infty-)
 6. [Designed or ... not](#designed-or--not)
 7. [Athiest](#athiest)
+   1. [Denial of G-d (free\_choice)](#denial-of-g-d-free_choice)
 8. [G!d is King](#gd-is-king)
+   1. [Omnipotence](#omnipotence)
 9. [Perfect world](#perfect-world)
 10. [Questions](#questions)
+11. [1 and -1, good and evil (Judaica/Good \& Evil)](#1-and--1-good-and-evil-judaicagood--evil)
 
 ## Good and evil
 
@@ -152,6 +155,16 @@ For those who follow this atheistic doctrine, [AI](ai.html) would be the ultimat
 
 > [AI](ai.html): A note on AI: Perhaps we have had such systems throughout history, just not referred to as AI. But any system that is imposed from the outside, and forces people to live in a certain imposed manner, is a form of AI. Legal systems are just that.
 
+### Denial of G-d (free_choice)
+
+> If **HaShem** is so powerful, why is there so much difficulty accepting Torah &mdash; the blueprint/guidebook to the World to Come? Because, somewhere, we have a drop of the Divine power that is expressed in what is called, "free choice".
+
+To have any choice in the realm of the Omnipresent Perfection, I have to have the ability to negate the Omnipresence. To believe that there is no G-d, and declare myself part of the Cult of Atheism whose belief structure is build around the core belief that there is no G-d... and all the rest that follows from that guiding principle.
+
+It thus becomes an action in the world and the adherents of said doctrine build a life around them that forms around this core belief.
+
+Rationality would also fall into such a belief system, but one that has a serious flaw. Rationality requires a "mechanism" &mdash; some set of agreed upon criteria, that will deem something to be rational. The question is whether these criteria are adequate. Of "what if it was the rational that actually brought us to the space of rationality?
+
 ## G!d is King
 
 The expression of a king is the belief that there are those amongst us who may be above us and control us like gods. Thus, the desire to be king is the ultimate expression of ego. When one reaches this pinnacle of desire it is manifested by one's entire world being a reflection of the king's ego. Anyone or anything that doesn't agree with his ego is immediately ejected.
@@ -160,11 +173,17 @@ The problem that occurs here is that a king cannot fully control those who belie
 
 However, having removed the dependency on G-d, replaced with pseudo-science and AI, which the king controls, enables the earthly king to gain absolute control over his people, body and soul.
 
-There are those who need great monuments and lofty statues to remind us all of their greatness. But if they were truly so great, would their memories not be engraved in the human soul? Because, if the truth be told, many would like to forgot the atrocities that have been perpetrated by those monumental personages, directly or indirectly, on innocents. The truly wise do not need statues, for they burn their wisdom and (in)sight into our very being, bless them all. For the truth of the wise cuts deeply. They are often villified and persecuted for the unwavering bravery and adherence to the greater, more authentic, truth than that of our overlords.
+There are those who need great monuments and lofty statues to remind us all of their greatness. But if they were truly so great, would their memories not be engraved in the human soul? Because, if the truth be told, many would like to forgot the atrocities that have been perpetrated by those monumental personages, directly or indirectly, on innocents. The truly wise do not need statues, for they burn their wisdom and (in)sight into our very being, bless them all. For the truth of the wise cuts deeply. They are often vilified and persecuted for the unwavering bravery and adherence to the greater, more authentic, truth than that of our overlords.
 
 Manufactured human artifacts representing divine are images of fabricated gods. They will, each and every one of them, be representations of the cultural power structure, just as those in power will present themselves as representatives of these gods that they have fabricated. These tales and myths of their exploits and greatness are told to the allay the fears of the people. They are also representing themselves (or the positions that they hold) as G-ds or as superior in some form or fashion to justify the control structure.
 
 Many want a leader, or a king, to rule over them. Thus the only king that is no-king is an "imaginary" king, a king so perfect, so kingly, that no human king could ever hope to attain such dignity, This perfect king, or king of perfection, we call G-d, in English. Now if this god is just a king, then he will be like any king, both good and bad. So the only king that cannot be a king, as we know kings, is G-d, the perfect King. How paradoxical! Let us enter the realm of the imaginary. Imagine a King, so perfect.... Imagine this G-d of Perfection ruling over everything - and it is, of course, perfect. This king we refer to as "the Supernal Light" for he existed before there even was light - as if you could imagine such a thing. As such, as He is One and in everything - just as the number 1 is contained in every single other number - any one can become one with the One. Remember, if you combine another 1 with infinity, the Infinite does not change.
+
+### Omnipotence
+
+If G-d, Blessed is His name, is omnipotent, why could He, the Holy One, not have created something more robust, more conducive to living a good life? {NOTE: Did he not?}
+
+Because He, the Creator of the Universe, couldn't! Because He, Blessed is Holy Kingdom for evermore, surely would have, if He, the Great Omnipotence, would have, if He could have. It must have taken an infinite amount of energy of the Omnipotent to create a single moment of non-ness and we are a product of it! It took billions of years to create this space. By saying that, in the realm of the Divine, there is no time, does not in any way negate the fact that it took "billions of years" worth of energy for this Creation to happen in no-time itself.
 
 ## Perfect world
 
@@ -190,3 +209,29 @@ And to whom are you directing your questions about life and its purpose? It woul
 ![Imperfectly perfect](/posts/img/neshama/new/card1_fig1.2.png)
 
 [^1]: [The Soul’s Wrestling Match: Can It Be a Peaceful Battle?](https://www.chabad.org/parshah/article_cdo/aid/5310747/jewish/The-Souls-Wrestling-Match-Can-It-Be-a-Peaceful-Battle.htm)
+
+## 1 and -1, good and evil (Judaica/Good & Evil)
+
+Think of it as a graph, where zero is neutral, 1 is absolute good, -1 is absolute evil. Then there is a huge difference between approaching zero and approaching –1. We now know that a better way to look at it is as a body in motion. Thus we can use calculus. The differential equations will show us the direction we are heading, and the integral equations will show us what space we are filling and how, i.e. what we are putting out.
+
+Thus we can work out whether we are heading towards –1, 0 (from –1), 1, or 0 (from 1). In this way, we have a basic set of elements here, manifesting the four directions:
+
+- Going from 0 to –1, you are entering the danger zone, and moving towards becoming truly evil. Evil actions are now becoming commonplace in your existence. Either you are becoming a killer, a rapist or a victimizer – one who perpetrates violence and cruelty on others.
+- Going from –1 to 0, you are still in the danger zone, but something has begun to change you, has awoken the _Yetzer Ha’Tov_ and you are becoming aware, once again (for you knew you were descending once upon a time), of the need to change for the better – the basic human instinct. It is almost always love. Perhaps the birth of a child. Perhaps an experience of the beauty of someone or something around you. Perhaps the love or kindness of a stranger. Perhaps a piece of music. Or perhaps Adonai took pity on you, and woke the sleeping spirit, and you loved him forever more.
+- Often it is a “bottoming out”, reaching your endpoint, your -1. Realising that whatever downward spiral you had reached, it was time to change something in your life, and you had arrived at that turning point, that place where you would be willing to do anything, whatever sacrifices it entailed, to change that in yourself.
+- Going from 0 – 1. You are becoming blessed. I suppose as you approach the 1, (or is it after you pass through the origin, the 0 point); you will be able to begin to bless others, to spread the kindness and love. You are on the path to redemption. You are climbing Jacob’s ladder. Moving from the Earth to Heaven. Beauty and kindness and love will begin to surround you. People and animals will be naturally drawn to you, and want to spend time in your sphere. These are the ones to follow and emulate. Only you have to be in the right field of existence to be able to find them, for they do not advertise.
+  This is also called the road to redemption. The _“chozer be’tsuvah”_, the returnee. The one who fell into sin, but emerged from it, having passed through the dark night of the soul.
+- Going from 1 – 0. That is a sad journey. It is the fall. Satan falling from being God’s favourite to being his Archenemy. The prosecutor – always pointing out the Bad, feeding the _Yetzer Ha’Rah_. What a victory, to bring down one of the Blessed. It is Adam’s eviction from the Garden of Eden. It is childhood – born an Angel, and living in Elohim’s blessed womb. Growing into the world and encountering the Dark side.
+  It is also the beginning of the story, where the 1, the unity, the everything, splits into emergence, and as such has to reach the 0 point, middle, in order to be able to extend outwards.
+
+There is an interesting concept that emerges here. In order to attain the 0 point, in the middle, the 1 would have to create the -1 so that the 0 would be in the middle‼!
+
+Then we have the integral, which investigates the space of the journey, and talks of the actions that you perpetrate and the manner in which you carry out these actions.
+
+It is not the fact that they are collecting information about us. It is the intention behind the collecting of information, the purpose behind the action. (This is another example of the differential/integral model. The direction is the collection of information. The use of that information is the integral function.)
+
+The reason they want all this information, is not to help you (that is a side effect of the main purpose. If they do help you, then they may get your business, for their service or product becomes a perceived value add.), but to make a profit. Here is where we become the rats in the cage, our only purpose in life, as perceived by the marketeers, is to benefit their company and make them rich and profitable. For that is the ultimate purpose of existence as defined by this culture. The US having brought this motif to the level of an art form, using all the science and technology that they can muster.
+
+This has to change to be used for the benefit of us all. To track and monitor our habits desires and needs. Our purpose in life should be to ensure that we all have the means with which to express these desires and fulfil our needs, hopefully in a positive and constructive manner. Though if our ethic has changed to be one of aiding one another to achieve this, and we are rewarded appropriately, so that it becomes worth our while, and we receive the recognition that all of us yearn for, I think we will begin to see less and less incidents of destructive and non-productive behavior patterns.
+
+For example, there is a group in New York City of organic farmers that began to give out free fresh fruit and vegetables in the poverty stricken areas of the 5 boroughs. By feeding the people, and eventually providing them with work, the crime rate in the area dropped, to the level that the city noticed, and began to support them financially, and use the police to help them distribute the food. Apparently, now that the people did not have to deal in drugs to feed their family, they stopped doing so. Also, now that the kids saw that there were other ways of earning a living, besides drug dealing, which was the only way of getting ahead in the ghetto, they began to take to it.

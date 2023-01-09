@@ -2,7 +2,7 @@
 title: Doctrine of Original Beauty
 description: Writings
 tags: null
-date: 2015-01-01T20:02:16.154Z
+date: 2015-01-15T18:02:16.154Z
 ---
 
 ## Man is NOT evil. Man is GOOD.

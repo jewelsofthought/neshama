@@ -9,15 +9,15 @@ modified: 2022-01-02T11:04:49.570Z
 
 1. [Lyn (2016)](#lyn-2016)
 2. [Monogamy (2016)](#monogamy-2016)
-3. [The Beast & The Angel (Poem)](#the-beast--the-angel-poem)
-4. [This is the way i look at it. (m&f)](#this-is-the-way-i-look-at-it-mf)
+3. [The Beast \& The Angel (Poem)](#the-beast--the-angel-poem)
+4. [This is the way i look at it. (m\&f)](#this-is-the-way-i-look-at-it-mf)
 5. [Compete](#compete)
 
 ## Lyn (2016)
 
-I just want to express my gratitude for what we shared together. For the gift of offering and opening your home and your heart to me. For being willing to embark with me on and share the journey of our lives so deeply. You will always remain a part of my life. You helped me go through a transition, one which you were a mirror of and for me and for you. For me, it is always a humbling and awe inspiring event in and for my life when I meet someone with whom I can go so deeply and so intimately so immediately. It is immense and for that I will always be grateful. I just want you to know how appreciative I am of all that you gave and received. I am honored and was deeply nurtured by all that occurred between us.
+I just want to express my gratitude for what we shared together. For the gift of offering and opening your home and your heart to me. For being willing to embark with me on and share the journey of our lives so deeply. You will always remain a part of my life. You helped me go through a transition, one which you were a mirror of and for me and for you. For me, it is always a humbling and awe inspiring event in and for my life when I meet someone with whom I can go so deeply and so intimately so immediately. It is immense and for that I will always be grateful. I just want you to know how appreciative I am of all that you gave and received. I am honoured and was deeply nurtured by all that occurred between us.
 
-I am not meant to share this, because it will be feeding the energy of love between us, which is forbidden according to the code of honor that is a requirement of a shared and committed life, a life filled with principles and honor as defined by our culture. But I will do so anyways, and know that I do it in another dimension, a place of other, than what is required to be in this world realm, because I rather that, than dishonour what we had with spirit. But we can justify any action anyway, so it also boils do an to that I want to share with you in my gratitude.
+I am not meant to share this, because it will be feeding the energy of love between us, which is forbidden according to the code of honor that is a requirement of a shared and committed life, a life filled with principles and honour as defined by our culture. But I will do so anyways, and know that I do it in another dimension, a place of other, than what is required to be in this world realm, because I rather that, than dishonour what we had with spirit. But we can justify any action anyway, so it also boils do an to that I want to share with you in my gratitude.
 
 Each time I enter your car, I breathe in your smell. I think and thank you while driving and send out thoughts of love and joy. No wonder you felt me at times.
 

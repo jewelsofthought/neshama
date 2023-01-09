@@ -2,7 +2,7 @@
 title: Engine of Emergence
 description: Discussion using the Sefer Yetzirah
 tags: null
-date: 2015-01-05T09:32:16.154Z
+date: 2015-01-05T14:05:16.154Z
 modified: 2022-07-07T16:12:18.201Z
 ---
 

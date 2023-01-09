@@ -2,7 +2,7 @@
 title: G-d is infinite
 description: Various pieces, covering various topics. Still to be sorted properly.
 tags: null
-date: 2015-01-01T21:22:16.154Z
+date: 2015-01-19T15:02:16.154Z
 modified: 2021-10-20T11:27:41.695Z
 ---
 

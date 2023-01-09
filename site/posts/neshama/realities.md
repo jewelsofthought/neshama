@@ -41,3 +41,18 @@ The Zen path is one that challenged our patterns, and is such a revelatory path.
 When you find yourself stuck in your life, where greater effort will only produce small effects, you need to change a pattern. One cannot continue doing the same things and expect something to change.
 
 There is much vocabulary that describes this conundrum in our modern vernacular, expressing many of the effects and challenges you might face on this path.
+
+## Infinity from Finite
+
+> Biblical creation $$\Rightarrow$$ evolution &mdash; sensibile, describing patterns we can see.
+
+In the biblical days, people did not have as much knowledge available to them as we have today. The terms used to express such an incredible event as the creation would have to be expressed in much more simple and practical terms than those of today. We can handle the complexity of the idea of the big bang, and the "evolution" of the universe.
+
+---
+
+In order to extract $$\infty$$ from the finite, a restriction or containment, is necessary. {NOTE: Called _Din_ in Kabbalah.} (see piece on &empty; and '{}' in set theory.) This is the primal duality, created by a wall that exists between the finite and the infinite.
+
+What does this wall look like? What are its characteristics. If the wall itself is not infinite, then how can it exist in a finite realm? And the inverse is true. It is certainly true to question how it exists in realm of the Infinity of Infinities, where everything is, by definition, infinite.
+Thus the primal separation is the emergence of the finite from the infinite. And so it is. For as finite beings everything we experience is finite. Yet we dream of the infinite, though never attaining a real "experience" of it. If everything we imagine exists, then infinity must exist too.
+
+Math is like a measuring too. It describes events that have already occurred. It measures effects that already exists. And upon that collection of data, projects predictions, formed on the patterns already measured, based on the data collected. The requirement of "demonstrable proof" holds us in our patterns of the past. If it has been "proven", then it cannot emerge as something else, for that would be breaking the very foundation upon which this system of knowledge is based. There is no place for the miraculous, for the mystery to be perceived.

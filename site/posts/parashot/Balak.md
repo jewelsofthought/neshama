@@ -1,14 +1,12 @@
 ---
-title: Balak
+title: Balak פרשׁת בלק
 description: Numbers 22:2–25:9 - Shabbat, 17 Tammuz, 5778
 date: 2021-01-21T16:00:00.000Z
 tags: null
 modified: 2022-07-16T10:34:57.966Z
 ---
 
-1. [Parashat Balak](#parashat-balak)
-
-## Parashat Balak
+## Balaam
 
 What has always interested me is the bad rap that Balaam has received. This attitude has bothered me, as it appears in a number of significant places.
 
@@ -24,7 +22,7 @@ For two-thousand years we prayed, we begged, we cried to return to the Land of I
 
 Perhaps the Holy Land, the "nation" of G-d's beloved is those, all over and everywhere, who still firmly and deeply and authentically believe in God &mdash; who every morning and every evening pledge their hears and their souls to G-d, and try to live their lives serving as best they understand G-d's Will. Even if they fail, at least they are trying. They are believers and have faith. And in what do they believe? In a heaven on earth, as idealistic as that might seem, where we can live as human beings and interact in the way that most human beings wish to - kindly and lovingly - unless they have been twisted into some obscene shape by the non-believers.
 
-Numbers Chap 22:
+## Chapter 22
 
 Although Balaam has been portrayed as an evil man (who deserved to die at _Ba'al Peor_), in this portion he is not portrayed as an evil man.
 
@@ -40,13 +38,19 @@ Although Balaam is not from the children of Israel, he is visited and speaks reg
 
 Be that as it may, what I find fascinating is that he has communication with the Lord of Israel, even though he is not of the tribe of Israel.
 
-22:9] And as we see in v 9, he is correct, and indeed that evening “the Lord comes to Balaam, and speaks to him”. What is strange here, is that He asks him, “Who are these people?” as if he would not know.
+### Balak requests Balaam
 
-22:12] This time, as we read, He tells Balaam to send them away. “Do not go with them.” However, Balak does not give up, and they and return again and again, offering him more and more.
+22:9] And as we see in v 9, he is correct, and indeed that evening “the Lord comes to Balaam, and speaks to him”. What is strange here, is that He asks him, “Who are these people?” as if he would not know. But most interesting is the fact the the Lord speaks to Balaam.
+
+22:12] This time, as we read, He tells Balaam to send them away. “Do not go with them.” However, Balak does not give up, and they return again and again, offering him more and more.
 
 22:18] The final offer, almost open ended, is presented. “I will reap rewards and bounty upon him”. As if to say, name your price. Balaam again tells them to stay the night, as before, and that he has to ask the Lord, for as he clearly states, “I cannot transgress the Lord”, even though they offer him riches beyond his wildest dreams.
 
+That, in itself, must have taken guts &mdash; to stand up against a king. To refuse a royal request is not something that one did lightly in those days. Perhaps he was protected by being a prophet.
+
 22:20] Again the question: “Who are these men?” Why is He asking? What is missing here? This time the response however is “Go with these men, if they are emissaries of Balak.”
+
+### She donkey
 
 Immediately upon Balaam setting out on his journey, we read that this “Invokes the wrath of the Lord.” Why is that, I ask? In v20 he says if they are Balak’s people, go with them?” So why did that now arouse G-d's wrath?
 Nevertheless it did, and He immediately dispatches an angel to. . . kill him?
@@ -55,7 +59,7 @@ Now we have the saga of the she-donkey, referred to hear as אָתון, though t
 
 It is also as if this piece was inserted into the text. It stands on its own. For one thing, why is Balaam only with his "two youths"? Would not the emissaries have accompanied him on his journey to Balak?
 
-It is interesting that the angel appears 3 times, for the triple repetition is common.
+Note that the angel appears 3 times, for the triple repetition is common. The first time she sees the angel in the path, and walks into a field. The second time she presses Balaam's leg into the wall. The third time, he just crouched down.
 
 22:28] “He opens the mouth of the donkey” and the donkey speaks, quite rationally.
 
@@ -71,7 +75,7 @@ I say that there is a “universal” language (I hesitate to call it a language
 
 22:30] He opened Balaam’s eyes, just as He opened the mouth of the donkey. Although the Lord, who is King over all, opens Balaam’s eyes to see the angel (v30), He never opens his ears to hear Him (nor the donkey’s) speak. There is also the aspect of hearing – and understanding. For the donkey understood and answered Balaam quite clearly.
 
-22:32] The angel now speaks to Balaam, using similar language as the donkey. [Does it say that?]. As telepathy is a modern word, perhaps the more ancient and accurate word would have been “angelic communication”. But why was Balaam thwarting the Lord’s wishes, when he had been instructed to go with them? And if he had G-d's permission, why was the Angel sent to kill him? And if the sentence was capital punishment – what was the mortal sin that Balaam had committed? Was he being punished for or by killing him, would prevent, the heinous act of cursing the tribe of Israel – of whom he was not a member, and who was being coerced by a powerful king to act? It seems that the sentence was rather servere, and if the sentence was that severe, how could the donkey’s seeing the angel have saved Balaam? How is that just the fact the she saw the Angel was sufficient to annul his punishment?
+22:32] The angel now speaks to Balaam, using similar language as the donkey. [Does the text say that?]. As telepathy is a modern word, perhaps the more ancient and accurate word would have been “angelic communication”. But why was Balaam thwarting the Lord’s wishes, when he had been instructed to go with them? And if he had G-d's permission, why was the Angel sent to kill him? And if the sentence was capital punishment – what was the mortal sin that Balaam had committed? Was he being punished for or by killing him, would prevent, the heinous act of cursing the tribe of Israel – of whom he was not a member, and who was being coerced by a powerful king to act? It seems that the sentence was rather servere, and if the sentence was that severe, how could the donkey’s seeing the angel have saved Balaam? How is that just the fact the she saw the Angel was sufficient to annul his punishment?
 
 Balaam then offers to return, unaware of the Lord’s wrath, until the Angel announces it.
 
@@ -83,37 +87,128 @@ I recently came across the concept of the circular method of narrative that was 
 
 As there is no mention of the dignitaries nor the two servants that accompanied him when he set out. Which makes the use of the donkey even more interesting – for why not use one of the servants to speak to him instead? Why use the donkey?
 
+## Chapter 23
+
 23:4] After preparing the first ceremony, the Lord “chanced” upon Balaam. What does “chanced” mean in this context? The Lord just happened to bump in to him on His way to. . .?” Anyway, He “placed” something in Balaam’s mouth – “say as follows”.
 
 It is both scary and exciting when the Lord places something in my mouth. When I am fully conscious and present with the words that come from my mouth, it seems that it is the Lord that is speaking. The times when I am unaware of what I am really saying, are the times that it seems that it is my _Nefesh_ that is speaking
 
 23:8] Balaam reiterates in v8, “How can I go against the Lord?”. And again in v12: “I must speak what the Lord puts into my mouth.”
 
-23:15] “I will be chanced (upon) here?” so says Balak. Is this referring to Balak or to G!d (using Anochi - אנוכי)? He could also be referring to Balaam, as the chancer. Will I be tricked (chanced) here too? But he is correct, for it says: The Lord chanced upon Balaam.
+23:15] “I will be chanced (upon) here?” so says Balak. Is this referring to Balak or to G!d (using _Anochi_ - **אנוכי**)? He could also be referring to Balaam, as the chancer. Will I be tricked (chanced) here too? But he is correct, for it says: The Lord chanced upon Balaam.
 
 23:16] Again Balaam says he has no choice, but must speak the Lord’s words.
 
-24:1] Balaam saw the “Spirit of God rested on him”. So there is Balaam, not a Jewish prophet, who is visited (again) by the Lord. As a result, this time G!d doesn’t put anything in his mouth, he just speaks – calling himself “the man with an open eye.”
+[TODO: Some stuff happens from v16-24 in relation to the ceremony.]
 
-24:4] Lovely description
+### Chapter 24
+
+24:1-4] Balaam saw the “Spirit of God rested on him (Israel)”. Why is the nation referred to as "him?". Balaam, who is not a Jewish prophet, sees the Lord's presence (with Israel) (again) by the Lord. This time G!d doesn’t put anything in his mouth, he just speaks – calling himself “the man with an open eye.” Described as:
+
+<blockquote dir="rtl">
+ד נְאֻ֕ם שֹׁמֵ֖עַ אִמְרֵי־אֵ֑ל אֲשֶׁ֨ר מַֽחֲזֵ֤ה שַׁדַּי֙ יֶֽחֱזֶ֔ה נֹפֵ֖ל וּגְל֥וּי עֵינָֽיִם
+<p dir="ltr">
+The word of the one who hears God's sayings, who sees the vision of the Almighty, fallen yet with open eyes.
+</p>
+ </blockquote>
 
 24:13] After blessing the Jews, again Balaam says he cannot transgress the Lord’s wishes to Balak.
 
-v4 -> v15: open eye
+v24:14] Here he describes his words, once again (v4), as " the word of a man with an open eye" **וּנְאֻ֥ם הַגֶּ֖בֶר שְׁתֻ֥ם הָעָֽיִן**. And, describes them as (v15):
 
-24:17-24] strange prophecies
-Changes:
+<blockquote dir="rtl">
+טז נְאֻ֗ם שֹׁמֵ֨עַ֙ אִמְרֵי־אֵ֔ל וְיֹדֵ֖עַ דַּ֣עַת עֶלְי֑וֹן מַֽחֲזֵ֤ה שַׁדַּי֙ יֶֽחֱזֶ֔ה נֹפֵ֖ל וּגְל֥וּי עֵינָֽיִם:
+<p dir="ltr">
+The word of the one who hears God's sayings and perceives the thoughts of the Most High; who sees the vision of the Almighty, fallen yet with open eyes. 
+</p>
+</blockquote>
 
-25:4] Baal Peor: Hang the leaders
+24:17-24] Strange prophecies. This time, after saying that he has an "open eye", Balaam spews forth a slew of prophecies, as a final farewell to Balak.
 
-25:5] The judges to kill the leaders. The leaders of what? Of the people. Or of specific people? Were there leaders who were leading this assimilation that was occurring?
+<blockquote dir="rtl">
 
-25:6] Pinchas. Bring woman into camp “in front of the eyes of Moses and the eyes of the children of Israel, who are weeping.” Why are they weeping? Is it because of what he is doing? Or is it because of the plague?
+יז אֶרְאֶ֨נּוּ֙ וְלֹ֣א עַתָּ֔ה אֲשׁוּרֶ֖נּוּ וְלֹ֣א קָר֑וֹב דָּרַ֨ךְ כּוֹכָ֜ב מִיַּֽעֲקֹ֗ב וְקָ֥ם שֵׁ֨בֶט֙ מִיִּשְׂרָאֵ֔ל וּמָחַץ֙ פַּֽאֲתֵ֣י מוֹאָ֔ב וְקַרְקַ֖ר כָּל־בְּנֵי־שֵֽׁת:
+יח וְהָיָ֨ה אֱד֜וֹם יְרֵשָׁ֗ה וְהָיָ֧ה יְרֵשָׁ֛ה שֵׂעִ֖יר אֹֽיְבָ֑יו וְיִשְׂרָאֵ֖ל עֹ֥שֶׂה חָֽיִל:
+יט וְיֵ֖רְדְּ מִיַּֽעֲקֹ֑ב וְהֶֽאֱבִ֥יד שָׂרִ֖יד מֵעִֽיר:
+כ וַיַּרְא֙ אֶת־עֲמָלֵ֔ק וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר רֵאשִׁ֤ית גּוֹיִם֙ עֲמָלֵ֔ק וְאַֽחֲרִית֖וֹ עֲדֵ֥י אֹבֵֽד:
+כא וַיַּרְא֙ אֶת־הַקֵּינִ֔י וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר אֵיתָן֙ מֽוֹשָׁבֶ֔ךָ וְשִׂ֥ים בַּסֶּ֖לַע קִנֶּֽךָ:
+כב כִּ֥י אִם־יִֽהְיֶ֖ה לְבָ֣עֵֽר קָ֑יִן עַד־מָ֖ה אַשּׁ֥וּר תִּשְׁבֶּֽךָּ:
+כג וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר א֕וֹי מִ֥י יִֽחְיֶ֖ה מִשֻּׂמ֥וֹ אֵֽל:
+כד וְצִים֙ מִיַּ֣ד כִּתִּ֔ים וְעִנּ֥וּ אַשּׁ֖וּר וְעִנּוּ־עֵ֑בֶר וְגַם־ה֖וּא עֲדֵ֥י אֹבֵֽד:
 
-25:8] Pinchas kills the two of them, and then the plague ceases. A plague, which killed 24k, that we did not hear about until now, unless we connect it with the “wrath of God” mentioned previously in v3. If the plague killed all those who were fraternising, then who did the Judges need to kill?
+<div dir="ltr">
+
+17. I see it, but not now; I behold it, but not soon. A star has gone forth from Jacob, and a staff will arise from Israel which will crush the princes of Moab and uproot all the sons of Seth.
+18. Edom shall be possessed, and Seir shall become the possession of his enemies, and Israel shall triumph.
+19. A ruler shall come out of Jacob, and destroy the remnant of the city.
+20. When he saw Amalek, he took up his parable and said, "Amalek was the first of the nations, and his fate shall be everlasting destruction."
+21. When he saw the Kenite, he took up his parable and said, "How firm is your dwelling place, and your nest is set in a cliff.
+22. For if Kain is laid waste, how far will Assyria take you captive?" 23He took up his parable and said, Alas! Who can survive these things from God?
+23. He took up his parable and said, Alas! Who can survive these things from God?
+24. Ships will come from the Kittites and afflict Assyria and afflict those on the other side, but he too will perish forever."
+</div>
+</blockquote>
+
+24:25] This interaction ends simply with:
+
+<blockquote dir="rtl">
+כה וַיָּ֣קָם בִּלְעָ֔ם וַיֵּ֖לֶךְ וַיָּ֣שָׁב לִמְקֹמ֑וֹ וְגַם־בָּלָ֖ק הָלַ֥ךְ לְדַרְכּֽוֹ:
+<p dir="ltr">
+25. Balaam arose, went, and returned home, and Balak went on his way. 
+</p>
+</blockquote>
+
+## Chapter 25
+
+### Baal Peor
+
+The people, having settled in Shittim, begin to fraternize with the daughters of the Moabites (v1). They began to participate in their sacrifices to their gods, and they ate and bowed to these foreign gods (v2).Once they became attached to them, G-d's anger arose against Israel (v3).
+
+25:4-5] Hang the leaders
+
+<blockquote dir="rtl">
+ד וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־משֶׁ֗ה קַ֚ח אֶת־כָּל־רָאשֵׁ֣י הָעָ֔ם וְהוֹקַ֥ע אוֹתָ֛ם לַֽיהֹוָ֖ה נֶ֣גֶד הַשָּׁ֑מֶשׁ וְיָשֹׁ֛ב חֲר֥וֹן אַף־יְהֹוָ֖ה מִיִּשְׂרָאֵֽל:
+<p dir="ltr">
+He says to Moses: "Arrest all the leaders of the people and hang them, facing the sun, and then My anger will be removed from Israel.
+</p>
+</blockquote>
+
+Why facing the sun?
+
+Moses then tells the judges to kill the leaders. The leaders of what? Of the people. Or of specific people? Were there leaders who were leading this assimilation that was occurring?
+
+25:6-8] Pinchas.
+
+Once again we have this strange narrative technique. We begin with the general overview of the narrative. The people are fraternising with the Midianites, so G-d get angry and commands Moses to kill the leaders.
+
+Then we have this specific event &mdash; which would not have occurred if the leaders had been taken and hanged in front of the camp. And it is expressed dramatically:
+
+<blockquote dir="rtl">
+ו וְהִנֵּ֡ה אִישׁ֩ מִבְּנֵ֨י יִשְׂרָאֵ֜ל בָּ֗א וַיַּקְרֵ֤ב אֶל־אֶחָיו֙ אֶת־הַמִּדְיָנִ֔ית לְעֵינֵ֣י משֶׁ֔ה וּלְעֵינֵ֖י כָּל־עֲדַ֣ת בְּנֵֽי־יִשְׂרָאֵ֑ל וְהֵ֣מָּה בֹכִ֔ים פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד:
+<p dir="ltr">
+6. an Israelite man came and brought the Midianite woman to his brethren, before the eyes of Moses and before the eyes of the entire congregation of the children of Israel, while they were weeping at the entrance of the Tent of Meeting.
+</p>
+</blockquote>
+
+Why are they weeping? Is it because of what he is doing? Or is it because of the plague?
+
+25:7-8] Pinchas kills the two of them, and then the plague ceases. A plague, which killed 24k, that we did not hear about until now, unless we connect it with the “wrath of God” mentioned previously in v3. If the plague killed all those who were fraternising, then who did the Judges need to kill?
+
+<blockquote dir="rtl">
+ז וַיַּ֗רְא פִּֽינְחָס֙ בֶּן־אֶלְעָזָ֔ר בֶּן־אַֽהֲרֹ֖ן הַכֹּהֵ֑ן וַיָּ֨קָם֙ מִתּ֣וֹךְ הָֽעֵדָ֔ה וַיִּקַּ֥ח רֹ֖מַח בְּיָדֽוֹ:
+ח וַיָּבֹ֠א אַחַ֨ר אִֽישׁ־יִשְׂרָאֵ֜ל אֶל־הַקֻּבָּ֗ה וַיִּדְקֹר֙ אֶת־שְׁנֵיהֶ֔ם אֵ֚ת אִ֣ישׁ יִשְׂרָאֵ֔ל וְאֶת־הָֽאִשָּׁ֖ה אֶל־קֳבָתָ֑הּ וַתֵּֽעָצַר֙ הַמַּגֵּפָ֔ה מֵעַ֖ל בְּנֵ֥י יִשְׂרָאֵֽל:
+<p dir="ltr">
+7. Phinehas the son of Eleazar the son of Aaron the kohen saw this, arose from the congregation, and took a spear in his hand. 
+8. He went after the Israelite man into the chamber and drove [it through] both of them; the Israelite man, and the woman through her stomach, and the plague ceased from the children of Israel.
+</p>
+</blockquote>
 
 I must also admit to a modicum of confusion about what the relationship of Moab was to Midian. Why did Balak consult the Midianite elders as well? Was this due to an alliance that he wished to forge with them? But if he wanted to use Balaam, why then did he approach the Midianite elders before doing so?
 
 According to our sages &ndash; though there is no mention of his involvement in the text &ndash; after the event, seeing that he had upset Balak, and thus the Midianites, he tried to make amends by advising them to engage the Israelites by enticing them with their women. He obviously had more connections to the Moabites and the Midianites than to the Israelites, and he needed to “repair” these relations after blessing the Israelites instead of cursing them. So he offers them this advice.
 
 Though it is somewhat difficult to imagine defeating a people by enticing them to join with your women. That normally takes a generation or two, not a such a short time. It is also convenient to blame our people's immorality on someone's connivance.
+
+---
+
+I say the Balaam was not only a righteous man, but he was a hero to the Jewish people. He steadfastly refused to be swayed by Balak. He only did and said what G-d told him to say. As a result of which Israel received a blessing instead of a curse. Who knows what effect a curse would have had upon the future of the nation? Instead, we were blessed...

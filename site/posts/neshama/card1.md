@@ -25,6 +25,27 @@ modified: 2022-09-14T15:56:13.090Z
 14. [Prayer](#prayer)
 15. [Darkness \& Light](#darkness--light)
 16. [Choice](#choice)
+17. [Note on language](#note-on-language)
+18. [Aberrant behaviour](#aberrant-behaviour)
+19. [Topology](#topology)
+20. [Infinity](#infinity)
+21. [Ultimate Good](#ultimate-good)
+22. [Faith](#faith)
+23. [Meditation](#meditation)
+24. [Love](#love)
+25. [Finite Beings](#finite-beings)
+26. [Snake](#snake)
+27. [Context](#context)
+28. [Perception](#perception)
+29. [Evolution](#evolution)
+30. [Here \& now](#here--now)
+31. [Pleasing the Creator](#pleasing-the-creator)
+32. [Devotion](#devotion)
+33. [Mercy](#mercy)
+34. [Free will](#free-will)
+35. [Freedom](#freedom)
+36. [Superiority](#superiority)
+37. [Spiritual foundation](#spiritual-foundation)
 
 {% endblock %}
 
@@ -147,5 +168,187 @@ Only when I am looking outside of myself, am I seeing light. Thus we conclude th
 ## Choice
 
 Assuming that we are faced with the choosing between a spiritual and a material option, if you choose the spiritual, then it is a spiritual path that you will embark upon. If, however, you choose the material option, it is a material path that you will find yourself upon. Both are filled with challenges and blessings, and both are valid. It is a life (existential) choice; and one can choose the other at any point. Though we say _choose_ the spiritual, and _fall into_ the material.
+
+## Note on language
+
+What has astounded me is the fascinating way in which language has developed. If one looks at these interesting coincidences, it becomes quite mysterious. For example, let's look at the two words _sacred_ and _scared_ in English.
+
+Let's lay some groundwork. The consonants are the letters of form. In our case they are 'SCRD', which is the form of both _SaCReD_ and _SCaReD_. They cannot be expressed without the vowels which, in this case, are 'a' & 'e'. Vowels represent the feminine, and require the breath to be spoken, else they remain silent. 'A', the first letter of the alphabet, also represent the alpha, the divine.
+
+_Sacred_ then has first the 'a', representing the _sacred_ and then the form 'C'. Whereas _scared_ first has the form, and then afterwards we have the divine represented by the 'A'. In the first, _sacred_, we place the divine before the form, whereas in the second, _scared_, we have placed the form before the divine. When we start with the divine we have 'creation' during which the 'creatures' were created. So we derive 'sacred creation' populated by 'scared creatures'.
+
+- 'ED' is that part of the word that introduces the aspect of time.
+- 'SCR' are root letters (consonants) and 'AE' are the vowels representing the feminine, breath & the divine.
+- "C", a only hard consonant (the only one), comes before 'a' in scared, - 'a' comes after 's' in sacred.
+
+So, the creature that accepts the Divine before form accepts the primacy of the sacred, whereas the one that believes that the form is primary, will be scared.
+
+## Aberrant behaviour
+
+All aberrant behaviour occurs due to an "unnatural", excessive or unnecessary constraint that has been imposed on the system &mdash; which is the exclusive abode of human existence. It begins with a disconnect, an acknowledgement of a separation.
+
+&nbsp;&nbsp &mdash; R' Y"mba.
+
+## Topology
+
+If one is of a specific shape, then that defines one's topology which will define a certain relationship with the world around one.
+
+## Infinity
+
+If we accept it all as infinite i.e. pieces of infinity, we accept G-d. Anything less is idolatry. Acceptin a system, a thing, an idea or a person as absolute and self-evident, is selling yourself short.
+
+We can only accept infinity in brief moments, if at all.
+
+By acknowledging the infinite, we accept that there is always another way. This is the path of the warrior, the explorer. Accepting the infinite in your life, making it manifest in the world around your &mdash; that is the way of spirit.
+
+## Ultimate Good
+
+> The Supernal rests only on what is surrendered to him.
+
+This is an expression of the ultimate Good of the Divine. For Good will always give us a choice. Thus G-d does not force us to experience Him. Yes, it is true, that we reap our karmic rewards according to our actions, but one could say that that is inherent in the system. It is an expression of the very laws, whether physical or spiritual, that are the dynamics of the very experience (Universe) that we exist in.
+
+## Faith
+
+> Where knowledge ends, faith begins.
+
+It is through faith which transcends comprehension that one can feel true closeness to G-d.
+
+> Inasmuch as my intelligence and the root of my soul are of too limited a capacity to constitute a "chariot" or abode for His blessed Unity in Perfect Truth. Since my mind cannot conceive nor apprehend Him with any degree of certainty in the world, nor even one iota of that of the Prophets and the Patriarchs.
+
+What is faith then? It is the believe/knowledge that we are only a small part of the greater whole, and that what constitutes the totality is far greater than anything I can imagine. Thus life consists of an exploration into this great mystery.
+
+> “We know that human vision assimilates only a small fragment of the spectrum; as far as our senses are concerned, the rest of it does not exist.”
+> &mdash; Rabbi Adin Steinsaltz
+
+It is more than likely that as far as all our senses are concerned, the rest does not exist. We cannot know what we don't know; we cannot comprehend the incomprehensible. And most of us have a survival mechanism, that keeps us safe in what we know, and is very reluctant to experience the unknown&mdash;a dark and terrifying place, filled with all sorts of monsters that we do may not be able to handle. Besides, it might cause a complete reassessment of the current life experience that you are going through.
+
+> The process reality of being is beyond our cognitive reach (Henry Bergson)
+
+<p class="note">
+{NOTE: Processist, processuality, processism. All processes can be viewed as modifications of substances (material bodies).}
+</p>
+
+## Meditation
+
+Meditation that does not lead to clarification of commitment & action is entirely insufficient.
+&nbsp;&nbsp;&nbsp;&mdash; R’ Y”mba
+
+## Love
+
+> Love what you have. You can only desire what you don't have. (Therefore love is not desire!)
+
+> Hate what you have, then you will love something that you don't have. That which represents the counter to that which you have.
+
+## Finite Beings
+
+If we are finite beings, and although fashioned from the cloth/image of the Infinite Supernal Being, we are enclosed in a finite "vehicle", perhaps there is a part of G-d's desire that would like His "children" to return to Him, as is often said in the Biblical readings. The only way to know the path to His door, is through receiving that part of each of us where He exists. Thus, I say, in each finite being there is a piece of the infinite, otherwise we could never have encountered the paradoxical idea of the existence of the finite within the infinite.
+
+<p class="note">
+{NOTE: Is it that each number, being a part of the infinite of numbers, must also have an infinity with it. Therefore, must there be "infinity" in every number as well? Is it an iff? If every number is part of the infinite set of numbers, is not infinity a "part" (that we might have to label a composite, as we do not have the words to express the infinite that must then exist in every finite part that is a piece of that infinite whole. The meditation on that is that after you have cut the pie into pieces, is it not still a whole pie. Even if each piece is devoured, they still would still, "theoretically", make up the whole pie&mdash;of course, if they would need to be "reconstituted". My question is, however, how do we express that whole that exists in each piece.}
+</p>
+
+## Snake
+
+The tree is a snake entity that emerges out of the background of the Tree of Life.
+
+## Context
+
+Abulafia could not speak of it other than in the context within which they were all steeped (both him and his audience). Just as a mathematician can only use mathematics to express what he sees, so the Rabbi's could only speak in the language of their teachers.
+
+## Perception
+
+All perception takes place in a straight line between the recipient and perceived source of the event. Does the response have to be straight line as well? Would that be the simplest and most direct. But is it the best?
+
+## Evolution
+
+> You can only be freed by someone/something from the outside.
+> You can only be freed by someone/something that is itself free!
+
+- Revolution: if it is from the inside, it will only produce another version of what was. Often the same design. Even the same inmates &ndash; just a different location, and perhaps guards/wardens with different faces.
+- Evolution: All evolution occurs due to outside force(s). However its disruptive effect is relative to the inner coherence/harmony of the body/society that is evolving/changing.
+- All evolution is built on the previous iteration, and
+- there are always those left behind [Noah's Ark](noah_ark.html)
+  More accurately, every higher order of magnitude contains within it every lower order of magnitude as well (simultaneously).
+
+## Here & now
+
+- Absolute: here & now
+
+The only absolute is that you are here, and aware. This "point" of awareness we call "Now". And the place that you experience it, is called "Here".
+
+Even though the "now" of your experience is not simultaneous with the Now of the occurrence. It has to become the anchor upon which your life is tethered.
+
+- Relative: past & future
+
+The past is like sight. Depending on the perspective/the line upon which you gaze, you will see your past &ndash; which is the only real past you know. All the rest, that we call history, are narratives (generally told by the victors) and guesses as to what actually occurred. But the only true experience you have of the past, is those you have had, that you have lived.
+
+And those experiences morph and change as time goes by, till they become vague discordant memories of a time long gone.
+
+- Absolute/Relative
+
+To know, to experience, to perceive of something as relative, there needs to be an absolute frame of reference. Even if that frame is relative to some greater system, it becomes the "absolute", fixed point of reference. The Axis around which your whole world turns. In order to change my life I have to change this [Axis Mundi](axis_mundi.html) (the central pillar) upon which my whole life stands.
+
+This is like the compass which needs one fixed foot in order know where the other is directed.
+
+## Pleasing the Creator
+
+Bestow להנאת הבורה - for the delight of the Creator. Same as a parent/child relationship; or perhaps a teacher/student; or, best, a mentor & a novice.
+
+Think of the first time a child "gives" something to its parent. How the parent delights in that gift. Whether it is the smile of a baby, or the scribbles of a young child, most parents value it for years. Think of a student that passes his grades, how proud is the teacher. Or a novice that understands the teachings, and the teacher knows that he is on the right path. So it for our Lord and Master, the Shepherd that bore us.
+
+It seems that the constraint that holds most of us, is around our lack of giving towards our parents, and thus our ancestors - upon whose shoulders we stand. We seem to lack in compassion and forgiveness even for those who bore us, and sustained us, until we were able to make our own decisions (even the bad ones). We have forgotten about [honour](honour.html), and respect and decency - which implies, nay requires, some sort of code or covenant. In the same way, and I think this is the root cause of much of our disease &mdash; we no longer pay respect to our Creator. Like spoilt children, we even resent what we have been provided, always looking at and desiring, what we don't have &mdash; but seldom taking responsibility for the mess we ourselves have engendered.
+
+Shamanically: "Magic of their Alchemical Union". Not personal. Shitty parents. Need to enter spirit, connect to your soul-purpose. As nothing can come into being without spirit, which working through each one of us, enabled us to manifest. It is all spirit. Do not be lulled into thinking it is literal, material or empirical &mdash; imagining that you are the real deal, the full package. That is foolish. There is so much more than you in this world...
+
+## Devotion
+
+Devotion consists of:
+
+- Prayer (words)
+- Movement (dance)
+- Music (sound)
+
+## Mercy
+
+> Free choice as a turning away
+
+The image from the _Zohar_ is of G-d turning His Eyes away, showing the whites of His Eye/I, in order to allow us to be human. In this picture, He Acts like a true lover, giving you the opportunity to reject Him (or Her).
+
+Oh the joy when you choose Her. The righteous abundance that is showered upon you. The service that is required and the awesome, miraculous tasks that are laid before me. Thank you, my Guardian. Not measured in riches of this world, but riches of another that are worth far more in this world than any jewel or other earthly artifact.
+
+## Free will
+
+Why is following the Torah so onerous for so many? If it is indeed the blueprint of Creation, is this blueprint so flimsy, so delicately put together? If _Ha’Shem_ is omnipotent, why is there so much difficulty in following his commands? Why do we have to be cajoled and threatened, into obeying His Holy Word? Would we not, especially those who have seen His miracle, just follow them naturally?
+
+Is it because we have been granted some of the Divine essence, or power, that we call “free will”.
+
+However, this free will can only be expressed as a negative – that is to go against the “Will of G-d”.
+
+To have any choice in the realm of the omnipotent perfection, I would have to have the ability to negate the existence of such omnipotence—a contradiction in itself. Perhaps the only way to express this is through taking a position of against the existence of G-d, declaring myself part of the tribe whose structure is build around the belief that there is No G-d. This attitude becomes an action in the world and the members build a system around this core belief, explaining the universe and our world in terms of this belief. This line of thinking always end up at question of the first cause, “In the beginning”, then speaks of a state or an unfolding of effects, but avoiding the question of how did the space and the configurations that make these effects possible, arise in the first place.
+
+## Freedom
+
+What is freedom truly?
+
+Freedom to
+
+- express yourself
+- be yourself
+- who you truly are
+- realise your dreams (not phantasies)
+
+[Q: Is freedom necessary in order to serve others?]
+
+First, one has to learn who you are and for that we need..
+
+> Freedom of constraint, constraint of freedom
+
+## Superiority
+
+A major motivation for religious endeavours, it seems, is the feeling of superiority that it engenders, and is, in many cases, encouraged. Thus humility has been a principle of all teachers of the mysteries. In fact is a requirement for anyone on the journey of authentic faith—and is one of the ways of separating one who has encountered the flame of truth, and one who claims to have, but has not.
+
+## Spiritual foundation
+
+A spiritual tradition that exists on a solid foundation, one that is based on a dynamic and spirited synthesis between the complimentary dynamics that oppose and the opposing dymamics that compliment one another. The process being one of thesis, antithesis and synthesis; declaration, opposition and resolution.
 
 {% endblock %}

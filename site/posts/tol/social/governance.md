@@ -12,6 +12,7 @@ modified: 2022-01-03T16:52:17.571Z
    2. [Risk](#risk)
    3. [Compliance](#compliance)
 3. [Risk](#risk-1)
+4. [Propagation of Error](#propagation-of-error)
 
 ## Fluid IT
 
@@ -64,3 +65,13 @@ This is the first statement regarding "governance". It sets the basic framework 
 What if risk was measured in terms of output vs input weighed by cost (as, for instance, disturbance, or damage, or dislocation). Output is measured by what the goal(s) is(are). Input is measured in what it will take (energy wise) to implement the system, and how large is the error estimate.
 
 For each system will fall due to its error in manifesting the reality that is. Any human system can only be an approximation of the perfect system. There will always be a margin of error in any representation of reality, and thus risk. The real test of any system is how well it responds to its own errors (and those of the people)&mdash;the human side of life.
+
+## Propagation of Error
+
+In any system there will be an inherent "error" &mdash; and that will propagate through time. The sooner that the error is recognised and the system reorientated, the easier will be the readjustment. However, those in power, those in control of the system, are always fearful of losing it &mdash; because it is not true power, gained by deed and principle, but often stolen or granted, not "earned". Thus it is propped up and protected by military power. For true power is Divine power and only the representatives of this power have true power.
+
+In these dense systems, it is very difficult to adjust/change to heal that error and its consequences. It takes a superior man, or someone who is in such pain that they have no choice but to reassess and change direction. However, if there are economic or other narcissistic rewards to propogating the error, it becomes quite toxic. Once embedded in the system, it will require an upgrade and reboot of the system, else it will result in a system crash.
+
+I have to mention that this is similar to an entity taking possesion of someone. There has to be an error in the person that the entity exploits as a means of entering the person. Once embedded, they affect the person's behaviour, and unless removed, will result in an eventual system crash.
+
+Are you certain of your information? A small error at the source will propagate to become a huge error at scale. It will, in time, become embedded in the narrative impacting anything that emerges from it. Eventually, it will become such an integral part of the system, that the host will not be able to survive without it &mdash; similar to an addiction. At that stage it has become self-sustaining, sharing the hosts energy, and is able to reproduce and grow from all the energy that is sustaining it.

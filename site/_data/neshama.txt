@@ -1,0 +1,79 @@
+
+neshama 
+
+-qkab
+	-shaman 
+	+hermetic 
+	+math 
+	+order 
+	+dimensions 
+	+process 
+	-energy 
+	-science 
+	-simultaneity 
+
+-tol 
+	-final 
+	-social 
+	+plandemic 
+	-tae 
+
+(todo)
+-external 
+-reference 
+-personal 
+	-poem 
+	-story 
+
+-judaica 
+	-parasha 
+	-chabad 
+	-freedom 
+	-gikatilla 
+	-tishby 
+	-universal_kabbalah
+	-wolfson 
+		-speculum 
+
+	---
+
+*── personal (personal)
+│  ├── dreams
+│  ├── poems (:poem)
+│  └── private
+│  ├── story (:story)
+├── posts
+*── judaica (:judaica)
+├── parashot (:parasha)
+├── freedom (:freedom)
+│  ├── week_1
+│  ├── week_2
+│  ├── week_3
+│  ├── week_4
+│  ├── week_5
+│  ├── week_6
+│  └── week_7
+│  └── Chabad (:chabad)
+*── neshama (:neshama)
+│  └── book_gift
+*── qkab (:qkab)
+│  ├── order (:order)
+│  ├── science (:science)
+│  └── simultaneity (:simultaneity)
+│  ├── shaman (:shaman)
+└── tol (:tol)
+   ├── final (:final)
+   ├── old
+   │  └── tae (:tae)
+   └── social (:social)
+	 :plandemic
+*── external (:external)
+│  ├── judaica (:judaica)
+│  │  ├── tishby (:tishby)
+│  │  ├── universal_kabbalah (:universal_kabbalah)
+│  │  ├── wolfson (:wolfson)
+│  │  │  └── speculum (:speculum)
+│  │  └── zornberg
+│  │     └── beginnings_of_desire
+*── references (:reference)
+
