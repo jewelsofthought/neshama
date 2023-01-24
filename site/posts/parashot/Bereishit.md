@@ -492,7 +492,6 @@ Rashi n3:5] <b>והייתם כא-הים: יוצרי עולמות</b> &mdash; <i>
 </blockquote>
 
 <blockquote>
-<b>
 Rashi n3:6] 
 <b>ותרא האשה</b> &mdash; <i>And the woman saw.</i> She understood the words of the serpent and they appealed to her; so she believed him (_Gen. Rabbah_ 19:4).
 
@@ -512,10 +511,10 @@ Rashi n3:6]
   ז וַתִּפָּקַ֨חְנָה֙ עֵינֵ֣י שְׁנֵיהֶ֔ם וַיֵּ֣דְע֔וּ כִּ֥י עֵֽירֻמִּ֖ם הֵ֑ם וַיִּתְפְּרוּ֙ עֲלֵ֣ה תְאֵנָ֔ה וַיַּֽעֲשׂ֥וּ לָהֶ֖ם חֲגֹרֹֽת:
 <p dir="ltr">
 7. And the eyes of both of them were opened, and they knew that they were naked, and they sewed fig leaves and made themselves girdles.
-<p>
+</p>
 </blockquote>
 
-n3:7] <b>וַיֵּ֣דְע֔וּ</b> &mdash; <i>And they realised...</i>The serpent was right: They had become enlightened. But their first realisation was &mdash; that they were naked! This shame in our nakedness is the voice of conscience that reminds us that we are not meant to be animals (_R' Hirsch_). For no animal is ashamed of its nakedness.
+n3:7] <b> וַיֵּ֣דְע֔וּ </b> &mdash; <i>And they realised...</i>The serpent was right: They had become enlightened. But their first realisation was &mdash; that they were naked! This shame in our nakedness is the voice of conscience that reminds us that we are not meant to be animals (_R' Hirsch_). For no animal is ashamed of its nakedness.
 
 </article>
 
@@ -527,7 +526,7 @@ n3:7] <b>וַיֵּ֣דְע֔וּ</b> &mdash; <i>And they realised...</i>The ser
 <p>
 </blockquote>
 
-n3:17] <b>כִּ֣י שָׁמַ֘עְתָּ֘ לְק֣וֹל אִשְׁתֶּ֒ךָ֒</b> &mdash; <i>Because you listened to the voice of your wife.</i>People make choices in their lives and are responsible for them. Adam failed in his responsibility to investigate what was being offered. He succumbed to her voice without examining the content of her words (_Or Chaim_).
+n3:17] <b>כִּ֣י שָׁמַ֘עְתָּ֘ לְק֣וֹל אִשְׁתֶּ֒ךָ֒</b> &mdash; <i>Because you listened to the voice of your wife.</i> People make choices in their lives and are responsible for them. Adam failed in his responsibility to investigate what was being offered. He succumbed to her voice without examining the content of her words (_Or Chaim_).
 
 </article>
 

@@ -2,7 +2,7 @@
 title: Polar & Cartesian Co-ordinates
 description: Mathematical description of the two systems of geometrical elements
 url: https://www.grc.nasa.gov/WWW/K-12/airplane/coords.html
-tags:
+tags: [external]
 date: 2005-03-03T17:20:34.413Z
 ---
 

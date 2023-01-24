@@ -13,7 +13,7 @@ modified: 2022-11-28T16:12:33.545Z
 </figcaption>
 </figure>
 
-<h4>The Mandara of Self</h4>
+## The Mandara of Self
 
 <div style="text-align: justify">
 
@@ -22,6 +22,14 @@ From the unijpgon of the GOKAN come into being the sense of SELF. This 'self' is
 This idea of self is the cause of dissatisfaction and suffering with life (vide the Four Noble Truths). The Mind (Self) at the centre of this Mandara only comes into being because of the GOKAN coalescing. Apart from this coalescence, no self can be experienced. The self desperately avoids discovery through the analysis of its sources &mdash; thus it is only via meditation (and prayer) that this evasion can be recognised. Mandara portray this activity by highlighting both is initial causes and subsidiary effects. Through the GOKAN one experiences Karma, thus the GOKAN MANDARA presents the potentiality of cause and effect, mental health patterns and the panaroma of experience.
 
 </div>
+
+## Senses
+
+<figure>
+<img src="/posts/img/neshama/mygokan.svg" alt="Senses" width="75%" >
+<figcaption >
+Gokan Mandala and the senses
+</figcaption>
 
 Here are some examples of the this Mandara:
 

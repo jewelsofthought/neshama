@@ -46,6 +46,12 @@ modified: 2022-09-14T15:56:13.090Z
 35. [Freedom](#freedom)
 36. [Superiority](#superiority)
 37. [Spiritual foundation](#spiritual-foundation)
+38. [Spiral in time](#spiral-in-time)
+39. [M\&F](#mf)
+40. [Messiahs](#messiahs)
+41. [Nature](#nature)
+    1. [Water](#water)
+42. [Temple](#temple)
 
 {% endblock %}
 
@@ -349,6 +355,73 @@ A major motivation for religious endeavours, it seems, is the feeling of superio
 
 ## Spiritual foundation
 
-A spiritual tradition that exists on a solid foundation, one that is based on a dynamic and spirited synthesis between the complimentary dynamics that oppose and the opposing dymamics that compliment one another. The process being one of thesis, antithesis and synthesis; declaration, opposition and resolution.
+A spiritual tradition that exists on a solid foundation, one that is based on a dynamic and spirited synthesis between the complimentary dynamics that oppose and the opposing dynamics that compliment one another. The process being one of thesis, antithesis and synthesis; declaration, opposition and resolution.
+
+## Spiral in time
+
+> Every journey is circular.
+
+As we live and grow, the goal is to gain increased awareness of the immensity and complexity of the world we live in. However, Adam is only able to perceive it to whatever depth he is capable of.
+
+The extent of his vision, depends on how far he can "throw" his dream body. If you can't even imagine it, how will you even be able to receive it. If you cannot envision another way, you will just work on more of the same, extending in a certain direction. This is breadth. It is horizontal expansion. How wide is your vision; how broad is your outlook; how large is yuor "sphere" of influence? {NOTE: Forming the circle - orthogonal, normal}
+
+Length speaks of power, of will, of decisiveness. How far can the vision go. How much energy am I willing to invest in it? What is the length of the river, speaks also of how much water flows down it.
+
+## M&F
+
+![Symbol](/posts/img/neshama/symbol.svg)
+This symbol is a representation of the principle of the dynamic of masculine and feminine.
+
+It is similar to the principle of the polaroid lens, which blocks (or affects) the light on only one plane, either the horizontal or the vertical - orthogonal (at 90 degrees) to one another.
+
+![Orthogonal](/posts/img/neshama/poloroid.svg)
+
+In order to pass through this blockage, I need to align myself on of the two axes. Which means an alignment of the binary (2d) context that keeps us imprisoned in 3d.
+
+What we derive from that, is that the dynamic between the masculine and the feminine - and thus, by derivation, between the male and the female - as in
+
+![M <-> F](/posts/img/neshama/mf-opposing.svg)
+
+But is actually orthogonal, as represented by: ![Symbol](/posts/img/neshama/symbol.svg)
+
+## Messiahs
+
+> There can be many messiahs, and many types of messiahs, but there can only be One G-d.
+
+## Nature
+
+> G-d speaks through the natural world. Nature is G-d speaking to us. Not G-d, but G-d's words!
+
+> G-d as the expression of the natural universe. Idols are man made representations of said universe.
+
+> The G-d I speak of is not man-made, but exists before the universe was created. In fact, G-d is the universe (and more). Thus we can say "G-d created the world."
+
+> Most of are spiritually uplifted by being in nature.
+
+### Water
+
+{TODO: Man-made water versus natural, untainted water, and the probable effects thereof.}
+
+## Temple
+
+Rise up and overcome the idol worshippers. Destroy their idols, not by blowing them up, but by starving them of attention. For there is no physical (or geographical) escape, like the Israelites did from Egypt in the story of the Exodus, which has exerted its influence on us throughout the ages. In other words, there is no more room for horizontal expansion. So the only other place to expand is vertically &mdash; and that would necessitate a deeper investigation and exploration of the "spiritual" or upper world(s). It will open up whole new spaces for us to explore. The only other alternative is for there to be a decimation of the population, thus making space for future geographic expansion!
+
+<figure style="float: left">
+  <img src="/posts/img/neshama/axes.svg" alt="axes" width="" height="" />
+</figure>
+
+Mathematics might make this a bit clearer. It is simpler if we begin with two dimensions, $$x$$ and $$y$$. The basic axes that we are used to from school. However, if we want to represent three dimensions, we need to add another axis at $$90^0$$ to the other two. As this would cause the 3rd axis to rise vertically off the page, we represent it by a diagonal dashed line.
+
+The idea would be to fashion, and occupy, a holy land. Determine spaces where the idol-worshipers and the child-sacrificers are removed from our midst, and from which they are excluded. In addition, the ethics of these spaces has to be such that there will be no fertile ground on which these weeds will be able to grow.
+
+This need needs to start in our minds. We need to be able to visualise/imagine that place. Thereupon we will be able to begin building the space we wish to live in, by upholding the principles necessary to lay the foundation of the temple that will enable that space.
+
+> Together we build, divided we suffer.
+
+Do you know the Truth? Will you give your life to hold the Truth as your guiding light? Will you follow those who know and speak the truth?
+
+"How do I discern what is the truth" you might ask? I say &mdash; if you have experienced It, you know It. The fear will dissappear.
+
+Always the Truth speaks, though it always speaks quietly, never shouting. It is referred to as that quiet inner voice. How often do you listen?
 
 {% endblock %}

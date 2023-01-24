@@ -1,10 +1,19 @@
 ---
-title: PEMS
-description: Physical, Emotional, Mental, Spiritual
+title: PaRDeS - The Four Worlds
+description: 'PEMS - Physical, Emotional, Mental, Spiritual'
 tags: todo
 date: 2015-01-16T05:12:16.154Z
 modified: 2021-11-28T17:42:42.976Z
 ---
+
+## The four worlds
+
+| 4 Worlds   |           | _PRDS_  | Meaning     | PEMS      |
+| ---------- | --------- | ------- | ----------- | --------- |
+| _Assilut_  | Majesty   | _Sod_   | Secret      | Spiritual |
+| _Beriyah_  | Creation  | _Drash_ | Allegorical | Mental    |
+| _Yetzirah_ | Formation | _Remez_ | Inference   | Emotional |
+| _Malkhut_  | Kingdom   | _PshaT_ | Simple      | Physical  |
 
 ## Ray of light
 
@@ -22,25 +31,7 @@ The following simplified example, using five developmental stages involved in bu
 (4) _Yetzirah_ (Formation): the building instructions and detailed construction plan;
 (5) _Assiyah_ (Action Making): the final building of the house, the actualisation of the original will and purpose.
 
-## Interpretation of the 4 worlds.
-
-| _Sefirah_    | Physical  | Entity  | Vibration     |
-| ------------ | --------- | ------- | ------------- |
-| **Atzilut**  | Spiritual | Creator | Ein-soph      |
-| **Beriah**   | Quantum   | Light   | Emanation     |
-| **Yetzirah** | Chemical  | Water   | Atomic        |
-| **Assiyah**  | Organic   | Earth   | Gravitational |
-
-## PEMS-1
-
-| 4 Worlds   |           | _PRDS_  | Meaning     | PEMS      |
-| ---------- | --------- | ------- | ----------- | --------- |
-| _Assilut_  | Majesty   | _Sod_   | Secret      | Spiritual |
-| _Beriyah_  | Creation  | _Drash_ | Allegorical | Mental    |
-| _Yetzirah_ | Formation | _Remez_ | Inference   | Emotional |
-| _Malkhut_  | Kingdom   | _PshaT_ | Simple      | Physical  |
-
-## PEMS-2 - Souls
+## Souls
 
 | [Souls](https://www.chabad.org/kabbalah/article_cdo/aid/380651/jewish/Neshamah-Levels-of-Soul-Consciousness.htm) | Type        | Description                                     |
 | ---------------------------------------------------------------------------------------------------------------- | ----------- | ----------------------------------------------- |
@@ -77,7 +68,7 @@ The following simplified example, using five developmental stages involved in bu
 | Emotional | Receiving                |
 | Physical  | Energy extending outward |
 
-## PEMS-4 - Physical domains
+## Physical domains
 
 Quantum, atomic, molecular, organism
 
@@ -94,6 +85,15 @@ One could think of this as a ladder.
 > Only the self-aware and self-expressive organism can be aware of the totality of the experience we are having. This is termed spiritual.
 
 All other organisms would not be able to, nor would have any need to separate themselves in order to be able to recognise a spiritual event. There is no separation for them from the event itself. They are fully in it.
+
+## Science
+
+| _Sefirah_    | Physical  | Entity  | Vibration     |
+| ------------ | --------- | ------- | ------------- |
+| **Atzilut**  | Spiritual | Creator | Ein-soph      |
+| **Beriah**   | Quantum   | Light   | Emanation     |
+| **Yetzirah** | Chemical  | Water   | Atomic        |
+| **Assiyah**  | Organic   | Earth   | Gravitational |
 
 ### Fundamental Particles
 
@@ -116,7 +116,7 @@ s, p, d, f orbitals.
 | Emotional | p    | 3 dimensional, regular                                 | 8                        |
 | Physical  | s    | simple, clear                                          | 2                        |
 
-### PEMS: (Middle) Point
+## Middle) Point
 
 Within this perfect nothingness arose a single point.
 

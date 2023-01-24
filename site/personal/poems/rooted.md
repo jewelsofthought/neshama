@@ -64,14 +64,14 @@ I am the trunk,
 channelling the light of the heavens,
 bringing it down to nourish and speak
 to all that I am, and all the beings that
-feed of me.
+feed off me.
 
 Just as the roots,
 embedded in the earth of my existence.
 bring the energy of their darkness
 up into my tree.
 Thus I become the heart that bridges the upper and the lower,
-It is the place of the lover,
+In the place of the lover,
 from whence I emerge into action in the world.
 
 </div>

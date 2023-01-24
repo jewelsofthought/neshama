@@ -7,13 +7,13 @@ modified: 2022-05-00T00:31:30.941Z
 ---
 
 1. [Outline (todo)](#outline-todo)
-2. [Kaballah](#kaballah)
-3. [Merkava Descent](#merkava-descent)
-4. [Metatron](#metatron)
+2. [Kaballah (kab\_pieces)](#kaballah-kab_pieces)
+3. [Merkava Descent (Personal)](#merkava-descent-personal)
+4. [Metatron (qkab)](#metatron-qkab)
 5. [Quanta](#quanta)
 6. [Desire](#desire)
 7. [Divine Spark](#divine-spark)
-8. [Dim beings](#dim-beings)
+8. [Dimensional beings](#dimensional-beings)
 9. [Constraint (_Gevurah_)](#constraint-gevurah)
 10. [Attract/Reject](#attractreject)
 11. [Free Will](#free-will)
@@ -40,6 +40,9 @@ modified: 2022-05-00T00:31:30.941Z
 32. [Journey into sacred imagination](#journey-into-sacred-imagination)
 33. [Akashic record](#akashic-record)
 34. [Imagination](#imagination)
+35. [Axis of perception](#axis-of-perception)
+36. [Good and bad](#good-and-bad)
+37. [Everything is circular](#everything-is-circular)
 
 ---
 
@@ -62,19 +65,19 @@ modified: 2022-05-00T00:31:30.941Z
 
 ---
 
-## Kaballah
+## Kaballah (kab_pieces)
 
 If the ultimate goal of Kabbalah is to bring people back to Judaism and the Torah & _Mitzvot_, then it is not the Kabbalah that our sages propagated. For that Kabbalah comes after being steeped in Torah & from obeying the _Mitzvot_, i.e. being righteous, not before. Kabbalah is meant to lead the student into the deeper mysteries of the Torah (and universe), to gain a deeper understanding of God and His Purpose, how the Universe looks and works, what spiritual energy is and thus, how to understand it and its dynamics in our lives.
 
-## Merkava Descent
+## Merkava Descent (Personal)
 
 The Merkava Descent, as taught by Martha-Joy Aft, is correct (even if only for this time and this place). It is our inheritance - a portal to another world, perhaps the "other world", that is part of our true inheritance, in addition to this one.
 
-## Metatron
+## Metatron (qkab)
 
-As each string (ala string theory) conjoins with others to form a "metatron", the primal/root particle, from which all others are formed. It carries all the information for the creation. One could say it contains the DNA/blueprint of Creation. Examples: [Platonic solids](platonic_solids.html); [Hebrew letters](hebrew.html).
+Each string (ala string theory) conjoins with others to form a "metatron", the primal/root particle, from which all others are formed. It carries all the information for the creation. One could say it contains the DNA/blueprint of Creation. {Examples: [Platonic solids](platonic_solids.html); [Hebrew letters](hebrew.html)}.
 
-It is the principle of greater density, which is a product of "simultaneity". The relationship between these strings will determine the form that emanates. In this state, there is no time, and no space. It is the emergence into 3d space and time- which has to exist for a certain duration of time, long enough for us to cognite/perceive it...
+It is the principle of greater density, which is a product of "simultaneity". The relationship between these strings will determine the form that emanates. In this state, there is no time, and no space. It is the emergence into 3d space. Time, which emerges when something exists for a certain duration of time, long enough for us to cognite/perceive it.
 
 ## Quanta
 
@@ -82,15 +85,15 @@ Paradox:
 
 - Quanta are not continuous but discreet.
 
-Is this the nature of reality, or is it just because the receivers of this reality can only perceive reality in discreet packets?
+Is this the nature of reality, or is it just because the receivers of this reality can only perceive reality in discreet packets? It is also possible that an aspect of our limited/finite reality, is determined by the fact that we can only perceive discreet packets of information. This is a limitation that mainfests in our very makeup.
 
 - Yet the "reality" of quanta can only be described with waves (and probability waves at that!).
 
-Perhaps there is a medium (water - ether - G-d consciousness) which is affected by this energy (which is referred to as "the Will of G-d"). As the wave on the ocean is produced by the winds (_ruach_) that move across the waters, perhaps that is what these perturbations that all these quantum hypothesis are trying to describe.
+Perhaps there is a medium (water, &aelig;ther and/or G-d consciousness) which is affected by this energy &mdash; which is referred to as "the Will of G-d". As the wave on the ocean is produced by the winds (_ruach_) that move across the waters, perhaps that is what these perturbations that all these quantum hypothesis are trying to describe.
 
-If we could only realise Spirit as Divine Energy, energy that we cannot measure except with a Divine instrument - which only the Divine can fashion.
+If we could only realise Spirit as Divine Energy, energy that we cannot measure except with a Divine instrument &mdash; which only the Divine can fashion. And as we are an instrument that has been fashioned by the Divine, this enables us to perceive this Divine Energy.
 
-The Torah as being a kind of manual and design handed down to us by the Divine.
+The Torah a manual and design handed down to us by the Divine.
 
 ## Desire
 
@@ -98,21 +101,21 @@ The Torah as being a kind of manual and design handed down to us by the Divine.
 
 Desire, the only force in creation, is always towards the unknown, for we can only desire what we do not have. The only thing the Perfection does not have is "imperfection".
 
-But why create imperfection just so it can be returned to its original state of perfection? Perhaps imperfection is part of perfection, in that in order to be wholly and absolutely Perfect, it has to contain both perfection and imperfection. Just as the Buddhists say that the Void is not something and it is not nothing, but is No-thing. The thesis and antithesis are contained in the synthesis.
+But why create imperfection just so it can be returned to its original state of perfection? Perhaps imperfection is part of perfection, in that, in order to be wholly and absolutely Perfect, it has to contain both perfection and imperfection. Just as the Buddhists say that the Void is not something and it is not nothing, but is No-thing. The thesis and antithesis are contained in the synthesis.
 
-Or perhaps, it is only a part of Perfection that would naturally see Perfection as imperfection. A part that arises naturally within perfection.
+It could be that it is only a part of Perfection that would see imperfection in Perfection. In other words, it is not the Perfection has any imperfection in it, it is just that within Perfection, there is a part that exists within perfection that sees perfection as imperfection.
 
-[Creation](creation.html) as a continuous process of synthesis, which contains both antithesis and synthesis within it, else it could not fulfil its task of synthesising and would become fossilised.
+It is possible to express [Creation](creation.html) as a continuous process of synthesis, which contains both thesis and antithesis within it, else it could not fulfil its task of synthesising and would become fossilised.
 
-Thus the story begins when the One, absolute unity, absolute perfection, becomes Two. That is the true miracle of life, and the whole purpose of our existence.
+Thus the story begins when the One, absolute unity, absolute perfection, becomes Two. That is the true miracle of Creation, and the reason for our existence.
 
 ## Divine Spark
 
 Who recognises this Divine spark? For only the Divine can know the Divine.
 
-It transpires that only if, paradoxically, you have a Divine self could you recognise the Divine &ndash; for it is the Divine self in you that recognises Itself. It is "G-d knowing Itself".
+It transpires that only if, paradoxically, you have a Divine self could you recognise the Divine &mdash; for it is the Divine self in you that recognises Itself. It is "G-d knowing Itself".
 
-## Dim beings
+## Dimensional beings
 
 > Manifesting as 2d beings living in a 3d reality with a 4d imagination.
 
@@ -437,3 +440,27 @@ Now one catch is that it is the very configuration of the spaces in which these 
 ## Imagination
 
 What are these images but trapped light? Light that we evoked or resonated with and now hold in our memory. This is how we learn we can manipulate the light.
+
+## Axis of perception
+
+Depending upon what axis you look, creates a different view. Thus time, as a one-dimensional view of space, becomes the way in which we create shapes in our imagination.
+
+## Good and bad
+
+> Oppose the bad, love the good.
+
+It is not the good or the bad that is soul destroying &mdash; but the good in the bad. If it was all bad, then it is clear what it is. If it is all good, then it is a blessing. However, when there is some good in the bad, some pleasure in the pain, an attraction to something that was good, that is the guilt.
+
+telnAnd if there is bad in the good, it it like a wheel that always turns.
+
+## Everything is circular
+
+<figure style="float: left">
+  <img src="/posts/img/qkab/circular.svg" alt="Circular" width="470" height="306" />
+  <figcaption>Circularity</figcaption>
+</figure>
+
+<figure>
+  <img src="/posts/img/qkab/sine_wave_1 - circular_motion.gif" alt="Circular - sine wave" width="200" height="" />
+  <figcaption>Circular - sine wave</figcaption>
+</figure>

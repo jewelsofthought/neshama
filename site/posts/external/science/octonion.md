@@ -1,7 +1,7 @@
 ---
 title: Octonions
 description: 8-dimensional structures
-tags: null
+tags: [qkab,external]
 date: 2005-03-06T17:20:34.413Z
 ---
 

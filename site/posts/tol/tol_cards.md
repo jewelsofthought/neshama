@@ -53,6 +53,8 @@ modified: 2022-08-15T17:48:59.753Z
 39. [Born (ToL)](#born-tol)
 40. [Complexity](#complexity)
 41. [Slavery](#slavery)
+42. [Hero](#hero)
+43. [AIDS](#aids)
 
 ---
 
@@ -413,3 +415,15 @@ We are being held in slavery by corrupt, brutal, ruthless rulers. People who att
 Prophets might say that they are G-dless and immoral, and unless we mend our ways, we will encounter G-d's wrath!
 
 I say it is a simple by flawed system that expends a huge amount of energy and resources on covering up its flaws with false narratives and copious half-lies, propped by "confidentiality" based on "national security", and the shaping of the narrative by their lackeys in the mainstream media. Remember, it is always the victor of any battle whose narrative is the only narrative allowed. So-called terrorist organisation are bad news, but they are sourced from a pool of people with legitimate issues. Agreed that once a reign of tyrannical rules has been established, and people's choices have been removed - they have to obey and comply with whatever arbitrary and uncaring edicts the rulers issue.
+
+## Hero
+
+Although the average man is constantly regaled with tales of the hero who overcomes the evil empire, or impossible odds &mdash; there is literally no real event of that nature that has occurred because of one man alone. No man ever became emperor because of his merit or because of his power alone. Any cataclysmic social event was always carried out by a groud of dedicated men and women who were, im most cases, willing to die for what they were fighting for, and/or for what they believed in.
+
+It is easy to forget the complexity of our existence, preferring to focus on one face, whether good or evil, with which identify with. between for and against, in simplistic, binary sense - "You're either with me, or you against me.
+
+## AIDS
+
+If we see AIDS as a result of a compromised immune system, it would make sense in the light of the ever increasing exposure to the many toxins present in our environment stressing the body's defence systems. This exposure is ever increasing, the degradation of our food, needing "supplements" to replace the lack of nutritional elements available. In addition, these toxins are present in our air, our water and our homes. We are also being bombarded by EMF's, which will create an extra stress.
+
+We are also very lacking in the arena of knowing what the effect of multiple toxins are on our bodies. There is even the possibility that the EMF's will affect the way in which these chemicals interface with our bodies and our environment. And we continue to increase the exposure to them year by year.

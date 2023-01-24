@@ -3,7 +3,7 @@ title: Units of force, energy, and power
 description: Watts, Joules, etc.
 url: https://www.daviddarling.info/encyclopedia/U/units_of_force_energy_and_power.html
 author: David Darling
-tags:
+tags: [external,tol]
 date: 2005-03-08T17:20:34.413Z
 ---
 

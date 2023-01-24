@@ -3,7 +3,7 @@ title: Matter and Energy
 description: 'First lecture: The forces that play on the the physical elements of our world.'
 author: Shaun Williams, Phd
 url: http://shaunmwilliams.com/IntroChem/lecture1.html
-tags:
+tags: [external,qkab]
 date: 2005-03-04T17:20:34.413Z
 ---
 

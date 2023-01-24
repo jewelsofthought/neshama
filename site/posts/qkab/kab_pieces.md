@@ -12,30 +12,35 @@ modified: 2022-05-31
 
 ## 3 splendours (pp 90,96)
 
-> tzachtzachot - צחצחות
+> tzachtzachot - **צחצחות**
 
 There is a connection with the Trinity and the three faces of the Hindu deity, and the trigram of the I’Ching.
 
-צמצם or צימצום is the Kabbalistic _tsimtsum_, or constriction&mdash;through resistance begins the manifestion. Going from the spiritual, almost virtual energy to the grosser, thicker, slower energies that are the manifestations we are aware in. As such, it is a seen as circular, an expanding or contracting spiral.
+**צמצם** or **צימצום** is the Kabbalistic _tsimtsum_, or constriction &mdash; through resistance begins the manifestion. Going from the spiritual, almost virtual energy to the grosser, thicker, slower energies that are the manifestations we are aware in. As such, it is a seen as circular, an expanding or contracting spiral.
 
 One bifurcates. Two are manifest, the third splendour is the one that emerges as the relationship between the two manifest. It may emerge in multiple forms too, as the doubling, or joining of the two. It also continues the process of life, the bifurcation.
 
-Perhaps the 3 are just really 3 out of the 10. As Judah Hasid mentions the 10 spheres, or ספירות… These are the 3 that are manifesting the known world. The rest are expressions, or steps into the ineffable. It seems that there are the 3 at the top, the six that make the One, and finally the Kingdom, מלכות, that manifests.
+Perhaps the 3 are just really 3 out of the 10. As Judah Hasid mentions the 10 spheres, or **ספירות**… These are the 3 that are manifesting the known world. The rest are expressions, or steps into the ineffable. It seems that there are the 3 at the top, the six that make the One, and finally the Kingdom, **מלכות**, that manifests.
 
-Of course, within מלכות, the pattern begins once again&mdash;the unmanifest, inner radiation of אין סוף.
+<figure style="float: right">
+  <img src="/posts/img/qkab/tree_in_tree.png" alt="Tree in Sefirah" width="180" height="200" />
+  <figcaption>Tree within Tree</figcaption>
+</figure>
 
-An aspect of the finite within the infinite, in order for it (the finite) to be eternal, it will have to return to its beginning at some stage.
+Of course, within **מלכות**, the pattern begins once again &mdash; the unmanifest, inner radiation of **אין סוף**.
 
-![Tree within Tree](/posts/img/qkab/tree_in_tree.png)
+An aspect of the finite within the infinite, is that in order for it (the finite) to be eternal, it will have to return to its original form at some stage.
 
 His is the Law, carried down from heaven. If the same structure, the same pattern, applies to both then obviously the same influence, the same laws, will have the same effect.
 
+<br clear="all" />
+
 > If אין סוף is manifest, then It contains everything,
 
-<div style="margin-left: 2rem; font-style: italic">
+<div class="poem">
 
 In the beginning,
-there was אין סוף
+there was <b>אין סוף</b>
 Then nothingness,
 Then the 3 splendours,
 Then 1st emanation
@@ -55,7 +60,7 @@ And we are part of Creation.
 
 > I was born in the cauldron of creation
 
-A kabbalist does nothing... except perhaps pray &ndash; with all his heart and soul. All his work is in the upper realm. The one referred to as the imaginal realm. A realm exemplified by the imaginary numbers of mathematics, producing, through the intermarriage of the real and the imaginary, the realm of the complex.
+A kabbalist does nothing... except perhaps pray &mdash; with all his heart and soul. All his work is in the upper realm. The one referred to as the imaginal realm. A realm exemplified by the imaginary numbers of mathematics, producing, through the intermarriage of the real and the imaginary, the realm of the complex.
 
 He performs the acts necessary to maintain his physical being, but only in order to pursue his calling and work in the upper worlds.
 

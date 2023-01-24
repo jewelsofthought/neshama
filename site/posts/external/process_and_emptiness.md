@@ -5,11 +5,31 @@ author: Thomas J. McFarlane
 tags:
   - qkab
   - process
+  - external
 date: 2008-11-18T15:38:35.115Z
 modified: 2021-11-08T16:23:54.125Z
 ---
 
-In its Systems Engineering Vision 2025 INCOSE explains that: ‘It is therefore important to develop a scientific foundation that helps us to understand the whole rather than just the parts, that focuses on the relationshipsamong the parts and the emergent properties of the whole. This reflects a shift in emphasis from reductionism to holism. Systems science seeks to provide a commonvocabulary (ontology), and general principles explaining the nature of complex systems’
+1. [Process and Emptiness](#process-and-emptiness)
+   1. [A Comparison of Whitehead’s Process Philosophy and Mahayana Buddhist Philosophy](#a-comparison-of-whiteheads-process-philosophy-and-mahayana-buddhist-philosophy)
+   2. [ABSTRACT:](#abstract)
+   3. [Introduction](#introduction)
+   4. [Whitehead and the Philosophy of Organism](#whitehead-and-the-philosophy-of-organism)
+   5. [Buddhism and the Mahayana School](#buddhism-and-the-mahayana-school)
+   6. [Similarities between Whitehead and Buddhism](#similarities-between-whitehead-and-buddhism)
+      1. [Process and Impermanence](#process-and-impermanence)
+      2. [Emptiness and Lack of Substance](#emptiness-and-lack-of-substance)
+      3. [Relational, Dependent Nature of Existence and Causation](#relational-dependent-nature-of-existence-and-causation)
+      4. [Ignorance and Mistaken Perception](#ignorance-and-mistaken-perception)
+      5. [Freedom and Emancipation](#freedom-and-emancipation)
+      6. [Experiential and Subjective Nature of Things](#experiential-and-subjective-nature-of-things)
+      7. [Limits of Concepts and Philosophical Systems](#limits-of-concepts-and-philosophical-systems)
+   7. [A Critical Difference](#a-critical-difference)
+   8. [Bibliography](#bibliography)
+
+In its Systems Engineering Vision 2025 INCOSE explains that:
+
+> ‘It is therefore important to develop a scientific foundation that helps us to understand the whole rather than just the parts, that focuses on the relationships among the parts and the emergent properties of the whole. This reflects a shift in emphasis from reductionism to holism. Systems science seeks to provide a common vocabulary (ontology), and general principles explaining the nature of complex systems’
 
 ---
 
@@ -53,7 +73,7 @@ Buddhism was founded in India around the 5th century BCE by Siddhartha Gautama, 
 3. there is an end to suffering, and
 4. there is a path to the end of suffering.
 
-The Buddha taught that all experience is fundamentally impermanent in nature, and that we suffer because we habitually resist this impermanence. We crave after a permanence that cannot be found, so we inevitably suffer. By cultivating selfless compassion [ _Chesed_ ], and by reflecting and meditating on our experience, he taught that we can abandon our craving after permanence and thus attain freedom from suffering (_nirvana_).
+The Buddha taught that all experience is fundamentally impermanent in nature, and that we suffer because we habitually resist this impermanence. We crave after a permanence that cannot be found, so we inevitably suffer. By cultivating selfless compassion [_chesed_ ], and by reflecting and meditating on our experience, he taught that we can abandon our craving after permanence and thus attain freedom from suffering (_nirvana_).
 
 One of the core doctrines in Buddhist philosophy is that everything exists as a dependent arising (_pratityasamutpada_). According to the Buddha, all phenomena are dependent arisings, meaning not only that any process of arising is dependent upon prior causes and conditions, but also that the existence or establishment of any phenomenon is dependent upon other phenomena. In the _Madhyamika_ (“Middle Way”) school of _Mahayana Buddhism_, the concept of dependent arising is also taken to mean that everything exists in dependence upon its own parts, and that everything exists in dependence upon the thought which designates it. In all these cases, the notion of dependent arising implies that phenomena lack independent existence. This implication is often expressed in terms of the doctrine of emptiness (_sunyata_): all phenomena are empty of any independent, separate essence of their own. This lack of inherent existence, however, does not imply that things do not exist at all. They do exist — but their existence is a dependent, not an independent, existence. The doctrine of dependent arising, therefore, avoids the extremes of substantialism (i.e., things exists as independent, separate essences) and nihilism (i.e., things do not exist at all).
 
@@ -125,16 +145,15 @@ Buddhist philosophy is formulated as a means to the end of liberation from suffe
 
 The Buddha and Whitehead, however, had different responses to these limitations of philosophy and language. For Whitehead, it implied that metaphysics was always subject to revision in light of deeper experience, insight, and understanding. The Buddha went further, though, to assert that it is possible to experience truth in an immediate, non-conceptual way. “_It is possible to experience a reality that transcends all conceptual frameworks once one’s mind is freed from all conceptualization. When first abiding in such a realization, one has no awareness of conventional reality at all. As one proceeds to full awakening, the challenge is to integrate this profound insight with one’s experience of relative truth, in all its diversity_” (CR, p. 150). This incomprehensible, integrated wisdom is appreciative of the unique value of each particular standpoint, and at the same time is not limited to any one point of view. It is even acknowledged that the Buddhist dharma itself cannot be put forward as an absolute truth. As the teaching of the way to end suffering, the Buddhist teaching is therefore not independently established as a final, absolute truth, but is rather a compassionate, responsive, dependent arising in relation to ignorance and suffering. To cling on to the Buddhist doctrines as absolutes, therefore, is inconsistent with the most fundamental principles at the basis of those very doctrines. In the words of Nagarjuna (FWMW, p. 83):
 
-```
-I prostrate to Gautama
-Who through compassion
-Taught the true doctrine,
-Which leads to the relinquishing of all views.
-```
+> I prostrate to Gautama
+> Who through compassion
+> Taught the true doctrine,
+> Which leads to the relinquishing of all views.
 
 ## A Critical Difference
 
 In contrast to Whitehead’s philosophy, Buddhist philosophy embodies a critical dialectical method that dynamically turns upon its own categories and doctrines. The Indian Buddhist sage Nagarjuna (circa 2nd Century, CE) applied this technique to the various categories of thought in Buddhist philosophy, with the goal of freeing the mind from clinging to philosophical constructs. Through subtle dialectical argument, Nagarjuna demonstrated that any concept or philosophical position, if taken as final and absolute, ultimately leads to logical contradiction. The successful application of this technique reveals that the concept or position is empty of any final or ultimate truth. Because the same technique can be used to show that the opposite concept or position is also empty of any final or ultimate truth, the result is that both extremes of thought are abandoned, revealing a middle way between extremes of dogmatic assertion and dogmatic rejection. Nagarjuna’s dialectical technique applied to phenomena of experience as well as to philosophical views shows that when reality is rigorously and carefully examined, no permanent, absolute, or independent entity, existence, or conceptual truth is found. This _“not-finding” is the discovery of emptiness_. It is not a positive conclusion or new experiential phenomenon, but a non-conceptual insight regarding what is not actually present in the nature of experience.
+
 The dialectical process does not even end there. If the discovery of emptiness is itself grasped and reduced to a conceptual conclusion or final experience, then Nagarjuna’s method can be applied again to reveal the emptiness of this object of grasping (i.e., the emptiness of emptiness). Another very subtle form of grasping can take place when Nagarjuna’s critical technique is itself grasped onto as a final truth. A consistent application of the dialectical method then will reveal that the technique is itself dependent on grasping. If there is no grasping to extremes, there can be no criticism. Therefore, even Nagarjuna’s own technique is empty. The dialectical method, therefore, has the ultimate effect of undermining itself, just as the successful application of any medicine will result in a state of health wherein the medicine is no longer useful. If there is no fixity or grasping, then Nagarjuna’s method is unnecessary, just a medicine is no longer necessary after an illness is cured. As long as we are poisoned with habits of grasping and suffer its consequences, however, the medicine of emptiness is relevant and valuable.
 
 Thus, to the extent that Whitehead’s philosophy has medicinal powers to dispel our ignorance of dependent arising, it is essentially in harmony with the spirit of the Buddhist teachings, even if it differs in some of its details. In spite of their differences, however, there are many significant similarities between these two philosophies. It is my hope that this paper will foster deeper understanding of both Whitehead’s process philosophy and Buddhist teachings, and help all sentient beings in their creative advance toward Buddhahood.

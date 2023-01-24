@@ -1,7 +1,7 @@
 ---
 title: Engine of Emergence
 description: Discussion using the Sefer Yetzirah
-tags: null
+tags: [todo]
 date: 2015-01-05T14:05:16.154Z
 modified: 2022-07-07T16:12:18.201Z
 ---
@@ -14,7 +14,7 @@ Briefly, and I am not sure that what I have written below expresses this correct
 
 The will of G-d is pushing the emergence down&mdash;down being into greater density. Force is always moving in a straight line (as a vector), so it is expressed down the central pillar. But the actual movement of the element(s) through the space is as spiral. Thus we see the emergence of the _sefirot_ along the central pillar, with the outer _sefirot_ emerging at the polarities of along the left and right side pillars.
 
-Zohar: 5 sturdy leaves surround the rose and enshroud it, protecting it with the 13 attributes of mercy.
+> **Zohar**: 5 sturdy leaves surround the rose and enshroud it, protecting it with the 13 attributes of mercy.
 
 This is connected with ![The Principle of Five](/posts/img/qkab/the%20principle%20of%20five.svg), where there is a further explanation of the unfolding of the tree.
 
@@ -42,7 +42,7 @@ This is connected with ![The Principle of Five](/posts/img/qkab/the%20principle%
 
 => The first emanation.
 Emanation being emergence of the Divine in _malchut_.
-The emergence of asymmetrical structure. Where good $$\neq$$ evil, i.e. there is no balance.
+The emergence of asymmetrical structure. Where good &#x2260; evil, i.e. there is no balance. ---
 => Rising to meet the beloved.
 It starts with g = e but the reaching out, the desire (for union with the beloved) begins to "shape" the tree.
 
@@ -172,15 +172,16 @@ Most of our neuroses, as Freud correctly pointed out&mdash;perhaps having learnt
 
 Actually _Tiferet_ is pulled down by its lower urges, as they are heavier than _Da'at_.
 
-Desire?
+## Desire
 
-Goes down
+Desire causes it to go down
 Closer to _Tiferet_, "attracts its light"
 
 Bounces back up. Left a shadow attracted to the light of _Tiferet_
 
 Place for light of _Tiferet_ = _Da'at_
 Removed _Tiferet_'s light. It now becomes darker and heavier
+
 But because it is _Tiferet_, balance, it releases its dark side to maintain balance -- _Yesod_, which ends up in _Malchut_ (son)
 
 Perhaps this is the engine. If we wish to be uplifted, we lift the tree "above" its ground state.

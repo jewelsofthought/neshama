@@ -24,11 +24,12 @@ modified: 2022-05-30T13:46:40.107Z
     1. [Real: Form](#real-form)
     2. [Imaginary: Wave](#imaginary-wave)
 12. [Energy](#energy)
-13. [Chashmal/Electricity](#chashmalelectricity)
-14. [Water](#water)
-15. [Energy is energy - good or bad](#energy-is-energy---good-or-bad)
-16. [Zero Waste (Energy)](#zero-waste-energy)
-17. ["Trapped" energy](#trapped-energy)
+13. [Light - electricity - water](#light---electricity---water)
+14. [Chashmal/Electricity](#chashmalelectricity)
+15. [Water](#water)
+16. [Energy is energy - good or bad](#energy-is-energy---good-or-bad)
+17. [Zero Waste (Energy)](#zero-waste-energy)
+18. ["Trapped" energy](#trapped-energy)
 
 ## Fundamental property
 
@@ -140,11 +141,21 @@ When a wave becomes **entangled** (either with enough other waves) or a "standin
 
 > Energy that does not have form cannot be represented in this world. It can only be recognised through its interaction with some other "form".
 
-It is only mathematics that is able to represent or describe this energies that do not have a manifest form like gravity or electricity. However, in the latter case there seems to be a form or order inherent in the energy&mdsh;a form which is itself only probable&mdash;which we can conveniently refer to as packets, or, as the wont is nowadays, quanta. Thus we intrinsically believe that there will be a similar form for Gravity. Though what if there is not? For all of this has been created not just for God's or our pleasure, but for our learning. Somehow, we were lost, or, as we refer to it biblically, fallen. Perhaps we are errant souls or expressions of some desire for self identity existing in the pleroma. However that may be, we are here and dream always of the world to come in which the evil that roams the world will have been banished or demolished. And perhaps gravity will be a koan to lead science deeper into the mystery of creation.
+It is only mathematics that is able to represent or describe this energies that do not have a manifest form like gravity or electricity. However, in the latter case there seems to be a form or order inherent in the energy&mdash;a form which is itself only probable&mdash;which we can conveniently refer to as packets, or, as the wont is nowadays, quanta. Thus we intrinsically believe that there will be a similar form for Gravity. Though what if there is not? For all of this has been created not just for God's or our pleasure, but for our learning. Somehow, we were lost, or, as we refer to it biblically, fallen. Perhaps we are errant souls or expressions of some desire for self identity existing in the pleroma. However that may be, we are here and dream always of the world to come in which the evil that roams the world will have been banished or demolished. And perhaps gravity will be a koan to lead science deeper into the mystery of creation.
 
 The only way we are made to be aware of this subtler energy is through its effect.
 
 The quantum arena speaks of such energy. We feel it's effect in our everyday lives with our cell phones and other wireless devices. Yet there is an even more subtle energy, and it's one that vivifies everything, and we call it life when we see it move, and inanimate when it doesn't. Yet they all react to input and energy affects their structure and sometimes their behaviour too. So, they are in some sense alive.
+
+## Light - electricity - water
+
+The light is us seeing/receiving the electrical information all around us. When we "light", we generally refer to that energy that exists outside of ourselves, whereas there is also the actual experiencing of receiving, which we call "seeing", this electromagnetic energy&mdash;that has been called the &AElig;ther.
+
+It is the same in the "real" world we inhabit. While we think that it is the object that we interact with, it is actually an electrical (or electromagnetic) interaction that we are having. That we experience something as solid is because of the electrical interaction between my being and that of its being. It is the electrical force of its being that defines it to me as, for instance, solid, liquid or gas. For none of those 3 physical states are "real". They just speak of three different "electrical" states&mdash;as far as we are concerned.
+
+This is similar to what we are seeing as "solid". We see their (electrical) states, also as solid, liquid or gas.
+
+We create the world around us by naming the experience we are having, and upon naming the experience, we both assume and perhaps add, certain characteristics to that experience. Good/bad, hot/cold, solid/liquid... etc. In naming the experience, we can communicate it to our fellows. For we are here to recognise and communicate our experiences to one another, and for our fellows to be witnesses to this lived experience. This changes the emphasis of being human&mdash;not to achieve, but to live... to be.
 
 ## Chashmal/Electricity
 

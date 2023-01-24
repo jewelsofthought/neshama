@@ -3,6 +3,7 @@ title: Nagarjuna and Quantum Physics.
 tags:
   - qkab
   - process
+  - external
 date: 2008-11-17T15:38:35.115Z
 modified: 2021-11-11T10:31:30.490Z
 ---

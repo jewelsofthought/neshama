@@ -68,6 +68,15 @@ Being a vegetarian, none of these laws of kashrut apply to my home. The only way
 
 ## </div>
 
+> Love the Lord, your G-d, with all your heart and with all your soul. (13.5)
+
+- Follow the Lord
+- Revere Him
+- Keep His Commandments
+- _Listen to His voice_
+- Worship Him
+- Stay close to Him
+
 > For you are a holy people to the L-rd your G-d
 
 <p>
@@ -109,6 +118,12 @@ The “bound” elements of creation also have a role in the realization of the 
 {NOTE: Much too meat orientated. If I eat/consume anything – not just meat then it should be a process of transmutation.}
 </p>
 ---
+<blockquote dir="rtl">
+רק אמ שׁמוע תשׁוע בקול יהוה אלֹהיך לשׁמר לעשׂות את־כל־המצווה הזאת אשׁר אשׁכי מצוךָ היום
+<p dir="ltr">
+Keep the commands with which I am charging you this day (15:6).
+</p>
+</blockquote>
 
 > If there will be among you a needy person, from one of your brothers in one of your cities . . . (15:7)
 
@@ -143,3 +158,40 @@ There are eight levels of charity, each greater than the next.
 <p style="padding-left: 2.5rem">
 &mdash; (Mishneh Torah, Laws of Gifts to the Poor 10:7–14)
 </p>
+
+---
+
+> Eat them in the presence of the Lord in the place that the Lord shall show you &mdash; **פסח** (15:21)
+
+> Both the impure and the pure shall eat... (15:22)
+
+> But you shall not eat of the blood, but you shall pour it into the ground (15:23)
+
+## Chapter 16
+
+> Passover (16:8)
+
+- The Passover sacrifice takes place in the evening (16:8)
+- Return the next day
+- 6 days shall you eat unleavened bread
+- On the 7th day you shall do no work, and the community shall assemble
+
+> Festivals
+
+- 7 weeks to the produce festival, **ִשׁבועות**, _Shavuot_, which, although called the Festival of Weeks, lasts one one day
+- 7 days of celebration, **סוכות**, _Succoth_.
+- 7 days of eating unleavened bread, חג המצות, the Holiday of Unleavened Bread, Passover.
+
+<blockquote dir="rtl">
+ויהוה עקר תשׁמעוּן את המשׁפטים האלה ותשׁמרוּ ותעשׂוּ אתם שׁמור יהוה אלוהיך לך את־הברית ואת־החסד אשׁר נשׁבע לאבותךָ
+<p dir="ltr">
+If indeed you heed these laws and guard/keep them (holy) and do them (act on/from them), <b>HaShem</b>, your G-d, will keep/honour the oath/covenant and the mercy/love that he swore to/forged with your father's ancestors.
+</p>
+</blockquote>
+
+<blockquote dir="rtl">
+אשׁר נשׁבא לאבותךָ (לתת לךָ)
+  <p dir="ltr">
+  You will be loved and blessed, you will multiply. The fruit of your womb, and the fruit hof your land... will be blessed.
+  </p>
+</blockquote>
