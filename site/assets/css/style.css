@@ -1,3 +1,6 @@
+.main-content {
+  text-align: justify;
+}
 .main-content .tc ol {
   list-style-type: decimal;
   margin: 0.1em 1em;
@@ -18,7 +21,9 @@
   }
 }
 
-.footnotes, footnote, .note {
+.footnotes,
+footnote,
+.note {
   font-size: 80%;
 }
 
@@ -53,36 +58,34 @@ mark .end {
 
 /* For starred pieces */
 .purple {
-    background-color: rgba(0, 0, 255, 0.15);
-    border-color: rgba(0, 0, 255, 0.5);
+  background-color: rgba(0, 0, 255, 0.15);
+  border-color: rgba(0, 0, 255, 0.5);
 }
 mark .green {
-    background-color: rgba(0, 255, 0, 0.15);
-    border-color: rgba(0, 255, 0, 0.5);
+  background-color: rgba(0, 255, 0, 0.15);
+  border-color: rgba(0, 255, 0, 0.5);
 }
 
 mark .red {
   background-color: rgba(255, 0, 0, 0.15);
-    border-color: rgba(255, 0, 0, 0.5);
+  border-color: rgba(255, 0, 0, 0.5);
 }
 
 /* For paragraphs */
 .orange {
-    background-color: rgba(255, 150, 0, 0.15);
-    border-color: rgba(255, 150, 0, 0.5);
+  background-color: rgba(255, 150, 0, 0.15);
+  border-color: rgba(255, 150, 0, 0.5);
 }
 
 /* Blue - translation of words, and books that are mentioned. */
 .blue {
-    background-color: rgba(0, 150, 255, 0.15);
-    border-color: rgba(0, 150, 255, 0.5);
+  background-color: rgba(0, 150, 255, 0.15);
+  border-color: rgba(0, 150, 255, 0.5);
 }
-
 
 :dir(rtl) {
   text-align: start; /* left in latin, right in arabic */
   margin-inline-start: 0px; /* margin-left in latin, margin-right in hebrew */
-  border-inline-start: 1px solid gray; /* border-left in latin, border-right in hebrew */
   padding-inline-start: 15px; /* padding-left in latin, padding-right in hebrew */
   font-size: 1.2rem;
   font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
@@ -97,29 +100,19 @@ mark .red {
 
 blockquote *:dir(ltr) {
   font-weight: normal;
-  font-style: italic;
   margin-top: 0rem;
   margin-bottom: 0rem;
   font-size: initial;
 }
-
+/*
 blockquote p:dir(ltr):not(:first-child) {
   text-indent: 2rem;
 }
-
-
-
-blockquote {
-  border-left: 1px solid #dbdbdb;
-  border-inline-start: 1px solid gray;
-}
-
-
+*/
 .title.is-4 {
   font-size: 2rem;
 }
 
-## Not sure why it requires margin-bottom: 0; (Oct 2022)
 .content h3 {
   margin-top: 1em;
 }
@@ -147,4 +140,3 @@ blockquote {
   margin-right: auto;
   background-color: #b2b5b8;
 }
-
