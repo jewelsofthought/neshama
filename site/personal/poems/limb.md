@@ -1,14 +1,12 @@
 ---
-title: Adventure
+title: Out On A Limb
 description: Answering the call - lech lecha.
 tags: null
 starts: '**'
-date: 2002-01-11T10:03:10.856Z
+date: 2002-12-11T10:13:10.856Z
 ---
 
 <div class="poem">
-
-<h3> Out On A Limb </h3>
 
 I’m afraid to go there.
 Afraid to go against the advice of society.

@@ -3,7 +3,7 @@ title: From Atzilut to Malchut
 description: The cycle is complete
 tags: null
 stars: '***'
-date: 2002-01-05T25:01:00.856Z
+date: 2002-12-05T25:01:00.856Z
 modified: 2020-06-04
 ---
 

@@ -2,7 +2,7 @@
 title: Seeking joy
 description: Where are the happy songs?
 tags: null
-date: 2002-01-09T15:03:10.856Z
+date: 2002-12-09T15:03:10.856Z
 ---
 
 <div class="poem">

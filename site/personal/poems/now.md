@@ -3,7 +3,7 @@ title: The Time is Always Now
 description: Once the decision is made, the narrative unfolds.
 tags: null
 stars: '**'
-date: 2002-01-13T15:03:20.856Z
+date: 2002-12-13T15:03:20.856Z
 ---
 
 <div class="poem">

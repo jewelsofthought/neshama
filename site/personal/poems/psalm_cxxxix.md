@@ -2,8 +2,8 @@
 title: Psalm CXXXIX
 description: Song of Joy
 tags: [judaica]
-date: 2002-01-30T02:03:10.856Z
-modified: 2022-01-03T14:25:52.703Z
+date: 2002-12-30T02:03:10.856Z
+modified: 2022-12-03T14:25:52.703Z
 ---
 
 ## Psalms Chapter 139 תְּהִלִּים

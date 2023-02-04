@@ -2,7 +2,7 @@
 title: Seeking the stillness
 description: Nothing is still.
 tags: null
-date: 2002-01-17T05:03:20.856Z
+date: 2002-12-17T05:03:20.856Z
 ---
 
 <div  class="poem">

@@ -3,7 +3,7 @@ title: In pain
 description: We rise from the darkness to receive the light.
 tags: null
 stars: '**'
-date: 2002-01-15T01:13:20.856Z
+date: 2002-12-15T01:13:20.856Z
 ---
 
 <div class="poem">

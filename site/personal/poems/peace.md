@@ -2,7 +2,7 @@
 title: Peace and Joy
 description: Each moment prepares the following one.
 tags: null
-date: 2002-01-15T05:03:30.856Z
+date: 2002-12-15T05:03:30.856Z
 ---
 
 <div class="poem">

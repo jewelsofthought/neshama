@@ -2,7 +2,7 @@
 title: Duality brings desire
 description: Seperation allows for union.
 tags: null
-date: 2002-01-04T25:10:20.856Z
+date: 2002-12-04T25:10:20.856Z
 modified: 2007-08-01
 ---
 

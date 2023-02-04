@@ -2,7 +2,7 @@
 title: A new narrative
 description: The old ways are dying. We have to find a new narrative.
 tags: null
-date: 2002-01-13T01:03:10.856Z
+date: 2002-12-13T01:03:10.856Z
 modified: 2022-06-28T10:12:37.469Z
 ---
 

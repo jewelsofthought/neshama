@@ -3,7 +3,7 @@ title: Healing
 description: The Inner Chamber
 tags: [neshama]
 stars: '****'
-date: 2008-01-08T14:38:35.115Z
+date: 2008-12-08T14:38:35.115Z
 ---
 
 <div class="poem">

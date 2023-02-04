@@ -3,7 +3,7 @@ title: I believe, I believe
 description: The cycle is complete
 tags: null
 stars: '***'
-date: 2002-01-08T00:02:10.856Z
+date: 2002-12-08T00:02:10.856Z
 modified: 2020-06-04
 ---
 

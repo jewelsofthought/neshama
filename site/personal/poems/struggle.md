@@ -2,7 +2,7 @@
 title: The struggle
 description: Still the struggle rages inside
 tags: null
-date: 2002-01-18T28:01:20.856Z
+date: 2002-12-18T28:01:20.856Z
 ---
 
 <div class="poem">
