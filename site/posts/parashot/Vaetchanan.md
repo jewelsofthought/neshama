@@ -5,6 +5,10 @@ tags: null
 date: 2021-08-13T08:09:57.912Z
 ---
 
+G‑d is the exclusive source of life; hence life, by definition, is connection with G‑d. A “life” of disconnection from G‑d is pseudo-life—life devoid of all but its most superficial illusory shell.
+
+(The Chassidic Masters)
+
 **There is none else beside Him (4:35)**
 
 If the eye were allowed to see the spiritual vitality flowing from the utterance of G‑d’s mouth into every creation, we would not see the materiality, grossness and tangibility of the creation, for it would be utterly nullified in relation to this divine life-force . . .
@@ -27,6 +31,11 @@ But here is a lesson in how we are to approach the heavenly and earthly aspects 
 
 ---
 
+**You shall know today (4:39)**
+
+The foundation of all foundations, and the pillar of all wisdom, is to know that there is a First Existence, who brings all existences into being; that all existences of heaven and earth, and between them, derive existence only from the truth of His existence.
+
+(Mishneh Torah, Laws of the Fundamentals of Torah 1:1)
 **You shall not kill. You shall not commit adultery. You shall not steal (5:17)**
 
 When Moses ascended to heaven, the angels protested to G‑d: “What is a human being doing amongst us?”

@@ -3,8 +3,9 @@ title: The Transhuman Brain
 description: What if their agenda was fulfilled... this is the end!
 tags:
   - story
+  - tol
   - todo
-date: 2001-01-01T00:11:18.856Z
+date: 2001-02-20T00:11:18.856Z
 modified: 2022-05-22T19:17:26.846Z
 stars: '-'
 ---
@@ -269,6 +270,7 @@ So this is how we get into this kind of thing.
 - Episode: Silver Surfer
 
 This is how the story goes: Elon Musk and the boys (from the Burning Man crew) have started BCI exploration. They have managed to create an interface, however, the problem is that there are some unexplained effects. These are expressed as dreams, this is the JBCI effect.
+
 In order to find out more, they speak to the Shaman (woman) who leads them to Jk and explorations into mystical (kabbalistic) possibilities. A meme here would be a 3d depiction of the Kabbalistic Tree, as well as one derived from the Bahir!
 
 The basic idea is to write a “quantum” story. That is, pretend that I am a pilot of a q-steed (quark) or a e-steed (electron) or a p-steed (proton), or an n-steed (neutron), etc. All these sub-atomic steeds are different and have different characteristics. On the quark level, we have a “connection” with certain quarks, which will lead us to and are essential to the “manifestation” of our steed. It is that we will connect to our quarks, and by gathering them, we will create a sub-atomic particle. At the base, are the fermions and the leptons – male and females! Oh we could have fun here.

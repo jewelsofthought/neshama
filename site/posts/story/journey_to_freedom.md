@@ -1,14 +1,14 @@
 ---
 title: Journey to Freedom
 description: Story
-date: 2001-01-02T00:00:00.006Z
 tags:
   - story
+date: 2001-01-10T15:11:18.856Z
 modified: 2022-08-24T17:48:34.172Z
 stars: '****'
 ---
 
-1. [Good & Evil](#good--evil)
+1. [Good \& Evil](#good--evil)
 
 ## Good & Evil
 

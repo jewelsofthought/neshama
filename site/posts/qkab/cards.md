@@ -42,7 +42,8 @@ modified: 2022-05-00T00:31:30.941Z
 34. [Imagination](#imagination)
 35. [Axis of perception](#axis-of-perception)
 36. [Good and bad](#good-and-bad)
-37. [Everything is circular](#everything-is-circular)
+37. [(un)Manifest](#unmanifest)
+38. [Everything is circular](#everything-is-circular)
 
 ---
 
@@ -452,6 +453,12 @@ Depending upon what axis you look, creates a different view. Thus time, as a one
 It is not the good or the bad that is soul destroying &mdash; but the good in the bad. If it was all bad, then it is clear what it is. If it is all good, then it is a blessing. However, when there is some good in the bad, some pleasure in the pain, an attraction to something that was good, that is the guilt.
 
 telnAnd if there is bad in the good, it it like a wheel that always turns.
+
+## (un)Manifest
+
+All that is manifest can be measured (quantified), and it can only be measured by what is already manifest.
+
+"Unmanifest" is everything else. These "unmanifest" expressions can only be qualified as spirit can only be judged by spirit. In addition, the manifest can also only be judged by spirit. If judged by what is man it becomes another form of manifest measurement.
 
 ## Everything is circular
 

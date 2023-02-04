@@ -1,7 +1,12 @@
 site/posts                             2020-
 
 site/posts/story                       2001-01
-site/posts/story/poems                 2002-02
+site/posts/story/tol                   2002-02
+site/posts/story/qkab                  2002-03
+site/posts/story/neshama               2002-04
+
+site/posts/story/poems                 2002-12
+site/posts/external/poems              2003-01
 
 site/posts/tol                         2004-01
 site/posts/tol/social                  2004-02

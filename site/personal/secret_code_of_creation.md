@@ -3,7 +3,7 @@ title: Secret Code of Creation
 refURL: youtube "The secret cod of creation"
 description: Response to "The Secret Code of Creation" by Dr. Jason Lisle.
 tags: null
-date:
+date: 2021-06-06
 ---
 
 Mathematics is not about numbers, nor, as you have expressed them, as mere concepts. They are, in fact, expressions of our thoughts. For to describe a concept requires a huge cultural background on which the "concept" emerges. Every mathematical statement stands on the shoulders of many ancestors. {Perhaps we could better refer to them as the imagination of an infinite mind.}
