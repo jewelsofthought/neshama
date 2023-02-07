@@ -86,7 +86,9 @@ mark .red {
 :dir(rtl) {
   text-align: start; /* left in latin, right in arabic */
   margin-inline-start: 0px; /* margin-left in latin, margin-right in hebrew */
-  padding-inline-start: 15px; /* padding-left in latin, padding-right in hebrew */
+  padding-inline-start: 1rem; /* padding-left in latin, padding-right in hebrew */
+  padding-inline-end: 2rem;
+
   font-size: 1.2rem;
   font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
   font-weight: 900;
@@ -103,6 +105,7 @@ blockquote *:dir(ltr) {
   margin-top: 0rem;
   margin-bottom: 0rem;
   font-size: initial;
+  padding-inline-end: 1rem;
 }
 /*
 blockquote p:dir(ltr):not(:first-child) {
