@@ -2,7 +2,7 @@
 title: The Garden
 description: Gan Eden
 tags:
-  - qkab
+  - judaica
   - external
 date: 2010-01-07T01:22:23.542Z
 ---

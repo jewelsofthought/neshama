@@ -73,12 +73,26 @@ On **Shabbat** all work on/for the temple ceases - and we pray. We are to spend 
 
 To pray or celebrate alone is the most challenging and will test your commitment to its limits.
 
+### n14:31] They saw, and they believed
+
+<blockquote dir="rtl">
+לאוַיַּ֨רְא יִשְׂרָאֵ֜ל אֶת־הַיָּ֣ד הַגְּדֹלָ֗ה אֲשֶׁ֨ר עָשָׂ֤ה יְהֹוָה֙ בְּמִצְרַ֔יִם וַיִּֽירְא֥וּ הָעָ֖ם אֶת־יְהֹוָ֑ה וַיַּֽאֲמִ֨ינוּ֙ בַּֽיהֹוָ֔ה וּבְמשֶׁ֖ה עַבְדּֽוֹ:
+<p dir="ltr">
+  31. And Israel saw the great hand, which the Lord had used upon the Egyptians, and the people feared the Lord, and they believed in the Lord and in Moses, His servant. 
+  </p>
+</blockquote>
+
+<div class="note">
+Note: How come they see and believe in G-d's awesome power here, yet it scant days before they are complaining again to Moses! This is a repeated theme throughout the story.
+</div>
+---
+
 15:26] **מרה** &mdash; _Place of Bitterness_. We found water, but it was bitter. Moshe Rabeinu, following G-d's instructions, throws a tree into the water to sweeten it. Then G-d tests us: I will establish a decree, **חוק**, and an ordinance, **משׁפת**.
 
 <blockquote dir="rtl">
 וַיִּצְעַ֣ק אֶל־יְהֹוָ֗ה וַיּוֹרֵ֤הוּ יְהֹוָה֙ עֵ֔ץ וַיַּשְׁלֵךְ֙ אֶל־הַמַּ֔יִם וַֽיִּמְתְּק֖וּ הַמָּ֑יִם שָׁ֣ם שָׂ֥ם ל֛וֹ חֹ֥ק 
 וּמִשְׁפָּ֖ט וְשָׁ֥ם נִסָּֽהוּ׃
-<p dir="ltr">
+<p dir="ltr">s
 So he cried out to the LORD, and the LORD showed him a piece of wood; he threw it into the water and the water became sweet. There He made for them a fixed rule, and there He put them to the test.
 </blockquote>
 

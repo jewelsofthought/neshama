@@ -1,7 +1,8 @@
 ---
-title: Forward
+title: Books by Leonora Leet
 author: Leonora Leet
-description: The Key to Hebraic Sacred Science
+description: Forward
+article: Universal Kabbalah
 tags:
   - external
 date: 2015-11-01T00:53:28.291Z
@@ -24,7 +25,7 @@ She had an uncanny intuitive sense about the connection between the divine and h
 
 Leet attempted to erect a new framework for understanding the mechanism of the transformative spiritual work that enables the human soul to reach increasingly higher dimensions of consciousness.
 
-### Renewing the Covenant:
+### Renewing the Covenant
 
 Provides access to Jewish spirituality as a means for achieving higher consciousness. A path that could deepen the devotions of both non-observant and observant Jews. This process of **covenant renewal** begins with effective kabbalistic techniques of meditation, combining mantra with visualisation; then proceeds through the return to a "reconstructed **Sinai-Sabbath**"; and arrives at the culminating practice of ritual prayer, the performance of which can fulfill the kabbalistic purpose of creation. This process has hellp many to discover forms of spiritual practice precisely tailored for the modern world, as well as a new appreciation for the rich spiritual heritage of Judaism.
 

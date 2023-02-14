@@ -1,7 +1,7 @@
 ---
 title: Emanation
-description: It all begins with the first emanation.
-tags: null
+description:
+tags: judaica
 date: 2015-01-05T14:15:16.154Z
 modified: 2022-07-07T16:12:18.201Z
 ---
@@ -83,14 +83,13 @@ Referring to this Life Force as Light, we divide the world into light and dark. 
 
 The higher worlds receive this is a somewhat more revealed manner than the lower ones. The entities that exist in each world receive it, each one according to its own nature and strength. One could compare it to a template that has been created, and each instance of this template, is one that is filled with the Life Force. In each case, it also depends on the particular mode through which the Infinite Being transmits Life Force to each one and illuminates it. The lower spiritual worlds do not receive this Force in such a revealed manner. They must receive it through many garments, in which the Infinite Beings clothes the Life Force and the Life He transmits to them. He thus illuminates them and gives them existence.
 
-This is the basic paradox we now face. The cloaking of the Life Force
-is needed in order for us to manifest in this density, to exist. Thus we are essentially an expression of the clothing, the garments, created by the blocking of Divine Energy.
+This is the basic paradox we now face. The cloaking of the Life Force is needed in order for us to manifest in this density, to exist. Thus we are essentially an expression of the clothing, the garments, created by the blocking of Divine Energy.
 
 These garments conceal the Light and Life Force to such an extent that the latter is not visible at all. All we are able to detect are corporeal, physical things, that appear utterly lifeless.
 
-Actually, all things contain Light and Life Force, giving them being, and contantly changing from nonexistence to existence. Were it not for this, they would revert to utter nothingness, just as it was before creation.
+Actually, all things contain Light and Life Force, giving them being, and constantly changing from nonexistence to existence. Were it not for this, they would revert to utter nothingness, just as it was before creation.
 
-This Light comes from the Infinite Being, but is clother in many garments.[^3]. Each level contains the spiritual level above it. All of these contain the Ten Emanations.[^4]. These are in turn unified with the Emanator, who is the Infinite Being.
+This Light comes from the Infinite Being, but is clother in many garments.[^3]. Each level contains the spiritual level above it. All of these contain the Ten Emanations.[^4]. These are in turn unified with the Emanater, who is the Infinite Being.
 
 ## In conclusion
 

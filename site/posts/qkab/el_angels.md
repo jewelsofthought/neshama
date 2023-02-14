@@ -1,8 +1,8 @@
 ---
-title: Book of Enoch
-description: Correct history, incorrect interpretation
+title: Elohim angels
+description: The spiritual forces of Creation
 tags: null
-date: 2015-01-02T15:52:16.154Z
+date: 2015-01-05T14:55:16.154Z
 modified: 2020-12-01
 ---
 
@@ -42,10 +42,12 @@ And know the place for the first time.<br />
 
 Due to our limited minds, let us imagine this soul journey as a line.
 ![Soul journey](/posts/img/qkab/line.svg).
-Being a line, it has a starting and an end point. Let's depict the start as One and the end as Infinity&mdash;although infinity is not a point but rather a huge, wondrous concept that deserves its own section.
+
+Being a line, it has a starting and an end point. Let's depict the start as One and the end as Infinity&mdash;although [infinity](/posts/qkab/infinity/) is not a point but rather a huge, wondrous concept that deserves its own section.
 
 To make it more accessible, take this "infinity" which has no end, and is thus not a point, and imagine the largest, furthest, highest point you can imagine and use that to represent this boundary. Let's designate this point as N, where this N represents $$\infty$$ to all intents and purposes.
 ![N of Infinity](/posts/img/qkab/lineN.svg).
+
 You could think of this as point the final point of consciousness beyond which you cannot even imagine or conceive anything at all. Perhaps you could call it the "limit of consciousness". As it is said, "Water cannot rise above its source".
 
 This introduces the concept of the source of the line. Before the beginning and after much searching for a rational form of this, the mystics and shamans had, from the very beginning of history, been working with and from ... this Source. Through this exploration, we came up with the mind-bending concept of zero, or nothingness. In the words of Monty Python: "This parrot is no longer a parrot! It was! The parrot is no more. It is dead, extinguished, gone!"

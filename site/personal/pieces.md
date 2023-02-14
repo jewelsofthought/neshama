@@ -22,4 +22,17 @@ Anyways during the dance today, while I was in trance, I suddenly got this pictu
 
 Why show me the path, and then I die with never having revealed it? It is the way forward, it is the only reasonable future to hope for. For, if not that one, then what alternatives are there? A totalitarian regime, with absolute control over the whole of humanity? Or a bloody, chaotic descent into barely surviving pockets of humanity (if we survive the apocalypse)
 
----
+## Returning
+
+4/13/02
+
+It is painful to be back in my “real” space. After entering into a state of bliss, a place of unconditional love, of non-judgmental relating, we return, as if from outer space to the dependencies and dependents, the enabling and the co-dependent relationships; the loves that manifest in the material – as of daughter, of husband, of lover and love, of Father and of friend – with all their limitations and expectations, and slowly we emerge from the fog and the harsh light of the day removes all the shadows, all the soft places.
+
+5/1/2001 9:32 AM
+
+After the high, comes the low.
+
+Flowing with you all, dancing, meeting, journeying, touching and being touched,
+I return to my life changed, as always after being touched, and long for some more.
+To spend my life dancing for and with the spirits, to be communicating with them, and
+Help deliver their teachings and love to us all – is my dream.

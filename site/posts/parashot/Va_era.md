@@ -350,3 +350,18 @@ Upon Moses "spreading out his hands to the Lord, the thunder and the hail ceased
 כה וְאֶלְעָזָ֨ר בֶּן־אַֽהֲרֹ֜ן לָֽקַח־ל֨וֹ מִבְּנ֤וֹת פּֽוּטִיאֵל֙ ל֣וֹ לְאִשָּׁ֔ה: פִּֽינְחָ֑ס
 <span dir="ltr">25. Eleazar, the son of Aaron, took one of the daughters of Putiel to as wife: Phinehas
 </span>
+
+## Haftorah - _Yechezkel_ 28:25
+
+This week's haftorah teaches us a profound lesson in arrogance and self
+dependency. Hashem instructed the prophet Yechezkel to deliver a crushing
+blow to Pharaoh and his Egyptian empire and predict its total destruction.
+Hashem said, "Behold I am sending the sword after you that will decimate
+man and animal. Egypt will lay desolate and ruined....in response to your
+saying, 'The river is mine and I developed it.'" (29: 8,9) Hashem held
+Pharaoh and Egypt fully accountable for their arrogant approach to
+prosperity crediting their sustenance solely to their technology.
+
+The above lesson reminds us never to forget our limited role in our
+personal success. We must never forget that Hashem is our true provider and
+He develops and secures our efforts with their ultimate success.

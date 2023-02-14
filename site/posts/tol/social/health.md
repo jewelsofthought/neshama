@@ -16,9 +16,11 @@ So, G-d, the Omnipotent Good, places evil in the world, and in man. Then sacrifi
 
 ## Dependency
 
-About the chemical dependency that is becoming endemic in this society, permeating every facet of it. Of the chemicals that are being foisted on us, in the name of progress and that are just a thinly veiled mechanism of control.
+> Once you introduce a dependency into the society, you can control the users.
 
-Once you introduce a dependency into the society, you can control the users.
+About the chemical dependency that is becoming endemic in this society, permeating every facet of it. Of the chemicals that are being foisted on us, in the name of progress and that are just a thinly veiled mechanism of control. This includes the various “additives” introduced into our food, sugar, and sugar based products, and of course, last, but not least, money. Remember, money is also a drug.
+
+An addendum to this is the fact that every emotion produces a chemical in the brain. So the thought is that as we become addicted to these chemicals, so we will re-create situations that will cause us to produce those particular chemicals.
 
 Just say NO to drugs – to all of them.
 

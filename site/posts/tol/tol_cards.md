@@ -46,15 +46,18 @@ modified: 2022-08-15T17:48:59.753Z
 32. [Labour (ToL)](#labour-tol)
 33. [Negative agenda (ToL)](#negative-agenda-tol)
 34. [Co-create (ToL)](#co-create-tol)
-35. [Chemical dependency (ToL)](#chemical-dependency-tol)
-36. [Global leadership (ToL)](#global-leadership-tol)
-37. [Magic \& Science (ToL)](#magic--science-tol)
-38. [No humans (ToL)](#no-humans-tol)
-39. [Born (ToL)](#born-tol)
-40. [Complexity](#complexity)
-41. [Slavery](#slavery)
-42. [Hero](#hero)
-43. [AIDS](#aids)
+35. [Global leadership (ToL)](#global-leadership-tol)
+36. [Magic \& Science (ToL)](#magic--science-tol)
+37. [No humans (ToL)](#no-humans-tol)
+38. [Born (ToL)](#born-tol)
+39. [Complexity](#complexity)
+40. [Slavery](#slavery)
+41. [Hero](#hero)
+42. [AIDS](#aids)
+43. [Magic of Technology](#magic-of-technology)
+44. [Ghetto](#ghetto)
+45. [Power](#power)
+46. [Culpibility](#culpibility)
 
 ---
 
@@ -180,7 +183,9 @@ This Tree of Life Network is envisaged as a platform upon which we can begin to 
 
 ## Labour
 
-We have made a commodity of labour, separating a person’s labour from the person. Thus we can then quantify the labour, referring to the people as the “labour force” and use it, separate from the “life force” of the person. In this way we can justify using a person’s labour and not compensating them sufficiently to sustain their lives, having separated their lobour from their lives &mdash; from who, or what, they are.
+We have made a commodity of labour, separating a person’s labour from the person. Thus we can then quantify the labour, referring to the people as the “labour force” and use it, separate from the “life force” of the person. In this way we can justify using a person’s labour and not compensating them sufficiently to sustain their lives, having separated their labour from their lives &mdash; from who, or what, they are.
+
+In the same way we have commodified play and leisure.
 
 This is also why a legal system that is essentially inhuman(e) arises. It treats the human as a commodity that can be legislated, ignoring his/her essential humanity, ignoring his/her basic needs. How can we be granted rights that encompass what it is to be human?
 
@@ -334,14 +339,6 @@ Then there is the more enlightened view, which states that if they are indeed hu
 
 Now, going back to the framework, it is an incredible testament to the creativity that we can achieve and accomplish so much within this limited structure. For, as we know, this structure, handed down to us in another human – and thus limited - interpretation. As we know, if the underlying framework is Divine, that is, part of the infinite One that is all we know and more, then the framework is essentially infinite in all directions, therefore anything’s possible.
 
-## Chemical dependency (ToL)
-
-About the chemical dependency that is becoming endemic in our society, permeating every facet of it. Of the chemicals that are being foisted on us, in the name of progress, are they not just a thinly veiled means of control? For once you introduce a man-made chemical into the system, you gain some control of it.
-
-This looks at the various “additives” introduced into our food, sugar, and sugar based products, and of course, last, but not least, money. Remember, money is also a drug.
-
-An addendum to this is the fact that every emotion produces a chemical in the brain. So the thought is that as we become addicted to these chemicals, so we will re-create situations that will cause us to produce those particular chemicals.
-
 ## Global leadership (ToL)
 
 Harvard Business Review, Dec 2005. Regional Strategies for Global Leadership by Pankaj Ghemawat.
@@ -427,3 +424,37 @@ It is easy to forget the complexity of our existence, preferring to focus on one
 If we see AIDS as a result of a compromised immune system, it would make sense in the light of the ever increasing exposure to the many toxins present in our environment stressing the body's defence systems. This exposure is ever increasing, the degradation of our food, needing "supplements" to replace the lack of nutritional elements available. In addition, these toxins are present in our air, our water and our homes. We are also being bombarded by EMF's, which will create an extra stress.
 
 We are also very lacking in the arena of knowing what the effect of multiple toxins are on our bodies. There is even the possibility that the EMF's will affect the way in which these chemicals interface with our bodies and our environment. And we continue to increase the exposure to them year by year.
+
+## Magic of Technology
+
+> The extent to which you wish to give to the Creator, will be the extent to which you gain satisfaction with what you do.
+
+We’re really losing it. The symbol of a raised hand, nails manicured to perfection. White, soft holding a small, almost heart-shaped device, with a small space at the bottom, and a flattened top. It has a small, square screen in the middle. It is “the no-fuss mobile Info” device. When you are in the city, you can get a list of restaurants, directions, and events around the city… what happened to spontaneity? We will not have to talk to people to get directions anymore. Will the experience be enhanced, as technology always claims?
+
+It is as if we have become fascinated with our own magic. And it is magical, the life we live. Talking to one another over long distances. Watching pictorial and aural representations projected over huge areas and distances, making a kind of ritual out of it. For we can all experience the same moments through the commonality of TV. It is similar to the Passover ritual for the Jews, where there are millions of people all over the world, who will be celebrating the same event, in very similar ways, reading the same story, eating similar food. Investigating the outer and inner reaches of the universe we are aware of, with tools and mechanisms, that only the high priests of science can understand.
+
+The rest of us, are just recipients of their vision. And live like rats in a cage that the Lords of Society have fashioned for us to be experimented upon. Our consciousness has been turned upon ourselves, and we are not aware of the society we are fashioning. For it is no longer a singular absolute decision that we can make, but one that will affect every part of the system. This is what our high priests are reporting back to us.
+
+The same burning desire to understand the world around us. The same willingness to sacrifice everything, even themselves to understand it. In the same fashion, did the witchdoctors and priests of yore explore. And so did the rest of us listen, as we are listening now. Always with the distraction of the one’s hungry for power. The Dark Lords that tempt us, and project and reflect our own dark desires, our own hunger to fulfil our every fantasy, even the darkest. The ones who live the life we fantasize about, so we produce the blessed ones of our desire to be recognized. Here, it is even more important to separate the _Yetzer Ha’Rah_ from the _Yetzer Ha’Tov_, the good from the evil. There is a huge difference of the impact between a famous ware hero and an infamous psychopath – the one a sanctioned, the other an unsanctioned killer – both are expressions of our dark side.
+
+## Ghetto
+
+It is not the fact that they are collecting information about us. It is the intention behind the collecting of information, the purpose behind the action. (This is another example of the differential/integral model. The direction is the collection of information. The use of that information is the integral function.)
+
+The reason they want all this information, is not to help you (that is a side effect of the main purpose. If they do help you, then they may get your business, for their service or product becomes a perceived value add.), but to make a profit. Here is where we become the rats in the cage, our only purpose in life, as perceived by the marketeers, is to benefit their company and make them rich and profitable. For that is the ultimate purpose of existence as defined by this culture. The US having brought this motif to the level of an art form, using all the science and technology that they can muster.
+
+This has to change to be used for the benefit of us all. To track and monitor our habits desires and needs. Our purpose in life should be to ensure that we all have the means with which to express these desires and fulfil our needs, hopefully in a positive and constructive manner. Though if our ethic has changed to be one of aiding one another to achieve this, and we are rewarded appropriately, so that it becomes worth our while, and we receive the recognition that all of us yearn for, I think we will begin to see less and less incidents of destructive and non-productive behaviour patterns.
+
+For example, there is a group in New York City of organic farmers that began to give out free fresh fruit and vegetables in the poverty stricken areas of the 5 boroughs. By feeding the people, and eventually providing them with work, the crime rate in the area dropped, to the level that the city noticed, and began to support them financially, and use the police to help them distribute the food. Apparently, now that the people did not have to deal in drugs to feed their family, they stopped doing so. Also, now that the kids saw that there were other ways of earning a living, besides drug dealing, which was the only way of getting ahead in the ghetto, they began to take to it.
+
+## Power
+
+They see how powerful someone or some nation is and they aspire to obtain some of this power. This is the dynamic of those that desire power. So they will cater to those that have the power. So eventually one has a concentration of power (and money) in the hands of an ogligarchy with a larger and larger segment of the population being disempowered. Because this elite has a lion share of the power, they can influence such things as the information flow, and thus public opinion and actions.
+
+## Culpibility
+
+2001 8:10 AM
+
+It seems that in large bureaucratic institutions there is no culpability. Or rather, it seems a fact of life that there when the amount of people participating in an organized structure reaches a specific threshold, the actions of the structure become somewhat removed from the reality or consequences of their actions.
+
+In order to effect change, one has to find those responsible for the issue in question. How does one even go about that? Once one has found this person or people, if you raise the issue, you will always get a lot of justifications as to why it is that way. For there is always a way for us to justify almost any action depending on the circumstances. The proof of that is in the history of all that has happened already.

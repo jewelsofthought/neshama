@@ -4,9 +4,11 @@ description: Useful pieces needed for the md coding
 tags: null
 date: 2000-11-05T01:33:06.076Z
 eleventyExcludeFromCollections: true
+layout: layouts/home.njk
 ---
 
-<blockquote dir="rtl">
+<blockquote>
+<bdo dir="rtl">  </bdo>
   <p dir="ltr"></p>
 </blockquote>
 
@@ -17,4 +19,128 @@ eleventyExcludeFromCollections: true
   <figcaption></figcaption>
 </figure>
 
-<p>Not equal (&#x2260;) is unicode <code>&#x2260;</code></p>
+<details>
+  <summary class="button is-outlined">
+    Note:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+  </summary>
+  <p></p>
+</details>
+
+<hr />
+
+
+<h3>Info</h3>
+
+<code>
+  BDI stands for Bi-Directional Isolation.
+
+  The <bdi></code> tag isolates a part of text that might be formatted in a different direction   from other text outside it. This element is useful when embedding user-generated content with an unknown text direction.
+</code>
+
+<code>
+  BDO stands for Bi-Directional Override.
+
+  The <bdo> tag is used to override the current text direction.
+
+</code>
+<code>
+  The <cite> tag defines the title of a creative work (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.).
+
+  The text in the <cite> element usually renders in italic.
+</code>
+
+<code>
+  The <main> tag specifies the main content of a document.
+
+  The content inside the <main> element should be unique to the document. It should not contain any content that is repeated across documents such as sidebars, navigation links, copyright information, site logos, and search forms.
+
+  Note: There must not be more than one <main> element in a document. The <main> element must NOT be a descendant of an <article>, <aside>, <footer>, <header>, or <nav> element.
+</code>
+
+<code>
+The <mark> tag defines text that should be marked or highlighted.
+</code>
+
+<code>
+  The <pre> tag defines preformatted text.
+
+  Text in a <pre> element is displayed in a fixed-width font, and the text preserves both spaces and line breaks. The text will be displayed exactly as written in the HTML source code.
+</code>
+
+<code>
+  The <q> tag defines a short quotation. Browsers normally insert quotation marks around the quotation.
+
+  Tip: Use <blockquote> for long quotations. 
+</code>
+  <hr />
+
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Symbol</th>
+      <th>Unicode (&)</th>
+    </tr>
+    <tr>
+      <td>Not equal</td>
+      <td>&#x2260;</td>
+      <td><code>#x2260;</code></td>
+    </tr>
+    <tr>
+      <td>Null set</td>
+      <td>&#x2205;</td>
+      <td><code>#x2205;</code></td>
+    </tr>
+    <tr>
+      <td>Intersection Sign</td>
+      <td>&#x2229;</td>
+      <td><code>#x2229;</code></td>
+    </tr>
+    <tr>
+      <td>Union Sign</td>
+      <td>&#x222a;</td>
+      <td><code>#x222a;</code></td>
+    </tr>
+  </table>
+</bdi>
+
+<hr />
+
+https://www.w3schools.com/graphics/canvas_intro.asp
+
+<p>Image to use:</p>
+
+<img id="scream" width="220" height="277"
+src="pic_the_scream.jpg" alt="The Scream">
+
+<p>Canvas:</p>
+
+<canvas id="myCanvas" width="240" height="297"
+style="border:1px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.
+</canvas>
+
+<script>
+window.onload = function() {
+    var canvas = document.getElementById("myCanvas");
+    var ctx = canvas.getContext("2d");
+    var img = document.getElementById("scream");
+   ctx.drawImage(img, 10, 10);
+};
+</script>
+
+<hr />
+
+<script>
+const para = document.querySelector("div");
+const btn = document.querySelector('button');
+
+btn.addEventListener('click', ()=>{
+  para.classList.toggle('display-toggle')
+})
+</script>
+
+<style>
+.visibility-toggle {
+    visibility: hidden;
+}
+</style>

@@ -28,30 +28,32 @@ modified: 2022-09-14T15:56:13.090Z
 17. [Note on language](#note-on-language)
 18. [Aberrant behaviour](#aberrant-behaviour)
 19. [Topology](#topology)
-20. [Infinity](#infinity)
-21. [Ultimate Good](#ultimate-good)
-22. [Faith](#faith)
-23. [Meditation](#meditation)
-24. [Love](#love)
-25. [Finite Beings](#finite-beings)
-26. [Snake](#snake)
-27. [Context](#context)
-28. [Perception](#perception)
-29. [Evolution](#evolution)
-30. [Here \& now](#here--now)
-31. [Pleasing the Creator](#pleasing-the-creator)
-32. [Devotion](#devotion)
-33. [Mercy](#mercy)
-34. [Free will](#free-will)
-35. [Freedom](#freedom)
-36. [Superiority](#superiority)
-37. [Spiritual foundation](#spiritual-foundation)
-38. [Spiral in time](#spiral-in-time)
-39. [M\&F](#mf)
-40. [Messiahs](#messiahs)
-41. [Nature](#nature)
+20. [Ultimate Good](#ultimate-good)
+21. [Faith](#faith)
+22. [Meditation](#meditation)
+23. [Love](#love)
+24. [Finite Beings](#finite-beings)
+25. [Snake](#snake)
+26. [Context](#context)
+27. [Perception](#perception)
+28. [Evolution](#evolution)
+29. [Here \& now](#here--now)
+30. [Pleasing the Creator](#pleasing-the-creator)
+31. [Devotion](#devotion)
+32. [Mercy](#mercy)
+33. [Free will](#free-will)
+34. [Freedom](#freedom)
+35. [Superiority](#superiority)
+36. [Spiritual foundation](#spiritual-foundation)
+37. [Spiral in time](#spiral-in-time)
+38. [M\&F](#mf)
+39. [Messiahs](#messiahs)
+40. [Nature](#nature)
     1. [Water](#water)
-42. [Temple](#temple)
+41. [Temple](#temple)
+42. [Forced](#forced)
+43. [Relationship](#relationship)
+44. [Natural Laws / Divine Laws](#natural-laws--divine-laws)
 
 {% endblock %}
 
@@ -72,6 +74,8 @@ modified: 2022-09-14T15:56:13.090Z
 > During the growing phase , your gift is your tool. If it becomes a weapon, then you will live by the rule of the sword.
 
 > Eldership is attained/ordained when you gain the wisdom of your gift. Which is expressed in gratitude: "I have been granted my portion." That is "I have been blessed with the gift of ...".
+
+> We don't look for a religion. I have a destination, and I will take the path that will best lead me to my destination, not taking into account the influential effects of my destiny.
 
 ## All change can only happen via יהוה
 
@@ -199,14 +203,6 @@ All aberrant behaviour occurs due to an "unnatural", excessive or unnecessary co
 
 If one is of a specific shape, then that defines one's topology which will define a certain relationship with the world around one.
 
-## Infinity
-
-If we accept it all as infinite i.e. pieces of infinity, we accept G-d. Anything less is idolatry. Acceptin a system, a thing, an idea or a person as absolute and self-evident, is selling yourself short.
-
-We can only accept infinity in brief moments, if at all.
-
-By acknowledging the infinite, we accept that there is always another way. This is the path of the warrior, the explorer. Accepting the infinite in your life, making it manifest in the world around your &mdash; that is the way of spirit.
-
 ## Ultimate Good
 
 > The Supernal rests only on what is surrendered to him.
@@ -248,10 +244,6 @@ Meditation that does not lead to clarification of commitment & action is entirel
 ## Finite Beings
 
 If we are finite beings, and although fashioned from the cloth/image of the Infinite Supernal Being, we are enclosed in a finite "vehicle", perhaps there is a part of G-d's desire that would like His "children" to return to Him, as is often said in the Biblical readings. The only way to know the path to His door, is through receiving that part of each of us where He exists. Thus, I say, in each finite being there is a piece of the infinite, otherwise we could never have encountered the paradoxical idea of the existence of the finite within the infinite.
-
-<p class="note">
-{NOTE: Is it that each number, being a part of the infinite of numbers, must also have an infinity with it. Therefore, must there be "infinity" in every number as well? Is it an iff? If every number is part of the infinite set of numbers, is not infinity a "part" (that we might have to label a composite, as we do not have the words to express the infinite that must then exist in every finite part that is a piece of that infinite whole. The meditation on that is that after you have cut the pie into pieces, is it not still a whole pie. Even if each piece is devoured, they still would still, "theoretically", make up the whole pie&mdash;of course, if they would need to be "reconstituted". My question is, however, how do we express that whole that exists in each piece.}
-</p>
 
 ## Snake
 
@@ -423,5 +415,32 @@ Do you know the Truth? Will you give your life to hold the Truth as your guiding
 "How do I discern what is the truth" you might ask? I say &mdash; if you have experienced It, you know It. The fear will dissappear.
 
 Always the Truth speaks, though it always speaks quietly, never shouting. It is referred to as that quiet inner voice. How often do you listen?
+
+## Forced
+
+If you are expected to uncritically accept something, then it is very likely that you are being force-fed a line of mysticism and superstition whose sole aim is to defraud you, possibly humiliate you and, in rare occurrences, cause harm to you. You are being asked to believe -- in the absence of all evidence -- that what some stranger is telling you is the truth just because that person says so.
+
+## Relationship
+
+Thoughts on why we need a sacred ritual to focus the sexual energy that the feminine is the recipient of:
+
+The masculine collects all this “sexual – creative energy that needs to be made manifest. For his direction is transformation from the spiritual to the material – from the crown chakra down to the sexual chakra, from Keter to Schinah. The feminine, the receptive, awaits this energy to enter into her and she is the medium in which the spiritual is made manifest. So, sexually, she accepts the gifting of the masculine into her very being. What should emerge from this is a child, but now when we have sex for other reasons, the creative energy will need to find another outlet. This often manifests in possessive emotional energy. She needs to be able to move the energy from the material to the spiritual. This is why we need the sacred ritual. The kundulini snake that will unwind the energy from the base of the spine into the heavens.
+
+Thoughts on nutrient absorption being a metaphor for male/female dynamics, or why we believe in the perfect partner…
+
+The cell needs certain nutrients. It creates a protein receptor, a huge, macro-molecule, which then emerges from the cell wall. Its roots in the primal fluid within which the cell lives, its head in the universal fluid that surrounds the cell. There it waits, a receptor, listening to all the sounds, all the calls, all the music of the spheres that surrounds it. It gets enchanted sometime. But if it is healthy, and in alignement, it will recognize the sign it is listening for, and then it will morph, and change itself, to begin to send out the vibrational energy to pull this nutrient into it’s being. It does not know from anything except the musical vibrations whether it will fit or not. Assuming, balance and perfection, it will fit like a glove to a hand, the key that opens up the doorway to the core of the cell. There it will be consumed and in it’s giving aid the cell in its life and journey. It is why the masculine seeks annihilation, for through that there is transformation. And the creative journey is one of annihilation, transformation and creation.
+
+A moment on the cell that is a little off center – emotionally, or otherwise, then the protein will accept a substitute, perhaps something that is close, and bring it in. This will provide some nutrition, but there will be a side effect. Thus needing more than is healthy of this nutrient, you will have an allergic reaction to it, or it will hurt you.
+
+## Natural Laws / Divine Laws
+
+> “laws of the solar system as derived from the five regular solids… was the result of divine law, interpreted not just as a geometrical but also as a mystical harmony..”
+> &nbsp;&nbsp;&nbsp; Mystic, Mysticism and Magic – Joscelyn Godwin p148 – Johannes Kepler
+
+brought me to the following:
+
+1. All laws, even those that are “scientific” are expressions of divine law. For instance, the laws of gravity, are Divine laws.
+2. To look at one’s life in that manner, seeing that one is contained in sorroundings filled with G-d’s laws. And that every action is a dialogue (a negotiation) with these Divine laws.
+3. That is how science co-opted religion so completely. Because these were mystics who penetrated the secrets of the universe, under the banner of science, and not under the banner of being mystics. They never for a moment thought that they were not penetrating the mind of G-d, which was, to their minds, a holy quest. So the “laws” that they “discovered” were accepted scientifically, and not mystically. Though, by the masses, they realised that they were actually mystical.
 
 {% endblock %}

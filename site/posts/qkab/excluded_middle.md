@@ -1,5 +1,5 @@
 ---
-title: The excluded middle
+title: The Excluded Middle
 description: The bifurcation of the excluded middle
 tags: [science]
 date: 2015-01-05T24:03:16.154Z
@@ -8,13 +8,13 @@ modified: 2022-05-30T17:32:18.974Z
 
 ## Principle of negation
 
-> If $$P$$ then there exists a $$\neg{P}$$.
+> If P then there exists a not-P
 
 This states for every thing that exists there exists is an negative, an opposite. "For every action, there is an equal and opposite reaction"; "For every this, there is a that".
 
 ### Excluded middle
 
-> For every $$P$$, there is a $$\neg{P}$$ such that $$\neg(\neg{P}) = P$$
+> For every P, there is a not-P such that not-(not-P) = P
 
 This is a stronger case, it proposes that there for every this, there is an equal that. In other words, one can pass from the one to the other, and there is nothing else inbetween the two. This is a strong philosophical position, on which most of modern mathematical proofs are based. Now, in the realm of mathematics, the realm of ideals and thought, in which a certain purity is maintained, this might be possible. However, the real world, the world of existence is just not so neat, and there are many examples of this not being true.
 
@@ -22,7 +22,7 @@ In fact, for many experiments to be able to take place, one needs to ignore all 
 
 ## Included middle
 
-> Between $$P$$ &amp; $$\neg P$$, there are infinite possibilities.
+> Between P &amp; not-P, there are infinite possibilities.
 
 The excluded middle is just one possibility. Just as between any two points there are an infinite amount of lines possible, with the straight line&mdash;the one that is most convenient to us&mdash;being a single specific case.
 

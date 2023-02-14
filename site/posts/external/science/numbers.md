@@ -1,5 +1,5 @@
 ---
-title: Numbers
+title: Numbers - Irrational & Transcendent
 description: Explanations of irrational and transcendental numbers.
 tags: [qkab, external]
 date: 2005-03-13T17:20:34.413Z

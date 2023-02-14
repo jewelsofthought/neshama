@@ -78,26 +78,6 @@ The ego and the mind also have their place, otherwise we would not able to put a
 
 ## Infinity (Neshama/shaman)
 
-> “What is to give light must endure burning.” (Viktor Frankl)
-
-Intense thoughts about infinity in the last couple of days.
-
-What is infinity? What do you think it is? How would you describe it? I am thinking about it in particular as a defining characteristic of the Divine. Remember too we are talking about The Divine Infinity – which means infinity in every and all directions at every moment.
-
-&nbsp;&nbsp; \* \* \*
-
-Now, choose a point in your consciousness. See it. Feel it. Hold it. Make it your centre. Now, holding that take that point, let it begin moving away from you - in any direction. As any direction you choose is right.
-
-Holding your place and move with the point as well, expanding with it. Stay with this feeling for a while. Now lets continue moving further and further with it.
-
-Remember, you have not moved – just your awareness, expanding to encompass this point and holding the original center.
-
-Looking at this point, you will notice that it has defined a line from its origin to where it is presently. See how your consciousness can traverse that line, and all the points in between. Explore this a moment. Play with it. Watch it undulate, breath, hold itself. Watch it pulsate, for it has to have energy to exist.
-
-Enough for now. Let us continue on our journey to infinity. The point is continuing to move, further and further. Now it is moving faster and faster, whizzing out further than ever before. Stretch, stretch with it. Keep the line. Keep the information and energy flowing. Is there something infinite in you that can keep going, or do you have to stop?
-
-Well, know that beyond that point lies infinity. Remember, that no matter how far you go, just beyond is the zone wherein you will find the infinite in all its glory.
-
 I am not sure whether you said you liked physics or not. But perhaps this will help.
 
 When we see how many absolute miracles of fine-tuning were necessary for a universe and sentient beings to manifest, it becomes a semantic quibble whether you invoke “the laws of physics” or “God”, because they share the same divine powers of manifestation
