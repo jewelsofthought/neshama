@@ -12,4 +12,5 @@ source/
 *.tar
 *.bkp
 .alphabet
-
+rtl.html
+site/_data/rtl.html
