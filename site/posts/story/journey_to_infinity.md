@@ -23,8 +23,9 @@ stars: '****'
    3. [Individual(ized)](#individualized)
    4. [**רצון התוב ורצון הרא** — The good impulse and the bad impulse](#רצון-התוב-ורצון-הרא--the-good-impulse-and-the-bad-impulse)
 6. [So gravity is the breath of God that I breath in order to live](#so-gravity-is-the-breath-of-god-that-i-breath-in-order-to-live)
-7. [For we are reaching for the union with the one, as expressed above](#for-we-are-reaching-for-the-union-with-the-one-as-expressed-above)
-8. [3  hod, 4  netzach](#3--hod-4--netzach)
+7. [Exercise 1 - What is infinity](#exercise-1---what-is-infinity)
+8. [For we are reaching for the union with the one, as expressed above](#for-we-are-reaching-for-the-union-with-the-one-as-expressed-above)
+9. [3  hod, 4  netzach](#3--hod-4--netzach)
 
 <div class="poem">
 
@@ -125,10 +126,10 @@ working for the greater gift of All.[^2]
 **Breathe, breathe, breathe.**
 
 Every breath changes everything.
-All is interconnected.
-Move one iota and
-The configuration of the whole
-Universe changes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All is interconnected.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move one iota and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The configuration of the whole
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universe changes.
 
 </div>
 
@@ -300,9 +301,9 @@ However, it is that if there is a large enough differential from {['this' to 'th
 <p> This is actually an expression of the love that is shared by the universe. Also known as the law of attraction. The law of gravity being a specific example of that occurring between two bodies. But an analysis will show that if there is a large body, and a small body, the large body would like to attain a lower level of energy (or a greater degree of comfort), and by attracting a lower energy element, a small object, it will lower its gravitational dynamic.</p>
 </details>
 
-…
+---
 
-So, starting from the axiom of existence, that something, let’s call it S, exists. If S is finite, then there is ~S that is all that S is not, and thus will be Infinite. This is of course based on the assumption that the totality of everything is infinite.
+Starting from the axiom of existence, something, let’s call it I, exists. If I is finite, then there is ~I that is all that I is not, and thus will be Infinite. This is of course based on the assumption that the totality of everything is infinite.
 
 Having let the “infinite” cat out of the bag, there is no going back. Once, having conceived of infinity, we cannot but know that surrounding every finite being, there must be an infinite “beingness” or “not-beingness”, if you prefer.
 
@@ -315,8 +316,9 @@ A moment on this concept of constraint (_Tzimtzum_). If one accepts the concept 
 There are two lines of thoughts regarding this.
 
 1. The finite already exists in the infinite, and just emerges.
-   We arrive here at the same place as we ended For now, I ask, how or what recognized the finite? In other words, what part of the infinite was “trained” or “programmed” to know be able to perceive the finite, when all it had know up till then was infinite? And as finite beings, all we know is the finite.
-2. Even though it might require an infinite constraint to constrain infinity, we immediately emerge into a verbal landscape that is littered with paradoxes and contradictions. For, what is infinity actually? Can one even speak of infinity without the concept of finite? Do they emerge together? Can the one exist without the other?
+   We arrive here at the same place as we ended For now, I ask, how or what recognized the finite? In other words, what part of the infinite was “trained” or “programmed” to know be able to perceive the finite, when all it had know up till then was infinite? As finite beings, all we know is the finite.
+2. The infinite already exists in the finite.
+3. Even though it might require an infinite constraint to constrain infinity, we immediately emerge into a verbal landscape that is littered with paradoxes and contradictions. For, what is infinity actually? Can one even speak of infinity without the concept of finite? Do they emerge together? Can the one exist without the other?
 
 In one way, having more than one infinite element – or even an unknown amount – we then could have an infinite amount of infinities. For instance, we do not know how many stars there are in the universe – though we assume that it is finite. But we do not know how many universes there are! We do not know how many numbers there are on the number line, but we do know it is infinite.
 
@@ -326,19 +328,46 @@ In the opposite direction it is more difficult. If there is only the infinite, h
 
 ### Infinite but bounded
 
-Now having mentioned bounded, we come up with an interesting confusion just about now. For we can then introduce the concept of infinite but bounded. The simplest example of this concept is a circle.
+We now introduce the concept of infinite but bounded. The simplest example of this concept is a circle.
 
 For one can continue along or around the circle forever, and never reach the end. Yet the space that you are creating by your path is bounded. However, is that space finite or not? If you filling it with one-dimensional (1d) points then it would eventually fill up. If you decided to use two dimensions (2d), introducing measurement along the plane, how long would it take for this to fill? If one extended it to 3d, how many possibilities would emerge? What if it one extended it into other dimensions? In other words, create a narrative, then how long would it take for this to fill that space?
 
-Would it not be possible to make certain predictions of behaviour if one tracked people’s narratives that way? Would one not begin to have certain mappings, certain responses that one would be able to identify? Research shows that it would collapse at each juncture to a relatively small number of possibilities.
+<details>
+  <summary class="button is-outlined">
+    Predictive Behaviour:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+  </summary>
+<p>Would it not be possible to make certain predictions of behaviour if one tracked people’s narratives that way? Would one not begin to have certain mappings, certain responses that one would be able to identify? Research shows that it would collapse at each juncture to a relatively small number of possibilities.</p>
+<p>
+This is a whole new area of activity to investigate. A predictive algorithm based on behavior patterns from the past. But over time, would it not be possible to see the same patterns emerging. I am not sure of the variance here, but I don’t think it will be large.</p>
+
+<p>That previous paragraph was written in the late 90's. Time has shown that to be correct, with Cambridge Analytics, Google, Facebook, etc and their gathering of data on people, and then using AI for predicting behaviour. Also, by controlling the narrative, one can also shape people behaviour, by stimulating certain proclivities and suppressing others.</p>
+
+</details>
 
 ### <i>Merkava</i>
 
-Now I take this diversion, because this is where we begin to envisage the concept of the _Merkava_, as the double tetrahedron, or three-dimensional (3d) Star of David, that spins in the circle. It starts off with its apexes on the circumference of the circle. But it can shrink along either or both its axes, as well as swing around, filling and “defining” the space – but also setting up resonances in it, that may affect many things regarding its dynamics. It will affect the frequencies that it will be sending out, and those that it will be able to receive.
+<figure style="float: right">
+  <img src="/posts/img/Tetrahedron%203d-200x200.jpg" alt="Tetrahedron" width="100" height="100" />
+  <figcaption>Tetrahedron</figcaption>
+</figure>
+
+This is where we begin to envisage the concept of the _Merkava_, as the double tetrahedron, or three-dimensional (3d) Star of David, that spins in the circle. It starts off with its apexes on the circumference of the circle. But it can shrink along either or both its axes, as well as swing around, filling and “defining” the space – but also setting up resonances in it, that may affect many things regarding its dynamics. It will affect the frequencies that it will be sending out, and those that it will be able to receive.
+
+<figure style="float: right">
+  <img src="/posts/img/Merkaba%20clean-200x200.jpg" alt="Merkava clean" width="100" height="100" />
+  <figcaption>Merkava</figcaption>
+</figure>
 
 It is similar to a gyroscope in its effect. There is an inner balance that retains our _axis mundi_ upon which all other axes rely. If that gets damaged in any way, then we “lose our way”. Sometimes it is just knocked off its axis, and needs a short while to rebalance. Other times it is actually damaged and needs repair. The cause of this damage is generally “stinking thinking”.
 
-As the circle approaches infinity, you would think that you are on an infinitely long line, and would not be able to differentiate-. However, if I was a giant from another planet, or had a strong telescope, I would be able to discern that it was actually a bounded circle upon which you were walking.
+As the circle approaches infinity, you would think that you are on an infinitely long line, and would not be able to differentiate. However, if I was a giant from another planet, or had a strong telescope, I would be able to discern that it was actually a bounded circle upon which you were walking.
+
+<details>
+  <summary class="button is-outlined">
+    Flat Earth:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+  </summary>
+  <p>I wonder if this is the confusion upon which the flat earther's inclination is based!</p>
+</details>
 
 This opens up the idea that it is possible for us, as limited and bounded, as finite as we are, to contain some infinite elements of existence. As was noted above, we would need to connect infinity and nothingness at the same space-time point &mdash; which would require nothing less than pure consciousness. As T.S. Eliot stated “a place of complete simplicity, costing not less than everything”.
 
@@ -348,142 +377,172 @@ Mathematics can show that at infinity a circle becomes a straight line (although
 
 Once we have more than one element, we can begin to discuss the relationship between each of them.
 
-If we propose two points, A & B, and both are static, then whatever relationship there exists, will be static too.
+If we propose two points, A & B, and both are static, then whatever connection there exists, will be static too. Although the channel that connects them might be dynamic, the conduit remains the same "length". There is also a ~A, or not-A, in which B exists. We also note that there is the concept of a Universe, U, consisting of A &#x222a; ~A. A requirement is also that A & B are disjoint or A &#x2229; B = &#x2205;. In other words they are completely separate and there is no element/part of A that is in B, and vice-versa.
 
-Now, if B happens to be on the move, so B moves in on A’s space, ~A, and fills it. It is clear that we need another level of observation in order to identify this interaction. Let’s call it U for Universe. Let’s also have A′, which is the “superset” of A, consisting of A union ~A
+Now, if B happens to move, it will move in A’s not-space, ~A. Although B has not changed (except for position), however, ~B, or not B, &mdash; the space which B vacated has changed! In fact, the whole universe is now different – and we have no means with which to ever measure that. How disappointing. Our sages say: “The very act of measuring changes what is being measured,” bolstered by the conclusion that quantum mechanics has reached concerning the influence of an observer on the event.
 
-Now there is ~B, not B &mdash; the space which B vacated. So the whole universe is now different – and we have no means with which to ever measure that. How disappointing. Our sages say: “The very act of measuring changes what is being measured,” bolstered by the conclusion that quantum mechanics has reached concerning the influence of an observer on the event. Concluding from this that “It is all connected.”
+In fact, the conclusion from all of this that “It is all connected.” If we see things as disjoint, or separate, it is because we do not have the ability to see all the connections that are there.
 
 Think of it as in huge, complex chess game, what Herman Hesse called ‘The Glass Bead Game’. You move one piece. The whole game changes. The whole game.
 
 ---
 
-(29x) The place we begin our journey to infinity is, strangely enough in the arms of nothing, the ultimate demise of infinity. For how can infinity know itself? Does it not need something finite to recognize itself? Something finite to contain the recognition, even of greater and lessor infinities?
-
+<details>
+  <summary class="button is-danger is-outlined">
+    Repeat:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+  </summary>
+  <p>(29x) The place we begin our journey to infinity is, strangely enough in the arms of nothing, the ultimate demise of infinity. For how can infinity know itself? Does it not need something finite to recognize itself? Something finite to contain the recognition, even of greater and lessor infinities?</p>
+<p>
 As a starting place, we invoke the Axiom of Existence. This axiom says, simply, that something exists. That I believe we can all agree on.
-
+</p><p>
 Firstly we define our universe, U. This encompasses everything that is, was or will be and everything else. Beginning with something, let us say that there exists a set S in U. ~S is then defined as all elements in U that are not in S.
-
+</p><p>
 Beginning with something, S, then ø (the null set) is whatever remains after we have removed everything that was there. That is S – S = ø.
-
+</p><p>
 If we define S as the collection of all somethings in the universe, and we call the Universe U, then if we remove S from U, U – S, what are we left with? A universe, U, that is “something else” that contains no “somethings”?
-
+</p><p>
 A better way to look at it is, let U consist of S &#x222a; ~S, this would include everything and as S &#x2229; ~S = ø, we have arrived at the concept of the null set, the ultimate empty set.
-
+</p><p>
 If we remove both S & ~S from U, will we not also get an empty set? So, what we are left with is after we remove everything from the universe, it equals the emptiness. Bringing us to the conclusion that U is at its core the empty set.
-
+</p><p>
 We arrive at one of the core questions of humanity, the mystery of creation. How is it that out of nothing came something? How can something exist in nothing? _Ex nihilo_, ø – the empty set, nothingness?
+</p><p>
+First we need to agree on the existence of ø, the empty set or nothing.</p>
+</details>
 
-First we need to agree on the existence of ø, the empty set or nothing.
+</div>
 
 ### Individual(ized)
 
-Here ‘a’ is the positive side, and ‘–a’ is the negative (dark or shadow) side. We could also think of it as ‘1’, and ‘–1’, where ‘1’ represents the positive individuation, and the ‘–1’ the negative.
+Here ‘+’ is the positive side, and ‘–’ is the negative (dark or shadow) side. We could also think of it as ‘I’, and ‘–I’, where ‘I’ represents the positive individuation, and the ‘–I’ the negative.
 
 ### **רצון התוב ורצון הרא** &mdash; The good impulse and the bad impulse
 
-Now, the influence of the ‘1’ on ‘a’ () does not change ‘a’ at all. Whereas the influence of () produces the negative, brings out the shadow. The hidden side, the below the line aspect.
+Thinking of multiplication, '\*', as the "influence" that is exerted, as it is a form of bonding, the influence of the ‘1’ on some other element, like ‘a’ does not change ‘a’ at all. Whereas the influence of -1 produces the negative, brings out the shadow &mdash; the hidden side, the below the line aspect.
 
-I propose that ‘x’ is like force, and ‘+’ is like form. ‘+’ tends to be sequential, more cumulative. ‘x’ is more transformative. It can affect the very nature of the object of its attention.
+I propose that ‘\*’ is like force, and ‘+’ is like form. ‘+’ tends to be sequential, more cumulative, whereas 'x’ is more transformative. It can affect the very nature of the object of its attention.
 
-When in shadow, the light does not help (for ) However, by adding a piece that is equal in mass to the sin, creates the space for change.
--1 + +1 = 0.
+{When in shadow, the light does not help (for ) However, by adding a piece that is equal in mass to the sin, creates the space for change.
+-1 + +1 = 0.}
 
-Looking at the operations. ‘+’ is the positive force. ‘-‘ represents the negative force. ‘x’ and ‘’ are two separate actions. One is the assembly, the transformation, the other is the splintering, the separation, the reduction. They are not appended to a number (symbol) as such to give it extra meaning.
+Looking at the operations. ‘+’ is the positive force. ‘-‘ represents the negative force. ‘\*’ and ‘/’ are two complimentary actions. One is the assembly, the transformation, the other is the splintering, the separation, the reduction. They are not appended to a number (symbol) as such to give it extra meaning.
 
-We can get even more esoteric. Two wrongs cancel one another out, but do not make it right! In fact, to express it more humanely, we could say that when in error, you need another error to correct the journey to correct the first. It is only through the negation of the negative that we can find the positive. This is the principle of non-rationality.
+We can get even more esoteric. Two wrongs cancel one another out, but do not make it right! In fact, to express it more humanely, we could say that when in error, you need another asymmetry, something unexpected, to correct the journey, by countering the first. It is only through the negation of the negative that we can find the positive. This is the principle of non-rationality.
 
-Another way, to look at it is that whereas + (addition) is cumulative, and speaks of good deeds, x (multiplication) is transformational. However, it seems strange to come to the conclusion that (negative times negative) ‘– x – = +’. It states that the negative influence on another negative, transforms it into a +, and this is not true – or is it? A fire is a negative, and it destroys the surroundings, but it produces a positive result for nature. A fire ( – ) when constrained (– ) produces heat that can be harnessed, a positive (+). In fact, it would be more consistent to have -1 x -1 = -1, and +1 \* -1 = -1, and +1 x +1 = 1. Which is more like the state of the world, 75% negative, and 25% positive.
+Another way, to look at it is that whereas '+' is cumulative, and speaks of good deeds, '\*' is transformative. However, it seems strange to come to the conclusion that (negative times negative) ‘– \* – = +’. It states that the negative influence on another negative, transforms it into a '+', and this is not true – or is it? A fire is a negative, and it destroys the surroundings, but it produces a positive result for nature. A fire ('–') when constrained ('–') produces heat that can be harnessed, a positive ('+'). In fact, it would be more consistent to have -1 \* -1 = -1, and +1 \* -1 = -1, and +1 \* +1 = 1. Which is more like the state of the world, 75% negative, and 25% positive. This is also the XOR logic.
+|Add/Sub|Multiplication|
+| --- | --- |
+|_Positive_| _+1_ |
+|0 + 0 = 0 |0 \* 0 = 0|
+|0 + 1 = 1 |0 \* 1 = 0|
+|1 + 1 = 2 |1 \* 1 = 1|
+|_Negative_ |_-1_|
+|0 - 0 = 0 |0 \* 0 = 0|
+|0 + -1 = -1| 0 \* -1 = 0 |
+|1 + -1 = 0 |-1 \* -1 = 1|
+|-1 + -1 = -2 | -1 \* 1 = -1 |
 
-0 + 0 = 0 0 _ 0 = 0
-1 + 0 = 1 0 _ 1 = 0
-1 + 1 = 0 1 \* 1 = 1
-
-This is the concept of sin in Judaism. The chet (sin) that is described rather as missing the mark, requiring constant readjustment and more practice till the target can be attained with some degree of accuracy.
+This is the concept of sin (_chet_) in Judaism, described as missing the mark. Somethin that requires constant readjustment and practice till the target can be attained with some degree of accuracy.
 
 The adjustment necessary is not towards the mark, but the negative of the negative, which is towards the ‘+’ positive, in the vertical plane.
 
 On one hand we can take the slow road, the one of addition. Change the structure, as in -1 + 1 = 0. We will have arrived at the empty point, the point of transformation. Although pregnant with potential, though, nothing has yet transpired. We have just forgiven. We have made amends.
 
-However, if we apply force, that is intention. Clear intention, and energy, then we can transform this error, and return it to the service of HaShem. This is how the negative of a negative becomes a positive, -1 x -1 = 1. But we already knew that, didn’t we? It seems that the only way to extricate one from a bad situation is to embrace it so completely that you emerge somewhat from whatever it is. Another way to interpret the -1 x -1, is that the direction that you think you should be going in is incorrect, so you adjust it accordingly. Let’s say the ‘-‘ is indicative of 90° turn, so -1 x -1 would be a 180° turn, turning you completely around
+However, if we apply force, that is intention. Clear intention, and energy, then we can transform this error, and return it to the service of **HaShem**. This is how the negative of a negative becomes a positive, -1 \* -1 = 1. But we already knew that, didn’t we? It seems that the only way to extricate oneself from a bad situation is to embrace it so completely that you emerge from whatever it is. You accept (or submit) to the challenge, and instead of dispairing and feeding the dark, you embrace it, and thus transform it. Another way to interpret the -1 \* -1, is that the direction that you think you should be going in is incorrect, thus you have to adjust it accordingly. Let’s say the ‘-‘ is indicative of 90° turn, so -1 \* -1 would be a 180° turn, turning you completely around
 
-I need to point out here, that although we often write -1 = -1, assuming, under the guise of mathematics, that they are identical, in every way. This is once again a constriction that is necessary to be able to move about with relative ease in the realms of mathematics and its related disciplines, without getting lost. However, if you write -1 x -1 = 1, are all the ‘1’s the same? That is an assumption that we make, for the 1 is not the actual object, but indicative of an object. And yes, 1 of anything is the same as another 1 of that same thing. But the things that are referred to by the 1 are never the exact same. So, in the real world, although 1 orange plus another 1 orange will give us 2 oranges, each of those individual oranges are not equal, except in approximation – they are both “oranges”.7 Because we are unable to see or understand the difference between them, we assume that there is none. When we need explosions millions of a-bombs strong so that we can see anything? Even with our super sensitive equipment?. On the metaphysical level, each on of those ‘1’s are different, for they are standing in relation to one another. For instance, -1 = -1. That is a reflection. Even though they are the same reflection, the one is subject, the other object. Or is mathematics, the only language that can make sentences that have no subject and object? Now, that it is not willing to look at the meta-difference, the spatial and time difference between them, is a constraint of mathematics. Perhaps each photon that is produced, is 1. But then, once they enter into existence, they are different, individual.
+I need to point out here, that although we often write -1 = -1, assuming, under the guise of mathematics, that they are identical, in every way. This is once again a constriction that is necessary to be able to move about with relative ease in the realms of mathematics and its related disciplines, without getting lost. However, if you write -1 \* -1 = 1, are all the ‘1’s the same? That is an assumption that we make, for the 1 is not the actual object, but indicative of an object. Because the truth of the matter is that 1 of anything is never really the same as another 1, even if they are of that same thing. For the actual things are referred to by the 1 are never the exact same. In the real world, although 1 orange plus another 1 orange will give us 2 oranges, each of those individual oranges are not equal, except in approximation – they are both “oranges”.[^7] Because we are unable to see or understand the difference between them, we assume that there is none. On the metaphysical level, each on of those ‘1’s are different, for they are standing in relation to one another. For instance, -1 = -1 is a reflection. Even though they are the same reflection, the one is subject, the other object. Or is mathematics, the only language that can make sentences that have no subject and object?
 
-Another side note is to remember that the operators are verbs. Thus ‘+’ represents the positive force, and ‘-‘ the negative. + increases, - diminishes. + is the crossing, the transformation, the breaking through. – is the straight line, the uncaring, the unseeing, the absolute, only one way, I am right attitude.
+In fact, the use of mathematics abstracts out all the characteristics that individuate that particular item. Thus it is extremely useful for investigations that distance the investigator from the investigated. For instance, it is perfect for economic transactions, which have already succeeded in transforming real, individual items into numbers, which only speak of a sequence, or a key to other information.
 
-So if we went off the line by -1, we adjust by +1 to get back to the line. But only after we reach the line will we know that we are there, and would have to stop moving at this point. But there is an ongoing thrust (or else there is no line) and this thrust will cause us to overshoot the line, requiring say a -1 to return to the line again. So it will go, up and down, as represented by the sine wave. Thus this, so-called straight, line is an idealisation of nature and natural unfolding of events.
+Another side note is to remember that the operators are verbs. Thus ‘+’ represents the positive force, and ‘-‘ the negative. + increases, '-' diminishes. '+' is the crossing, the transformation, the breaking through. '–' is the straight line, the uncaring, the unseeing, the absolute, only one way, I am right attitude.
 
-Now, this is a different algebra, where -1 + -1 = 0 (and +1 + +1 = 0). In the conventional sense, -1 + 1 = 0. Thus we have to answer a negative deed with a positive response, to bring it into balance again (0 point). However, if we want it to express itself in the positive space, we need to add another piece, just as large, +1. So, -1 + 1 +1 = 1. That is why Jesus says, respond to the evil deed with love that is 70 times 70 greater than the deed.
+So if we went off the line by -1, we adjust by +1 to get back to the line. But only after we reach the line will we know that we are there, and would have to stop moving at this point. But there is an ongoing thrust (or else there is no line) and this thrust will cause us to overshoot the line, requiring say a -1 to return to the line again. So it will go, up and down, as represented by the sine wave. Thus this, so-called straight, line is an idealisation of nature and the natural unfolding of events.
+
+Now, this is a different algebra, where -1 + -1 = 0 (and +1 + +1 = 0). In the conventional sense, -1 + 1 = 0. Thus we have to answer a negative deed with a positive response, to bring it into balance again (0 point). However, if we want it to express itself in the positive space, we need to add another piece, just as large, +1. So, -1 + +1 = 1. That is why Jesus says, respond to the evil deed with love that is 70 times 70 greater than the deed.
 
 Because, if we stopped at 0, we would not be in the correct trajectory. So, we need to adjust by more than that, and we compensate by 1, knowing we will have to make another adjustment. This is what causes the “wobble”, the frequency adjustment, the “sine wave” ie the music of life. It is impossible to maintain the straight line. That is an idealization.
 
-What often happens though is we forget our original goal. That is why we need to access the timeless and non-spacial place in us. For the only way something can remain in time, is if it has a timeless element, the Divine spirit, in it. However to remember our original goal, our primordial purpose is – to serve the Source of Creation – is the most difficult task we face.
+What often happens though is we forget our original goal. That is why we need to access the timeless and non-spacial place in us. For the only way something can remain in time, is if it has a timeless element, the Divine spirit, in it. However to remember our original goal, our primordial purpose is to serve the Source of Creation – is the most difficult task we face.
 
 However, another element has entered – to experience the Divine with the Divine. In fact, when we have an experience of the Divine, being a part of the infinite source, we experience our self, together with the Divine. The reverberations of this moment of Grace last forever.
 
 Now, knowing we are not going to maintain a straight line to our goal.
+We know that the straight line is an idealization. Any manifest line has to deal with the material world, which will influence it.
 
-This is possible to demonstrate scientifically. We know that the straight line is an idealization. Any manifest line has to deal with the material world, which will influence it.
+The manifest world is the world of materiality. It is the Creator who creates the 1 from the 0, then bifurcating the 1 into 2, and from 2 into the many, emerging from the Infinite nothingness, into the Infite Oneness, which is our first and primary experience of the Infinite Being &mdash; the Oneness from which all is born. However, at that very instant, the -1, the element of “Darkness” is created too.
 
-The manifest world is the world of materiality. It is the Creator who creates the 1 from the 0, then bifurcating the 1 into 2, and from 2 into the many, emerging from the Infinite nothingness, into the unified Oneness, which is our first and primary experience of the Infinite Being, and that is the Oneness from which all is born. However, at that very instant, the -1, the element of “Darkness” is created too.
+Remember ‘\*’ works on another plane. It is one of union. What emerges from the union is the same no matter which one went first, whether negative or positive.
 
-I was getting into difficulties regarding ‘+’ and ‘’. However, ‘+’ is the action of emergence, whereas ‘’ is the operation of transformation.
-– no transformation.  
- – is the statement of the annihilation of 1 by 0.
-– is the negation of 1 by its shadow, the bottoming out. You need to find your exact shadow and in a sense “add” it to your repertoire, that is integrate it fully into your being to find the middle (0) line.
+It also states that if you unify with the dark forces, you will split and be trapped in a negative space. That is the negativity prevails. Interestingly enough, two negatives upon union, become a positive. So, completely good, or completely evil, the end is positive. So it is the imbalance that remains in the combination.
 
-[
-remember
-‘’ works on another plane. The  factor. It is one of union. What emerges from the union is the same no matter which one went first, whether negative or positive.
+Also, from this interaction, '\*', we produce the square root. From this we produce the complex, imaginary numbers (level 3?). This is in itself, an interesting investigation. One which we will put off for now.
 
-It also states that if you unify with the dark forces, you will split and be trapped in a negative space. That is . The negativity prevails. Interestingly enough, two negatives upon union, become a positive. So, completely good, or completely evil, the end is positive. So it is the imbalance that remains in the combination.
+Another interesting way to look at this, is that produces a downward (negative) parabola, whereas produces a positive one.
 
-Also, from this interaction, , we produce the square root. From this we produce the complex, imaginary numbers… (level 3?). This is in itself, an interesting investigation. One which we will put off for now.
-
-Another interesting way to look at this, is thatproduces a downward (negative) parabola, whereas produces a positive one.
-]
-
-The first, the original set in set theory is defined as the null-set. The set that contains nothing! What a contradiction. And, believe me, it took many years to get there. But that is the first, the original set. It is also symbolized as {}, or simply ø (notice the similarity to 0 (zero)).
-
+<details>
+  <summary class="button is-warning is-outlined">
+    Trash:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+  </summary>
+  <p>The first, the original set in set theory is defined as the null-set. The set that contains nothing! What a contradiction. And, believe me, it took many years to get there. But that is the first, the original set. It is also symbolized as {}, or simply ø (notice the similarity to 0 (zero)).
+</p><p>
 What do we see? It amazes me how often the symbology used to express stuff (in mathematics too), can be so descriptive of the nature of what is really being expressed here. Now the curly brackets are used to designate a set, as in {a} is the set containing the element, or member, ‘a’.
-
+</p><p>
 Now, we start in nothingness and only have {}. How appropriate that this is the mathematical representation for the empty set.
-
+</p><p>
 {ø} => a trilogy, op1 op2 op3
 => nothingness, ø is contained, limited by {} – time, a beginning and an end.
-
+</p><p>
 The first set is defined as the set containing the empty set, either {ø}, and the second set is defined as:
 { {ø}, {{ø}} },
 the set containing the empty set, and the set of the set containing the empty set.
-Let’s build that up …. first to human expression.
-Then if we have n elements,
-Sn = {1,2,….,n} or more accurately, Sn = { }
+</p><p>
+Let’s build that up …. first to human expression. Then if we have n elements, Sn = {1,2,….,n} or more accurately, Sn = { }
 We know that if ø Є Sn, the empty set is an element of Sn, thus we contain ø in us, in other words, we contain a piece of infinity in all of us. we all contain a piece of nothing – a paradoxical statement in its own right.
+</p>
+</details>
 
 ---
 
 ## So gravity is the breath of God that I breath in order to live
 
-Exercise 1 - Infinity
-what is infinity?
-let us make an infinite line.
-But first we need to have a starting point.
-start at a pt. (axiom of choice)
-instead of a goal (X1),
-instead of a imagining something else (GRAVITY), some other place.
-remember the starting point, ø, zero, the origin.
-stay at that point
-hold it
-begin to imagine this point moving – while “holding” on to the starting point (X1)
+## Exercise 1 - What is infinity
 
-GRAVITY is the expression of the dark energy, the void that holds all of creation.
-It is not an internal force. Does not come from “mass”. It is the way (energetic) “mass” interacts with this dark energy.
-It is the energy that keeps everything “moving” For if we removed gravity and retained all other energies, what would we have? What would the world, our universe look like?
-I propose that there would be no interactions. Or no “meaningful” ones. To understand this we need to take a journey into infinity. (see “Theory of God” – Zero Point Fields. Talk about synchronicity! Been talking about the singularity. The point where the opposing points come co-exist. The singularity from which the duality proceeds (see Riemann’s Sphere!))
+- Let us make an infinite line.
+- But first we need to have a starting point.
+- Start at a pt. (axiom of choice)
+- Instead of a goal (X1),
+- Instead of a imagining something else (GRAVITY), some other place.
+- Remember the starting point, ø, zero, the origin.
+- Stay at that point
+- hold it
+- begin to imagine this point moving – while “holding” on to the starting point (X1)
 
-One of the ways to derive the material world is to define a relationship between two points. Then we have the line. The line of greatest tension, would be the straight line – of which there is only one (which doesn’t really exist!). This line forms the basis around which all other lines between these two points dance. Remember, between any two points there are an infinite amount of curved lines. Let’s not get too esoteric and talk about meandering lines. Let’s keep the discussion clean and talk about lines that are defined by the space between these two points. All the lines are non-looping, and well-defined. Almost like a football, with different offsets. Starting from just off the straight line, through the sphere, to a shape bulging hugely (almost infinitely, but not quite) in the middle. Let’s not deal with all the possible shapes that could be formed by a line, non-looping, but otherwise any, between these two points. In fact, that is the way the creation manifests, by defining a relationship between all points.
+GRAVITY is the expression of the dark energy, the void that holds all of creation. It is not an internal force. It does not come from “mass” (which is the energy) of the object. It is the way the (energetic) “mass” interacts with this dark energy.
 
-All shapes on a plane are drawn, expressed by a point moving across the plane, creating lines. This requires a history, (out of time, out of sync) a memory of where the point was (history, past, in time) Q: Is there a point that has no “partner”? What is the significance of that? Now, perhaps it starts off with a straight line between any two points, and then the dance begins. The perfectly straight line is theoretical, and we have the ability to perceive the points, and create relationships in our consciousness – but they are not straight lines! Now these straight lines form the core of the universe. They are G-d’s presence
+It is this energy that keeps everything “moving” For if we removed gravity and retained all other energies, what would we have? What would the world, our universe look like? It is very likely that there would be no interactions &mdash; or no “meaningful” ones.
+
+To understand this we need to take a journey into infinity.[^5] Talk about synchronicities! I have just been talking about the singularity, the point where the opposing points come co-exist, the singularity from which the duality &mdash; and thus eventually the complexity through the requirement of continuity &mdash; proceeds.
+
+<details>
+  <summary class="button is-outlined">
+    Rieman's sphere for those mathematically inclined&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+  </summary>
+  <figure>
+  <img src="/posts/img/Riemann%20Sperical%20Geometry-500x360.jpg" alt="Rieman's sphere" width="500" height="" />
+</figure>
+  <blockquote>
+  In mathematics, <a href="https://en.wikipedia.org/wiki/Riemann_sphere">the Riemann sphere</a>, named after Bernhard Riemann, is a model of the extended complex plane: the complex plane plus one point at infinity. This extended plane represents the extended complex numbers, that is, the complex numbers plus a value &#8734; for infinity. With the Riemann model, the point &#8734; is near to very large numbers, just as the point 0 is near to very small numbers. <br />
+  &nbsp;&nbsp;&nbsp;&mdash; from <a href="https://en.wikipedia.org/wiki/">Wikipedia</a>
+  </blockquote>
+</details>
+
+One of the ways to derive the material world is to define a relationship between two points. Then we have the line. The line of greatest tension, would be the straight line – of which there is only one (which doesn’t really exist!). This line forms the (imaginary) basis around which all other lines between these two points dance, for between any two points there are an infinite amount of curved lines.
+
+Let’s not get too esoteric and talk about lines that are defined by the space between these two points. All the lines are non-looping, and continuous. Starting from just off the straight line, through the sphere, to a shape bulging hugely (almost infinitely, but not quite) in the middle. Let’s not deal with all the possible shapes that could be formed by a line, non-looping, but otherwise any, between these two points. In fact, that is the way the creation manifests, by defining a relationship between all points.
+
+All shapes on a plane are drawn, expressed by a point moving across the plane, creating lines. This requires a history, (out of time, out of sync) a memory of where the point was (history, past, in time)  
+
+Now, perhaps it starts off with a connection between two points, any two points &mdash; then the dance begins. The perfectly straight line is theoretical, and we have the ability to perceive these points &mdash; the end points &mdash; and create relationships in our consciousness – but they are not straight lines! Now these straight lines form the core of the universe. They are G-d’s presence, representing the /line/space of balance.
 
 X1: Goal
 A goal creates an imaginary, virtual line between the Goal (future) and the present point. Once we begin to move towards the goal, a line is created (History/Time).
@@ -801,7 +860,7 @@ This is the breath of the Lord passing over, touch one pt. and transforming it.
 
 Time: Whatever the frequency of the breath-cycle. Only a singe pt. experiences the GoG at any single cycle. That is the maintaining of creation. Perhaps in a moment every point is touched. That is why it is gravity. It is cohesion. That is how U and I are created. By a sequence of points being touched in the same way. Being imprinted with the same pattern.
 Q: Or is it a collection? That is, everything here is touched in a sec. That creates a pattern too. That is given. So you are created too, defined by an interaction, a צימכום.
-√ http://www.calphysics.org/zpe.html
+√ <http://www.calphysics.org/zpe.html>
 From this line of reasoning, quantum physics predicts that all of space must be filled with a universal sea of zero-point energy. Since space itself is thought to break up into a kind of quantum foam at a tiny distance scale called the Planck scale (10-33 cm), it is argued that the zero point fluctuations must cease at a corresponding Planck frequency (Hz). If that is the case, the zero-point energy density would be 110 orders of magnitude greater than the radiant energy at the center of the Sun.
 
 This is the way out of the principle of the Multiverse. In the place of the tsimtsum, we now have the world emerging out of the quantum foam. Around this “sphere” of foam, we have G\*d. That is, the rest of the “space” is filled with the infinite potentiality of G\*d &mdash; represented by all these experiences, that are the lines of exploration of every possibility. Remember, if we change one small variable, it will change everything. There are equivalences, the doppelgänger level I multiverse. There every single possibility in this realm, although huge but not infinite, are carried out.
@@ -940,3 +999,4 @@ Descent from∞ to 0
 [^2]: This refers to all the parts of my being and all the parts of the greater being, earth, and all the beingnesses in creation.
 [^3]: For there are two types of “facts”. The first is a description of an actual event, the other arises just by its insistence, by its being constantly repeated.
 [^4]: How interesting the similarity between ‘I’ and ‘1’ in the English language – for in other languages, the word for ‘I’ is very different. In Hebrew, for instance, it is 'ani', consisting of three letters, and in Afrikaans, it is ‘ek’, and in French, ‘je’. Another interesting fact here, is that in English we write the personal pronoun 'I' capitalised, whereas in most other languages we do not!
+[^5]: <cite><a href="https://books.google.co.za/books/about/The_God_Theory.html?id=T0mPHOIVS7AC&redir_esc=y">The God Theory: Universes, Zero-Point Fields, and What's Behind It All</a></cite> by [Bernard Haisch](https://www.google.co.za/search?tbo=p&tbm=bks&q=inauthor:%22Bernard+Haisch%22).
