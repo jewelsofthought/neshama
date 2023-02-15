@@ -114,9 +114,9 @@ blockquote *:dir(ltr) {
   font-weight: normal;
   margin-top: 0rem;
   margin-bottom: 0rem;
-  font-size: initial;
   padding-inline-end: 1rem;
 }
+
 /*
 blockquote p:dir(ltr):not(:first-child) {
   text-indent: 2rem;

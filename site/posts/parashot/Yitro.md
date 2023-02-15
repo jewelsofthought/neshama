@@ -23,7 +23,7 @@ He then proceeds to bless the Lord, acknowledging his power and eminence. He the
 
 ---
 
-<div id="note1" class="note notification is-info" >
+<div class="note notification is-info" >
   <p><b>ToL</b>: This is the basic concept upon which the Tree of Life Network is based. The structure is the similar, except for the fact that it is enhanced and expressed through the technology and concepts of today.<p>
 </div>
 
@@ -51,18 +51,27 @@ Why is the term "father-in-law" (**חותן**) used so often? Thirteen times in 
 
 Some sages say that it is to represent the change of loyalties of Yitro. That he has now become a part of the Mosaic family, and no longer of the Midianites. Whereas, once he was distinguished because he was a Midianite Chieftan, and now his distinguished by the fact that he is Moses' father-in-law.
 
-<div class="note">
-
-Note: However, it is also perhaps that from the Jewish point of view of that he was no longer of importance as Yitro, the High Priest of the Midianites.
-
-</div>
-
-I believe he should be, and perhaps is &mdash; after all, the reading of the culminating event of the Exodus, the giving of the Ten Commandments at Sinai is named after him &mdash; acknowledged for the support and sustenance that he provided Moshe Rabeinu.
+<details>
+  <summary class="button is-outlined">
+    Jewish perspective&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+  </summary>
+  <p>However, it is also perhaps that from the Jewish point of view of that he was no longer of importance as Yitro, the High Priest of the Midianites.</p>
+<p>
+I believe he should be, and perhaps is &mdash; after all, the reading of the culminating event of the Exodus, the giving of the Ten Commandments at Sinai is named after him &mdash; acknowledged for the support and sustenance that he provided Moshe Rabeinu.</p>
+</details>
 
 n21] Discernment
 
 1. Men of accomplishment
-   This indicates men of wealth, which should enable them to resist pressure to influence their judgment. {Note: This we know not is not necessarily true. In fact, it often seems to be the opposite &mdash; those that have so much just can't seem to be wanting more. Often these wealthy men of accomplishment, ones who have spent their lives accumulating and thus, unless G-d fearing, are likely to be easily swayed if it serves their purposes.}
+   This indicates men of wealth, which should enable them to resist pressure to influence their judgment.
+
+<details>
+  <summary class="button is-outlined">
+    Wealth & Greed:&nbsp;<i class="fa fa-solid fa-caret-down"></i> 
+  </summary>
+  <p>This we know not is not necessarily true. In fact, it often seems to be the opposite &mdash; those that have so much just can't seem to be wanting more. Often these wealthy men of accomplishment, ones who have spent their lives accumulating and thus, unless G-d fearing, are likely to be easily swayed if it serves their purposes.</p>
+</details>
+
 2. God-fearing
 3. Men of truth
 4. Despise money
@@ -76,10 +85,10 @@ n15:25] _Marah_ - bitter
 n15:26] "Hearken to what you hear; do what is just; give your ear to the comman man and observe the decrees and you will have no 'disease'".
 
 <details>
-<summary class="button is-success is-outlined">Note:</summary>
-<p>
-Note: If the narrative is circular (with reflections and symmetries), what decrees and ordinances is <b>HaShem</b> referring to? For He says: "I will establish my decrees and ordinances...".
-</p>
+  <summary class="button is-outlined">
+    Circular narrative:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+  </summary>
+  <p>If the narrative is circular (with reflections and symmetries), what decrees and ordinances is <b>HaShem</b> referring to? For He says: "I will establish my decrees and ordinances...".</p>
 </details>
 
 v27] Jethro returns home to Midian.
@@ -90,7 +99,7 @@ v1-2]
 Three months had passed since the Exodus. The people had left Rephidim and were in the Sinai desert, camped at the foot of the Mountain of G-d. Jethro comes to them at the mountain
 
 v3-6] Ascension
-Moses ascends to G-d and **HaShem** called to him, {Note: Should this be in opposite order. First the calling, then the ascension?}, saying: "Say to the people (v3). You have seen what I have done! (v4) If you obey me and keep my commandments, you will be a treasure unto Me (v5). You will become a kingdom of _Kohanim_ (priests) - **ממלכת כוהנים**, and a holy nation - **גוי קדושׁ** (v6).
+Moses ascends to G-d and **HaShem** called to him, <span class="note">{Note: Should this be in opposite order. First the calling, then the ascension?}</span>, saying: "Say to the people (v3). You have seen what I have done! (v4) If you obey me and keep my commandments, you will be a treasure unto Me (v5). You will become a kingdom of _Kohanim_ (priests) - **ממלכת כוהנים**, and a holy nation - **גוי קדושׁ** (v6).
 
 Miracles:
 10 plagues, splitting of the Red Sea, cloud by day & fire by night,
@@ -118,39 +127,50 @@ sweeten the water, water from the rock.
 Everything we shall do: **כל אשׁר דבר יהוה נעשׂה**
 
 v7-8] Elders
-After having received the words from G-d, Moses assembled the elders and placed the words before them (v7). The people respond "We shall do". Moses took the words of the people back to G-d (v8). {Note: This is an example of a "missing detail". G-d speaks to Moses, who speaks to the elders, who then tell the people, and back again.}
+After having received the words from G-d, Moses assembled the elders and placed the words before them (v7). The people respond "We shall do". Moses took the words of the people back to G-d (v8). <span class="note">{Note: This is an example of a "missing detail". G-d speaks to Moses, who speaks to the elders, who then tell the people, and back again.}</span>
 
 v9-10] Cloud
 
-God says, "I will speak to you from the thickness of the cloud, so that they people can hear, and so that they will believe in me." {Note: Yet, according to the narrative, G-d summons Moses to ascend the mountain} (v9). "Go to the people." {Note: Also contradicts v9. If the people can hear G-d speaking from the cloud, why would Moses need to repeat everything to them?} Today and tomorrow, prepare, wash your garments (v10). On the third day **’ה** will descend before the people" (v11).
+God says, "I will speak to you from the thickness of the cloud, so that they people can hear, and so that they will believe in me" (v9).<span class="note">{Note: Yet, according to the narrative, G-d summons Moses to ascend the mountain, who then transmits it to the elders, etc.}</span> "Go to the people" (v11). <span class="note">{Note: Also contradicts v9. If the people can hear G-d speaking from the cloud, why would Moses need to repeat everything to them?}</span> Today and tomorrow, prepare, wash your garments (v10). On the third day **’ה** will descend before the people"
 
 v12-13] Boundaries
 God continues: "Set boundaries for the people, that none shall approach the mount, lest they die (v12). No hand shall touch the mountain, lest they die. When the ram's horn sounds, the people may ascend the mountain (v13).
 
 v14] Descended
-Moses descended from the mountain. The people prepared themselves and they washed themselves (v14). {Note: It does not say 'Moses told them', so perhaps they did hear these instructions from the cloud.}
+Moses descended from the mountain. The people prepared themselves and they washed themselves (v14). <span class="note">{Note: It does not say 'Moses told them', so perhaps they did hear these instructions from the cloud.}</span>
 
-v15] However, he does say to them, "Be ready. You must keep away from women. {Note: Did Moses add this restriction, as G-d did not explicitly say this. However, if the people heard the conversation, they they might object, unless G-d had actually said that.}
+v15] However, he does say to them, "Be ready. You must keep away from women. <span class="note">{Note: Did Moses add this restriction, as G-d did not explicitly say this. However, if the people heard the conversation, they they might object, unless G-d had actually said that.}</span>
 
 v16-20] 3rd day
-On the morning of the third day, there was thunder and lightning above the mountain, and a thick cloud descended upon the mountain, while a loud _shofar_ blast rang out (v16). The people gather at the bottom of the smoking mountain (v17-18). The shofar rang out, Moses spoke, G-d answered (v19). G-d is on the peak, summons Moses who then ascends (v20). {Note: Could the mountain not mean heights, just as the negev would mean south? The mt is symbolic of a height that is above the norm. It also is indicative of the principle that G-d does not descend to our level, as low as us. He requires us to "ascend the mountain" - a spiritual mountain - in order to meet with Him.}
+On the morning of the third day, there was thunder and lightning above the mountain, and a thick cloud descended upon the mountain, while a loud _shofar_ blast rang out (v16). The people gather at the bottom of the smoking mountain (v17-18). The shofar rang out, Moses spoke, G-d answered (v19). G-d is on the peak, summons Moses who then ascends (v20).
+
+<details>
+  <summary class="button is-outlined">
+    Mountain:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+  </summary>
+  <p>Could the mountain not mean heights, just as the negev would mean south? The mt is symbolic of a height that is above the norm. It also is indicative of the principle that G-d does not descend to our level, as low as us. He requires us to "ascend the mountain" - a spiritual mountain - in order to meet with Him.</p>
+</details>
 
 v21-25] Go down
-G-d says, "Go down again. Warn the people not to approach the mountain (v21). Tell the priests to prepare themselves (v22). {Note: It is unclear what extra preparation the priests were supposed to carry out.} Moses responds, saying that the people have been warned, and thus, no one will approach the mountain (v23). God insists, "Go down. Ascend with Aaron. But the priests and populace may not ascend (v24). {Note: Have the instructions changed? The people were supposed to ascend the mountain upon the hearing the blast of the _shofar_ (from v13).} Moses obeys (v25).
+G-d says, "Go down again. Warn the people not to approach the mountain (v21). Tell the priests to prepare themselves (v22). <span class="note">{Note: It is unclear what extra preparation the priests were supposed to carry out.}</span> Moses responds, saying that the people have been warned, and thus, no one will approach the mountain (v23). God insists, "Go down. Ascend with Aaron. But the priests and populace may not ascend (v24). <span class="note">{Note: Have the instructions changed? The people were supposed to ascend the mountain upon the hearing the blast of the _shofar_ (from v13).}</span> Moses obeys (v25).
 
 ## Chapter 20
 
-v1-2] God speaks
-"I took you out of bondage in Egypt with a might hand."
+v1-2] God spoke these words:
+
+v2] "I am the Lord, your God, who took you out of bondage in Egypt, out of bondage."
 
 v3] No other G-ds
 "You shall have no other G-d's besides me."
 
-v4-5] No graven images
-"You shall make no graven images of me or anything that exists in heaven (v4). You shall neither prostrate yourselves to them nor worship them" (v5).
+v4] No graven images
+"You shall make no graven images of me or anything that exists in heaven, on earth, or in the water." (v4).
+
+v5] Not worship them
+"You shall neither prostrate yourselves to them nor worship them." (v5).
 
 v6] Kind
-"Be kind to those who love me (and obey my commandments).
+"I am kind to those who love me (and obey my commandments).
 
 v7] Name in vain
 "Do not use my name in vain."
@@ -170,11 +190,12 @@ v14] Covet
 ## Ten Commandments (at end of Yitro)
 
 I. Jealous G-d
-II. Name in Vain
-III. Sabbath
-IV. Honour father & mother
-V-VIII. Not murder, adultery, steal, bear false witness
-IX. Covet
+II. No graven images
+III. Name in Vain
+IV. Sabbath
+V. Honour father & mother
+VI-IX. Not murder, adultery, steal, bear false witness
+I. Not covet
 
 ---
 
@@ -188,12 +209,17 @@ v19] Seen
 G-d says to Moses: "Tell the people what you have seen.
 
 v20] Images
-"They may make no images of any of My divine beings" {Note: This must be important to Him, as it is repeated here.}
+"They may make no images of any of My divine beings" <span class="note">{Note: This must be important to Him, as it is repeated here.}</span>
 
 v21] Altar
 "Make an altar of earth for you to sacrifice to Me (v12). When you make an altar of stones, it shall be made of one piece. No iron shall touch it (v22). It will have no steps so that your nakedness may not be revealed before me" (v23).
 
-{Note: The first altar is one of earth. Which is interesting, as the earth is necessary for our sustenance. Also, the revealing of one's nakedness on the approach to the altar is also intriguing. Could the "stones" be thought of as sentient enough to be embarresed at the sight of your nakedness?}
+<details>
+  <summary class="button is-outlined">
+    Altar of earth:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+  </summary>
+  <p>The first altar is one of earth. Which is interesting, as the earth is necessary for our sustenance. Also, the revealing of one's nakedness on the approach to the altar is also intriguing. Could the "stones" be thought of as sentient enough to be embarrassed at the sight of your nakedness?</p>
+</details>
 
 ## Haftorah - Isaiah 6:1-13
 
