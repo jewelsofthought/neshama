@@ -6,7 +6,9 @@ date: 2002-12-30T02:04:10.856Z
 modified: 2020-06-04
 ---
 
-![Fractal Sierpinski](/posts/img/Fractal-Sierpinski-N-gon.png)
+<figure style='float: left'>
+  <img src='/posts/img/Fractal-Sierpinski-N-gon.png' alt='Fractal Sierpinski' />
+</figure>
 
 <div style="margin-left: 2.5rem">
 
@@ -137,16 +139,15 @@ delight of Your being. The ecstasy of the
 space of the "I am what I am" &ndash; The
 constrained impurity.
 
-<p style="text-align: center">
-I am the interface wherein it moves<br />
-from uncountable to countable. I am<br /> 
-the bridge between the finite and<br />
-the Infinite, the expression of the infinite<br />
-seeking its (in)finite self.<br />
+I am the interface wherein it moves
+from uncountable to countable. I am
+the bridge between the finite and
+the Infinite, the expression of the infinite
+seeking its (in)finite self.
 <p>
 
 <p style="padding-left: 2.5rem">
-&mdash; Yehuda – inspired by <a href="http://www.mechon-mamre.org/p/pt/pt26d9.htm">Psalm CXXXIX</a>
+&mdash; R' Y"mba – inspired by <a href="http://www.mechon-mamre.org/p/pt/pt26d9.htm">Psalm CXXXIX</a>
 </p>
 
-<center>* * *</center>
+<center>** *</center>

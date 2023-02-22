@@ -6,6 +6,10 @@ date: 2015-01-09T14:02:16.154Z
 modified: 2023-02-08T19:07:13.396Z
 ---
 
+1. [Infinity](#infinity-1)
+   1. [Which way \[ inf $$\\leftrightarrow$$ 1 \]?](#which-way--inf-leftrightarrow-1-)
+   2. [Numbers](#numbers)
+
 > **G-d is infinite** in all directions. Thus He/She is infinitely vulnerable too, just as He/She can be incredibly cruel too.
 
 ## Message

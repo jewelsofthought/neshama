@@ -6,7 +6,7 @@ tags:
   - story
   - shamanism
   - todo
-date: 2001-05-01T18:11:18.856Z
+date: 2001-01-01T18:11:18.856Z
 modified: 2022-11-16
 stars: '***'
 ---

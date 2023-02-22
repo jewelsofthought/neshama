@@ -7,19 +7,20 @@ modified: 2022-06-14
 ---
 
 <div class="poem">
-In the mistiness <br />
-of my quietness,<br />
-From the depths <br />
-of my stillness,<br />
-A feather drifts <br />
-slowly to earth.<br />
-Holding my breath,<br />
-I feel subtle joy <br />
-surrounding me.<br />
-Calmer than ever, <br />
-I sit<br />
-Precariously balanced<br />
-Between something<br />
+
+In the mistiness 
+of my quietness,
+From the depths 
+of my stillness,
+A feather drifts 
+slowly to earth.
+Holding my breath,
+I feel subtle joy 
+surrounding me.
+Calmer than ever, 
+I sit
+Precariously balanced
+Between something
 
 <p style="margin-top: 3rem; margin-left: 2rem">
 & 

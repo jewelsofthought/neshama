@@ -1,8 +1,9 @@
 ---
 title: Va'etchanan - The Sinai Files
 description: 'Deuteronomy 3:23-7:11'
-tags: null
+tags: [chabad]
 date: 2021-08-13T08:11:57.912Z
+stars: "****"
 ---
 
 [The Sinai Files](https://www.chabad.org/library/article_cdo/aid/1281/jewish/The-Sinai-Files.htm)

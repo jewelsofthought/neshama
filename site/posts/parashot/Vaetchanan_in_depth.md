@@ -1,7 +1,7 @@
 ---
-title: Va'etchanan פרשׁת ואתחנן
-description: 'Deuteronomy 3:23-7:11'
-tags: null
+title: Va'etchanan in depth
+description: Commenteries from the masters
+tags: [chabad]
 date: 2021-08-13T08:09:57.912Z
 ---
 
@@ -64,7 +64,7 @@ For another version of this dialogue:
 
 [The Sinai Files](https://www.chabad.org/library/article_cdo/aid/1281/jewish/The-Sinai-Files.htm)
 A SciFi/Fantasy version of the classic story of Moses' battle with the angels to receive the Torah.
-By [Tzvi Freeman] (https://www.chabad.org/search/keyword_cdo/kid/193/jewish/Freeman-Tzvi.htm)
+By [Tzvi Freeman] (<https://www.chabad.org/search/keyword_cdo/kid/193/jewish/Freeman-Tzvi.htm>)
 
 ---
 

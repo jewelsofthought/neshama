@@ -5,9 +5,9 @@ tags:
   - story
   - tol
   - todo
-date: 2001-02-20T00:11:18.856Z
+date: 2001-01-20T00:11:18.856Z
 modified: 2022-05-22T19:17:26.846Z
-stars: '-'
+stars: '*'
 ---
 
 ## Brain story
@@ -22,7 +22,7 @@ Sitting around in some sort of session, the ask is to introduce yourself. Rememb
 
 "Who are you?" "I am a combiner for agricultural equipment."
 
-## Brains:
+## Brains
 
 The idea begins as an extrapolation of some of the directions in which our modern science is heading. Taking into account genetic manipulations, stem cell research, and as machines get more complex and we get closer and closer to a merging of the biological and the mechanical-electronic, with talk of man-made implants in the body to enhance it’s capabilities or to repair our bodies, and following these lines of thoughts to the n’th degree, we are approaching the time when our bodies will become redundant, with the ability of machines to replace a lot of the functional needs of a body. For instance, the earth digging machine, controlled by a human, could be replaced by a brain that is tied into it in some form or fashion, and controlling it through electronic impulses.
 
@@ -148,7 +148,9 @@ The story starts off in the time (epoch) when human beings have become “brains
 
 ---
 
-## Silver Surfer
+## Silver Surfer (orig)
+
+## Silver Surfer (poem)
 
 Riding the warps through
 intricate, intimate, intrinsic spaces,
@@ -210,7 +212,7 @@ It also provided access to other realms... but that is another story.
 → Adam & Eve → Evil → Cain & Abel
 → 3rd dim
 
-### IV. Characters:
+### IV. Characters
 
 #### (i) Jk: → Kab
 
@@ -269,9 +271,9 @@ So this is how we get into this kind of thing.
 
 - Episode: Silver Surfer
 
-This is how the story goes: Elon Musk and the boys (from the Burning Man crew) have started BCI exploration. They have managed to create an interface, however, the problem is that there are some unexplained effects. These are expressed as dreams, this is the JBCI effect.
+This is how the story goes: Elon Musk and the boys (from the Burning Man crew) have started BCI (Brain-Computer Interface) exploration. They have managed to create an interface, however, the problem is that there are some unexplained effects. These are expressed as dreams, this is the JBCI effect.
 
-In order to find out more, they speak to the Shaman (woman) who leads them to Jk and explorations into mystical (kabbalistic) possibilities. A meme here would be a 3d depiction of the Kabbalistic Tree, as well as one derived from the Bahir!
+In order to find out more, they speak to the Shaman (woman) who leads them to Jk and explorations into mystical (kabbalistic) possibilities. A meme here would be a 3d depiction of the Kabbalistic Tree, as well as one derived from the Bahir! {See especially [v30](/0-Bahir v30.odt)}
 
 The basic idea is to write a “quantum” story. That is, pretend that I am a pilot of a q-steed (quark) or a e-steed (electron) or a p-steed (proton), or an n-steed (neutron), etc. All these sub-atomic steeds are different and have different characteristics. On the quark level, we have a “connection” with certain quarks, which will lead us to and are essential to the “manifestation” of our steed. It is that we will connect to our quarks, and by gathering them, we will create a sub-atomic particle. At the base, are the fermions and the leptons – male and females! Oh we could have fun here.
 
@@ -291,7 +293,7 @@ The interesting aspect is the movement from “wave” to “particle” from id
 
 Then we have to think up a story.
 
-[I think the easiest way to run this story, is to anthropomorphise this field. In other words, I exist in this quantum universe as a incarnated being – a human/quman being. And this is my story. Growing up and becoming the steed rider, a silver surfer. Having an existence in and on the quantum level. Thus to the one (me) living on that level things are as solid for me as they are for you here in the 3D reality. I am also completely unaware of the existence of this 3d reality, as it is so different and so “far” from my reality, that to all intents and purposes, I have no chance of ever interacting with it in any meaningful sense.
+[I think the easiest way to run this story, is to anthropomorphise this field. In other words, I exist in this quantum universe as a incarnated being – a human/quman being. And this is my story. Growing up and becoming the steed rider, a silver surfer. Having an existence in and on the quantum level. Thus to the one (me) living on that level things are as solid for me as they are for you here in the 3D reality. I am also completely unaware of the existence of this 3d reality, as it is so different and so “far” from my reality, that to all intents and purposes, I have no chance of ever interacting with it in any meaningful sense.]
 
 However, due to our advanced mathematics, we know there must be a “lower” dimensional reality. It is much denser and slower moving than ours, etc, etc, etc. So part of the story is ending up describing 3d from the view of a quantum being.
 
@@ -299,9 +301,9 @@ Our hubble telescope will be able to identify an organism that exists in 3d – 
 
 One avenue is to have a human begin have some intense dreams. These feelings of not being here, but of being in this quantum world that he is dreaming about. So in this world, he is trying to tell someone (not sure who – gf, wife, psychologist, best friend).
 
-We can play with all sorts of quantum effects, non-locality, Paulo exclusion principle, eigenvalues to keep track of the jump, fermi energy to effect things, need to attain the correct fermi level for to enable a jump, alpha decay as a form of transportation – perhaps the decay is vector and has a direction or should one rather say, purpose?
+We can play with all sorts of quantum effects, non-locality, Pauli's Exclusion principle, eigenvalues to keep track of the jump, fermi energy to effect things, need to attain the correct fermi level for to enable a jump, alpha decay as a form of transportation – perhaps the decay is vector and has a direction or should one rather say, purpose?
 
-We must think like a 4d up to a 7th dim one, and there is a stage of chochma, where there is no diff. between our concept of good and evil.
+We must think like a 4d up to a 7th dim one, and there is a stage of _Chochma_, where there is no diff. between our concept of good and evil.
 
 Perhaps I can use some of the kabbalistic characteristics and levels too.
 
@@ -314,6 +316,7 @@ Well, it was not that quick. I had to rise, and make my obeisance, for always, m
 The brief was that there was an imbalance happening in sector 33.
 
 The image is one in which I ride the quanta, as a quantum rider. Remember that it is also angelic, for the story is taking place in the angelic realm. So there will be the quantum realm of energy with the quantum rider, and the angelic expression of energy, as well. The unfolding should be an analogy for those two realms, and where possible, include human realm references.
+
 This is a story, as well, of multi-dimensional beings. Let us say our “main” character, the quantum rider, is a 4dim being, and his dimensions are the lower, demonic realms, the upper, angelic or heavenly, realms, and this the middle earth, and then he/she/it is a being that is not of time and space. He appears in this realm as a quanta.
 
 What is the energy that manifests as a galaxy? Is it a greater, meta-angel? A higher dimensional being, whose appearance here is galactic? Or is it the same 4dim energy that can appear both as a quanta and a galaxy—being not of space, then the two could be equivalent?

@@ -6,13 +6,13 @@ date: 2000-11-05T01:33:06.076Z
 eleventyExcludeFromCollections: true
 layout: layouts/home.njk
 ---
+<b></b> &mdash; <i></i>
 
+<!-- DONE -->
 <blockquote>
-<bdo dir="rtl">  </bdo>
+  <bdo dir="rtl"> </bdo>
   <p dir="ltr"></p>
 </blockquote>
-
-<b></b> &mdash; <i></i>
 
 <figure style="float: left">
   <img src="" alt="" width="" height="" />
@@ -25,7 +25,7 @@ layout: layouts/home.njk
   </summary>
   <p></p>
 </details>
-
+<!-- END DONE -->
 <hr />
 
 
@@ -34,7 +34,8 @@ layout: layouts/home.njk
 <code>
   BDI stands for Bi-Directional Isolation.
 
-  The <bdi></code> tag isolates a part of text that might be formatted in a different direction   from other text outside it. This element is useful when embedding user-generated content with an unknown text direction.
+  The <bdi></code> tag isolates a part of text that might be formatted in a different direction from other text outside
+it. This element is useful when embedding user-generated content with an unknown text direction.
 </code>
 
 <code>
@@ -72,80 +73,106 @@ The <mark> tag defines text that should be marked or highlighted.
 
   Tip: Use <blockquote> for long quotations. 
 </code>
-  <hr />
+<hr />
 
-  <table>
-    <tr>
-      <th>Name</th>
-      <th>Symbol</th>
-      <th>Unicode (&)</th>
-    </tr>
-    <tr>
-      <td>Not equal</td>
-      <td>&#x2260;</td>
-      <td><code>#x2260;</code></td>
-    </tr>
-    <tr>
-      <td>Null set</td>
-      <td>&#x2205;</td>
-      <td><code>#x2205;</code></td>
-    </tr>
-    <tr>
-      <td>Intersection Sign</td>
-      <td>&#x2229;</td>
-      <td><code>#x2229;</code></td>
-    </tr>
-    <tr>
-      <td>Union Sign</td>
-      <td>&#x222a;</td>
-      <td><code>#x222a;</code></td>
-    </tr>
-    <tr>
-      <td>Infinity Sign</td>
-      <td>&#8734;</td>
-      <td><code>#8734;</code></td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Symbol</th>
+    <th>Unicode (&)</th>
+  </tr>
+  <tr>
+    <td>Not equal</td>
+    <td>&#x2260;</td>
+    <td><code>#x2260;</code></td>
+  </tr>
+  <tr>
+    <td>Null set</td>
+    <td>&#x2205;</td>
+    <td><code>#x2205;</code></td>
+  </tr>
+  <tr>
+    <td>Intersection Sign</td>
+    <td>&#x2229;</td>
+    <td><code>#x2229;</code></td>
+  </tr>
+  <tr>
+    <td>Union Sign</td>
+    <td>&#x222a;</td>
+    <td><code>#x222a;</code></td>
+  </tr>
+  <tr>
+    <td>Infinity Sign</td>
+    <td>&#8734;</td>
+    <td><code>#8734;</code></td>
+  </tr>
+</table>
 </bdi>
 
 <hr />
+
+ol.normal {
+list-type: decimal;
+}
+ol.zero {
+list-type: decimal-leading-zero;
+}
+ol.roman {
+list-type: lower-roman;
+}
+ol.Roman {
+list-type: upper-roman;
+}
+ol.alpha {
+list-type: lower-alpha;
+}
+ol.Alpha {
+list-type: upper-alpha;
+}
+ol.greek {
+list-type: lower-greek;
+}
 
 https://www.w3schools.com/graphics/canvas_intro.asp
 
 <p>Image to use:</p>
 
-<img id="scream" width="220" height="277"
-src="pic_the_scream.jpg" alt="The Scream">
+<img id="scream" width="220" height="277" src="pic_the_scream.jpg" alt="The Scream">
 
 <p>Canvas:</p>
 
-<canvas id="myCanvas" width="240" height="297"
-style="border:1px solid #d3d3d3;">
-Your browser does not support the HTML5 canvas tag.
+<canvas id="myCanvas" width="240" height="297" style="border:1px solid #d3d3d3;">
+  Your browser does not support the HTML5 canvas tag.
 </canvas>
 
 <script>
-window.onload = function() {
+  window.onload = function () {
     var canvas = document.getElementById("myCanvas");
     var ctx = canvas.getContext("2d");
     var img = document.getElementById("scream");
-   ctx.drawImage(img, 10, 10);
-};
+    ctx.drawImage(img, 10, 10);
+  };
 </script>
 
 <hr />
 
 <script>
-const para = document.querySelector("div");
-const btn = document.querySelector('button');
+  const para = document.querySelector("div");
+  const btn = document.querySelector('button');
 
-btn.addEventListener('click', ()=>{
-  para.classList.toggle('display-toggle')
-})
+  btn.addEventListener('click', () => {
+    para.classList.toggle('display-toggle')
+  })
 </script>
 
 <style>
-.visibility-toggle {
+  .visibility-toggle {
     visibility: hidden;
-}
+  }
 </style>
+
+<ul>
+  <li><span class="hello1"></span></li>
+  <li><span class="hello2"></span></li>
+  <li><span class="hello3"></span></li>
+</ul>
