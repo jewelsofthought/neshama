@@ -11,6 +11,8 @@ source/
 .vscode/
 *.tar
 *.bkp
-.alphabet
+*.swp
+*.bak
 rtl.html
 site/_data/rtl.html
+site/_data/alphabet.txt

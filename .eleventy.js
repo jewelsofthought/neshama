@@ -167,18 +167,35 @@ module.exports = function(eleventyConfig) {
   let markdownLibrary = markdownIt({
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
+    typographer: true
   }).use(markdownItAttr, {
 			leftDeliminator: '{',
 		  rightDeliminator: '}',
 			allowedAttributes: [] // empty array = all attributes allowed 
-  }).use(markdownItFootnote);
+  }).use(markdownItAnchor, {
+	  permallink: true,
+	  permalinkClass: "direct-link",
+	  permalinkSymbol: "#",
+	 })
+	.use(markdownItFootnote);
 
 	markdownLibrary.renderer.rules.footnote_block_open = () => (
 		'<h4 class="mt-3">Footnotes</h4>\n' +
 		'<section class="footnotes">\n' +
 		'<ol class="footnotes-list">\n'
 	);
+
+	markdownLibrary.renderer.rules.footnote_caption = (tokens,idx) => {
+	let n = Number(tokens[idx].meta.id + 1).toString();
+
+  if (tokens[idx].meta.subId > 0) {
+    n += ":" + tokens[idx].meta.subId;
+  }
+
+  return n;
+};	
+
 	eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Override Browsersync defaults (used only with --serve)
