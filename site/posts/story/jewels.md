@@ -4,7 +4,7 @@ description: Each one of us is a gem
 tags:
   - story
   - todo
-date: 2001-01-10T05:11:18.856Z
+date: 2001-01-10T05:23:18.856Z
 modified: 2022-08-24T19:17:26.846Z
 stars: '****'
 ---

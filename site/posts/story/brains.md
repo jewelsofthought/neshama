@@ -5,9 +5,9 @@ tags:
   - story
   - tol
   - todo
-date: 2001-01-20T00:11:18.856Z
+date: 2001-01-20T18:11:18.856Z
 modified: 2022-05-22T19:17:26.846Z
-stars: '*'
+stars: '**'
 ---
 
 ## Brain story
