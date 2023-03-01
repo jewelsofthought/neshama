@@ -21,11 +21,33 @@
   }
 }
 
+span:dir(rtl) {
+  font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  font-weight: 900;
+  font-size: 110%;
+}
+
+blockquote:dir(rtl),
+div:dir(rtl),
+p:dir(rtl) {
+  text-align: start; /* left in latin, right in arabic */
+  margin-inline-start: 0px; /* margin-left in latin, margin-right in hebrew */
+  padding-inline-start: 0rem; /* padding-left in latin, padding-right in hebrew */
+  padding-inline-end: 0rem;
+
+  font-size: 1.2rem;
+  font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  font-weight: 900;
+}
+
 details,
 .footnotes,
 footnote,
-.note {
-  font-size: 80%;
+.note,
+.note p:dir(ltr),
+.note span:dir(ltr) {
+  font-size: small;
+  line-height: 1.1rem;
 }
 
 aside {
@@ -35,6 +57,19 @@ aside {
   float: right;
   font-style: italic;
   background-color: lightgray;
+}
+
+figure.quote {
+  text-align: left;
+  font-size: 95%;
+}
+
+figure.quote p {
+  margin-bottom: 0.2em;
+}
+
+figure.quote p:not(:last-child) {
+  margin-bottom: 0.2em;
 }
 
 /*** MARK ****/
@@ -93,29 +128,11 @@ mark .red {
   border-color: rgba(0, 150, 255, 0.5);
 }
 
-:dir(rtl) {
-  text-align: start; /* left in latin, right in arabic */
-  margin-inline-start: 0px; /* margin-left in latin, margin-right in hebrew */
-  padding-inline-start: 1rem; /* padding-left in latin, padding-right in hebrew */
-  padding-inline-end: 2rem;
-
-  font-size: 1.2rem;
-  font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
-  font-weight: 900;
-}
-
 /* Do I need this?
 .mord:not(.mathnormal) {
   font-weight: 900;
 }
 */
-
-blockquote *:dir(ltr) {
-  font-weight: normal;
-  margin-top: 0rem;
-  margin-bottom: 0rem;
-  padding-inline-end: 1rem;
-}
 
 /*
 blockquote p:dir(ltr):not(:first-child) {

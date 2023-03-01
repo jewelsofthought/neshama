@@ -31,19 +31,7 @@ layout: layouts/home.njk
 
 <h3>Info</h3>
 
-<code>
-  BDI stands for Bi-Directional Isolation.
 
-  The <bdi></code> tag isolates a part of text that might be formatted in a different direction from other text outside
-it. This element is useful when embedding user-generated content with an unknown text direction.
-</code>
-
-<code>
-  BDO stands for Bi-Directional Override.
-
-  The <bdo> tag is used to override the current text direction.
-
-</code>
 <code>
   The <cite> tag defines the title of a creative work (e.g. a book, a poem, a song, a movie, a painting, a sculpture, etc.).
 
@@ -72,6 +60,20 @@ The <mark> tag defines text that should be marked or highlighted.
   The <q> tag defines a short quotation. Browsers normally insert quotation marks around the quotation.
 
   Tip: Use <blockquote> for long quotations. 
+</code>
+
+<code>
+  BDI stands for Bi-Directional Isolation.
+
+  The <bdi></code> tag isolates a part of text that might be formatted in a different direction from other text outside
+it. This element is useful when embedding user-generated content with an unknown text direction.
+</code>
+
+<code>
+  BDO stands for Bi-Directional Override.
+
+  The <bdo> tag is used to override the current text direction.
+
 </code>
 <hr />
 
@@ -106,32 +108,62 @@ The <mark> tag defines text that should be marked or highlighted.
     <td>&#8734;</td>
     <td><code>#8734;</code></td>
   </tr>
+  <tr>
+    <td>RIGHT-TO-LEFT ISOLATE (RLI)<br />
+      Placed in the same location as the opening <code><span dir="..."></code> tag</td>
+    <td>&#2067;</td>
+    <td><code>#2067;</code></td>
+  </tr>
+  <tr>
+    <td>LEFT-TO-RIGHT ISOLATE (LRI)</td>
+    <td>&#2066;</td>
+    <td><code>#2066;</code></td>
+  </tr>
+  <tr>
+    <td>POP DIRECTIONAL ISOLATE (LRI)<br />
+      It corresponds to the <code></span></code> in the markup.
+    <td>&#2069;</td>
+    <td><code>#2069;</code></td>
+  </tr>
 </table>
-</bdi>
+
 
 <hr />
 
+
+
+<h3>type:</h3>
+
+<pre>
+Sets the numbering type:
+
+  a for lowercase letters
+  A for uppercase letters
+  i for lowercase Roman numerals
+  I for uppercase Roman numerals
+  1 for numbers (default)
+</pre>
+
+<h3>list-type:</h3>
+
+<pre>
 ol.normal {
 list-type: decimal;
 }
-ol.zero {
 list-type: decimal-leading-zero;
-}
-ol.roman {
 list-type: lower-roman;
-}
-ol.Roman {
 list-type: upper-roman;
-}
-ol.alpha {
 list-type: lower-alpha;
-}
-ol.Alpha {
 list-type: upper-alpha;
-}
-ol.greek {
 list-type: lower-greek;
-}
+</pre>
+
+<p>In order to add an attribute (like class, id, or type) one places the {attr} after one empty after the list.</p>
+
+<hr />
+
+<h3>Ordered list</h3>
+
 
 https://www.w3schools.com/graphics/canvas_intro.asp
 
