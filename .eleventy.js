@@ -162,6 +162,7 @@ module.exports = function(eleventyConfig) {
 	const markdownItAnchor = require("markdown-it-anchor");
 	const markdownItFootnote = require("markdown-it-footnote");
 	const markdownItAttr = require("markdown-it-attrs");
+	const markdownItSpan = require("markdown-it-bracketed-spans");
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
@@ -170,33 +171,32 @@ module.exports = function(eleventyConfig) {
     linkify: true,
     typographer: true
   }).use(markdownItAttr, {
-			leftDeliminator: '{',
-		  rightDeliminator: '}',
-			allowedAttributes: [] // empty array = all attributes allowed 
+	leftDeliminator: '{',
+	rightDeliminator: '}',
+	allowedAttributes: [] // empty array = all attributes allowed 
   }).use(markdownItAnchor, {
-	  permallink: true,
-	  permalinkClass: "direct-link",
-	  permalinkSymbol: "#",
-	 })
-	.use(markdownItFootnote);
+	permallink: true,
+	permalinkClass: "direct-link",
+	permalinkSymbol: "#",
+  }).use(markdownItFootnote).use(markdownItSpan);
 
-	markdownLibrary.renderer.rules.footnote_block_open = () => (
-		'<h4 class="mt-3">Footnotes</h4>\n' +
-		'<section class="footnotes">\n' +
-		'<ol class="footnotes-list">\n'
-	);
+  markdownLibrary.renderer.rules.footnote_block_open = () => (
+	'<h4 class="mt-3">Footnotes</h4>\n' +
+	'<section class="footnotes">\n' +
+	'<ol class="footnotes-list">\n'
+  );
 
-	markdownLibrary.renderer.rules.footnote_caption = (tokens,idx) => {
+  markdownLibrary.renderer.rules.footnote_caption = (tokens,idx) => {
 	let n = Number(tokens[idx].meta.id + 1).toString();
 
-  if (tokens[idx].meta.subId > 0) {
-    n += ":" + tokens[idx].meta.subId;
-  }
+	if (tokens[idx].meta.subId > 0) {
+	    n += ":" + tokens[idx].meta.subId;
+	}
 
-  return n;
-};	
+	return n;
+  };	
 
-	eleventyConfig.setLibrary("md", markdownLibrary);
+  eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Override Browsersync defaults (used only with --serve)
   eleventyConfig.setBrowserSyncConfig({
