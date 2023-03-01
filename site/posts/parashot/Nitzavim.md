@@ -13,10 +13,12 @@ date: 2021-10-04T00:22:16.154Z
 
 ## Deuteronomy Chapter 29, verse
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
  	  	ט אַתֶּ֨ם נִצָּבִ֤ים הַיּוֹם֙ כֻּלְּכֶ֔ם לִפְנֵ֖י יְהֹוָ֣ה 
 			אֱלֹֽהֵיכֶ֑ם
-<p dir ="ltr">
+</p>
+<p>
 9. You are all standing this day before the Lord, your God the leaders of your tribes, your elders and your officers, every man of Israel,
 </p>
 </blockquote>
@@ -29,9 +31,11 @@ n29:10] <b>טפכים </b>&mdash; <i>Your small children</i>. The future of the 
 
 ---
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
  	  	יא לְעָבְרְךָ֗ בִּבְרִ֛ית יְהֹוָ֥ה אֱלֹהֶ֖יךָ וּבְאָֽלָת֑וֹ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ כֹּרֵ֥ת עִמְּךָ֖ הַיּֽוֹם
-<p dir ="ltr">
+</p>
+<p>
 11. that you may enter the covenant of the Lord, your God, and His imprecation, which the Lord, your God, seals with you this day,
 </p>
 </blockquote>
@@ -57,9 +61,10 @@ Biblical meaning: curse, oath, covenant. However, the modern meaning is club, st
 </div>
 ---
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יג וְלֹ֥א אִתְּכֶ֖ם לְבַדְּכֶ֑ם אָֽנֹכִ֗י כֹּרֵת֙ אֶת־הַבְּרִ֣ית הַזֹּ֔את וְאֶת־הָֽאָלָ֖ה הַזֹּֽאת:
-<p dir="ltr">13. But not only with you am I making this covenant and this oath,
+<p>13. But not only with you am I making this covenant and this oath,
 </p>
 יד כִּי֩ אֶת־אֲשֶׁ֨ר יֶשְׁנ֜וֹ פֹּ֗ה עִמָּ֨נוּ֙ עֹמֵ֣ד הַיּ֔וֹם לִפְנֵ֖י יְהֹוָ֣ה אֱלֹהֵ֑ינוּ וְאֵ֨ת אֲשֶׁ֥ר אֵינֶ֛נּוּ פֹּ֖ה עִמָּ֥נוּ הַיּֽוֹם:
 <p dir="ltr">
@@ -77,7 +82,8 @@ The covenant was binding even on unborn generations ... because parents and chil
 
 ---
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 טו כִּֽי־אַתֶּ֣ם יְדַעְתֶּ֔ם אֵ֥ת אֲשֶׁר־יָשַׁ֖בְנוּ בְּאֶ֣רֶץ מִצְרָ֑יִם וְאֵ֧ת אֲשֶׁר־עָבַ֛רְנוּ בְּקֶ֥רֶב הַגּוֹיִ֖ם אֲשֶׁ֥ר עֲבַרְתֶּֽם:
 <br />
 טז וַתִּרְאוּ֙ אֶת־שִׁקּ֣וּצֵיהֶ֔ם וְאֵ֖ת גִּלֻּֽלֵיהֶ֑ם עֵ֣ץ וָאֶ֔בֶן כֶּ֥סֶף וְזָהָ֖ב אֲשֶׁ֥ר עִמָּהֶֽם:
@@ -85,7 +91,8 @@ The covenant was binding even on unborn generations ... because parents and chil
 יז פֶּן־יֵ֣שׁ בָּ֠כֶ֠ם אִ֣ישׁ אֽוֹ־אִשָּׁ֞ה א֧וֹ מִשְׁפָּחָ֣ה אוֹ־שֵׁ֗בֶט אֲשֶׁר֩ לְבָב֨וֹ פֹנֶ֤ה הַיּוֹם֙ מֵעִם֙ יְהֹוָ֣ה אֱלֹהֵ֔ינוּ לָלֶ֣כֶת לַֽעֲבֹ֔ד אֶת־אֱלֹהֵ֖י הַגּוֹיִ֣ם הָהֵ֑ם פֶּן־יֵ֣שׁ בָּכֶ֗ם שֹׁ֛רֶשׁ פֹּרֶ֥ה רֹ֖אשׁ וְלַֽעֲנָֽה:
 <br />
 יח וְהָיָ֡ה בְּשָׁמְעוֹ֩ אֶת־דִּבְרֵ֨י הָֽאָלָ֜ה הַזֹּ֗את וְהִתְבָּרֵ֨ךְ בִּלְבָב֤וֹ לֵאמֹר֙ שָׁל֣וֹם יִֽהְיֶה־לִּ֔י כִּ֛י בִּשְׁרִר֥וּת לִבִּ֖י אֵלֵ֑ךְ לְמַ֛עַן סְפ֥וֹת הָֽרָוָ֖ה אֶת־הַצְּמֵאָֽה:
-<p dir="ltr">
+</p>
+<p>
 15. For you know how we dwelled in the land of Egypt, and how we passed through the midst of the nations through whom you passed.<br />
 16. And you saw their abominations and their detestible idols &mdash; of wood and stone, silver and gold that were with them.<br />
 17. Perhaps there is among you a man, woman, family or tribe, whose heart turns away today from being with the **HaShem**, our G-d, to go and serve the deities of those nations. Perhaps there is among you a root flourishing with gall (hemlock?) and wormwood.
@@ -114,9 +121,11 @@ n29:19] <b>וּמָחָ֤ה יְהֹוָה֙ אֶת־שְׁמ֔וֹ מִתַּ֖
 
 ---
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
     כח הַנִּ֨סְתָּרֹ֔ת לַֽיהֹוָ֖ה אֱלֹהֵ֑ינוּ וְהַנִּגְלֹ֞ת ֹלָֹ֤נוֹּ ֹוֹּלְֹבָֹנֵֹ֨יֹנֹוּ֨ עַד־עוֹלָ֔ם לַֽעֲשׂ֕וֹת אֶת־כָּל־דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת:
-<p dir="ltr">
+</p>
+<p>
 28. The hidden things belong to the Lord, our God, but the revealed things apply to us and to our children forever: that we must fulfill all the words of this Torah.
 </p>
 </blockquote>
@@ -129,9 +138,11 @@ n29:28] <b>הנסתרות לה’ ־ </b>&mdash; <i>the hidden [sins] are for G-
 {NOTE: This is a litany as to the good things that will happen if (and when) we "accept G-d and love Him with all our heart and all our soul. It is a lovely piece in many ways, but what I find particularly interesting is the turn of phrase(s) used to describe this abiding love we should arouse in ourselves. What stands out for me is the continuous "listen to His Voice". It has caused me to spend many hours meditating on what is meant by "His Voice". The majority of Rabbi's seem to look at it as "the reading/study of the Torah", but, postmodernist that I am, I wander. If G-d is everywhere and everything... would not His Voice be everywhere and in everything? Those Words uttered in the creation of the world would still be reverberating today, and, even more so, if, according to Kabbalah, the creation is happening continuously.}
 </p>
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 א וְהָיָה֩ כִֽי־יָבֹ֨אוּ עָלֶ֜יךָ כָּל־הַדְּבָרִ֣ים הָאֵ֗לֶּה הַבְּרָכָה֙ וְהַקְּלָלָ֔ה אֲשֶׁ֥ר נָתַ֖תִּי לְפָנֶ֑יךָ וַֽהֲשֵֽׁבֹתָ֙ אֶל־לְבָבֶ֔ךָ בְּכָ֨ל־הַגּוֹיִ֔ם אֲשֶׁ֧ר הִדִּיחֲךָ֛ יְהֹוָ֥ה אֱלֹהֶ֖יךָ שָֽׁמָּה:
-<p dir="ltr">
+</p>
+<p>
 1 And it will be, when all these things come upon you the blessing and the curse which I have set before you that you will consider in your heart, among all the nations where the Lord your God has banished you,
 </p>
 ב וְשַׁבְתָּ֞ עַד־יְהֹוָ֤ה אֱלֹהֶ֨יךָ֙ וְשָֽׁמַעְתָּ֣ בְקֹל֔וֹ כְּכֹ֛ל אֲשֶׁר־אָֽנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם אַתָּ֣ה וּבָנֶ֔יךָ בְּכָל־לְבָבְךָ֖ וּבְכָל־נַפְשֶֽׁךָ:
@@ -144,16 +155,20 @@ n29:28] <b>הנסתרות לה’ ־ </b>&mdash; <i>the hidden [sins] are for G-
 </p>
 </blockquote>
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ו וּמָ֨ל יְהֹוָ֧ה אֱלֹהֶ֛יךָ אֶת־לְבָֽבְךָ֖ וְאֶת־לְבַ֣ב זַרְעֶ֑ךָ לְאַֽהֲבָ֞ה אֶת־יְהֹוָ֧ה אֱלֹהֶ֛יךָ בְּכָל־לְבָֽבְךָ֥ וּבְכָל־נַפְשְׁךָ֖ לְמַ֥עַן חַיֶּֽיךָ:
-<p dir="ltr">
+</p>
+<p>
 6. And the Lord, your God, will circumcise your heart and the heart of your offspring, [so that you may] love the Lord your God with all your heart and with all your soul, for the sake of your life.
 </p>
 </blockquote>
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 י כִּ֣י תִשְׁמַ֗ע בְּקוֹל֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹ֤ר מִצְו‍ֹתָיו֙ וְחֻקֹּתָ֔יו הַכְּתוּבָ֕ה בְּסֵ֥פֶר הַתּוֹרָ֖ה הַזֶּ֑ה כִּ֤י תָשׁוּב֙ אֶל־יְהֹוָ֣ה אֱלֹהֶ֔יךָ בְּכָל־לְבָֽבְךָ֖ וּבְכָל־נַפְשֶֽׁךָ:
-<p dir="ltr">
+</p>
+<p>
 10. when you obey the Lord, your God, to observe His commandments and His statutes written in this Torah scroll, [and] when you return to the Lord, your God, with all your heart and with all your soul.
 </p>
 יא כִּ֚י הַמִּצְוָ֣ה הַזֹּ֔את אֲשֶׁ֛ר אָֽנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם לֹֽא־נִפְלֵ֥את הִוא֙ מִמְּךָ֔ וְלֹֽא־רְחֹקָ֖ה הִֽוא:
@@ -174,9 +189,11 @@ n29:28] <b>הנסתרות לה’ ־ </b>&mdash; <i>the hidden [sins] are for G-
 </p>
 </blockquote>
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 טו רְאֵ֨ה נָתַ֤תִּי לְפָנֶ֨יךָ֙ הַיּ֔וֹם אֶת־הַֽחַיִּ֖ים וְאֶת־הַטּ֑וֹב וְאֶת־הַמָּ֖וֶת וְאֶת־הָרָֽע:
-<p dir="ltr">
+</p>
+<p>
 15. Behold, I have set before you today life and good, and death and evil,
 </p>
 טז אֲשֶׁ֨ר אָֽנֹכִ֣י מְצַוְּךָ֘ הַיּוֹם֒ לְאַֽהֲבָ֞ה אֶת־יְהֹוָ֤ה אֱלֹהֶ֨יךָ֙ לָלֶ֣כֶת בִּדְרָכָ֔יו וְלִשְׁמֹ֛ר מִצְו‍ֹתָ֥יו וְחֻקֹּתָ֖יו וּמִשְׁפָּטָ֑יו וְחָיִ֣יתָ וְרָבִ֔יתָ וּבֵֽרַכְךָ֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ בָּאָ֕רֶץ אֲשֶׁר־אַתָּ֥ה בָא־שָׁ֖מָּה לְרִשְׁתָּֽהּ:

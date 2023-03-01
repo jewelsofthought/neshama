@@ -78,9 +78,11 @@ However, that is not what really fascinates me regarding this week's reading. Bu
 
 ### 18 &#58;1 <b>HaShem</b> appeared to him
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 א וַיֵּרָ֤א אֵלָיו֙ יְהֹוָ֔ה בְּאֵֽלֹנֵ֖י מַמְרֵ֑א וְה֛וּא ישֵׁ֥ב פֶּֽתַח־הָאֹ֖הֶל כְּחֹ֥ם הַיּֽוֹם:
-  <p dir="ltr">
+  </p>
+  <p>
 1. Now <b>HaShem</b> appeared to him in the plains of Mamre, and he was sitting at the entrance of the tent when the day was hot.
   </p>
 </blockquote>
@@ -137,9 +139,11 @@ So in the "heat of the day" – **פתוֹם היום** &ndash; _pitom ha’yom_
 
 ### 18 &#58;2 Three men
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ב וַיִּשָּׂ֤א עֵינָיו֙ וַיַּ֔רְא וְהִנֵּה֙ שְׁלשָׁ֣ה אֲנָשִׁ֔ים נִצָּבִ֖ים עָלָ֑יו וַיַּ֗רְא וַיָּ֤רָץ לִקְרָאתָם֙ מִפֶּ֣תַח הָאֹ֔הֶל וַיִּשְׁתַּ֖חוּ אָֽרְצָה:
-  <p dir="ltr">
+  </p>
+  <p>
 2. And he lifted his eyes and saw, and behold, three men were standing beside him, and he saw and he ran toward them from the entrance of the tent, and he prostrated himself to the ground
   </p>
 </blockquote>
@@ -170,9 +174,11 @@ Perhaps it was taking place in another context, not quite this 3d one. He was in
 
 ### n18 &#58;3 Do not pass
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ג וַיֹּאמַ֑ר אֲדֹנָ֗י אִם־נָ֨א מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ אַל־נָ֥א תַֽעֲבֹ֖ר מֵעַ֥ל עַבְדֶּֽךָ:
-<p dir="ltr">
+</p>
+<p>
 3. And he said, "My lords, if only I have found favour in your eyes, please do not pass on from beside your servant.
   </p>
 </blockquote>
@@ -189,9 +195,11 @@ In essence, whatever life was for these people, whether this is an imaginary tal
 
 ### n18&#58;6 Sarah
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ו וַיְמַהֵ֧ר אַבְרָהָ֛ם הָאֹ֖הֱלָה אֶל־שָׂרָ֑ה וַיֹּ֗אמֶר מַֽהֲרִ֞י שְׁל֤שׁ סְאִים֙ קֶ֣מַח סֹ֔לֶת ל֖וּשִׁי וַֽעֲשִׂ֥י עֻגֽוֹת:
-<p dir="ltr">
+</p>
+<p>
 6. And Abraham hastened to the tent to Sarah, and he said, "Hasten three _seah_ of meal [and] fine flour; knead and make cakes." 
 </p>
 </blockquote>
@@ -204,9 +212,11 @@ There is an interesting note here on diet. The diet is meat, and milk and cream 
 
 #### Stand over them
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ח וַיִּקַּ֨ח חֶמְאָ֜ה וְחָלָ֗ב וּבֶן־הַבָּקָר֙ אֲשֶׁ֣ר עָשָׂ֔ה וַיִּתֵּ֖ן לִפְנֵיהֶ֑ם וְהֽוּא־עֹמֵ֧ד עֲלֵיהֶ֛ם תַּ֥חַת הָעֵ֖ץ וַיֹּאכֵֽלוּ:
-<p dir="ltr">
+</p>
+<p>
 8. And he took cream and milk and the calf that he had prepared, and he placed [them] before them, and he was standing over them under the tree, and they ate. 
 </p>
 </blockquote>
@@ -219,9 +229,11 @@ The men must have sojourned there a little while, for at least half a day, as Ab
 
 ### 18&#58;9 Call to Sarah
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ט וַיֹּֽאמְר֣וּ אֵלָ֔יו אַיֵּ֖ה שָׂרָ֣ה אִשְׁתֶּ֑ךָ וַיֹּ֖אמֶר הִנֵּ֥ה בָאֹֽהֶל:
-<p dir="ltr">
+</p>
+<p>
 9. And they said to him, "Where is Sarah your wife?" And he said, "Behold in the tent."
 </p>
 </blockquote>
@@ -230,9 +242,11 @@ Here is an interesting twist to this tale. Perhaps the three men came for Sarah.
 
 ### 18&#58;10 She stands behind
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 י וַיֹּ֗אמֶר שׁ֣וֹב אָשׁ֤וּב אֵלֶ֨יךָ֙ כָּעֵ֣ת חַיָּ֔ה וְהִנֵּה־בֵ֖ן לְשָׂרָ֣ה אִשְׁתֶּ֑ךָ וְשָׂרָ֥ה שֹׁמַ֛עַת פֶּ֥תַח הָאֹ֖הֶל וְה֥וּא אַֽחֲרָֽיו:
-<p dir="ltr">
+</p>
+<p>
 10. And he said, "I will surely return to you at this time next year, and behold, your wife Sarah will have a son." And Sarah heard from the entrance of the tent, and it was behind him.
 </p>
 </blockquote>
@@ -245,9 +259,11 @@ However, it seems that he has been there the whole time. For it does not say tha
 
 ### 18&#58;11 Old
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יא וְאַבְרָהָ֤ם וְשָׂרָה֙ זְקֵנִ֔ים בָּאִ֖ים בַּיָּמִ֑ים חָדַל֙ לִֽהְי֣וֹת לְשָׂרָ֔ה אֹ֖רַח כַּנָּשִֽׁים:
-  <p dir="ltr">
+  </p>
+  <p>
 1.  Now Abraham and Sarah were old, coming on in years; Sarah had ceased to have the way of the women.
   </p>
 </blockquote>
@@ -264,9 +280,11 @@ Note: This is an idealisation. As Abraham travelled from place to place. When do
 
 ### 18&#58;12 Sara laughs
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יב וַתִּצְחַ֥ק שָׂרָ֖ה בְּקִרְבָּ֣הּ לֵאמֹ֑ר אַֽחֲרֵ֤י בְלֹתִי֙ הָֽיְתָה־לִּ֣י עֶדְנָ֔ה וַֽאדֹנִ֖י זָקֵֽן:
-<p dir="ltr">
+</p>
+<p>
 12.And Sarah laughed within herself, saying, "After I have become worn out, will I have smooth flesh? And also, my master is old." </p>
 </blockquote>
 
@@ -274,9 +292,11 @@ Remember, it was **HaShem** who became angry at Sarah! And in “_Beholders of D
 
 ### 18&#58;16 Rose
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 טזוַיָּקֻ֤מוּ מִשָּׁם֙ הָֽאֲנָשִׁ֔ים וַיַּשְׁקִ֖פוּ עַל־פְּנֵ֣י סְדֹ֑ם וְאַ֨בְרָהָ֔ם הֹלֵ֥ךְ עִמָּ֖ם לְשַׁלְּחָֽם:
-<p dir="ltr">
+</p>
+<p>
 16. And the men arose from there, and they looked upon Sodom, and Abraham went with them to escort them,
 </p>
 </blockquote>
@@ -287,9 +307,11 @@ After delivering their message, they get up and “gaze towards Sodom” and Abr
 
 Now they are ready to go, having delivered the message. Abraham will escort them, and while he is doing that, **HaShem** is talking to Himself, debating whether to tell Abraham that He is going to destroy Sodom and Gomorrah.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יזוַֽיהֹוָ֖ה אָמָ֑ר הַֽמֲכַסֶּ֤ה אֲנִי֙ מֵֽאַבְרָהָ֔ם אֲשֶׁ֖ר אֲנִ֥י עֹשֶֽׂה:
-<p dir="ltr">
+</p>
+<p>
 17.And the Lord said, "Shall I conceal from Abraham what I am doing? 
 </p>
 </blockquote>
@@ -298,9 +320,11 @@ Why would **HaShem** feel obligated to share this information with Abraham? How 
 
 ### 18&#58;21 S'dom's cry
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כא אֵֽרֲדָה־נָּ֣א וְאֶרְאֶ֔ה הַכְּצַֽעֲקָתָ֛הּ הַבָּ֥אָה אֵלַ֖י עָשׂ֣וּ | כָּלָ֑ה וְאִם־לֹ֖א אֵדָֽעָה:
-<p dir="ltr">
+</p>
+<p>
 21. I will descend now and see, according to her cry which has come to Me, what they have done; [I will wreak] destruction [upon them]; and if not, I will know."   </p>
 </blockquote>
 
@@ -310,9 +334,11 @@ Changing the meaning slightly, one could render this as: "I will descend now and
 
 ### 18&#58;22 Leave
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כב וַיִּפְנ֤וּ מִשָּׁם֙ הָֽאֲנָשִׁ֔ים וַיֵּֽלְכ֖וּ סְדֹ֑מָה וְאַ֨בְרָהָ֔ם עוֹדֶ֥נּוּ עֹמֵ֖ד לִפְנֵ֥י יְהֹוָֽה:
-<p dir="ltr">
+</p>
+<p>
 22. And the men turned from there and went to Sodom, and Abraham was still standing before the Lord.
 </p>
 </blockquote>
@@ -326,9 +352,11 @@ This is the second time that it says that men went to Sodom, the first time Abra
 
 ### 18&#58;23-32 Negotiations
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כג וַיִּגַּ֥שׁ אַבְרָהָ֖ם וַיֹּאמַ֑ר הַאַ֣ף תִּסְפֶּ֔ה צַדִּ֖יק עִם־רָשָֽׁע:
-<p dir="ltr">
+</p>
+<p>
 23. And Abraham approached and said, "Will You even destroy the righteous with the wicked?
 </p>
 </blockquote>
@@ -345,9 +373,11 @@ This is a turbulent chapter.
 
 ### 19&#58;1 At the entrance
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 א וַ֠יָּבֹ֠אוּ שְׁנֵ֨י הַמַּלְאָכִ֤ים סְדֹ֨מָה֙ בָּעֶ֔רֶב וְל֖וֹט ישֵׁ֣ב בְּשַֽׁעַר־סְדֹ֑ם וַיַּרְא־לוֹט֙ וַיָּ֣קָם לִקְרָאתָ֔ם וַיִּשְׁתַּ֥חוּ אַפַּ֖יִם אָֽרְצָה:
-<p dir="ltr">
+</p>
+<p>
 1. And the two angels came to Sodom in the evening, and Lot was sitting in the gate of Sodom, and Lot saw and arose toward them, and he prostrated himself on his face to the ground.
 </p>
 </blockquote>
@@ -360,9 +390,11 @@ Note that it is said that Abraham was still recovering from having circumcised h
 
 ### 19&#58;2 Stay
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ב וַיֹּ֜אמֶר הִנֶּ֣ה נָּֽא־אֲדֹנַ֗י ס֣וּרוּ נָ֠א אֶל־בֵּ֨ית עַבְדְּכֶ֤ם וְלִ֨ינוּ֙ וְרַֽחֲצ֣וּ רַגְלֵיכֶ֔ם וְהִשְׁכַּמְתֶּ֖ם וַֽהֲלַכְתֶּ֣ם לְדַרְכְּכֶ֑ם וַיֹּֽאמְר֣וּ לֹּ֔א כִּ֥י בָֽרְח֖וֹב נָלִֽין:
-<p dir="ltr">
+</p>
+<p>
 2. And he said, "Behold now my lords, please turn to your servant's house and stay overnight and wash your feet, and you shall arise early and go on your way." And they said, "No, but we will stay overnight in the street."
 </p>
 </blockquote>
@@ -371,9 +403,11 @@ Lot invites them to stay at his place. Where they will "wash their feet” &ndas
 
 ### 19&#58;3 Feast
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ג וַיִּפְצַר־בָּ֣ם מְאֹ֔ד וַיָּסֻ֣רוּ אֵלָ֔יו וַיָּבֹ֖אוּ אֶל־בֵּית֑וֹ וַיַּ֤עַשׂ לָהֶם֙ מִשְׁתֶּ֔ה וּמַצּ֥וֹת אָפָ֖ה וַיֹּאכֵֽלוּ:
-<p dir="ltr">
+</p>
+<p>
 3. And he urged them strongly, and they turned in to him, and came into his house, and he made them a feast, and he baked unleavened cakes, and they ate.
 </p>
 </blockquote>
@@ -390,9 +424,11 @@ Though there is the midrash regarding Lot’s _matzoh_ – which speaks of Lot�
 
 ### 19&#58;4 People arrive
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ד טֶ֘רֶם֘ יִשְׁכָּ֒בוּ֒ וְאַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֤י סְדֹם֙ נָסַ֣בּוּ עַל־הַבַּ֔יִת מִנַּ֖עַר וְעַד־זָקֵ֑ן כָּל־הָעָ֖ם מִקָּצֶֽה:
-  <p dir="ltr">
+  </p>
+  <p>
 4. When they had not yet retired, and the people of the city, the people of Sodom, surrounded the house, both young and old, the entire populace from every end [of the city].
   </p>
 </blockquote>
@@ -407,9 +443,11 @@ This sounds like quite an extreme response to a couple of men coming to stay at 
 
 ### 19&#58;5 Know
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ה וַיִּקְרְא֤וּ אֶל־לוֹט֙ וַיֹּ֣אמְרוּ ל֔וֹ אַיֵּ֧ה הָֽאֲנָשִׁ֛ים אֲשֶׁר־בָּ֥אוּ אֵלֶ֖יךָ הַלָּ֑יְלָה הֽוֹצִיאֵ֣ם אֵלֵ֔ינוּ וְנֵֽדְעָ֖ה אֹתָֽם:
-<p dir="ltr">
+</p>
+<p>
 5. And they called to Lot and said to him, "Where are the men who came to you tonight? Bring them out to us, and let us be intimate with them."
 </p>
 </blockquote>
@@ -422,20 +460,24 @@ Of course, we are not told of what their sin is exactly &ndash; but according to
 
 I want to go out on a limb here and speak of the Angelic nature of the two men visiting Lot, and that this might be an, albeit perverse, desire for these people to be closer to the Divine. That even in the depths of their depravity, they in their brutish way, did desire to taste of the Divine made flesh. Perhaps this tale is really taking place on a non-real plane.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
  וְ חַטָּאתָם--כִּי כָבְדָה, מְאֹד 
-<p dir="ltr">
+</p>
+<p>
 Verily, their sin is exceeding grievous
 </p>
 </blockquote>
 
 ### 19&#58;6-8 The Mob
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ו וַיֵּצֵ֧א אֲלֵהֶ֛ם ל֖וֹט הַפֶּ֑תְחָה וְהַדֶּ֖לֶת סָגַ֥ר אַֽחֲרָֽיו:
 ז וַיֹּאמַ֑ר אַל־נָ֥א אַחַ֖י תָּרֵֽעוּ:
 ח הִנֵּה־נָ֨א לִ֜י שְׁתֵּ֣י בָנ֗וֹת אֲשֶׁ֤ר לֹא־יָֽדְעוּ֙ אִ֔ישׁ אוֹצִֽיאָה־נָּ֤א אֶתְהֶן֙ אֲלֵיכֶ֔ם וַֽעֲשׂ֣וּ לָהֶ֔ן כַּטּ֖וֹב בְּעֵֽינֵיכֶ֑ם רַ֠ק לָֽאֲנָשִׁ֤ים הָאֵל֙ אַל־תַּֽעֲשׂ֣וּ דָבָ֔ר כִּֽי־עַל־כֵּ֥ן בָּ֖אוּ בְּצֵ֥ל קֹֽרָתִֽי:
-<p dir="ltr">
+</p>
+<p>
 6. And Lot came out to them to the entrance, and he shut the door behind him.
 7. And he said, "My brethren, please do not do evil.
 8. Behold now I have two daughters who were not intimate with a man. I will bring them out to you, and do to them as you see fit; only to these men do nothing, because they have come under the shadow of my roof."
@@ -454,9 +496,11 @@ There is perhaps another expression of this. It is: "These men are under my prot
 
 ### 19&#58;9 Sojourner
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ט וַיֹּֽאמְר֣וּ | גֶּשׁ־הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָֽאֶחָ֤ד בָּֽא־לָגוּר֙ וַיִּשְׁפֹּ֣ט שָׁפ֔וֹט עַתָּ֕ה נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַיִּפְצְר֨וּ בָאִ֤ישׁ בְּלוֹט֙ מְאֹ֔ד וַיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת:
-<p dir="ltr">
+</p>
+<p>
 9. But they said, "Back away." And they said, "This one came to sojourn, and he is judging! Now, we will deal even worse with you than with them."And they pressed hard upon the man Lot, and they drew near to break the door." 
 </p>
 </blockquote>
@@ -465,16 +509,18 @@ There is perhaps another expression of this. It is: "These men are under my prot
 
 ### 19:10 Hand
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 י וַיִּשְׁלְח֤וּ הָֽאֲנָשִׁים֙ אֶת־יָדָ֔ם וַיָּבִ֧יאוּ אֶת־ל֛וֹט אֲלֵיהֶ֖ם הַבָּ֑יְתָה וְאֶת־הַדֶּ֖לֶת סָגָֽרוּ:
-<p dir="ltr">
+</p>
+<p>
 10. And the men stretched forth their hands, and they brought Lot to them to the house, and they shut the door.
 </p>
 </blockquote>
 
-<b>וַיִּשְׁלְחוּ הָאֲנָשִׁים אֶת-יָדָם </b>&mdash;<i>And the men put forth their hand.</i>
+<b>וַיִּשְׁלְחוּ הָאֲנָשִׁים אֶת-יָדָם</b> &mdash;<i>And the men put forth their hand.</i>
 
-{Note: Although it is generally translated as hands, **ידיים** (_yadai'im)_, in this case it is spelt, **ִיָדָם**, (_yadam_) which is closer to "their hand".}
+Note: Although it is generally translated as hands, **ידיים** (_yadai'im_), in this case it is spelt, **ִיָדָם**, (_yadam_) which is closer to "their hand".{.note}
 
 They press "sorely" against Lot, ready to break down his door, then something strange and magical occurs. The men (of G!d) stretch out their hand – note the singular – the men (plural) put out their hand (singular). Perhaps this is referring to a collective action. But it also is reminiscent Abraham addressing the men in the singular, as “My Lord”. Or perhaps it was that there was one amongst the three who was the Lord, blessed by His name, and the other two were angels.
 
@@ -482,9 +528,11 @@ They bring Lot inside and close the door. Now there is no mention of them openin
 
 ### 19:11
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יא וְאֶת־הָֽאֲנָשִׁ֞ים אֲשֶׁר־פֶּ֣תַח הַבַּ֗יִת הִכּוּ֙ בַּסַּנְוֵרִ֔ים מִקָּטֹ֖ן וְעַד־גָּד֑וֹל וַיִּלְא֖וּ לִמְצֹ֥א הַפָּֽתַח:
-<p dir="ltr">
+</p>
+<p>
 11. And the men who were at the entrance of the house they struck with blindness, both small and great, and they toiled in vain to find the entrance. 
 </p>
 </blockquote>
@@ -507,18 +555,22 @@ This also speaks to the fact that only G-d can "change what is", in other words 
 
 ### 19&#58;12-14 Leave now
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יב וַיֹּֽאמְר֨וּ הָֽאֲנָשִׁ֜ים אֶל־ל֗וֹט עֹ֚ד מִֽי־לְךָ֣ פֹ֔ה חָתָן֙ וּבָנֶ֣יךָ וּבְנֹתֶ֔יךָ וְכֹ֥ל אֲשֶׁר־לְךָ֖ בָּעִ֑יר הוֹצֵ֖א מִן־הַמָּקֽוֹם:
-<p dir="ltr">
+</p>
+<p>
 12. And the men said to Lot, "Whom else do you have here? A son-in-law, your sons, and your daughters, and whomever you have in the city, take out of the place.
 </p>
 </blockquote>
 
 The angels urge Lot to leave – yet he lingers. It is like someone comes along and tells you that a tsunami is going to occur and you linger. Would you believe him? When he tried to approach his son-in-laws and the suitors of his daughters to leave the city, they laughed at his fears.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 וַיְהִי כִמְצַחֵק בְּעֵינֵי חֲתָנָיו 
-<p dir="ltr">
+</p>
+<p>
 “He seemed to his son-in-laws as one who was in jest.” (19&#58;14)
 </p>
 </blockquote>
@@ -527,22 +579,22 @@ Which meant that his betrothed daughters could not leave with him, as was the cu
 
 ### 19:15 Dawn rose
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 טו וּכְמוֹ֙ הַשַּׁ֣חַר עָלָ֔ה וַיָּאִ֥יצוּ הַמַּלְאָכִ֖ים בְּל֣וֹט לֵאמֹ֑ר קוּם֩ קַ֨ח אֶת־אִשְׁתְּךָ֜ וְאֶת־שְׁתֵּ֤י בְנֹתֶ֨יךָ֙ הַנִּמְצָאֹ֔ת פֶּן־תִּסָּפֶ֖ה בַּֽעֲוֹ֥ן הָעִֽיר:
-<p dir="ltr">
+</p>
+<p>
 15. And as the dawn rose, the angels pressed Lot, saying, "Get up, take your wife and your two daughters who are here, lest you perish because of the iniquity of the city."
 </p>
 </blockquote>
 
 So, at dawn, they take him, his wife and his two daughters **בְּחֶמְלַת יְהוָה עָלָיו** &ndash; “_in the Lord’s mercy_” out of the city. They tell them: הִמָּלֵטעַל נַפְשֶׁךָ &ndash; "_Flee for your life_" or rather “_Save your soul_”...
 
-<blockquote dir="rtl">
-<p dir="ltr">
-</p>
-</blockquote>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
  אַל-תַּבִּיט אַחֲרֶיךָ, וְאַל-תַּעֲמֹד בְּכָל-הַכִּכָּר:  הָהָרָה הִמָּלֵט 
-<p dir="ltr">
+</p>
+<p>
 Do not look behind you, do not tarry on the plains, escape to the mountains.
 </p>
 </blockquote>
@@ -550,9 +602,11 @@ Do not look behind you, do not tarry on the plains, escape to the mountains.
 But Lot objects! אַל נָא אֲדֹנָי &ndash; “_Not so, my Lord_”. Who
 is he addressing here? Then he says something strange:
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
  אוּכַל לְהִמָּלֵט הָהָרָה--פֶּן-תִּדְבָּקַנִי הָרָעָה, וָמַתִּי 
-<p dir="ltr">
+</p>
+<p>
 "I cannot escape to the mountain, lest the evil overtake me, and I die."
 </p>
 </blockquote>
@@ -563,9 +617,11 @@ And He agrees. who is he addressing? Can the angels make such a decision, or doe
 
 Anyways, the response is “Hurry...”
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
  כִּי לֹא אוּכַל לַעֲשׂוֹת דָּבָר, עַד-בֹּאֲךָ שָׁמָּה 
-<p dir="ltr">
+</p>
+<p>
 For I cannot do anything till you get there
 </p>
 </blockquote>
@@ -576,9 +632,11 @@ Just note that everyone is taken as evil in these cases – even the young ones,
 
 Meanwhile,
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 הַשֶּׁמֶשׁ, יָצָא עַל-הָאָרֶץ 
-<p dir="ltr">
+</p>
+<p>
 The sun had risen upon the earth
 </p>
 </blockquote>
@@ -587,9 +645,11 @@ I love this turn of phrase. The biblical Hebrew can be so poetic. It speaks here
 
 Lot arrives at Zoar. Now we have an interesting sequence of events. The popular version of the tale is that as Lot and his family were leaving the city, his wife looked back and was turned into a pillar of salt. However, that here it is added as an afterthought. For this is how it goes. Lot arrives at Zoar, and the fire and brimstone rain upon Sodom and Gomorrah and destroy all the inhabitants and all that grows there. Then only does it say:
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 וַתַּבֵּט אִשְׁתּוֹ, מֵאַחֲרָיו; וַתְּהִי, נְצִיב מֶלַח
-<p dir="ltr">
+</p>
+<p>
 his wife looked back from behind him, and she became a pillar of salt
 </p>
 </blockquote>
@@ -603,18 +663,22 @@ turn her into a metallic salt.
 
 Abraham rises the next morning and sees the destruction, and we are reminded that the only reason that Lot was saved was because of Abraham’s righteousness. In other words he was saved in Abraham’s name. Though as mentioned before, both the Christians and the Muslims disagree, and believe Lot to be a holy man and a prophet in his own right.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
  כִּי יָרֵא, לָשֶׁבֶת בְּצוֹעַר 
-<p dir="ltr">
+</p>
+<p>
 for he feared to dwell in Zoar
 </p>
 </blockquote>
 
 Even Zoar was not safe for Lot, forcing him to leave (or does he “flee”) into the mountains with his daughters. He was afraid to remain there, understandably so, as I cannot imagine that his reception could have been that warm, considering that four cities had just been wiped out, and he and his daughters were the only survivors. In fact, not only did he survive, but he left before the event occurred. That must have made the inhabitants of Zoar very suspicious of him. That is perhaps why he “feared ..”
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 וְאִישׁ אֵין בָּאָרֶץ לָבוֹא עָלֵינוּ, כְּדֶרֶךְ כָּל-הָאָרֶץ 
-<p dir="ltr">
+</p>
+<p>
 there is not a man in the earth to come in unto us after the manner of all the earth
 </p>
 </blockquote>

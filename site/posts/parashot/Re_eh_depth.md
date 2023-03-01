@@ -37,7 +37,7 @@ Another interpretation is: “You shall tear down their altars . . . and destroy
 <p style="padding-left: 2.5rem">
 &mdash;&nbsp; (Talmud, Makkot 22a)
 </p>
-<p class="note>
+<p class="note">
 {NOTE: Does this then speak of <b>HaShem</b> appearing in other places as well? And why would He not, if He is Ruler over the whole world?}
 </p>
 ---
@@ -118,9 +118,11 @@ The “bound” elements of creation also have a role in the realization of the 
 {NOTE: Much too meat orientated. If I eat/consume anything – not just meat then it should be a process of transmutation.}
 </p>
 ---
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 רק אמ שׁמוע תשׁוע בקול יהוה אלֹהיך לשׁמר לעשׂות את־כל־המצווה הזאת אשׁר אשׁכי מצוךָ היום
-<p dir="ltr">
+</p>
+<p>
 Keep the commands with which I am charging you this day (15:6).
 </p>
 </blockquote>
@@ -182,16 +184,20 @@ There are eight levels of charity, each greater than the next.
 - 7 days of celebration, **סוכות**, _Succoth_.
 - 7 days of eating unleavened bread, חג המצות, the Holiday of Unleavened Bread, Passover.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ויהוה עקר תשׁמעוּן את המשׁפטים האלה ותשׁמרוּ ותעשׂוּ אתם שׁמור יהוה אלוהיך לך את־הברית ואת־החסד אשׁר נשׁבע לאבותךָ
-<p dir="ltr">
+</p>
+<p>
 If indeed you heed these laws and guard/keep them (holy) and do them (act on/from them), <b>HaShem</b>, your G-d, will keep/honour the oath/covenant and the mercy/love that he swore to/forged with your father's ancestors.
 </p>
 </blockquote>
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 אשׁר נשׁבא לאבותךָ (לתת לךָ)
-  <p dir="ltr">
+  </p>
+  <p>
   You will be loved and blessed, you will multiply. The fruit of your womb, and the fruit hof your land... will be blessed.
   </p>
 </blockquote>

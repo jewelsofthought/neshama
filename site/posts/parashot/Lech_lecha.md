@@ -14,10 +14,12 @@ date: 2022-11-05T01:33:06.076Z
 - v3: I will bless you++
 - v4: Abraham was 75 years old
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   א וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־אַבְרָ֔ם לֶךְ־לְךָ מֵֽאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖
   וּמִבֵּ֣ית אָבִ֑יךָ אֶל־הָאָ֖רֶץ אֲשֶׁ֥ר אַרְאֶֽ
-  <p dir="ltr">
+  </p>
+  <p>
     1. And the Lord said to Abram, "Go forth from your land and from your
     birthplace and from your father's house, to the land that I will show you.
   </p>
@@ -49,9 +51,11 @@ n12:1] <b>לֶךְ־לְךָ</b> &mdash; <i>Go for yourself.</i>(\*) The seeming
 
 ### 12:2] Blessing and promise
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ב וְאֶֽעֶשְׂךָ֙ לְג֣וֹי גָּד֔וֹל וַֽאֲבָ֣רֶכְךָ֔ וַֽאֲגַדְּלָ֖ה שְׁמֶ֑ךָ וֶֽהְיֵ֖ה בְּרָכָֽה:
-<p dir="ltr">
+</p>
+<p>
 2. And I will make you into a great nation, and I will bless you, and I will aggrandize your name, and [you shall] be a blessing. 
 </p>
 </blockquote>
@@ -64,12 +68,14 @@ n12:4] Lot's father was Haran, Abraham's brother who had died in the flames of U
 
 ### 12:5] The souls acquired ^[Note: Who were these souls that they acquired?]
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
+  </p>
   ה וַיִּקַּ֣ח אַבְרָם֩ אֶת־שָׂרַ֨י אִשְׁתּ֜וֹ וְאֶת־ל֣וֹט בֶּן־אָחִ֗יו
   וְאֶת־כָּל־רְכוּשָׁם֙ אֲשֶׁ֣ר רָכָ֔שׁוּ וְאֶת־הַנֶּ֖פֶשׁ אֲשֶׁר־עָשׂ֣וּ
   בְחָ֑רָן וַיֵּֽצְא֗וּ לָלֶ֨כֶת֙ אַ֣רְצָה כְּנַ֔עַן וַיָּבֹ֖אוּ אַ֥רְצָה
   כְּנָֽעַן:
-  <p dir="ltr">
+  <p>
     5. And Abram took Sarai his wife and Lot his brother's son, and all their possessions that they had acquired, and the souls they had acquired in Haran, and they went to go to the land of Canaan, and they came to the land of Canaan.
   </p>
 </blockquote>
@@ -82,9 +88,11 @@ n12:6] <b>Deeds of the Patriarchs, portents for the children.</b> כל מה שׁ�
 
 ### 12:7] "To your seed I will give this land"
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ז וַיֵּרָ֤א יְהֹוָה֙ אֶל־אַבְרָ֔ם וַיֹּ֕אמֶר לְזַ֨רְעֲךָ֔ אֶתֵּ֖ן אֶת־הָאָ֣רֶץ הַזֹּ֑את וַיִּ֤בֶן שָׁם֙ מִזְבֵּ֔חַ לַֽיהֹוָ֖ה הַנִּרְאֶ֥ה אֵלָֽיו:
-<p dir="ltr">
+</p>
+<p>
 7. And the Lord appeared to Abram, and He said, "To your seed I will give this land," and there he built an altar to the Lord, Who had appeared to him.
 </p>
 </blockquote>
@@ -93,11 +101,13 @@ n12:7] <b>וַיֵּרָ֤א יְהֹוָה֙</b> &mdash; <i><b>HaShem</b> appea
 
 ### 12:8] 2nd Altar (Beth-El)
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ח וַיַּעְתֵּ֨ק מִשָּׁ֜ם הָהָ֗רָה מִקֶּ֛דֶם לְבֵֽית־אֵ֖ל וַיֵּ֣ט אָֽהֳלֹ֑ה
   בֵּֽית־אֵ֤ל מִיָּם֙ וְהָעַ֣י מִקֶּ֔דֶם וַיִּֽבֶן־שָׁ֤ם מִזְבֵּ֨חַ֙ לַֽיהֹוָ֔ה
   וַיִּקְרָ֖א בְּשֵׁ֥ם יְהֹוָֽה:
-  <p dir="ltr">
+  </p>
+  <p>
     8. And he moved from there to the mountain, east of Beth el, and he pitched his tent; Beth el was to the west and Ai was to the east, and there he built an altar to the Lord, and he called in the name of the Lord.
   </p>
 </blockquote>
@@ -106,9 +116,11 @@ n12:8] Abraham builds a second altar at which he _invoked **Hashem** by Name_.
 
 ### 12:9] Continued south^[Note: He did not settle at Bet El. He just pitched his tent, and continued southwards... why? He was in the Land of Canaan. What was he looking for?]
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   טוַיִּסַּ֣ע אַבְרָ֔ם הָל֥וֹךְ וְנָס֖וֹעַ הַנֶּֽגְבָּה:
-  <p dir="ltr">
+  </p>
+  <p>
     1. And Abram travelled, continually travelling southward.
   </p>
 </blockquote>
@@ -117,13 +129,15 @@ n12:10-20] <b>Abraham in Egypt.</b> This is another test.^[Note: He lies about S
 
 ### 12:11-13] Sarai is my sister^[Note: Asks Sarai to lie for him so that it might go well with _him_. He is scared that they will kill him for Sarai, because she is so beautiful... but she is already 65! Was she still menstruating?]
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   יא וַיְהִ֕י כַּֽאֲשֶׁ֥ר הִקְרִ֖יב לָב֣וֹא מִצְרָ֑יְמָה וַיֹּ֨אמֶר֙ אֶל־שָׂרַ֣י
   אִשְׁתּ֔וֹ הִנֵּה־נָ֣א יָדַ֔עְתִּי כִּ֛י אִשָּׁ֥ה יְפַת־מַרְאֶ֖ה אָֽתְּ: יב
   וְהָיָ֗ה כִּֽי־יִרְא֤וּ אֹתָךְ֙ הַמִּצְרִ֔ים וְאָֽמְר֖וּ אִשְׁתּ֣וֹ זֹ֑את
   וְהָֽרְג֥וּ אֹתִ֖י וְאֹתָ֥ךְ יְחַיּֽוּ: יג אִמְרִי־נָ֖א אֲחֹ֣תִי אָ֑תְּ
   לְמַ֨עַן֙ יִֽיטַב־לִ֣י בַֽעֲבוּרֵ֔ךְ וְחָֽיְתָ֥ה נַפְשִׁ֖י בִּגְלָלֵֽךְ:
-  <p dir="ltr">
+  </p>
+  <p>
     11.  Now it came to pass when he drew near to come to Egypt, that he said to Sarai his wife, "Behold now I know that you are a woman of fair appearance.
     12.  And it will come to pass when the Egyptians see you, that they will say, 'This is his wife,' and they will slay me and let you live. 
     13.  Please say [that] you are my sister, in order that it go well with me because of you, and that my soul may live because of you."
@@ -136,52 +150,62 @@ n12:13] May it go well with me, for your sake.
 
 #### 12:14] Sara is pretty
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   יד וַיְהִ֕י כְּב֥וֹא אַבְרָ֖ם מִצְרָ֑יְמָה וַיִּרְא֤וּ הַמִּצְרִים֙
   אֶת־הָ֣אִשָּׁ֔ה כִּֽי־יָפָ֥ה הִ֖וא מְאֹֽד:
-  <p dir="ltr">
+  </p>
+  <p>
     1.  And it came to pass when Abram came to Egypt, that the Egyptians saw the woman, that she was very pretty.
   </p>
 </blockquote>
 
 #### 12:15] Sarai taken to the house of Pharoah
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   טו וַיִּרְא֤וּ אֹתָהּ֙ שָׂרֵ֣י פַרְעֹ֔ה וַיְהַֽלֲל֥וּ אֹתָ֖הּ אֶל־פַּרְעֹ֑ה
   וַתֻּקַּ֥ח הָֽאִשָּׁ֖ה בֵּ֥ית פַּרְעֹֽה:
-  <p dir="ltr">
+  </p>
+  <p>
     15. And Pharaoh's princes saw her, and they praised her to Pharaoh, and the woman was taken to the house of Pharaoh.
   </p>
 </blockquote>
 
 #### 12:16] He benefited Abraham^[Note: He receives gifts from Pharoah through his subterfuge.]
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   טז וּלְאַבְרָ֥ם הֵיטִ֖יב בַּֽעֲבוּרָ֑הּ וַֽיְהִי־ל֤וֹ צֹֽאן־וּבָקָר֙
   וַֽחֲמֹרִ֔ים וַֽעֲבָדִים֙ וּשְׁפָחֹ֔ת וַֽאֲתֹנֹ֖ת וּגְמַלִּֽים:
-  <p dir="ltr">
+  </p>
+  <p>
     16. And he benefited Abram for her sake, and he had flocks and cattle and he donkeys and men servants and maid servants, and she donkeys and camels.
   </p>
 </blockquote>
 
 #### 12:17] <b>HaShem</b> intervenes^[Note: Again strange. She is a woman in her 60's. What would the Pharoah want with her? And he reprimands Abraham. Why did you lie to me?]
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   יז וַיְנַגַּ֨ע יְהֹוָ֧ה | אֶת־פַּרְעֹ֛ה נְגָעִ֥ים גְּדֹלִ֖ים וְאֶת־בֵּית֑וֹ
   עַל־דְּבַ֥ר שָׂרַ֖י אֵ֥שֶׁת אַבְרָֽם:
-  <p dir="ltr">
+  </p>
+  <p>
     17. And the Lord plagued Pharaoh [with] great plagues as well as his
     household, on account of Sarai, Abram's wife.
   </p>
 </blockquote>
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   יח וַיִּקְרָ֤א פַרְעֹה֙ לְאַבְרָ֔ם וַיֹּ֕אמֶר מַה־זֹּ֖את עָשִׂ֣יתָ לִּ֑י
   לָ֚מָּה לֹֽא־הִגַּ֣דְתָּ לִּ֔י כִּ֥י אִשְׁתְּךָ֖ הִֽוא: 
   יט לָמָ֤ה אָמַ֨רְתָּ֙
   אֲחֹ֣תִי הִ֔וא וָֽאֶקַּ֥ח אֹתָ֛הּ לִ֖י לְאִשָּׁ֑ה וְעַתָּ֕ה הִנֵּ֥ה
   אִשְׁתְּךָ֖ קַ֥ח וָלֵֽךְ:
-  <p dir="ltr">
+  </p>
+  <p>
     18. And Pharaoh summoned Abram, and he said, "What is this that you have done to me? Why did you not tell me that she was your wife? 
     19. Why did you say, 'She is my sister,' so that I took her to myself for a wife? And now, here is your wife; take [her] and go."
   </p>
@@ -189,9 +213,11 @@ n12:13] May it go well with me, for your sake.
 
 ### 12:20] Abraham kicked out of Egypt
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 20.  And Pharaoh commanded men on his behalf, and they escorted him and his wife and all that was his.
-<p dir="ltr">
+</p>
+<p>
 כ וַיְצַ֥ו עָלָ֛יו פַּרְעֹ֖ה אֲנָשִׁ֑ים וַיְשַׁלְּח֥וּ אֹת֛וֹ וְאֶת־אִשְׁתּ֖וֹ וְאֶת־כָּל־אֲשֶׁר־לֽוֹ:
 </p>
 </blockquote>
@@ -202,10 +228,12 @@ n12:20] <b>וַיְשַׁלְּח֥וּ</b> &mdash; <i>And they escorted.</i> Ph
 
 ### 13:1] Go south from Egypt
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   א וַיַּ֩עַל֩ אַבְרָ֨ם מִמִּצְרַ֜יִם ה֠וּא וְאִשְׁתּ֧וֹ וְכָל־אֲשֶׁר־ל֛וֹ
   וְל֥וֹט עִמּ֖וֹ הַנֶּֽגְבָּה:
-  <p dir="ltr">
+</p>
+  <p>
     1. And Abram came up from Egypt, he and his wife and all that was his, and Lot with him, to the south.
   </p>
 </blockquote>
@@ -214,12 +242,14 @@ n13:1] <b>וַיַּ֩עַל֩ אַבְרָ֨ם</b> &mdash; <i>So Abraham went u
 
 ### 13:3-4] Calls in the Name of the Lord
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ג וַיֵּ֨לֶךְ֙ לְמַסָּעָ֔יו מִנֶּ֖גֶב וְעַד־בֵּֽית־אֵ֑ל עַד־הַמָּק֗וֹם
   אֲשֶׁר־הָ֨יָה שָׁ֤ם אָֽהֳלֹה֙ בַּתְּחִלָּ֔ה בֵּ֥ין בֵּֽית־אֵ֖ל וּבֵ֥ין הָעָֽי:
   ד אֶל־מְקוֹם֙ הַמִּזְבֵּ֔חַ אֲשֶׁר־עָ֥שָׂה שָׁ֖ם בָּרִֽאשֹׁנָ֑ה וַיִּקְרָ֥א
   שָׁ֛ם אַבְרָ֖ם בְּשֵׁ֥ם יְהֹוָֽה:
-  <p dir="ltr">
+</p>
+  <p>
     3. And he went on his journeys, from the south and until Beth el, until the place where his tent had been previously, between Beth el and between Ai. 
     4. To the place of the altar that he had made at first, and Abram called there in the name of the Lord.
   </p>
@@ -235,9 +265,11 @@ n13:3] <b>לְמַסָּעָ֔יו</b> &mdash; <i>On his journeys</i>One should 
 
 ### 13:10] Like the garden of the Lord
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 י וַיִּשָּׂא־ל֣וֹט אֶת־עֵינָ֗יו וַיַּרְא֙ אֶת־כָּל־כִּכַּ֣ר הַיַּרְדֵּ֔ן כִּ֥י כֻלָּ֖הּ מַשְׁקֶ֑ה לִפְנֵ֣י | שַׁחֵ֣ת יְהֹוָ֗ה אֶת־סְדֹם֙ וְאֶת־עֲמֹרָ֔ה כְּגַן־יְהֹוָה֙ כְּאֶ֣רֶץ מִצְרַ֔יִם בֹּֽאֲכָ֖ה צֹֽעַר:
-<p dir="ltr">
+</p>
+<p>
 10. And Lot raised his eyes, and he saw the entire plain of the Jordan, that it was entirely watered; before the Lord destroyed Sodom and Gomorrah, like the garden of the Lord, like the land of Egypt, as you come to Zoar.
 </p>
 </blockquote>
@@ -250,9 +282,11 @@ n13:3] <b>לְמַסָּעָ֔יו</b> &mdash; <i>On his journeys</i>One should 
 
 #### 11] Lot chooses to live near Sodom
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יא וַיִּבְחַר־ל֣וֹ ל֗וֹט אֵ֚ת כָּל־כִּכַּ֣ר הַיַּרְדֵּ֔ן וַיִּסַּ֥ע ל֖וֹט מִקֶּ֑דֶם וַיִּפָּ֣רְד֔וּ אִ֖ישׁ מֵעַ֥ל אָחִֽיו:
-<p dir="ltr">
+</p>
+<p>
 11. And Lot chose for himself the entire plain of the Jordan, and Lot travelled from the east, and they parted from one another.
 </p>
 </blockquote>
@@ -269,18 +303,22 @@ Note: He promises all that he sees (v15) to Abraham and his seed for eternity (v
 
 ### 13:16] Like the dust of the earth^[Later G-d says that Abraham's future offspring will be as many as "as the stars in the sky"]
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 טז וְשַׂמְתִּ֥י אֶת־זַרְעֲךָ֖ כַּֽעֲפַ֣ר הָאָ֑רֶץ אֲשֶׁ֣ר | אִם־יוּכַ֣ל אִ֗ישׁ לִמְנוֹת֙ אֶת־עֲפַ֣ר הָאָ֔רֶץ גַּם־זַרְעֲךָ֖ יִמָּנֶֽה:
-<p dir="ltr">
+</p>
+<p>
  16. And I will make your seed like the dust of the earth, so that if a man will be able to count the dust of the earth, so will your seed be counted.
 </p>
 </blockquote>
 
 #### 13:18]
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יח וַיֶּֽאֱהַ֣ל אַבְרָ֗ם וַיָּבֹ֛א וַיֵּ֛שֶׁב בְּאֵֽלֹנֵ֥י מַמְרֵ֖א אֲשֶׁ֣ר בְּחֶבְר֑וֹן וַיִּֽבֶן־שָׁ֥ם מִזְבֵּ֖חַ לַֽיהֹוָֽה:
-<p dir="ltr">
+</p>
+<p>
 18. And Abram pitched his tents, and he came, and he dwelt in the plain of Mamre, which is in Hebron, and there he built an altar to the Lord.
 </p>
 </blockquote>
@@ -360,11 +398,13 @@ n20] וברוך אל
 
 #### 1] Lord comes to Abraham
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   א אַחַ֣ר | הַדְּבָרִ֣ים הָאֵ֗לֶּה הָיָ֤ה דְבַר־יְהֹוָה֙ אֶל־אַבְרָ֔ם
   בַּמַּֽחֲזֶ֖ה לֵאמֹ֑ר אַל־תִּירָ֣א אַבְרָ֗ם אָֽנֹכִי֙ מָגֵ֣ן לָ֔ךְ שְׂכָֽרְךָ֖
   הַרְבֵּ֥ה מְאֹֽד:
-  <p dir="ltr">
+</p>
+  <p>
     1. After these incidents, the word of the Lord came to Abram in a vision, saying, "Fear not, Abram; I am your Shield; your reward is exceedingly great."
   </p>
 </blockquote>
@@ -375,10 +415,12 @@ n20] וברוך אל
 
 > Childless & Steward
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ב וַיֹּ֣אמֶר אַבְרָ֗ם אֲדֹנָ֤י יֱהֹוִה֙ מַה־תִּתֶּן־לִ֔י וְאָֽנֹכִ֖י הוֹלֵ֣ךְ
   עֲרִירִ֑י וּבֶן־מֶ֣שֶׁק בֵּיתִ֔י ה֖וּא דַּמֶּ֥שֶׂק אֱלִיעֶֽזֶר:
-  <p dir="ltr">
+</p>
+  <p>
     2. And Abram said, "O Lord God, what will You give me, since I am going childless, and the steward of my household is Eliezer of Damascus?"
   </p>
 </blockquote>
@@ -398,11 +440,13 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
 
 #### 5] Count the stars
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ה וַיּוֹצֵ֨א אֹת֜וֹ הַח֗וּצָה וַיֹּ֨אמֶר֙ הַבֶּט־נָ֣א הַשָּׁמַ֔יְמָה וּסְפֹר֙
   הַכּ֣וֹכָבִ֔ים אִם־תּוּכַ֖ל לִסְפֹּ֣ר אֹתָ֑ם וַיֹּ֣אמֶר ל֔וֹ כֹּ֥ה יִֽהְיֶ֖ה
   זַרְעֶֽךָ:
-  <p dir="ltr">
+</p>
+  <p>
     5. And He took him outside, and He said, "Please look heavenward and count the stars, if you are able to count them." And He said to him, "So will be your seed."
   </p>
 </blockquote>
@@ -415,9 +459,11 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
 
 #### 6] Trusted in G-d
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ו וְהֶֽאֱמִ֖ן בַּֽיהֹוָ֑ה וַיַּחְשְׁבֶ֥הָ לּ֖וֹ צְדָקָֽה
-  <p dir="ltr">
+</p>
+  <p>
     6. And he believed in the Lord, and He accounted it to him as righteousness.
   </p>
 </blockquote>
@@ -426,12 +472,14 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
 
 #### 8-9] Ceremony (instructions)
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ח וַיֹּאמַ֑ר אֲדֹנָ֣י יֱהֹוִ֔ה בַּמָּ֥ה אֵדַ֖ע כִּ֥י אִֽירָשֶֽׁנָּה 
    ט
   וַיֹּ֣אמֶר אֵלָ֗יו קְחָ֥ה לִי֙ עֶגְלָ֣ה מְשֻׁלֶּ֔שֶׁת וְעֵ֥ז מְשֻׁלֶּ֖שֶׁת
   וְאַ֣יִל מְשֻׁלָּ֑שׁ וְתֹ֖ר וְגוֹזָֽל:
-  <p dir="ltr">
+</p>
+  <p>
     8. And he said, "O Lord God, how will I know that I will inherit it?" 9. And He said to him, "Take for Me three heifers and three goats and three rams, and a turtle dove and a young bird."
   </p>
 </blockquote>
@@ -440,10 +488,12 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
 
 ### 10-11] Ceremony
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   י וַיִּקַּח־ל֣וֹ אֶת־כָּל־אֵ֗לֶּה וַיְבַתֵּ֤ר אֹתָם֙ בַּתָּ֔וֶךְ וַיִּתֵּ֥ן
   אִֽישׁ־בִּתְר֖וֹ לִקְרַ֣את רֵעֵ֑הוּ וְאֶת־הַצִּפֹּ֖ר לֹ֥א בָתָֽר:
-  <p dir="ltr">
+</p>
+  <p>
     10. And he took for Him all these, and he divided them in the middle, and he placed each part opposite its mate, but he did not divide the birds.
   </p>
 </blockquote>
@@ -452,9 +502,10 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
 
 {Note: He carries out the ceremony, according to G-d's instructions. I assume that this was a real ceremony, and that he did not carry it out during his "vision".}
 
-<blockquote dir="rtl">
+<blockquote>
   יא וַיֵּ֥רֶד הָעַ֖יִט עַל־הַפְּגָרִ֑ים וַיַּשֵּׁ֥ב אֹתָ֖ם אַבְרָֽם
-  <p dir="ltr">
+</p>
+  <p>
     11. And the birds of prey descended upon the carcasses, and Abram drove them away.
   </p>
 </blockquote>
@@ -467,21 +518,25 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
 
 #### 12] Deep Sleep
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   יב וַיְהִ֤י הַשֶּׁ֨מֶשׁ֙ לָב֔וֹא וְתַרְדֵּמָ֖ה נָֽפְלָ֣ה עַל־אַבְרָ֑ם
   וְהִנֵּ֥ה אֵימָ֛ה חֲשֵׁכָ֥ה גְדֹלָ֖ה נֹפֶ֥לֶת עָלָֽיו:
-  <p dir="ltr">
+</p>
+  <p>
     12. Now the sun was ready to set, and a deep sleep fell upon Abram, and behold, a fright, a great darkness was falling upon him.
   </p>
 </blockquote>
 
 12. Now the sun was ready to set, and a deep sleep fell upon Abram, and behold, a fright, a great darkness was falling upon him. {Note: This is often looked at as a metaphor for a journey as well.} #### 13] Strangers in a foreign land
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   יג וַיֹּ֣אמֶר לְאַבְרָ֗ם יָדֹ֨עַ תֵּדַ֜ע כִּי־גֵ֣ר | יִֽהְיֶ֣ה זַרְעֲךָ֗
   בְּאֶ֨רֶץ֙ לֹ֣א לָהֶ֔ם וַֽעֲבָד֖וּם וְעִנּ֣וּ אֹתָ֑ם אַרְבַּ֥ע מֵא֖וֹת
   שָׁנָֽה:
-  <p dir="ltr">
+</p>
+  <p>
     1.  And He said to Abram, "You shall surely know that your seed will be strangers in a land that is not theirs, and they will enslave them and oppress them, for four hundred years.
   </p>
 </blockquote>
@@ -490,10 +545,12 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
 
 {Note: Perhaps, after coming out of the vision, Abraham remembers it as 400 years.} ### 17] Furnace and fire brand
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   יז וַיְהִ֤י הַשֶּׁ֨מֶשׁ֙ בָּ֔אָה וַֽעֲלָטָ֖ה הָיָ֑ה וְהִנֵּ֨ה תַנּ֤וּר עָשָׁן֙
   וְלַפִּ֣יד אֵ֔שׁ אֲשֶׁ֣ר עָבַ֔ר בֵּ֖ין הַגְּזָרִ֥ים הָאֵֽלֶּה:
-  <p dir="ltr">
+</p>
+  <p>
     17. Now it came to pass that the sun had set, and it was dark, and behold, a smoking furnace and a fire brand, which passed between these parts.
   </p>
 </blockquote>
@@ -508,11 +565,13 @@ subject of **וַיְהִי** is not **הַשֶּׁמֶשׁ** but **דָבָר �
 
 ### 18] Covenant (land)
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   יח בַּיּ֣וֹם הַה֗וּא כָּרַ֧ת יְהֹוָ֛ה אֶת־אַבְרָ֖ם בְּרִ֣ית לֵאמֹ֑ר
   לְזַרְעֲךָ֗ נָתַ֨תִּי֙ אֶת־הָאָ֣רֶץ הַזֹּ֔את מִנְּהַ֣ר מִצְרַ֔יִם
   עַד־הַנָּהָ֥ר הַגָּדֹ֖ל נְהַר־פְּרָֽת:
-  <p dir="ltr">
+</p>
+  <p>
     18. On that day, the Lord formed a covenant with Abram, saying, "To your seed I have given this land, from the river of Egypt until the great river, the Euphrates river.
   </p>
 </blockquote>
@@ -531,9 +590,11 @@ Tribes that occupied the land
 
 #### 2] Hagar goes to Abraham
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ב וַתֹּ֨אמֶר שָׂרַ֜י אֶל־אַבְרָ֗ם הִנֵּה־נָ֞א עֲצָרַ֤נִי יְהֹוָה֙ מִלֶּ֔דֶת בֹּא־נָא֙ אֶל־שִׁפְחָתִ֔י אוּלַ֥י אִבָּנֶ֖ה מִמֶּ֑נָּה וַיִּשְׁמַ֥ע אַבְרָ֖ם לְק֥וֹל שָׂרָֽי:
-<p dir="ltr">
+</p>
+<p>
 2. And Sarai said to Abram, "Behold now, the Lord has restrained me from bearing; please come to my handmaid; perhaps I will be built up from her." And Abram hearkened to Sarai's voice. 
 </p>
 </blockquote>
@@ -548,9 +609,11 @@ Tribes that occupied the land
 - Sarah treats her badly
 - she flees
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
  	ג וַתִּקַּ֞ח שָׂרַ֣י אֵֽשֶׁת־אַבְרָ֗ם אֶת־הָגָ֤ר הַמִּצְרִית֙ שִׁפְחָתָ֔הּ מִקֵּץ֙ עֶ֣שֶׂר שָׁנִ֔ים לְשֶׁ֥בֶת אַבְרָ֖ם בְּאֶ֣רֶץ כְּנָ֑עַן וַתִּתֵּ֥ן אֹתָ֛הּ לְאַבְרָ֥ם אִישָׁ֖הּ ל֥וֹ לְאִשָּֽׁה:
-<p dir="ltr">
+</p>
+<p>
 3. So Sarai, Abram's wife, took Hagar the Egyptian, her handmaid, at the end of ten years of Abram's dwelling in the land of Canaan, and she gave her to Abram her husband for a wife.
 </p>
 </blockquote>
@@ -571,10 +634,13 @@ Tribes that occupied the land
 
 ### 16] Abraham is 86
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 טז וְאַבְרָ֕ם בֶּן־שְׁמֹנִ֥ים שָׁנָ֖ה וְשֵׁ֣שׁ שָׁנִ֑ים בְּלֶֽדֶת־הָגָ֥ר אֶת־יִשְׁמָעֵ֖אל לְאַבְרָֽם:
-<p dir="ltr">
+</p>
+<p>
 16. And Abram was eighty-six years old, when Hagar bore Ishmael to Abram.</p>
+</p>
 </blockquote>
 
 ## Chapter 17 - Journey

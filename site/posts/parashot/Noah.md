@@ -76,9 +76,11 @@ In the second, Noah, who is righteous, upon emerging from the flood sins by gett
 
 ### 6:9] Righteous man. [^1]
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ט אֵ֚לֶּה תּֽוֹלְדֹ֣ת נֹ֔חַ נֹ֗חַ אִ֥ישׁ צַדִּ֛יק תָּמִ֥ים הָיָ֖ה בְּדֹֽרֹתָ֑יו אֶת־הָֽאֱלֹהִ֖ים הִתְהַלֶּךְ־נֹֽחַ:
-<p dir="ltr">
+</p>
+<p>
 9. These are the generations of Noah, Noah was a righteous man he was perfect in his generations; Noah walked with God. 
 </p>
 </blockquote>
@@ -91,11 +93,13 @@ The second is more critical of him, claiming that he was righteous only _in_ **h
 
 ### 6:11-13] Corrupt(ion) (תשׁחת) & Robbery (חָמָס)
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   יא וַתִּשָּׁחֵ֥ת הָאָ֖רֶץ לִפְנֵ֣י הָֽאֱלֹהִ֑ים וַתִּמָּלֵ֥א הָאָ֖רֶץ חָמָֽס:
   יב וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָאָ֖רֶץ וְהִנֵּ֣ה נִשְׁחָ֑תָה כִּֽי־הִשְׁחִ֧ית כָּל־בָּשָׂ֛ר אֶת־דַּרְכּ֖וֹ עַל־הָאָֽרֶץ:
   יג וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל־בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּי־מָֽלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת־הָאָֽרֶץ:
-<p dir="ltr">
+</p>
+<p>
 11. Now the earth was corrupt before God, and the earth became full of robbery.
 12. And God saw the earth, and behold it had become corrupted, for all flesh had corrupted its way on the earth.
 13. And God said to Noah, "The end of all flesh has come before Me, for the earth has become full of robbery because of them, and behold I am destroying them from the earth.
@@ -110,16 +114,20 @@ The Midrash teaches that they stole from one another in petty ways that were not
 
 ### 6:13] Flood because of Robbery
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   יג וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל־בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּי־מָֽלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת־הָאָֽרֶץ:
-<p dir="ltr">
+</p>
+<p>
 13. And God said to Noah, "The end of all flesh has come before Me, for the earth has become full of robbery [^8] because of them, and behold I am destroying them from the earth.
 </p>
 </blockquote>
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   טווְזֶ֕ה אֲשֶׁ֥ר תַּֽעֲשֶׂ֖ה אֹתָ֑הּ שְׁל֧שׁ מֵא֣וֹת אַמָּ֗ה אֹ֚רֶךְ הַתֵּבָ֔ה חֲמִשִּׁ֤ים אַמָּה֙ רָחְבָּ֔הּ וּשְׁלשִׁ֥ים אַמָּ֖ה קֽוֹמָתָֽהּ:
-<p dir="ltr">
+</p>
+<p>
 15. And this [is the size] you shall make it: three hundred cubits the length of the ark, fifty cubits its breadth, and thirty cubits its height.</p>
 </blockquote>
 
@@ -127,9 +135,11 @@ n6:15] **Cubit**.[^9] According the to smallest estimate of 18 inches per cubit,
 
 ### 6:16] Window on the Ark
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   טז צֹ֣הַר תַּֽעֲשֶׂ֣ה לַתֵּבָ֗ה וְאֶל־אַמָּה֙ תְּכַלֶּ֣נָּה מִלְמַ֔עְלָה וּפֶ֥תַח הַתֵּבָ֖ה בְּצִדָּ֣הּ תָּשִׂ֑ים תַּחְתִּיִּ֛ם שְׁנִיִּ֥ם וּשְׁלִשִׁ֖ים תַּֽעֲשֶֽׂהָ:
-<p dir="ltr">
+</p>
+<p>
 16. You shall make a skylight for the ark, and to a cubit you shall finish it to the top, and the entrance of the ark you shall place in its side; you shall make it with bottom [compartments], second story [compartments], and third story [compartments].
 </p>
 </blockquote>
@@ -138,19 +148,22 @@ n6:16] <b>צֹ֣הַר</b> &mdash; <i>A window.</i> Some say it was a skylight&m
 
 ### 6:17] Flood - all will perish[^11]
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   יז וַֽאֲנִ֗י הִֽנְנִי֩ מֵבִ֨יא אֶת־הַמַּבּ֥וּל מַ֨יִם֙ עַל־הָאָ֔רֶץ לְשַׁחֵ֣ת כָּל־בָּשָׂ֗ר אֲשֶׁר־בּוֹ֙ ר֣וּחַ חַיִּ֔ים מִתַּ֖חַת הַשָּׁמָ֑יִם כֹּ֥ל אֲשֶׁר־בָּאָ֖רֶץ יִגְוָֽע:
-<p dir="ltr">
+</p>
+<p>
 17. And I, behold I am bringing the flood, water upon the earth, to destroy all flesh in which there is the spirit of life, from beneath the heavens; all that is upon the earth will perish.
 </p>
 </blockquote>
 
 ### 6:18] Covenant
 
+<blockquote>
+<p dir="rtl">
+</p>
 יח וַֽהֲקִֽמֹתִ֥י אֶת־בְּרִיתִ֖י אִתָּ֑ךְ וּבָאתָ֙ אֶל־הַתֵּ֔בָה אַתָּ֕ה וּבָנֶי֛ךָ וְאִשְׁתְּךָ֥ וּנְשֵֽׁי־בָנֶי֖ךָ אִתָּֽךְ:
-
-<blockquote dir="rtl">
-<p dir="ltr">
+<p>
 18. And I will set up My covenant with you, and you shall enter the ark, you and your sons, and your wife and your sons' wives with you.
 </p>
 </blockquote>
@@ -159,9 +172,11 @@ n6:18] <b>וַֽהֲקִֽמֹתִ֥י אֶת־בְּרִיתִ֖י</b> &mdash; 
 
 ### 6:19] The Ark was too small
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 	יט וּמִכָּל־הָ֠חַ֠י מִכָּל־בָּשָׂ֞ר שְׁנַ֧יִם מִכֹּ֛ל תָּבִ֥יא אֶל־הַתֵּבָ֖ה לְהַֽחֲיֹ֣ת אִתָּ֑ךְ זָכָ֥ר וּנְקֵבָ֖ה יִֽהְיֽוּ:
-<p dir="ltr">
+</p>
+<p>
 19. And of all living things of all flesh, two of each you shall bring into the ark to preserve alive with you; they shall be male and female.[^13] 
 </p>
 </blockquote>
@@ -174,9 +189,11 @@ n6:18] <b>וַֽהֲקִֽמֹתִ֥י אֶת־בְּרִיתִ֖י</b> &mdash; 
 
 ### 7:1] Righteous (2x)
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   א וַיֹּ֤אמֶר יְהֹוָה֙ לְנֹ֔חַ בֹּֽא־אַתָּ֥ה וְכָל־בֵּֽיתְךָ֖ אֶל־הַתֵּבָ֑ה כִּי־אֹֽתְךָ֥ רָאִ֛יתִי צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה:
-<p dir="ltr">
+</p>
+<p>
 1. And the Lord said to Noah, "Come into the ark, you and all your household, for it is you that I have seen as a righteous man before Me in this generation.[^14]
 </p>
 </blockquote>
@@ -185,36 +202,44 @@ n1-10] Up to now, the _Sidrah_ has spoken of _Elohim_, indicating G-d's Attribut
 
 ### 7:2] Clean animals
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ב מִכֹּ֣ל | הַבְּהֵמָ֣ה הַטְּהוֹרָ֗ה תִּקַּח־לְךָ֛ שִׁבְעָ֥ה שִׁבְעָ֖ה אִ֣ישׁ וְאִשְׁתּ֑וֹ וּמִן־הַבְּהֵמָ֡ה אֲ֠שֶׁ֠ר לֹ֣א טְהֹרָ֥ה הִ֛וא שְׁנַ֖יִם אִ֥ישׁ וְאִשְׁתּֽוֹ:
-<p dir="ltr">
+</p>
+<p>
 2O. Of all the clean animals you shall take for yourself seven pairs, a male and its mate, and of the animals that are not clean, two, a male and its mate.[^15]
 </p>
 </blockquote>
 
 ### 7:4] Flood - Blot out all beings
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ד כִּי֩ לְיָמִ֨ים ע֜וֹד שִׁבְעָ֗ה אָֽנֹכִי֙ מַמְטִ֣יר עַל־הָאָ֔רֶץ אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָ֑יְלָה וּמָחִ֗יתִי אֶת־כָּל־הַיְקוּם֙ אֲשֶׁ֣ר עָשִׂ֔יתִי מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה:
-<p dir="ltr">
+</p>
+<p>
 4.For in another seven days, I will make it rain upon the earth for forty days and forty nights, and I will blot out all beings that I have made, off the face of the earth."[^16] 
 </p>
 </blockquote>
 
 ### 7:6] 600 years old
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ווְנֹ֕חַ בֶּן־שֵׁ֥שׁ מֵא֖וֹת שָׁנָ֑ה וְהַמַּבּ֣וּל הָיָ֔ה מַ֖יִם עַל־הָאָֽרֶץ:
-<p dir="ltr">
+</p>
+<p>
 6. And Noah was six hundred years old, and the flood came about, water upon the earth.[^17] 
 </p>
 </blockquote>
 
 ### 7:7] Sexual relations
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ז וַיָּבֹ֣א נֹ֔חַ וּ֠בָנָ֠יו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי־בָנָ֛יו אִתּ֖וֹ אֶל־הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י הַמַּבּֽוּל:
-<p dir="ltr">
+</p>
+<p>
 7. And Noah with his sons, his wife and his sons' wives with him went into the ark because of the flood waters.
 </p>
 </blockquote>
@@ -225,9 +250,11 @@ n7:7] <b>נֹ֔חַ וּ֠בָנָ֠יו</b> &mdash; <i>Noah and his sons.</i> T
 
 ### 7:8] Clean beasts
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ח מִן־הַבְּהֵמָה֙ הַטְּהוֹרָ֔ה וּמִ֨ן־הַבְּהֵמָ֔ה אֲשֶׁ֥ר אֵינֶ֖נָּה טְהֹרָ֑ה וּמִ֨ן־הָע֔וֹף וְכֹ֥ל אֲשֶׁר־רֹמֵ֖שׂ עַל־
-<p dir="ltr">
+</p>
+<p>
 8O. Of the clean beasts and of the beasts that are not clean, and of the fowl, and all that creeps upon the earth.
 </p>
 </blockquote>
@@ -236,9 +263,11 @@ n7:8] <b>אֲשֶׁ֥ר אֵינֶ֖נָּה טְהֹרָ֑ה</b> &mdash; <i>Tha
 
 ### 7:9] Two-by-Two they came
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ט שְׁנַ֨יִם שְׁנַ֜יִם בָּ֧אוּ אֶל־נֹ֛חַ אֶל־הַתֵּבָ֖ה זָכָ֣ר וּנְקֵבָ֑ה כַּֽאֲשֶׁ֛ר צִוָּ֥ה אֱלֹהִ֖ים אֶת־נֹֽחַ:
-<p dir="ltr">
+</p>
+<p>
 9. Two by two they came to Noah to the ark, male and female, as God had commanded Noah.
 </p>
 </blockquote>
@@ -247,9 +276,11 @@ n7:9] The unclean animals came to the Ark of their own free will, whereas the cl
 
 ### 7:11] Fountains and windows
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   יא בִּשְׁנַ֨ת שֵֽׁשׁ־מֵא֤וֹת שָׁנָה֙ לְחַיֵּי־נֹ֔חַ בַּחֹ֨דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָֽה־עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ בַּיּ֣וֹם הַזֶּ֗ה נִבְקְעוּ֙ כָּל־מַעְיְנוֹת֙ תְּה֣וֹם רַבָּ֔ה וַֽאֲרֻבֹּ֥ת הַשָּׁמַ֖יִם נִפְתָּֽחוּ
-<p dir="ltr">
+</p>
+<p>
 11. In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month, on this day, all the fountains of the great deep were split,[^21] and the windows of the heavens opened up.
 </p>
 </blockquote>
@@ -258,9 +289,11 @@ n7:11] <b> וַֽאֲרֻבֹּ֥ת הַשָּׁמַ֖יִם </b> &mdash; <i>spl
 
 ### 7:13-15] Gathering into the Ark
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   טו וַיָּבֹ֥אוּ אֶל־נֹ֖חַ אֶל־הַתֵּבָ֑ה שְׁנַ֤יִם שְׁנַ֨יִם֙ מִכָּל־הַבָּשָׂ֔ר אֲשֶׁר־בּ֖וֹ ר֥וּחַ חַיִּֽים:
-<p dir="ltr">
+</p>
+<p>
 15. And they came to Noah to the ark, two by two of all flesh in which there is the spirit of life.[^22] 
 </p>
 </blockquote>
@@ -269,9 +302,11 @@ n7:15] Here we find Man in his loftiest state, for the entire world comes _to No
 
 ### 7:16] **HaShem** closed the Ark.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   טז וְהַבָּאִ֗ים זָכָ֨ר וּנְקֵבָ֤ה מִכָּל־בָּשָׂר֙ בָּ֔אוּ כַּֽאֲשֶׁ֛ר צִוָּ֥ה אֹת֖וֹ אֱלֹהִ֑ים וַיִּסְגֹּ֥ר יְהֹוָ֖ה בַּֽעֲדֽוֹ:
-<p dir="ltr">
+</p>
+<p>
 16. And those who came male and female of all flesh came, as God had commanded him, and the Lord shut it on his behalf.[^23]
 </p>
 </blockquote>
@@ -290,10 +325,12 @@ n7:16] <b>וַיִּסְגֹּ֥ר יְהֹוָ֖ה בַּֽעֲדֽוֹ</b> &md
 
 ### 8:1] Spirit (רוח) passes over the waters
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   א וַיִּזְכֹּ֤ר אֱלֹהִים֙ אֶת־נֹ֔חַ וְאֵ֤ת כָּל־הַֽחַיָּה֙ וְאֶת־כָּל־הַבְּהֵמָ֔ה אֲשֶׁ֥ר אִתּ֖וֹ בַּתֵּבָ֑ה וַיַּֽעֲבֵ֨ר אֱלֹהִ֥ים ר֨וּחַ֙ עַל־הָאָ֔רֶץ וַיָּשֹׁ֖כּוּ הַמָּֽיִם:
   ב וַיִּסָּֽכְרוּ֙ מַעְיְנֹ֣ת תְּה֔וֹם וַֽאֲרֻבֹּ֖ת הַשָּׁמָ֑יִם וַיִּכָּלֵ֥א הַגֶּ֖שֶׁם מִן־הַשָּׁמָֽיִם:
-<p dir="ltr">
+</p>
+<p>
 1. And God remembered Noah and all the beasts and all the cattle that were with him in the ark, and God caused a spirit to pass over the earth, and the waters subsided.
 2. And the springs of the deep were closed, and the windows of the heavens, and the rain from the heavens was withheld. 
 </p>
@@ -305,9 +342,11 @@ n8:1] <b>וַיִּזְכֹּ֤ר אֱלֹהִים֙</b> &mdash; <i>G-d remember
 
 ### 8:3-4] Diminished after 150 days
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   גוַיָּשֻׁ֧בוּ הַמַּ֛יִם מֵעַ֥ל הָאָ֖רֶץ הָל֣וֹךְ וָשׁ֑וֹב וַיַּחְסְר֣וּ הַמַּ֔יִם מִקְצֵ֕ה חֲמִשִּׁ֥ים וּמְאַ֖ת יֽוֹם:
-<p dir="ltr">
+</p>
+<p>
 3. And the waters receded off the earth more and more, and the water diminished at the end of a hundred and fifty days. 
 </p>
 </blockquote>
@@ -316,22 +355,26 @@ n3-6] On the first of Sivan &mdash; the seventh month and 150 days from 27 Kisle
 
 ### 8:7] The Raven
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   זוַיְשַׁלַּ֖ח אֶת־הָֽעֹרֵ֑ב וַיֵּצֵ֤א יָצוֹא֙ וָשׁ֔וֹב עַד־יְב֥שֶׁת הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ:
-<p dir="ltr">
+</p>
+<p>
 7. And he sent forth the raven, and it went out, back and forth until the waters dried up off the earth.[^30]
 </p>
 </blockquote>
 
 ### 8:8-12] The Dove
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ח וַיְשַׁלַּ֥ח אֶת־הַיּוֹנָ֖ה מֵֽאִתּ֑וֹ לִרְאוֹת֙ הֲקַ֣לּוּ הַמַּ֔יִם מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה:
 ט וְלֹא־מָֽצְאָה֩ הַיּוֹנָ֨ה מָנ֜וֹחַ לְכַף־רַגְלָ֗הּ וַתָּ֤שָׁב אֵלָיו֙ אֶל־הַתֵּבָ֔ה כִּי־מַ֖יִם עַל־פְּנֵ֣י כָל־הָאָ֑רֶץ וַיִּשְׁלַ֤ח יָדוֹ֙ וַיִּקָּחֶ֔הָ וַיָּבֵ֥א אֹתָ֛הּ אֵלָ֖יו אֶל־הַתֵּבָֽה:
 י וַיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים וַיֹּ֛סֶף שַׁלַּ֥ח אֶת־הַיּוֹנָ֖ה מִן־הַתֵּבָֽה:
 יא וַתָּבֹ֨א אֵלָ֤יו הַיּוֹנָה֙ לְעֵ֣ת עֶ֔רֶב וְהִנֵּ֥ה עֲלֵה־זַ֖יִת טָרָ֣ף בְּפִ֑יהָ וַיֵּ֣דַע נֹ֔חַ כִּי־קַ֥לּוּ הַמַּ֖יִם מֵעַ֥ל הָאָֽרֶץ:
 יב וַיִּיָּ֣חֶל ע֔וֹד שִׁבְעַ֥ת יָמִ֖ים אֲחֵרִ֑ים וַיְשַׁלַּח֙ אֶת־הַיּוֹנָ֔ה וְלֹא־יָֽסְפָ֥ה שֽׁוּב־אֵלָ֖יו עֽוֹד:
-<p dir="ltr">
+</p>
+<p>
 8. And he sent forth the dove from with him, to see whether the waters had abated from upon the surface of the earth.
 9. But the dove found no resting place for the sole of its foot; so it returned to him to the ark because there was water upon the entire surface of the earth; so he stretched forth his hand and took it, and he brought it to him to the ark.
 10. And he waited again another seven days, and he again sent forth the dove from the ark.
@@ -348,11 +391,12 @@ n8:14] From 17th Marchesvan, when the rains began, to the 27th Marchesvan of the
 
 ### 8:16] Leave the Ark
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   טזצֵ֖א מִן־הַתֵּבָ֑ה אַתָּ֕ה וְאִשְׁתְּךָ֛ וּבָנֶ֥יךָ וּנְשֵֽׁי־בָנֶ֖יךָ אִתָּֽךְ:
-<p dir="ltr">
-16 Go out of the ark, you and your wife, and your sons, and your sons' 
-wives with you.
+</p>
+<p>
+16. Go out of the ark, you and your wife, and your sons, and your sons' wives with you.
 </p>
 </blockquote>
 
@@ -360,10 +404,12 @@ n16] <b>The command to leave the Ark.</b> In telling Noah to leave the Ark, G-d 
 
 ### 8:20-21] Alter for sacrifice
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   כ וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהֹוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל הַבְּהֵמָ֣ה הַטְּהֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף הַטָּה֔וֹר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ:
   כא וַיָּ֣רַח יְהֹוָה֘ אֶת־רֵ֣יחַ הַנִּיחֹ֒חַ֒ וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־לִבּ֗וֹ לֹ֣א אֹ֠סִ֠ף לְקַלֵּ֨ל ע֤וֹד אֶת־הָֽאֲדָמָה֙ בַּֽעֲב֣וּר הָֽאָדָ֔ם כִּ֠י יֵ֣צֶר לֵ֧ב הָֽאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו וְלֹֽא־אֹסִ֥ף ע֛וֹד לְהַכּ֥וֹת אֶת־כָּל־חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי:
-<p dir="ltr">
+</p>
+<p>
 21. And the Lord smelled the pleasant aroma, and the Lord said to Himself, "I will no longer curse the earth because of man, for the imagination of man's heart is evil from his youth, and I will no longer smite all living things as I have done.
 20. And Noah built an altar to the Lord, and he took of all the clean animals and of all the clean fowl and brought up burnt offerings on the altar. 
 </p>
@@ -383,9 +429,11 @@ n8:21] <b>רַ֖ע מִנְּעֻרָ֑יו</b> &mdash; <i>Is evil from his yout
 
 ### 9:2] Fear you
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ב וּמוֹרַֽאֲכֶ֤ם וְחִתְּכֶם֙ יִֽהְיֶ֔ה עַ֚ל כָּל־חַיַּ֣ת הָאָ֔רֶץ וְעַ֖ל כָּל־ע֣וֹף הַשָּׁמָ֑יִם בְּכֹל֩ אֲשֶׁ֨ר תִּרְמֹ֧שׂ הָֽאֲדָמָ֛ה וּבְכָל־דְּגֵ֥י הַיָּ֖ם בְּיֶדְכֶ֥ם נִתָּֽנוּ:
-<p dir="ltr">
+</p>
+<p>
 2. And your fear and your dread shall be upon all the beasts of the earth and upon all the fowl of the heaven; upon everything that creeps upon the ground and upon all the fish of the sea, [for] they have been given into your hand[s].
 </p>
 </blockquote>
@@ -394,19 +442,23 @@ n9:2] <b>וּמוֹרַֽאֲכֶ֤ם</b> &mdash; <i>The fear of you.</i> Lest N
 
 ### 9:3] Meat allowed
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   גכָּל־רֶ֨מֶשׂ֙ אֲשֶׁ֣ר הוּא־חַ֔י לָכֶ֥ם יִֽהְיֶ֖ה לְאָכְלָ֑ה כְּיֶ֣רֶק עֵ֔שֶׂב נָתַ֥תִּי לָכֶ֖ם אֶת־כֹּֽל:
-<p dir="ltr">
+</p>
+<p>
 3. Every moving thing that lives shall be yours to eat; like the green vegetation, I have given you everything.[^36]
 </p>
 </blockquote>
 
 ### 9:4-5] No blood allowed
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   דאַךְ־בָּשָׂ֕ר בְּנַפְשׁ֥וֹ דָמ֖וֹ לֹ֥א תֹאכֵֽלוּ:
   הוְאַ֨ךְ אֶת־דִּמְכֶ֤ם לְנַפְשֹֽׁתֵיכֶם֙ אֶדְר֔שׁ מִיַּ֥ד כָּל־חַיָּ֖ה אֶדְרְשֶׁ֑נּוּ וּמִיַּ֣ד הָֽאָדָ֗ם מִיַּד֙ אִ֣ישׁ אָחִ֔יו אֶדְר֖שׁ אֶת־נֶ֥פֶשׁ הָֽאָדָֽם:
-<p dir="ltr">
+</p>
+<p>
 4. But, flesh with its soul, its blood, you shall not eat.
 5. But your blood, of your souls, I will demand [an account]; from the hand of every beast I will demand it, and from the hand of man, from the hand of each man, his brother, I will demand the soul of man.[^39]
 </p>
@@ -420,9 +472,11 @@ n9:8-17] That the rainbow is a phenomenon that is predictable and explainable in
 
 ### 9:20] Noah: Man of the earth
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 	כוַיָּ֥חֶל נֹ֖חַ אִ֣ישׁ הָֽאֲדָמָ֑ה וַיִּטַּ֖ע כָּֽרֶם:
-<p dir="ltr">
+</p>
+<p>
 20. And Noah began to be a master of the soil, and he planted a vineyard.
 </p>
 </blockquote>
@@ -431,18 +485,22 @@ n9:20] <b>אִ֣ישׁ הָֽאֲדָמָ֑ה</b> &mdash; <i>Man of the Earth[^4
 
 ### 9:21] Noah drunk
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   כאוַיֵּ֥שְׁתְּ מִן־הַיַּ֖יִן וַיִּשְׁכָּ֑ר וַיִּתְגַּ֖ל בְּת֥וֹךְ אָֽהֳלֹֽה:
-<p dir="ltr">
+</p>
+<p>
 21. And he drank of the wine and became drunk, and he uncovered himself within his tent.[^43]
 </p>
 </blockquote>
 
 ### 9:22] Ham saw
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   כב וַיַּ֗רְא חָ֚ם אֲבִ֣י כְנַ֔עַן אֵ֖ת עֶרְוַ֣ת אָבִ֑יו וַיַּגֵּ֥ד לִשְׁנֵֽי־אֶחָ֖יו בַּחֽוּץ:
-<p dir="ltr">
+</p>
+<p>
 22. And Ham, the father of Canaan, saw his father's nakedness, and he told his two brothers outside.
 </p>
 </blockquote>
@@ -461,11 +519,13 @@ Note: Noah awakens, and wanders what his "small" son had done to him. Now, how w
 
 ### 9:25-27] Curses Ham
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   כה וַיֹּ֖אמֶר אָר֣וּר כְּנָ֑עַן עֶ֥בֶד עֲבָדִ֖ים יִֽהְיֶ֥ה לְאֶחָֽיו:
   כו וַיֹּ֕אמֶר בָּר֥וּךְ יְהֹוָ֖ה אֱלֹ֣הֵי שֵׁ֑ם וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ:
   כז יַ֤פְתְּ אֱלֹהִים֙ לְיֶ֔פֶת וְיִשְׁכֹּ֖ן בְּאָֽהֳלֵי־שֵׁ֑ם וִיהִ֥י כְנַ֖עַן עֶ֥בֶד לָֽמוֹ:
-<p dir="ltr">
+</p>
+<p>
 25. And he said, "Cursed be Canaan; he shall be a slave among slaves to his brethren." 
 26. And he said, "Blessed be the Lord, the God of Shem, and may Canaan be a slave to them.
 27. May God expand Japheth, and may He dwell in the tents of Shem, and may Canaan be a slave to them."[^45]
@@ -484,18 +544,22 @@ n25] <b>עֶ֥בֶד עֲבָדִ֖ים</b> &mdash; <i>A slave of slaves.</i> Th
 
 ![The Seventy Nations](/site/posts/img/parashot/the%2070%20nations.jpg)
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ה מֵאֵ֠לֶּה נִפְרְד֞וּ אִיֵּ֤י הַגּוֹיִם֙ בְּאַרְצֹתָ֔ם אִ֖ישׁ לִלְשֹׁנ֑וֹ לְמִשְׁפְּחֹתָ֖ם בְּגֽוֹיֵהֶֽם:
-<p dir="ltr">
+</p>
+<p>
 5. From these, the islands of the nations separated in their lands, each one to his language, according to their families, in their nations. 
 </p>
 </blockquote>
 
 ### 10:9] Nimrod
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   טהֽוּא־הָיָ֥ה גִּבֹּֽר־צַ֖יִד לִפְנֵ֣י יְהֹוָ֑ה עַל־כֵּן֙ יֵֽאָמַ֔ר כְּנִמְרֹ֛ד גִּבּ֥וֹר צַ֖יִד לִפְנֵ֥י יְהֹוָֽה:
-<p dir="ltr">
+</p>
+<p>
 9. He was a mighty hunter before the Lord; therefore it is said, "Like Nimrod, a mighty hunter before the Lord." 
 </p>
 </blockquote>
@@ -504,10 +568,12 @@ n8-10] <b>Nimrod.</b> Before Nimrod there were neither wars nor reigning monarch
 
 ### 10:31-32] According to their ...
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   לא אֵ֣לֶּה בְנֵי־שֵׁ֔ם לְמִשְׁפְּחֹתָ֖ם לִלְשֹֽׁנֹתָ֑ם בְּאַרְצֹתָ֖ם לְגֽוֹיֵהֶֽם: 
   לב אֵ֣לֶּה מִשְׁפְּחֹ֧ת בְּנֵי־נֹ֛חַ לְתֽוֹלְדֹתָ֖ם בְּגֽוֹיֵהֶ֑ם וּמֵאֵ֜לֶּה נִפְרְד֧וּ הַגּוֹיִ֛ם בָּאָ֖רֶץ אַחַ֥ר הַמַּבּֽוּל:
-<p dir="ltr">
+</p>
+<p>
 31.  These are the sons of Shem according to their families, according to their tongues, in their lands, according to their nations.
 32. These are the families of the sons of Noah according to their generations, in their nations, and from these, the nations were separated on the earth after the Flood.
 </p>
@@ -523,9 +589,11 @@ All the ingredients for greatness were there. The nations were united, they were
 
 ### 11:5] G-d descends
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ה וַיֵּ֣רֶד יְהֹוָ֔ה לִרְאֹ֥ת אֶת־הָעִ֖יר וְאֶת־הַמִּגְדָּ֑ל אֲשֶׁ֥ר בָּנ֖וּ בְּנֵ֥י הָֽאָדָֽם:
-<p dir="ltr">
+</p>
+<p>
 5. And the Lord descended to see the city and the tower that the sons of man had built. 
 </p>
 </blockquote>
@@ -534,9 +602,11 @@ n11:5] <b>וַיֵּ֣רֶד ה’ ־</b> &mdash; <i><b>HaShem</b> descended.</i
 
 ### 11:7] Let us descend
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ז הָ֚בָה נֵֽרְדָ֔ה וְנָֽבְלָ֥ה שָׁ֖ם שְׂפָתָ֑ם אֲשֶׁר֙ לֹ֣א יִשְׁמְע֔וּ אִ֖ישׁ שְׂפַ֥ת רֵעֵֽהוּ:
-<p dir="ltr">
+</p>
+<p>
 7. Come, let us descend and confuse their language, so that one will not understand the language of his companion."
 </p>
 </blockquote>
@@ -545,10 +615,12 @@ n11:7] <b>הָ֚בָה נֵֽרְדָ֔ה</b> &mdash; <i>Let us descend.</i> The
 
 ### 11:26-27] Terach, father of Abram
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כו וַֽיְחִי־תֶ֖רַח שִׁבְעִ֣ים שָׁנָ֑ה וַיּ֨וֹלֶד֙ אֶת־אַבְרָ֔ם אֶת־נָח֖וֹר וְאֶת־הָרָֽן:
 כז וְאֵ֨לֶּה֙ תּֽוֹלְדֹ֣ת תֶּ֔רַח תֶּ֚רַח הוֹלִ֣יד אֶת־אַבְרָ֔ם אֶת־נָח֖וֹר וְאֶת־הָרָ֑ן וְהָרָ֖ן הוֹלִ֥יד אֶת־לֽוֹט
-<p dir="ltr">
+</p>
+<p>
 26. And Terach lived seventy years, and he begot Abram, Nahor, and Haran.
 27. And these are the generations of Terach: Terach begot Abram, Nahor, and Haran, and Haran begot Lot.
 </p>
@@ -558,9 +630,11 @@ n11:26] <b>Birth of Abraham.</b> In a real sense, Creation now begins anew. for 
 
 Abraham's mother was **Amatiai**, daughter of Karnebo.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כחוַיָּ֣מָת הָרָ֔ן עַל־פְּנֵ֖י תֶּ֣רַח אָבִ֑יו בְּאֶ֥רֶץ מֽוֹלַדְתּ֖וֹ בְּא֥וּר כַּשְׂדִּֽים:
-<p dir="ltr">
+</p>
+<p>
 28. And Haran died during the lifetime of Terah his father in the land of his birth, in Ur of the Chaldees. 
 </p>
 </blockquote>
@@ -569,9 +643,11 @@ n11:28] <b>עַל־פְּנֵ֖י תֶּ֣רַח אָבִ֑יו</b> &mdash; <i>d
 
 ### 11:29] Terach, father of Abram
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   כט וַיִּקַּ֨ח אַבְרָ֧ם וְנָח֛וֹר לָהֶ֖ם נָשִׁ֑ים שֵׁ֤ם אֵֽשֶׁת־אַבְרָם֙ שָׂרָ֔י וְשֵׁ֤ם אֵֽשֶׁת־נָחוֹר֙ מִלְכָּ֔ה בַּת־הָרָ֥ן אֲבִֽי־מִלְכָּ֖ה וַֽאֲבִ֥י יִסְכָּֽה:
-<p dir="ltr">
+</p>
+<p>
 29. And Abram and Nahor took themselves wives; the name of Abram's wife was Sarai, and the name of Nahor's wife was Milcah, the daughter of Haran, the father of Milcah and the father of Iscah.
 </p>
 </blockquote>

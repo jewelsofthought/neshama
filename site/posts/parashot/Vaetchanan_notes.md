@@ -7,9 +7,9 @@ modified: 2018-07-28
 ---
 
 <blockquote>
-<bdo dir='rtl'>
+<p dir='rtl'>
 וָֽאֶתְחַנַּ֖ן אֶל־יְהֹוָ֑ה
-</bdo>
+</p>
   <p>
 I entreated the Lord
   </p>
@@ -24,9 +24,9 @@ In the present, I find it extremely synchronous, to be a time of “entreating t
 v4:1]
 
 <blockquote>
-<bdo dir='rtl'>
+<p dir='rtl'>
 וְעַתָּ֣ה יִשְׂרָאֵ֗ל שְׁמַ֤ע אֶל־הַֽחֻקִּים֙ וְאֶל־הַמִּשְׁפָּטִ֔ים
-</bdo>
+</p>
   <p>
 Now Israel hear the Laws and the Sentences...
   </p>

@@ -12,19 +12,17 @@ date: 2021-09-24T21:22:16.154Z
 26:2] "Go to the place that **HaShem**, your G-d, will choose..."
 </blockquote>
 
-<p class="note">
-{NOTE: This line is interesting, as it appears many times in this book. "Go to the place that Hashem, your G-d, will choose...". The place is not specified. It will still be chosen. That Jerusalem was eventually designated as the site of the temple, does that mean that it cannot change? Remember, for me, the temple that is to be built might not be the brick and mortar one which we are hoping for in Jerusalem...}
-<p>
+**NOTE**: This line is interesting, as it appears many times in this book. "Go to the place that Hashem, your G-d, will choose...". The place is not specified. It will still be chosen. That Jerusalem was eventually designated as the site of the temple, does that mean that it cannot change? Remember, for me, the temple that is to be built might not be the brick and mortar one which we are hoping for in Jerusalem...{.note}
 
 <blockquote>
 26:17] You shall observe them will all your heart and your soul. Distinguished **HaShem** as your G-d. Walk in His ways, observe His decrees, commandments and statutes. Hearken to His voice.
 </blockquote>
 
 <div class="note">
-{NOTE: His decrees, commandments and statutes, as laid down in the Torah, and interpreted and enhanced and clarified by the Rabbis through the ages. Even today there is some disagreements (or differing opinions as the meaning of some of these decrees, statutes and commandments)&mdash;which is a good thing, as it opens up the possibility for new interpretations, which I think is essential for the continuation and evolution of our faith.
+
+**NOTE**: His decrees, commandments and statutes, as laid down in the Torah, and interpreted and enhanced and clarified by the Rabbis through the ages. Even today there is some disagreements (or differing opinions as the meaning of some of these decrees, statutes and commandments)&mdash;which is a good thing, as it opens up the possibility for new interpretations, which I think is essential for the continuation and evolution of our faith.
 
 But, the line of "Hearken to His voice" is fascinating. What is His voice? Is it the same one that spoke at Mt. Sinai? If it is expressing the Infinite Source of Being, what would that voice sound like? How would I hear it? Is it in the song of the birds, or the roar of the lion; the howling wind and the drumbeat of the rain? Is not everything that exists an expression of that Voice? Or is it only sometimes and in some ways? Or is that our restricting <b>HaShem</b>? Or is the voice only expressed in the Torah, constrained to the Books of Moses?
-}
 
 </div>
 

@@ -22,21 +22,28 @@ date: 2023-01-28T06:57:16.939Z
 
 At the end of the _Parashat Bo_, a sacred duty is placed upon us, to carry into the future as a sign, by laying _tefillin_, which contain scrolls telling of the Exodus.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
  וְהָיָ֤ה לְאוֹת֙ עַל־יָ֣דְכָ֔ה וּלְטוֹטָפֹ֖ת בֵּ֣ין עֵינֶ֑יךָ כִּ֚י בְּחֹ֣זֶק יָ֔ד הוֹצִיאָ֥נוּ יְהֹוָ֖ה מִמִּצְרָֽיִם׃
+</p>
+<p>
+"And so it shall be as a sign upon your hand and as a symbol on your forehead that with a might hand the Ha'shem freed us from Egypt."
+</p>
 </blockquote>
 
-> "And so it shall be as a sign upon your hand and as a symbol on your forehead that with a might hand the Ha'shem freed us from Egypt."
 
 This is a constant reminder for us, an action we repeat almost every day to remind us of who we are, and our duties and responsibilities as human beings who are part of something greater (whether a family, a community, or a belief in the goodness of G-d, together with whom we will herald in the coming of the Messianic era.) There are four reminders wrapped into the mystery of the _tefillin_.
 
 1. The principle of the Unity of G-d. God is One.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
  שׁמא ישׂרַאל אדוני אלוהינו, אדוני אחד.
-</blockquote>
-
+</p>
+<p>
 > "Hear O Israel, Your Lord, Your G-d, is One."
+</p>
+</blockquote>
 
 2. To accept His omnipotence.
 

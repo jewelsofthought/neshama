@@ -41,21 +41,19 @@ date: 2021-09-03T00:33:06.076Z
 
 #### 18-20&#93; Judges and _Shotrim_
 
-<blockquote dir="rtl">
-
+<blockquote>
+<p dir="rtl">
 **יח:**&nbsp; שֹֽׁפְטִ֣ים וְשֹֽׁטְרִ֗ים תִּתֶּן־לְךָ֙ בְּכָל־שְׁעָרֶ֔יךָ אֲשֶׁ֨ר יְהֹוָ֧ה אֱלֹהֶ֛יךָ נֹתֵ֥ן לְךָ֖ לִשְׁבָטֶ֑יךָ וְשָֽׁפְט֥וּ אֶת־הָעָ֖ם מִשְׁפַּט־צֶֽדֶק:
-
 **יט:**&nbsp; לא־תַטֶּ֣ה מִשְׁפָּ֔ט לֹ֥א תַכִּ֖יר פָּנִ֑ים וְלֹֽא־תִקַּ֣ח שֹׁ֔חַד כִּ֣י הַשֹּׁ֗חַד יְעַוֵּר֙ עֵינֵ֣י חֲכָמִ֔ים וִֽיסַלֵּ֖ף דִּבְרֵ֥י צַדִּיקִֽם:
-
 **כ:**&nbsp; צֶ֥דֶק צֶ֖דֶק תִּרְדֹּ֑ף לְמַ֤עַן תִּֽחְיֶה֙ וְיָֽרַשְׁתָּ֣ אֶת־הָאָ֔רֶץ אֲשֶׁר־יְהֹוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ:
-
-<p dir="ltr">
+</p>
+<p>
 <b>18:</b> You shall set up judges and law enforcement officials for yourself in all your cities that the Lord, your God, is giving you, for your tribes, and they shall judge the people [with] righteous judgment.
 </p>
-<p dir="ltr">
+<p>
 <b>19:</b> You shall not pervert justice; you shall not show favouritism, and you shall not take a bribe, for bribery blinds the eyes of the wise and perverts just words.
 </p>
-<p dir="ltr">
+<p>
 <b>20:</b> Justice, justice shall you pursue, that you may live and possess the land the Lord, your God, is giving you.
 </p>
 </blockquote>
@@ -74,11 +72,12 @@ In addition, the decisions of the Sanhedrin must be obeyed for the Sages have be
 
 #### 22&#93; No pillar, which G-d hates.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 **כא:**&nbsp; לֹֽא־תִטַּ֥ע לְךָ֛ אֲשֵׁרָ֖ה כָּל־עֵ֑ץ אֵ֗צֶל מִזְבַּ֛ח יְהֹוָ֥ה אֱלֹהֶ֖יךָ אֲשֶׁ֥ר תַּֽעֲשֶׂה־לָּֽךְ:
 **כב:**&nbsp; וְלֹֽא־תָקִ֥ים לְךָ֖ מַצֵּבָ֑ה אֲשֶׁ֥ר שָׂנֵ֖א יְהֹוָ֥ה אֱלֹהֶֽיךָ:
-
-<p dir="ltr">
+</p>
+<p>
 <b>21:</b> You shall not plant for yourself an _asherah_, [or] any tree, near the altar of the Lord, your God.
 <b>22:</b> And you shall not set up for yourself a monument, which the Lord, your God hates.
 </p>
@@ -92,9 +91,11 @@ It is also forbidden to set up a pillar i.e. a single stone for any sort of wors
 
 #### 1&#93; Blemish or any bad thing.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 א:&nbsp; לֹֽא־תִזְבַּח֩ לַֽיהֹוָ֨ה אֱלֹהֶ֜יךָ שׁ֣וֹר וָשֶׂ֗ה אֲשֶׁ֨ר יִֽהְיֶ֥ה בוֹ֙ מ֔וּם כֹּ֖ל דָּבָ֣ר רָ֑ע כִּ֧י תֽוֹעֲבַ֛ת יְהֹוָ֥ה אֱלֹהֶ֖יךָ הֽוּא:
-<p dir="ltr">
+</p>
+<p>
 1: You shall not sacrifice to the Lord, your God, an ox or a sheep that has in it a blemish or any bad thing, for that is an abomination to the Lord, your God.
 </p>
 </blockquote>
@@ -103,17 +104,19 @@ It is also forbidden to set up a pillar i.e. a single stone for any sort of wors
 
 #### 2&#93; What is evil?
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ב:&nbsp;
 אִ֣ישׁ אֽוֹ־אִשָּׁ֗ה אֲשֶׁ֨ר יַֽעֲשֶׂ֧ה אֶת־הָרַ֛ע בְּעֵינֵ֥י יְהֹוָֽה־אֱלֹהֶ֖יךָ לַֽעֲבֹ֥ר בְּרִיתֽוֹ:
-<p dir="ltr">
+</p>
+<p>
 2: ...a man or woman who does evil in the eyes of the Lord, your God, to transgress His covenant,
 </p>
 </blockquote>
 
 **n2] אֶת־הָרַ֛ע ... לַֽעֲבֹ֥ר בְּרִיתֽוֹ**֬&mdash;<i>What is evil ... to violate the covenant</i>. Idol worship is _the_ evil, the ultimate violation of G-d's covenant, for it constitutes a denial of His very existence. No obligation or threat can ever justify idolatory.
 
-**n3] אֲשֶׁ֥ר לֹֽא־צִוִּֽיתִי**&mdash;<i>which I have not commanded</i> you to worship (_Rashi_), even though they are my handiwork (_Ibn Ezra_). _Sforno_ comments that this term refutes a common claim of idol worshippers, that the heavenly bodies have independent powers, since G-d _commanded_ them to assume control over such matters as fertility, rainfall, health, and so on. In response to such erroneous beliefs, G-d says that He has _not commanded_ them at all; rather He created certain spiritual or natural forces to serve particular functions, but they have no freedom or power to choose what they will or will not do.
+**n3]** **אֲשֶׁ֥ר לֹֽא־צִוִּֽיתִי**&mdash;<i>which I have not commanded</i> you to worship (_Rashi_), even though they are my handiwork (_Ibn Ezra_). _Sforno_ comments that this term refutes a common claim of idol worshippers, that the heavenly bodies have independent powers, since G-d _commanded_ them to assume control over such matters as fertility, rainfall, health, and so on. In response to such erroneous beliefs, G-d says that He has _not commanded_ them at all; rather He created certain spiritual or natural forces to serve particular functions, but they have no freedom or power to choose what they will or will not do.
 
 **n5]** The idol has no power to save its worshippers, even in its own locale.
 

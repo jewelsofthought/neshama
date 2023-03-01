@@ -31,9 +31,11 @@ So he takes his two sons with him and goes to see Jacob. So when did the last ev
 
 Then he blesses them. However, he blesses Ephraim with his right hand - the hand of the elder - although he is the younger, and Menasseh with his left. Joseph objects and tries to correct him but Jacob refuses, and responds with (v19)
 
-<blockquote dir="rtl>
+<blockquote>
+<p dir="rtl">
 יט וַיְמָאֵ֣ן אָבִ֗יו וַיֹּ֨אמֶר֙ יָדַ֤עְתִּי בְנִי֙ יָדַ֔עְתִּי גַּם־ה֥וּא יִֽהְיֶה־לְעָ֖ם וְגַם־ה֣וּא יִגְדָּ֑ל וְאוּלָ֗ם אָחִ֤יו הַקָּטֹן֙ יִגְדַּ֣ל מִמֶּ֔נּוּ וְזַרְע֖וֹ יִֽהְיֶ֥ה מְלֹֽא־הַגּוֹיִֽם:
-<p dir="ltr">
+</p>
+<p>
 19. But his father refused, and he said, "I know, my son, I know; he too will become a people, and he too will be great. But his younger brother will be greater than he, and his children['s fame] will fill the nations."
 </p>
 </blockquote>
@@ -53,20 +55,24 @@ He also predicts that Joseph will be returned to the land of his forefathers.
 
 #### Simeon & Levi (v5-7)
 
-<blockquote dir="rtl>
+<blockquote>
+<p dir="rtl">
 ו בְּסֹדָם֙ אַל־תָּבֹ֣א נַפְשִׁ֔י בִּקְהָלָ֖ם אַל־תֵּחַ֣ד כְּבֹדִ֑י כִּ֤י בְאַפָּם֙ הָ֣רְגוּ אִ֔ישׁ וּבִרְצֹנָ֖ם עִקְּרוּ־שֽׁוֹר:
-<p dir="ltr">
+</p>
+<p>
 6. Let my soul not enter their counsel; my honor, you shall not join their assembly, for in their wrath they killed a man, and with their will they hamstrung a bull.
 </p>
 </blockquote>
 
 #### Judah (v8-12)
 
-<blockquote dir="rtl>
+<blockquote>
+<p dir="rtl">
 י לֹֽא־יָס֥וּר שֵׁ֨בֶט֙ מִֽיהוּדָ֔ה וּמְחֹקֵ֖ק מִבֵּ֣ין רַגְלָ֑יו עַ֚ד כִּֽי־יָבֹ֣א שִׁילֹ֔ה וְל֖וֹ יִקְּהַ֥ת עַמִּֽים:
 יא אֹֽסְרִ֤י לַגֶּ֨פֶן֙ עִיר֔וֹ (כתיב עירה) וְלַשּֽׂרֵקָ֖ה בְּנִ֣י אֲתֹנ֑וֹ כִּבֵּ֤ס בַּיַּ֨יִן֙ לְבֻשׁ֔וֹ וּבְדַם־עֲנָבִ֖ים סוּתֽוֹ (כתיב סותה) :
 יב חַכְלִילִ֥י עֵינַ֖יִם מִיָּ֑יִן וּלְבֶן־שִׁנַּ֖יִם מֵֽחָלָֽב:
-<p dir="ltr">
+</p>
+<p>
 10. The scepter shall not depart from Judah, nor the student of the law from between his feet, until Shiloh comes, and to him will be a gathering of peoples.
 11. He binds his foal to a vine, and to a tendril [he binds] his young donkey. [He launders] his garment with wine, and with the blood of grapes binds his raiment.
 12. [He is] red eyed from wine and white toothed from milk.
@@ -77,9 +83,11 @@ He also predicts that Joseph will be returned to the land of his forefathers.
 
 #### Issachar (v14-15)
 
-<blockquote dir="rtl>
+<blockquote>
+<p dir="rtl">
 יד יִשָּׂשכָ֖ר חֲמֹ֣ר גָּ֑רֶם רֹבֵ֖ץ בֵּ֥ין הַמִּשְׁפְּתָֽיִם:
-<p dir="ltr">
+</p>
+<p>
 14. Issachar is a strong-boned donkey, lying between the boundaries.
 </p>
 </blockquote>
@@ -100,14 +108,14 @@ He also predicts that Joseph will be returned to the land of his forefathers.
 
 ## Jacob expires (<b>וַיִּגְוַ֖ע</b>)
 
-<blockquote dir="rtl>
-
+<blockquote>
+<p dir="rtl">
 כט וַיְצַ֣ו אוֹתָ֗ם וַיֹּ֤אמֶר אֲלֵהֶם֙ אֲנִי֙ נֶֽאֱסָ֣ף אֶל־עַמִּ֔י קִבְר֥וּ אֹתִ֖י אֶל־אֲבֹתָ֑י אֶ֨ל־הַמְּעָרָ֔ה אֲשֶׁ֥ר בִּשְׂדֵ֖ה עֶפְר֥וֹן הַֽחִתִּֽי:
 ל בַּמְּעָרָ֞ה אֲשֶׁ֨ר בִּשְׂדֵ֧ה הַמַּכְפֵּלָ֛ה אֲשֶׁר־עַל־פְּנֵ֥י מַמְרֵ֖א בְּאֶ֣רֶץ כְּנָ֑עַן אֲשֶׁר֩ קָנָ֨ה אַבְרָהָ֜ם אֶת־הַשָּׂדֶ֗ה מֵאֵ֛ת עֶפְרֹ֥ן הַֽחִתִּ֖י לַֽאֲחֻזַּת־קָֽבֶר:
 לא שָׁ֣מָּה קָֽבְר֞וּ אֶת־אַבְרָהָ֗ם וְאֵת֙ שָׂרָ֣ה אִשְׁתּ֔וֹ שָׁ֚מָּה קָֽבְר֣וּ אֶת־יִצְחָ֔ק וְאֵ֖ת רִבְקָ֣ה אִשְׁתּ֑וֹ וְשָׁ֥מָּה קָבַ֖רְתִּי אֶת־לֵאָֽה:
 לב מִקְנֵ֧ה הַשָּׂדֶ֛ה וְהַמְּעָרָ֥ה אֲשֶׁר־בּ֖וֹ מֵאֵ֥ת בְּנֵי־חֵֽת:
-
-<p dir="ltr">
+</p>
+<p>
 29. And he commanded them and said to them, "I will be brought in to my people; bury me with my fathers, in the cave that is in the field of Ephron the Hittite, 	
 30. in the cave that is in the field of Machpelah, which is before Mamre in the land of Canaan, which field Abraham bought from Ephron the Hittite for burial property.
 31. There they buried Abraham and his wife Sarah, there they buried Isaac and his wife Rebecca, and there I buried Leah.
@@ -129,27 +137,33 @@ However, that does not make much sense, as the famine lasted 7 years, and, Jacob
 
 Then, with Pharaoh's permission, Joseph went to bury his father. Amazingly (v7):
 
-<blockquote dir="rtl">
-<p dir="ltr">
+<blockquote>
+<p dir="rtl">
 וַיַּ֥עַל יוֹסֵ֖ף לִקְבֹּ֣ר אֶת־אָבִ֑יו וַיַּֽעֲל֨וּ אִתּ֜וֹ כָּל־עַבְדֵ֤י פַרְעֹה֙ זִקְנֵ֣י בֵית֔וֹ וְכֹ֖ל זִקְנֵ֥י אֶֽרֶץ־מִצְרָֽיִם:
 </p>
+<p>
 ...all Pharaoh's servants, the elders of his house, and all the elders of the land of Egypt went up with him,
+</p>
 </blockquote>
 
 As well as (v8):
 
-<blockquote dir="rtl">
-<p dir="ltr">
+<blockquote>
+<p dir="rtl">
 וְכֹל֙ בֵּ֣ית יוֹסֵ֔ף וְאֶחָ֖יו וּבֵ֣ית אָבִ֑יו
 </p>
+<p>
 Joseph's entire household and his brothers and his father's household; 
+</p>
 </blockquote>
 
 In addition (v9):
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ט וַיַּ֣עַל עִמּ֔וֹ גַּם־רֶ֖כֶב גַּם־פָּֽרָשִׁ֑ים וַיְהִ֥י הַמַּֽחֲנֶ֖ה כָּבֵ֥ד מְאֹֽד:
-<p dir="ltr">
+</p>
+<p>
 And chariots and horsemen also went up with him, and the camp was very numerous.
 </p>
 </blockquote>
@@ -160,17 +174,19 @@ What is surprising though, is that all of Pharoah's servants went with them. Who
 
 Now that Jacob has passed, the brothers are suddenly feeling vulnerable, and afraid that now Joseph will wreak his revenge. Instead, Joseph embraces them and promises that he will look after them and their families. This prompts much discussion on what forgiveness means, and how to forgive, etc. In fact, when they throw themselves at his feet, declaring themselves to be his slaves, he responds beautifully (v18-20).
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יח וַיֵּֽלְכוּ֙ גַּם־אֶחָ֔יו וַיִּפְּל֖וּ לְפָנָ֑יו וַיֹּ֣אמְר֔וּ הִנֶּ֥נּוּ לְךָ֖ לַֽעֲבָדִֽים:
 יט וַיֹּ֧אמֶר אֲלֵהֶ֛ם יוֹסֵ֖ף אַל־תִּירָ֑אוּ כִּ֛י הֲתַ֥חַת אֱלֹהִ֖ים אָֽנִי:
 כ וְאַתֶּ֕ם חֲשַׁבְתֶּ֥ם עָלַ֖י רָעָ֑ה אֱלֹהִים֙ חֲשָׁבָ֣הּ לְטֹבָ֔ה לְמַ֗עַן עֲשׂ֛ה כַּיּ֥וֹם הַזֶּ֖ה לְהַֽחֲיֹ֥ת עַם־רָֽב:
 כא וְעַתָּה֙ אַל־תִּירָ֔אוּ אָֽנֹכִ֛י אֲכַלְכֵּ֥ל אֶתְכֶ֖ם וְאֶת־טַפְּכֶ֑ם 
 וַיְנַחֵ֣ם אוֹתָ֔ם וַיְדַבֵּ֖ר עַל־לִבָּֽם
-<p dir="ltr">
+</p>
+<p>
 18. His brothers also went and fell before him, and they said, "Behold, we are your slaves." 
 19. But Joseph said to them, "Don't be afraid, for am I instead of God?
 20. Indeed, you intended evil against me, [but] God designed it for good, in order to bring about what is at present to keep a great populace alive.
-21.So now do not fear. I will sustain you and your small children." And he comforted them and spoke to their hearts.
+21. So now do not fear. I will sustain you and your small children." And he comforted them and spoke to their hearts.
 </p>
 </blockquote>
 

@@ -56,9 +56,11 @@ Plagues and death of the first-born were insufficient to convince us of G-d's mi
 
 ### n14:7] The Chariots
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ז וַיִּקַּ֗ח שֵֽׁשׁ־מֵא֥וֹת רֶ֨כֶב֙ בָּח֔וּר וְכֹ֖ל רֶ֣כֶב מִצְרָ֑יִם וְשָֽׁלִשִׁ֖ם עַל־כֻּלּֽוֹ:
-  <p dir="ltr">
+  </p>
+  <p>
 7. He took six hundred select chariots and all the chariots of Egypt, with officers over them all.	
   </p>
 </blockquote>
@@ -75,9 +77,11 @@ To pray or celebrate alone is the most challenging and will test your commitment
 
 ### n14:31] They saw, and they believed
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 לאוַיַּ֨רְא יִשְׂרָאֵ֜ל אֶת־הַיָּ֣ד הַגְּדֹלָ֗ה אֲשֶׁ֨ר עָשָׂ֤ה יְהֹוָה֙ בְּמִצְרַ֔יִם וַיִּֽירְא֥וּ הָעָ֖ם אֶת־יְהֹוָ֑ה וַיַּֽאֲמִ֨ינוּ֙ בַּֽיהֹוָ֔ה וּבְמשֶׁ֖ה עַבְדּֽוֹ:
-<p dir="ltr">
+</p>
+<p>
   31. And Israel saw the great hand, which the Lord had used upon the Egyptians, and the people feared the Lord, and they believed in the Lord and in Moses, His servant. 
   </p>
 </blockquote>

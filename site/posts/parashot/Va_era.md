@@ -9,13 +9,15 @@ date: 2023-01-21T00:09:57.912Z
 
 v1-4] I am **HaShem**
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ב וַיְדַבֵּ֥ר אֱלֹהִ֖ים אֶל־משֶׁ֑ה וַיֹּ֥אמֶר אֵלָ֖יו אֲנִ֥י יְהֹוָֽה:
 <br />
 ג וָֽאֵרָ֗א אֶל־אַבְרָהָ֛ם אֶל־יִצְחָ֥ק וְאֶל־יַֽעֲקֹ֖ב בְּאֵ֣ל שַׁדָּ֑י וּשְׁמִ֣י יְהֹוָ֔ה לֹ֥א נוֹדַ֖עְתִּי לָהֶֽם:
 <br />
 ד וְגַ֨ם הֲקִמֹ֤תִי אֶת־בְּרִיתִי֙ אִתָּ֔ם לָתֵ֥ת לָהֶ֖ם אֶת־אֶ֣רֶץ כְּנָ֑עַן אֵ֛ת אֶ֥רֶץ מְגֻֽרֵיהֶ֖ם אֲשֶׁר־גָּ֥רוּ בָֽהּ:
-<p dir="ltr">
+</p>
+<p>
 2. God spoke to Moses, and He said to him, "I am the Lord."
 <br />
 3. "I appeared to Abraham, to Isaac, and to Jacob with [the name] Almighty God, but [with] My name <b>YHWH</b>, I did not become known to them."
@@ -28,18 +30,22 @@ This reading opens up with G-d speaking to Moses, saying: "I am the Lord, **יה
 
 v5] "I heard their moans"
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ה וְגַ֣ם | אֲנִ֣י שָׁמַ֗עְתִּי אֶת־נַֽאֲקַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֥ר מִצְרַ֖יִם מַֽעֲבִדִ֣ים אֹתָ֑ם וָֽאֶזְכֹּ֖ר אֶת־בְּרִיתִֽי:
-</blockquote>
-<p dir="ltr">
+</p>
+<p>
 5. And also, I heard the moans of the children of Israel, whom the Egyptians are holding in bondage, and I remembered My covenant. 
 </p>
+</blockquote>
 
 v6] "I will save you"
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ו לָכֵ֞ן אֱמֹ֥ר לִבְנֵֽי־יִשְׂרָאֵל֘ אֲנִ֣י יְהֹוָה֒ וְהֽוֹצֵאתִ֣י אֶתְכֶ֗ם מִתַּ֨חַת֙ סִבְלֹ֣ת מִצְרַ֔יִם וְהִצַּלְתִּ֥י אֶתְכֶ֖ם מֵֽעֲבֹֽדָתָ֑ם וְגָֽאַלְתִּ֤י אֶתְכֶם֙ בִּזְר֣וֹעַ נְטוּיָ֔ה וּבִשְׁפָטִ֖ים גְּדֹלִֽים:
-<p dir="ltr">
+</p>
+<p>
 6. Therefore, say to the children of Israel, 'I am the Lord, and I will take you out from under the burdens of the Egyptians, and I will save you from their labour, and I will redeem you with an outstretched arm and with great judgments.'
 </p>
 </blockquote>
@@ -54,11 +60,13 @@ He acknowledges His sympathy with the plight of the children of Israel, and He r
 
 v7-8] "I will..."
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ז וְלָֽקַחְתִּ֨י אֶתְכֶ֥ם לִי֙ לְעָ֔ם וְהָיִ֥יתִי לָכֶ֖ם לֵֽאלֹהִ֑ים וִֽידַעְתֶּ֗ם כִּ֣י אֲנִ֤י יְהֹוָה֙ אֱלֹ֣הֵיכֶ֔ם הַמּוֹצִ֣יא אֶתְכֶ֔ם מִתַּ֖חַת סִבְל֥וֹת מִצְרָֽיִם:  
 <br />
 ח וְהֵֽבֵאתִ֤י אֶתְכֶם֙ אֶל־הָאָ֔רֶץ אֲשֶׁ֤ר נָשָׂ֨אתִי֙ אֶת־יָדִ֔י לָתֵ֣ת אֹתָ֔הּ לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּלְיַֽעֲקֹ֑ב וְנָֽתַתִּ֨י אֹתָ֥הּ לָכֶ֛ם מֽוֹרָשָׁ֖ה אֲנִ֥י יְהֹוָֽה:
-<p dir="ltr">
+</p>
+<p>
 7. And I will take you to Me as a people, and I will be a God to you, and you will know that I am the Lord your God, Who has brought you out from under the burdens of the Egyptians. <br />
 8. "I will bring you to the land, concerning which I raised My hand to give to Abraham, to Isaac, and to Jacob, and I will give it to you as a heritage; I am the Lord."
 </p>
@@ -74,20 +82,24 @@ I will:
 
 v9] Israel ignored Moses
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ט וַיְדַבֵּ֥ר משֶׁ֛ה כֵּ֖ן אֶל־בְּנֵ֣י יִשְׂרָאֵ֑ל וְלֹ֤א שָֽׁמְעוּ֙ אֶל־משֶׁ֔ה מִקֹּ֣צֶר ר֔וּחַ וּמֵֽעֲבֹדָ֖ה קָשָֽׁה:
-<p dir="ltr">
+</p>
+<p>
 9. Moses spoke thus to the children of Israel, but they did not hearken to Moses because of [their] shortness of breath and because of [their] hard labour.
 </p>
 </blockquote>
 
 v10-12] Will Pharaoh listen?
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 י וַיְדַבֵּ֥ר יְהֹוָ֖ה אֶל־משֶׁ֥ה לֵּאמֹֽר:  
 יא בֹּ֣א דַבֵּ֔ר אֶל־פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם וִֽישַׁלַּ֥ח אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מֵֽאַרְצֽוֹ:  
 יב וַיְדַבֵּ֣ר משֶׁ֔ה לִפְנֵ֥י יְהֹוָ֖ה לֵאמֹ֑ר הֵ֤ן בְּנֵֽי־יִשְׂרָאֵל֙ לֹא־שָֽׁמְע֣וּ אֵלַ֔י וְאֵיךְ֙ יִשְׁמָעֵ֣נִי פַרְעֹ֔ה וַֽאֲנִ֖י עֲרַ֥ל שְׂפָתָֽיִם:
-<p dir="ltr">
+</p>
+<p>
 10. The Lord spoke to Moses, saying, <br />
 11. Come, speak to Pharaoh, the king of Egypt, and he will let the children of Israel out of his land.
 12. But Moses spoke before the Lord, saying, Behold, the children of Israel did not hearken to me. How then will Pharaoh hearken to me, seeing that I am of closed lips?
@@ -102,9 +114,11 @@ Note: The lesson I learn from this is that G-d does not want our abject obedienc
 
 v13] Lord spoke to Moses
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יג וַיְדַבֵּ֣ר יְהֹוָה֘ אֶל־משֶׁ֣ה וְאֶל־אַֽהֲרֹן֒ וַיְצַוֵּם֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְאֶל־פַּרְעֹ֖ה מֶ֣לֶךְ מִצְרָ֑יִם לְהוֹצִ֥יא אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מֵאֶ֥רֶץ מִצְרָֽיִם:
-<p dir="ltr">
+</p>
+<p>
 13. So the Lord spoke to Moses and to Aaron, and He commanded them concerning the children of Israel and concerning Pharaoh, the king of Egypt, to let the children of Israel out of the land of Egypt. </p>
 </blockquote>
 
@@ -114,11 +128,13 @@ v14-25] List of heads of houses (see [Names](/posts/parashot/Va_era/index.html#n
 
 v26-29] Moses & Aaron
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כו ה֥וּא אַֽהֲרֹ֖ן וּמשֶׁ֑ה אֲשֶׁ֨ר אָמַ֤ר יְהֹוָה֙ לָהֶ֔ם הוֹצִ֜יאוּ אֶת־בְּנֵ֧י יִשְׂרָאֵ֛ל מֵאֶ֥רֶץ מִצְרַ֖יִם עַל־צִבְאֹתָֽם:
 <br />
 כז הֵ֗ם הַֽמְדַבְּרִים֙ אֶל־פַּרְעֹ֣ה מֶֽלֶךְ־מִצְרַ֔יִם לְהוֹצִ֥יא אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מִמִּצְרָ֑יִם ה֥וּא משֶׁ֖ה וְאַֽהֲרֹֽן:
-<p dir="ltr">
+</p>
+<p>
 26. That is Aaron and Moses, to whom the Lord said, "Take the children of Israel out of the land of Egypt with their legions." <br />
 27. They are the ones who spoke to Pharaoh, the king of Egypt, to let the children of Israel out of Egypt; they are Moses and Aaron.
 </p>
@@ -128,11 +144,13 @@ This just repeats what was said in v13.
 
 v29-30] Moses objects: "I am of closed lips".
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כט וַיְדַבֵּ֧ר יְהֹוָ֛ה אֶל־משֶׁ֥ה לֵּאמֹ֖ר אֲנִ֣י יְהֹוָ֑ה דַּבֵּ֗ר אֶל־פַּרְעֹה֙ מֶ֣לֶךְ מִצְרַ֔יִם אֵ֛ת כָּל־אֲשֶׁ֥ר אֲנִ֖י דֹּבֵ֥ר אֵלֶֽיךָ:
 <br />
 ל וַיֹּ֥אמֶר משֶׁ֖ה לִפְנֵ֣י יְהֹוָ֑ה הֵ֤ן אֲנִי֙ עֲרַ֣ל שְׂפָתַ֔יִם וְאֵ֕יךְ יִשְׁמַ֥ע אֵלַ֖י פַּרְעֹֽה:
-<p dir="ltr">
+</p>
+<p>
 29. that the Lord spoke to Moses, saying, "I am the Lord. Speak to Pharaoh everything that I speak to you."<br />
 30. But Moses said before the Lord, "Behold, I am of closed lips; so how will Pharaoh hearken to me?"
 </p>
@@ -144,7 +162,8 @@ G-d instructs Moses to speak of everything that He has said. Moses objects again
 
 v1-5] Know that I am the Lord
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ב אַתָּ֣ה תְדַבֵּ֔ר אֵ֖ת כָּל־אֲשֶׁ֣ר אֲצַוֶּ֑ךָּ וְאַֽהֲרֹ֤ן אָחִ֨יךָ֙ יְדַבֵּ֣ר אֶל־פַּרְעֹ֔ה וְשִׁלַּ֥ח אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מֵֽאַרְצֽוֹ:
 <br />
 ג וַֽאֲנִ֥י אַקְשֶׁ֖ה אֶת־לֵ֣ב פַּרְעֹ֑ה וְהִרְבֵּיתִ֧י אֶת־אֹֽתֹתַ֛י וְאֶת־מֽוֹפְתַ֖י בְּאֶ֥רֶץ מִצְרָֽיִם:
@@ -152,7 +171,8 @@ v1-5] Know that I am the Lord
 ד וְלֹא־יִשְׁמַ֤ע אֲלֵכֶם֙ פַּרְעֹ֔ה וְנָֽתַתִּ֥י אֶת־יָדִ֖י בְּמִצְרָ֑יִם וְהֽוֹצֵאתִ֨י אֶת־צִבְאֹתַ֜י אֶת־עַמִּ֤י בְנֵֽי־יִשְׂרָאֵל֙ מֵאֶ֣רֶץ מִצְרַ֔יִם בִּשְׁפָטִ֖ים גְּדֹלִֽים:
 <br />
 ה וְיָֽדְע֤וּ מִצְרַ֨יִם֙ כִּֽי־אֲנִ֣י יְהֹוָ֔ה בִּנְטֹתִ֥י אֶת־יָדִ֖י עַל־מִצְרָ֑יִם וְהֽוֹצֵאתִ֥י אֶת־בְּנֵֽי־יִשְׂרָאֵ֖ל מִתּוֹכָֽם:
-<p dir="ltr">
+</p>
+<p>
 2. You shall speak all that I command you, and Aaron, your brother, shall speak to Pharaoh, that he let the children of Israel out of his land.<br />
 3. But I will harden Pharaoh's heart, and I will increase My signs and My wonders in the land of Egypt.<br />
 4. But Pharaoh will not hearken to you, and I will lay My hand upon the Egyptians, and I will take My legions, My people, the children of Israel, out of Egypt with great judgments.<br />
@@ -176,9 +196,11 @@ Then G-d commands Moses to meet the Pharaoh at the river Nile, and you shall say
 
 v19] "Stretch your staff over the waters"
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יט וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־משֶׁ֗ה אֱמֹ֣ר אֶל־אַֽהֲרֹ֡ן קַ֣ח מַטְּךָ֣ וּנְטֵה־יָֽדְךָ֩ עַל־מֵימֵ֨י מִצְרַ֜יִם עַל־נַֽהֲרֹתָ֣ם | עַל־יְאֹֽרֵיהֶ֣ם וְעַל־אַגְמֵיהֶ֗ם וְעַ֛ל כָּל־מִקְוֵ֥ה מֵֽימֵיהֶ֖ם וְיִֽהְיוּ־דָ֑ם וְהָ֤יָה דָם֙ בְּכָל־אֶ֣רֶץ מִצְרַ֔יִם וּבָֽעֵצִ֖ים וּבָֽאֲבָנִֽים:
-<p dir="ltr">
+</p>
+<p>
 19. The Lord said to Moses, "Say to Aaron, 'Take your staff and stretch forth your hand over the waters of Egypt, over their rivers, over their canals, over their ponds, and over all their bodies of water, and they will become blood, and there will be blood throughout the entire land of Egypt, even in wood and in stone.'"
 </p>
 </blockquote>
@@ -253,11 +275,13 @@ God did this thing on the morrow. Whereupon Pharaoh still did not relent (v6-7)
 
 v8-9] "Take furnace soot..."
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 חוַיֹּ֣אמֶר יְהֹוָה֘ אֶל־משֶׁ֣ה וְאֶל־אַֽהֲרֹן֒ קְח֤וּ לָכֶם֙ מְלֹ֣א חָפְנֵיכֶ֔ם פִּ֖יחַ כִּבְשָׁ֑ן וּזְרָק֥וֹ משֶׁ֛ה הַשָּׁמַ֖יְמָה לְעֵינֵ֥י פַרְעֹֽה:
 <br />
 טוְהָיָ֣ה לְאָבָ֔ק עַ֖ל כָּל־אֶ֣רֶץ מִצְרָ֑יִם וְהָיָ֨ה עַל־הָֽאָדָ֜ם וְעַל־הַבְּהֵמָ֗ה לִשְׁחִ֥ין פֹּרֵ֛חַ אֲבַעְבֻּעֹ֖ת בְּכָל־אֶ֥רֶץ מִצְרָֽיִם:
-<p dir="ltr">
+</p>
+<p>
 8. The Lord said to Moses and to Aaron, "Take yourselves handfuls of furnace soot, and Moses shall cast it heavenward before Pharaoh's eyes.<br />
 9. And it will become dust upon the entire land of Egypt, and it will become boils, breaking out into blisters upon man and upon beast throughout the entire land of Egypt."
 </p>
@@ -271,9 +295,11 @@ This time even the necromancers " could not stand before Moses because of the bo
 
 v13] "Speak to Pharaoh"
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יג וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־משֶׁ֔ה הַשְׁכֵּ֣ם בַּבֹּ֔קֶר וְהִתְיַצֵּ֖ב לִפְנֵ֣י פַרְעֹ֑ה וְאָֽמַרְתָּ֣ אֵלָ֗יו כֹּֽה־אָמַ֤ר יְהֹוָה֙ אֱלֹהֵ֣י הָֽעִבְרִ֔ים שַׁלַּ֥ח אֶת־עַמִּ֖י וְיַֽעַבְדֻֽנִי:
-<p dir="ltr">
+</p>
+<p>
 13. The Lord said to Moses, "Rise early in the morning and stand erect before Pharaoh, and say to him, 'So said the Lord, the God of the Hebrews, "Let My people go so that they may worship Me.
 </p>
 </blockquote>

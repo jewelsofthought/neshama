@@ -16,11 +16,13 @@ date: 2022-10-22T11:33:06.076Z
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 א בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ
-<p dir="ltr">
-1. In the beginning of God's creation of the heavens and the earth.
+</p>
 <p>
+1. In the beginning of God's creation of the heavens and the earth.
+</p>
 </blockquote>
 
 n1] **Introduction**
@@ -32,55 +34,65 @@ Man's mission did not change, however, only the conditions in which it would be 
 
 _Ramban_ claims that the essence of creation is the story of the birth of Israel, the nation that inherited the task of Adam and Chava. He comments that the Torah relates the story of the six days of Creation _ex nihilo_ to establish that G-d is the sole Creator and to refute the theories of those who claim that the universe is timeless or that it came into being through some massive coincidence or accident... The story of Creation tells of when the major categories of the universe came into existence only in very general terms, because its primary purpose is to state that nothing came into being except at G-d's command.
 
-n1:1] <b>בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים</b> &mdash; <i>In the beginning of G-d's creating.</i> This phrase is commonly rendered <i>In the beginning G-d created</i>, which would indicate that the Torah is giving us the sequence of Creation &mdash; that G-d created the heaven, then the earth, darkness, water, light and so on.
+n1:1] [בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים]{dir="rtl"} &mdash; <i>In the beginning of G-d's creating.</i> This phrase is commonly rendered <i>In the beginning G-d created</i>, which would indicate that the Torah is giving us the sequence of Creation &mdash; that G-d created the heaven, then the earth, darkness, water, light and so on.
 
 According to _Rambam_ and most other commentators, the verse ... begins with a general statement: <i>At the very first moment</i> &mdash; from absolute nothingness &mdash; <i>G-d created heaven and earth</i>, i.e., the basic substance from which He then fashioned the universe as we know it... The chapter continues the day-to-day process until it reaches its climax in the Creation of Man &mdash; the prime goal of Creation.
 
 Homiletically, the word בְּרֵאשִׁ֖ית can be written בּישׁבִיל רֵאשִׁית, <i>[the world was created] for the sake of [the things that are called] "beginning"</i>... The implication is that the purpose of Creation is to enable Jews to dedicate their first efforts and success to the service of G-d.[^2]
 
-n1:1] <b>אֱלֹהִ֑ים</b> &mdash; <i>G-d (Elohim)</i>. This Name denotes G-d in His Attribute of Justice [מִדַּת הַדּין]... By using this Name exclusively in the narrative of Creation, the Torah indicates that [the Divine Standard of] Justice is the ideal state of the world, meaning that Man should be treated exactly as he deserves, according to his deeds. However, because Man is not virtuous enough to survive such hard scrutiny, G-d added His Attribute of Mercy to the story of Creation, so that judgement would be tempered with mercy, [and that is the reason it is written: "on the day the Lord made earth and heaven" (Gen. 2:4)].
+n1:1] <b>אֱלֹהִ֑ים</b> &mdash; <i>G-d (Elohim)</i>. This Name denotes G-d in His Attribute of Justice ([מִדַּת הַדּין]{dir="rtl"})... By using this Name exclusively in the narrative of Creation, the Torah indicates that [the Divine Standard of] Justice is the ideal state of the world, meaning that Man should be treated exactly as he deserves, according to his deeds. However, because Man is not virtuous enough to survive such hard scrutiny, G-d added His Attribute of Mercy to the story of Creation, so that judgement would be tempered with mercy, [and that is the reason it is written: "on the day the Lord made earth and heaven" (Gen. 2:4)].
 
-<blockquote>
-Rashi 1:1] <b>בראשית ברא:</b> <i>In the beginning of G-d's creation of</i>. This verse calls for a Midrashic interpretation because, according to its simple interpretation, the vowelisation of the word <b>בָּרָ֣א</b>, should be different. It teaches us that the sequence of the Creation as written is impossible, ... but if you wish to explain it according to its simple meaning, explain it thus: "At the beginning of the creation of heaven and earth, the earth was astonishing with emptiness and darkness...and G-d said, 'Let there be light.'" But Scripture did not come to teach the sequence of the Creation, to say that these came first, for if it came to teach this, it should have written:“At first (<b>בָּרִאשׁוֹנָה</b>) He created the heavens and the earth,” for there is no <b>רֵאשִׁית</b> in Scripture that is not connected to the following word,  [i.e., in the construct state] like (ibid. 27:1):“In the beginning of (<b>בְּרֵאשִית</b>) the reign of Jehoiakim” ; (below 10:10)“the beginning of (<b>רֵאשִׁית</b>) his reign” ; (Deut. 18:4) “the first (<b>רֵאשִׁית</b>) of your corn.” Here too, you say <b>בְּרֵאשִׁית בָּרָא אלֹהִים</b>, like <b>בְּרֵאשִׁית בְּרֹא</b>, in the beginning of creating. Now if you say that it came to teach that these (i.e., heaven and earth) were created first, and that its meaning is: In the beginning of all, He created these&ndash;and that there are elliptical verses that omit one word, ... and it does not explain that [it means] telling the end of a matter from the beginning of a matter-if so, [if you say that Scripture indicates the order of creation] be astounded at yourself, for the water preceded, as it is written: “and the spirit of God hovered over the face of the water,” and Scripture did not yet disclose when the creation of water took place! From this you learn that the water preceded the earth. Moreover, the heavens were created from fire and water. Perforce, you must admit that Scripture did not teach us anything about the sequence of the earlier and the later [acts of creation].
-</blockquote>
+<figure class='quote'>
+  <p>
+    <b>בראשית ברא:</b> <i>In the beginning of G-d's creation of</i>. This verse calls for a Midrashic interpretation because, according to its simple interpretation, the vowelisation of the word <b>בָּרָ֣א</b>, should be different. It teaches us that the sequence of the Creation as written is impossible, ... but if you wish to explain it according to its simple meaning, explain it thus: "At the beginning of the creation of heaven and earth, the earth was astonishing with emptiness and darkness...and G-d said, 'Let there be light.'" But Scripture did not come to teach the sequence of the Creation, to say that these came first, for if it came to teach this, it should have written: “At first (<b>בָּרִאשׁוֹנָה</b>) He created the heavens and the earth,” for there is no <b>רֵאשִׁית</b> in Scripture that is not connected to the following word,  [i.e., in the construct state] like (ibid. 27:1): “In the beginning of (<b>בְּרֵאשִית</b>) the reign of Jehoiakim” ; (below 10:10) “the beginning of (<b>רֵאשִׁית</b>) his reign”; (Deut. 18:4) “the first (<b>רֵאשִׁית</b>) of your corn.” Here too, you say <b>בְּרֵאשִׁית בָּרָא אלֹהִים</b>, like <b>בְּרֵאשִׁית בְּרֹא</b>, in the beginning of creating. Now if you say that it came to teach that these (i.e., heaven and earth) were created first, and that its meaning is: In the beginning of all, He created these&ndash;and that there are elliptical verses that omit one word, ... and it does not explain that [it means] telling the end of a matter from the beginning of a matter-if so, (if you say that Scripture indicates the order of creation) be astounded at yourself, for the water preceded, as it is written: “and the spirit of God hovered over the face of the water,” and Scripture did not yet disclose when the creation of water took place! From this you learn that the water preceded the earth. Moreover, the heavens were created from fire and water. Perforce, you must admit that Scripture did not teach us anything about the sequence of the earlier and the later [acts of creation]
+  </p>
+  <figcaption>&mdash;(Rashi)</figcaption>
+</figure>
 </article>
 
 <br clear="all">
-              
+
 <article>
-<blockquote dir="rtl">
-	ב וְהָאָ֗רֶץ הָֽיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְח֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם:
-<p dir="ltr">
+<blockquote>
+<p dir="rtl">
+ ב וְהָאָ֗רֶץ הָֽיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְח֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם:
+</p>
+<p>
 2. Now the earth was astonishingly empty, and darkness was on the face of the deep, and the spirit of God was hovering over the face of the water.
 </p>
 </blockquote>
 
-n1:2] <b> וְח֖שֶׁךְ</b> &mdash; <i>Darkness.</i> This is not merely the absence of light, but a specific creation, as is clearly stated in <i>Isaiah</i> 45:7: <b>יֹוצֵ֥ר אֹור֙ וּבֹורֵ֣א חֹ֔שֶׁךְ עֹשֶׂ֥ה שָׁלֹ֖ום וּבֹ֣ורֵא רָ֑ע</b>, <i>He who forms light and creates darkness</i>... [U]ntil light and darkness were seperated from one another, they function "in a mixture".
+n1:2] <b> וְח֖שֶׁךְ</b> &mdash; <i>Darkness.</i> This is not merely the absence of light, but a specific creation, as is clearly stated in <i>Isaiah</i> 45:7: [יֹוצֵ֥ר אֹור֙ וּבֹורֵ֣א חֹ֔שֶׁךְ עֹשֶׂ֥ה שָׁלֹ֖ום וּבֹ֣ורֵא רָ֑ע]{dir="rtl"}, <i>He who forms light and creates darkness</i>... [U]ntil light and darkness were seperated from one another, they function "in a mixture".
 
-<blockquote>
-Rashi n1:2] 
-<b> תֹהוּ וָבֹהו</b> &mdash; <i>astonishingly empty</i>. The word תֹהוּ is an expression of astonishment and desolation. בֹהוּ an expression of emptiness and desolation.
-</blockquote>
+<figure class='quote'>
+  <p>
+    <b> תֹהוּ וָבֹהו</b> &mdash; <i>astonishingly empty</i>. The word תֹהוּ is an expression of astonishment and desolation. בֹהוּ an expression of emptiness and desolation.
+  </p>
+  <figcaption>&mdash;(Rashi)</figcaption>
+</figure>
 
 n1:2] <b>ר֣וּחַ אֱלֹהִ֔ים</b> &mdash; <i>Spirit of the Lord, G-d.</i> Also His Divine Presence.
-}
 
 </article>
 
 <article>
-<blockquote dir="rtl">
- 	  	ג וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִי־א֑וֹר וַֽיְהִי־אֽוֹר
-<p dir="ltr">
-3. And God said, "Let there be light," and there was light.[^3]
+<blockquote>
+<p dir="rtl">
+     ג וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִי־א֑וֹר וַֽיְהִי־אֽוֹר
+</p>
+<p>
+3. And God said, "Let there be light," and there was light.
 </p>
 </blockquote>
 
 </article>
 
 <article>
-<blockquote dir="rtl">
-	  	ד וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֽשֶׁךְ:
-<p dir="ltr">
+<blockquote>
+<p dir="rtl">
+    ד וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֽשֶׁךְ:
+</p>
+<p>
 4. And God saw the light that it was good, and God separated between the light and between the darkness.
 </p>
 </blockquote>
@@ -96,9 +108,11 @@ The term _it was good_ means that the creation of the item under discussion was 
 </article>
 
 <article>
-<blockquote dir="rtl">
- 	  	הוַיִּקְרָ֨א אֱלֹהִ֤ים | לָאוֹר֙ י֔וֹם וְלַח֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם אֶחָֽד:
-<p dir="ltr">
+<blockquote>
+<p dir="rtl">
+     הוַיִּקְרָ֨א אֱלֹהִ֤ים | לָאוֹר֙ י֔וֹם וְלַח֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם אֶחָֽד:
+</p>
+<p>
 5. And God called the light day, and the darkness He called night, and it was evening and it was morning, one day.
 <p>
 </blockquote>
@@ -116,11 +130,13 @@ Rashi 1:5] <b>י֥וֹם אֶחָֽד</b> &mdash; <i>one day</i>. According to t
 </article>
 
 <article>
-<blockquote dir="rtl">
- 	  	ווַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם:
-<p dir="ltr">
-6.And God said, "Let there be an expanse in the midst of the water, and let it be a separation between water and water."
+<blockquote>
+<p dir="rtl">
+     ווַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם:
+</p>
 <p>
+6.And God said, "Let there be an expanse in the midst of the water, and let it be a separation between water and water."
+</p>
 </blockquote>
 
 n1:6] <b>Second Day</b>. The heavens had been created on Day One, but they were still in a state of flux. On the second day, at G-d's command, _"Let there be a firmament,"_ seperated the waters above from the waters below (_Rashi_). According to _Rambam_, the separation mentioned is between the spiritual, extraterrestrial aspects of Creation, and the tangible world that is within the province of Man [which would include even the furthest reaches of the solar system].
@@ -137,11 +153,13 @@ _Rabbeinu Bachaya_ comments that this day was not called good, because the creat
 
 <article>
 
-<blockquote dir="rtl">
-	ח וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שֵׁנִֽי:
-<p dir="ltr">
-8. And God called the expanse Heaven, and it was evening, and it was morning, a second day.
+<blockquote>
+<p dir="rtl">
+ ח וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שֵׁנִֽי:
+</p>
 <p>
+8. And God called the expanse Heaven, and it was evening, and it was morning, a second day.
+</p>
 </blockquote>
 
 <blockquote>
@@ -169,11 +187,13 @@ n1:10] <b>אֵרֵץ</b> &mdash; <i>Earth.</i> This name is from רצה, _to des
 </article>
 
 <article>
-<blockquote dir="rtl">
- 	  	יד וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים:
-<p dir="ltr">
-14. And God said, "Let there be luminaries in the expanse of the heavens, to separate between the day and between the night, and they shall be for signs and for appointed seasons and for days and years.
+<blockquote>
+<p dir="rtl">
+     יד וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים:
+</p>
 <p>
+14. And God said, "Let there be luminaries in the expanse of the heavens, to separate between the day and between the night, and they shall be for signs and for appointed seasons and for days and years.
+</p>
 </blockquote>
 
 n1:14-19] <b>Fourth Day</b>. All the potentials of heaven and earth were created on the first day but each was set in place on the day it was commanded.(_Rashi_).
@@ -186,11 +206,13 @@ Rashi n1:14] During the (some say seven, others three) days of Creation, the pri
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ט זוַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת־הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם וְאֶת־הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּֽוֹכָבִֽים:
-<p dir="ltr">
-16. And God made the two great luminaries: the great luminary to rule the day and the lesser luminary to rule the night, and the stars.
+</p>
 <p>
+16. And God made the two great luminaries: the great luminary to rule the day and the lesser luminary to rule the night, and the stars.
+</p>
 </blockquote>
 
 n1:16] <b>שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים</b> &mdash; <i>The two great luminaries.</i> _"Great"_ does not refer to size, but are described in relation to the _visible_ intensity of their illumination. (_Radak; Malbin_). Also, the sun is great because it is a source of light, whereas the moon is small because it can only reflect what it receives from the sun.
@@ -204,11 +226,13 @@ n1:16] <b>שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים</b> &md
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כ וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל־הָאָ֔רֶץ עַל־פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם:
-<p dir="ltr">
-20. And God said, "Let the waters swarm a swarming of living creatures, and let fowl fly over the earth, across the expanse of the heavens."
+</p>
 <p>
+20. And God said, "Let the waters swarm a swarming of living creatures, and let fowl fly over the earth, across the expanse of the heavens."
+</p>
 </blockquote>
 
 n1:20-23] <b>Fifth day.</b>Marine and bird life.
@@ -216,11 +240,14 @@ n1:20-23] <b>Fifth day.</b>Marine and bird life.
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
     כא וַיִּבְרָ֣א אֱלֹהִ֔ים אֶת־הַתַּנִּינִ֖ם הַגְּדֹלִ֑ים וְאֵ֣ת כָּל־נֶ֣פֶשׁ הַֽחַיָּ֣ה | הָֽרֹמֶ֡שֶׂת אֲשֶׁר֩ שָֽׁרְצ֨וּ הַמַּ֜יִם לְמִֽינֵהֶ֗ם וְאֵ֨ת כָּל־ע֤וֹף כָּנָף֙ לְמִינֵ֔הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב:
 
-<p dir="ltr">
+</p>
+<p>
 21.  And God created the great sea monsters, and every living creature that crawls, with which the waters swarmed, according to their kind, and every winged fowl, according to its kind, and God saw that it was good.<p>
+</p>
 </blockquote>
 
 n1:21] <b>וַיִּבְרָ֣א אֱלֹהִ֔ים</b> &mdash; <i>And God created.</i> On the first day it referred to Creation from nothing; here it refers to the hugh size of some fish; and the last time it is used (v.27), it refers to the Creation of Man. (<i>Abarbanel</i>)
@@ -232,11 +259,13 @@ Rashi n1:21] <b>התנינים</b> &mdash; <i>the ... sea monsters.</i>  This re
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כב וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר פְּר֣וּ וּרְב֗וּ וּמִלְא֤וּ אֶת־הַמַּ֨יִם֙ בַּיַּמִּ֔ים וְהָע֖וֹף יִ֥רֶב בָּאָֽרֶץ:
-<p dir="ltr">
-22. And God blessed them, saying, "Be fruitful and multiply, and fill the waters of the seas, and let the fowl multiply upon the earth."
+</p>
 <p>
+22. And God blessed them, saying, "Be fruitful and multiply, and fill the waters of the seas, and let the fowl multiply upon the earth."
+</p>
 </blockquote>
 
 n1:22] <b>וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר פְּר֣וּ וּרְב֗וּ</b> &mdash; <i>And God blessed them, saying, "Be fruitful and multiply.</i> This phrase is a blessing that the creatures would be able to populate the earth. Later (v.28), it is a commandment, in relation to Man, that he engage in procreation.[^9]
@@ -256,11 +285,13 @@ n1:22] <b>וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר 
 
 n1:24-31] <b>Sixth day.</b>The climax of physical creation. Animal life was created first, then Man whose performance for good or ill would determine the destiny of the universe. G-d was telling Adam the complete world is in your hands.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   כדוַיֹּ֣אמֶר אֱלֹהִ֗ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ־אֶ֖רֶץ לְמִינָ֑הּ וַֽיְהִי־כֵֽן:
-<p dir="ltr">
-24. And God said, "Let the earth bring forth living creatures according to their kind, cattle and creeping things and the beasts of the earth according to their kind," and it was so.
+</p>
 <p>
+24. And God said, "Let the earth bring forth living creatures according to their kind, cattle and creeping things and the beasts of the earth according to their kind," and it was so.
+</p>
 </blockquote>
 
 n1:24] <b>תּוֹצֵ֨א</b> &mdash; <i>Bring forth.</i>This implies that a concealed dormant presence was brought into existence (_Ahavat Yonatan_). As explained earlier, the potential for everything was created on the first day; it was necessary to _bring them forth_ (_Rashi_).
@@ -276,9 +307,11 @@ is never complete; he must always strive to better himself and his world.
 
 <article>
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כו וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל־הָאָ֔רֶץ וּבְכָל־הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל־הָאָֽרֶץ:
-<p dir="ltr">
+</p>
+<p>
 26.  And God said, "Let us make man in our image, after our likeness, and they shall rule over the fish of the sea and over the fowl of the heaven and over the animals and over all the earth and over all the creeping things that creep upon the earth."
 </p>
 </blockquote>
@@ -298,10 +331,12 @@ n1:26] <b>בְּצַלְמֵ֖נוּ</b> &mdash; <i>In Our image,</i> i.e., in O
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כז וַיִּבְרָ֨א אֱלֹהִ֤ים | אֶת־הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם:
-<p dir="ltr">
-27.  And God created man in His image; in the image of God He created him; male and female He created them.[^11] 
+</p>
+<p>
+27.  And God created man in His image; in the image of God He created him; male and female He created them.[^11]
 </p>
 </blockquote>
 
@@ -313,9 +348,11 @@ n1:27] <b>בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים</b> &mdas
 
 1:28] **Be fruitful and multiply**
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כח וַיְבָ֣רֶךְ אֹתָם֘ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת־הָאָ֖רֶץ וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל־חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל־הָאָֽרֶץ:
-<p dir="ltr">
+</p>
+<p>
 28. And God blessed them, and God said to them, "Be fruitful and multiply and fill the earth and subdue it, and rule over the fish of the sea and over the fowl of the sky and over all the beasts that tread upon the earth."
 </p>
 </blockquote>
@@ -324,17 +361,20 @@ n1:28] Mb>פְּר֥וּ וּרְב֛וּ</b> &mdash; <i>Be fruitful and multipl
 
 1:29-30] **"I gave you..."**
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כט וַיֹּ֣אמֶר אֱלֹהִ֗ים הִנֵּה֩ נָתַ֨תִּי לָכֶ֜ם אֶת־כָּל־עֵ֣שֶׂב | זֹרֵ֣עַ זֶ֗רַע אֲשֶׁר֙ עַל־פְּנֵ֣י כָל־הָאָ֔רֶץ וְאֶת־כָּל־הָעֵ֛ץ אֲשֶׁר־בּ֥וֹ פְרִי־עֵ֖ץ זֹרֵ֣עַ זָ֑רַע לָכֶ֥ם יִֽהְיֶ֖ה לְאָכְלָֽה:
-
-<p dir="ltr">
+</p>
+<p>
 29. And God said, "Behold, I have given you every seed bearing herb, which is upon the surface of the entire earth, and every tree that has seed bearing fruit; it will be yours for food.[^13]
 </p>
 </blockquote>
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ל וּלְכָל־חַיַּ֣ת הָ֠אָ֠רֶץ וּלְכָל־ע֨וֹף הַשָּׁמַ֜יִם וּלְכֹ֣ל | רוֹמֵ֣שׂ עַל־הָאָ֗רֶץ אֲשֶׁר־בּוֹ֙ נֶ֣פֶשׁ חַיָּ֔ה אֶת־כָּל־יֶ֥רֶק עֵ֖שֶׂב לְאָכְלָ֑ה וַֽיְהִי־כֵֽן:
-<p dir="ltr">
+</p>
+<p>
 30. And to all the beasts of the earth and to all the fowl of the heavens, and to everything that moves upon the earth, in which there is a living spirit, every green herb to eat," and it was so.[^14]
 </p>
 </blockquote>
@@ -357,15 +397,17 @@ Even things that seem to be evil &mdash; such as suffering, death and temptation
 </article>-
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   א וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל־צְבָאָֽם:
   ב וַיְכַ֤ל אֱלֹהִים֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מְלַאכְתּ֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה וַיִּשְׁבֹּת֙ בַּיּ֣וֹם הַשְּׁבִיעִ֔י מִכָּל־מְלַאכְתּ֖וֹ אֲשֶׁ֥ר עָשָֽׂה:
   ג וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת־י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל־מְלַאכְתּ֔וֹ אֲשֶׁר־בָּרָ֥א אֱלֹהִ֖ים לַֽעֲשֽׂוֹת:
-<p dir="ltr">
+</p>
+<p>
 1. Now the heavens and the earth were completed and all their host.
 2. And God completed on the seventh day His work that He did, and He abstained on the seventh day from all His work that He did.
 3. And God blessed the seventh day and He hallowed it, for thereon He abstained from all His work that God created to do.
-<p>
+</p>
 </blockquote>
 
 n2:1-3] <b>The Sabbath.</b> This passage proclaims that G-d is the Creator Who brought the universe into being [in six days], and then rested [on the seventh]... The bridge between the mundane and the sacred, between the weekday and the Sabbath, is Man. Only Man has the ability to bring the holiness of the Sabbath into the activities of the weekweek. Of all the creatures in the universe, only he can _create_ holiness. Angels _are_ holy, but they are static. They cannot improve themselves or the world, only Man can do both. Indeed, **Man's activities transfrom the universe from an apparently aimless amalgamation of matter into the mirror of G-d's will.**
@@ -375,11 +417,13 @@ n2:1] <b>וַיְכֻלּ֛וּ</b> &mdash; <i>Were finished.</i> Homiletically,
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ד אֵ֣לֶּה תֽוֹלְד֧וֹת הַשָּׁמַ֛יִם וְהָאָ֖רֶץ בְּהִ֣בָּֽרְאָ֑ם בְּי֗וֹם עֲשׂ֛וֹת יְהֹוָ֥ה אֱלֹהִ֖ים אֶ֥רֶץ וְשָׁמָֽיִם:
-<p dir="ltr">
-4. These are the generations of the heavens and the earth when they were created, on the day that the Lord God made earth and heaven.
+</p>
 <p>
+4. These are the generations of the heavens and the earth when they were created, on the day that the Lord God made earth and heaven.
+</p>
 </blockquote>
 
 <blockquote>
@@ -396,10 +440,12 @@ n2:5] <b>כִּי֩ לֹ֨א הִמְטִ֜יר יְהֹוָ֤ה אֱלֹהִי�
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
    ז וַיִּ֩יצֶר֩ יְהֹוָ֨ה אֱלֹהִ֜ים אֶת־הָֽאָדָ֗ם עָפָר֙ מִן־הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים וַיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה:
-<p dir="ltr">
-7. And the Lord God formed man of dust from the ground, and He breathed into his nostrils the soul of life, and man became a living soul. 
+</p>
+<p>
+7. And the Lord God formed man of dust from the ground, and He breathed into his nostrils the soul of life, and man became a living soul.
 </p>
 </blockquote>
 
@@ -413,14 +459,16 @@ n2:7]
 </article>
 
 <article>
-<blockquote dir="rtl">
-  ח וַיִּטַּ֞ע יְהֹוָ֧ה אֱלֹהִ֛ים גַּן־בְּעֵ֖דֶן מִקֶּ֑דֶם וַיָּ֣שֶׂם שָׁ֔ם 
+<blockquote>
+<p dir="rtl">
+  ח וַיִּטַּ֞ע יְהֹוָ֧ה אֱלֹהִ֛ים גַּן־בְּעֵ֖דֶן מִקֶּ֑דֶם וַיָּ֣שֶׂם שָׁ֔ם
   אֶת־הָֽאָדָ֖ם אֲשֶׁ֥ר יָצָֽר:
   ט וַיַּצְמַ֞ח יְהֹוָ֤ה אֱלֹהִים֙ מִן־הָ֣אֲדָמָ֔ה כָּל־עֵ֛ץ נֶחְמָ֥ד לְמַרְאֶ֖ה וְט֣וֹב לְמַֽאֲכָ֑ל וְעֵ֤ץ הַֽחַיִּים֙ בְּת֣וֹךְ הַגָּ֔ן וְעֵ֕ץ הַדַּ֖עַת ט֥וֹב וָרָֽע:
-<p dir="ltr">
+</p>
+<p>
 8. And the Lord God planted a garden in Eden from the east, and He placed there the man whom He had formed.
 9. And the Lord God caused to sprout from the ground every tree pleasant to see and good to eat, and the Tree of Life in the midst of the garden, and the Tree of Knowledge of good and evil.
-<p>
+</p>
 </blockquote>
 
 n2:9] <b>וְעֵ֕ץ הַדַּ֖עַת ט֥וֹב וָרָֽע</b> &mdash; <i>the Tree of Knowledge of Good and Evil.</i> As Adam and Chava were originally created, their natural impulse was to do good. Although they knew in abstract that there was such a thing as sin, it was not something they craved. By eating of the tree, which embodied a _mixture_ of good and evil &mdash; hence its name &mdas; they brought evil into themselves and made it a part of their nature, thus changing the nature of Man. From then on, Man was born with evil impulses, such as greed, selfishness, and lust for whatever suits his developing appetite. Through study, though and self-discipline, he must curb his base nature and desires, and inculculate into himself a desire for good and a revulsion for evil (_Nefesh HaChaim_).
@@ -438,21 +486,24 @@ n2:18]
 
 n2:19] <b>שְׁמֽוֹ</b> &mdash; <i>its name.</i> A name is not simply a convenient convention, but it reflects the naure of the creature and its role in the total shceme of the universe.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   כד עַל־כֵּן֙ יַֽעֲזָב־אִ֔ישׁ אֶת־אָבִ֖יו וְאֶת־אִמּ֑וֹ וְדָבַ֣ק בְּאִשְׁתּ֔וֹ וְהָי֖וּ לְבָשָׂ֥ר אֶחָֽד:
-<p dir="ltr">
-24. Therefore, a man shall leave his father and his mother, and cleave to his wife, and they shall become one flesh.
+</p>
 <p>
+24. Therefore, a man shall leave his father and his mother, and cleave to his wife, and they shall become one flesh.
+</p>
 </blockquote>
 
 n2:24] <b>לְבָשָׂ֥ר אֶחָֽד</b> &mdash; <i>One flesh.</i> Let him cling to his wife and no other, because man and wife are in reality one flesh. But that can only happen if they also become one mind, one heart, one soul... and if they subordinate their strength and effort to the service of G-d (_R' Hirsch_).[^15]
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   כה וַיִּֽהְי֤וּ שְׁנֵיהֶם֙ עֲרוּמִּ֔ים הָֽאָדָ֖ם וְאִשְׁתּ֑וֹ וְלֹ֖א יִתְבּשָֽׁשׁוּ:
-
-<p dir="ltr">
-25. Now they were both naked, the man and his wife, but they were not ashamed.
+</p>
 <p>
+25. Now they were both naked, the man and his wife, but they were not ashamed.
+</p>
 </blockquote>
 
 n 2:25] <b>וְלֹ֖א יִתְבּשָֽׁשׁוּ</b> &mdash; <i>And they were not ashamed.</i> People are ashamed of their nakedness because they associate vilenss and lust with their private parts, but not Adam and Chava. They used all their organs to do G-d's will, not to satisfy their personal desires.[^16]
@@ -462,11 +513,13 @@ n 2:25] <b>וְלֹ֖א יִתְבּשָֽׁשׁוּ</b> &mdash; <i>And they wer
 ## Chapter 3
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   א וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם מִכֹּל֙ חַיַּ֣ת הַשָּׂדֶ֔ה אֲשֶׁ֥ר עָשָׂ֖ה יְהֹוָ֣ה אֱלֹהִ֑ים וַיֹּ֨אמֶר֙ אֶל־הָ֣אִשָּׁ֔ה אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים לֹ֣א תֹֽאכְל֔וּ מִכֹּ֖ל עֵ֥ץ הַגָּֽן:
-<p dir="ltr">
-1. Now the serpent was cunning, more than all the beasts of the field that the Lord God had made, and it said to the woman, "Did God indeed say, 'You shall not eat of any of the trees of the garden?'"
+</p>
 <p>
+1. Now the serpent was cunning, more than all the beasts of the field that the Lord God had made, and it said to the woman, "Did God indeed say, 'You shall not eat of any of the trees of the garden?'"
+</p>
 </blockquote>
 
 n3:1] <b>אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים</b> &mdash; <i>Did, perhaps, G-d say.</i> This is a classic ploy of the Evil Inclination: Pleasures are meant to be enjoyed, so it is foolish to believe that G-d could have commanded one to restrain oneself from doing so.
@@ -474,13 +527,15 @@ n3:1] <b>אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים</b> &mdash; <i>Did
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ה כִּ֚י יֹדֵ֣עַ אֱלֹהִ֔ים כִּ֗י בְּיוֹם֙ אֲכָלְכֶ֣ם מִמֶּ֔נּוּ וְנִפְקְח֖וּ עֵֽינֵיכֶ֑ם וִֽהְיִיתֶם֙ כֵּֽאלֹהִ֔ים יֹֽדְעֵ֖י ט֥וֹב וָרָֽע:
   ו וַתֵּ֣רֶא הָֽאִשָּׁ֡ה כִּ֣י טוֹב֩ הָעֵ֨ץ לְמַֽאֲכָ֜ל וְכִ֧י תַֽאֲוָה־ה֣וּא לָֽעֵינַ֗יִם וְנֶחְמָ֤ד הָעֵץ֙ לְהַשְׂכִּ֔יל וַתִּקַּ֥ח מִפִּרְי֖וֹ וַתֹּאכַ֑ל וַתִּתֵּ֧ן גַּם־לְאִישָׁ֛הּ עִמָּ֖הּ וַיֹּאכַֽל:
-<p dir="ltr">
+</p>
+<p>
 5. For God knows that on the day that you eat thereof, your eyes will be opened, and you will be like angels, knowing good and evil."
 6. And the woman saw that the tree was good for food and that it was a delight to the eyes, and the tree was desirable to make one wise; so she took of its fruit, and she ate, and she gave also to her husband with her, and he ate.
-<p>
+</p>
 </blockquote>
 
 n3:5-6] <b>כִּ֚י יֹדֵ֣עַ אֱלֹהִ֔ים</b> &mdash; <i>For G-d knows.</i> The serpent used another ploy familiar to those who try and rationalise the Torah away. They content that those who convey and interret the Law of G-d are motivated by a sselfish desire to consolidate power for themselves. "G-d did not prohibit this tree out of any concern for your lives, but because He is aware that eating from it you will attain extra wisdom and become omniscient like Him (_R' Hirsch_). The tempter did not explicitly tell the woman to eat the fruitk but he had enveloped he in his spell. She looked on the tree with a new longing &mdash; its fruit was good to eat, a delight to the eyes, and it would give her wisdom. They she brought it to Adam, and repeated everything the serpent had told her. He was <b>עִמָה</b>, _at one with her_ and not blameless (_Radak_; _Ibn Ezra_).
@@ -488,11 +543,11 @@ n3:5-6] <b>כִּ֚י יֹדֵ֣עַ אֱלֹהִ֔ים</b> &mdash; <i>For G-d k
 She looked at the
 
 <blockquote>
-Rashi n3:5] <b>והייתם כא-הים: יוצרי עולמות</b> &mdash; <i>and you will be like angels:</i> Creators of worlds (_Pirkei d’Rabbi Eliezer_ , ch. 13) 
+Rashi n3:5] <b>והייתם כא-הים: יוצרי עולמות</b> &mdash; <i>and you will be like angels:</i> Creators of worlds (_Pirkei d’Rabbi Eliezer_ , ch. 13)
 </blockquote>
 
 <blockquote>
-Rashi n3:6] 
+Rashi n3:6]
 <b>ותרא האשה</b> &mdash; <i>And the woman saw.</i> She understood the words of the serpent and they appealed to her; so she believed him (_Gen. Rabbah_ 19:4).
 
 <b>כי טוב העץ</b> &mdash; <i>That the tree was good,</i> to [cause them to] be like angels.
@@ -507,9 +562,11 @@ Rashi n3:6]
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ז וַתִּפָּקַ֨חְנָה֙ עֵינֵ֣י שְׁנֵיהֶ֔ם וַיֵּ֣דְע֔וּ כִּ֥י עֵֽירֻמִּ֖ם הֵ֑ם וַיִּתְפְּרוּ֙ עֲלֵ֣ה תְאֵנָ֔ה וַיַּֽעֲשׂ֥וּ לָהֶ֖ם חֲגֹרֹֽת:
-<p dir="ltr">
+</p>
+<p>
 7. And the eyes of both of them were opened, and they knew that they were naked, and they sewed fig leaves and made themselves girdles.
 </p>
 </blockquote>
@@ -519,11 +576,13 @@ n3:7] <b> וַיֵּ֣דְע֔וּ </b> &mdash; <i>And they realised...</i>The s
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
     יז וּלְאָדָ֣ם אָמַ֗ר כִּ֣י שָׁמַ֘עְתָּ֘ לְק֣וֹל אִשְׁתֶּ֒ךָ֒ וַתֹּ֨אכַל֙ מִן־הָעֵ֔ץ אֲשֶׁ֤ר צִוִּיתִ֨יךָ֙ לֵאמֹ֔ר לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ אֲרוּרָ֤ה הָֽאֲדָמָה֙ בַּֽעֲבוּרֶ֔ךָ בְּעִצָּבוֹן֙ תֹּֽאכֲלֶ֔נָּה כֹּ֖ל יְמֵ֥י חַיֶּֽיךָ:
-<p dir="ltr">
-17. And to man He said, "Because you listened to your wife, and you ate from the tree from which I commanded you saying, 'You shall not eat of it,' cursed be the ground for your sake; with toil shall you eat of it all the days of your life.
+</p>
 <p>
+17. And to man He said, "Because you listened to your wife, and you ate from the tree from which I commanded you saying, 'You shall not eat of it,' cursed be the ground for your sake; with toil shall you eat of it all the days of your life.
+</p>
 </blockquote>
 
 n3:17] <b>כִּ֣י שָׁמַ֘עְתָּ֘ לְק֣וֹל אִשְׁתֶּ֒ךָ֒</b> &mdash; <i>Because you listened to the voice of your wife.</i> People make choices in their lives and are responsible for them. Adam failed in his responsibility to investigate what was being offered. He succumbed to her voice without examining the content of her words (_Or Chaim_).
@@ -531,10 +590,13 @@ n3:17] <b>כִּ֣י שָׁמַ֘עְתָּ֘ לְק֣וֹל אִשְׁתֶּ֒�
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   כ וַיִּקְרָ֧א הָֽאָדָ֛ם שֵׁ֥ם אִשְׁתּ֖וֹ חַוָּ֑ה כִּ֛י הִ֥וא הָֽיְתָ֖ה אֵ֥ם כָּל־חָֽי:
-<p dir="ltr">
+</p>
+<p>
 20. And the man named his wife Eve, because she was the mother of all life.<p>
+</p>
 </blockquote>
 
 n3:20] <b></b> &mdash; <i></i>
@@ -543,21 +605,25 @@ n3:20] <b></b> &mdash; <i></i>
 </atricle>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   כא וַיַּ֩עַשׂ֩ יְהֹוָ֨ה אֱלֹהִ֜ים לְאָדָ֧ם וּלְאִשְׁתּ֛וֹ כָּתְנ֥וֹת ע֖וֹר וַיַּלְבִּשֵֽׁם:
-21. And the Lord God made for Adam and for his wife garments of skin, and He dressed them.[^17]
-<p dir="ltr">
+</p>
 <p>
+21. And the Lord God made for Adam and for his wife garments of skin, and He dressed them.[^17]
+</p>
 </blockquote>
 
 ## Chapter 4
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   א וְהָ֣אָדָ֔ם יָדַ֖ע אֶת־חַוָּ֣ה אִשְׁתּ֑וֹ וַתַּ֨הַר֙ וַתֵּ֣לֶד אֶת־קַ֔יִן וַתֹּ֕אמֶר קָנִ֥יתִי אִ֖ישׁ אֶת־יְהֹוָֽה:
-<p dir="ltr">
-1. Now the man knew his wife Eve, and she conceived and bore Cain, and she said, "I have acquired a man with the Lord."
+</p>
 <p>
+1. Now the man knew his wife Eve, and she conceived and bore Cain, and she said, "I have acquired a man with the Lord."
+</p>
 </blockquote>
 
 n4:1] <b>קין</b> &mdash; <i>Cain,</i> based on קָנִיתִי, I acquired.(_Rashi_)
@@ -566,11 +632,13 @@ n4:1] <b>קָנִ֥יתִי אִ֖ישׁ אֶת־יְהֹוָֽה</b> &mdash; <i
 </atricle>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ז הֲל֤וֹא אִם־תֵּיטִיב֙ שְׂאֵ֔ת וְאִם֙ לֹ֣א תֵיטִ֔יב לַפֶּ֖תַח חַטָּ֣את רֹבֵ֑ץ וְאֵלֶ֨יךָ֙ תְּשׁ֣וּקָת֔וֹ וְאַתָּ֖ה תִּמְשָׁל־בּֽוֹ:
-<p dir="ltr">
-7. Is it not so that if you improve, it will be forgiven you? If you do not improve, however, at the entrance, sin is lying, and to you is its longing, but you can rule over it." 	
+</p>
 <p>
+7. Is it not so that if you improve, it will be forgiven you? If you do not improve, however, at the entrance, sin is lying, and to you is its longing, but you can rule over it."  
+</p>
 </blockquote>
 
 n4:7] <b>לַפֶּ֖תַח חַטָּ֣את רֹבֵ֑ץ</b> &mdash; <i>Sin rests at the door.</ i> At the entrance to your grave, your sin will be kept (_Rashi_), i.e., punishment will await you in the future unless you repent. If you succumb to your Evil Inclination, punishment and evil will be as everpresent as if they lived in the doorway of your house (_Sforno_).[^18]
@@ -580,11 +648,13 @@ n4:7] <b>תְּשׁ֣וּקָת֔וֹ</b> &mdash; <i>Its desire</i>. The Evil In
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   ט וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־קַ֔יִן אֵ֖י הֶ֣בֶל אָחִ֑יךָ וַיֹּ֨אמֶר֙ לֹ֣א יָדַ֔עְתִּי הֲשֹׁמֵ֥ר אָחִ֖י אָנֹֽכִי:
-<p dir="ltr">
-9. And the Lord said to Cain, "Where is Abel your brother?" And he said, "I do not know. Am I my brother's keeper?" 
+</p>
 <p>
+9. And the Lord said to Cain, "Where is Abel your brother?" And he said, "I do not know. Am I my brother's keeper?"
+</p>
 </blockquote>
 
 n4:9] <b>השמר אחי</b> &mdash; <i>Am I my brother’s keeper?</i>This is a question asked in astonishment, as is every _“hey”_ prefix vowelized with a “_chataf pattach_” (_Rashi_).
@@ -592,22 +662,26 @@ n4:9] <b>השמר אחי</b> &mdash; <i>Am I my brother’s keeper?</i>This is a
 </article>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   יז וַיֵּ֤דַע קַ֨יִן֙ אֶת־אִשְׁתּ֔וֹ וַתַּ֖הַר וַתֵּ֣לֶד אֶת־חֲנ֑וֹךְ וַֽיְהִי֙ בֹּ֣נֶה עִ֔יר וַיִּקְרָא֙ שֵׁ֣ם הָעִ֔יר כְּשֵׁ֖ם בְּנ֥וֹ חֲנֽוֹךְ:
-<p dir="ltr">
-17. And Cain knew his wife, and she conceived and bore Enoch, and he became a city-builder, and he called the city after the name of his son, Enoch.
+</p>
 <p>
+17. And Cain knew his wife, and she conceived and bore Enoch, and he became a city-builder, and he called the city after the name of his son, Enoch.
+</p>
 </blockquote>
 
 n4:17] <b>וַיֵּ֤דַע קַ֨יִן֙ אֶת־אִשְׁתּ֔וֹ</b> &mdash; <i>And Cain knew his wife.</i> Alone and banished from his parents, Cain strove to have children with whom he could associate (_Arbabanel_). The Torah calls him a _city-builder_. Cut off from the earth, from G-d and from his fellow man, Cain was left onlyh with his own intelligence and talent, which he utilised to build cities. Urban life, unlike rural life, cultivates sophisticated skills in its practitioners (_R' Hirsch_).
 <b></b> &mdash; <i></i>
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   כווּלְשֵׁ֤ת גַּם־הוּא֙ יֻלַּד־בֵּ֔ן וַיִּקְרָ֥א אֶת־שְׁמ֖וֹ אֱנ֑וֹשׁ אָ֣ז הוּחַ֔ל לִקְרֹ֖א בְּשֵׁ֥ם יְהֹוָֽה:
-<p dir="ltr">
-26. And to Seth also to him a son was born, and he named him Enosh; then it became common to call by the name of the Lord.
+</p>
 <p>
+26. And to Seth also to him a son was born, and he named him Enosh; then it became common to call by the name of the Lord.
+</p>
 </blockquote>
 
 n4:26] The generation of Enosh introduced idolatry, which was to become the blight of humanity. By ascribing G-d-like qualities to man and lifeless objects, they created an abominable situation.
@@ -615,11 +689,13 @@ n4:26] The generation of Enosh introduced idolatry, which was to become the blig
 ## Chapter 5
 
 <article>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
   א זֶ֣ה סֵ֔פֶר תּֽוֹלְדֹ֖ת אָדָ֑ם בְּי֗וֹם בְּרֹ֤א אֱלֹהִים֙ אָדָ֔ם בִּדְמ֥וּת אֱלֹהִ֖ים עָשָׂ֥ה אֹתֽוֹ:
-<p dir="ltr">
-1. This is the narrative of the generations of man; on the day that God created man, in the likeness of God He created him.
+</p>
 <p>
+1. This is the narrative of the generations of man; on the day that God created man, in the likeness of God He created him.
+</p>
 </blockquote>
 
 n1] <b>The ten generation from Adam to Noah</b>
@@ -648,7 +724,6 @@ Their names are nearly synonymous as their respective roots
 
 [^1]: Was it "exile"? They were already "exiled" from heaven to be place in Eden. Perhaps it was the change of realm, from that of Eden to that of Israel.
 [^2]: Jews: If we define Jews as the nation that "dedicate ... G-d", then our definition is based not on "inheritence" but on action and dedication of energy for G-d.
-[^3]: Although there is no commentary by Rashi, nor in the Stone Chumash on this verse, it is often referred to in other contexts.
 [^4]: <b>וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֽשֶׁךְ</b> &mdash; G-d seperated or differentiated between light and dark, and He named the light 'day' and dark 'night' (v5).
 [^5]: If the angels were only created on the second day, who were the _Elohim_?
 [^6]: _Decreed boundaries:_ This speaks to the principle that in order to make "space" for something else to exist, one has to create boundaries to constrain whatever (phenomenon) is there. Just as the people of Canaan had to be "constrained", i.e. removed, to make space for Israel to exist.

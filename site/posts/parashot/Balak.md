@@ -40,7 +40,7 @@ Be that as it may, what I find fascinating is that he has communication with the
 
 ### Balak requests Balaam
 
-22:9] And as we see in v 9, he is correct, and indeed that evening “the Lord comes to Balaam, and speaks to him”. What is strange here, is that He asks him, “Who are these people?” as if he would not know. But most interesting is the fact the the Lord speaks to Balaam.
+22:9] And as we see in v9, he is correct, and indeed that evening “the Lord comes to Balaam, and speaks to him”. What is strange here, is that He asks him, “Who are these people?” as if he would not know. But most interesting is the fact the the Lord speaks to Balaam.
 
 22:12] This time, as we read, He tells Balaam to send them away. “Do not go with them.” However, Balak does not give up, and they return again and again, offering him more and more.
 
@@ -95,7 +95,7 @@ It is both scary and exciting when the Lord places something in my mouth. When I
 
 23:8] Balaam reiterates in v8, “How can I go against the Lord?”. And again in v12: “I must speak what the Lord puts into my mouth.”
 
-23:15] “I will be chanced (upon) here?” so says Balak. Is this referring to Balak or to G!d (using _Anochi_ - **אנוכי**)? He could also be referring to Balaam, as the chancer. Will I be tricked (chanced) here too? But he is correct, for it says: The Lord chanced upon Balaam.
+23:15] “I will be chanced (upon) here?” so says Balak. Is this referring to Balak or to G!d (using _Anochi_ - [אנוכי]{dir="rtl})? He could also be referring to Balaam, as the chancer. Will I be tricked (chanced) here too? But he is correct, for it says: The Lord chanced upon Balaam.
 
 23:16] Again Balaam says he has no choice, but must speak the Lord’s words.
 
@@ -105,27 +105,32 @@ It is both scary and exciting when the Lord places something in my mouth. When I
 
 24:1-4] Balaam saw the “Spirit of God rested on him (Israel)”. Why is the nation referred to as "him?". Balaam, who is not a Jewish prophet, sees the Lord's presence (with Israel) (again) by the Lord. This time G!d doesn’t put anything in his mouth, he just speaks – calling himself “the man with an open eye.” Described as:
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ד נְאֻ֕ם שֹׁמֵ֖עַ אִמְרֵי־אֵ֑ל אֲשֶׁ֨ר מַֽחֲזֵ֤ה שַׁדַּי֙ יֶֽחֱזֶ֔ה נֹפֵ֖ל וּגְל֥וּי עֵינָֽיִם
-<p dir="ltr">
+</p>
+<p>
 The word of the one who hears God's sayings, who sees the vision of the Almighty, fallen yet with open eyes.
 </p>
  </blockquote>
 
 24:13] After blessing the Jews, again Balaam says he cannot transgress the Lord’s wishes to Balak.
 
-v24:14] Here he describes his words, once again (v4), as " the word of a man with an open eye" **וּנְאֻ֥ם הַגֶּ֖בֶר שְׁתֻ֥ם הָעָֽיִן**. And, describes them as (v15):
+v24:14] Here he describes his words, once again (v4), as " the word of a man with an open eye" [וּנְאֻ֥ם הַגֶּ֖בֶר שְׁתֻ֥ם הָעָֽיִן]{dir="rtl"}. And, describes them as (v15):
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 טז נְאֻ֗ם שֹׁמֵ֨עַ֙ אִמְרֵי־אֵ֔ל וְיֹדֵ֖עַ דַּ֣עַת עֶלְי֑וֹן מַֽחֲזֵ֤ה שַׁדַּי֙ יֶֽחֱזֶ֔ה נֹפֵ֖ל וּגְל֥וּי עֵינָֽיִם:
-<p dir="ltr">
-The word of the one who hears God's sayings and perceives the thoughts of the Most High; who sees the vision of the Almighty, fallen yet with open eyes. 
+</p>
+<p>
+The word of the one who hears God's sayings and perceives the thoughts of the Most High; who sees the vision of the Almighty, fallen yet with open eyes.
 </p>
 </blockquote>
 
 24:17-24] Strange prophecies. This time, after saying that he has an "open eye", Balaam spews forth a slew of prophecies, as a final farewell to Balak.
 
-<blockquote dir="rtl">
+<blockquote>
+<div dir="rtl">
 
 יז אֶרְאֶ֨נּוּ֙ וְלֹ֣א עַתָּ֔ה אֲשׁוּרֶ֖נּוּ וְלֹ֣א קָר֑וֹב דָּרַ֨ךְ כּוֹכָ֜ב מִיַּֽעֲקֹ֗ב וְקָ֥ם שֵׁ֨בֶט֙ מִיִּשְׂרָאֵ֔ל וּמָחַץ֙ פַּֽאֲתֵ֣י מוֹאָ֔ב וְקַרְקַ֖ר כָּל־בְּנֵי־שֵֽׁת:
 יח וְהָיָ֨ה אֱד֜וֹם יְרֵשָׁ֗ה וְהָיָ֧ה יְרֵשָׁ֛ה שֵׂעִ֖יר אֹֽיְבָ֑יו וְיִשְׂרָאֵ֖ל עֹ֥שֶׂה חָֽיִל:
@@ -136,25 +141,27 @@ The word of the one who hears God's sayings and perceives the thoughts of the Mo
 כג וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר א֕וֹי מִ֥י יִֽחְיֶ֖ה מִשֻּׂמ֥וֹ אֵֽל:
 כד וְצִים֙ מִיַּ֣ד כִּתִּ֔ים וְעִנּ֥וּ אַשּׁ֖וּר וְעִנּוּ־עֵ֑בֶר וְגַם־ה֖וּא עֲדֵ֥י אֹבֵֽד:
 
-<div dir="ltr">
+</div>
 
 17. I see it, but not now; I behold it, but not soon. A star has gone forth from Jacob, and a staff will arise from Israel which will crush the princes of Moab and uproot all the sons of Seth.
 18. Edom shall be possessed, and Seir shall become the possession of his enemies, and Israel shall triumph.
 19. A ruler shall come out of Jacob, and destroy the remnant of the city.
 20. When he saw Amalek, he took up his parable and said, "Amalek was the first of the nations, and his fate shall be everlasting destruction."
 21. When he saw the Kenite, he took up his parable and said, "How firm is your dwelling place, and your nest is set in a cliff.
-22. For if Kain is laid waste, how far will Assyria take you captive?" 23He took up his parable and said, Alas! Who can survive these things from God?
+22. For if Kain is laid waste, how far will Assyria take you captive?"
 23. He took up his parable and said, Alas! Who can survive these things from God?
 24. Ships will come from the Kittites and afflict Assyria and afflict those on the other side, but he too will perish forever."
-</div>
+
 </blockquote>
 
 24:25] This interaction ends simply with:
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כה וַיָּ֣קָם בִּלְעָ֔ם וַיֵּ֖לֶךְ וַיָּ֣שָׁב לִמְקֹמ֑וֹ וְגַם־בָּלָ֖ק הָלַ֥ךְ לְדַרְכּֽוֹ:
-<p dir="ltr">
-25. Balaam arose, went, and returned home, and Balak went on his way. 
+</p>
+<p>
+25. Balaam arose, went, and returned home, and Balak went on his way.
 </p>
 </blockquote>
 
@@ -166,9 +173,11 @@ The people, having settled in Shittim, begin to fraternize with the daughters of
 
 25:4-5] Hang the leaders
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ד וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־משֶׁ֗ה קַ֚ח אֶת־כָּל־רָאשֵׁ֣י הָעָ֔ם וְהוֹקַ֥ע אוֹתָ֛ם לַֽיהֹוָ֖ה נֶ֣גֶד הַשָּׁ֑מֶשׁ וְיָשֹׁ֛ב חֲר֥וֹן אַף־יְהֹוָ֖ה מִיִּשְׂרָאֵֽל:
-<p dir="ltr">
+</p>
+<p>
 He says to Moses: "Arrest all the leaders of the people and hang them, facing the sun, and then My anger will be removed from Israel.
 </p>
 </blockquote>
@@ -183,9 +192,11 @@ Once again we have this strange narrative technique. We begin with the general o
 
 Then we have this specific event &mdash; which would not have occurred if the leaders had been taken and hanged in front of the camp. And it is expressed dramatically:
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ו וְהִנֵּ֡ה אִישׁ֩ מִבְּנֵ֨י יִשְׂרָאֵ֜ל בָּ֗א וַיַּקְרֵ֤ב אֶל־אֶחָיו֙ אֶת־הַמִּדְיָנִ֔ית לְעֵינֵ֣י משֶׁ֔ה וּלְעֵינֵ֖י כָּל־עֲדַ֣ת בְּנֵֽי־יִשְׂרָאֵ֑ל וְהֵ֣מָּה בֹכִ֔ים פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד:
-<p dir="ltr">
+</p>
+<p>
 6. an Israelite man came and brought the Midianite woman to his brethren, before the eyes of Moses and before the eyes of the entire congregation of the children of Israel, while they were weeping at the entrance of the Tent of Meeting.
 </p>
 </blockquote>
@@ -194,11 +205,13 @@ Why are they weeping? Is it because of what he is doing? Or is it because of the
 
 25:7-8] Pinchas kills the two of them, and then the plague ceases. A plague, which killed 24k, that we did not hear about until now, unless we connect it with the “wrath of God” mentioned previously in v3. If the plague killed all those who were fraternising, then who did the Judges need to kill?
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ז וַיַּ֗רְא פִּֽינְחָס֙ בֶּן־אֶלְעָזָ֔ר בֶּן־אַֽהֲרֹ֖ן הַכֹּהֵ֑ן וַיָּ֨קָם֙ מִתּ֣וֹךְ הָֽעֵדָ֔ה וַיִּקַּ֥ח רֹ֖מַח בְּיָדֽוֹ:
 ח וַיָּבֹ֠א אַחַ֨ר אִֽישׁ־יִשְׂרָאֵ֜ל אֶל־הַקֻּבָּ֗ה וַיִּדְקֹר֙ אֶת־שְׁנֵיהֶ֔ם אֵ֚ת אִ֣ישׁ יִשְׂרָאֵ֔ל וְאֶת־הָֽאִשָּׁ֖ה אֶל־קֳבָתָ֑הּ וַתֵּֽעָצַר֙ הַמַּגֵּפָ֔ה מֵעַ֖ל בְּנֵ֥י יִשְׂרָאֵֽל:
-<p dir="ltr">
-7. Phinehas the son of Eleazar the son of Aaron the kohen saw this, arose from the congregation, and took a spear in his hand. 
+</p>
+<p>
+7. Phinehas the son of Eleazar the son of Aaron the kohen saw this, arose from the congregation, and took a spear in his hand.
 8. He went after the Israelite man into the chamber and drove [it through] both of them; the Israelite man, and the woman through her stomach, and the plague ceased from the children of Israel.
 </p>
 </blockquote>
