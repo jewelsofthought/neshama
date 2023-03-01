@@ -63,9 +63,11 @@ _Adonai_ literally means “Lord”, and is the word we read as a replacement fo
 
 ## Meditation for the Seventh Week at MALKUTH.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 אֲ֭דֹנָי שְׂפָתַ֣י תִּפְתָּ֑ח וּ֝פִ֗י יַגִּ֥יד תְּהִלָּתֶֽךָ
-<p dir="ltr">
+</p>
+<p>
 Adonai open my lips, that my mouth may declare your glory. 
 -- (Prayerbook – Psalm 51:17)
 <p>

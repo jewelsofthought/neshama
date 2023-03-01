@@ -46,9 +46,11 @@ Each feeling we experience is itself a shell containing the unlimited flow of Di
 
 ## Meditation for the First Week at CHESED.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 וְאַתָּ֣ה אֲ֭דֹנָי אֵל־רַח֣וּם וְחַנּ֑וּן אֶ֥רֶךְ אַ֝פַּ֗יִם וְרַב־חֶ֥סֶד וֶאֱמֶֽת
-<p dir="ltr">
+</p>
+<p>
 And You, Eternal One, are El, full of Compassion, Gracious, Long-suffering and Bountiful in Lovingkindness and Truth.<br />
 -- (Psalm 86:15)
 </p>

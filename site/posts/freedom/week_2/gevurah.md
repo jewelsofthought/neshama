@@ -57,9 +57,11 @@ is <em>Elohim</em>,
 
 ## Meditation for the Second Week at GEVURAH.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 הַרְפּ֣וּ וּ֭דְעוּ כִּֽי־אָנֹכִ֣י אֱלֹהִ֑ים
-<p dir="ltr">
+</p>
+<p>
 Be still, and know that I am Elohim.<br />
 -- (Psalm 46:11)
 </p>

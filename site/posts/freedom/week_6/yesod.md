@@ -63,16 +63,18 @@ The Kabbalistic tradition assigns two names at **Yesod**&mdash;_El Chai_ or _Sha
 
 ## Meditation for the Sixth Week at YESOD.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 צָמְאָ֬ה נַפְשִׁ֨י לֵאלֹהִים֮ לְאֵ֪ל חָ֥י
-<p dir="ltr">
+</p><p>
 My soul thirsts for <em>El Chai</em>.
 -- (Psalm 42:3)
 </p>
 </blockquote>
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 וְאֵ֤ל שַׁדַּי֙ יְבָרֵ֣ךְ אֹֽתְךָ֔ (וְיַפְרְךָ֖ וְיַרְבֶּ֑ךָ וְהָיִ֖יתָ לִקְהַ֥ל עַמִּֽים׃)
-<p dir="ltr">
+</p><p>
 Let _El Shaddai_ bless you.
 -- (Genesis 28:3)
 </p>

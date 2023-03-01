@@ -60,9 +60,11 @@ The Name of G-d at Hod is _Elohim Tzeva’ot_, which means “G-d of Hosts”. _
 
 ## Meditation for the Fifth Week at HOD.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 אֱלֹהִ֥ים הֲשִׁיבֵ֑נוּ וְהָאֵ֥ר פָּ֝נֶ֗יךָ וְנִוָּשֵֽׁעָה׃ 
-<p dir="ltr">
+</p>
+<p>
 <em>Elohim Tzeva’ot</em> restore us, shine Your Presence and we shall be saved.<br />
 -- (Psalm 80:4)
 </p>

@@ -60,9 +60,10 @@ The Name of G-d at **Netzach** is _**Adonai Tzeva’ot**_, translated as “Eter
 
 ## Meditation for the Fourth Week at NETZACH.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יְהוָ֣ה צְבָא֣וֹת עִמָּ֑נוּ מִשְׂגָּֽב־לָ֝נוּ אֱלֹהֵ֖י יַעֲקֹ֣ב סֶֽלָה
-<p dir="ltr">
+</p><p>
 <em>Adonai Tzeva’ot</em> is with us, the G-d of Jacob is our haven.<br />
 -- (Psalm 46:12)
 </p>

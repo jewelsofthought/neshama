@@ -69,9 +69,11 @@ The Name **יהוה**, is a form of the Hebrew verb which means "to be," and so 
 
 ## Meditation for the Third Week at TIFERET.
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 שִׁוִּ֬יתִי יְהוָ֣ה לְנֶגְדִּ֣י תָמִ֑יד
-<p dir="ltr">
+</p>
+<p>
 I place YHVH before me always.<br />
 -- (Psalm 16:8)
 </p>
