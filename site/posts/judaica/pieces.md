@@ -30,12 +30,15 @@ modified: 2022-02-14T14:13:07.098Z
     1. [Act of Creation (judaica)](#act-of-creation-judaica)
     2. [\*\*\* Miracles (judaica)](#-miracles-judaica)
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 שׁמִר רגליך כאשׁר תלך אל־בית האלוהים, וקרוב לשׁמיע מִתֶת
+</p>
+<p>
+"Be not overeager to go to the house of G-d.
+"Keep (guard) שׂמור רגליך your foot when walking (going) to the temple"
+</p>
 </blockquote>
-
-> "Be not overeager to go to the house of G-d.
-> "Keep (guard) שׂמור רגליך your foot when walking (going) to the temple"
 
 ## Ashrei - אשרי
 
@@ -53,9 +56,11 @@ Underneath does not necessarily mean lower. To acknowledge that you are below (b
 
 ## Joy
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 ואין השׁכינה שׁורה אלא מתוך שׂמחה
-<p dir="ltr">
+</p>
+<p>
 "The Divine Presence (Shekhina) abides only in joy" (Shabbat 30b)
 </p>
 </blockquote>
@@ -79,8 +84,10 @@ In Hebrew, _Hashem_ is not even the second word. In fact, it is the third and th
 
 ## Stand Over/Stand Under
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 יותר מִשֶׁהאישׁ רוצה לִשֹׂא, אישׁה רוצה להנשׂא
+</p>
 </blockquote>
 
 - Note that here the word **ניצב ־ ניצבים** is used for standing over him. Whereas in verse 8, the more common word אומד is used when Abraham, the man, "stands over" the angels.
@@ -155,9 +162,11 @@ It is with the service of G-d just as it is with a victory over a physical oppon
 
 ## The Concealment of the Glory
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 כבוד אלוהים הסתר דבר 
-<p dir="ltr">
+</p>
+<p>
 "The Glory of G-d is to conceal a matter"<br />
 (Prov. 25:2) 
 </p>
@@ -196,15 +205,15 @@ The strongest of these holy combinations from which you will know the secret of 
 
 ## Shabbat - Chapter Two
 
-<blockquote dir="rtl">
+<blockquote>
+<p dir="rtl">
 .א
 מֻתָּר לְהַתְחִיל מְלָאכָה מֵעֶרֶב שַׁבָּת אַף עַל פִּי שֶׁהִיא נִגְמֶרֶת מֵאֵלֶיהָ בְּשַׁבָּת. שֶׁלֹּא נֶאֱסַר עָלֵינוּ לַעֲשׂוֹת מְלָאכָה אֶלָּא בְּעַצְמוֹ שֶׁל יוֹם. אֲבָל כְּשֶׁתֵּעָשֶׂה הַמְּלָאכָה מֵעַצְמָהּ בְּשַׁבָּת מֻתָּר לָנוּ לֵהָנוֹת בְּמַה שֶּׁנַּעֲשָׂה בְּשַׁבָּת מֵאֵלָיו:
 
-<div dir="ltr">
-
+</p>
+<p>
 1. It is permissible to begin the performance of a [forbidden] labour on Friday, even though the labour is completed on its own accord on the Sabbath itself,[^1] for the prohibition against work applies only on the Sabbath itself. Moreover, when a task is carried out on its own accord on the Sabbath,[^2] we are permitted to derive benefit from what was completed on the Sabbath.
-
-</div>
+</p>
 </blockquote>
 
 It is difficult to apply these

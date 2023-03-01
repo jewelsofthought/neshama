@@ -3,31 +3,43 @@ title: The Miraculous
 description: How does one perceive a "higher" dimension?
 tags: [dimensions]
 stars: '****'
-date: 2008-01-06T15:38:35.115Z
-modified: 2021-11-30T15:28:53.426Z
+keep: 2008-01-06T15:38:35.115Z
+date: Last Modified
 ---
 
 1. [The miraculous](#the-miraculous)
 2. [Divine purpose](#divine-purpose)
 
 > Any object of a higher dimension can only be partially perceived by a lower dimensional object.
+> As ach step down from a higher dimension, requires the "removal" of an infinity!
 
 ## The miraculous
 
 > Simple: God is the miraculous. God exists in and as the miraculous. The miraculous is G-d's way of speaking to us.
 
-If a finite being is part of an infinite event, it would (by definition) only be a partial representation of that infinity. Each step down from a higher dimension, requires the "removal" of an infinity! Or more benignly, the reduction of an infinite aspect of that higher dimensional object to be nothing (0)&mdash;nothing in that it will have NO effect on any other aspect of the event. Which is a polite way of ignoring any effect anything of that realm has has upon the event under observation.
+If a finite being is part of an infinite event, it would (by definition) only be a partial representation of that infinity.  One would need to remove an infinite aspect of that higher dimensional object such that it will have NO effect on any other aspect of the event. Which is a polite way of ignoring any effect anything other than the realm(s) under question. Whatever has transpired in any other space will be, in essence, ignored.
+
+Though by reducing a higher-dimensional being to manifest in a lower dimension, it will:
+
+1. Appear as "something else"
+2. It will have all the other dimensions still present, though perhaps dormant or constrained. Just as any higher dimensional object will have, in it, all the lower dimensional representations as well. For instance, a sphere can be represented as a circle, or only be perceived as a circle by a 2 dimensional being though the sphere still exists as a sphere.
 
 Conversely, for the lower dimensional object to perceive a higher dimensional object, it would need to embrace an extra aspect of the infinite. That, however, requires two prerequisites:
 
 1. That it has the desire to see this aspect.
-2. That it has the capacity to perceive this extra "dimension"/infinity.
+2. That it has the capacity to perceive this extra (infinite) "dimension" &mdash; because all dimensions are necessary infinite in an infinite space.
 
-Would not such an experience be expressed as "miraculous", or at least "mystical?
+Which brings in the question of whether a lower dimensional being can actually perceive any higher dimensional aspects of its existence. Or that it needs to be a higher dimensional being, perhaps asleep or entranced, that is awoken by its perception of the higher aspects dormant in its being.
 
-Imagine a group of people witnessing something miraculous. Firstly, there will be the group that will not even see it, or, if the do "see" it, they will deny that it ever happened. They imagined it, it was trick, there must be a logical explanation, etc. Among those that did see it, every eye-witness would have a different version of the event. It is like a 2d projection of a 3d object, like the regular map of the world that we see in atlases which is a 2d representation of a 3d object&mdash;the earth&mdash;and, as such, is not accurate. Besides which, every 2d projection taken from another point will have different characteristics.
+However, if only of a lower dimension, or unable to awaken, would not an experience of a dimension be expressed as "mystical", or at least "miraculous?
 
-Thus how to find words which are limited by language and culture to express any experience? It would suffer from just as much inaccuracy as the above 2d represenations&mdash;perhaps even more so. Therefore, any such higher dimensional experience could be experienced by a lower dimensional being as, in essence, miraculous.
+Imagine a group of people witnessing something miraculous. Firstly, there will be the group that will not even see it, or, if the do "see" it, they will deny that it ever happened. They imagined it, it was trick, there must be a logical explanation, etc. Among those that did see it, every eye-witness would have a different version of such a "super-natural" event.
+
+> There are an infinite amount of projections of a 3d object onto a 2d surface.
+
+Another way of saying that is: every 2d projection taken from another point will have a different view. That is why even eye-witness testimony is notoriously inaccurate.
+
+Another difficulty with the higher dimensional experience, is to find words that might express this event. Words which are limited to the dimension on which communication has occurred. In additon, they are limited by the language and the culture in any express of any normal experience, how much more would if it were something inexplicable? It would suffer from just as much inaccuracy as the above 2d represenations &mdash; perhaps even more so. Therefore, any such higher dimensional experience could be experienced by a lower dimensional being as, in essence, miraculous.
 
 ## Divine purpose
 

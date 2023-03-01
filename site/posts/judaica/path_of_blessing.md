@@ -4,11 +4,15 @@ url: https://alexandermassey.com/path-of-blessing-prager/
 author: Alexander Massey
 tags: null
 date: 2010-01-16T01:11:23.542Z
-modified: 2021-12-08T15:45:18.431Z
+modified: 2023-02-28T15:45:18.431Z
 ---
 
 1. [Notes on The Path of Blessing](#notes-on-the-path-of-blessing)
    1. [Introduction](#introduction)
+      1. [Bracha (blessing)](#bracha-blessing)
+      2. [Triangle](#triangle)
+      3. [**Gratitude** practice](#gratitude-practice)
+      4. [Prayer](#prayer)
    2. [The spiritual practice of _brakhot_](#the-spiritual-practice-of-brakhot)
    3. [Language and G-d](#language-and-g-d)
    4. [_Baruch_ – a fountain of blessings](#baruch--a-fountain-of-blessings)
@@ -23,16 +27,32 @@ modified: 2021-12-08T15:45:18.431Z
 
 # Notes on The Path of Blessing
 
-These are my personal notes that I made when I read: Prager, Rabbi Marcia (1998) _Path Of Blessings: Experiencing the Energy and Abundance of the Divine_, Jewish Lights. When I make notes, they are just to jog my own memory of the book, so I am aware that they may not always make sense to the general reader. However, I hope they are of some use to you, and perhaps also inspire you to read the book itself. The ideas that I put in square brackets do not come from the writer of the book, but are my own responses as I read; references to ‘Zalman’ mean Rabbi Zalman Shachter-Shalomi (z’l).
+These are my personal notes that I made when I read: Prager, Rabbi Marcia (1998) _Path Of Blessings: Experiencing the Energy and Abundance of the Divine_, published by Jewish Lights. When I make notes, they are just to jog my own memory of the book, so I am aware that they may not always make sense to the general reader. However, I hope they are of some use to you, and perhaps also inspire you to read the book itself. The ideas that I put in square brackets do not come from the writer of the book, but are my own responses as I read; references to ‘Zalman’ mean Rabbi Zalman Shachter-Shalomi (z’l).
 
 ## Introduction
 
-- **Bracha** (blessing) is really mindfulness practice
-- **Triangle** of G-d – us – the world
-- **Gratitude** and love practice
-- **Prayer** in temple of the heart (Rabbis)
-- ‘Our people’ shows my starting point and does not exclude non-Jews
+### <i>Bracha</i> (blessing)
 
+ A blessing is really mindfulness practice.
+
+  **NOTE**: One could compare it to a mantra or chant. It has a certain protocol of engagement that is consistent, and thus meaningful. Before eating, express your gratitude, with a specific blessing. When you wake up in the morning, express your thanks at being alive again. Most religions have this sort of practice of blessing according to certain specific prayers at specific times.{.note}
+
+### Triangle
+
+We comprise a triangle of G-d, us & the world &mdash; which itself consists of a triangle of my family, my community, and the world around me.
+
+  **NOTE**: I prefer to think of it like a circle (as this fits in more with Kabbalistic views), rather than a triangle. The three aspects of the circle are the inner circle (with its centre), the border that both encloses and defines the circle and finally the "outside" of the circle.{.note}
+
+### **Gratitude** practice
+
+  **NOTE**: As mentioned above, the practice is one of gratitude. To see the things in the light, rather than to seek the darkness that is also intrinsic.{.note}
+
+### Prayer
+
+Your prayer must take place in temple of the heart, according to our Rabbis.
+
+  **NOTE**: When praying, one should remove all distractions, focusing on the task you are performing "with all your heart and soul". One closes the mind, and opens the heart.{.note}
+  
 ## The spiritual practice of _brakhot_
 
 - A _bracha_ separates a moment to make it holy
@@ -59,9 +79,9 @@ These are my personal notes that I made when I read: Prager, Rabbi Marcia (1998)
 
 ## Alef
 
-[Aleph is the place to where G-d withdraws to make space for Otherness, for Creation. It is the place where all giving originates.]
+Aleph is the place to where G-d withdraws to make space for Otherness, for Creation. It is the place where all giving originates.
 
-- _Aleph_ to _Beit_ – “the Wholly One becomes the Holy One” [beautiful!!] [Or the holy becomes the Whole One.]
+- _Aleph_ to _Beit_ – “the Wholly One becomes the Holy One” [beautiful!!] Or the holy becomes the Whole One.
 - _Beit_ in _gematria_ is 2; house
   The story of abundance begins with _beit_ (2)
 - _Reish_ = 200; head, container-ness
@@ -89,24 +109,26 @@ These are my personal notes that I made when I read: Prager, Rabbi Marcia (1998)
 Rabbi Levi Yitzchak of Berdichev wrote a powerful invocation that reads as a sacred love-poem:
 
 <div class="poem">
-Du, Du, Du!<br />
-You! You! You!<br />
-I want to sing a ‘You-Song’ to You!<br />
-Du, Du, Du!<br />
-Where can I find You?<br />
-And where can I not find You?<br />
-Wherever I go: You! – Wherever I stay: You!Only You! – None but You! – Again You!<br />
-Always You!Du, Du, Du, Du!<br />
-When things go well: You! – G-d forbid, ill: You!<br />
-Ay, Du, Du, Du … Du, Du, Du!<br />
-Du, Du, Du … Du, Du, Du!<br />
-You, You, You!<br />
-Skyward: You! Earth: You! Above: You! Below: You!<br />
-Du, Du, Du … Du, Du, Du!<br />
-You! You! You!<br />
-Wherever I turn myself: You!<br />
-Wherever I remain: You!<br />
-Du!<br />
+
+Du, Du, Du!
+You! You! You!
+I want to sing a ‘You-Song’ to You!
+Du, Du, Du!
+Where can I find You?
+And where can I not find You?
+Wherever I go: You! – Wherever I stay: You!Only You! – None but You! – Again You!
+Always You!Du, Du, Du, Du!
+When things go well: You! – G-d forbid, ill: You!
+Ay, Du, Du, Du … Du, Du, Du!
+Du, Du, Du … Du, Du, Du!
+You, You, You!
+Skyward: You! Earth: You! Above: You! Below: You!
+Du, Du, Du … Du, Du, Du!
+You! You! You!
+Wherever I turn myself: You!
+Wherever I remain: You!
+Du!
+
 </div>
 
 - Only the language of relationship can take me to G-d. I must know You.
@@ -125,15 +147,17 @@ Du!<br />
 - "G-d is fully present only when masculine and feminine are both present." (Zohar)
 
 <div class="poem">
-Yah, where shall I find You?<br />
-High and hidden is Your Place;<br />
-And where shall I not find You?<br />
-Your Presence fills Time and Space.<br />
-I have sought Your nearness,<br />
-With all my heart I called You!<br />
-And going out to meet You,<br />
-I found You coming toward me.<br />
-[Yehudah HaLevi]<br />
+
+Yah, where shall I find You?
+High and hidden is Your Place;
+And where shall I not find You?
+Your Presence fills Time and Space.
+I have sought Your nearness,
+With all my heart I called You!
+And going out to meet You,
+I found You coming toward me.
+&nbsp;&nbsp;&nbsp; &mdash; Yehudah HaLevi
+
 </div>
 
 ## Naming G-d
@@ -142,10 +166,10 @@ I found You coming toward me.<br />
 - To name frames a relationship
 - Hebrew letters and syllables express the essence of something, and creates it
 - G-d is not a name but a description of one role / aspect {event}
-- _Eheyeh asher eheyeh_ = existence unfolding. “I am the Oneness that lives and points towards life.”
+- [Eheyeh asher eheyeh]{dir="rtl"} = existence unfolding. “I am the Oneness that lives and points towards life.”
 - _Tikkunei_ “No thought at all can grasp G-d.” (Zohar)
 
-[Why say _Eheyeh asher eheyeh_ then on that occasion? The people were going to have to believe possible all kinds of things outside of their past experiences or current understandings. They would have to entertain new possibilities, become something new themselves – evolve. The name given was a teaching – to be prepared for the new, the unexpected. The people must be in the image of this aspect of G-d – willingness to be different, go somewhere new, take a different shape, have no strategic plan or future goals. This reminds us that G-d can be different for the needs of the moment, new to each person and generation. And we must be too.]
+  **NOTE**:Why say [Eheyeh asher eheyeh]{dir="rtl"} then on that occasion? The people were going to have to believe possible all kinds of things outside of their past experiences or current understandings. They would have to entertain new possibilities, become something new themselves – evolve. The name given was a teaching – to be prepared for the new, the unexpected. The people must be in the image of this aspect of G-d – willingness to be different, go somewhere new, take a different shape, have no strategic plan or future goals. This reminds us that G-d can be different for the needs of the moment, new to each person and generation. And we must be too.{.note}
 
 ## The Name Beyond Name – a fountain of blessings are You, whose name is **YHVH**
 
@@ -162,7 +186,7 @@ I found You coming toward me.<br />
   (e.g. _Brich rachamana malka d’alma marei d’ahi pitta_ – the Compassionate One Ruler of the universe, maker of the bread)
 - _Yotzeir_ = making from something;
 - _Borei_ = creating from nothing;
-- _HaRachaman_, The Merciful One. _rechem_ = womb; , Source of Life;
+- _HaRachaman_, The Merciful One. _rechem_ = womb; Source of Life;
 - _Ein Sof_, the Limitless, without End;
 - _Chei Ha-Olamim_, Life Force of Time and Space;
 - _El Elyon_, the Most High;
@@ -171,10 +195,10 @@ I found You coming toward me.<br />
 - _Atika Kadisha_, The Ancient Holy One;
 - _Yah_, Breath of Life;
 - _El Ro’i_, G-d Who Sees Me;
-- \_HaMakom, the Place of the World, or the Place we go to;
+- _HaMakom_, the Place of the World, or the Place we go to;
 - _HaShem_ the Name.
 - _Adon_, as One with ‘craft’, mastery over Creation
-  We are the means by which the Master Craftsman expresses Himself [I like Zalman’s gender-neutral term ‘G-d-self’]
+  **NOTE**: We are the means by which the Master Craftsman expresses Himself [I like Zalman’s gender-neutral term ‘G-d-self’]{.note}
 
 ## _Eloheinu_
 
@@ -183,8 +207,8 @@ I found You coming toward me.<br />
 - The first ‘commandment’ (literally, ‘saying’, that was inscribed in the two tablets of stone) is ‘I am The first ‘commandment’.
 - It is ‘I am **YHVH** (The Compassionate One), your Elohim (Absolute Power)” which links with
   a) the _Shema_, in which the middle pair of words is _**YHVH** Eloheinu_, and
-  b) a _bracha_, which begins _baruch atah **YHVH** Eloheinu_ … (these represent the expansive **Chesed** - abundantly loving side of G-d, and the **Gevurah**, disciplining, containing side of G-d)
-- G-d is both expansive and contracting, **chesed** and **gevurah**.
+  b) a _bracha_, which begins _baruch atah **YHVH** Eloheinu_... (these represent the expansive **Chesed** - abundantly loving side of G-d, and the **Gevurah**, disciplining, containing side of G-d)
+- G-d is both expansive and contracting, **Chesed** and **Gevurah**.
   This is the kabbalistic interpretation of Ps. 84:12 _Ki shemesh v’magein, ­**YHVH** Eloheinu_ “For the Lord G-d is a sun and a shield.” The phrase in the _amidah_ – _hagadol v’hagibor_– incorporating both sides (_gibor_ shares the same root as _gevurah_)
 - G-d is context and content, creating from the outside, and sustaining from the inside.
   {Both inside and outside (and everything inbetween)}
@@ -196,7 +220,7 @@ I found You coming toward me.<br />
 
 ## _Melech_
 
-- Teach children to see G-d in themselves and in each other <span class="note">{NOTE: First Biblical reference to this idea is the image of G-d in ourselves and each other}</span>
+- Teach children to see G-d in themselves and in each other **NOTE**: First Biblical reference to this idea is the image of G-d in ourselves and each other{.note}
 - Beware inflicting ‘G-d-abuse’, threatening children with a punitive G-d.
 - _Melech_ = _mem-lamed-kaf_ = waters of life source … channelled … to cup (us as receivers).
 - _Melech_ is a conduit for G-d
@@ -211,30 +235,28 @@ A fountain of blessings are You The-Eternal-Breath-Of-Life-Beyond-And-Within, Di
 - We are infinitely tiny in the universe; we are also infinitely large compared to the sub-atomic world
 - Space-time and matter ‘inter-are’; consciousness and reality/existence ‘inter-are’
 
-<p class="note">
-{NOTE: _Olam_ takes us into the lived experience of One-ness and that we ‘inter-are’.}
-</p>
+**NOTE**: _Olam_ takes us into the lived experience of One-ness and that we ‘inter-are’.{.note}
 
 <div ="poem">
-Fix your mind on Me.<br />
-Give your heart’s love to Me.<br />
-Consecrate all your actions to My service.<br />
-Hold yourself as nothing before Me.<br />
-To Me then shall you come.<br />
-Truly I promise,<br />
-for you are dear to me.<br />
-[Bhagavad Gita]<br />
+
+Fix your mind on Me.
+Give your heart’s love to Me.
+Consecrate all your actions to My service.
+Hold yourself as nothing before Me.
+To Me then shall you come.
+Truly I promise,
+for you are dear to me.
+&nbsp;&nbsp;&nbsp; &mdash; Bhagavad Gita
+
 </div>
 
-<p class="note">
-{NOTE: Focus on G-d, love devotedly, serve, surrender self, join and embrace, be loved by G-d.}
-</p>
+**NOTE**: Focus on G-d, love devotedly, serve, surrender self, join and embrace, be loved by G-d.{.note}
 
 ## Using a _bracha_ to introduce a _mitzvah_
 
 - Intimacy with G-d stirs us to do {Intimacy with G-d guides us}
 - G-d makes us holy, through our fulfilling _mitzvoth_
-  <span class="note">{NOTE: Sanctification is always a double-act between us and G-d}</span>
+  **NOTE**: Sanctification is always a double-act between us and G-d{.note}
 - “to live sacred lives through sacred action”
 - root of _mitzvah_ is _tzadi-vav_;
   _tzadi_ = right action, shaping energy {form};
@@ -242,27 +264,27 @@ for you are dear to me.<br />
 - _mitzvah_ = make sustained commitment to actions revealing Divinity in Creation
 - “be holy as I am holy”
 - Connecting to and serving others is integral to the holy life
-- **“domesticate the peak experience”** = bringing expanded consciousness into everyday life
+- **domesticate the peak experience** = bringing expanded consciousness into everyday life
 - _bikkur cholim_ = visiting the sick
 - _Tallit_ = reminder of the presence of G-d, and commitment to _mitzvoth_.
 - _T’fillin_ = Torah passages.
 - _Mezzuzah_ = _shema_, G-d’s unity, return G-d’s love with ours
 - _Mitzvot_ are ethical imperatives from the collective wisdom of Judaism and have greater force than personal values or choices.
 - Do good, because G-d requires it of me?
-  <span class="note">{NOTE: Should I not do good because it is the right thing to do? But Judaism is a way to awaken this ethic in people who perhaps don't have it, or are unaware of its existence}</span>
+  **NOTE**: Should I not do good because it is the right thing to do? But Judaism is a way to awaken this ethic in people who perhaps don't have it, or are unaware of its existence{.note}
 - Save time by having no _bracha_ for _tzedakah_ (charity)
 - Jews once felt obligated; now we choose to be obligated
 - Noah: humanity and all world.
 - Abraham: Jewish insight into G-d
-  <span class="note">{NOTE: Torah was revealed at Sinai in the silent _aleph_}</span>
+  **NOTE**:1G Torah was revealed at Sinai in the silent _aleph_{.note}
 - Strip away and risk everything to hear G-d. We hear G-d from inside ourselves. Moses heard G-d with Moses’ own voice.
-  <span class="note">{NOTE: Are these the inner imperatives we simultaneously hear and obey in the _shema_?}</span>
-- _yetzer tov_ which is G-d, and _yetzer ra_ which is our impulse; ie wed authority and authenticity.]
+  **NOTE**: Are these the inner imperatives we simultaneously hear and obey in the _shema_?{.note}
+- _yetzer tov_ which is G-d, and _yetzer ra_ which is our impulse; ie wed authority and authenticity.
 - To do a _mitzvah_ is to enter into I-Thou with G-d
 - Reshape behaviour to have more experience of inter-being with G-d
 - “Each time we (make) love (with) G-d, we stand at Sinai in _Atzliut_, in that timeless kiss of shared being.”
 - Tap ancient wisdom to serve the future; restore mystical tradition; meditation; psycho-spiritual prayer and joyous celebration from Chasidism
-  <span class="note">{NOTE: Borrow the wisdom underlying _mitzvoth_ as principles for today}</span>
+  **NOTE**: Borrow the wisdom underlying _mitzvoth_ as principles for today{.note}
 - Mustn’t reject tradition, but also not be a slave to it – join in renewal.
 - "Torah is an unripe fruit of Divine wisdom" (Zohar)
 - "G-d is wherever we let Him in" (Kotzker Rebbe)

@@ -10,16 +10,17 @@ modified: 2022-11-13
 1. [Good and evil](#good-and-evil)
 2. [G-d exists](#g-d-exists)
 3. [Thoughts](#thoughts)
-4. [Is the universe infinite ($$ \\infty $$)?](#is-the-universe-infinite--infty-)
-5. [In the realm of the Infinite ($$ \\infty $$)](#in-the-realm-of-the-infinite--infty-)
-6. [Designed or ... not](#designed-or--not)
-7. [Athiest](#athiest)
+4. [Infinite Thoughts](#infinite-thoughts)
+   1. [Is the universe infinite ($$ \\infty $$)?](#is-the-universe-infinite--infty-)
+   2. [In the realm of the Infinite ($$ \\infty $$)](#in-the-realm-of-the-infinite--infty-)
+5. [Designed or ... not](#designed-or--not)
+6. [Athiest](#athiest)
    1. [Denial of G-d (free\_choice)](#denial-of-g-d-free_choice)
-8. [G!d is King](#gd-is-king)
+7. [G!d is King](#gd-is-king)
    1. [Omnipotence](#omnipotence)
-9. [Perfect world](#perfect-world)
-10. [Questions](#questions)
-11. [1 and -1, good and evil (Judaica/Good \& Evil)](#1-and--1-good-and-evil-judaicagood--evil)
+8. [Perfect world](#perfect-world)
+9. [Questions](#questions)
+10. [1 and -1, good and evil (Judaica/Good \& Evil)](#1-and--1-good-and-evil-judaicagood--evil)
 
 ## Good and evil
 
@@ -34,7 +35,7 @@ In fact, the best we can do, is build bubbles of space & time that contain the g
 
 Let's change perspective, and look at this representation as one that speaks of "how evil, or how good?" And let's look at it this way:
 
-There will be at least one spot where unadulterated evil can exist just as there is at least one spot where pure good can exist. These define the boundaries of the world of good and evil. Well, in the realm of the infinite infinities, or the infinitely infinite, or the infinity of infinities.... who knows?
+There will be at least one spot where unadulterated evil can exist just as there is at least one spot where pure good can exist. These define the boundaries of the world of good and evil. Well, in the realm of the infinite infinities, the infinitely infinite, or the infinity of infinities.... who knows?
 
 <figure>
 <img src="/posts/img/neshama/good_evil-01.svg" alt="Good & Evil" >
@@ -46,11 +47,11 @@ There will be at least one spot where unadulterated evil can exist just as there
 <figcaption>Tao - the interplay<br /> between light and dark</figcaption>
 </figure>
 
-Let's think of this space as a circle, with the edge of one side being that of pure evil and the other being that of pure good. This then represents the "place" of the purest of good & evil. Inside the circle are all the different gradations and combinations of good and evil. This will bring us to a symbol that is very similar to the Tao.
+Let's think of this space as a circle, with the edge of one side being that of pure evil and the other being that of pure good. This then represents the "place", or point, of the purest of good & evil. Inside the circle are all the different gradations and combinations of good and evil. This will bring us to a symbol that is very similar to the Tao, especially if we think of it as a 2d representation of a 3d dynamic.
 
-Though there is a small, perhaps minute, percentage, of pure good or pure evil, the majority of the space consists of the _benonim_, the in-betweeners or mundanes, who are neither purely good nor purely evil, but an agglomeration of the two. Perhaps see at as an entwining, rather like the connected double helix of the DNA.
+Though there is a small, perhaps minute, percentage, of pure good or pure evil, most of the space consists of the _benonim_, the in-betweeners or mundanes, who are neither purely good nor purely evil, but an agglomeration of the two. Perhaps seen as an entwining, rather like the connected double helix of the DNA.
 
-Essentially, the whole narrative is about you and I, the _benonim_, &mdash; for we make up the vast majority of human existence.
+Thus, in reality, the narrative is about you and I, the _benonim_, &mdash; for we make up the vast majority of human existence.
 
 If someone is purely good, then there is nothing that needs to be done. He will live a completely sovereign existence according to his inner edicts, and nothing can shake him or divert him. He will draw people to him by his integrity and clarity, but will not seek them out. He will allow them to find him and to leave him if that is not their path.
 
@@ -58,26 +59,20 @@ In the same way, if someone is truly evil, he too will live his life as truly so
 
 The burning question of existence then becomes, if God is the creator of the universe, and therefore omnipotent, was He not the one who Created Evil in the first place? Why, God, oh why? That is a difficult question, perhaps THE essential question of our existence, especially in the midst of this inner battle of the _benoni_ between good and evil.[^1]
 
-I can dedicate a portion of your life and consciousness to delving into this question. If I decide to derive my answer for/by myself, it will become a life-long pursuit, which many fail at, or, most often, tire of. I then settle on either a half-baked or/and personalised version of the truth of what I am seeking, or live on shifting sand as I constantly renew my commitments in my search for the answer that will satisfy me, or, most often, just settle on someone else's answer, or version of the answer.
+I can dedicate my life and consciousness to delving into this question. If I decide to derive my answer for/by myself, it will become a life-long pursuit, which many fail at, or, most often, tire of. I then settle on either a half-baked or/and personalised version of the truth of what I am seeking, or live on shifting sand as I constantly renew my commitments in my search for the answer that will satisfy me, or, most often, just settle on someone else's answer, or version of the answer.
 
-Whatever answer you settle upon, whatever narrative you choose to describe who you are, will affect how you live your life, and produce many of the consequences thereof.
+> Whatever answer you settle upon, whatever narrative you choose to describe who you are, will affect how you live your life, and produce many of the consequences thereof.
 
 ## G-d exists
 
-How can you argue about G-d's existence? The only way one can do this is by looking at G-d as having been created, which is the anthropomorphisation of the Primal Cause. G-d is not a Man up in Heavens, or any other sort of creation that exists in the realm of our consciousness. Although we refer to Him with a personal pronoun, His essence is non-material, and thus, any human characteristics that we attribute to Him are for our benefit, and do not speak of His being in any shape or form.
+Does G-d exist? The only way one can argue this existential point is by looking at G-d as having been created, which is the anthropomorphisation of the Primal Cause. G-d is not a Man up in Heavens, or any other sort of creation that exists in the realm of our consciousness. Although we refer to Him with a personal pronoun, His essence is non-material, and thus, any human characteristics that we attribute to Him are for our benefit, and do not speak of His being in any shape or form.
 
-And as is expressed in the prayer, _Yigdal_:
+expressed in the prayer,
 
-<div dir="rtl" style="text-align:center; margin-bottom: 1rem">
-יִגְדַּל אֱלֹהִים חַי וְיִשְׁתַּבַּח.
-נִמְצָא וְאֵין עֵת אֶל מְצִיאוּתוֹ׃<br />
-אֶחָד וְאֵין יָחִיד כְּיִחוּדוֹ.
-נֶעְלָם וְגַם אֵין סוֹף לְאַחְדּוּתוֹ׃<br />
-אֵין לוֹ דְמוּת הַגּוּף וְאֵינוֹ גּוּף.
-לֹא נַעֲרֹךְ אֵלָיו קְדֻשָּׁתוֹ׃<br />
-קַדְמוֹן לְכָל־דָּבָר אֲשֶׁר נִבְרָא.
-רִאשׁוֹן וְאֵין רֵאשִׁית לְרֵאשִׁיתוֹ׃
-</div>
+<details>
+<summary class='button is-outlined'>
+ <i>Yigdal</i>&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
 
 | Transliteration                                                    | Translation                                                                                   | Alternative Translation                                                             |
 | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
@@ -86,17 +81,34 @@ And as is expressed in the prayer, _Yigdal_:
 | _ein lo d’mut ha’guf v’eino guf, lo na’arokh eilav kedushato_      | He has no body — nor even the appearance of a body, it is impossible to measure his holiness. | It has no body, no comparison; unique in uniqueness in unison.                      |
 | _kadmon k’khol davar asher nivra, rishon v’ein reishit l’reishito_ | Prior to everything that was created, first of all, and yet himself without a beginning.      | Primordial, primary, unbegotten; before the creation, the origin.                   |
 
-Or in the peom [Yigdal](https://www.poetrynook.com/poem/yigdal) from Newton Mann:
+</details>
+<div class="columns">
+<div class="column">
+<div dir="rtl" style="margin-bottom: 1rem; margin-inline: 2rem">
+
+יִגְדַּל אֱלֹהִים חַי וְיִשְׁתַּבַּח.
+נִמְצָא וְאֵין עֵת אֶל מְצִיאוּתוֹ׃
+אֶחָד וְאֵין יָחִיד כְּיִחוּדוֹ.
+נֶעְלָם וְגַם אֵין סוֹף לְאַחְדּוּתוֹ׃
+אֵין לוֹ דְמוּת הַגּוּף וְאֵינוֹ גּוּף.
+לֹא נַעֲרֹךְ אֵלָיו קְדֻשָּׁתוֹ׃
+קַדְמוֹן לְכָל־דָּבָר אֲשֶׁר נִבְרָא.
+רִאשׁוֹן וְאֵין רֵאשִׁית לְרֵאשִׁיתוֹ׃
+
+</div></div></div>
+
+Here, in the form of a poem [Yigdal](https://www.poetrynook.com/poem/yigdal) from Newton Mann, is a translation:
 
 <div class="poem">
-Praise to the living God!<br />
-All praised be His Name,<br />
-Who was, and is, and is to be,<br />
-For aye the same!<br />
-The One Eternal God<br />
-Ere aught that now appears:<br />
-The First, the Last, beyond all thought<br />
-His timeless years!<br />
+
+Praise to the living God!
+All praised be His Name,
+Who was, and is, and is to be,
+For aye the same!
+The One Eternal God
+Ere aught that now appears:
+The First, the Last, beyond all thought
+His timeless years!
 
 Formless, all lovely forms
 Declare His loveliness;
@@ -113,19 +125,23 @@ G-d is the primal cause.
 
 Do you know where your thoughts come from? That you think these thoughts is of course, obvious&mdash;but how can you think thoughts, is the question. That science can find evidence of "physical" or electrical manifestations of them in your brain, prove that your brain must then be the source of any of your thoughts? It is like saying that your body is the source of all your feelings. If that is sufficient for you, then you become the source of all that you are, including your thoughts.
 
-## Is the universe infinite ($$ \infty $$)?
+## Infinite Thoughts
+
+### Is the universe infinite ($$ \infty $$)?
 
 Before we can even attempt to define what G-d is(n't), the question that arises first, is whether this universe, this material manifestation is infinite or not." If it is finite, then there must have been a "birth" of the universe (or existence), a "creation", a primal beginning. What or who (to anthropomorphise) is the Mother that gave "birth" to this creation. Who or what is the Father that provided the seed, which is the alpha of the omega of this creation? There is something&mdash;or nothing&mdash;that exists beyond, or before, this existence that we are aware of. Now in relation to this&nbsp;$$ \infty$$, a couple of billion years here or there, passes in the blink of an eye. Obviously, if you are dealing with infinite time arguing about a billion or 100 billion years, you have no concept of what $$ \infty $$ is.
 
-## In the realm of the Infinite ($$ \infty $$)
+### In the realm of the Infinite ($$ \infty $$)
 
-In the realm of $$ \infty $$ anything is possible. Thus there could have been multiple universes that were created, and this one just happened to be right for our existence. Those other universes could still be existing, or could have been destroyed. One could even propose that in the realm of $$ \infty $$ it is inevitable that a universe such as ours would exist. After all, could not all the possible universes have been created and one of them just happens to be one in which conscious beings emerge?
+In the realm of $$ \infty $$ everything exists. Can you say that there is a number in the set of all natural numbers that is missing? Yet, the number only exists if you "name" it, and for as long as you hold that name in existence. But once that is completed, where does this number actually exist, but in potential &mdash; waiting for the "call to duty", so to say.
 
-Even if our science claims that it is highly improbable that such a situation could arise, in the realm of the $$ \infty $$ anything is possible, and given enough time, everything that one can imagine could occur, no matter how improbable&mdash;for in the realm of $$ \infty $$ everything is possible.
+Even if our science claims that it is highly improbable that such a situation could arise, in the realm of the $$ \infty $$ anything is possible, and given enough time, everything that one can imagine could occur, no matter how improbable &mdash; for in the realm of $$ \infty $$, everything is possible.
 
-The fact that we are conscious, and conscious of being conscious, is what is strange about this story.
+Thus there could have been multiple universes that were created, and this one just happened to be right for our existence. Those other universes could still be existing, or could have been destroyed. One could even propose that in the realm of $$ \infty $$ it is inevitable that a universe such as ours would exist. After all, could not all the possible universes have been created and one of them is correctly attuned for the emergence of conscious beings?
 
-But one still cannot claim that this infinite set of universes arose without some primal cause that is beyond anything any being, conscious or not, can apprehend.
+The fact that we are conscious, and conscious of being conscious, is what is strange about this story. For we know there are other beings that are conscious. But does consciousness necessarily entail beings conscious of being conscious? Is that the strange narcissistic loop that we humans often fall into?
+
+Can one really say, with any credence, that this infinite set of universes arose without some "primal cause" that is beyond anything any being, conscious or not, can apprehend.
 
 ## Designed or ... not
 

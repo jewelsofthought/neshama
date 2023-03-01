@@ -32,28 +32,28 @@ modified: 2022-09-14T15:56:13.090Z
 21. [Faith](#faith)
 22. [Meditation](#meditation)
 23. [Love](#love)
-24. [Finite Beings](#finite-beings)
-25. [Snake](#snake)
-26. [Context](#context)
-27. [Perception](#perception)
-28. [Evolution](#evolution)
-29. [Here \& now](#here--now)
-30. [Pleasing the Creator](#pleasing-the-creator)
-31. [Devotion](#devotion)
-32. [Mercy](#mercy)
-33. [Free will](#free-will)
-34. [Freedom](#freedom)
-35. [Superiority](#superiority)
-36. [Spiritual foundation](#spiritual-foundation)
-37. [Spiral in time](#spiral-in-time)
-38. [M\&F](#mf)
-39. [Messiahs](#messiahs)
-40. [Nature](#nature)
+24. [Snake](#snake)
+25. [Context](#context)
+26. [Perception](#perception)
+27. [Evolution](#evolution)
+28. [Here \& now](#here--now)
+29. [Pleasing the Creator](#pleasing-the-creator)
+30. [Devotion](#devotion)
+31. [Mercy](#mercy)
+32. [Free will](#free-will)
+33. [Freedom](#freedom)
+34. [Superiority](#superiority)
+35. [Spiritual foundation](#spiritual-foundation)
+36. [Spiral in time](#spiral-in-time)
+37. [M\&F](#mf)
+38. [Messiahs](#messiahs)
+39. [Nature](#nature)
     1. [Water](#water)
-41. [Temple](#temple)
-42. [Forced](#forced)
-43. [Relationship](#relationship)
-44. [Natural Laws / Divine Laws](#natural-laws--divine-laws)
+40. [Temple](#temple)
+41. [Forced](#forced)
+42. [Relationship](#relationship)
+43. [Natural Laws / Divine Laws](#natural-laws--divine-laws)
+    1. [My Pain](#my-pain)
 
 {% endblock %}
 
@@ -167,7 +167,7 @@ To be able to balance my masculine purpose and feminine desire for union.
 
 To be free of the constraints of the programming of my past (ancestors). To release the constraints that prevent me from being who I really am and express the love and light of my inner being.
 
-Focusing on joy in me life, letting G!d take me to the money.
+Focusing on joy in my life, letting G!d take me to the _shalom_.
 
 ## Darkness & Light
 
@@ -226,24 +226,25 @@ It is more than likely that as far as all our senses are concerned, the rest doe
 
 > The process reality of being is beyond our cognitive reach (Henry Bergson)
 
-<p class="note">
-{NOTE: Processist, processuality, processism. All processes can be viewed as modifications of substances (material bodies).}
-</p>
+**NOTE**: Processist, processuality, processism. All processes can be viewed as modifications of substances (material bodies).{.note}
 
 ## Meditation
 
+<figure class='quote'>
+  <p>
+    Meditation that does not lead to clarification of commitment & action is entirely insufficient.
+  </p>
+  <figcaption>&mdash; R’ Y”mba</figcaption>
+</figure>
+
 Meditation that does not lead to clarification of commitment & action is entirely insufficient.
-&nbsp;&nbsp;&nbsp;&mdash; R’ Y”mba
+&nbsp;&nbsp;&nbsp;&mdash;
 
 ## Love
 
 > Love what you have. You can only desire what you don't have. (Therefore love is not desire!)
 
-> Hate what you have, then you will love something that you don't have. That which represents the counter to that which you have.
-
-## Finite Beings
-
-If we are finite beings, and although fashioned from the cloth/image of the Infinite Supernal Being, we are enclosed in a finite "vehicle", perhaps there is a part of G-d's desire that would like His "children" to return to Him, as is often said in the Biblical readings. The only way to know the path to His door, is through receiving that part of each of us where He exists. Thus, I say, in each finite being there is a piece of the infinite, otherwise we could never have encountered the paradoxical idea of the existence of the finite within the infinite.
+Hate what you have, then you will love something that you don't have. That which represents the counter to that which you have.
 
 ## Snake
 
@@ -442,5 +443,13 @@ brought me to the following:
 1. All laws, even those that are “scientific” are expressions of divine law. For instance, the laws of gravity, are Divine laws.
 2. To look at one’s life in that manner, seeing that one is contained in sorroundings filled with G-d’s laws. And that every action is a dialogue (a negotiation) with these Divine laws.
 3. That is how science co-opted religion so completely. Because these were mystics who penetrated the secrets of the universe, under the banner of science, and not under the banner of being mystics. They never for a moment thought that they were not penetrating the mind of G-d, which was, to their minds, a holy quest. So the “laws” that they “discovered” were accepted scientifically, and not mystically. Though, by the masses, they realised that they were actually mystical.
+
+### My Pain
+
+Our eternal pain is not that we are bad (as the site of the eternal battle between [היצר הרע]{dir="rtl"}, the will to evil, and [היצר הטוב]{dir="rtl"}, the will to Good, but that the will to evil might be residing within us. If we consider ourselves co-creators, in constant interaction with the Divine, I have to accept the fact that we have the Evil Urge imbibed in our very cores. This is where the doctrine of forgiveness becomes so necessary, so healing. It states that I start our healing from the place of forgiving myself for being aware of evil. For if I am part of Creation, then I am creating some evil in the world just by my very existence.
+
+Does this feed my evil side(s) in any way? By the acknowledgement of evil, I am in some way, creating it, giving it energy. On the other hand if I cannot admit that I have the urge to evil in my very being, then how can we ever forgive ourselves, and heal? For what is there to forgive if I do not even admit to the evil urge existing within myself.
+
+How can we enjoy ourselves without being bad? If God is all loving and does not care what we do, just that we love her, then how come we need to accept all these other rules that have been made, that make us so unhappy. So unhappy as to have the need to kill one another, and often in the name of the self-same god of love and peace and harmony.
 
 {% endblock %}

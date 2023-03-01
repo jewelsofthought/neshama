@@ -28,7 +28,7 @@ The call to service.
 
 The drums throb, the
 cymbals clash.
-My name is Cyril.
+My name is Cyril
 And I am hungry.
 
 &nbsp;&nbsp;\* \* \*

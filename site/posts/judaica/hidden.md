@@ -6,9 +6,10 @@ date: 2010-01-08T06:31:18.856Z
 modified: 2022-07-06
 ---
 
-<blockquote dir="rtl">
+<blockquote>
+<p>
 כבוד אלוהים הסתר דבר
-<p dir="ltr">The glory of G-d is to conceal a matter (Proverbs 25:2)
+<p>The glory of G-d is to conceal a matter (Proverbs 25:2)
 </p>
 </blockquote>
 
