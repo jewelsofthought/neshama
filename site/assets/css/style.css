@@ -19,12 +19,11 @@
   .poem {
     padding-left: 4rem;
   }
-}
 
 span:dir(rtl) {
   font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
   font-weight: 900;
-  font-size: 110%;
+  font-size: 1.1rem;
 }
 
 blockquote:dir(rtl),
@@ -48,6 +47,22 @@ footnote,
 .note span:dir(ltr) {
   font-size: small;
   line-height: 1.1rem;
+}
+
+.container-centered {
+  height: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.item-hr {
+  width: 10em;
+}
+  
+
+dt {
+  font-weight: bold;
 }
 
 aside {
@@ -149,12 +164,6 @@ blockquote p:dir(ltr):not(:first-child) {
 
 .content h3:not(:first-child) {
   margin-top: 1em;
-}
-
-.hebrew {
-  font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
-  font-weight: 600;
-  line-height: 1.125;
 }
 
 .content h4 a {
