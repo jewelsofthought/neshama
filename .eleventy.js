@@ -113,12 +113,12 @@ module.exports = function(eleventyConfig) {
   });
 
    eleventyConfig.addCollection("tagList_neshama", function (collection) {
-    let tagSet_neshama = new Set();
+    let tagSet = new Set();
     collection.getFilteredByTags("neshama").forEach(item => {
-      (item.data.tags || []).forEach(tag => tagSet_neshama.add(tag));
-    })
+      (item.data.tags || []).forEach(tag => tagSet.add(tag));
+    });
 
-    return filterTagList([...tagSet_neshama]);
+    return filterTagList([...tagSet]);
   });
 
   // Sorting by order: in front matter
