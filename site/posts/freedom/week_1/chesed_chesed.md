@@ -7,7 +7,7 @@ date: 2022-04-16T00:04:00.000Z
 
 <div style="font-weight: bold; text-align:center">
 <h2>Chesed she’b Chesed</h2>
-<i>Day One of Week 1:</i> 
+<i>Day One of Week 1:</i>
 <p>Kindness in Love</p>
 
 </div>
@@ -18,7 +18,7 @@ Unless my love includes the other six aspects of <b>Chesed</b>, it will be disto
 </p>
 </div>
 
-The challenge is that stands in front of us before we begin our journey, is to choose freedom. With freedom comes truth. In slavery is the illusion, the pretence of life. The journey from slavery to freedom is filled with challenges, demanding that we release the chains that keep us stuck in our pain, those habits and thoughts that cause great pain. They keep us separate from realising our potential, convincing us of our limitations, our smallnesses. Our external slavery is a metaphor for the slavery we experience internally.
+The challenge that stands in front of us before we begin our journey, is to choose freedom. With freedom comes truth. In slavery is the illusion, the pretence of life. The journey from slavery to freedom is filled with challenges, demanding that we release the chains that keep us stuck in our pain, those habits and thoughts that cause great pain. They keep us separate from realising our potential, convincing us of our limitations, our smallnesses. Our external slavery is a metaphor for the slavery we experience internally.
 
 The paradox of slavery is that it is safe. There is security in being able to blame the external world for the challenges I experience. There is safety in someone else making the decisions, of not having to take responsibility for the choices you make in your life.
 

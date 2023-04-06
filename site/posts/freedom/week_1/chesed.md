@@ -5,7 +5,7 @@ tags: null
 date: 2022-04-16T00:02:00.000Z
 ---
 
-<div style="text-align: center; font-weight: bold"> 
+<div style="text-align: center; font-weight: bold">
 <p>The First Week </p>
 <h1 style="font-size: 300%; text-decoration: underline">חסד</h1>
 <h2>Chesed</h2>
@@ -30,7 +30,9 @@ I take moments of quiet each day this week to appreciate more fully the nature o
 **Chesed** is the _sefirah_ on the Tree of Life where the energies expand without limit. **Chesed** is also known as _Gedulah_, which means “largesse” or “greatness”. It is the place in which the energies express only mercy through unconditional giving. It is love that always gives, just like the Sun that always shines upon everything on earth, the tall and the short, the good and the evil.
 
 **Chesed** represents the unlimited flow of energy as it flows down from the Divine Realms, undifferentiated, neither positive nor negative, preceding any polarity. This is the Impulse behind both the light and shadow at **Gevurah**, the basic principle reflected through each of the three pairs of _sefirot_, **Hod** and **Netzach**, **Gevurah** and **Chesed**, **Binah** and **Chochmah**. The _sefirot_ of force, on the right side of the Tree express energy before it separates into the polarities brought about through particular forms or specific expressions.
-This first week of the journey we focus on opening ourselves to receive from the Fountain of Life, and to be nourished. **Chesed** presents an abundant flow of that which is not yet differentiated into specific feelings.
+This first week of the journey we focus on opening ourselves to receive from the Fountain of Life, and to be nourished.
+
+**Chesed** presents an abundant flow of that which is not yet differentiated into specific feelings.
 
 <div style="text-align: center; font-size: 130%">
 The Name of G-d<br />
@@ -40,18 +42,19 @@ is <em>El</em>,
 אֵל</h4>
 </div>
 
-Traditionally, _El_, which basically means G-d, reflects the Universal attributes of Compassion and Mercy. At **Chesed**, Mercy represents the ever-flowing, ever-providing, ever-sustaining Energy of unlimited abundance and possibility. _El_ offers Itself without reservation, and in that sense is truly Merciful and Loving.
+Traditionally, _El_, which basically means G-d, reflects the Universal attributes of Compassion and Mercy. At **Chesed**, Mercy represents the ever-flowing, ever-providing, ever-sustaining energy of unlimited abundance and possibility. _El_ offers Itself without reservation, and in that sense is truly Merciful and Loving.
 
 Each feeling we experience is itself a shell containing the unlimited flow of Divine Energy. Open yourself to the abundance of that offering, beginning the journey to experience more fully the Fountain of Life that is always available to us.
 
-## Meditation for the First Week at CHESED.
+## Meditation for the First Week at CHESED
 
 <blockquote>
 <p dir="rtl">
 וְאַתָּ֣ה אֲ֭דֹנָי אֵל־רַח֣וּם וְחַנּ֑וּן אֶ֥רֶךְ אַ֝פַּ֗יִם וְרַב־חֶ֥סֶד וֶאֱמֶֽת
 </p>
 <p>
-And You, Eternal One, are El, full of Compassion, Gracious, Long-suffering and Bountiful in Lovingkindness and Truth.<br />
+
+And You, Eternal One, are _El_, full of Compassion, Gracious, Long-suffering and Bountiful in Lovingkindness and Truth.
 -- (Psalm 86:15)
 </p>
 </blockquote>
