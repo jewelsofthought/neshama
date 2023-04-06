@@ -2,7 +2,7 @@
 title: Bereshit פרשׁת בראשׁית
 description: 'Genesis 1:1-6:8 // בראשׁית א־א ־ ה־ז - Creation of the world...'
 tags: null
-date: 2022-10-22T11:33:06.076Z
+date: 2022-10-22T00:33:06.076Z
 ---
 
 ## Genesis

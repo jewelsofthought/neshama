@@ -1,5 +1,5 @@
 ---
-title: Chayei Sara פרשׁת סרה
+title: Chayei Sara פרשׁת חיי סרה
 description: 'Genesis 23:1-25:18 - Some lovely stories'
 tags: null
 date: 2022-11-19T00:57:16.939Z

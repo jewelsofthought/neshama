@@ -2,7 +2,7 @@
 title: Vayishlach פרשׁת וישׁלח
 description: 'Genesis 32:4-36:43 // בראשׁית '
 tags: [todo]
-date: 2022-12-10T01:33:06.076Z
+date: 2022-12-03T00:33:06.076Z
 ---
 
 ## Chapter 32
@@ -26,7 +26,7 @@ v7] Angels return with message: "He is heading towards you with 400 men".
 
 n7] Esau intends to attack Jacob
 
-Note: Can only mean trouble. His intention is not peaceful, else why the 400? However, 400 is <b>ת</b>, the last letter of the alphabet. Which is an end in itself, and is also indicative of the future. However, the real question here is what caused his sudden change of heart, in that he embraces Jacob and weeps when they do meet? Perhaps Jacob's fear stemmed from his own guilt?
+Note: Can only mean trouble. His intention is not peaceful, else why the 400? However, 400 is ת{.heb}, the last letter of the alphabet. Which is an end in itself, and is also indicative of the future. However, the real question here is what caused his sudden change of heart, in that he embraces Jacob and weeps when they do meet? Perhaps Jacob's fear stemmed from his own guilt?
 
 Note: This is why it is a human story. For it is told from a human point of view. G-d tells Jacob to return to his home. Jacob sets out, but as he get close to Esau, he is scared. He had not planned his approach. He just "obeyed" G-d, knowing that He would protect him. But, now that he is facing the challenge, he realises that he is in a bit of a situation. So he prays to G-d.
 
@@ -41,7 +41,7 @@ It is night. Jacob sends a tribute, explicitly accounted for, to Esau. He sends 
 n9] Jacob prepared in 3 ways: He sent gifts, he prayed and he prepared for conflict (Rashi).
 
 n11] I am unworthy.
-Be humble before the kindness of G-d when His "right hand embraces me", actually bringing me closer to Him, that should only increase humility, for I that stands before Him am but naught. This is the opposite of the behaviour of the **כליפה**, _kelipah_, who only becomes more arrogant the more G-d's kindness descends upon him (Shneur Zalman).
+Be humble before the kindness of G-d when His "right hand embraces me", actually bringing me closer to Him, that should only increase humility, for I that stands before Him am but naught. This is the opposite of the behaviour of the [כליפה]{dir="rtl"}, _kelipah_, who only becomes more arrogant the more G-d's kindness descends upon him (Shneur Zalman).
 
 v23] He is alone.
 
@@ -59,16 +59,15 @@ The man could not overcome him, so he struck/dislocated his hip socket.
 "Let me go", pleads the man.
 "Not until you blessed me", responds Jacob.
 He then says his name will be Israel because he "strived with G-d and man, and overcame."
-<span dir="rtl" style="font-weight: bold">כּי שַׁרִִתה עִם־אלוהִים ועם אנשׁים ותוּכל</span>
+[כּי שַׁרִִתה עִם־אלוהִים ועם אנשׁים ותוּכל]{dir="rtl}
 "Tell me your name", Jacob demands.
 Instead, he blessed him (Jacob).
 
 v31] _Penniel_
 
-<span dir="rtl" style="font-weight: bold">כּי־ראיתִי אלוהים פנים־אל־פנים
-ותִנָצֶל נפשׁי</span>
+[כּי־ראיתִי אלוהים פנים־אל־פנים ותִנָצֶל נפשׁי]{dir="trl"}
 
-Note: Calls the place _Penniel_, because "I have seen G-d face-to-face, and survived."
+[**Note**: Calls the place _Penniel_, because "I have seen G-d face-to-face, and survived."]{.note}
 
 v33] Sinew
 
@@ -78,7 +77,7 @@ To this day, we do not eat the displaced sinew of the kosher animal.
 
 v1] Esau arrives
 
-Note: Does not his arrival seem rather sudden?
+[**Note**: Does not his arrival seem rather sudden?]{.note}
 
 Jacob prepares to meet him with his family. Note the order, Rachel and Joseph last to protect them.
 
@@ -91,29 +90,25 @@ This is the strange change of heart. However, if it was Jacob's fear, then perha
 
 v13-18] Jacob avoids Esau.
 
-v14] Jacob says he will meet Esau in Seir. {Note: Is he lying again?}
+v14] Jacob says he will meet Esau in Seir. [**Note**: Is he lying again?]{.note}
 v16] Esau returns to Seir, but Jacob continues to Succoth (which he names), and builds a house there and shelter for his livestock. So, he was settling there for a bit.
-v18] Then he continues from there to Shechem. {Note: Again we have a time displacement. If he built a home and shelters in Succoth, why did he continue to Shechem at this point? And there he did not build a home, he just pitched his tent.}
+v18] Then he continues from there to Shechem. [**Note**: Again we have a time displacement. If he built a home and shelters in Succoth, why did he continue to Shechem at this point? And there he did not build a home, he just pitched his tent.]{.note}
 
-v20] And made an altar: <span dir="rtl" style="font-weight: bold">אל אלוהִם ישׂראל</span>
+v20] And made an altar: [אל אלוהִם ישׂראל]{dir="rtl"}
 
 ## Chapter 34 - <i>Shechem</i>
 
 v6] Lying with daughter of Israel
 
-<div dir="rtl" style="font-weight: bold">
-ויבחר להם מאוד כי נולה עשׂה בישׂראל לשׁכב את בת־יעקוב וכן לא יעשׂה
-</div>
+[ויבחר להם מאוד כי נולה עשׂה בישׂראל לשׁכב את בת־יעקוב וכן לא יעשׂה]{dir="rtl}
 
 Require from them to circumcise, then kill men, take the women and children and possesions. Even though they wanted to join with the Bnei Israel, but probably would not have accepted their religion - which was at that stage, monotheistic - something which they probably had not heard of.
 
-<div dir="rtl" style="font-weight: bold">
-כּזֹנה יעשׂה את־אחותנוּ
-</div>
+[כּזֹנה יעשׂה את־אחותנוּ]{dir="rtl"}
 
 ## Chapter 35 - G-d says
 
-v1] Go to **בת־אל**. Build Me an altar there.
+v1] Go to [בת־אל]{dir="rtl"}. Build Me an altar there.
 v2] Discard your alien gods, cleanse yourselves, put on clean clothes.
 v3] He built an altar to G-d who answered me in my time of need.
 
@@ -122,7 +117,7 @@ Deborah dies.
 
 v9-13] G-d appears. Blesses Him with land and children - not really spiritual blessings, though we could look at children as being the spiritual blessing and land as the material.
 
-v14] He builds a pillar at **בת־אל** (is this another Beit-El or is it the same one?)
+v14] He builds a pillar at [בת־אל]{dir="rtl"} (is this another Beit-El or is it the same one?)
 
 v16] Rachel dies on the road
 
@@ -143,6 +138,6 @@ v40] Names of the Chiefs of Edom.
 **[Facts about Terebinth](https://www.healthbenefitstimes.com/terebinth/)**
 
 [^1]:
-    The [terebinth](https://www.biblestudytools.com/dictionary/terebinth/)&mdash;Pistacia terebinthus (Natural Order, Anacardiaceae), Arabic Butm&mdash;is a tree allied to the P. vera, which produces the pistachio nut, and to the familiar "pepper tree" (Schinus molle) so extensively cultivated in modern Palestine. Like the latter the terebinth has red berries, like small immature grapes. The leaves are pinnate, four to six pairs, and they change color and fall in autumn, leaving the trunk bare (compare Isaiah 1:30). The terebinth is liable to be infected by many showy galls, some varieties looking like pieces of red coral. In Palestine, this tree assumes noble proportions, especially in situations when, from its association with some sacred tomb, it is allowed to flourish undisturbed. It is in such situations not infrequently as much as 40 ft. high and spreads its branches, with their thick, dark-green foliage, over a wide area (compare 2 Samuel 18:9,14; Ecclesiasticus 24:16). Dwarfed trees occur among the brushwood all over the land.
+    The [terebinth](https://www.biblestudytools.com/dictionary/terebinth/) &mdash; _Pistacia terebinthus_ (Natural Order, Anacardiaceae), Arabic _Butm_ &mdash; is a tree allied to the _P. vera_, which produces the pistachio nut, and to the familiar "pepper tree" (_Schinus molle_) so extensively cultivated in modern Palestine. Like the latter the terebinth has red berries, like small immature grapes. The leaves are pinnate, four to six pairs, and they change color and fall in autumn, leaving the trunk bare (compare Isaiah 1:30). The terebinth is liable to be infected by many showy galls, some varieties looking like pieces of red coral. In Palestine, this tree assumes noble proportions, especially in situations when, from its association with some sacred tomb, it is allowed to flourish undisturbed. It is in such situations not infrequently as much as 40 ft. high and spreads its branches, with their thick, dark-green foliage, over a wide area (compare 2 Samuel 18:9,14; Ecclesiasticus 24:16). Dwarfed trees occur among the brushwood all over the land.
     From this tree a kind of turpentine is obtained, hence, the alternative name "turpentine tree" (Ecclesiasticus 24:16 the King James Version, the Revised Version (British and American) "terebinth").
     &mdash; E. W. G. Masterman

@@ -2,17 +2,12 @@
 title: Lech Lecha פרשׁת לך לך
 description: 'Genesis 12:1–17:27 // בראשׁית '
 tags: null
-date: 2022-11-05T01:33:06.076Z
+date: 2022-11-05T00:33:06.076Z
 ---
 
 ## Chapter 12
 
 ### 12:1] Leave your land
-
-- v1: Lord spoke to Abram
-- v2: I will make you into a great nation
-- v3: I will bless you++
-- v4: Abraham was 75 years old
 
 <blockquote>
 <p dir="rtl">
@@ -25,29 +20,72 @@ date: 2022-11-05T01:33:06.076Z
   </p>
 </blockquote>
 
+- v1: Lord spoke to Abram
+- v2: I will make you into a great nation
+- v3: I will bless you++
+- v4: Abraham was 75 years old
+
 **&#9798; A new creation.**
+<figure class='quote'>
+  <p>
 
-The _sidrah_ begins a new birth for mankind. The 1st 2000 years from creation is known as the Era of Desolation. Adam had fallen, Abel had been murdered, idolatry was introduced, the deluge occurred and the dispersion of Babel. Abraham was born in the year 1948 from Creation. In the year 2000 &mdash; four years after the Dispersion and six years before the death of Noah &mdash; he started to influence disciples to serve **HaShem**. With the emergence of Abraham, the Era of Desolation came to an end, and the Era of Torah began. (_Avodah Zarah_ 9a).
+    The _sidrah_ begins a new birth for mankind. The 1st 2000 years from creation is known as the Era of Desolation. Adam had fallen, Abel had been murdered, idolatry was introduced, the deluge occurred and the dispersion of Babel. Abraham was born in the year 1948 from Creation. In the year 2000 &mdash; four years after the Dispersion and six years before the death of Noah &mdash; he started to influence disciples to serve **HaShem**. With the emergence of Abraham, the Era of Desolation came to an end, and the Era of Torah began.
+  </p>
+  <figcaption>&mdash;(_Avodah Zarah_ 9a)</figcaption>
+</figure>
+<figure class='quote'>
+  <p>
+    With Abraham there began a profound change in the spiritual nature of mankind. The plan of Creation was for all human beings to have an equal share in fulfilling the Divine mission. But after twenty generation of failure, the privilege of G-d's Chosen People was earned by Abraham and his offspring. They would receive the Torah and they would be in the vanguard of perfecting the world and bringing all people to accept the sovereignty of the One G-d.
+  </p>
+  <figcaption>&mdash;(Avos, ibid.; Derech Hashem)</figcaption>
+</figure>
+ .
 
-With Abraham there began a profound change in the spiritual nature of mankind. The plan of Creation was for all human beings to have an equal share in fulfilling the Divine mission. But after twenty generation of failure, the privilege of G-d's Chosen People was earned by Abraham and his offspring. They would receive the Torah and they would be in the vanguard of perfecting the world and bringing all people to accept the sovereignty of the One G-d. [_Avos_, ibid.; _Derech Hashem_].^[Note: Abraham must have been a mystic of great standing. Possibly his father Terach was a priest in Ur-Kadem. Abraham too was a man of learning and a priest.]
+**Note**: Abraham must have been a mystic of great standing. Possibly his father Terach was a priest in Ur-Kadem. Abraham too was a man of learning and a priest.{.note}
 
 **&#9798; The concept of trail.**
 
-Abraham had to prove his greatness by passing ten tests of faith (_Avos_ 5:4). The first trial is the command, in this _Sidrah_, that Abraham give up his entire past and follow G-d's lead to a new land. **A heavenly test is one that forces a person to choose between G-d's will and his own nature or understanding of what is right.**.. Thus Abraham was tested by being forced to subordinate his wishes and wisdom to those of G-d. By doing so, he demonstrated his conviction that **man's highest goal is to accept the Divine wisdom as the sole truth**.^[Note: This is a rather pure view of Abraham's choice to leave his past. He is firstly promised all the land of Israel, then he is told that he will have many offspring, and if he wants that to occur, he has to go to Canaan. G-d also promised him that he will not diminished in any way by this move. If only we all could get those type of guarantees from G-d if we follow that "small, quiet voice" inside of us.]
+Abraham had to prove his greatness by passing ten tests of faith (_Avos_ 5:4). The first trial is the command, in this _Sidrah_, that Abraham give up his entire past and follow G-d's lead to a new land. **A heavenly test is one that forces a person to choose between G-d's will and his own nature or understanding of what is right.**.. Thus Abraham was tested by being forced to subordinate his wishes and wisdom to those of G-d. By doing so, he demonstrated his conviction that **man's highest goal is to accept the Divine wisdom as the sole truth**.
 
-Why did G-d need to test Abraham? Was it to display to the _world_ how a great man obeys G-d? (_Rambam_ [_Moreh Nevuchim_ 3:24]). _Ramban_ argues that the outcome is not in doubt to G-d, and a just G-d will never impose trials that are beyond the capacity of the individual &mdash; G-d only tests righteous people who will do His will, not the wicked who will disobey. Thus all the Torah's trials are for the benefit of the one being tested, who has free choice, and therefore he must find the strength and wisdom to choose correctly. If he does, then he has translated his potential into action and made himself a greater person, for actual deed far outweighs mere potential.
+**Note**: This is a rather pure view of Abraham's choice to leave his past. He is firstly promised all the land of Israel, then he is told that he will have many offspring, and if he wants that to occur, he has to go to Canaan. G-d also promised him that he will not diminished in any way by this move. If only we all could get those type of guarantees from G-d if we follow that "small, quiet voice" inside of us.{.note}
+
+**Note**: Why did G-d need to test Abraham? Was it to display to the _world_ how a great man obeys G-d? (_Rambam_ [_Moreh Nevuchim_ 3:24]). _Ramban_ argues that the outcome is not in doubt to G-d, and a just G-d will never impose trials that are beyond the capacity of the individual &mdash; G-d only tests righteous people who will do His will, not the wicked who will disobey. Thus all the Torah's trials are for the benefit of the one being tested, who has free choice, and therefore he must find the strength and wisdom to choose correctly. If he does, then he has translated his potential into action and made himself a greater person, for actual deed far outweighs mere potential.{.note}
 
 **&#9798; Abraham comes to Canaan.**
 
-Though Abraham and Sara had many disciples, they were essentially alone; they could never blend into whatever culture surrounded them. Abraham was called an _Ivri_, from the word עבר, _the other side_. Literally that means the he came to Canaan from the other side of the Euphrates, but there is a deeper sense as well. He was on one side of a moral and spiritual divide, and (much of) the rest of the world was on the other. {Note: This is not completely true, as for instance Melchezidik was on the side of **HaShem**, Hagar praised G-d upon receiving the prophecy from the angel, etc.} Righteous people must be ready to endure such isolation; popularity is pleasant, but it is also a snare, because the natural desire to win the approval of theirs can easily lead people to bend their principles.
+Though Abraham and Sara had many disciples, they were essentially alone; they could never blend into whatever culture surrounded them. Abraham was called an _Ivri_, from the word [עבר]{dir="rtl"}, _the other side_. Literally that means the he came to Canaan from the other side of the Euphrates, but there is a deeper sense as well. He was on one side of a moral and spiritual divide, and (much of) the rest of the world was on the other.
+
+**Note**: This is not completely true, as for instance Melchezidik was on the side of **HaShem**, Hagar praised G-d upon receiving the prophecy from the angel, etc.{.note}
+
+Righteous people must be ready to endure such isolation; popularity is pleasant, but it is also a snare, because the natural desire to win the approval of theirs can easily lead people to bend their principles.
 
 Abraham and Sarah's names were changed 24 years after they left for Canaan.
 
-n12:1] <b>לֶךְ־לְךָ</b> &mdash; <i>Go for yourself.</i>(\*) The seemingly superfluous **לְךָ** means "go for your own benefit and for your own good". What is this benefit and good? Here you will not have children and there you will. There you will become famous [so that you will be able to carry out your spiritual mission].
+n12:1] [לֶךְ־לְךָ]{dir="rtl"} &mdash; <i>Go for yourself.</i>(\*)
+<figure class='quote'>
+  <p>
+  
+    [לֶךְ־לְךָ]{dir="rtl"} &mdash; _Go forth_. The seemingly superfluous [לְךָ]{dir="rtl"} means "go for your own benefit and for your own good". What is this benefit and good? Here you will not have children and there you will. There you will become famous (so that you will be able to carry out your spiritual mission).
+  </p>
+  <figcaption>&mdash;(Rashi)</figcaption>
+</figure>
 
-> Rashi: <b>לֶךְ־לְךָ</b> &mdash; <i>Go forth.</i> Go to you, for your benefit and for your good, and there I will make you into a great nation, but here, you will not merit to have children. Moreover, I will make your character known in the world. — [from _Rosh Hashanah_ 16b, _Tan_.]
+<figure class='quote'>
+  <p>
+    Go to you, for your benefit and for your good, and there I will make you into a great nation, but here, you will not merit to have children. Moreover, I will make your character known in the world.
+  </p>
+  <figcaption>
+  &mdash;(from Rosh Hashanah 16b, Tan)
+  </figcaption>
+</figure>
 
-> Rashi: <b>מֵֽאַרְצְךָ֥</b> &mdash; <i>from your land.</i> Now had he not already gone out of there with his father and come as far as Haran? Rather, thus did He say to him, “Distance yourself more from there and leave your father’s house.”
+ <figure class='quote'>
+   <p>
+
+      [מֵֽאַרְצְךָ֥]{dir="rtl"} &mdash; _from your land._ Now had he not already gone out of there with his father and come as far as Haran? Rather, thus did He say to him, “Distance yourself more from there and leave your father’s house.”
+   </p>
+   <figcaption>&mdash;(Rashi)</figcaption>
+ </figure>
 
 ### 12:2] Blessing and promise
 
@@ -56,35 +94,63 @@ n12:1] <b>לֶךְ־לְךָ</b> &mdash; <i>Go for yourself.</i>(\*) The seeming
 ב וְאֶֽעֶשְׂךָ֙ לְג֣וֹי גָּד֔וֹל וַֽאֲבָ֣רֶכְךָ֔ וַֽאֲגַדְּלָ֖ה שְׁמֶ֑ךָ וֶֽהְיֵ֖ה בְּרָכָֽה:
 </p>
 <p>
-2. And I will make you into a great nation, and I will bless you, and I will aggrandize your name, and [you shall] be a blessing. 
+2. And I will make you into a great nation, and I will bless you, and I will aggrandize your name, and [you shall] be a blessing.
 </p>
 </blockquote>
 
-n12:2] G-d assures Abraham that he will not suffer the detrimental consequences commonly resulting from extended travel: Its rigours make it harder to bear children, they diminish one's wealth, and harm one's reputation (_Rashi_).^[Note:
+<figure class='quote'>
+  <p>
+    G-d assures Abraham that he will not suffer the detrimental consequences commonly resulting from extended travel: Its rigours make it harder to bear children, they diminish one's wealth, and harm one's reputation.
+  </p>
+  <figcaption>&mdash;(Rashi)</figcaption>
+</figure>
+
+**Note**:
 (i) For your benefit: to have children. This is an incentive to go to Canaan.
-(ii) Famous: carry out your spiritual mission.]
+(ii) Famous: carry out your spiritual mission.{.note}
 
-n12:4] Lot's father was Haran, Abraham's brother who had died in the flames of Ur Kasdim [n11:28]. Abraham then undertook the responsibility of raising the orphaned Lot (_Chizkuni_).
+<figure class='quote'>
+  <p>
+    Lot's father was Haran, Abraham's brother who had died in the flames of Ur Kasdim [n11:28]. Abraham then undertook the responsibility of raising the orphaned Lot.
+  </p>
+  <figcaption>&mdash; (Chizkuni)</figcaption>
+</figure>
 
-### 12:5] The souls acquired ^[Note: Who were these souls that they acquired?]
+### 12:5] The souls acquired
+
+**Note**: Who were these souls that they acquired?{.note}
 
 <blockquote>
 <p dir="rtl">
-  </p>
   ה וַיִּקַּ֣ח אַבְרָם֩ אֶת־שָׂרַ֨י אִשְׁתּ֜וֹ וְאֶת־ל֣וֹט בֶּן־אָחִ֗יו
   וְאֶת־כָּל־רְכוּשָׁם֙ אֲשֶׁ֣ר רָכָ֔שׁוּ וְאֶת־הַנֶּ֖פֶשׁ אֲשֶׁר־עָשׂ֣וּ
   בְחָ֑רָן וַיֵּֽצְא֗וּ לָלֶ֨כֶת֙ אַ֣רְצָה כְּנַ֔עַן וַיָּבֹ֖אוּ אַ֥רְצָה
   כְּנָֽעַן:
-  <p>
+  </p> <p>
     5. And Abram took Sarai his wife and Lot his brother's son, and all their possessions that they had acquired, and the souls they had acquired in Haran, and they went to go to the land of Canaan, and they came to the land of Canaan.
   </p>
 </blockquote>
 
-n12:5] <b>וַיִּקַּ֣ח</b> &mdash; <i>Took.</i> Abraham took Sarah through persuasion, because a man is forbidden to take a wife to a foreign land^[Note: Canaan was already a nation. Though it was supposed to have emerged from one of the sons of Noah. Remember Seth is still alive. Here is another time span that is not explained.] without her consent (_Zohar_).^[Note: He must have shared with her what G-d said, if he was to persuade her. Thus later she sends Hagar in as she is obviously not going to give Abraham a child, and G-d predicted that he was to have many offspring. It shows that her faith is not passive, and she believes that she has to participate in G-d's plan for humanity.]
+n12:5] [וַיִּקַּ֣ח]{dir="rtl"} &mdash; _Took_.
 
-<b>הַנֶּ֖פֶשׁ אֲשֶׁר־עָשׂ֣וּ</b> &mdash; <i>The souls they made.</i> The _souls_ refer to the those whom they had converted to faith in **HaShem**&nbsp;(_Rashi_).^[Note: There is a reference to all the souls that Abraham had convinced to believe in G-d, as One. They thus became his disciples.]
+<figure class='quote'>
+  <p>
+     Abraham took Sarah through persuasion, because a man is forbidden to take a wife to a foreign land without her consent.
+  </p>
+  <figcaption>&mdash;(Zohar)</figcaption>
+</figure>
 
-n12:6] <b>Deeds of the Patriarchs, portents for the children.</b> כל מה שׁאירע לאביות סימן לבנים, _Whatever happened to the Patriarchs is a portent for the children._.. The story of the Patriarchs is replete with such symbolic acts in order to couple the particular Divine decree with a physical deed, follwing the principle that whenever a prophecy is clothed in a symbolic act, the decree becomes permanet and unalterable (see Jeremiah 51:63-64; see also n13:17 below).
+**Note**: Canaan was already a nation. Though it was supposed to have emerged from one of the sons of Noah. Remember Seth is still alive. Here is another time span that is not explained.{.note}
+
+**Note**: He must have shared with her what G-d said, if he was to persuade her. Thus later she sends Hagar in as she is obviously not going to give Abraham a child, and G-d predicted that he was to have many offspring. It shows that her faith is not passive, and she believes that she has to participate in G-d's plan for humanity.{.note}
+
+[הַנֶּ֖פֶשׁ אֲשֶׁר־עָשׂ֣וּ]{dir="rtl"} &mdash; <i>The souls they made.</i> The _souls_ refer to the those whom they had converted to faith in **HaShem** &nbsp;(_Rashi_).
+
+**Note**: There is a reference to all the souls that Abraham had convinced to believe in G-d, as One. They thus became his disciples.{.note}
+
+n12:6] <b>Deeds of the Patriarchs, portents for the children.</b>
+
+[כל מה שׁאירע לאביות סימן לבנים]{dir="rtl"}, _Whatever happened to the Patriarchs is a portent for the children_... The story of the Patriarchs is replete with such symbolic acts in order to couple the particular Divine decree with a physical deed, follwing the principle that whenever a prophecy is clothed in a symbolic act, the decree becomes permanet and unalterable (see Jeremiah 51:63-64; see also n13:17 below).
 
 ### 12:7] "To your seed I will give this land"
 
@@ -97,7 +163,13 @@ n12:6] <b>Deeds of the Patriarchs, portents for the children.</b> כל מה שׁ�
 </p>
 </blockquote>
 
-n12:7] <b>וַיֵּרָ֤א יְהֹוָה֙</b> &mdash; <i><b>HaShem</b> appeared.</i> G-d is not physical, so the means by which He "speaks" and makes Himself "visible" to people is an eternal mystery. Nevertheless, the He _appeared_ in a way that was tangible to Abraham (_R' Hirsch_).
+<figure class='quote'>
+  <p>
+
+    [וַיֵּרָ֤א יְהֹוָה֙] &mdash; <i><b>HaShem</b> appeared.</i> G-d is not physical, so the means by which He "speaks" and makes Himself "visible" to people is an eternal mystery. Nevertheless, He <i>appeared</i> in a way that was tangible to Abraham.
+  </p>
+  <figcaption>&mdash;(R' Hirsch)</figcaption>
+</figure>
 
 ### 12:8] 2nd Altar (Beth-El)
 
@@ -114,7 +186,9 @@ n12:7] <b>וַיֵּרָ֤א יְהֹוָה֙</b> &mdash; <i><b>HaShem</b> appea
 
 n12:8] Abraham builds a second altar at which he _invoked **Hashem** by Name_.
 
-### 12:9] Continued south^[Note: He did not settle at Bet El. He just pitched his tent, and continued southwards... why? He was in the Land of Canaan. What was he looking for?]
+### 12:9] Continued south
+
+**Note**: He did not settle at Bet El. He just pitched his tent, and continued southwards... why? He was in the Land of Canaan. What was he looking for?{.note}
 
 <blockquote>
 <p dir="rtl">
@@ -125,9 +199,13 @@ n12:8] Abraham builds a second altar at which he _invoked **Hashem** by Name_.
   </p>
 </blockquote>
 
-n12:10-20] <b>Abraham in Egypt.</b> This is another test.^[Note: He lies about Sarai being his sister, because he is scared. Then he benefits from the Pharoah's attraction to Sarai &ndash; who he takes into his house, and gifts Abraham for the privilege.]
+n12:10-20] **Abraham in Egypt**. This is another test.
 
-### 12:11-13] Sarai is my sister^[Note: Asks Sarai to lie for him so that it might go well with _him_. He is scared that they will kill him for Sarai, because she is so beautiful... but she is already 65! Was she still menstruating?]
+**Note**: He lies about Sarai being his sister, because he is scared. Then he benefits from the Pharoah's attraction to Sarai &ndash; who he takes into his house, and gifts Abraham for the privilege.{.note}
+
+### 12:11-13] Sarai is my sister
+
+**Note**: Asks Sarai to lie for him so that it might go well with _him_. He is scared that they will kill him for Sarai, because she is so beautiful... but she is already 65! Was she still menstruating?{.note}
 
 <blockquote>
 <p dir="rtl">
@@ -139,7 +217,7 @@ n12:10-20] <b>Abraham in Egypt.</b> This is another test.^[Note: He lies about S
   </p>
   <p>
     11.  Now it came to pass when he drew near to come to Egypt, that he said to Sarai his wife, "Behold now I know that you are a woman of fair appearance.
-    12.  And it will come to pass when the Egyptians see you, that they will say, 'This is his wife,' and they will slay me and let you live. 
+    12.  And it will come to pass when the Egyptians see you, that they will say, 'This is his wife,' and they will slay me and let you live.
     13.  Please say [that] you are my sister, in order that it go well with me because of you, and that my soul may live because of you."
   </p>
 </blockquote>
@@ -172,7 +250,9 @@ n12:13] May it go well with me, for your sake.
   </p>
 </blockquote>
 
-#### 12:16] He benefited Abraham^[Note: He receives gifts from Pharoah through his subterfuge.]
+#### 12:16] He benefited Abraham
+
+**Note**: He receives gifts from Pharoah through his subterfuge.{.note}
 
 <blockquote>
 <p dir="rtl">
@@ -184,7 +264,9 @@ n12:13] May it go well with me, for your sake.
   </p>
 </blockquote>
 
-#### 12:17] <b>HaShem</b> intervenes^[Note: Again strange. She is a woman in her 60's. What would the Pharoah want with her? And he reprimands Abraham. Why did you lie to me?]
+#### 12:17] <b>HaShem</b> intervenes
+
+**Note**: Again strange. She is a woman in her 60's. What would the Pharoah want with her? And he reprimands Abraham. Why did you lie to me?{.note}
 
 <blockquote>
 <p dir="rtl">
@@ -192,21 +274,20 @@ n12:13] May it go well with me, for your sake.
   עַל־דְּבַ֥ר שָׂרַ֖י אֵ֥שֶׁת אַבְרָֽם:
   </p>
   <p>
-    17. And the Lord plagued Pharaoh [with] great plagues as well as his
-    household, on account of Sarai, Abram's wife.
+    17. And the Lord plagued Pharaoh [with] great plagues as well as his household, on account of Sarai, Abram's wife.
   </p>
 </blockquote>
 
 <blockquote>
 <p dir="rtl">
   יח וַיִּקְרָ֤א פַרְעֹה֙ לְאַבְרָ֔ם וַיֹּ֕אמֶר מַה־זֹּ֖את עָשִׂ֣יתָ לִּ֑י
-  לָ֚מָּה לֹֽא־הִגַּ֣דְתָּ לִּ֔י כִּ֥י אִשְׁתְּךָ֖ הִֽוא: 
+  לָ֚מָּה לֹֽא־הִגַּ֣דְתָּ לִּ֔י כִּ֥י אִשְׁתְּךָ֖ הִֽוא:
   יט לָמָ֤ה אָמַ֨רְתָּ֙
   אֲחֹ֣תִי הִ֔וא וָֽאֶקַּ֥ח אֹתָ֛הּ לִ֖י לְאִשָּׁ֑ה וְעַתָּ֕ה הִנֵּ֥ה
   אִשְׁתְּךָ֖ קַ֥ח וָלֵֽךְ:
   </p>
   <p>
-    18. And Pharaoh summoned Abram, and he said, "What is this that you have done to me? Why did you not tell me that she was your wife? 
+    18. And Pharaoh summoned Abram, and he said, "What is this that you have done to me? Why did you not tell me that she was your wife?
     19. Why did you say, 'She is my sister,' so that I took her to myself for a wife? And now, here is your wife; take [her] and go."
   </p>
 </blockquote>
@@ -215,14 +296,14 @@ n12:13] May it go well with me, for your sake.
 
 <blockquote>
 <p dir="rtl">
-20.  And Pharaoh commanded men on his behalf, and they escorted him and his wife and all that was his.
+כ וַיְצַ֥ו עָלָ֛יו פַּרְעֹ֖ה אֲנָשִׁ֑ים וַיְשַׁלְּח֥וּ אֹת֛וֹ וְאֶת־אִשְׁתּ֖וֹ וְאֶת־כָּל־אֲשֶׁר־לֽוֹ:
 </p>
 <p>
-כ וַיְצַ֥ו עָלָ֛יו פַּרְעֹ֖ה אֲנָשִׁ֑ים וַיְשַׁלְּח֥וּ אֹת֛וֹ וְאֶת־אִשְׁתּ֖וֹ וְאֶת־כָּל־אֲשֶׁר־לֽוֹ:
+20.  And Pharaoh commanded men on his behalf, and they escorted him and his wife and all that was his.
 </p>
 </blockquote>
 
-n12:20] <b>וַיְשַׁלְּח֥וּ</b> &mdash; <i>And they escorted.</i> Pharaoh hastend to rid himself ot he cause of his Divine affliction, but, not wishing to incure G-d's further wrath by mistreating Abraham and Sarah, he sent them away in honour, guaranteeing that no evil would befall them.^[Note: Pharoah caring about G-d? Abraham was obviously a priest/shaman/holy man.]
+n12:20] [וַיְשַׁלְּח֥וּ]{dir="rtl"} &mdash; <i>And they escorted.</i> Pharaoh hastend to rid himself ot he cause of his Divine affliction, but, not wishing to incure G-d's further wrath by mistreating Abraham and Sarah, he sent them away in honour, guaranteeing that no evil would befall them. [**Note**: Pharoah caring about G-d? Abraham was obviously a priest/shaman/holy man.]{.note}
 
 ## Chapter 13 - Abraham & Lot separate
 
@@ -238,7 +319,9 @@ n12:20] <b>וַיְשַׁלְּח֥וּ</b> &mdash; <i>And they escorted.</i> Ph
   </p>
 </blockquote>
 
-n13:1] <b>וַיַּ֩עַל֩ אַבְרָ֨ם</b> &mdash; <i>So Abraham went up.</i> It is true that Abraham _ascended_ because the terrain of _Eretz Yisrael_ is higher than that of Egypt, the _Zohar_ perceives in the verb an addition indication that Abraham _ascended spiritually_ from the "lower degrees" of Egypt. He left a place of spiritual pollution and returned to his former, higher condition. He emerged from Egypt unscathed and undiminished.^[Note: If they came up from Egypt, how come they were going south? South is referred to as the Negev in the Torah. Does not south mean a place, which is south of Israel, but _north_ of Egypt?]
+n13:1] [וַיַּ֩עַל֩ אַבְרָ֨ם]{dir="rtl"} &mdash; <i>So Abraham went up.</i> It is true that Abraham _ascended_ because the terrain of _Eretz Yisrael_ is higher than that of Egypt, the _Zohar_ perceives in the verb an addition indication that Abraham _ascended spiritually_ from the "lower degrees" of Egypt. He left a place of spiritual pollution and returned to his former, higher condition. He emerged from Egypt unscathed and undiminished.
+
+**Note**: If they came up from Egypt, how come they were going south? South is referred to as the Negev in the Torah. Does not south mean a place, which is south of Israel, but _north_ of Egypt?{.note}
 
 ### 13:3-4] Calls in the Name of the Lord
 
@@ -250,16 +333,14 @@ n13:1] <b>וַיַּ֩עַל֩ אַבְרָ֨ם</b> &mdash; <i>So Abraham went u
   שָׁ֛ם אַבְרָ֖ם בְּשֵׁ֥ם יְהֹוָֽה:
 </p>
   <p>
-    3. And he went on his journeys, from the south and until Beth el, until the place where his tent had been previously, between Beth el and between Ai. 
+    3. And he went on his journeys, from the south and until Beth el, until the place where his tent had been previously, between Beth el and between Ai.
     4. To the place of the altar that he had made at first, and Abram called there in the name of the Lord.
   </p>
 </blockquote>
 
-n13:3] <b>לְמַסָּעָ֔יו</b> &mdash; <i>On his journeys</i>One should not change his customary lodgings unless he has suffered harassment and anguish there. Otherwise, he discredits himself [as he will be considered hard to please or direputable], or he will give the impression that his lodgings were unsatisfactory, thus harming his host's reputation.
+n13:3] [לְמַסָּעָ֔יו]{dir="rtl"} &mdash; <i>On his journeys</i>One should not change his customary lodgings unless he has suffered harassment and anguish there. Otherwise, he discredits himself [as he will be considered hard to please or direputable], or he will give the impression that his lodgings were unsatisfactory, thus harming his host's reputation.
 
-<div class="note">
-{Note: They were much wealthier upon their return from Egypt. Abraham was heavy with cattle and silver and gold (v2), Lot was too - with flocks and cattle and tents (v5). They could not dwell together (v6). Their herdsmen start quarrelling (v7), and Abraham asks Lot to part from him (v8). Is that not often the result of affluence? It seems that there was enough pasture for the two of them and their entourage.} 
-</div>
+**Note**: They were much wealthier upon their return from Egypt. Abraham was heavy with cattle and silver and gold (v2), Lot was too - with flocks and cattle and tents (v5). They could not dwell together (v6). Their herdsmen start quarrelling (v7), and Abraham asks Lot to part from him (v8). Is that not often the result of affluence? It seems that there was enough pasture for the two of them and their entourage.{.note}
 
 ### 13:10-13]
 
@@ -274,11 +355,9 @@ n13:3] <b>לְמַסָּעָ֔יו</b> &mdash; <i>On his journeys</i>One should 
 </p>
 </blockquote>
 
-<div class="note">
-<b>Note</b>: The commentators assume this was the Garden of Eden, but how could that be, since we were banished from that Garden? Then Abraham dwells in Canaan, and Lot on the plain (v12), near Sodom - who were evil and sinful (v13). But Canaan is not a mountainous plateau. And it says later (v18), that Abram pitched his tents on the plain of Mamre, near Hebron. _Rashi_ says that they were evil with their bodies, and sinful with their money (_Sanh_. 109a). They were also against the Lord. This _Rashi_ claims that "they recognised their Master and intended to rebel against Him (_Sifra, Bechukothai_ 2). So, they knew G-d too? It is an interesting that in the Torah often a whole tribe or town is called evil. But we know that not everyone is bad, and this sinfulness is mostly because of the rulers of the said tribe or place.
-</div>
+**Note**: The commentators assume this was the Garden of Eden, but how could that be, since we were banished from that Garden? Then Abraham dwells in Canaan, and Lot on the plain (v12), near Sodom - who were evil and sinful (v13). But Canaan is not a mountainous plateau. And it says later (v18), that Abram pitched his tents on the plain of Mamre, near Hebron. _Rashi_ says that they were evil with their bodies, and sinful with their money (_Sanh_. 109a). They were also against the Lord. This _Rashi_ claims that "they recognised their Master and intended to rebel against Him (_Sifra, Bechukothai_ 2). So, they knew G-d too? It is an interesting that in the Torah often a whole tribe or town is called evil. But we know that not everyone is bad, and this sinfulness is mostly because of the rulers of the said tribe or place.{.note}
 
-### 13:11] Lot chooses money over morality.
+### 13:11] Lot chooses money over morality
 
 #### 11] Lot chooses to live near Sodom
 
@@ -291,17 +370,25 @@ n13:3] <b>לְמַסָּעָ֔יו</b> &mdash; <i>On his journeys</i>One should 
 </p>
 </blockquote>
 
-n11] <b>מִקֶּ֑דֶם</b> &mdash; <i>From the east.</i> Since the word קֶּ֑דֶם can also be understood as the ancient one, the Sages comment that by leaving Abraham, Lot separated himself **מקדמונו של עולם** _from [G-d,] the Ancient One of the World, saying: "“I care neither for Abram nor for his God!” (\_Midrash; Rashi_).
+n11] [מִקֶּ֑דֶם]{dir="rtl"} &mdash; <i>From the east.</i>
+
+<figure class='quote'>
+  <p>
+
+    Since the word [קֶּ֑דֶם]{dir="rtl"} can also be understood as the ancient one, the Sages comment that by leaving Abraham, Lot separated himself [מקדמונו של עולם]{dir="rtl"} from [G-d,] the Ancient One of the World, saying: "I care neither for Abram nor for his God!"
+  </p>
+  <figcaption>&mdash;(Midrash; Rashi)</figcaption>
+</figure>
 
 Lot chose the richest part of the country, although it was also the cruelest and most corrupt. Perhaps, he thought, that he could enjoy the Sodomites' wealth without being affected by their evil. As usually happens, he was wrong.
 
 ### 13:״14-18 The repetition of the promise
 
-<div class="note">
-Note: He promises all that he sees (v15) to Abraham and his seed for eternity (v16). He says that his seed will be "like the dust of the earth" (v16). Then (v17), He tells Abraham to walk the length and breadth of the land. How will Abraham be able to do that? It would take many days to walk the land, and how would he determine where it ended? Where was Abraham at the time he was told that all that he sees is his inheritance?
-</div>
+**Note**: He promises all that he sees (v15) to Abraham and his seed for eternity (v16). He says that his seed will be "like the dust of the earth" (v16). Then (v17), He tells Abraham to walk the length and breadth of the land. How will Abraham be able to do that? It would take many days to walk the land, and how would he determine where it ended? Where was Abraham at the time he was told that all that he sees is his inheritance?{.note}
 
-### 13:16] Like the dust of the earth^[Later G-d says that Abraham's future offspring will be as many as "as the stars in the sky"]
+### 13:16] Like the dust of the earth
+
+**Note**: Later G-d says that Abraham's future offspring will be as many as "as the stars in the sky".{note}
 
 <blockquote>
 <p dir="rtl">
@@ -312,7 +399,7 @@ Note: He promises all that he sees (v15) to Abraham and his seed for eternity (v
 </p>
 </blockquote>
 
-#### 13:18]
+#### 13:18
 
 <blockquote>
 <p dir="rtl">
@@ -323,25 +410,26 @@ Note: He promises all that he sees (v15) to Abraham and his seed for eternity (v
 </p>
 </blockquote>
 
-n18] {Abraham builds an altar in gratitude for what G-d has promised him.
-In this case, first G-d speaks to Abraham, then he builds the altar.}
+n18] Abraham builds an altar in gratitude for what G-d has promised him. In this case, first G-d speaks to Abraham, then he builds the altar.
 
-## Chapter 14 - War of the Kings^[Note: The names are fascinating.]
+## Chapter 14 - War of the Kings
+
+**Note**: The names are fascinating.{.note}
 
 v1:
 
-- Amraphel the king of Shinar,
-- Arioch the king of Ellasar,
-- Chedorlaomer the king of Elam, and
-- Tidal the king of Goyim
+- _Amraphel_ the king of Shinar,
+- _Arioch_ the king of Ellasar,
+- _Chedorlaomer_ the king of Elam, and
+- _Tidal_ the king of Goyim
 
 waged war against (v2):
 
-- Bera the king of Sodom
-- Birsha the king of Gomorrah,
-- Shineab the king of Admah, and
-- Shemeber the king of Zeboiim, and
-- the king of Bela, which is Zoar.
+- _Bera_ the king of Sodom
+- _Birsha_ the king of Gomorrah,
+- _Shineab_ the king of Admah, and
+- _Shemeber_ the king of Zeboiim, and
+- the king of Bela, which is _Zoar_.
 
 v3: - joined in the Valley of Siddim
 
@@ -360,8 +448,11 @@ and they smote
 
 - the Amalekites, and
 - the Amorites who dwelt in Hazezon Tamar.
-- v8: Engaged in the Valley of Siddim with Chedorlaomer the king of
-  Elam and Tidal the king of Goyim and - Amraphel the king of Shinar and - Arioch the king of Ellasar.
+- v8: Engaged in the Valley of Siddim with Chedorlaomer the king
+of
+- Elam and Tidal the king of Goyim
+and
+- Amraphel the king of Shinar and - Arioch the king of Ellasar.
 
 13: The fugitive comes, and tells Abraham. Who was living on the
 
@@ -369,32 +460,32 @@ and they smote
 - brother of Eshkol,
 - and brother of Aner
 
-n3-5] Joined
+n3-5] Joined together
 
-n7]
+n13a] The Fugitive is Og.
 
-n13a] Fugitive is Og.
+n13b] [העברי]{dir="rtl"}: Hebrew, from _eber_
 
-n13b] העברי: Hebrew, from _eber_
+### 14-16] Saves Lot
 
-### 14-16] Saves Lot #### 14] trained men (or disciples)
+#### 14] Trained men (or disciples)
 
-n14-16] 318 disciples: Eliezar's name. ילידי: children - like reborn Christians.
+n14-16] 318 disciples: Eliezar's name. [ילידי]{dir="rtl"}: children - like reborn Christians.
 
-{Note: Because The commentators claim that it was Eliezer who rescued Lot. Firstly because "his trained men" is in the singular, and the number mentioned 318 is the numberical value of his (Eliezer's) name. If this is the case, then it is a miracle that }
+**Note**: Because The commentators claim that it was Eliezer who rescued Lot. Firstly because "his trained men" is in the singular, and the number mentioned 318 is the numberical value of his (Eliezer's) name.{.note}
 
 ### 18-20] Melchezidek's blessing
 
 n18-24] Honours
 
-n18] מלכי־צדק
-כהל לאל אליון
+n18] [מלכי־צדק]{dir="rtl"}
+[כהל לאל אליון]{dir="rtl"}
 
-n20] וברוך אל
+n20] [וברוך אל]{dir="rtl"}
 
 ## Chapter 15 - Strange chapter
 
-### 1-9] Words of **HaShem** in a vision (מחזה)
+### 1-9] Words of **HaShem** in a vision ([מחזה]{dir="rtl"})
 
 #### 1] Lord comes to Abraham
 
@@ -409,11 +500,17 @@ n20] וברוך אל
   </p>
 </blockquote>
 
-> Rashi: <b>אחר הדברים האלה</b> &mdash; <i>After these incidents.</i>Wherever the term **אַחַר** is used, it signifies immediately afterwards; **אַחֲרֵי** signifies a long time afterwards (Gen. Rabbah 44:5). After this miracle had been wrought for him, that he slew the kings, he was worried and said, “Perhaps I have received reward for all my righteous deeds.” Therefore, the Omnipresent said to him, “Fear not Abram, I am your Shield” from punishment, that you will not be punished for all those souls that you have slain, and as far as your being worried about receiving reward, your reward is exceedingly great. [from _Aggadath Bereishith_ 16:2; _Tan. Buber_, _Lech Lecha_ 15; _Pirkei d’Rabbi Eliezer_ ch. 27] {Note: When these sections start with the words "the Lord came to..." in a vision, it makes me think of a shamanic journey.}
+<figure class='quote'>
+  <p>
 
-#### 2-3] ִֹֻשׁ8900ְלכשׁ [ רתיית ]
+    [אחר הדברים האלה]{dir="rtl"} &mdash; <i>After these incidents.</i> Wherever the term [אַחַר]{dir="rtl"} is used, it signifies immediately afterwards; [אַחֲרֵי]{dir="rtl"} signifies a long time afterwards (<i>Gen. Rabbah</i> 44:5). After this miracle had been wrought for him, that he slew the kings, he was worried and said, “Perhaps I have received reward for all my righteous deeds.” Therefore, the Omnipresent said to him, “Fear not Abram, I am your Shield” from punishment, that you will not be punished for all those souls that you have slain, and as far as your being worried about receiving reward, your reward is exceedingly great.  
+  </p>
+  <figcaption>&mdash;(from Aggadath Bereishith 16:2; Tan. Buber, Lech Lecha 15; Pirkei d’Rabbi Eliezer ch. 27)</figcaption>
+</figure>
 
-> Childless & Steward
+**Note**: When these sections start with the words "the Lord came to..." in a vision, it makes me think of a shamanic journey.{.note}
+
+#### 2-3] Childless & Steward
 
 <blockquote>
 <p dir="rtl">
@@ -425,18 +522,43 @@ n20] וברוך אל
   </p>
 </blockquote>
 
-{Note: Why compare being childless to his steward? He had no children (Ishmael was not yet born), and seemed to be worried that his steward would receive his inheritance.}
+**Note**: Why compare being childless to his steward? He had no children (Ishmael was not yet born), and seemed to be worried that his steward would receive his inheritance.{.note}
 
-> Rashi: <b>הולך ערירי</b> &mdash; <i>since I am going childless.</i> It appears to me, however, that **עֵר וְעֹנֶה** is derived from the same root as (Song of Songs 5:2): “but my heart is awake (**עֵר**),” whereas **עֲרִירִי** is an expression of destruction, as in (Ps. 137:7): “Raze it, raze it (**עָרוּ עָרוּ**)” and as in (Hab. 3:13): “destroying (**עָרוֹת**) the foundation,” and as in (Jer. 51:58): “shall be completely destroyed (**עַרְעֵר** תִּתְעַרְעַר),” and as in (Zeph. 2:14): “for the cedarwork will be destroyed (**עֵרָה**).”
+<figure class='quote'>
+  <p>
 
-> Rashi: <b>ובן משק ביתי</b> &mdash; <i>and the steward of my household.</i>**וּבֶן מֶשֶׁק בֵּיתִי**, to be interpreted like the Aramaic translation, (**וּבַר פַּרְנָסָה הָדֵין דִי בְּבֵיתִי**): and this sustainer who is in my house). My entire household is sustained by his orders, as (below 41:40): “and by your orders they will be sustained (**יִשַּׁק**).” [**בֶּן** מֶשֶׁק means] “my administrator,” but if I had a son, my son would be appointed over my possessions. > Rashi: <b>דמשק</b> &mdash; <i>Damascus.</i>According to the Targum, he was from Damascus, but according to the _Midrash Aggadah_ (_Gen. Rabbah_ 44:9) [the meaning is] that he pursued the kings until Damascus. And in our Talmud (_Yoma_ 28b), it (the word **דַּמֶּשֶׂק**) is interpreted as a notarikon [acrostic for **דּוֹלֶה** וּמַשְׁקֶה]: he drew and gave to drink from his master’s teachings to others.
+[הולך ערירי]{dir="rtl"} &mdash; <i>since I am going childless.</i> It appears to me, however, that [עֵר וְעֹנֶה]{dir="rtl"} is derived from the same root as (<i>Song of Songs</i> 5:2): “but my heart is awake ([עֵר]{dir="rtl"}),” whereas [עֲרִירִי]{dir="rtl"} is an expression of destruction, as in (Ps. 137:7): “Raze it, raze it ([עָרוּ עָרוּ]{dir="rtl"})” and as in (Hab. 3:13): “destroying ([עָרוֹת]{dir="rtl"}) the foundation,” and as in (Jer. 51:58): “shall be completely destroyed ([עַרְעֵר ,תִּתְעַרְעַר]{dir="rtl"}),” and as in (Zeph. 2:14): “for the cedarwork will be destroyed ([עֵרָה]{dir="rtl"}).”
+  </p>
+  <figcaption>&mdash;(Rashi)</figcaption>
+</figure>
+
+<figure class='quote'>
+  <p>
+
+    [ובן משק ביתי]{dir="rtl"} &mdash; <i>and the steward of my household.</i> [וּבֶן מֶשֶׁק בֵּיתִי]{dir="rtl"}, to be interpreted like the Aramaic translation, ([וּבַר פַּרְנָסָה הָדֵין דִי בְּבֵיתִי]{dir="rtl"}): and this sustainer who is in my house). My entire household is sustained by his orders, as (below 41:40): “and by your orders they will be sustained ([יִשַּׁק]{dir="rtl"}).” [בֶּן מֶשֶׁק]{dir="rtl"} means “my administrator,” but if I had a son, my son would be appointed over my possessions. 
+  </p>
+  <figcaption>&mdash;(Rashi)</figcaption>
+</figure>
+
+<figure class='quote'>
+  <p>
+
+    [דמשק]{dir="rtl"} &mdash; <i>Damascus.</i>According to the Targum, he was from Damascus, but according to the _Midrash Aggadah_ (_Gen. Rabbah_ 44:9) [the meaning is] that he pursued the kings until Damascus. And in our Talmud (_Yoma_ 28b), it (the word [דַּמֶּשֶׂק]{dir="rtl"}) is interpreted as a notarikon [acrostic for [דּוֹלֶה וּמַשְׁקֶה]{dir="rtl"}: he drew and gave to drink from his master’s teachings to others.
+  </p>
+  <figcaption>&mdash;(Rashi)</figcaption>
+</figure>
 
 #### 4]
 
-And behold, the word of the Lord came to him, saying, "This one will not inherit you, but the one who will spring from your innards-he will inherit you.
-
-" דוְהִנֵּ֨ה דְבַר־יְהֹוָ֤ה אֵלָיו֙ לֵאמֹ֔ר
+<blockquote>
+<p dir='rtl'>
+ד וְהִנֵּ֨ה דְבַר־יְהֹוָ֤ה אֵלָיו֙ לֵאמֹ֔ר
 לֹ֥א יִירָֽשְׁךָ֖ זֶ֑ה כִּי־אִם֙ אֲשֶׁ֣ר יֵצֵ֣א מִמֵּעֶ֔יךָ ה֖וּא יִֽירָשֶֽׁךָ:
+</p>
+  <p>
+4. And behold, the word of the Lord came to him, saying, "This one will not inherit you, but the one who will spring from your innards-he will inherit you.
+  </p>
+</blockquote>
 
 #### 5] Count the stars
 
@@ -451,11 +573,17 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
   </p>
 </blockquote>
 
-> Rashi: <b>ויוצא אתו החוצה</b> &mdash; <i>And He took him outside.</i> According to its simple meaning: He took him out of his tent, outdoors, to see the stars. But according to its midrashic interpretation, He said to him, “Go out of your astrology,” for you have seen in the signs of the zodiac that you are not destined to have a son. (_Ned_. 32a, _Gen. Rabbah_ 44:10) Another explanation: He took him out of the terrestrial sphere and lifted him above the stars. This explains the expression of הַבָּטָה, looking down from above (Gen. Rabbah 44:12).
+<figure class='quote'>
+  <p>
 
-> {Note: Here we have another esoteric explanation. God "lifted him above the stars. This would be a reference to a shamanic journey.}
+    [ויוצא אתו החוצה]{dir="rtl"} &mdash; <i>And He took him outside.</i> According to its simple meaning: He took him out of his tent, outdoors, to see the stars. But according to its midrashic interpretation, He said to him, “Go out of your astrology,” for you have seen in the signs of the zodiac that you are not destined to have a son. (<i>Ned</i>. 32a, <i>Gen. Rabbah</i> 44:10) Another explanation: He took him out of the terrestrial sphere and lifted him above the stars. This explains the expression of [הַבָּטָה]{dir="rtl"}, looking down from above (<i>Gen. Rabbah</i> 44:12).
+  </p>
+  <figcaption>&mdash;(Rashi)</figcaption>
+</figure>
 
-> {Note: This is a continuation of His promise to Abraham to have many offspring. In the first case, He compares his offspring to the dust of the earth (v13:16). Now He compares it to the starts in the heavens.
+**Note**: Here we have another esoteric explanation. God "lifted him above the stars. This would be a reference to a shamanic journey.{.note}
+
+**Note**: This is a continuation of His promise to Abraham to have many offspring. In the first case, He compares his offspring to the dust of the earth (v13:16). Now He compares it to the starts in the heavens.{.note}
 
 #### 6] Trusted in G-d
 
@@ -468,13 +596,13 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
   </p>
 </blockquote>
 
-{Note: It does not say that Abraham was righteous, but that "He accounted it to him as righteousness". In other words, his action (or response) here was one of "righteousness". A subtle difference in wording. Only Noah was known as righteous (in his generation).}
+**Note**: It does not say that Abraham was righteous, but that "He accounted it to him as righteousness". In other words, his action (or response) here was one of "righteousness". A subtle difference in wording. Only Noah was known as righteous (in his generation).{.note}
 
 #### 8-9] Ceremony (instructions)
 
 <blockquote>
 <p dir="rtl">
-  ח וַיֹּאמַ֑ר אֲדֹנָ֣י יֱהֹוִ֔ה בַּמָּ֥ה אֵדַ֖ע כִּ֥י אִֽירָשֶֽׁנָּה 
+  ח וַיֹּאמַ֑ר אֲדֹנָ֣י יֱהֹוִ֔ה בַּמָּ֥ה אֵדַ֖ע כִּ֥י אִֽירָשֶֽׁנָּה
    ט
   וַיֹּ֣אמֶר אֵלָ֗יו קְחָ֥ה לִי֙ עֶגְלָ֣ה מְשֻׁלֶּ֔שֶׁת וְעֵ֥ז מְשֻׁלֶּ֖שֶׁת
   וְאַ֣יִל מְשֻׁלָּ֑שׁ וְתֹ֖ר וְגוֹזָֽל:
@@ -484,7 +612,7 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
   </p>
 </blockquote>
 
-{Note: Did this occur in a vision too? Was this part of the vision (journey) that he was experiencing? In journey work, if there is something a person is working on, it might take him more than a single journey to complete the task.}
+**Note**: Did this occur in a vision too? Was this part of the vision (journey) that he was experiencing? In journey work, if there is something a person is working on, it might take him more than a single journey to complete the task.{.note}
 
 ### 10-11] Ceremony
 
@@ -498,7 +626,14 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
   </p>
 </blockquote>
 
-> Rashi: <b>ויבתר אותם</b> &mdash; <i>and he divided them.</i> It is the custom of those who form a covenant to divide an animal and to pass between its parts, as it is written (Jer. 34:19): “who passed between the parts of the calf.” Here too, “a smoking furnace and a fire brand, which passed between the parts,” was the agent of the Shechinah, which is [referred to as] fire. [from _Pirkei d’Rabbi Eliezer_ , ch. 28]
+<figure class='quote'>
+  <p>
+
+    [ויבתר אותם]{dir="rtl"} &mdash; <i>and he divided them.</i> It is the custom of those who form a covenant to divide an animal and to pass between its parts, as it is written (Jer. 34:19): “who passed between the parts of the calf.” Here too, “a smoking furnace and a fire brand, which passed between the parts,” was the agent of the Shechinah, which is [referred to as] fire. (from _Pirkei d’Rabbi Eliezer_ , ch. 28).
+
+  </p>
+  <figcaption>&mdash;(Rashi)</figcaption>
+</figure>
 
 {Note: He carries out the ceremony, according to G-d's instructions. I assume that this was a real ceremony, and that he did not carry it out during his "vision".}
 
@@ -510,9 +645,22 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
   </p>
 </blockquote>
 
-> Rashi: <b>הָעַיִט</b> &mdash; <i>And the birds of prey.</i> This is a bird, and [it is called **עַיִט**] because it swoops down [**עָט**] and seeks the carcasses. Like (Job 9:26): “to swoop upon food,” and like (I Sam. 15:19): “and you flew (**וַתַּעַט**) upon the spoil.”
+<figure class='quote'>
+  <p>
+
+    [הָעַיִט]{dir="rtl"} &mdash; <i>And the birds of prey.</i> This is a bird, and [it is called [עַיִט]{dir="rtl"}] because it swoops down [[עָט]{dir="rtl"}] and seeks the carcasses. Like (Job 9:26): “to swoop upon food,” and like (I Sam. 15:19): “and you flew (**וַתַּעַט**) upon the spoil.”
+  </p>
+  <figcaption>&mdash;(Rashi)</figcaption>
+</figure>
+
+<figure class='quote'>
+  <p>
+
+    [וַיַּשֵּׁב]{dir="rtl"} &mdash; <i>and Abram drove them away.</i> An expression of blowing and causing to fly away, like (Ps. 147:18): “He causes His wind to blow ([יַשֵּׁב]{dir="rtl"}).”
+  </p>
+  <figcaption>&mdash;(Rashi)</figcaption>
+</figure>
 >
-> Rashi: <b>וַיַּשֵּׁב</b> &mdash; <i>and Abram drove them away.</i> An expression of blowing and causing to fly away, like (Ps. 147:18): “He causes His wind to blow (**יַשֵּׁב**).”
 
 ### 12-16 ] Prophecy
 
@@ -528,7 +676,9 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
   </p>
 </blockquote>
 
-12. Now the sun was ready to set, and a deep sleep fell upon Abram, and behold, a fright, a great darkness was falling upon him. {Note: This is often looked at as a metaphor for a journey as well.} #### 13] Strangers in a foreign land
+12. Now the sun was ready to set, and a deep sleep fell upon Abram, and behold, a fright, a great darkness was falling upon him. [**Note**: This is often looked at as a metaphor for a journey as well.]{.note}
+
+#### 13] Strangers in a foreign land
 
 <blockquote>
 <p dir="rtl">
@@ -541,9 +691,17 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
   </p>
 </blockquote>
 
-> Rashi: <b>כי גר יהיה זרעך</b> &mdash; <i>that your seed will be strangers.</i> From the time that Isaac was born until the Israelites left Egypt was four hundred years. How so? Isaac was sixty years old when Jacob was born, and Jacob, when he went down to Egypt, said, “The days of the years of my sojournings are one hundred and thirty years,” which total 190. They were in Egypt 210 years, like the numerical value of **רְדוּ** (see Rashi, below 42:2; **ר** = 200, **ד** = 4, **ו** = 6, totaling 210). Thus, the total is 400 years. Now, if you should say that they were 400 years in Egypt, [this is not so] because Kehath was one of those who descended to Egypt. If you compute the years of Kehath (133) and those of Amram (his son, 137), and the 80 years of Moses, his age when they left Egypt, you will find only 350 [years]. And you must still subtract from them all the years that Kehath lived after the birth of Amram and that Amram lived after the birth of Moses. [from _Seder Olam_ ch. 3]
+<figure class='quote'>
+  <p>
 
-{Note: Perhaps, after coming out of the vision, Abraham remembers it as 400 years.} ### 17] Furnace and fire brand
+    [כי גר יהיה זרעך]{dir="rtl"} &mdash; <i>that your seed will be strangers.</i> From the time that Isaac was born until the Israelites left Egypt was four hundred years. How so? Isaac was sixty years old when Jacob was born, and Jacob, when he went down to Egypt, said, “The days of the years of my sojournings are one hundred and thirty years,” which total 190. They were in Egypt 210 years, like the numerical value of [רְדוּ]{dir="rtl"} (see Rashi, below 42:2; [ר]{dir="rtl"} = 200, [ד]{dir="rtl"} = 4, [ו]{dir="rtl"} = 6, totaling 210). Thus, the total is 400 years. Now, if you should say that they were 400 years in Egypt, [this is not so] because Kehath was one of those who descended to Egypt. If you compute the years of Kehath (133) and those of Amram (his son, 137), and the 80 years of Moses, his age when they left Egypt, you will find only 350 [years]. And you must still subtract from them all the years that Kehath lived after the birth of Amram and that Amram lived after the birth of Moses. [from _Seder Olam_ ch. 3]
+  </p>
+  <figcaption>&mdash;(Rashi)</figcaption>
+</figure>
+
+**Note**: Perhaps, after coming out of the vision, Abraham remembers it as 400 years.{.note}
+
+### 17] Furnace and fire brand
 
 <blockquote>
 <p dir="rtl">
@@ -555,13 +713,17 @@ And behold, the word of the Lord came to him, saying, "This one will not inherit
   </p>
 </blockquote>
 
-n15:17] <b>וַיְהִי הַשֶּׁמֶשׁ בָּאָה</b> &mdash; <i>Now it came to pass that the sun had set.</i> The subject apparently does not
-agree with the predicate, because **שֶׁמֶשׁ** is a feminine noun, whereas
-**וַיְהִי** is a masculine verb. Therefore, Rashi explains as follows: The
-subject of **וַיְהִי** is not **הַשֶּׁמֶשׁ** but **דָבָר זֶה** (i.e., it is as if the masculine noun **דָבָר זֶה** (this event) were inserted after
-**וַיְהִי**.] The same is true in the two instances quoted by Rashi, in which the subject is plural, whereas the predicate is singular. There too, the subject of **וַיְהִי** is **דָבָר זֶה**.
+n15:17] [וַיְהִי הַשֶּׁמֶשׁ בָּאָה]{dir="rtl"} &mdash; <i>
 
-> Rashi: <b>בָּאָה</b> &mdash; <i>had set. </i> Its accent is on the first syllable. Therefore, it is explained that it had already set; but if its accent were at the end, on the “alef,” it would be explained to mean: as it was setting. but it is impossible to say this, for it is already written (above verse 12): “Now the sun was setting,” and the passing of the smoking furnace happened after this. It is found that it had already set. And this difference exists in every word in the feminine gender, whose radical consists of two letters, such as **בא** (to come), **קם** (to arise), **שב** (to return). When the accent is on the first syllable, it is in the past tense, e.g., this case and e.g., (below 29:9): “and Rachel came (**בָּאָה**)”; (below 37:7): “my sheaf arose (**קָמָה**)”; ([Ruth 1:15](https://www.chabad.org/16453#v15)): “Lo! Your sister-in-law has returned (**שָׁבָה**).” However, when the accent is on the final syllable, it is in the present tense, denoting a thing that is happening now and is continuing to happen, like (below 29:6): “She is coming **בָּאָה** with the flocks”; ([Esther 2:14](https://www.chabad.org/16475#v14)): “In the evening she would come (**בָּאָה**), and in the morning she would return (**שָׁבָה**).”
+Now it came to pass that the sun had set.</i> The subject apparently does not agree with the predicate, because [שֶׁמֶשׁ]{dir="rtl"} is a feminine noun, whereas [וַיְהִי]{dir="rtl"} is a masculine verb. Therefore, Rashi explains as follows: The subject of [וַיְהִי]{dir="rtl"} is not [הַשֶּׁמֶשׁ]{dir="rtl"} but [דָבָר זֶה]{dir="rtl"} (i.e., it is as if the masculine noun [דָבָר זֶה]{dir="rtl"} (this event) were inserted after [וַיְהִי]{dir="rtl"}.] The same is true in the two instances quoted by Rashi, in which the subject is plural, whereas the predicate is singular. There too, the subject of [וַיְהִי]{dir="rtl"} is [דָבָר זֶה]{dir="rtl"}.
+
+<figure class='quote'>
+  <p>
+
+    [בָּאָה]{dir="rtl"} &mdash; <i>had set. </i> Its accent is on the first syllable. Therefore, it is explained that it had already set; but if its accent were at the end, on the “alef,” it would be explained to mean: as it was setting. but it is impossible to say this, for it is already written (above verse 12): “Now the sun was setting,” and the passing of the smoking furnace happened after this. It is found that it had already set. And this difference exists in every word in the feminine gender, whose radical consists of two letters, such as [בא]{dir="rtl"} (to come), [קם]{dir="rtl"} (to arise), [שב]{dir="rtl"} (to return). When the accent is on the first syllable, it is in the past tense, e.g., this case and e.g., (below 29:9): “and Rachel came ([בָּאָה]{dir="rtl"})”; (below 37:7): “my sheaf arose ([קָמָה]{dir="rtl"})”; ([Ruth 1:15](https://www.chabad.org/16453#v15)): “Lo! Your sister-in-law has returned ([שָׁבָה]{dir="rtl"}).” However, when the accent is on the final syllable, it is in the present tense, denoting a thing that is happening now and is continuing to happen, like (below 29:6): “She is coming [בָּאָה]{dir="rtl"} with the flocks”; ([Esther 2:14](https://www.chabad.org/16475#v14)): “In the evening she would come ([בָּאָה]{dir="rtl"}), and in the morning she would return ([שָׁבָה]{dir="rtl"}).”
+  </p>
+  <figcaption>&mdash;(Rashi)</figcaption>
+</figure>
 
 ### 18] Covenant (land)
 
@@ -595,13 +757,13 @@ Tribes that occupied the land
 ב וַתֹּ֨אמֶר שָׂרַ֜י אֶל־אַבְרָ֗ם הִנֵּה־נָ֞א עֲצָרַ֤נִי יְהֹוָה֙ מִלֶּ֔דֶת בֹּא־נָא֙ אֶל־שִׁפְחָתִ֔י אוּלַ֥י אִבָּנֶ֖ה מִמֶּ֑נָּה וַיִּשְׁמַ֥ע אַבְרָ֖ם לְק֥וֹל שָׂרָֽי:
 </p>
 <p>
-2. And Sarai said to Abram, "Behold now, the Lord has restrained me from bearing; please come to my handmaid; perhaps I will be built up from her." And Abram hearkened to Sarai's voice. 
+2. And Sarai said to Abram, "Behold now, the Lord has restrained me from bearing; please come to my handmaid; perhaps I will be built up from her." And Abram hearkened to Sarai's voice.
 </p>
 </blockquote>
 
 {Note: "Abraham hearkened to Sarah's voice...". Just like Adam, who hearkened to Eve's voice. Rashi says that he listened to the Divine Spirit within her (_Gen. Rabbah_ 45:2). So, if that is the case, then so did Adam regarding Eve. Which makes an alternative reading of the story of Adam and Eve more probable.}
 
-### 3] As a wife.
+### 3] As a wife
 
 - sends Hagar to Abraham
 - Hagar concieves
@@ -611,7 +773,7 @@ Tribes that occupied the land
 
 <blockquote>
 <p dir="rtl">
- 	ג וַתִּקַּ֞ח שָׂרַ֣י אֵֽשֶׁת־אַבְרָ֗ם אֶת־הָגָ֤ר הַמִּצְרִית֙ שִׁפְחָתָ֔הּ מִקֵּץ֙ עֶ֣שֶׂר שָׁנִ֔ים לְשֶׁ֥בֶת אַבְרָ֖ם בְּאֶ֣רֶץ כְּנָ֑עַן וַתִּתֵּ֥ן אֹתָ֛הּ לְאַבְרָ֥ם אִישָׁ֖הּ ל֥וֹ לְאִשָּֽׁה:
+  ג וַתִּקַּ֞ח שָׂרַ֣י אֵֽשֶׁת־אַבְרָ֗ם אֶת־הָגָ֤ר הַמִּצְרִית֙ שִׁפְחָתָ֔הּ מִקֵּץ֙ עֶ֣שֶׂר שָׁנִ֔ים לְשֶׁ֥בֶת אַבְרָ֖ם בְּאֶ֣רֶץ כְּנָ֑עַן וַתִּתֵּ֥ן אֹתָ֛הּ לְאַבְרָ֥ם אִישָׁ֖הּ ל֥וֹ לְאִשָּֽׁה:
 </p>
 <p>
 3. So Sarai, Abram's wife, took Hagar the Egyptian, her handmaid, at the end of ten years of Abram's dwelling in the land of Canaan, and she gave her to Abram her husband for a wife.
@@ -628,7 +790,7 @@ Tribes that occupied the land
 
 #### 10] You will be fruitful
 
-#### 11] Ishmael will be born to you.
+#### 11] Ishmael will be born to you
 
 #### 13] G-d of vision
 
@@ -663,10 +825,10 @@ Tribes that occupied the land
 
 - How can an 89 year old woman have a child?
 
-### 18] Said to G-d: Ishmael... ל֥וּ יִשְׁמָעֵ֖אל יִֽחְיֶ֥ה לְפָנֶֽיךָ:
+### 18] Said to G-d: Ishmael... ל֥וּ יִשְׁמָעֵ֖אל יִֽחְיֶ֥ה לְפָנֶֽיךָ
 
 ### 19-21] Blessing or offspring
 
-### 22] G-d ascended: וַיַּ֣עַל אֱלֹהִ֔ים מֵעַ֖ל אַבְרָהָֽם:
+### 22] G-d ascended: וַיַּ֣עַל אֱלֹהִ֔ים מֵעַ֖ל אַבְרָהָֽם
 
-### 23-26] Circumcised everyone!
+### 23-26] Circumcised everyone

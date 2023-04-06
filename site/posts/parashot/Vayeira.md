@@ -1,45 +1,45 @@
 ---
-title: Vayera  פרַשׁת וַיֵּרָ֤א
+title: Vayeira  פרַשׁת וַיֵּרָ֤א
 description: 'Genesis 18:1-22:24'
 tags: null
-date: 2022-11-12T01:33:06.076Z
+date: 2022-11-12T00:33:06.076Z
 ---
 
 1. [Chapter 18](#chapter-18)
-   1. [18 &#58;1 <b>HaShem</b> appeared to him](#18-1-bhashemb-appeared-to-him)
+   1. [18 :1 HaShem appeared to him](#18-1-hashem-appeared-to-him)
       1. [Appeared](#appeared)
       2. [Prophetic Vision](#prophetic-vision)
       3. [Entrance](#entrance)
       4. [The tent](#the-tent)
-   2. [18 &#58;2 Three men](#18-2-three-men)
+   2. [18 :2 Three men](#18-2-three-men)
       1. [The lifting of his eyes](#the-lifting-of-his-eyes)
       2. [Three men](#three-men)
       3. [He ran](#he-ran)
-   3. [n18 &#58;3 Do not pass](#n18-3-do-not-pass)
-   4. [n18&#58;6 Sarah](#n186-sarah)
+   3. [n18 :3 Do not pass](#n18-3-do-not-pass)
+   4. [n18:6 Sarah](#n186-sarah)
       1. [Food](#food)
       2. [Stand over them](#stand-over-them)
       3. [Eat](#eat)
-   5. [18&#58;9 Call to Sarah](#189-call-to-sarah)
-   6. [18&#58;10 She stands behind](#1810-she-stands-behind)
-   7. [18&#58;11 Old](#1811-old)
-   8. [18&#58;12 Sara laughs](#1812-sara-laughs)
-   9. [18&#58;16 Rose](#1816-rose)
-   10. [18&#58;17 Conceal](#1817-conceal)
-   11. [18&#58;21 S'dom's cry](#1821-sdoms-cry)
-   12. [18&#58;22 Leave](#1822-leave)
-   13. [18&#58;23-32 Negotiations](#1823-32-negotiations)
+   5. [18:9 Call to Sarah](#189-call-to-sarah)
+   6. [18:10 She stands behind](#1810-she-stands-behind)
+   7. [18:11 Old](#1811-old)
+   8. [18:12 Sara laughs](#1812-sara-laughs)
+   9. [18:16 Rose](#1816-rose)
+   10. [18:17 Conceal](#1817-conceal)
+   11. [18:21 S'dom's cry](#1821-sdoms-cry)
+   12. [18:22 Leave](#1822-leave)
+   13. [18:23-32 Negotiations](#1823-32-negotiations)
 2. [Chapter 19](#chapter-19)
-   1. [19&#58;1 At the entrance](#191-at-the-entrance)
-   2. [19&#58;2 Stay](#192-stay)
-   3. [19&#58;3 Feast](#193-feast)
-   4. [19&#58;4 People arrive](#194-people-arrive)
-   5. [19&#58;5 Know](#195-know)
-   6. [19&#58;6-8 The Mob](#196-8-the-mob)
-   7. [19&#58;9 Sojourner](#199-sojourner)
+   1. [19:1 At the entrance](#191-at-the-entrance)
+   2. [19:2 Stay](#192-stay)
+   3. [19:3 Feast](#193-feast)
+   4. [19:4 People arrive](#194-people-arrive)
+   5. [19:5 Know](#195-know)
+   6. [19:6-8 The Mob](#196-8-the-mob)
+   7. [19:9 Sojourner](#199-sojourner)
    8. [19:10 Hand](#1910-hand)
    9. [19:11](#1911)
-   10. [19&#58;12-14 Leave now](#1912-14-leave-now)
+   10. [19:12-14 Leave now](#1912-14-leave-now)
    11. [19:15 Dawn rose](#1915-dawn-rose)
 3. [Addendum](#addendum)
 4. [Appendix I](#appendix-i)
@@ -89,15 +89,15 @@ However, that is not what really fascinates me regarding this week's reading. Bu
 
 #### Appeared
 
-Approaching it from the English rendering, in which the _Parasha_ begins with the nameless aspect of G!d, **HaShem**, the one we refer to as the Name, because It has no name, being beyond the realm of naming. Part of creation’s emergence was the need for Adam to name everything.
+Approaching it from the English rendering, in which the _Parasha_ begins with the nameless aspect of G!d, __HaShem__, the one we refer to as the Name, because It has no name, being beyond the realm of naming. Part of creation’s emergence was the need for Adam to name everything.
 
-**HaShem** then is beyond this realm being the source of creation, the “One” that exists before creation. Now, this could alert us to the fact that this portion is starting in the presence of the Divine, _“For_ **HaShem** _appeared to him”_, thus he must be in sacred space. We could say that he was visited by the Divine.
+__HaShem__ then is beyond this realm being the source of creation, the “One” that exists before creation. Now, this could alert us to the fact that this portion is starting in the presence of the Divine, _“For_ __HaShem__ _appeared to him”_, thus he must be in sacred space. We could say that he was visited by the Divine.
 
 <div class="note">
-Note: My claim is that whenever the words: “<b>HaShem</b> appeared to him”, or “<b>HaShem</b> spoke to him”, or, to a lesser extent, "He heard the voice of <b>HaShem</b>", it signifies a transition to sacred space, however that was achieved. And there are certain protocols which will enable one to enter sacred space. We want to believe that this happens in our regular, day-to-day reality. However, the form that the formless might take to "appear" to us is a mystery. This is the omnipresent G-d. He IS everywhere and everything. For He "lowers Himself" so that He might appear in a form that we will recognise and comprehend, but it is I that needs to open my mind to receiving Him. . Today, if someone claimed that G-d spoke to him, or that G-d appeared to him, we would classify him as insane. 
+Note: My claim is that whenever the words: “<b>HaShem</b> appeared to him”, or “<b>HaShem</b> spoke to him”, or, to a lesser extent, "He heard the voice of <b>HaShem</b>", it signifies a transition to sacred space, however that was achieved. And there are certain protocols which will enable one to enter sacred space. We want to believe that this happens in our regular, day-to-day reality. However, the form that the formless might take to "appear" to us is a mystery. This is the omnipresent G-d. He IS everywhere and everything. For He "lowers Himself" so that He might appear in a form that we will recognise and comprehend, but it is I that needs to open my mind to receiving Him. . Today, if someone claimed that G-d spoke to him, or that G-d appeared to him, we would classify him as insane.
 </div>
 
-However, in the Hebrew, the first word is not **HaShem**, but is **וירא** &ndash; _Vayerah_. It can be rendered as _“It_ (**HaShem**) _will be seen”_, a form of looking that is the looking into the future and hence _“appeared”_ because of the biblical future tense being rendered as the past.
+However, in the Hebrew, the first word is not __HaShem__, but is __וירא__ &ndash; _Vayerah_. It can be rendered as _“It_ (__HaShem__) _will be seen”_, a form of looking that is the looking into the future and hence _“appeared”_ because of the biblical future tense being rendered as the past.
 
 <div class="note">
 Note: In English, if something appears, it must be seen. If one sees something, then it has appeared. Have you never lost your keys, or your spectacles, and looked for it all over, again and again, for it suddenly to appear? "There! I see it!"
@@ -105,19 +105,19 @@ Note: In English, if something appears, it must be seen. If one sees something, 
 Note: There is a strange situation here. The word <b>ירא</b> actually means fear or terror, Why is it translated as "appearance"? If that was the case, would it not be spelt <b>יראה</b> This is the only phrase in which the word ַappears.
 </div>
 
-I find this straddling, this con-fusion of the past and the future, fascinating. It generally occurs in reference to the Divine though. It is as if She acts in the future, that is, exists as the future, yet we can only see her in the present as pregnant with future possibilities. <span class="note">Note: Is that not what a child means to us. It creates a present that is "pregnant" with future possibilities?</span> The “past” is what has been actualised, been made manifest. But **HaShem** remains the only possible, potential action.
+I find this straddling, this con-fusion of the past and the future, fascinating. It generally occurs in reference to the Divine though. It is as if She acts in the future, that is, exists as the future, yet we can only see her in the present as pregnant with future possibilities. <span class="note">Note: Is that not what a child means to us. It creates a present that is "pregnant" with future possibilities?</span> The “past” is what has been actualised, been made manifest. But __HaShem__ remains the only possible, potential action.
 
 <div class="note">
 Note: It is also interesting, and mentioned nowhere, that <b>יֵּרָ֤א</b> is defective, and should be <b>יִרְאֶה</b>, as in<b> ראשׁית חוכמה יראת ה’ ־</b> &ndash; 'The first wisdom is the _fear_ of G-d.&ndash; there is a deficient <b>ה</b> (<i>hey</i>) in the word we translate as appearance. What is interesting here is that <b>יִירָא</b> means terror, or fear. Except it is written with two '<b>'</b>'s (<i>yod</i>'s). it could also be seen as "the terror (awe, respect, fear) of G-d came upon him.
 </div>
 
-The use of **אֵלָיו֙** ("to him") is also much more personal than the word **לו** ("to him) according to _Rashi_ (_Studies_, pp 78,79 ).
+The use of __אֵלָיו֙__ ("to him") is also much more personal than the word __לו__ ("to him) according to _Rashi_ (_Studies_, pp 78,79 ).
 
-In the Hebrew, **HaShem** is not the second word **אֵלָיו֙**, "to him", either. It is the third. Thus it intimates that first there needs to be the act of seeing, which requires also looking. In order for It to appear, he must have been looking for it. Thus "(It) appears TO(wards) him." Only then is It found, i.e. he sees It. This requires a stillness, an ability to hear, to receive.
+In the Hebrew, __HaShem__ is not the second word __אֵלָיו֙__, "to him", either. It is the third. Thus it intimates that first there needs to be the act of seeing, which requires also looking. In order for It to appear, he must have been looking for it. Thus "(It) appears TO(wards) him." Only then is It found, i.e. he sees It. This requires a stillness, an ability to hear, to receive.
 
-According to Rabbenu Chananel, this appearance was a reward for observing the _bris milah_ that Abraham had just performed. R' Samson Raphael Hirsch says that "there is, of course, no place where **HaShem** is not, but when a person offers himself unconditionally to **HaShem**, he is worthy of seeing/encountering the _Shechinah_. The _Shechinah_ did not come to issue any commands (that is really not her task) but to honour them by her appearance, and as a sign that their deeds had found favour in **HaShem's** eyes.
+According to Rabbenu Chananel, this appearance was a reward for observing the _bris milah_ that Abraham had just performed. R' Samson Raphael Hirsch says that "there is, of course, no place where __HaShem__ is not, but when a person offers himself unconditionally to __HaShem__, he is worthy of seeing/encountering the _Shechinah_. The _Shechinah_ did not come to issue any commands (that is really not her task) but to honour them by her appearance, and as a sign that their deeds had found favour in __HaShem's__ eyes.
 
-_Meleches Macheves_ concludes that every appearance of prophecy, even when it comes through an angel, is referred to as "the appearance of **HaShem**". _Rashbam_ writes that all the events in this _parashah_ were not physical manifestations, but only prophetic visions. The vision begins with the words, "And **HaShem** appeared". Afterwards we have the details of the words of the angels and all the events which followed, including the overturning of S'dom and the saving of lot, and all are part of the same vision (_Studies_, p80). There are different types of expression regarding prophetic visions, and our _parashah_ has one of them. As to the description of Sarah baking and Avraham going to get cattle, they are also part of the prophetic vision, for such visions often reflect reality. Indeed, Abarbanel claims that "To state that seeing something in a prophetic vision is greater than actually seeing it is not something one is forbidden to hear."
+_Meleches Macheves_ concludes that every appearance of prophecy, even when it comes through an angel, is referred to as "the appearance of __HaShem__". _Rashbam_ writes that all the events in this _parashah_ were not physical manifestations, but only prophetic visions. The vision begins with the words, "And __HaShem__ appeared". Afterwards we have the details of the words of the angels and all the events which followed, including the overturning of S'dom and the saving of lot, and all are part of the same vision (_Studies_, p80). There are different types of expression regarding prophetic visions, and our _parashah_ has one of them. As to the description of Sarah baking and Avraham going to get cattle, they are also part of the prophetic vision, for such visions often reflect reality. Indeed, Abarbanel claims that "To state that seeing something in a prophetic vision is greater than actually seeing it is not something one is forbidden to hear."
 
 #### Prophetic Vision
 
@@ -131,11 +131,11 @@ Perhaps it is representative of the beginning of a shamanic journey, or, in mode
 
 Every journey will begin “at the entrance” (like "at the beginning"). The various types of journeying will differ according to the method, or road, one takes to get to "the entrance". The path you take to the entrance will also affect the results and experiences of the journey itself.
 
-You might think that this is a radical approach to take, but there is much that has been written around the meaning of the phrase "**HaShem** appeared". (See Y. Nachshoni, "_Studies in the Weekly Parash_")
+You might think that this is a radical approach to take, but there is much that has been written around the meaning of the phrase "__HaShem__ appeared". (See Y. Nachshoni, "_Studies in the Weekly Parash_")
 
 #### The tent
 
-So in the "heat of the day" – **פתוֹם היום** &ndash; _pitom ha’yom_ &ndash; "He lifts his eyes" &ndash; **וישׁא עיניו וַיַרְא** &ndash;_ve’yeseh einav va’yaar_&ndash; while sitting at the entrance to _the_ tent. This is another clue, for why is it referred to as _the_ tent? Why is Abraham not sitting at the entrance to _his_ tent? There may be a reference to what later became to be called “the tent of meeting” &ndash; **אֹ֣הֶל מוֹעֵ֑ד** &ndash; _Ohel Mo-ed_
+So in the "heat of the day" – __פתוֹם היום__ &ndash; _pitom ha’yom_ &ndash; "He lifts his eyes" &ndash; __וישׁא עיניו וַיַרְא__ &ndash;_ve’yeseh einav va’yaar_&ndash; while sitting at the entrance to _the_ tent. This is another clue, for why is it referred to as _the_ tent? Why is Abraham not sitting at the entrance to _his_ tent? There may be a reference to what later became to be called “the tent of meeting” &ndash; __אֹ֣הֶל מוֹעֵ֑ד__ &ndash; _Ohel Mo-ed_
 
 ### 18 &#58;2 Three men
 
@@ -154,11 +154,11 @@ The lifting of his eyes is also perchance a code phrase for something occurring,
 
 A lot of Jewish literature, especially of the more esoteric nature, focuses on these journeys of ascent, in full realisation of their spiritually uplifting nature. Journeys in which you are encouraged to strive for the highest you can reach. That is the greatness of many of these stories and their continued fascination for us all.
 
-One last point, the word use for “lift” here is **נשׂא** which also means to arise, heighten, to carry from one place to another. So the subtlety of “carrying your eyes from one place to another” implies lifting them from this place, the shifting of vision from this reality to another, by which, you ... "will see" &ndash; **וירא**.
+One last point, the word use for “lift” here is __נשׂא__ which also means to arise, heighten, to carry from one place to another. So the subtlety of “carrying your eyes from one place to another” implies lifting them from this place, the shifting of vision from this reality to another, by which, you ... "will see" &ndash; __וירא__.
 
 The moment I _see_, things start happening. We could think of “seeing” as conscious looking, for until you become conscious of what you are looking at, you cannot see anything! Otherwise what you see, is not what you are looking at, but some patchwork approximation in your imagination.
 
-A moment here, please. In the beginning there was light. But unless there are beings who could see light, of what use, purpose or significance is the light? Remember, the Parashah starts with the words “and he saw - it will be seen” translated as “appearance”, as if he had nothing to do with this visitation. But he “saw”, first the presence of **HaShem**, and now the three men/angels.
+A moment here, please. In the beginning there was light. But unless there are beings who could see light, of what use, purpose or significance is the light? Remember, the Parashah starts with the words “and he saw - it will be seen” translated as “appearance”, as if he had nothing to do with this visitation. But he “saw”, first the presence of __HaShem__, and now the three men/angels.
 
 #### Three men
 
@@ -166,7 +166,7 @@ What is interesting is that three men appear to Abraham. Why three, where one wo
 
 #### He ran
 
-What comes next is lovely. “Behold!” thunders forth. First the act of seeing, then the act of “be-holding” &ndash; **היני** &ndash; "behold", the moment is here. It has arrived and is producing the here and now and you are commanded to behold, be present! Again, what we are looking at needs to be-held in order to have any meaning, otherwise, it comes and goes, merely flitting through our consciousness.
+What comes next is lovely. “Behold!” thunders forth. First the act of seeing, then the act of “be-holding” &ndash; __היני__ &ndash; "behold", the moment is here. It has arrived and is producing the here and now and you are commanded to behold, be present! Again, what we are looking at needs to be-held in order to have any meaning, otherwise, it comes and goes, merely flitting through our consciousness.
 
 Now there “appear” three men, standing over him &ndash; נִצָּבִים עָלָיו. Yet he subsequently rises and ran to greet them. How can the two be reconciled? Again, we have _vayirah_ – he saw, he perceived (here again the future is the past). What did he perceive exactly that caused him, sitting in pain after his recent circumcision, to rush out and tend to these people? Nowhere does it take into consideration his pain. For why would he be the one to run towards these men? Surely someone else would have? Was he the only who saw them?
 
@@ -183,9 +183,9 @@ Perhaps it was taking place in another context, not quite this 3d one. He was in
   </p>
 </blockquote>
 
-He approaches these men in the most regal fashion, bowing down to them, referring to them as “my lord”, and begs them to stay with the poetic phrase: “Please pass not away from your servant” &ndash; **אַל–נָא תַעֲבֹר מֵעַל עַבְדֶּךָ**. How come he refers to them as “my lord”? Surely he should have used the plural. How much of an expression of the many manifest as one, was he dealing with here?
+He approaches these men in the most regal fashion, bowing down to them, referring to them as “my lord”, and begs them to stay with the poetic phrase: “Please pass not away from your servant” &ndash; __אַל–נָא תַעֲבֹר מֵעַל עַבְדֶּךָ__. How come he refers to them as “my lord”? Surely he should have used the plural. How much of an expression of the many manifest as one, was he dealing with here?
 
-I propose that we are engaging with another realm again. For this is the arrival of the manifest aspect of the Divine. The non-incarnate is represented by **HaShem** while the angels are the incarnate. They represent the function of the Divine purpose manifesting here &ndash; and perhaps in the whole of creation.
+I propose that we are engaging with another realm again. For this is the arrival of the manifest aspect of the Divine. The non-incarnate is represented by __HaShem__ while the angels are the incarnate. They represent the function of the Divine purpose manifesting here &ndash; and perhaps in the whole of creation.
 
 It is almost like we have entered the Abrahamic realm again. It exists as a strange admixture of the physical and the non-physical, where the people and the angelic realm are intertwined. They existed in such symbiosis that they are more closely connected to this realm, and the “group” slipped in and out together.
 
@@ -200,7 +200,7 @@ In essence, whatever life was for these people, whether this is an imaginary tal
 ו וַיְמַהֵ֧ר אַבְרָהָ֛ם הָאֹ֖הֱלָה אֶל־שָׂרָ֑ה וַיֹּ֗אמֶר מַֽהֲרִ֞י שְׁל֤שׁ סְאִים֙ קֶ֣מַח סֹ֔לֶת ל֖וּשִׁי וַֽעֲשִׂ֥י עֻגֽוֹת:
 </p>
 <p>
-6. And Abraham hastened to the tent to Sarah, and he said, "Hasten three _seah_ of meal [and] fine flour; knead and make cakes." 
+6. And Abraham hastened to the tent to Sarah, and he said, "Hasten three _seah_ of meal [and] fine flour; knead and make cakes."
 </p>
 </blockquote>
 
@@ -217,13 +217,13 @@ There is an interesting note here on diet. The diet is meat, and milk and cream 
 ח וַיִּקַּ֨ח חֶמְאָ֜ה וְחָלָ֗ב וּבֶן־הַבָּקָר֙ אֲשֶׁ֣ר עָשָׂ֔ה וַיִּתֵּ֖ן לִפְנֵיהֶ֑ם וְהֽוּא־עֹמֵ֧ד עֲלֵיהֶ֛ם תַּ֥חַת הָעֵ֖ץ וַיֹּאכֵֽלוּ:
 </p>
 <p>
-8. And he took cream and milk and the calf that he had prepared, and he placed [them] before them, and he was standing over them under the tree, and they ate. 
+8. And he took cream and milk and the calf that he had prepared, and he placed [them] before them, and he was standing over them under the tree, and they ate.
 </p>
 </blockquote>
 
 #### Eat
 
-Why does Abraham stand over them while they are eating? Does it have any connection with the men standing over him when he first saw themn? The verb used for the angels standing is _nitzav_ &ndash; **ניצב**, which implies some sort of structure. Whereas in Abraham’s case, the more common **עומד** (_omed_) is used. Surely a good host would sit and eat with his guests and not “stand over” them?
+Why does Abraham stand over them while they are eating? Does it have any connection with the men standing over him when he first saw themn? The verb used for the angels standing is _nitzav_ &ndash; __ניצב__, which implies some sort of structure. Whereas in Abraham’s case, the more common __עומד__ (_omed_) is used. Surely a good host would sit and eat with his guests and not “stand over” them?
 
 The men must have sojourned there a little while, for at least half a day, as Abraham had enough time to slaughter a calf and prepare its meat.Unless, of course, it was happening in a non-spatial/temporal realm.
 
@@ -253,9 +253,9 @@ Here is an interesting twist to this tale. Perhaps the three men came for Sarah.
 
 She stands at its entrance but behind "it", listening to the conversation. What is the it that she stands behind? Is it her husband? Is it G-d (or the angels), or the tent itself?
 
-When she laughs scornfully at the news that she will conceive, it is **HaShem** that is upset by her reaction, her lack of faith – not one of the angels. He rebukes her, addressing Abraham. It was as if He, **HaShem**, was there all the time. One could take a more sophisticated look at the landscape we are referring to here. **HaShem** enters, then sends down the angels.
+When she laughs scornfully at the news that she will conceive, it is __HaShem__ that is upset by her reaction, her lack of faith – not one of the angels. He rebukes her, addressing Abraham. It was as if He, __HaShem__, was there all the time. One could take a more sophisticated look at the landscape we are referring to here. __HaShem__ enters, then sends down the angels.
 
-However, it seems that he has been there the whole time. For it does not say that he appeared again. This is why I think that this tale is unfolding in the two worlds simultaneously. The divine, sacred world of **HaShem**, and the denser world of this reality. In the same way the future is rendered as the past in the readings.
+However, it seems that he has been there the whole time. For it does not say that he appeared again. This is why I think that this tale is unfolding in the two worlds simultaneously. The divine, sacred world of __HaShem__, and the denser world of this reality. In the same way the future is rendered as the past in the readings.
 
 ### 18&#58;11 Old
 
@@ -270,7 +270,7 @@ However, it seems that he has been there the whole time. For it does not say tha
 
 Referring to the Note 11, on p80 in the _Chumash_ which refers to the statement that they are "well on in years", and Sarah "ceased the way of the women.
 
-> The Zohar comments that each day in a person’s life carries with it its own challenge and mission. What is to be accomplished today cannot be postponed till tomorrow, because tomorrow has its own set of things to do. In the normal course of events, people go through life with their “spiritual calendars” marred by countless days and hours that were wasted or, even worse, misused. But the greatest people, like Abraham and Sarah, come through life with all their days intact, all of them utilised properly and purposefully. This is the significance of the expression **בָאִים בִַּיָמים**.
+> The Zohar comments that each day in a person’s life carries with it its own challenge and mission. What is to be accomplished today cannot be postponed till tomorrow, because tomorrow has its own set of things to do. In the normal course of events, people go through life with their “spiritual calendars” marred by countless days and hours that were wasted or, even worse, misused. But the greatest people, like Abraham and Sarah, come through life with all their days intact, all of them utilised properly and purposefully. This is the significance of the expression __בָאִים בִַּיָמים__.
 
 Literally, "they came with days": They reached their old age with a rich harvest of days that truly mattered.
 
@@ -288,7 +288,7 @@ Note: This is an idealisation. As Abraham travelled from place to place. When do
 12.And Sarah laughed within herself, saying, "After I have become worn out, will I have smooth flesh? And also, my master is old." </p>
 </blockquote>
 
-Remember, it was **HaShem** who became angry at Sarah! And in “_Beholders of Divine Secrets_” by Vita Daphne Arbel it says “The central truth is the ability of G!d to assume a form and let it be seen by man” a quote from J. Barr, _“Theosopy and Anthropomorphism in the Old Testament”_, p32. Elliot Wolfson has written a whole book on the topic called "The Speculum that Shines" in which he discusses the phenomology inherent in the the "image" of G-d.
+Remember, it was __HaShem__ who became angry at Sarah! And in “_Beholders of Divine Secrets_” by Vita Daphne Arbel it says “The central truth is the ability of G!d to assume a form and let it be seen by man” a quote from J. Barr, _“Theosopy and Anthropomorphism in the Old Testament”_, p32. Elliot Wolfson has written a whole book on the topic called "The Speculum that Shines" in which he discusses the phenomology inherent in the the "image" of G-d.
 
 ### 18&#58;16 Rose
 
@@ -305,18 +305,18 @@ After delivering their message, they get up and “gaze towards Sodom” and Abr
 
 ### 18&#58;17 Conceal
 
-Now they are ready to go, having delivered the message. Abraham will escort them, and while he is doing that, **HaShem** is talking to Himself, debating whether to tell Abraham that He is going to destroy Sodom and Gomorrah.
+Now they are ready to go, having delivered the message. Abraham will escort them, and while he is doing that, __HaShem__ is talking to Himself, debating whether to tell Abraham that He is going to destroy Sodom and Gomorrah.
 
 <blockquote>
 <p dir="rtl">
 יזוַֽיהֹוָ֖ה אָמָ֑ר הַֽמֲכַסֶּ֤ה אֲנִי֙ מֵֽאַבְרָהָ֔ם אֲשֶׁ֖ר אֲנִ֥י עֹשֶֽׂה:
 </p>
 <p>
-17.And the Lord said, "Shall I conceal from Abraham what I am doing? 
+17.And the Lord said, "Shall I conceal from Abraham what I am doing?
 </p>
 </blockquote>
 
-Why would **HaShem** feel obligated to share this information with Abraham? How does it affect their relationship? There is a note which says that He did not want anyone to talk badly about the way He handled the scene, in relation to Abraham. Why does He care? Why is it so important to have this balance? Was it because of the covenant with Abraham? Basically it said, if you obey My will, you will inherit this land. So, it is indicative of a very close relationship with the two, of how important Abraham was to **HaShem**.
+Why would __HaShem__ feel obligated to share this information with Abraham? How does it affect their relationship? There is a note which says that He did not want anyone to talk badly about the way He handled the scene, in relation to Abraham. Why does He care? Why is it so important to have this balance? Was it because of the covenant with Abraham? Basically it said, if you obey My will, you will inherit this land. So, it is indicative of a very close relationship with the two, of how important Abraham was to __HaShem__.
 
 ### 18&#58;21 S'dom's cry
 
@@ -330,7 +330,7 @@ Why would **HaShem** feel obligated to share this information with Abraham? How 
 
 Changing the meaning slightly, one could render this as: "I will descend now and see according to her cry which has come to Me; [They will] make (be) [like] a bride; and if not, I will know."
 
-**עָשׂוּ כָּלָה** thus becomes an interesting phrase, meaning _"to make like a bride,"_ and "_if not I will know_", says the Lord. I mention this, because the people of Sodom, all the men, want to “know” the strangers. In the biblical sense this is used sexually, that is true. But, there is also **לשׁכב** which is to “sleep” with someone. And to know someone, is more than to have sex with them.
+__עָשׂוּ כָּלָה__ thus becomes an interesting phrase, meaning _"to make like a bride,"_ and "_if not I will know_", says the Lord. I mention this, because the people of Sodom, all the men, want to “know” the strangers. In the biblical sense this is used sexually, that is true. But, there is also __לשׁכב__ which is to “sleep” with someone. And to know someone, is more than to have sex with them.
 
 ### 18&#58;22 Leave
 
@@ -343,10 +343,8 @@ Changing the meaning slightly, one could render this as: "I will descend now and
 </p>
 </blockquote>
 
-The men/angels then continue to Sodom, while Abraham remains behind with **HaShem** to negotiate the fate of Sodom and Gomorrah. Which further speaks of **HaShem**’s continued presence during this whole incidence.
-It says later that "two arrive in S'dom" while Abraham stands before **HaShem**&mdash;whereas 3 men arrived at Abraham’s. This introduces the idea once again, that one of the 3 was **HaShem**!
-
-
+The men/angels then continue to Sodom, while Abraham remains behind with __HaShem__ to negotiate the fate of Sodom and Gomorrah. Which further speaks of __HaShem__’s continued presence during this whole incidence.
+It says later that "two arrive in S'dom" while Abraham stands before __HaShem__&mdash;whereas 3 men arrived at Abraham’s. This introduces the idea once again, that one of the 3 was __HaShem__!
 
 This is the second time that it says that men went to Sodom, the first time Abraham escorted them, this time he stayed behind with the Lord.
 
@@ -361,9 +359,9 @@ This is the second time that it says that men went to Sodom, the first time Abra
 </p>
 </blockquote>
 
-They (Abraham and **HaShem**) conclude their negotiations having reached an agreement that if there are 10 good people in Sodom, G!d will not destroy it.
+They (Abraham and __HaShem__) conclude their negotiations having reached an agreement that if there are 10 good people in Sodom, G!d will not destroy it.
 
-From that we could extrapolate that what one needs to keep a town alive is just ten good men. Also that Abraham has some pull regarding **Ha’Shem**. I pray that we would all have such a gift. The men of G!d arrive at Sodom at nightfall, and by morning, they are ready to destroy the cities. This does not give Abraham much time to find his ten good men. Or was **Ha’Shem** going to send an angel to scan the city? Did He not already know the tally? This negotiation is not mentioned again. So, what was its real purpose? What was the meaning of righteous in this context? It is often said that the issue that Sodom and the cities suffered that caused their destruction was sexual impurity. The other was that their renowned inhospitality was also a sin in G!d’s eyes. Which included not caring for the sick and the weak.
+From that we could extrapolate that what one needs to keep a town alive is just ten good men. Also that Abraham has some pull regarding __Ha’Shem__. I pray that we would all have such a gift. The men of G!d arrive at Sodom at nightfall, and by morning, they are ready to destroy the cities. This does not give Abraham much time to find his ten good men. Or was __Ha’Shem__ going to send an angel to scan the city? Did He not already know the tally? This negotiation is not mentioned again. So, what was its real purpose? What was the meaning of righteous in this context? It is often said that the issue that Sodom and the cities suffered that caused their destruction was sexual impurity. The other was that their renowned inhospitality was also a sin in G!d’s eyes. Which included not caring for the sick and the weak.
 
 Perhaps the next events, hectic as they are, chased out any more thoughts of the ten righteous.
 
@@ -399,7 +397,7 @@ Note that it is said that Abraham was still recovering from having circumcised h
 </p>
 </blockquote>
 
-Lot invites them to stay at his place. Where they will "wash their feet” &ndash; **וְרַֽחֲצ֣וּ רַגְלֵיכֶ֔ם**. Remember that is what Abraham said to his visitors too. What is the significance of the washing of the feet? Is it just a form of greeting, of hospitality from those times? They respond that they will not stay with Lot, but will stay **ברחוב** &ndash; at the “broad“ (from **רחב**) place or “street” in modern Hebrew. Why do they say that? Are they just being polite? What is their reticence?
+Lot invites them to stay at his place. Where they will "wash their feet” &ndash; __וְרַֽחֲצ֣וּ רַגְלֵיכֶ֔ם__. Remember that is what Abraham said to his visitors too. What is the significance of the washing of the feet? Is it just a form of greeting, of hospitality from those times? They respond that they will not stay with Lot, but will stay __ברחוב__ &ndash; at the “broad“ (from __רחב__) place or “street” in modern Hebrew. Why do they say that? Are they just being polite? What is their reticence?
 
 ### 19&#58;3 Feast
 
@@ -412,7 +410,7 @@ Lot invites them to stay at his place. Where they will "wash their feet” &ndas
 </p>
 </blockquote>
 
-Lot insists they stay with him.Yet he does not bake them cakes (as did Abraham). Instead he offers them **מִשְׁתֶּה** (_mishte_) which could be drink or feast, and _matzoh_ – the unleavened bread, the bread of travellers.
+Lot insists they stay with him.Yet he does not bake them cakes (as did Abraham). Instead he offers them __מִשְׁתֶּה__ (_mishte_) which could be drink or feast, and _matzoh_ – the unleavened bread, the bread of travellers.
 
 The accepted line of reasoning here is that it was _Pesach_ time and thus Lot ate _matzoh_. This does not make sense for a number of reasons. Firstly, why was Abraham not eating _matzoh_ at that time then? Perhaps, you could respond, that _Pesach_ began only that night. But then would Abraham not have insisted that his guests stay with him for the Passover Seder for a man of his hospitability to have guests at his Seder table would indeed have been a great honour? Secondly the Jews had not yet left Egypt. That was only to happen many hundreds of years later.
 
@@ -462,7 +460,7 @@ I want to go out on a limb here and speak of the Angelic nature of the two men v
 
 <blockquote>
 <p dir="rtl">
- וְ חַטָּאתָם--כִּי כָבְדָה, מְאֹד 
+ וְ חַטָּאתָם--כִּי כָבְדָה, מְאֹד
 </p>
 <p>
 Verily, their sin is exceeding grievous
@@ -486,7 +484,7 @@ Verily, their sin is exceeding grievous
 
 Upon them gathering in front of his house, and demanding to know the visitors, he wants to protect these men of G!d, and so Lot steps outside and closes the door behind him, then pleads with the men, offering his two virgin daughters instead. Now this is something that is also difficult to accept. There are a number of ways to look at this offering.
 
-It could speak of Lot’s amorality in him offering his daughters to the mob. However, he is being virtuous on one hand in his sincere desire to protect these men of G!d, albeit to the detriment of his daughters. It could also point to the lack of value attributed to women in those days, as just possessions of the men. As is also perhaps represented in the previous verse, when they first speak of **וְאַנְשֵׁי** הָעִיר ֬ &ndash; _the people of the city_, and then say **מִנַּעַר וְעַד זָקֵן** &ndash; _from the youth to the elder_” (both masculine).
+It could speak of Lot’s amorality in him offering his daughters to the mob. However, he is being virtuous on one hand in his sincere desire to protect these men of G!d, albeit to the detriment of his daughters. It could also point to the lack of value attributed to women in those days, as just possessions of the men. As is also perhaps represented in the previous verse, when they first speak of __וְאַנְשֵׁי__ הָעִיר ֬ &ndash; _the people of the city_, and then say __מִנַּעַר וְעַד זָקֵן__ &ndash; _from the youth to the elder_” (both masculine).
 
 Also, he offers his virgin daughters here, but he himself ends up having sex with them in the cave to which they flee, after they offer themselves to him.
 
@@ -501,11 +499,11 @@ There is perhaps another expression of this. It is: "These men are under my prot
 ט וַיֹּֽאמְר֣וּ | גֶּשׁ־הָ֗לְאָה וַיֹּֽאמְרוּ֙ הָֽאֶחָ֤ד בָּֽא־לָגוּר֙ וַיִּשְׁפֹּ֣ט שָׁפ֔וֹט עַתָּ֕ה נָרַ֥ע לְךָ֖ מֵהֶ֑ם וַיִּפְצְר֨וּ בָאִ֤ישׁ בְּלוֹט֙ מְאֹ֔ד וַיִּגְּשׁ֖וּ לִשְׁבֹּ֥ר הַדָּֽלֶת:
 </p>
 <p>
-9. But they said, "Back away." And they said, "This one came to sojourn, and he is judging! Now, we will deal even worse with you than with them."And they pressed hard upon the man Lot, and they drew near to break the door." 
+9. But they said, "Back away." And they said, "This one came to sojourn, and he is judging! Now, we will deal even worse with you than with them."And they pressed hard upon the man Lot, and they drew near to break the door."
 </p>
 </blockquote>
 
-**הָאֶחָד בָּא-לָגוּר וַיִּשְׁפֹּט שָׁפוֹט**&mdash;_This one fellow came in to sojourn, and he will needs play the judge?_ The response of the mob is "how can you, merely a sojourner in our land, judge us", providing further credence to this idea, because by his offering of his daughters to keep the men safe, it sounds to them like a judgement of their behaviour, and angers them even more. Here again they break the code of hospitality, and say that in response **נָרַ עלְךָ מֵהֶם** &ndash; “We will deal even more harshly with you”. This of course, is the rallying call of all xenophobia. “You, who are the sojourner, cannot judge me nor my actions”.
+__הָאֶחָד בָּא-לָגוּר וַיִּשְׁפֹּט שָׁפוֹט__&mdash;_This one fellow came in to sojourn, and he will needs play the judge?_ The response of the mob is "how can you, merely a sojourner in our land, judge us", providing further credence to this idea, because by his offering of his daughters to keep the men safe, it sounds to them like a judgement of their behaviour, and angers them even more. Here again they break the code of hospitality, and say that in response __נָרַ עלְךָ מֵהֶם__ &ndash; “We will deal even more harshly with you”. This of course, is the rallying call of all xenophobia. “You, who are the sojourner, cannot judge me nor my actions”.
 
 ### 19:10 Hand
 
@@ -520,7 +518,7 @@ There is perhaps another expression of this. It is: "These men are under my prot
 
 <b>וַיִּשְׁלְחוּ הָאֲנָשִׁים אֶת-יָדָם</b> &mdash;<i>And the men put forth their hand.</i>
 
-Note: Although it is generally translated as hands, **ידיים** (_yadai'im_), in this case it is spelt, **ִיָדָם**, (_yadam_) which is closer to "their hand".{.note}
+Note: Although it is generally translated as hands, __ידיים__ (_yadai'im_), in this case it is spelt, __ִיָדָם__, (_yadam_) which is closer to "their hand".{.note}
 
 They press "sorely" against Lot, ready to break down his door, then something strange and magical occurs. The men (of G!d) stretch out their hand – note the singular – the men (plural) put out their hand (singular). Perhaps this is referring to a collective action. But it also is reminiscent Abraham addressing the men in the singular, as “My Lord”. Or perhaps it was that there was one amongst the three who was the Lord, blessed by His name, and the other two were angels.
 
@@ -533,7 +531,7 @@ They bring Lot inside and close the door. Now there is no mention of them openin
 יא וְאֶת־הָֽאֲנָשִׁ֞ים אֲשֶׁר־פֶּ֣תַח הַבַּ֗יִת הִכּוּ֙ בַּסַּנְוֵרִ֔ים מִקָּטֹ֖ן וְעַד־גָּד֑וֹל וַיִּלְא֖וּ לִמְצֹ֥א הַפָּֽתַח:
 </p>
 <p>
-11. And the men who were at the entrance of the house they struck with blindness, both small and great, and they toiled in vain to find the entrance. 
+11. And the men who were at the entrance of the house they struck with blindness, both small and great, and they toiled in vain to find the entrance.
 </p>
 </blockquote>
 
@@ -568,7 +566,7 @@ The angels urge Lot to leave – yet he lingers. It is like someone comes along 
 
 <blockquote>
 <p dir="rtl">
-וַיְהִי כִמְצַחֵק בְּעֵינֵי חֲתָנָיו 
+וַיְהִי כִמְצַחֵק בְּעֵינֵי חֲתָנָיו
 </p>
 <p>
 “He seemed to his son-in-laws as one who was in jest.” (19&#58;14)
@@ -588,11 +586,11 @@ Which meant that his betrothed daughters could not leave with him, as was the cu
 </p>
 </blockquote>
 
-So, at dawn, they take him, his wife and his two daughters **בְּחֶמְלַת יְהוָה עָלָיו** &ndash; “_in the Lord’s mercy_” out of the city. They tell them: הִמָּלֵטעַל נַפְשֶׁךָ &ndash; "_Flee for your life_" or rather “_Save your soul_”...
+So, at dawn, they take him, his wife and his two daughters __בְּחֶמְלַת יְהוָה עָלָיו__ &ndash; “_in the Lord’s mercy_” out of the city. They tell them: הִמָּלֵטעַל נַפְשֶׁךָ &ndash; "_Flee for your life_" or rather “_Save your soul_”...
 
 <blockquote>
 <p dir="rtl">
- אַל-תַּבִּיט אַחֲרֶיךָ, וְאַל-תַּעֲמֹד בְּכָל-הַכִּכָּר:  הָהָרָה הִמָּלֵט 
+ אַל-תַּבִּיט אַחֲרֶיךָ, וְאַל-תַּעֲמֹד בְּכָל-הַכִּכָּר:  הָהָרָה הִמָּלֵט
 </p>
 <p>
 Do not look behind you, do not tarry on the plains, escape to the mountains.
@@ -604,29 +602,29 @@ is he addressing here? Then he says something strange:
 
 <blockquote>
 <p dir="rtl">
- אוּכַל לְהִמָּלֵט הָהָרָה--פֶּן-תִּדְבָּקַנִי הָרָעָה, וָמַתִּי 
+ אוּכַל לְהִמָּלֵט הָהָרָה--פֶּן-תִּדְבָּקַנִי הָרָעָה, וָמַתִּי
 </p>
 <p>
 "I cannot escape to the mountain, lest the evil overtake me, and I die."
 </p>
 </blockquote>
 
-What evil is he referring to? And how can it overtake him if he has fled (or is fleeing) to the mountain? So instead he asks to take refuge in the small city that is close by **וּתְחִי** נַפְשִׁי &ndash; "_and my soul shall live_” It is interesting again that it is not “I shall live”, or “you shall live”, but that it is his soul, his **נֶפֶש** that shall live.
+What evil is he referring to? And how can it overtake him if he has fled (or is fleeing) to the mountain? So instead he asks to take refuge in the small city that is close by __וּתְחִי__ נַפְשִׁי &ndash; "_and my soul shall live_” It is interesting again that it is not “I shall live”, or “you shall live”, but that it is his soul, his __נֶפֶש__ that shall live.
 
-And He agrees. who is he addressing? Can the angels make such a decision, or does it require **HaShem**’s agreement? It seems that Lot might also have access to **HaShem**. Which is interesting as he is not looked at in a very positive light by the Jewish tradition, though in both the Muslim and Christian, he is revered as a prophet. They have a point, for would one not revere the brother of Abraham to whom **HaShem** also appeared, who was saved from the destruction wrought on Sodom and Gomorrah, who also negotiated with G!d, and was responded to?
+And He agrees. who is he addressing? Can the angels make such a decision, or does it require __HaShem__’s agreement? It seems that Lot might also have access to __HaShem__. Which is interesting as he is not looked at in a very positive light by the Jewish tradition, though in both the Muslim and Christian, he is revered as a prophet. They have a point, for would one not revere the brother of Abraham to whom __HaShem__ also appeared, who was saved from the destruction wrought on Sodom and Gomorrah, who also negotiated with G!d, and was responded to?
 
 Anyways, the response is “Hurry...”
 
 <blockquote>
 <p dir="rtl">
- כִּי לֹא אוּכַל לַעֲשׂוֹת דָּבָר, עַד-בֹּאֲךָ שָׁמָּה 
+ כִּי לֹא אוּכַל לַעֲשׂוֹת דָּבָר, עַד-בֹּאֲךָ שָׁמָּה
 </p>
 <p>
 For I cannot do anything till you get there
 </p>
 </blockquote>
 
-Again attesting to the importance of Lot in this particular saga. Let us spend a moment on why that is – not that I can necessarily answer that question. But it is a question in my mind. What is so important about Lot that **HaShem** has to wait till he is safe before he can rain terrible destruction upon these evil cities?
+Again attesting to the importance of Lot in this particular saga. Let us spend a moment on why that is – not that I can necessarily answer that question. But it is a question in my mind. What is so important about Lot that __HaShem__ has to wait till he is safe before he can rain terrible destruction upon these evil cities?
 
 Just note that everyone is taken as evil in these cases – even the young ones, the children too. How can children be tainted? In what fashion are they tainted? Do they carry the sins of their fathers? Is it that they will become evil because they are the pawn of those that behave abominably?
 
@@ -634,7 +632,7 @@ Meanwhile,
 
 <blockquote>
 <p dir="rtl">
-הַשֶּׁמֶשׁ, יָצָא עַל-הָאָרֶץ 
+הַשֶּׁמֶשׁ, יָצָא עַל-הָאָרֶץ
 </p>
 <p>
 The sun had risen upon the earth
@@ -665,7 +663,7 @@ Abraham rises the next morning and sees the destruction, and we are reminded tha
 
 <blockquote>
 <p dir="rtl">
- כִּי יָרֵא, לָשֶׁבֶת בְּצוֹעַר 
+ כִּי יָרֵא, לָשֶׁבֶת בְּצוֹעַר
 </p>
 <p>
 for he feared to dwell in Zoar
@@ -676,7 +674,7 @@ Even Zoar was not safe for Lot, forcing him to leave (or does he “flee”) int
 
 <blockquote>
 <p dir="rtl">
-וְאִישׁ אֵין בָּאָרֶץ לָבוֹא עָלֵינוּ, כְּדֶרֶךְ כָּל-הָאָרֶץ 
+וְאִישׁ אֵין בָּאָרֶץ לָבוֹא עָלֵינוּ, כְּדֶרֶךְ כָּל-הָאָרֶץ
 </p>
 <p>
 there is not a man in the earth to come in unto us after the manner of all the earth
@@ -716,13 +714,13 @@ In the [Midrash]("https://en.wikipedia.org/wiki/Midrash"), Lot's wife is given t
 
 (From _Studies_, p83 - 91)
 
-There is no specific statement in the Torah as to the sin of the people of S'dom. They were merely very wicked and sinned greatly and that a cry had come up from S'dom to the Heavens, until **HaShem**, as it were came down by Himself to see if indeed they had done "as its cry". But what the cry was, is not specified.
+There is no specific statement in the Torah as to the sin of the people of S'dom. They were merely very wicked and sinned greatly and that a cry had come up from S'dom to the Heavens, until __HaShem__, as it were came down by Himself to see if indeed they had done "as its cry". But what the cry was, is not specified.
 
 #### An Anti-Moral Regime (p89)
 
 It is important to differentiate between a person who is "a sinner" and between institutionalised cruelty and wickedness. In the case of a sinner, his lust gets the better of him, but his mind is sound. In the case of a wicked person, though, both his mind and his lusts are polluted. A wicked person will never repent, but a sinner, once his lust has passed, will return to his former ways. A wicked person carries out his deeds in secret, and that is the reason he is more dangerous, but a sinner does not act secretely. If a wall has been breached, one can repair it, but in the case of a wicked peson there is simply no wall there to repair.
 
-That was the sin of S'dom and Amorah. Not only did they not have a moral wall restraining them, but they had erected a wall of brambles &mdash; of "laws" which were unust. They were not like the sinner in other places, where at least the laws were just, but the sinners had violated thme. The people of S'dom acted wickedly in accordance with thal w on the books, the law upon which their entire regime was based. The people of S'dom transformed their justice into mockery, and justified theft as being ethical. The reason that **HaShem** doomed them was because they had turned wickedness into the law of the land and cruelty into justice.
+That was the sin of S'dom and Amorah. Not only did they not have a moral wall restraining them, but they had erected a wall of brambles &mdash; of "laws" which were unust. They were not like the sinner in other places, where at least the laws were just, but the sinners had violated thme. The people of S'dom acted wickedly in accordance with thal w on the books, the law upon which their entire regime was based. The people of S'dom transformed their justice into mockery, and justified theft as being ethical. The reason that __HaShem__ doomed them was because they had turned wickedness into the law of the land and cruelty into justice.
 
 #### A Pillar of Salt
 
@@ -738,7 +736,7 @@ The average conduct is certainly not the golden mean. It is a numerical average 
 
 ### The Fear of God prevents Sin (p92)
 
-There are not, nor can there be, human morals without faith in **HaShem** and fear of heaven (_yhirat shamayim_). A "synthetic" type of humanly devised moral code cannot prvent the comitting of th worst possible sins when one's personal egotism demandts it.
+There are not, nor can there be, human morals without faith in __HaShem__ and fear of heaven (_yhirat shamayim_). A "synthetic" type of humanly devised moral code cannot prvent the comitting of th worst possible sins when one's personal egotism demandts it.
 
 ... In a place where there is no _yirat shamayim_, moral codes and upright behaviour are valueless. In such places people can commit the worst crimes, including idolatry, sexual offenses and bloodshed.
 
@@ -774,9 +772,6 @@ Rauwolff [^e] relates something of the same kind by information, but not on his 
 
 ---
 
-[^x]: Pirke Eliezer, c. 25.
-[^y]: Baal Hatturim in loc
-[^z]: Nat. Hist. l. 31. c.
 [^a]: Antiqu. l. 1. c. 11. sect. 4.
 [^b]: Adv. Haeres. l. 4. c. 51.
 [^c]: In Carmine Sodoma.

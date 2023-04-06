@@ -3,21 +3,40 @@ title: Terumah פראשׁת תרוּמה
 description: Exodus 25:1-27:19
 tags:
   - todo
-date: 2021-02-02T04:16:14.428Z
+date: 2023-02-25T00:16:14.428Z
 ---
 
-[משׁכן]{dir="rtl"}, generally translated as the Tabernacle, means a dwelling place. It is meant to be a resting place for G-d's Presence amongst us. Where and how could we manifest such a space today?
+## Introduction
 
-Actually, the idea that such a place could exist is revolutionary in its own right. Most of the pagan beliefs contained a place (like, in heaven) where the G-d's resided. Upon occasion they would decide to descend and mess with humans, but they had no dwelling place here on earth, especially not the "king of the gods"
+### Mishkan
+
+[משׁכן]{dir="rtl"} &mdash; _Mishkan_, generally translated as the Tabernacle, means a dwelling place. It is meant to be a resting place for G-d's Presence amongst us. Where and how could we manifest such a space today?
+
+Actually, the idea that such a place could exist is revolutionary in its own right. Most of the pagan beliefs contained a place (like, in heaven) where the G-d's resided. Upon occasion they would decide to descend and mess with humans, but they had no dwelling place here on earth, especially not the "king of the gods".
+
+The statute to build the [משׁכן]{dir="rtl"} (_Mishkan_) speaks to the principle that we must first manifest something in our reality, make an effort of some sort, before G-d will respond.
+
+### Golden Calf
+
+The overriding impression I receive from the _Parasha_ is that G-d needed Moses to be away from the people long enough for the sin of the Golden Calf to occur.
+
+In a similar vein, G-d "strengthened/hardened" Pharaoh's heart so that the people may experience G-d's Mighty Hand.
+
+Something else to note, is although the Sin of the Golden Calf almost caused the destruction of the people of the Exodus, it was the sin of the spies that resulted in that generation not being allowed to enter the Holy Land, even though, at face value, it seems that the former sin was the more egregrious.
+
+<p style="text-align: center"> *&nbsp;*&nbsp;*&nbsp;*&nbsp;* </p>
+
+While Moses was receiving the instructions for the building of the _Mishkan_, His people were building their own version of the "dwelling place" of G-d in the only way they knew. Even if it was meant to be a statue to Moses (then why a calf?), it was still an attempt to maintain a connection with **HaShem**, because through Moses we had a relationship, however rocky, with **HaShem**, that had freed us from bondage, and sustained us to this point.
 
 <details>
 <summary class='button is-outlined'>
 Straight lines of the Temple &nbsp;<i class='fa fa-solid fa-caret-down'></i>
 </summary>
 <p>
-**NOTE**: On the design of the temple, I must point out that it is made up of mostly straight lines...
+On the design of the temple, I must point out that it is made up of mostly straight lines...
 </p>
 </details>
+
 ## Chapter 25
 
 v2] _Terumah_ - Uplifting
@@ -102,18 +121,17 @@ v22] **Meetings** here
   </p>
 </blockquote>
 
-**NOTE**: This is in stark contrast to the modern day. Now we have Neil Walsh's <cite>"Conversations with God"</cite>, where it is a conversation between him and G-d, whereas here it is the place where G-d will, through Moses, let the people of Israel know what his commandments are.{.note}
+**Note**: This is in stark contrast to the modern day. Now we have Neil Walsh's <cite>"Conversations with God"</cite>, where it is a conversation between him and G-d, whereas here it is the place where G-d will, through Moses, let the people of Israel know what his commandments are.{.note}
 
-**NOTE**: What do they cherubim really look like? In fact, what are they really?{.note}
+**Note**: What do they cherubim really look like? In fact, what are they really?{.note}
 
-**NOTE**: If the cherubs are angels, is not one of the commandments just given to us by G-d for us not to make such representations, especially not in the Holy Temple?
+**Note**: If the cherubs are angels, is not one of the commandments just given to us by G-d for us not to make such representations, especially not in the Holy Temple?{.note}
 
 v23-40] Form of the **vessels**
 
 v23-30] [שׁולחן]{dir="rtl"} (_shulchan_) - Table
 
-This was the workbench/altar with sacred objects on it, different from the altar where the sacrifices took place. The first is a "static" altar, a place in time, whereas the second is moving/dynamic/functional altar, where sacrifices occur
--
+**Note**: This was the workbench/altar with sacred objects on it, different from the altar where the sacrifices took place. The first is a "static" altar, a place in time, whereas the second is moving/dynamic/functional altar, where sacrifices occur.{.note}
 
 v30] Showbread
 
@@ -133,13 +151,13 @@ n30] **showbread**: Heb. [לֶחֶם פָּנִים]{dir="rtl"}, lit., bread of 
 Showbread &nbsp;<i class='fa fa-solid fa-caret-down'></i>
 </summary>
 <p>
-NOTE: I was wondering about the name showbread, thinking that it was just for show, and could not be eaten. However, bread of faces, might be even more interesting. Especially, since I am not satisfied with Rashi's explanation that it was know by this appelation because of the two "walls" that were baked on either side.
+I was wondering about the name showbread, thinking that it was just for show, and could not be eaten. However, bread of faces, might be even more interesting. Especially, since I am not satisfied with Rashi's explanation that it was know by this appelation because of the two "walls" that were baked on either side.
 </p>
 </details>
 
 <figure class='quote'>
   <p>
-     The bread was made in the shape of a type of box without a cover. It had a flat bottom (Men. 94b) and it would be bent upward on both sides [forming something] similar to walls. Therefore, it is called [לֶחֶם הַפָּנִים]{dir="rtl"}, literally, the bread of faces, because it has faces looking in both directions-toward the sides of the house (<em>Mishkan</em>) from here [in one direction] and from there [in the other direction]. A golden form and an iron form were made for it. It was baked [on Fridays] in the iron form, and when it was taken out of the oven, it would be placed in the golden form until the next day, which was the Sabbath, when it would be arranged on the table. That form is called <span dir="rtl">קְעָרָה</span>
+     The bread was made in the shape of a type of box without a cover. It had a flat bottom (Men. 94b) and it would be bent upward on both sides [forming something] similar to walls. Therefore, it is called [לֶחֶם הַפָּנִים]{dir="rtl"}, literally, the bread of faces, because it has faces looking in both directions-toward the sides of the house (<em>Mishkan</em>) from here [in one direction] and from there [in the other direction]. A golden form and an iron form were made for it. It was baked [on Fridays] in the iron form, and when it was taken out of the oven, it would be placed in the golden form until the next day, which was the Sabbath, when it would be arranged on the table. That form is called [קְעָרָה]{dir="rtl"}
   </p>
   <figcaption>&mdash;(Rashi)</figcaption>
 </figure>
@@ -148,7 +166,7 @@ v31-40] [מנורה]{dir="rtl"} (_menora_) - Candelabra
 
 It calls to the upper light to illuminate the darkness for us.
   
-**NOTE**: Enlighten me if I am wrong, but the Menorah is associated with Hanukkah in the popular mind.
+**Note**: Enlighten me if I am wrong, but the Menorah is associated with Hanukkah in the popular mind.
 
 ## Chapter 26
 
@@ -209,7 +227,7 @@ Even as late as the time of Solomon, whether G-d dwelt amongst us or not was dep
 <p></p>
 Sometimes we must be called upon to ring clearly, and make our views known, like a bell. But other times, silence must reign. We must hold back the thoughts that could be potentially hurtful or unhelpful. There is tremendous power in silence.
 <p></p>
-From the tension of speaking and silence, emerges action. [<b>NOTE</b>: From the tension of sound and silence comes music.]{.note}
+From the tension of speaking and silence, emerges action. From the tension of sound and silence comes music.
 <p></p>
 This triad of speaking, silence and action is a methodology that we must each employ when advocating for change. For righting wrongs, and bringing justice to our world. When we try to better our world, and continue God’s creative work, we must know when to speak out. We must know when not to talk, to remain silent, and control the anger, and frustration within us. And then, we must know when to act. To turn the sounds and silences into action.
 <p></p>

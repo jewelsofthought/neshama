@@ -3,8 +3,7 @@ title: Mishpatim פראשׁת מישׁפטים
 description: Exodus 21:1-24:18
 tags:
   - todo
-date: 2021-02-02T08:09:57.912Z
-modified: 2022-02-14T10:35:54.288Z
+date: 2023-02-18T00:09:57.912Z
 ---
 
 ## Chapter 21
@@ -18,18 +17,19 @@ modified: 2022-02-14T10:35:54.288Z
 
 1. spread: In a lawless land any law is better than none. Even if roughly hewn, it would be of benefit. And now?
 2. All these ordinances are heavily based on witness testimony - which only works in a Community of Truth.
-  [{**Note**: The virtualisation of the world removes human witnesses. We believe that the evidence from a picture or video is more accurate than witness testimony - but the same standard of truth is required. What if the video/photo is faked?}]{.note}
+
+**Note**: The virtualisation of the world removes human witnesses. We believe that the evidence from a picture or video is more accurate than witness testimony - but the same standard of truth is required. What if the video/photo is faked?}{.note}
 
 n28-32] The property or injury needs to adhere to market value for final restitution.
 
 n25] Different forms of injury
-**נזק** - loss of value
-**צער** - pain
-**רפוי** - medical cost
-**שֶׁבֶת** - loss of income
-**בושׁת** - humiliation (Deut. 25:11)
+[נזק]{dir="rtl"} - loss of value
+[צער]{dir="rtl"} - pain
+[רפוי]{dir="rtl"} - medical cost
+[שֶׁבֶת]{dir="rtl"} - loss of income
+[בושׁת]{dir="rtl"} - humiliation (Deut. 25:11)
 
-**ואלה המשׁפתים אשׁר תשׂים לפניהם** - to whom is He speaking?
+[ואלה המשׁפתים אשׁר תשׂים לפניהם]{dir="rtl"} - to whom is He speaking?
 
 23:15] 3 festivals: appear before א
 
@@ -41,22 +41,22 @@ n25] Different forms of injury
 
 ## Chapter 24
 
-To Moses: Aaron, Nadab, Abihu + 70 elders ascended to G-d: **עלה אל־יהוה**
+To Moses: Aaron, Nadab, Abihu + 70 elders ascended to G-d: [עלה אל־יהוה]{dir="rtl"}
 
 Moses spoke to people:
-**כל הדטרים אשׁר דבר יהוה נעשׂה**
+[כל הדטרים אשׁר דבר יהוה נעשׂה]{dir="rtl"}
 
 - Moses wrote words of Hashem, then read "Book of Covenant" to the people containing all these ordinances.
 
-This is where we say:  **נעשׁה ונשׁמע**
+This is where we say:  [נעשׁה ונשׁמע]{dir="rtl"}
 
 - 4 + elders saw God(s) of Israel
 - Sapphire brick work, and the essence of heaven
 
-<p dir="rtl">כמעשׁה לבנת הספיר כעצם השׁמיים לטהר</p>
+[כמעשׁה לבנת הספיר כעצם השׁמיים לטהר]{dir="rtl"}
 
-did not stretch His hand against the elders : לא שׁלח ידו
-gazed at G-d "cannot look at My face", yet ate and drank (assumedly in His company): <bdo dir="rtl">אצילי בני ישׂראל</bdo>
+did not stretch His hand against the elders : [לא שׁלח ידו]{dir="rtl"}
+gazed at G-d "cannot look at My face", yet ate and drank (assumedly in His company): [אצילי בני ישׂראל]{dir="rtl"}
 
 ---
 
@@ -73,7 +73,7 @@ v7-11] Bondswomen
 This section describes the rights of a bondswoman.
 
 v13-14] Strike
-This is about the punishment for a man who strikes another man and he dies. [{**Note**: Does it not also pertain to the striking a woman and she dies?}]{.note}
+This is about the punishment for a man who strikes another man and he dies. [**Note**: Does it not also pertain to the striking a woman and she dies?]{.note}
 If it is unintentional, there will be cities to which he can flee. If it is intentional, then "from my altar, take him to die".
 
 v] Kidnap
@@ -123,7 +123,7 @@ If money or vessels are left in someone's care, and it is stolen. Whoever is fou
 
 v9] Animal
 If someone's animals are being looked after, if the animal is looted, and he swears an oath, there is no payment. However, if the animal is stolen, he shall pay. If the animal
-is torn to death, and there are witnesses, he shall not pay. [{**Note**: And if there were no witnesses?}]{.note}
+is torn to death, and there are witnesses, he shall not pay. [**Note**: And if there were no witnesses?]{.note}
 
 v13] Borrow
 If he borrows an item, and it is stolen, with the owner not present, he shall pay. However, if he is a renter, he shall not pay.
@@ -132,7 +132,7 @@ v15] Seduce virgin
 If a man seduces a virgin who is not betrothed, and he lies with her, he shall then offer her a marriage contract. If the father refuses to sell his daughter, he shall pay silver according to the value of the virgin marriage contract.
 
 *v17] Sorceress.
-"You shall not allow a sorceress to live. [{**Note**: But a sorcerer may live?}]{.note}
+"You shall not allow a sorceress to live. [**Note**: But a sorcerer may live?]{.note}
 
 v18] Bestiality
 Anyone who practices bestiality shall not be allowed to live.
@@ -152,7 +152,7 @@ If you accept a man's garment as security for his labour, you shall return it to
 v27] Revile G-d
 Do not revile G-d, nor curse you learders.
 
-v28] **בִקוּרים** ֬ &mdash; Fullness-offering.
+v28] **בִקוּרים]{dir="rtl"} ֬ &mdash; Fullness-offering.
 This is the offering of the first fruits. It also refers to the offering of the first-born son.
 
 v30] People of Holiness
@@ -213,11 +213,11 @@ Moses wrote all words of **HaShem** down. Then he prepared and altar, and sacrif
 
 (b) 2<sup>nd</sup> ascent
 v9-v11] They saw G-d
-Moses, Aaron, Nadiv, Avihu and the elders ascended. They saw G-d, and it was like sapphire brickwork, like the essence of heaven. ]{**Note**: Four Rabbi's}]{.note}. They gazed at G-d, ate and drank.
+Moses, Aaron, Nadiv, Avihu and the elders ascended. They saw G-d, and it was like sapphire brickwork, like the essence of heaven.[**Note**: Four Rabbi's]{.note}. They gazed at G-d, ate and drank.
 
 (c) 3<sup>rd</sup> ascent
 v12] Tablets
-**HaShem** says to Moses: Ascend to Me to the mountain. I will give you stone tablets on which will be engraved My teaching and commandment. [{**Note**: singular}]{.note}
+**HaShem** says to Moses: Ascend to Me to the mountain. I will give you stone tablets on which will be engraved My teaching and commandment. [**Note**: singular]{.note}
 
 (d) 4<sup>th</sup> ascent
 v13] Only Moses

@@ -2,7 +2,7 @@
 title: Vayechi  פרשׁת וַיְחִ֤י
 description: 'Genesis 47:28-50:26'
 tags: null
-date: 2022-01-07T00:09:57.912Z
+date: 2023-01-07T00:09:57.912Z
 ---
 
 **Date: 14 Tevet, 5783**
@@ -17,17 +17,17 @@ However, there are some very interesting passages, and some strange inconsistenc
 
 ### Joseph's oath to Jacob
 
-Jacob is 147 years old and "the time for Israel to die drew near", **וַיִּקְרְב֣וּ יְמֵֽי־יִשְׂרָאֵל֘ לָמוּת֒** (v29). So he calls Joseph to him, and states that his dying wish is not to be buried in Egypt, **אַל־נָ֥א תִקְבְּרֵ֖נִי בְּמִצְרָֽיִם** and to that end he extracts an oath from Joseph to bury him with his forefathers in _Machpelah_.
+Jacob is 147 years old and "the time for Israel to die drew near", [וַיִּקְרְב֣וּ יְמֵֽי־יִשְׂרָאֵל֘ לָמוּת֒]{dir="rtl"} (v29). So he calls Joseph to him, and states that his dying wish is not to be buried in Egypt, [אַל־נָ֥א תִקְבְּרֵ֖נִי בְּמִצְרָֽיִם]{dir="rtl"} and to that end he extracts an oath from Joseph to bury him with his forefathers in _Machpelah_.
 
-v29] This is the second (or third) time that the oath is taken by "placing your hand beneath my thigh" **שִֽׂים־נָ֥א יָֽדְךָ֖ תַּ֣חַת יְרֵכִ֑י**.
+v29] This is the second (or third) time that the oath is taken by "placing your hand beneath my thigh" [שִֽׂים־נָ֥א יָֽדְךָ֖ תַּ֣חַת יְרֵכִ֑י]{dir="rtl"}.
 
 ## Chapter 48
 
 ### Jacob blesses Ephraim and Manasseh
 
-This is an example of the circularity of the narrative. This last piece told as that Israel was about to die, and this one begins with Joseph receiving the information that Jacob is ill, **הִנֵּ֥ה אָבִ֖יךָ חֹלֶ֑ה**.
+This is an example of the circularity of the narrative. This last piece told as that Israel was about to die, and this one begins with Joseph receiving the information that Jacob is ill, [הִנֵּ֥ה אָבִ֖יךָ חֹלֶ֑ה]{dir="rtl"}.
 
-So he takes his two sons with him and goes to see Jacob. So when did the last event take place? Anyways, Jacob raises his grandchildren Ephraim and Menasseh to status of his actual children, **אֶפְרַ֨יִם֙ וּמְנַשֶּׁ֔ה כִּרְאוּבֵ֥ן וְשִׁמְע֖וֹן יִֽהְיוּ־לִֽי** - "Ephraim and Menasseh shall be mine like Reuben and Simeon" (v5).
+So he takes his two sons with him and goes to see Jacob. So when did the last event take place? Anyways, Jacob raises his grandchildren Ephraim and Menasseh to status of his actual children, [אֶפְרַ֨יִם֙ וּמְנַשֶּׁ֔ה כִּרְאוּבֵ֥ן וְשִׁמְע֖וֹן יִֽהְיוּ־לִֽי]{dir="rtl"} - "Ephraim and Menasseh shall be mine like Reuben and Simeon" (v5).
 
 Then he blesses them. However, he blesses Ephraim with his right hand - the hand of the elder - although he is the younger, and Menasseh with his left. Joseph objects and tries to correct him but Jacob refuses, and responds with (v19)
 
@@ -40,11 +40,10 @@ Then he blesses them. However, he blesses Ephraim with his right hand - the hand
 </p>
 </blockquote>
 
-{Note: Here is an example of the asynchronicities that enter into the story to produce future dynamics. If Jacob had loved all his sons equally Joseph would not have been sold in slavery and risen to become the viceroy of Egypt. If Jacob had given the proper blessing to Joseph's children, it might have spared them some pain. In the balanced universe, this would be the case, but in the world of action, of happenings, that is not the dynamic.
+Note: Here is an example of the asynchronicities that enter into the story to produce future dynamics. If Jacob had loved all his sons equally Joseph would not have been sold in slavery and risen to become the viceroy of Egypt. If Jacob had given the proper blessing to Joseph's children, it might have spared them some pain. In the balanced universe, this would be the case, but in the world of action, of happenings, that is not the dynamic.{.note}
 
-There are also overtones of Jacob's theft of his brother's birthright blessing that is being played out here, although differently. Could Jacob have been showing that sometimes G-d's way is not our way? And that what we might consider that the optimum pathway is often not the true path to our goal?
+There are also overtones of Jacob's theft of his brother's birthright blessing that is being played out here, although differently. Could Jacob have been showing that sometimes G-d's way is not our way? And that what we might consider that the optimum pathway is often not the true path to our goal?{.note}
 
-}
 He also predicts that Joseph will be returned to the land of his forefathers.
 
 ## Chapter 49
@@ -116,7 +115,7 @@ He also predicts that Joseph will be returned to the land of his forefathers.
 לב מִקְנֵ֧ה הַשָּׂדֶ֛ה וְהַמְּעָרָ֥ה אֲשֶׁר־בּ֖וֹ מֵאֵ֥ת בְּנֵי־חֵֽת:
 </p>
 <p>
-29. And he commanded them and said to them, "I will be brought in to my people; bury me with my fathers, in the cave that is in the field of Ephron the Hittite, 	
+29. And he commanded them and said to them, "I will be brought in to my people; bury me with my fathers, in the cave that is in the field of Ephron the Hittite,  
 30. in the cave that is in the field of Machpelah, which is before Mamre in the land of Canaan, which field Abraham bought from Ephron the Hittite for burial property.
 31. There they buried Abraham and his wife Sarah, there they buried Isaac and his wife Rebecca, and there I buried Leah.
 32. The purchase of the field and the cave therein was from the sons of Heth.
@@ -127,7 +126,7 @@ He also predicts that Joseph will be returned to the land of his forefathers.
 
 ## Joseph buries Jacob
 
-They embalm (**וַיַּֽחַנְט֥וּ**) Israel (v2). Which means that his body would be preserved in the Cave. I assume that Joseph's body was embalmed too. What is surprising, is that the Egyptians (also) wept over Jacob for seventy days. Why would they mourn Jacob, when he was not a dignatory or known amongst the Egyptian people as Joseph was. What transpired and how come he influenced them so deeply?
+They embalm ([וַיַּֽחַנְט֥וּ]{dir="rtl"}) Israel (v2). Which means that his body would be preserved in the Cave. I assume that Joseph's body was embalmed too. What is surprising, is that the Egyptians (also) wept over Jacob for seventy days. Why would they mourn Jacob, when he was not a dignatory or known amongst the Egyptian people as Joseph was. What transpired and how come he influenced them so deeply?
 
 Rashi says (v3):
 
@@ -153,7 +152,7 @@ As well as (v8):
 וְכֹל֙ בֵּ֣ית יוֹסֵ֔ף וְאֶחָ֖יו וּבֵ֣ית אָבִ֑יו
 </p>
 <p>
-Joseph's entire household and his brothers and his father's household; 
+Joseph's entire household and his brothers and his father's household;
 </p>
 </blockquote>
 
@@ -168,9 +167,9 @@ And chariots and horsemen also went up with him, and the camp was very numerous.
 </p>
 </blockquote>
 
-That seems like a huge caravan to me. What it must have taken to move that many people over a distance like that. That was quite an undertaken. And they spent seven days there in mourning - all of them, I assume.
+**Note**: That seems like a huge caravan to me. What it must have taken to move that many people over a distance like that. That was quite an undertaken. And they spent seven days there in mourning - all of them, I assume.{.note}
 
-What is surprising though, is that all of Pharoah's servants went with them. Who was looking after Pharoah and his household then? The Canaanites called it Abel Mizraim (Egypt mourns) because of the intense mourning that took place there.
+What is surprising though, is that all of Pharoah's servants went with them. Who was looking after Pharoah and his household then? The Canaanites called it _Abel Mizraim_ (Egypt mourns) because of the intense mourning that took place there.{.note}
 
 Now that Jacob has passed, the brothers are suddenly feeling vulnerable, and afraid that now Joseph will wreak his revenge. Instead, Joseph embraces them and promises that he will look after them and their families. This prompts much discussion on what forgiveness means, and how to forgive, etc. In fact, when they throw themselves at his feet, declaring themselves to be his slaves, he responds beautifully (v18-20).
 
@@ -179,19 +178,19 @@ Now that Jacob has passed, the brothers are suddenly feeling vulnerable, and afr
 יח וַיֵּֽלְכוּ֙ גַּם־אֶחָ֔יו וַיִּפְּל֖וּ לְפָנָ֑יו וַיֹּ֣אמְר֔וּ הִנֶּ֥נּוּ לְךָ֖ לַֽעֲבָדִֽים:
 יט וַיֹּ֧אמֶר אֲלֵהֶ֛ם יוֹסֵ֖ף אַל־תִּירָ֑אוּ כִּ֛י הֲתַ֥חַת אֱלֹהִ֖ים אָֽנִי:
 כ וְאַתֶּ֕ם חֲשַׁבְתֶּ֥ם עָלַ֖י רָעָ֑ה אֱלֹהִים֙ חֲשָׁבָ֣הּ לְטֹבָ֔ה לְמַ֗עַן עֲשׂ֛ה כַּיּ֥וֹם הַזֶּ֖ה לְהַֽחֲיֹ֥ת עַם־רָֽב:
-כא וְעַתָּה֙ אַל־תִּירָ֔אוּ אָֽנֹכִ֛י אֲכַלְכֵּ֥ל אֶתְכֶ֖ם וְאֶת־טַפְּכֶ֑ם 
+כא וְעַתָּה֙ אַל־תִּירָ֔אוּ אָֽנֹכִ֛י אֲכַלְכֵּ֥ל אֶתְכֶ֖ם וְאֶת־טַפְּכֶ֑ם
 וַיְנַחֵ֣ם אוֹתָ֔ם וַיְדַבֵּ֖ר עַל־לִבָּֽם
 </p>
 <p>
-18. His brothers also went and fell before him, and they said, "Behold, we are your slaves." 
+18. His brothers also went and fell before him, and they said, "Behold, we are your slaves."
 19. But Joseph said to them, "Don't be afraid, for am I instead of God?
 20. Indeed, you intended evil against me, [but] God designed it for good, in order to bring about what is at present to keep a great populace alive.
 21. So now do not fear. I will sustain you and your small children." And he comforted them and spoke to their hearts.
 </p>
 </blockquote>
 
-{NOTE: This _aliyah_, the seventh, begins with v21.}
+**NOTE**: This _aliyah_, the seventh, begins with v21.{.note}
 
 Joseph lived a long and happy life, surrounded by his family. He was blessed to see his great-grandchildren. Joseph dies at the age of 110, embalmed and placed in a coffin in Egypt &mdash; there presumable to await transport to Canaan, which took another 200 or so years to transpire. (v22-23).
 
-Joseph, approaching his death, like his father, wishes to be buried in "the land that He swore to Abraham, to Isaac, and to Jacob" **הָאָ֕רֶץ אֲשֶׁ֥ר נִשְׁבַּ֛ע לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּלְיַֽעֲקֹֽב:**. Joseph first promises his brothers that "G-d will remember you and take you to the land..." **אלֹהִ֞ים פָּקֹ֧ד יִפְקֹ֣ד אֶתְכֶ֗ם וְהֶֽעֱלָ֤ה אֶתְכֶם֙ מִן־הָאָ֣רֶץ הַזֹּ֔את אֶל־הָאָ֕רֶץ אֲשֶׁ֥ר נִשְׁבַּ֛ע לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּלְיַֽעֲקֹֽב:**(v24). Then he addresses the children of Israel, who are his brothers - surely - saying: "God will surely remember you, and you shall take up my bones out of here" **פָּקֹ֨ד יִפְקֹ֤ד אֱלֹהִים֙ אֶתְכֶ֔ם וְהַֽעֲלִתֶ֥ם אֶת־עַצְמֹתַ֖י מִזֶּֽה** (v25).
+Joseph, approaching his death, like his father, wishes to be buried in "the land that He swore to Abraham, to Isaac, and to Jacob" [הָאָ֕רֶץ אֲשֶׁ֥ר נִשְׁבַּ֛ע לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּלְיַֽעֲקֹֽב:]{dir="rtl"}. Joseph first promises his brothers that "G-d will remember you and take you to the land..." [אלֹהִ֞ים פָּקֹ֧ד יִפְקֹ֣ד אֶתְכֶ֗ם וְהֶֽעֱלָ֤ה אֶתְכֶם֙ מִן־הָאָ֣רֶץ הַזֹּ֔את אֶל־הָאָ֕רֶץ אֲשֶׁ֥ר נִשְׁבַּ֛ע לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּלְיַֽעֲקֹֽב]{dir="rtl"}(v24). Then he addresses the children of Israel, who are his brothers - surely - saying: "God will surely remember you, and you shall take up my bones out of here" [פָּקֹ֨ד יִפְקֹ֤ד אֱלֹהִים֙ אֶתְכֶ֔ם וְהַֽעֲלִתֶ֥ם אֶת־עַצְמֹתַ֖י מִזֶּֽה]{dir="rtl"} (v25).

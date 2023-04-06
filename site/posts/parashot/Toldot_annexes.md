@@ -1,21 +1,15 @@
 ---
 title: Toldot - annexes
-description: Story about Isaac and Jacob stealing Esau's birtright
-url: https://www.chabad.org/library/article_cdo/aid/2730/jewish/The-Palace-and-the-Pigeons.htm
-author: Tzvi Freeman
-tags: null
-date: 2021-05-30T22:15:22.481Z
-modified: 2022-02-14T10:52:51.379Z
+description: Stories about Isaac and Jacob 
+tags: [external]
+date: 2022-11-19T02:15:22.481Z
 ---
 
-1. [Toldot - annexes](#toldot---annexes)
-   1. [The Palace and the Pigeons](#the-palace-and-the-pigeons)
-   2. [The Faith of the Farmer](#the-faith-of-the-farmer)
-   3. [The Final Temple](#the-final-temple)
-   4. [Life on the Inside](#life-on-the-inside)
-   5. [A Business Proposal](#a-business-proposal)
-
-# Toldot - annexes
+1. [The Palace and the Pigeons](#the-palace-and-the-pigeons)
+2. [The Faith of the Farmer](#the-faith-of-the-farmer)
+3. [The Final Temple](#the-final-temple)
+4. [Life on the Inside](#life-on-the-inside)
+5. [A Business Proposal](#a-business-proposal)
 
 ## [The Palace and the Pigeons](https://www.chabad.org/library/article_cdo/aid/2730/jewish/The-Palace-and-the-Pigeons.htm)
 
@@ -39,7 +33,7 @@ And now has come the time for them to all return.
 
 I can’t explain to you everything meant by this story. If I could, what would I need a story for? I would just explain it to you without the story. But I can tell you some of the teachings that form its basis.
 
-For one, you need to know what the great Kabbalist Rabbi Yitzchak Luria, known as the Ari Hakadosh (“The Holy Lion”), taught about our world. He taught that there is not a thing in this world that does not contain a holy spark. Even the greatest evil, even the harshest darkness that does everything it can to oppose its Creator and deny any purpose or goodness in the world, even that contains a divine spark. And it needs that spark, because without it, it would not be able to exist for even a moment. Why, then, is it evil? Because the spark it contains is so dim, so concealed, that its only way of expression is to be the opposite of what it truly is.
+For one, you need to know what the great Kabbalist Rabbi Yitzchak Luria, known as the _Ari Hakadosh_ (“The Holy Lion”), taught about our world. He taught that there is not a thing in this world that does not contain a holy spark. Even the greatest evil, even the harshest darkness that does everything it can to oppose its Creator and deny any purpose or goodness in the world, even that contains a divine spark. And it needs that spark, because without it, it would not be able to exist for even a moment. Why, then, is it evil? Because the spark it contains is so dim, so concealed, that its only way of expression is to be the opposite of what it truly is.
 
 So you might think that if that spark is so dim, it couldn’t be a very important spark. Maybe G‑d could do without it. But the Maggid of Mezeritch taught just the opposite, that it is the highest sparks that fall furthest from their source. So in places that are warm and friendly to holiness, there are going to be some warm and friendly sparks. But if you want the most powerful sparks, the sparks that talk about the real essence of G‑d, then you need to deal with the places that are furthest from their source.
 
@@ -56,7 +50,7 @@ But now has come the time for us to all return home.
 ## [The Faith of the Farmer](https://www.chabad.org/library/article_cdo/aid/2650/jewish/The-Faith-of-the-Farmer.htm)
 
 Based on the teachings of the Lubavitcher Rebbe
-Courtesy of [MeaningfulLife](https://meaningfullife.com)
+Courtesy of [Meaningfull Life](https://meaningfullife.com)
 
 Therein lies the specialty of the faith of the farmer. The farmers contact is with the densest, most opaque part of the veil. He is slave to the weather, the contours of the land, the chemistry of the soil; he contends with nature in its rawest, most obstinate, most dictatorial incarnation. So when the farmer recognizes and acts upon the truth that it is the Vivifier of the World who answers his toil with sustenance, this represents the ultimate triumph of faith, the ultimate penetration of spiritual vision through the material haze.
 
@@ -82,9 +76,9 @@ Chabad-Chassidic teaching devotes much discussion to the quality of _penimyut_. 
 
 What is _penimyut_? The closest equivalent word in the English language is "innerness". _Penimyut_ means integrity, thoroughness and consistency. It is the opposite of superficiality and equivocation. In the _penimi_, knowledge cannot be divorced from experience, and knowledge and experience cannot be divorced from deed. You will never encounter only parts of the _penimi_ — his brain, his heart, his actions; rather, you will always find the complete person there. The _penimi_ doesn't merely think a thought, experience a feeling, do an action — he lives them.
 
-When the penimi devotes a portion of time — whether it is an hour, a day or a minute — to a certain task, he is totally invested in what he is doing, as if there exists nothing else in the world.
+When the _penimi_ devotes a portion of time — whether it is an hour, a day or a minute — to a certain task, he is totally invested in what he is doing, as if there exists nothing else in the world.
 
-This is not to say that the penimi lives indiscriminately. On the contrary, indiscrimination is the ultimate mark of the _chitzon_. The penimi is deeply aware — aware of the differences between important things and things of lesser importance, between means and ends, between journeys and destinations. But in whatever he is involved, he is fully there. He's never just "getting it done" or "getting it over with". When he's on the way to something, he's fully invested in being on the way to something.
+This is not to say that the penimi lives indiscriminately. On the contrary, indiscrimination is the ultimate mark of the _chitzon_. The _penimi_ is deeply aware — aware of the differences between important things and things of lesser importance, between means and ends, between journeys and destinations. But in whatever he is involved, he is fully there. He's never just "getting it done" or "getting it over with". When he's on the way to something, he's fully invested in being on the way to something.
 
 This week's Torah reading includes Moses' record of the Israelites' 42 "journeys" through the desert — forty-two journeys which, according to rabbi Israel Baal Shem Tov, are replayed in every individual's personal journey through life.
 

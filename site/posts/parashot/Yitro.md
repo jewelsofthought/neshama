@@ -4,13 +4,13 @@ description: Exodus 18:1-20:23
 tags:
   - todo
 date: 2023-02-11T00:09:06.346Z
-modified: 2023-02-11
 ---
 
 ## Chapter 18
 
 v1-2] Yitro
-Yitro, who was Chieftan of the Midianites, hears about G-d's helping the Hebrews (v1). He decides it is time to visit him, and takes Zipporah and her two sons, Gershom (גר־שׁם) &mdash; because his father was stranger in a foreign land &mdash; and Eliezar (אלי־אזר) &mdash; because G-d came to Moses' rescue (v2) &mdash; at the Mountain of G-d (v6).
+
+Yitro, who was Chieftan of the Midianites, hears about G-d's helping the Hebrews (v1). He decides it is time to visit him, and takes Zipporah and her two sons, Gershom ([גר־שׁם]{dir="rtl"}) &mdash; because his father was stranger in a foreign land &mdash; and Eliezar ([אלי־אזר]{dir="rtl"}) &mdash; because G-d came to Moses' rescue (v2) &mdash; at the Mountain of G-d (v6).
 
 n18:1] "Hand of Egypt", which is used three times, seems to be an expression of the time, for the Hand of G-d is also used often. How far one's hand stretches over the people or the land is indicative of the breadth of one's influence. Today, we say things like: "Keep it in hand"; "Get a hand(le) on it"; "I want a hand in it"; "Let's shake hands to close the deal"; "Gotta hand it to him"; "It got handed to him on a platter".
 
@@ -37,17 +37,16 @@ Moses sits and judges the people, while they wait from morning to evening to get
 
 </div>
 
-n13]
-In that time, the Teacher sits, and the pupils stand as a sign of respect. It is the opposite today.
-
 n13] **Yom Kippur** &mdash; is the day of forgiveness, when Jews forgive one another and join as a single nation
+
+In that time, the Teacher sat, and the pupils stood as a sign of respect. It is the opposite today.
 
 v18-23] Delegate
 Jethro then proceeds to instruct Moses. He start off: "If you continue this way, you will wear yourself out, and then you will no longer be able to help the people" (v18). He says to Moses: "You will hear the words of your people, and you will bring their matters to G-d (v19). You shall teach and explain G-d's statutes to them (v20). However, choose men of substance as leaders (v21), and men of integrity as Judges (v22) so that you may survive (v23)
 
 n18] Father-in-law
 
-Why is the term "father-in-law" (**חותן**) used so often? Thirteen times in all?
+Why is the term "father-in-law" ([חותן]{dir="rtl"}) used so often? Thirteen times in all?
 
 Some sages say that it is to represent the change of loyalties of Yitro. That he has now become a part of the Mosaic family, and no longer of the Midianites. Whereas, once he was distinguished because he was a Midianite Chieftan, and now his distinguished by the fact that he is Moses' father-in-law.
 
@@ -67,7 +66,7 @@ n21] Discernment
 
 <details>
   <summary class="button is-outlined">
-    Wealth & Greed:&nbsp;<i class="fa fa-solid fa-caret-down"></i> 
+    Wealth & Greed:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
   </summary>
   <p>This we know not is not necessarily true. In fact, it often seems to be the opposite &mdash; those that have so much just can't seem to be wanting more. Often these wealthy men of accomplishment, ones who have spent their lives accumulating and thus, unless G-d fearing, are likely to be easily swayed if it serves their purposes.</p>
 </details>
@@ -99,47 +98,49 @@ v1-2]
 Three months had passed since the Exodus. The people had left Rephidim and were in the Sinai desert, camped at the foot of the Mountain of G-d. Jethro comes to them at the mountain
 
 v3-6] Ascension
-Moses ascends to G-d and **HaShem** called to him, <span class="note">{Note: Should this be in opposite order. First the calling, then the ascension?}</span>, saying: "Say to the people (v3). You have seen what I have done! (v4) If you obey me and keep my commandments, you will be a treasure unto Me (v5). You will become a kingdom of _Kohanim_ (priests) - **ממלכת כוהנים**, and a holy nation - **גוי קדושׁ** (v6).
+Moses ascends to G-d and **HaShem** called to him, [**Note**: Should this be in opposite order. First the calling, then the ascension?]{.note}, saying: "Say to the people (v3). You have seen what I have done! (v4) If you obey me and keep my commandments, you will be a treasure unto Me (v5). You will become a kingdom of _Kohanim_ (priests) - [ממלכת כוהנים]{dir="rtl"}, and a holy nation - [גוי קדושׁ]{dir="rtl"} (v6).
 
 Miracles:
 10 plagues, splitting of the Red Sea, cloud by day & fire by night,
 sweeten the water, water from the rock.
 
-- **ויחד** - rejoice (Aramaic)
+- [ויחד]{dir="rtl"} - rejoice (Aramaic)
 
 - "Tell them, they have seen what I can do"
 
-1. Egypt : **מצריים**
-2. Eagle : **נשׁר**
-3. Brought you to Me: **אָבִא אתכם אלי**
+1. Egypt : [מצריים]{dir="rtl"}
+2. Eagle : [נשׁר]{dir="rtl"}
+3. Brought you to Me: [אָבִא אתכם אלי]{dir="rtl"}
 
 - And now if you:
 
-1. Hearken to Me : **תשׁמעו בקולִי** ( -> released from Egypt)
+1. Hearken to Me : [תשׁמעו בקולִי]{dir="rtl"} ( -> released from Egypt)
 2. ֺObserve My Covenant ( -> fly as high as the eagle )
 
 - Then you shall be to me
-  1. Most beloved treasure of all My people : **סגולה מכל העמים**
-  2. A kingdom of ministers : **ממלכת כוהנים**
-  3. A holy nation : גוי קדוש ( -> close to G-d )
-- ַ**אשׁר צוָּהוּ יהוה**
+  1. Most beloved treasure of all My people : [סגולה מכל העמים]{dir="rtl"}
+  2. A kingdom of ministers : [ממלכת כוהנים]{dir="rtl"}
+  3. A holy nation : [גוי קדוש]{dir="rtl"} ( -> close to G-d )
+- ַ[אשׁר צוָּהוּ יהוה]{dir="rtl"}
 
-Everything we shall do: **כל אשׁר דבר יהוה נעשׂה**
+Everything we shall do: [כל אשׁר דבר יהוה נעשׂה]{dir="rtl"}
 
 v7-8] Elders
-After having received the words from G-d, Moses assembled the elders and placed the words before them (v7). The people respond "We shall do". Moses took the words of the people back to G-d (v8). <span class="note">{Note: This is an example of a "missing detail". G-d speaks to Moses, who speaks to the elders, who then tell the people, and back again.}</span>
+After having received the words from G-d, Moses assembled the elders and placed the words before them (v7). The people respond "We shall do". Moses took the words of the people back to G-d (v8).
+
+[ **Note**: This is an example of a "missing detail". G-d speaks to Moses, who speaks to the elders, who then tell the people, and back again.]{.note}
 
 v9-10] Cloud
 
-God says, "I will speak to you from the thickness of the cloud, so that they people can hear, and so that they will believe in me" (v9).<span class="note">{Note: Yet, according to the narrative, G-d summons Moses to ascend the mountain, who then transmits it to the elders, etc.}</span> "Go to the people" (v11). <span class="note">{Note: Also contradicts v9. If the people can hear G-d speaking from the cloud, why would Moses need to repeat everything to them?}</span> Today and tomorrow, prepare, wash your garments (v10). On the third day **’ה** will descend before the people"
+God says, "I will speak to you from the thickness of the cloud, so that they people can hear, and so that they will believe in me" (v9). [**Note**: Yet, according to the narrative, G-d summons Moses to ascend the mountain, who then transmits it to the elders, etc.]{.note} "Go to the people" (v11). [**Note**: Also contradicts v9. If the people can hear G-d speaking from the cloud, why would Moses need to repeat everything to them?]{.note} Today and tomorrow, prepare, wash your garments (v10). On the third day [’ה]{dir="rtl"} will descend before the people"
 
 v12-13] Boundaries
 God continues: "Set boundaries for the people, that none shall approach the mount, lest they die (v12). No hand shall touch the mountain, lest they die. When the ram's horn sounds, the people may ascend the mountain (v13).
 
 v14] Descended
-Moses descended from the mountain. The people prepared themselves and they washed themselves (v14). <span class="note">{Note: It does not say 'Moses told them', so perhaps they did hear these instructions from the cloud.}</span>
+Moses descended from the mountain. The people prepared themselves and they washed themselves (v14). [**Note**: It does not say 'Moses told them', so perhaps they did hear these instructions from the cloud.]{.note}
 
-v15] However, he does say to them, "Be ready. You must keep away from women. <span class="note">{Note: Did Moses add this restriction, as G-d did not explicitly say this. However, if the people heard the conversation, they they might object, unless G-d had actually said that.}</span>
+v15] However, he does say to them, "Be ready. You must keep away from women. [**Note**: Did Moses add this restriction, as G-d did not explicitly say this. However, if the people heard the conversation, they they might object, unless G-d had actually said that.]{.note}
 
 v16-20] 3rd day
 On the morning of the third day, there was thunder and lightning above the mountain, and a thick cloud descended upon the mountain, while a loud _shofar_ blast rang out (v16). The people gather at the bottom of the smoking mountain (v17-18). The shofar rang out, Moses spoke, G-d answered (v19). G-d is on the peak, summons Moses who then ascends (v20).
@@ -152,7 +153,7 @@ On the morning of the third day, there was thunder and lightning above the mount
 </details>
 
 v21-25] Go down
-G-d says, "Go down again. Warn the people not to approach the mountain (v21). Tell the priests to prepare themselves (v22). <span class="note">{Note: It is unclear what extra preparation the priests were supposed to carry out.}</span> Moses responds, saying that the people have been warned, and thus, no one will approach the mountain (v23). God insists, "Go down. Ascend with Aaron. But the priests and populace may not ascend (v24). <span class="note">{Note: Have the instructions changed? The people were supposed to ascend the mountain upon the hearing the blast of the _shofar_ (from v13).}</span> Moses obeys (v25).
+G-d says, "Go down again. Warn the people not to approach the mountain (v21). Tell the priests to prepare themselves (v22). [**Note**: It is unclear what extra preparation the priests were supposed to carry out.]{.note} Moses responds, saying that the people have been warned, and thus, no one will approach the mountain (v23). God insists, "Go down. Ascend with Aaron. But the priests and populace may not ascend (v24). [**Note**: Have the instructions changed? The people were supposed to ascend the mountain upon the hearing the blast of the _shofar_ (from v13).}]{.note} Moses obeys (v25).
 
 ## Chapter 20
 
@@ -200,7 +201,7 @@ I. Not covet
 ---
 
 v15-16] Saw voices
-The people saw voices and torches, - **רואים את הקולות** - heard the sound of the _shofar_, the smoke pouring off the mountain, and were afraid (v15). They said to Moses: "You speak for us" (v16).
+The people saw voices and torches &ndash; [רואים את הקולות]{dir="rtl"} &ndash; heard the sound of the _shofar_, the smoke pouring off the mountain, and were afraid (v15). They said to Moses: "You speak for us" (v16).
 
 v17-18] Calm
 Moses tried to calm them down, saying "Fear not. G-d is hear to help you, not harm you." Then Moses entered the opaque darkness (of the cloud) (v18).
@@ -209,7 +210,7 @@ v19] Seen
 G-d says to Moses: "Tell the people what you have seen.
 
 v20] Images
-"They may make no images of any of My divine beings" <span class="note">{Note: This must be important to Him, as it is repeated here.}</span>
+"They may make no images of any of My divine beings" [**Note**: This must be important to Him, as it is repeated here.]{.note}
 
 v21] Altar
 "Make an altar of earth for you to sacrifice to Me (v12). When you make an altar of stones, it shall be made of one piece. No iron shall touch it (v22). It will have no steps so that your nakedness may not be revealed before me" (v23).
