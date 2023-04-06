@@ -4,13 +4,13 @@ description: It is dynamic
 ref:
   - m&f 
 tags: null
-date: 2015-10-13T01:19:16.154Z
-modified: 2022-01-30T19:58:00.956Z
+date: Last Modified
+modified: 2015-10-13T01:19:16.154Z
 ---
 
-1. [Male & Female](#male--female)
-2. [M & F](#m--f)
-3. [Upper & Lower](#upper--lower)
+1. [Male \& Female](#male--female)
+2. [M \& F](#m--f)
+3. [Upper \& Lower](#upper--lower)
 4. [Roles](#roles)
 5. [Desire for Power](#desire-for-power)
 6. [Transform](#transform)
@@ -61,7 +61,7 @@ Even in our lives we think we are a constant, and not in constant flux. Besides 
 
 > For the masculine it is about achieving something - and then he will be satisfied/happy. For the feminine is it about being in love & happy.
 
-The "success" that the masculine achieves has to be constantly maintained and monitored. The more he achieves, the more attention these will demand from him. And one of the main tools of the _Sitra Achra_, the evil impulse, is to keep us occupied in the realm of the mundane so that we have no time to spend in the realm of the divine. That is to say that most of our day is taken up with mundane activities, most of our goals are empirical, and very little, if any, of our day is devoted to our relationship with the Divine. How many of your daily thoughts are taken up in contemplating what we don't know, what is not there? Being still and listening silent speech, rather than thinking and about the things and experiences and events of your own life?
+The "success" that the masculine achieves has to be constantly maintained and monitored. The more he achieves, the more attention these will demand from him. And one of the main tools of the [_Sitra Achara_]{\#sitra_achara}, the evil impulse, is to keep us occupied in the realm of the mundane so that we have no time to spend in the realm of the divine. That is to say that most of our day is taken up with mundane activities, most of our goals are empirical, and very little, if any, of our day is devoted to our relationship with the Divine. All relationships need attention to flourish. If there is no time for a relationship with the Father, than eventually the two of you will become somewhat estranged and unfamiliar.How many of your daily thoughts are taken up in contemplating what we don't know, what is not there? Being still and listening silent speech, rather than thinking and about the things and experiences and events of your own life?
 
 A man must learn to respond, then he must practise responding in a constrained and balanced fashion. The woman must learn to contain her responses, and choose the appropriate responses, and, interestingly, the appropriate time to respond.
 

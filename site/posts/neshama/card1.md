@@ -13,7 +13,7 @@ modified: 2022-09-14T15:56:13.090Z
 2. [Centre](#centre)
 3. [The truth](#the-truth)
 4. [Your Gift](#your-gift)
-5. [Your Eldership](#your-eldership)
+5. [Eldership](#eldership)
 6. [Spiritual Gym](#spiritual-gym)
 7. [Spiritual Lab](#spiritual-lab)
 8. [Inner Shape](#inner-shape)
@@ -65,17 +65,15 @@ modified: 2022-09-14T15:56:13.090Z
 
 > In order for there to be an outcome, the laws of symmetry must be broken.
 
-> Just as we wake in the morning hungry for food to nourish our bodies, do we need to awaken with the same spiritual hunger to sustain our souls.
+> Just as we wake in the morning hungry for food to nourish our bodies, so we need to awaken with the same spiritual hunger to sustain our souls.
 
 > "Nothing left to lose" implies that you had something to lose and then were placed&mdash;or forced&mdash; into having nothing left to lose.
 
-> To live a "big" life takes "big" energy, not only from you, but from your environment. Think of moving a skateboard 1km, versus a car, or an 18-wheeler..
-
-> During the growing phase , your gift is your tool. If it becomes a weapon, then you will live by the rule of the sword.
-
-> Eldership is attained/ordained when you gain the wisdom of your gift. Which is expressed in gratitude: "I have been granted my portion." That is "I have been blessed with the gift of ...".
+> To live a "big" life takes "big" energy, not only from you, but from your environment. Think of moving a skateboard 1km., versus a car, or an 18-wheeler..
 
 > We don't look for a religion. I have a destination, and I will take the path that will best lead me to my destination, not taking into account the influential effects of my destiny.
+
+> As the eyes and the ears, the nose and mouth, the heart, legs and arms of G-d having a human experience, this is where you can begin to embrace and embody the truth of your existence.
 
 ## All change can only happen via יהוה
 
@@ -85,33 +83,29 @@ modified: 2022-09-14T15:56:13.090Z
 
 > The centre is a position relative to the space of the containment.
 
-And to some extent the rules and mechanics of measurement.
+And to some extent is defined according to the rules and mechanics of measurement.
 
 ## The truth
 
-> The truth will set you free &mdash
-
-to do good, or to do evil!
+> The truth will set you free &mdash; to do good, or to do evil!
 
 ## Your Gift
 
-> During the building phase, your gift is your tool.
+> During the growing phase, your gift is your tool. If it becomes a weapon, then you will live by rule of the weapon.
 
-If it becomes a sword, then, if you live by the sword, you will die by the sword.
+## Eldership
 
-## Your Eldership
+> Eldership is attained/ordained when you gain the wisdom of your gift.
 
-> Your eldership is obtained/ordained/recognised when you gain the wisdom of the gift.
-
-Which means "I have been granted my share" i.e. "I have been gifted with...".
+Which is expressed in gratitude: "I have been granted my portion." That is "I have been blessed with the gift of ...".
 
 ## Spiritual Gym
 
 A spiritual gym is a place where you
 
-- lift weights/concepts heavier than regularly
+- lift concepts heavier than you would normally
 - carry a concept further than usual
-- refine your techniques of research
+- refine your techniques of exploration
 
 ## Spiritual Lab
 
@@ -119,9 +113,7 @@ A spiritual laboratory is where you carry out carefully crafted experiments to s
 
 ## Inner Shape
 
-> Many teach you about external movements, how to deal with outside forces. But it is the inner shape that is most important. For it is through the inner shape, that we experience the outer. Here we shape the inner. We focus on the internal shape of things. But what occurs on the outside is of prime importance.
-
-As the eyes and the ears, the nose and mouth, the heart, legs and arms of G-d having a human experience, this is where you could begin to embrace and embody the truth of your existence.
+Many teach you about external movements, how to deal with outside forces. However, it is the inner shape that is most important. It is through the inner shape, that we experience the outer. Here we have choice in shaping the inner.
 
 ## Heaven
 
@@ -229,6 +221,15 @@ It is more than likely that as far as all our senses are concerned, the rest doe
 **NOTE**: Processist, processuality, processism. All processes can be viewed as modifications of substances (material bodies).{.note}
 
 ## Meditation
+
+<details>
+<summary class='button is-outlined'>
+Test &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+<p>
+As the eyes and the ears, the nose and mouth, the heart, legs and arms of G-d having a human experience, this is where you could begin to embrace and embody the truth of your existence.
+</p>
+</details>
 
 <figure class='quote'>
   <p>
@@ -389,11 +390,11 @@ But is actually orthogonal, as represented by: ![Symbol](/posts/img/neshama/symb
 
 > The G-d I speak of is not man-made, but exists before the universe was created. In fact, G-d is the universe (and more). Thus we can say "G-d created the world."
 
-> Most of are spiritually uplifted by being in nature.
+> Most of us are spiritually uplifted by being in nature.
 
 ### Water
 
-{TODO: Man-made water versus natural, untainted water, and the probable effects thereof.}
+TODO: Man-made water versus natural, untainted water, and the probable effects thereof.{.note}
 
 ## Temple
 

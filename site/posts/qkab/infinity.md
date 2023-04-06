@@ -2,8 +2,8 @@
 title: Infinity
 description: Playing in the boundless
 tags: [todo]
-date: 2015-01-09T14:02:16.154Z
-modified: 2023-02-08T19:07:13.396Z
+date: Last Modified
+order: 2015-01-09T14:02:16.154Z
 stars: "**"
 ---
 
