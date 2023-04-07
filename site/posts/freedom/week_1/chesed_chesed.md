@@ -8,7 +8,6 @@ date: 2022-04-16T00:04:00.000Z
  <a href='/posts/img/neshama/freedom/Tree%20of%20Life%2001%20-%20both%20noD%20(Chesed%20in%20Chesed).png'>
    <img src='/posts/img/neshama/freedom/Tree%20of%20Life%2001%20-%20both%20noD%20(Chesed%20in%20Chesed)_200x323.png' alt='Chesed in Chesed' width='200' height='323' />
  </a>
- <figcaption></figcaption>
 </figure>
 
 <div style="text-align:center">
@@ -23,7 +22,8 @@ date: 2022-04-16T00:04:00.000Z
 
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
+<div class="abstract">
+
 <p>Examine every aspect of love, its expression and its intensity. We all have the capacity to love, however to actualize and express it in a productive and positive manner is our work.</p>
 <p>
 Unless my love includes the other six aspects of <b>Chesed</b>, it will be distorted and unable to be truly realized.

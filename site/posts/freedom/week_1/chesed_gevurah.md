@@ -4,14 +4,23 @@ description: Constraint in Love
 tags: null
 date: 2022-04-17T00:04:00.000Z
 ---
+<figure style='float: left'>
+ <a href='/posts/img/neshama/freedom/Tree%20of%20Life%2001%20-%20both%20noD%20(Gevurah%20in%20Chesed).png'>
+   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%2001%20-%20both%20noD%20(Gevurah%20in%20Chesed)_200x323.png' alt='Gevurah in Chesed' width='200' height='323' />
+ </a>
+</figure>
 
-<div style="font-weight: bold; text-align:center">
+<div style="text-align:center">
 <h2>Gevurah she’b Chesed</h2>
-<i>Day Two of Week 1:</i> 
-<p>Restraint in Love</p>
+<p>
+<span dir="rtl"><b>הָיום שְׁנִי יָמִים לָעוֹמֵר</b></span>
+<i>Today is two days of the Omer</i>
+
+<h4>Restraint in Love</h4>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">
+
+<div class="abstract">
 <p>
 Healthy love must always include an element of discipline. A degree of distance and respect for the other. Love must be tempered and directed properly. Ask a parent who in the name of love has spoiled his child; or someone who suffocates their spouse with love and doesn't allow her any space of her own. Love with discretion is necessary to avoid giving to those that don't deserve it.
 </p>
@@ -20,13 +29,13 @@ Rain is a blessing only because it falls in drops that don't flood the fields.
 </p>
 </div>
 
-The journey from slavery to freedom begins slowly. Into this week of **Chesed**, the Emotional Energies called Lovingkindness, **Gevurah** the _sefirah_ that constrains the energy of Love to provide it with the Form that nourishes. In our meditations, we experience the channel of Light connecting the right shoulder to the left shoulder.
+The journey from slavery to freedom begins slowly. Into this week of **Chesed**, the Emotional Energies called Lovingkindness, **Gevurah**, the _sefirah_ that constrains the energy of Love to provide it with the Form that nourishes, enters. Today, we experience the channel of Light connecting the right shoulder to the left shoulder.
 
-We tend to appreciate energy more readily than we do the limitation of that energy, yet without limitation no energy can be expressed in meaningful ways. We welcome Gevurah, which is the symbol of Limitation on the Tree, that we might be able to express the Lovingkindness of **Chesed**. Our emotions bridge the gap between operations of mind and expressions of body. From emotions come our feelings, which are the valuations we place on our perception of self and the world. From those valuations come our commitments and our pursuits.
+We tend to appreciate energy more readily than we do the limitation of that energy, yet without limitation no energy can be expressed in meaningful ways. We welcome **Gevurah**, which is the symbol of Limitation on the Tree, that we might be able to express the Lovingkindness of **Chesed**. Our emotions bridge the gap between operations of mind and expressions of body. From emotions come our feelings, which are the valuations we place on our perception of self and the world. From those valuations come our commitments and our pursuits.
 
 We seek to support Emotional Forms which will most effectively describe the Emotional Force which flows through us. We need to remain flexible at **Gevurah** so that we might respond most appropriately to the offerings that flow from **Chesed**.
 
-The balance between **Chesed** and **Gevurah** is brought into each of the lower seven _sefirot_ during the week of the Omer period. From this balance flows the lower part of the Tree within each _sefirah_. Through this connection emerges the foundation we need for the next steps in the creative process.
+The balance between **Chesed** and **Gevurah** is brought into each of the lower seven _sefirot_ during the week of the Omer period. From this balance flows the lower part of the Tree within each _sefirah_. Through this relationship emerges the foundation we need for the next steps in the creative process.
 
 Our emotions contain force and form which can destroy as well as heal. They can express themselves through both destructive as well as healing forms. Our challenge is to encourage Emotional Force to flow more fully by aligning it with our Emotional Form to provide suitable vehicles for that energy.
 
@@ -34,7 +43,7 @@ Our emotions contain force and form which can destroy as well as heal. They can 
 I honour the forms of my emotional expression now. Relaxing both body and mind, I trust the higher forms to manifest through me. I open to receive more fully that I might express more truthfully.
 </div>
 
-<h3>Reflections</h3>
+<h3>Personal Reflections</h3>
 
 <p style="font-style: italic">
 Thank you, O Lord, for the sustenance You provide.
@@ -42,22 +51,28 @@ Thank you, O Lord, for the sustenance You provide.
 
 **The Long Road of Exodus**
 
-<div style="margin-left: 2rem">
-<p>Every day since we first set foot from Ramses is another day of leaving Egypt.</p>
-<p>As soon as you stop leaving, you are back there again.</p>
+<div style="margin-left: 2rem; font-style: italic">
 
-<p>Without limitation no energy can express in meaningful ways.</p>
+- Every day since we first set foot from Ramses is another day of leaving Egypt.</p>
+- As soon as you stop leaving, you are back there again.</p>
+- Without limitation no energy can express in meaningful ways.</p>
+
 </div>
 
 R’ Falcon’s use of the concept of emotional energy, required a dive into the difference between emotions and feelings. As you can see below, I read the normative view of the differences. Where would I find the mystical one, I wonder?
 
-In the end, it seems more to me something like this:
+<details>
+<summary class='button is-outlined'>
+ In the end, it seems more to me something like this:&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+<p>
+<div class="note">
 
-Upper (spiritual) -> (feelings) || _mind_ || (emotions) <- Lower (physical)
+Upper (spiritual) -> (feelings) || _mind_ || (emotions) <- Lower (physical).
 
-I do not think that contradicts what seems to me his description of the above situation:
+To explain: The mind "interprets" the feelings that come from the upper, or spiritual, realm as well as the sensations that produce emotions that we receive as a result of our interaction with the world around us.
 
-“Our emotions bridge the gap between operations of mind and expressions of body.”
+I do not think that contradicts what seems to me his description of the above situation: “Our emotions bridge the gap between operations of mind and expressions of body.”
 
 I have just placed our mind (the only place we are cognisant of our behaviour) between the spiritual realm and the material realm.
 
@@ -68,18 +83,28 @@ Most people want to “feel more positive than negative.” Yet the emotions tha
 |                                                                           | EMOTIONS versus FEELINGS                                   |                  |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------- |
 | **Emotions**                                                              | **Feelings**                                               |                  |
-| Emotions are physical states that arise as a response to external stimuli | Feelings are mental associations and reactions to emotions | And to thoughts? |
-| Aroused before feelings                                                   | Caused by emotions                                         | And?             |
+| Emotions are physical states that arise as a response to external stimuli | Feelings are mental associations and reactions to emotions | _And to thoughts?_ |
+| Aroused before feelings                                                   | Caused by emotions                                         | _And by spritual influences too?_             |
 | Physical states                                                           | Mental associations and reactions                          |                  |
 | Can be observed through the physical reaction                             | Can be hidden                                              |                  |
 
 Emotions are natural phenomenon. They can be considered as physical and instinctive since they arise from our bodies’ responses to external stimuli. For example, when you are in an unknown place, you may feel a range of emotions such as curiosity and fear. Since emotions are physical states, they can be measured by physical factors such as facial expressions, body language, blood flow, etc. Emotions are considered to be irrational, illogical and unreasonable since they are carried out by the limbic system, which is separate from the neocortex, which deals with reasoning, conscious thoughts, and decision making.
 
 Feelings are mental experiences of body states, which arise as the brain interprets emotions, themselves physical states arising from the body’s responses to external stimuli.
+</div>
+</details>
 
-<h3>Notes about Emotions/Feelings</h3>
+<p></p>
 
-<div style="font-size: small">
+<details>
+<summary class='button is-outlined'>
+ <b>Notes about Emotions/Feelings</b>&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+<p>
+<div class="note">
+
+<h3></h3>
+
 Emotions originate in the subcortical region, the amygdala, and the ventromedial prefrontal cortices, which cause [biochemical reactions](https://thebestbrainpossible.com/whats-the-difference-between-feelings-and-emotions/) to occur and change our physical state.
 
 Because emotions are basically a neurochemical reaction from a stimulus, they are also considered to be [unconscious and instinctive](https://imotions.com/blog/difference-feelings-emotions/). It is possible to bring these emotions out into consciousness through psychotherapy, though.
@@ -111,3 +136,9 @@ Unlike emotions, feelings are [completely conscious](https://counseling.online.w
 Although they are two separate concepts, as you can see, they aren’t unrelated to each other by any means.
 
 </div>
+</p>
+</details>
+
+What arose through trying to make sense of this distinction that he is making, was the exploration of sensation. When we encounter the spiritual it produces a certain sensation. When we interact with the physical, it produces a different sensation. The upper sensation is given the concept of feeling, the lower that of emotion. When there is an interaction with the spiritual, we can only percieve that through the imaginative faculties of our minds, whereas we receive the physical sensations through our brain-body interactions with our minds, through which we try to give meaning to these sensations.
+
+To my mind, the difference between the two, is that the "receiving", that is, acknowledging, the spiritual sensation is optional, whereas the physical is not.
