@@ -4,13 +4,25 @@ description: Loving Mercy
 tags: null
 date: 2022-04-16T00:04:00.000Z
 ---
+<figure style='float: left'>
+ <a href='/posts/img/neshama/freedom/Tree%20of%20Life%2001%20-%20both%20noD%20(Chesed%20in%20Chesed).png'>
+   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%2001%20-%20both%20noD%20(Chesed%20in%20Chesed)_200x323.png' alt='Chesed in Chesed' width='200' height='323' />
+ </a>
+ <figcaption></figcaption>
+</figure>
 
-<div style="font-weight: bold; text-align:center">
+<div style="text-align:center">
 <h2>Chesed she’b Chesed</h2>
-<i>Day One of Week 1:</i>
-<p>Kindness in Love</p>
+<p>
+<span dir="rtl"><b>הָיום יום אֶחָד לָעוֹמֵר</b></span>
+<br />
+<i>Today is one day of the Omer</i>
+</p>
+
+<h4>Kindness in Love</h4>
 
 </div>
+
 <div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
 <p>Examine every aspect of love, its expression and its intensity. We all have the capacity to love, however to actualize and express it in a productive and positive manner is our work.</p>
 <p>
