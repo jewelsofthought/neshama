@@ -14,6 +14,7 @@ date: 2022-04-17T00:04:00.000Z
 <h2>Gevurah she’b Chesed</h2>
 <p>
 <span dir="rtl"><b>הָיום שְׁנִי יָמִים לָעוֹמֵר</b></span>
+<br />
 <i>Today is two days of the Omer</i>
 
 <h4>Restraint in Love</h4>

@@ -9,6 +9,13 @@
   margin: 0.1em 1em;
 }
 
+.abstract {
+  text-align: justify; 
+  margin-left: 2rem; 
+  margin-right: 2rem; 
+  font-style:italic
+}
+
 .poem {
   margin: auto;
   font-style: italic;

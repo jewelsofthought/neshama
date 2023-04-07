@@ -22,12 +22,12 @@ date: 2022-04-16T00:04:00.000Z
 
 </div>
 
-<div class="abstract">
+<div>
 
-<p>Examine every aspect of love, its expression and its intensity. We all have the capacity to love, however to actualize and express it in a productive and positive manner is our work.</p>
-<p>
-Unless my love includes the other six aspects of <b>Chesed</b>, it will be distorted and unable to be truly realized.
-</p>
+_Examine every aspect of love, its expression and its intensity. We all have the capacity to love, however to actualize and express it in a productive and positive manner is our work._
+
+_Unless my love includes the other six aspects of <b>Chesed</b>, it will be distorted and unable to be truly realized._
+
 </div>
 
 The challenge that stands in front of us before we begin our journey, is to choose freedom. With freedom comes truth. In slavery is the illusion, the pretence of life. The journey from slavery to freedom is filled with challenges, demanding that we release the chains that keep us stuck in our pain, those habits and thoughts that cause great pain. They keep us separate from realising our potential, convincing us of our limitations, our smallnesses. Our external slavery is a metaphor for the slavery we experience internally.
