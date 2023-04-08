@@ -35,21 +35,30 @@ In fact, the best we can do, is build bubbles of space & time that contain the g
 
 Let's change perspective, and look at this representation as one that speaks of "how evil, or how good?" And let's look at it this way:
 
+<figure style="float:left">
+   <img src="/posts/img/neshama/good_evil-01.svg" alt="Good & Evil" width="301" height="121" >
+</figure>
+
 There will be at least one spot where unadulterated evil can exist just as there is at least one spot where pure good can exist. These define the boundaries of the world of good and evil. Well, in the realm of the infinite infinities, the infinitely infinite, or the infinity of infinities.... who knows?
-
-<figure>
-<img src="/posts/img/neshama/good_evil-01.svg" alt="Good & Evil" >
-<figcaption>Good & Evil</figcaption>
-</figure>
-
-<figure style="float:right">
-<img src="/posts/img/tao_brush.jpg" alt="Tao" width="100">
-<figcaption>Tao - the interplay<br /> between light and dark</figcaption>
-</figure>
 
 Let's think of this space as a circle, with the edge of one side being that of pure evil and the other being that of pure good. This then represents the "place", or point, of the purest of good & evil. Inside the circle are all the different gradations and combinations of good and evil. This will bring us to a symbol that is very similar to the Tao, especially if we think of it as a 2d representation of a 3d dynamic.
 
+<figure style="float:right">
+   <img src="/posts/img/tao_brush.jpg" alt="Tao" width="100">
+   <figcaption>Tao - the interplay<br /> between light and dark</figcaption>
+</figure>
+
+It could also be thought of as a circle in which the perimeter is one of pure evil and the centre one of pure good.
+
+<figure style="float:left">
+   <img src="/posts/img/neshama/good_evil-03.svg" alt="Good & Evil" width="261" height="122">
+</figure>
+
 Though there is a small, perhaps minute, percentage, of pure good or pure evil, most of the space consists of the _benonim_, the in-betweeners or mundanes, who are neither purely good nor purely evil, but an agglomeration of the two. Perhaps seen as an entwining, rather like the connected double helix of the DNA.
+
+<figure style="float:right">
+   <img src="/posts/img/neshama/double-helix_201x134.png" alt="Double Helix" width="201" height="134">
+</figure>
 
 Thus, in reality, the narrative is about you and I, the _benonim_, &mdash; for we make up the vast majority of human existence.
 
@@ -69,22 +78,13 @@ Does G-d exist? The only way one can argue this existential point is by looking 
 
 expressed in the prayer,
 
-<details>
-<summary class='button is-outlined'>
- <i>Yigdal</i>&nbsp;<i class='fa fa-solid fa-caret-down'></i>
-</summary>
-
-| Transliteration                                                    | Translation                                                                                   | Alternative Translation                                                             |
-| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| _yigdal elohim khai v’yishtabakh, nimtza v’ein eit el metziyuto_   | Acclaim and praise the living God who exists beyond the boundaries of time.                   | Meet the living presence, the sacred One; past present future, here and never gone. |
-| _echad v’ein yakhid k’yikhudo, ne’elam v’gam ein sof l’akhduto_    | Most singular of all, concealed and yet also without bound                                    | One and with no other One like this One; subtle, infinite, complete, unbroken.      |
-| _ein lo d’mut ha’guf v’eino guf, lo na’arokh eilav kedushato_      | He has no body — nor even the appearance of a body, it is impossible to measure his holiness. | It has no body, no comparison; unique in uniqueness in unison.                      |
-| _kadmon k’khol davar asher nivra, rishon v’ein reishit l’reishito_ | Prior to everything that was created, first of all, and yet himself without a beginning.      | Primordial, primary, unbegotten; before the creation, the origin.                   |
+              |
 
 </details>
-<div class="columns">
-<div class="column">
-<div dir="rtl" style="margin-bottom: 1rem; margin-inline: 2rem">
+<div class="block">
+   <div class="columns">
+      <div class="column">
+         <div dir="rtl" style="margin-bottom: 1rem; margin-inline: 2rem">
 
 יִגְדַּל אֱלֹהִים חַי וְיִשְׁתַּבַּח.
 נִמְצָא וְאֵין עֵת אֶל מְצִיאוּתוֹ׃
@@ -95,11 +95,11 @@ expressed in the prayer,
 קַדְמוֹן לְכָל־דָּבָר אֲשֶׁר נִבְרָא.
 רִאשׁוֹן וְאֵין רֵאשִׁית לְרֵאשִׁיתוֹ׃
 
-</div></div></div>
+         </div>
+      </div>
+      <div class="column">
 
-Here, in the form of a poem [Yigdal](https://www.poetrynook.com/poem/yigdal) from Newton Mann, is a translation:
-
-<div class="poem">
+         <div class="poem">
 
 Praise to the living God!
 All praised be His Name,
@@ -114,22 +114,38 @@ Formless, all lovely forms
 Declare His loveliness;
 Holy, no holiness of earth
 Can His express.
+&nbsp;&nbsp;&nbsp;&mdash; [Yigdal](https://www.poetrynook.com/poem/yigdal) from Newton Mann
+         </div>
+      </div>
+   </div>
+
+   <details>
+<summary class='button is-outlined'>
+ <i>Yigdal - more literal translations</i>&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+
+| Transliteration                                                    | Translation                                                                                   | Alternative Translation                                                             |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| _yigdal elohim khai v’yishtabakh, nimtza v’ein eit el metziyuto_   | Acclaim and praise the living God who exists beyond the boundaries of time.                   | Meet the living presence, the sacred One; past present future, here and never gone. |
+| _echad v’ein yakhid k’yikhudo, ne’elam v’gam ein sof l’akhduto_    | Most singular of all, concealed and yet also without bound                                    | One and with no other One like this One; subtle, infinite, complete, unbroken.      |
+| _ein lo d’mut ha’guf v’eino guf, lo na’arokh eilav kedushato_      | He has no body — nor even the appearance of a body, it is impossible to measure his holiness. | It has no body, no comparison; unique in uniqueness in unison.                      |
+| _kadmon k’khol davar asher nivra, rishon v’ein reishit l’reishito_ | Prior to everything that was created, first of all, and yet himself without a beginning.      | Primordial, primary, unbegotten; before the creation, the origin.
 
 </div>
 
 ## Thoughts
 
-G-d is the primal cause.
+<p style="text-align:center; font-weight: bold">G-d is the primal cause.</p>
 
 > "Thought cannot rise above the source of thoughts, just as water cannot rise above its source."
 
-Do you know where your thoughts come from? That you think these thoughts is of course, obvious&mdash;but how can you think thoughts, is the question. That science can find evidence of "physical" or electrical manifestations of them in your brain, prove that your brain must then be the source of any of your thoughts? It is like saying that your body is the source of all your feelings. If that is sufficient for you, then you become the source of all that you are, including your thoughts.
+Do you know where your thoughts come from? That you think these thoughts is of course, obvious&mdash;but how can you think thoughts, is the question. That science can find evidence of "physical" or electrical manifestations of them in your brain, prove that your brain must then be the source of any of your thoughts? It is like saying that your body is the source of all your feelings. If that is sufficient for you, then you behave as if you are the sole source of all that you are, including your thoughts &mdash; and that is patently not true.
 
 ## Infinite Thoughts
 
 ### Is the universe infinite ($$ \infty $$)?
 
-Before we can even attempt to define what G-d is(n't), the question that arises first, is whether this universe, this material manifestation is infinite or not." If it is finite, then there must have been a "birth" of the universe (or existence), a "creation", a primal beginning. What or who (to anthropomorphise) is the Mother that gave "birth" to this creation. Who or what is the Father that provided the seed, which is the alpha of the omega of this creation? There is something&mdash;or nothing&mdash;that exists beyond, or before, this existence that we are aware of. Now in relation to this&nbsp;$$ \infty$$, a couple of billion years here or there, passes in the blink of an eye. Obviously, if you are dealing with infinite time arguing about a billion or 100 billion years, you have no concept of what $$ \infty $$ is.
+Before we can even attempt to define what G-d is(n't), the question that arises, is whether this universe, this material manifestation is infinite or not. If it is finite, then there must have been a "birth" of the universe (or existence), a "creation", a primal beginning. What or who (to anthropomorphise) is the Mother that gave "birth" to this creation. Who or what is the Father that provided the seed, which is the alpha of the omega of this creation? There is something&mdash;or nothing&mdash;that exists beyond, or before, this existence that we are aware of. Now in relation to this infinity, a couple of billion years here or there passes in the blink of an eye. Obviously, if you are dealing with infinite time arguing about a billion or 100 billion years, you have incomplete comprension of what infinity is.
 
 ### In the realm of the Infinite ($$ \infty $$)
 
