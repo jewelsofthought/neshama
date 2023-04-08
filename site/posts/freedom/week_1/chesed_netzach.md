@@ -5,12 +5,25 @@ tags: null
 date: 2022-04-19T00:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
-<h2>Netzach she’b Chesed</h2>
-<i>Day Four of Week 1:</i>
-<p>Endurance in Love</p>
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
 
+<figure style='float: left'>
+ <a href='/posts/img/neshama/freedom/Tree%20of%20Life%201.4%20-%20upper%20noD%20(Netzach%20in%20Chesed).png'>
+   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%201.4%20-%20upper%20noD%20(Netzach%20in%20Chesed)_144x300.png' alt='Netzach in Chesed' width='144' height='300' />
+ </a>
+</figure>
+
+<div style="text-align:center">
+<h2>Netzach she’b Chesed</h2>
+<p>
+<span dir="rtl"><b>הָיום אָרְבַּה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>Today is four days of the Omer</i>
+
+<h4>Endurance in Love</h4>
 </div>
+
 <div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">
 <p>
 Does my love have spirit and valour? Will I be able to endure and overcome the challenges of love? Will I be able to rise to the heights that love requires of me, without falling into the endless pits of love's opposition?.

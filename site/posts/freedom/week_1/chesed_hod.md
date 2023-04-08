@@ -9,17 +9,17 @@ date: 2022-04-20T00:04:00.000Z
 <i class="fa fa-file" aria-hidden="true"></i></a>
 
 <figure style='float: left'>
- <a href='/posts/img/neshama/freedom/Tree%20of%20Life%2001%20-%20both%20noD%20(Gevurah%20in%20Chesed).png'>
-   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%2001%20-%20both%20noD%20(Gevurah%20in%20Chesed)_200x323.png' alt='Gevurah in Chesed' width='200' height='323' />
+ <a href='/posts/img/neshama/freedom/Tree%20of%20Life%201.5%20-%20upper%20noD%20(Hod%20in%20Chesed).png'>
+   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%201.5%20-%20upper%20noD%20(Hod%20in%20Chesed)_144x300.png' alt='Hod in Chesed' width='144' height='300' />
  </a>
 </figure>
 
 <div style="text-align:center">
 <h2>Hod she’b Chesed</h2>
 <p>
-<span dir="rtl"><b>הָיום שְׁלֹשָׁה יָמִים לָעוֹמֵר</b></span>
+<span dir="rtl"><b>הָיום חָמִשָׁה יָמִים לָעוֹמֵר</b></span>
 <br />
-<i>Today is three days of the Omer</i>
+<i>Today is five days of the Omer</i>
 
 <h4>Humility in Love</h4>
 

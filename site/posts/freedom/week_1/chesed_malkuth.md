@@ -4,13 +4,25 @@ description: Receiving Love
 tags: null
 date: 2022-04-22T00:04:00.000Z
 ---
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
 
-<div style="font-weight: bold; text-align:center">
+<figure style='float: left'>
+ <a href='/posts/img/neshama/freedom/Tree%20of%20Life%201.7%20-%20upper%20noD%20(Malchut%20in%20Chesed).png'>
+   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%201.7%20-%20upper%20noD%20(Malchut%20in%20Chesed)_144x300.png' alt='Malchut in Chesed' width='144' height='300' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Malchut she’b Chesed</h2>
-<i>Day Seven of Week 1:</i>
-<p>Receptivity in Love</p>
+<p>
+<span dir="rtl"><b>הָיום שִׁיבָה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>Today is seven days of the Omer</i>
 
+<h4>Receptivity in Loving</h4>
 </div>
+
 <div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">
 <p>
 Mature love comes with - and brings - personal dignity. An intimate feeling of nobility and regality. Knowing your special place and contribution in this world. Any love that is debilitating and breaks the human spirit is no love at all. For love to be complete it must have the dimension of personal sovereignty.

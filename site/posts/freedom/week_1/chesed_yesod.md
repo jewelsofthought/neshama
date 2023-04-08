@@ -4,13 +4,25 @@ description: Loving Connection
 tags: null
 date: 2022-04-21T00:04:00.000Z
 ---
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
 
-<div style="font-weight: bold; text-align:center">
+<figure style='float: left'>
+ <a href='/posts/img/neshama/freedom/Tree%20of%20Life%201.6%20-%20upper%20noD%20(Yesod%20in%20Chesed).png'>
+   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%201.6%20-%20upper%20noD%20(Yesod%20in%20Chesed)_144x300.png' alt='Yesod in Chesed' width='144' height='300' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Yesod she’b Chesed</h2>
-<i>Day Six of Week 1:</i>
-<p>Connection in Loving</p>
+<p>
+<span dir="rtl"><b>הָיום שִׁישָׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>Today is six days of the Omer</i>
 
+<h4>Connection in Loving</h4>
 </div>
+
 <div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">
 <p>
 
