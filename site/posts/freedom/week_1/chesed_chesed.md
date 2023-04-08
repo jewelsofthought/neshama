@@ -4,9 +4,13 @@ description: Loving Mercy
 tags: null
 date: 2022-04-16T00:04:00.000Z
 ---
+
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
 <figure style='float: left'>
- <a href='/posts/img/neshama/freedom/Tree%20of%20Life%2001%20-%20both%20noD%20(Chesed%20in%20Chesed).png'>
-   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%2001%20-%20both%20noD%20(Chesed%20in%20Chesed)_200x323.png' alt='Chesed in Chesed' width='200' height='323' />
+ <a href='/posts/img/neshama/freedom/Tree%20of%20Life%201.1%20-%20upper%20noD%20(Chesed%20in%20Chesed).png'>
+   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%201.1%20-%20upper%20noD%20(Chesed%20in%20Chesed)_144x300.png' alt='Chesed in Chesed' width='144' height='300' />
  </a>
 </figure>
 

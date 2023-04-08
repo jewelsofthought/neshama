@@ -5,12 +5,26 @@ tags: null
 date: 2022-04-20T00:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/neshama/freedom/Tree%20of%20Life%2001%20-%20both%20noD%20(Gevurah%20in%20Chesed).png'>
+   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%2001%20-%20both%20noD%20(Gevurah%20in%20Chesed)_200x323.png' alt='Gevurah in Chesed' width='200' height='323' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Hod she’b Chesed</h2>
-<i>Day Five of Week 1:</i> 
-<p>Humility in Love</p>
+<p>
+<span dir="rtl"><b>הָיום שְׁלֹשָׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>Today is three days of the Omer</i>
+
+<h4>Humility in Love</h4>
 
 </div>
+
 <div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">
 <p>
 You can often get locked in love and be unable to forgive your beloved or to bend or compromise your position. Hod introduces the aspect of humility in love; the ability to rise above yourself and forgive or give in to the one you love just for the sake of love even if you're convinced that you're right. Arrogant love is not love.

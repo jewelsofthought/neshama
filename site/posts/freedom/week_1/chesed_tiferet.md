@@ -4,13 +4,25 @@ description: Beauty in Love
 tags: null
 date: 2022-04-18T00:04:00.000Z
 ---
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
 
-<div style="font-weight: bold; text-align:center">
+<figure style='float: left'>
+ <a href='/posts/img/neshama/freedom/Tree%20of%20Life%201.3%20-%20upper%20noD%20(Tiferet%20in%20Chesed).png'>
+   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%201.3%20-%20upper%20noD%20(Tiferet%20in%20Chesed)_144x300.png' alt='Tiferet in Chesed' width='144' height='300' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Tiferet she’b Chesed</h2>
-<i>Day Three of Week 1:</i>
-<p>Balance in Love</p>
+<p>
+<span dir="rtl"><b>הָיום שְׁלֹשָׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>Today is three days of the Omer</i>
 
+<h4>Balance in Love</h4>
 </div>
+
 <div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">
 <p>
 True love includes empathy and compassion which makes it a beautiful love. Love is often fostered in expectation of reciprocity. Real love is expressed even when one gets nothing in return; even when the other doesn't deserve love. <b>Tiferet</b> is giving also to those that have hurt you. It acknowledges the discipline of <b>Gevurah</b> and says that, nevertheless, compassionate love calls for helping all.
