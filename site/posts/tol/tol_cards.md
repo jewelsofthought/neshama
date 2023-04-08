@@ -58,6 +58,7 @@ modified: 2022-08-15T17:48:59.753Z
 44. [Ghetto](#ghetto)
 45. [Power](#power)
 46. [Culpibility](#culpibility)
+47. [Information gathering](#information-gathering)
 
 ---
 
@@ -169,7 +170,7 @@ We are the priesthood of the new age. It is not necessary to awaken the sleepers
 
 Amen.
 
-## Governance in the global space.
+## Governance in the global space
 
 Humanity is rediscovering its commons: the self-organized management of resources which people need for their survival and livelihood. The ethic of commoning is based on the recognition that a person has the right to a means of sustenance without interference or harm from others. In this sense, the commons are an inclusive expression of the right to life and the right to justice.
 
@@ -458,3 +459,13 @@ They see how powerful someone or some nation is and they aspire to obtain some o
 It seems that in large bureaucratic institutions there is no culpability. Or rather, it seems a fact of life that there when the amount of people participating in an organized structure reaches a specific threshold, the actions of the structure become somewhat removed from the reality or consequences of their actions.
 
 In order to effect change, one has to find those responsible for the issue in question. How does one even go about that? Once one has found this person or people, if you raise the issue, you will always get a lot of justifications as to why it is that way. For there is always a way for us to justify almost any action depending on the circumstances. The proof of that is in the history of all that has happened already.
+
+## Information gathering
+
+It is not the fact that they are collecting information about us. It is the intention behind the collecting of information, the purpose behind the action. (This is another example of the differential/integral model. The direction is the collection of information. The use of that information is the integral function.)
+
+The reason they want all this information, is not to help you (that is a side effect of the main purpose. If they do help you, then they may get your business, for their service or product becomes a perceived value add.), but to make a profit. Here is where we become the rats in the cage, our only purpose in life, as perceived by the marketeers, is to benefit their company and make them rich and profitable. For that is the ultimate purpose of existence as defined by this culture. The US having brought this motif to the level of an art form, using all the science and technology that they can muster.
+
+This has to change to be used for the benefit of us all. To track and monitor our habits desires and needs. Our purpose in life should be to ensure that we all have the means with which to express these desires and fulfil our needs, hopefully in a positive and constructive manner. Though if our ethic has changed to be one of aiding one another to achieve this, and we are rewarded appropriately, so that it becomes worth our while, and we receive the recognition that all of us yearn for, I think we will begin to see less and less incidents of destructive and non-productive behavior patterns.
+
+For example, there is a group in New York City of organic farmers that began to give out free fresh fruit and vegetables in the poverty stricken areas of the 5 boroughs. By feeding the people, and eventually providing them with work, the crime rate in the area dropped, to the level that the city noticed, and began to support them financially, and use the police to help them distribute the food. Apparently, now that the people did not have to deal in drugs to feed their family, they stopped doing so. Also, now that the kids saw that there were other ways of earning a living, besides drug dealing, which was the only way of getting ahead in the ghetto, they began to take to it.

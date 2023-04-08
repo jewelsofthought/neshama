@@ -41,6 +41,14 @@ The following simplified example, using five developmental stages involved in bu
 | _Ruach_                                                                                                          |             |
 | _Nefesh_                                                                                                         |             |
 
+### Three souls of embodiment
+
+| Soul | Realm | Form | Element |
+| --- | --- | --- | --- |
+| _Neshamah_| Divine Bound | Breath | Air |
+| _Ruach_ | Soul Bound | Wind | Fire |
+| _Nefesh_ | Earth Bound | Effect/Rest | Water |
+
 ## PEMS-1
 
 | PEMS      | Quality               | Description                                    |

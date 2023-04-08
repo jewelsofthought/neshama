@@ -22,6 +22,7 @@ date: 2015-01-26T05:12:16.154Z
 10. [From the zero (0)](#from-the-zero-0)
 11. [Choice](#choice)
 12. [Union with G-d](#union-with-g-d)
+13. [1 and -1, good and evil (Judaica/Good \& Evil)](#1-and--1-good-and-evil-judaicagood--evil)
 
 ## "I am that I am"
 
@@ -38,7 +39,7 @@ However, the truth behind it is this: $$I$$ am the only $$I$$ that is fully $$I$
 
 The beginning begins with the emergence of the One. How the Nothing became 1 is beyond a miracle. There are absolutely no words (in any language) that describe either what the 0 is, or how it became 1. Though there is a way to express it in every language, and it is an essential part of every language. In fact, everyone can "speak" this divine language. It is called ... silence!
 
-## Everything exists between 0 & 1.
+## Everything exists between 0 & 1
 
 Start from One. From the generally accepted wisdom that everything arose from the One, and everything is reducible to the One. Oneness, which is, was and always will be the Source of Everything.
 
@@ -184,3 +185,21 @@ We are not an other. Nor are we beset by one, as a punishment. But are constrain
 ## Union with G-d
 
 Union with G-d does **not** mean dissolution in the infinite Light of the Creation, but rather to receive this Grace, accept our blessing and our burden, of having the Divine Power of Choice, and stand with God. Not in the battle of against evil, for that is not in the Realm of the Divine, but of harmonising complimentary energies that oppose one another, and resonating with opposing forces that compliment one another.
+
+## 1 and -1, good and evil (Judaica/Good & Evil)
+
+Think of it as a graph, where zero is neutral, 1 is absolute good, -1 is absolute evil. Then there is a huge difference between approaching zero and approaching –1. We now know that a better way to look at it is as a body in motion. Thus we can use calculus. The differential equations will show us the direction we are heading, and the integral equations will show us what space we are filling and how, i.e. what we are putting out.
+
+Thus we can work out whether we are heading towards –1, 0 (from –1), 1, or 0 (from 1). In this way, we have a basic set of elements here, manifesting the four directions:
+
+- Going from 0 to –1, you are entering the danger zone, and moving towards becoming truly evil. Evil actions are now becoming commonplace in your existence. Either you are becoming a killer, a rapist or a victimizer – one who perpetrates violence and cruelty on others.
+- Going from –1 to 0, you are still in the danger zone, but something has begun to change you, has awoken the _Yetzer Ha’Tov_ and you are becoming aware, once again (for you knew you were descending once upon a time), of the need to change for the better – the basic human instinct. It is almost always love. Perhaps the birth of a child. Perhaps an experience of the beauty of someone or something around you. Perhaps the love or kindness of a stranger. Perhaps a piece of music. Or perhaps Adonai took pity on you, and woke the sleeping spirit, and you loved him forever more.
+- Often it is a “bottoming out”, reaching your endpoint, your -1. Realising that whatever downward spiral you had reached, it was time to change something in your life, and you had arrived at that turning point, that place where you would be willing to do anything, whatever sacrifices it entailed, to change that in yourself.
+- Going from 0 – 1. You are becoming blessed. I suppose as you approach the 1, (or is it after you pass through the origin, the 0 point); you will be able to begin to bless others, to spread the kindness and love. You are on the path to redemption. You are climbing Jacob’s ladder. Moving from the Earth to Heaven. Beauty and kindness and love will begin to surround you. People and animals will be naturally drawn to you, and want to spend time in your sphere. These are the ones to follow and emulate. Only you have to be in the right field of existence to be able to find them, for they do not advertise.
+  This is also called the road to redemption. The _“chozer be’tsuvah”_, the returnee. The one who fell into sin, but emerged from it, having passed through the dark night of the soul.
+- Going from 1 – 0. That is a sad journey. It is the fall. Satan falling from being God’s favourite to being his Archenemy. The prosecutor – always pointing out the Bad, feeding the _Yetzer Ha’Rah_. What a victory, to bring down one of the Blessed. It is Adam’s eviction from the Garden of Eden. It is childhood – born an Angel, and living in Elohim’s blessed womb. Growing into the world and encountering the Dark side.
+  It is also the beginning of the story, where the 1, the unity, the everything, splits into emergence, and as such has to reach the 0 point, middle, in order to be able to extend outwards.
+
+There is an interesting concept that emerges here. In order to attain the 0 point, in the middle, the 1 would have to create the -1 so that the 0 would be in the middle‼!
+
+Then we have the integral, which investigates the space of the journey, and talks of the actions that you perpetrate and the manner in which you carry out these actions.

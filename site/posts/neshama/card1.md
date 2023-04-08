@@ -10,6 +10,8 @@ modified: 2022-09-14T15:56:13.090Z
 {% block tableContents %}
 
 1. [All change can only happen via יהוה](#all-change-can-only-happen-via-יהוה)
+   1. [Divine Desire](#divine-desire)
+   2. [Ego](#ego)
 2. [Centre](#centre)
 3. [The truth](#the-truth)
 4. [Your Gift](#your-gift)
@@ -54,6 +56,9 @@ modified: 2022-09-14T15:56:13.090Z
 42. [Relationship](#relationship)
 43. [Natural Laws / Divine Laws](#natural-laws--divine-laws)
     1. [My Pain](#my-pain)
+44. [Message](#message)
+    1. [Sexual](#sexual)
+    2. [Quantum Flirt](#quantum-flirt)
 
 {% endblock %}
 
@@ -78,6 +83,14 @@ modified: 2022-09-14T15:56:13.090Z
 ## All change can only happen via יהוה
 
 > If **Ha'Shem** is the **Source of everything**, then true manifestation can only extend from this **Source**. Therefore we must direct any and all desire, any and all prayer, every request to **Ha'Shem** - for only **He** can cause real change to occur.
+
+### Divine Desire
+
+- Every object, everything that exists in the Universe is a manifestation of **Divine Desire**.
+
+### Ego
+
+> If we are meant to be servants of G-d, then our ego's cannot rule.
 
 ## Centre
 
@@ -452,5 +465,22 @@ Our eternal pain is not that we are bad (as the site of the eternal battle betwe
 Does this feed my evil side(s) in any way? By the acknowledgement of evil, I am in some way, creating it, giving it energy. On the other hand if I cannot admit that I have the urge to evil in my very being, then how can we ever forgive ourselves, and heal? For what is there to forgive if I do not even admit to the evil urge existing within myself.
 
 How can we enjoy ourselves without being bad? If God is all loving and does not care what we do, just that we love her, then how come we need to accept all these other rules that have been made, that make us so unhappy. So unhappy as to have the need to kill one another, and often in the name of the self-same god of love and peace and harmony.
+
+{message: mess-age, mes-sage, me-sage
+messenger: messanger, mess-anger, me-sager}
+
+## Message
+
+>One can seek the material in the material, or the spiritual in the material.
+
+We awaken into a material world, a world of "real" things &mdash; which we refer to as "reality". We need these material things to exist, and the natural goal is to accumulate enough material to sustain oneself. However, when one has ensured one's basic material security, what is one's subsequent drive? This is where we have the choice whether to take the high road, or the low road. The lower would be to seek more material, and the higher would be to seek the spiritual hidden in the material &mdash; the message, rather than the messenger!
+
+### Sexual
+
+The intention must be pure (תהור). ֺOne has to rise above the material which inspires the sexual. If that becomes the raison d'etre of your connection, it will quickly become enmeshed/awash with it.
+
+### Quantum Flirt
+
+When two people's energies touch, it is similar to a what is known as a _quantum flirt_ - "a short-lived, transient, perceptual signal which can be used to provide us with insight."
 
 {% endblock %}

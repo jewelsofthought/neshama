@@ -2,7 +2,7 @@
 title: Good and Evil
 description: Free Choice
 tags: null
-starts: '***'
+stars: '****'
 date: 2008-01-10T15:38:35.115Z
 modified: 2022-11-13
 ---
@@ -16,11 +16,10 @@ modified: 2022-11-13
 5. [Designed or ... not](#designed-or--not)
 6. [Athiest](#athiest)
    1. [Denial of G-d (free\_choice)](#denial-of-g-d-free_choice)
-7. [G!d is King](#gd-is-king)
+7. [G!d as King](#gd-as-king)
    1. [Omnipotence](#omnipotence)
 8. [Perfect world](#perfect-world)
 9. [Questions](#questions)
-10. [1 and -1, good and evil (Judaica/Good \& Evil)](#1-and--1-good-and-evil-judaicagood--evil)
 
 ## Good and evil
 
@@ -149,27 +148,31 @@ Before we can even attempt to define what G-d is(n't), the question that arises,
 
 ### In the realm of the Infinite ($$ \infty $$)
 
-In the realm of $$ \infty $$ everything exists. Can you say that there is a number in the set of all natural numbers that is missing? Yet, the number only exists if you "name" it, and for as long as you hold that name in existence. But once that is completed, where does this number actually exist, but in potential &mdash; waiting for the "call to duty", so to say.
+In the realm of the Infinite everything exists. For instance, can you say that there is a number in the (infinite) set of all natural numbers that is missing? Yet, the number only exists if you "name" it, and for as long as you hold that name in existence. But once that is completed, where does this number actually exist, but in potential &mdash; waiting for the "call to duty", so to say.
 
-Even if our science claims that it is highly improbable that such a situation could arise, in the realm of the $$ \infty $$ anything is possible, and given enough time, everything that one can imagine could occur, no matter how improbable &mdash; for in the realm of $$ \infty $$, everything is possible.
+Even if our science claims that it is highly improbable that such a situation could arise, in the realm of the Infinite anything[^3] is possible, and given enough time, everything that one can imagine could occur, no matter how improbable &mdash; for in the realm of what is possible is beyond our capacity to predict.
 
-Thus there could have been multiple universes that were created, and this one just happened to be right for our existence. Those other universes could still be existing, or could have been destroyed. One could even propose that in the realm of $$ \infty $$ it is inevitable that a universe such as ours would exist. After all, could not all the possible universes have been created and one of them is correctly attuned for the emergence of conscious beings?
+Thus there could have been multiple universes that were created, and this one just happened to be right for our existence. Those other universes could still be existing, or could have dissappeared. One could even propose that in the realm of Infinity it is inevitable that a universe such as ours would exist. After all, could not all the possible universes have been created and one (or more) of them is correctly attuned for the emergence of conscious beings?
 
-The fact that we are conscious, and conscious of being conscious, is what is strange about this story. For we know there are other beings that are conscious. But does consciousness necessarily entail beings conscious of being conscious? Is that the strange narcissistic loop that we humans often fall into?
+Though that in itself makes this universe, or our existence in it, special.
 
-Can one really say, with any credence, that this infinite set of universes arose without some "primal cause" that is beyond anything any being, conscious or not, can apprehend.
+The fact that we are conscious, and conscious of being conscious, is what is strange about our story. For we know there are other beings that are conscious. But does consciousness necessarily entail beings conscious of being conscious?
 
 ## Designed or ... not
 
-Was there a design(er) behind it, an intention that directed it? How could we hope to apprehend what the meaning of "intention" is in relation to an $$ \infty $$ being? No finite conscious being could hope to achieve that&mdash;unless it contained something of $$ \infty $$ in its consciousness.
+Can one really say, with any credence, that this infinite set of universes arose without some "primal cause" that is beyond anything any being, conscious or not, can apprehend
 
-Both intention and apprehension are finite concepts anyways&mdash;as is all rational science of finite beings who always propose a beginning and an end&mdash;being finite&mdash;imposing limits so that it can contain its views on infinity. For it works always within a closed system, with keeping certain variables/dynamics of the system fixed while observing others, whereas G-d works with $$ \infty $$. G-d is an open system, full of infinite potential and possibilities, containing an infinite amount of finities of which we are just one of them. One which happens to be "harmonious" to our existence. Thus we say "G-d created the world" or scientifically it might be restated, "An harmonious universe, one in which human beings could exist, arose out of the infinity of possibilities&mdash;i.e., possible universes&mdash;that exist.".
+However, the existential question here, is whether there is a design(er) behind it, an intention that directed it. How could we hope to apprehend what the meaning of "intention" is in relation to an Infinite Being? No finite consciousness could hope to achieve that&mdash;, in fact, it could not even be conscious of infinity unless it contained something of Infinity in its consciousness.
+
+Both intention and apprehension are finite concepts anyways&mdash;as is all rational science of finite beings who exist in a world in which everything has a beginning and an end. Being finite, he has to, by necessity, impose limits on any endeavour, so that it can contain its views. This works always within a closed system, which entail keeping certain variables/dynamics of the system fixed while observing others, whereas the Infinite Being works with infinity. This Being is thus an open system, full of infinite potential and possibilities, containing an infinite amount of finities of which we are just one. One which happens to be "harmonious" to our existence. Thus we say "G-d created the world" or scientifically it might be restated, "An harmonious universe, one in which human beings could exist, arose out of the infinity of possibilities, i.e., possible universes, that exist.".
 
 ## Athiest
 
-G-d is removed from the equation by the atheist, who will then replace it with nothing, or with some other belief system&mdash;one that excludes G-d. Thus one ends up with the space that is defined by those that believe in G-d, the Creator, and those that do not.
+If this Infinite, Overriding Being is removed from the equation by the atheist, he will then replace it with nothing, or with some other belief system&mdash;one that excludes G-d. Thus one ends up with the two narratives. One that is defined by those that believe in G-d, the Creator, and and the other that do not.
 
-At this stage, most of us have replaced it with science, the ultimate expression of the rational mind or so it is described by its believers while not taking into account that the limitations of rationality.
+However, as they are talking about the same perceived reality, they will inevitably end up talking about the same things, except using different language (and possibly different protocols). Thus, rather than speaking of the Creation, the scientist will refer to it as the Big Bang.
+
+At this stage, most of us have replaced the religious narrative with the scientific one. This is an attempt at a rational description of the creation of the universe, while not taking into account that the limitations of rationality.
 
 What we find in this case, is that in the midst of the most rational of times (the scientific age), our behaviour becomes more and more irrational. Now we have reached a trans-human stage, where we can improve on the natural course of evolution with our science, and believe that we can replace G-d with AI&mdash;despite overwhelming evidence as to the risks and failures of such an approach.
 
@@ -177,93 +180,68 @@ This is reminiscent of the [Tower of Babel](https://www.chabad.org/library/bible
 
 On the other hand, if there is a G-d, and we act abominably, we blame G-d for creating us (humans) that way.
 
-If we deny the existence of G-d, and we act abominably, who then do we blame? No-one, for there is no-one to blame, and we may conclude that that is just the way human beings are. If we replace the religious doctrine with a scientific one (eg. evolution) which supports this violent behaviour, then the jaws of the beast can close upon us.
+If we deny the existence of G-d, and we act abominably, who then do we blame? No-one, for there is no-one to blame, and we may conclude that that is just the way human beings are. If we replace the religious doctrine with a scientific one (eg. evolution) which believes that this violent behaviour is an artifact of being human, then the jaws of the beast can close upon us. For they will tell us that they can adjust our nature to make us more peaceful and thus less human. For, the religious mind would argue, if we are made in G-d's image, to change that manifestation would be to change the very nature of the human being. However, if that is not the case (as those non-believers would propose), then we are a freak of nature, and thus can be adjusted accordingly.
 
-The essence of a religious doctrine is that at its core exists something that is greater than the human conundrum. At its center, exists a being, a consciousness that is above and beyond ours. One that is perfect and merciful and good, all in a manner that is beyond anyone's comprehension, and thus can only be held in faith and in belief. If we do not believe that there is a better life, a better way for people to live than to kill and brutalise one another, one that is achievable - what hope or future do we have to look forward to?
+The essence of a religious doctrine is that at its core something that is greater than the human conundrum exists. At its center, exists a Being, a Consciousness that is above and beyond ours. One that is Perfect and Merciful and Good, all in a manner that is beyond anyone's comprehension, and thus can only be held in faith and in belief. If we do not believe that there is a better life, a better way for people to live than to kill and brutalise one another, one that is achievable - what hope or future do we have to look forward to?
 
-If we remove G-d, blessed be His name forever, the saviour from our equation, then we are left with a human being the ultimate consciousness (as we would then acknowledge no other), and we have plenty of examples of said consciousness being insufficient and incapable in many circumstances.
+If we remove G-d, blessed be His name forever, the saviour, from our equation, then we are left with human consciousness as the ultimate consciousness (as we would then acknowledge no other), and we have plenty of examples of said consciousness being insufficient and incapable in many circumstances, and downright dangerous and extremely violent in others.
 
 For those who follow this atheistic doctrine, [AI](ai.html) would be the ultimate solution. Through the implementation of this AI system, the powerful elites would be able to embed their positions of power. Which is happening as I speak.
 
-> [AI](ai.html): A note on AI: Perhaps we have had such systems throughout history, just not referred to as AI. But any system that is imposed from the outside, and forces people to live in a certain imposed manner, is a form of AI. Legal systems are just that.
+> [AI](ai.html): A note on AI: Perhaps we have had such systems throughout history, just not referred to as AI. But any system that is imposed from the outside, and forces people to live in a certain controlled manner, is a form of AI. For example, legal systems are essentially just that.
 
 ### Denial of G-d (free_choice)
 
 > If **HaShem** is so powerful, why is there so much difficulty accepting Torah &mdash; the blueprint/guidebook to the World to Come? Because, somewhere, we have a drop of the Divine power that is expressed in what is called, "free choice".
 
-To have any choice in the realm of the Omnipresent Perfection, I have to have the ability to negate the Omnipresence. To believe that there is no G-d, and declare myself part of the Cult of Atheism whose belief structure is build around the core belief that there is no G-d... and all the rest that follows from that guiding principle.
+To have any choice in the realm of the Omnipresent Perfection, I have to have the ability to negate the Omnipresence &mdash; to believe that there is no G-d, and declare myself part of the Cult of Atheism whose belief structure is build around the core belief that there is no G-d... and all the rest that follows from that guiding principle.
 
-It thus becomes an action in the world and the adherents of said doctrine build a life around them that forms around this core belief.
+It will thus express itself as an action in the world and the adherents of said doctrine build a life around them that forms around this belief.
 
-Rationality would also fall into such a belief system, but one that has a serious flaw. Rationality requires a "mechanism" &mdash; some set of agreed upon criteria, that will deem something to be rational. The question is whether these criteria are adequate. Of "what if it was the rational that actually brought us to the space of rationality?
+Rationality falls into such a belief system, but one that has a serious flaw. Rationality requires a "mechanism" &mdash; some set of agreed upon criteria, that will deem something to be rational. The question is whether these criteria are adequate. Or what if it was the rational that actually brought us to the space of rationality?
 
-## G!d is King
+## G!d as King
 
 The expression of a king is the belief that there are those amongst us who may be above us and control us like gods. Thus, the desire to be king is the ultimate expression of ego. When one reaches this pinnacle of desire it is manifested by one's entire world being a reflection of the king's ego. Anyone or anything that doesn't agree with his ego is immediately ejected.
 
 The problem that occurs here is that a king cannot fully control those who believe in G!d. They cannot be broken from the outside. They stand against the absolute power that the king desires. If G!d is the King, then there is one who stands above the earthly king&mdash;and that is revolutionary.
 
-However, having removed the dependency on G-d, replaced with pseudo-science and AI, which the king controls, enables the earthly king to gain absolute control over his people, body and soul.
+However, removing the dependency on G-d, replacing it with pseudo-science and AI, which the king controls, enables the earthly king to gain absolute control over his people, body and soul.
 
 There are those who need great monuments and lofty statues to remind us all of their greatness. But if they were truly so great, would their memories not be engraved in the human soul? Because, if the truth be told, many would like to forgot the atrocities that have been perpetrated by those monumental personages, directly or indirectly, on innocents. The truly wise do not need statues, for they burn their wisdom and (in)sight into our very being, bless them all. For the truth of the wise cuts deeply. They are often vilified and persecuted for the unwavering bravery and adherence to the greater, more authentic, truth than that of our overlords.
 
-Manufactured human artifacts representing divine are images of fabricated gods. They will, each and every one of them, be representations of the cultural power structure, just as those in power will present themselves as representatives of these gods that they have fabricated. These tales and myths of their exploits and greatness are told to the allay the fears of the people. They are also representing themselves (or the positions that they hold) as G-ds or as superior in some form or fashion to justify the control structure.
+Manufactured human artifacts representing the divine are images of fabricated gods. They will, each and every one of them, be representations of the cultural power structure, just as those in power will present themselves as representatives of the gods that they have fabricated. These tales and myths of their exploits and greatness are told to the allay the fears of the people. They are also representing themselves (or the positions that they hold) as gods or as superior in some form or fashion to justify the control structure.
 
-Many want a leader, or a king, to rule over them. Thus the only king that is no-king is an "imaginary" king, a king so perfect, so kingly, that no human king could ever hope to attain such dignity, This perfect king, or king of perfection, we call G-d, in English. Now if this god is just a king, then he will be like any king, both good and bad. So the only king that cannot be a king, as we know kings, is G-d, the perfect King. How paradoxical! Let us enter the realm of the imaginary. Imagine a King, so perfect.... Imagine this G-d of Perfection ruling over everything - and it is, of course, perfect. This king we refer to as "the Supernal Light" for he existed before there even was light - as if you could imagine such a thing. As such, as He is One and in everything - just as the number 1 is contained in every single other number - any one can become one with the One. Remember, if you combine another 1 with infinity, the Infinite does not change.
+Many want a leader, or a king, to rule over them. Thus the only king that is no-king is an "imaginary" king, a king so perfect, so kingly, that no human king could ever hope to attain such dignity, This perfect king, or king of perfection, we call G-d, in English. Now if this god is just a king, then he will be like any king, both good and bad. So the only king that cannot be a king, as we know kings, is G-d, the perfect King. How paradoxical! Let us enter the realm of the imaginary. Imagine a King, so perfect.... Imagine this G-d of Perfection ruling over everything - and it is, of course, perfect. This king we refer to as "the Supernal Light" for he existed before there even was light - as if it is possible to imagine such a thing. As such, as He is One and in everything - just as the number 1 is contained in every single other number - any one can become one with the One. Remember, if you combine another one with infinity, the Infinite does not change.
 
 ### Omnipotence
 
-If G-d, Blessed is His name, is omnipotent, why could He, the Holy One, not have created something more robust, more conducive to living a good life? {NOTE: Did he not?}
+If G-d, Blessed is His name, is omnipotent, why could He, the Holy One, not have created something more robust, more conducive to living a good life? [NOTE: Did he not?]{.note}
 
 Because He, the Creator of the Universe, couldn't! Because He, Blessed is Holy Kingdom for evermore, surely would have, if He, the Great Omnipotence, would have, if He could have. It must have taken an infinite amount of energy of the Omnipotent to create a single moment of non-ness and we are a product of it! It took billions of years to create this space. By saying that, in the realm of the Divine, there is no time, does not in any way negate the fact that it took "billions of years" worth of energy for this Creation to happen in no-time itself.
 
 ## Perfect world
 
-Thus either we blame G-d, or separate evil from G-d, and propose another, equal to G-d, who we call Lucifer or Satan. This denies the essential Oneness of the Divine. It is an misunderstanding of the concept of the Perfection of The Divine Creator. How could the perfect G-d create an "imperfect" world? Why would the perfect G-d create a world filled with "evil"? Firstly, and most importantly, who are we to judge such a thing? We, who only see a tiny fraction of what IS, are saying that this totality, the immensity of the created world is "evil", or imperfect? How arrogant, and thus opens the door to someone claiming to be able to "fix" this broken world - a king, or leader, or even .... dare I say it ... a Messiah?
+Thus either we blame G-d, or separate evil from G-d, and propose another, equal to G-d, who we call Lucifer or Satan. This denies the essential Oneness of the Divine. It is an misunderstanding of the concept of the Perfection of The Divine Creator. How could the perfect G-d create an "imperfect" world? Why would the perfect G-d create a world filled with "evil"? Firstly, and most importantly, who are we to judge such a thing? We, who only see a tiny fraction of what IS, are saying that this totality, the immensity of the created world is "evil", or imperfect? How arrogant, and opening the door to someone claiming to be able to "fix" this broken world &mdash; a king, or leader, or even .... dare I say it ... a Messiah?
 
-Perhaps a better question would be to ask "Why am I here"? "What is the purpose of my existence"? Which, contains some arrogance within it too - for there is the assumption that my existence does have a purpose - for whom? Only if there was perfection, and everything had meaning, would there be the possibility of any purpose in your or my existence. The basis of that assumption is, why then create all of this? Why create a being who is aware of the "imperfection" of his own existence?
+Perhaps a better question would be to ask "Why am I here? What is the purpose of my existence"? Which, contains some arrogance within it too &mdash; for there is the assumption that my existence does have a purpose &mdash; for whom? Only if there was perfection, and everything had meaning, would there be the possibility of any purpose for your or my existence. The basis of that assumption is, why then create all of this? Why create a being who is aware of the "imperfection" of his own existence &mdash; but this is just according to his view of the universe, not the universal view?
 
-How could I possibly know, really know with certainty, what the truth of my or our existence is? Thus I will grasp at what I can, which will be actions like: having children, being a good person, leading a nation, etc. But there are many who have spent their lives asking this question, who say there is an answer, a deeper answer. But that might inconvenience a comfortable existence - so why bother? Because if my existence is comfortable and I am able, why rock the boat?
+How could I possibly know, really know with certainty, what the truth of my or our existence is? Thus I will grasp at what I can, which will be actions like: having children, being a good person, leading a nation, etc. But there are many who have spent their lives asking this question, who say there is an answer, a deeper answer. But that might inconvenience a comfortable existence &mdash; so why bother? Because if my existence is comfortable and I am able, why rock the boat?
 
-As the instinctive way we approach this existence conundrum is from the finite space we are conscious of, as it will take a training consisting of years of discipline and practice to connect to the infinite space that exists in us, to realise that from the perspective of the Infinite Eye of G-d, all is as it should be. In fact, how else could it be, extending as it does from Perfection itself?
+As the instinctive way we approach this existential conundrum is from the finite space we are conscious of, it will take a training consisting of years of discipline and practice to connect to the infinite space that exists in us, to realise that from the perspective of the Infinite Eye of G-d, all is as it should be. In fact, how else could it be, extending as it does from Perfection itself?
 
 ## Questions
 
 Constantly asking "What is my purpose here?", "Why was I born?", "Why is my life so hard?", "Why is there evil in the world?". Who are we directing these questions to? Who would be best to seek answers from?
 
-Let us explore this from a different perspective for a moment. Assume we are going to embark on a long journey. One that might take a lifetime or more. Assume we have set up a communications network, so that we could communicate with our base of operations, and possibly receive guidance from them if necessary. We would have set up nodes for our long-distance communications that would receive and transmit the messages we were sending to our base. These nodes are not just passive transmitters, nor are they passive receivers as messages would affect the behaviour of these nodes - something we call "intelligent" nodes - which would react according to the message received. There are certain trigger or control messages that should cause a shift in the node itself, and in the recipients of these messages. These would be sent when the recipient is in need of adjustment, just as we would sent one to any of the many satelites we send into space to explore the outer reaches of our universe.
+Let us explore this from a different perspective for a moment. Assume we are going to embark on a long journey. One that might take a lifetime or more. Assume we have set up a communications network, so that we could communicate with our base of operations, and possibly receive guidance from them if necessary. We would have set up nodes for our long-distance communications that would receive and transmit the messages we were sending to our base. These nodes are not just passive transmitters, nor are they passive receivers as messages would affect the behaviour of these nodes - something we call "intelligent" nodes - which would react according to the message received. There are certain trigger or control messages that should cause a shift in the node itself, and in the recipients of these messages. These would be sent when the recipient is in need of adjustment, just as we would send satelites into space to explore the outer reaches of our universe.
 
-The point here is that unless the receiver is clear, and able to receive the messages without any error, what is the garbled messages that it might receive?
-Thus if you are not clear, and have not focussed on keeping your mind and your body clear, how could you expect to receive the messages that you would need to direct and rectify your life?
+The point here is that unless the receiver is clear, and able to receive the messages without any error, what is the garbled messages that it might receive? Thus if you are not clear, and have not focussed on keeping your mind and your body clear, how could you expect to receive the messages that you would need to direct and rectify your life?
 
-And to whom are you directing your questions about life and its purpose? It would be necessary to choose to direct them to someone who has dedicated his/her life to the exploration of such a path, through the study and practice required - whether dead or alive.
+In order to find any answers to these question, it would be necessary to direct them to someone who has spent his/her life in the exploration of such conundrums, through dedicated study and practice &mdash; whether dead or alive.
 
 ![Imperfectly perfect](/posts/img/neshama/new/card1_fig1.2.png)
 
-[^1]: [The Soul’s Wrestling Match: Can It Be a Peaceful Battle?](https://www.chabad.org/parshah/article_cdo/aid/5310747/jewish/The-Souls-Wrestling-Match-Can-It-Be-a-Peaceful-Battle.htm)
+[The Soul’s Wrestling Match: Can It Be a Peaceful Battle?](https://www.chabad.org/parshah/article_cdo/aid/5310747/jewish/The-Souls-Wrestling-Match-Can-It-Be-a-Peaceful-Battle.htm)
 
-## 1 and -1, good and evil (Judaica/Good & Evil)
-
-Think of it as a graph, where zero is neutral, 1 is absolute good, -1 is absolute evil. Then there is a huge difference between approaching zero and approaching –1. We now know that a better way to look at it is as a body in motion. Thus we can use calculus. The differential equations will show us the direction we are heading, and the integral equations will show us what space we are filling and how, i.e. what we are putting out.
-
-Thus we can work out whether we are heading towards –1, 0 (from –1), 1, or 0 (from 1). In this way, we have a basic set of elements here, manifesting the four directions:
-
-- Going from 0 to –1, you are entering the danger zone, and moving towards becoming truly evil. Evil actions are now becoming commonplace in your existence. Either you are becoming a killer, a rapist or a victimizer – one who perpetrates violence and cruelty on others.
-- Going from –1 to 0, you are still in the danger zone, but something has begun to change you, has awoken the _Yetzer Ha’Tov_ and you are becoming aware, once again (for you knew you were descending once upon a time), of the need to change for the better – the basic human instinct. It is almost always love. Perhaps the birth of a child. Perhaps an experience of the beauty of someone or something around you. Perhaps the love or kindness of a stranger. Perhaps a piece of music. Or perhaps Adonai took pity on you, and woke the sleeping spirit, and you loved him forever more.
-- Often it is a “bottoming out”, reaching your endpoint, your -1. Realising that whatever downward spiral you had reached, it was time to change something in your life, and you had arrived at that turning point, that place where you would be willing to do anything, whatever sacrifices it entailed, to change that in yourself.
-- Going from 0 – 1. You are becoming blessed. I suppose as you approach the 1, (or is it after you pass through the origin, the 0 point); you will be able to begin to bless others, to spread the kindness and love. You are on the path to redemption. You are climbing Jacob’s ladder. Moving from the Earth to Heaven. Beauty and kindness and love will begin to surround you. People and animals will be naturally drawn to you, and want to spend time in your sphere. These are the ones to follow and emulate. Only you have to be in the right field of existence to be able to find them, for they do not advertise.
-  This is also called the road to redemption. The _“chozer be’tsuvah”_, the returnee. The one who fell into sin, but emerged from it, having passed through the dark night of the soul.
-- Going from 1 – 0. That is a sad journey. It is the fall. Satan falling from being God’s favourite to being his Archenemy. The prosecutor – always pointing out the Bad, feeding the _Yetzer Ha’Rah_. What a victory, to bring down one of the Blessed. It is Adam’s eviction from the Garden of Eden. It is childhood – born an Angel, and living in Elohim’s blessed womb. Growing into the world and encountering the Dark side.
-  It is also the beginning of the story, where the 1, the unity, the everything, splits into emergence, and as such has to reach the 0 point, middle, in order to be able to extend outwards.
-
-There is an interesting concept that emerges here. In order to attain the 0 point, in the middle, the 1 would have to create the -1 so that the 0 would be in the middle‼!
-
-Then we have the integral, which investigates the space of the journey, and talks of the actions that you perpetrate and the manner in which you carry out these actions.
-
-It is not the fact that they are collecting information about us. It is the intention behind the collecting of information, the purpose behind the action. (This is another example of the differential/integral model. The direction is the collection of information. The use of that information is the integral function.)
-
-The reason they want all this information, is not to help you (that is a side effect of the main purpose. If they do help you, then they may get your business, for their service or product becomes a perceived value add.), but to make a profit. Here is where we become the rats in the cage, our only purpose in life, as perceived by the marketeers, is to benefit their company and make them rich and profitable. For that is the ultimate purpose of existence as defined by this culture. The US having brought this motif to the level of an art form, using all the science and technology that they can muster.
-
-This has to change to be used for the benefit of us all. To track and monitor our habits desires and needs. Our purpose in life should be to ensure that we all have the means with which to express these desires and fulfil our needs, hopefully in a positive and constructive manner. Though if our ethic has changed to be one of aiding one another to achieve this, and we are rewarded appropriately, so that it becomes worth our while, and we receive the recognition that all of us yearn for, I think we will begin to see less and less incidents of destructive and non-productive behavior patterns.
-
-For example, there is a group in New York City of organic farmers that began to give out free fresh fruit and vegetables in the poverty stricken areas of the 5 boroughs. By feeding the people, and eventually providing them with work, the crime rate in the area dropped, to the level that the city noticed, and began to support them financially, and use the police to help them distribute the food. Apparently, now that the people did not have to deal in drugs to feed their family, they stopped doing so. Also, now that the kids saw that there were other ways of earning a living, besides drug dealing, which was the only way of getting ahead in the ghetto, they began to take to it.
+[^3]: Or perhaps more accurately, there are an infinite set of possibilities available, and we can never really know if one of the "improbable" or "impossible" events will occur at any point.

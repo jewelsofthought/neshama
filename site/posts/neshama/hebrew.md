@@ -2,37 +2,16 @@
 title: Thoughts on Hebrew
 description: A language that can express the spiritual realm, perhaps?
 tags: null
+stars: '***'
 date: 2008-01-11T15:38:35.115Z
 ---
 
-1. [To be moved](#to-be-moved)
-   1. [Divine Desire](#divine-desire)
-   2. [Ego](#ego)
-   3. [Three souls of embodiment](#three-souls-of-embodiment)
-2. [Hebrew](#hebrew)
+1. [Hebrew](#hebrew)
    1. [Singles](#singles)
    2. [Writing before speech](#writing-before-speech)
    3. [During the exile](#during-the-exile)
    4. [Modern Hebrew](#modern-hebrew)
    5. [Impact of modern Hebrew](#impact-of-modern-hebrew)
-
-## To be moved
-
-### Divine Desire
-
-- Every object, everything that exists in the Universe is a manifestation of **Divine Desire**.
-
-### Ego
-
-> If we are meant to be servants of G-d, then our ego's cannot rule.
-
-### Three souls of embodiment
-
-| Soul | Realm | Form | Element |
-| --- | --- | --- | --- |
-| _Neshamah_| Divine Bound | Breath | Air |
-| _Ruach_ | Soul Bound | Wind | Fire |
-| _Nefesh_ | Earth Bound | Effect/Rest | Water |
 
 ---
 
