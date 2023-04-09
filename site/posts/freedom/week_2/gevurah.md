@@ -5,7 +5,7 @@ tags: null
 date: 2022-04-23T00:01:00.000Z
 ---
 
-<div style="text-align: center; font-weight: bold"> 
+<div style="text-align: center; font-weight: bold">
 <p>The Second Week </p>
 <h1 style="font-size: 300%; text-decoration: underline">גבורה</h1>
 <h2>Gevurah</h2>
@@ -55,7 +55,7 @@ is <em>Elohim</em>,
 **_Elohim_**, is the Name associated with judgement and severity, and so is associated with this _sefirah_. In Jewish tradition, the two most used names of G-d are **_Elohim_** and **_Adonai_** (written **YHVH**). **_Elohim_** is generally translated as “G-d”, though it meaning is more accurately "G-d of Hosts". **_Adonai_** is generally translated as “Lord” or “Eternal One”.
 **_Elohim_** is actually the plural form of the noun, yet it is almost always translated as if it were singular, and takes a singular verb and modifier. One way of explaining this is to understand **_Elohim_** as the One Being, **_Adonai_**, appearing to our awareness as the many. **_Elohim_** can be appreciated as the Presence of **_Adonai_** within each individual being, enabling us to experience the Immanent aspect of the Divine. This Presence is named **_Shechinah_**, which is also another name for **_Elohim_** in the ancient mystical text called the _Zohar_ or “Book of Splendour”. **_Shechinah_** is also the Presence of the Transcendent **_Adonai_** present in all living things, as well as the world itself!
 
-## Meditation for the Second Week at GEVURAH.
+## Meditation for the Second Week at GEVURAH
 
 <blockquote>
 <p dir="rtl">
@@ -75,13 +75,16 @@ Sitting and breathing calmly, become aware of your current experience in the wor
 
 This exploration requires us to embrace the immediacy of the present moment. As we focus fully and persistently on the contents of our awareness, each moment naturally expands. There is so much more in each moment, in each sensation and feeling,than we had ever noticed before.
 
-<h3>Reflections</h3>
-[^1]: There is also transformation through discipline. Once the fear is constrained, one can implement a healing regime.
+<h3>Personal Reflections</h3>
 
 [^2]: This is where public opinion, and the opinion of others, begins to play a huge role. We are embarrassed and hide our feelings. This started with the non-acceptance of our feelings, and in many cases our desires. This from our parents, and other authority figures and as well as our peers.
 
+>Shadows are feelings we hold onto.
+
+This started with the non-acceptance somewhere in our ancestral line of our feelings, or, perhaps more relevantly, our desires.
+
 Thus the suppression of a young girl feelings could produce a mother/woman who wants people&mdash;especially her own children&mdash;to express their feelings.
 
-For a young boy, whose innocent desires were suppressed, might result in abhorrent desires expressed in the realm of relationships.
+For a young boy, whose innocent desires were suppressed, might result in aberrent desires expressed in the realm of relationships.
 
-The suppression of feelings would also result in all sorts of idol (i.e. material) worship. For instance, Alchoholism&mdash;or alcho-holism: the religion of worshipping the unholy demon of Alcho&mdash;whose holy essences abound, and worshippers can obtain endless supplies of said essences, which reduce them to becoming mere puppets of Its will.
+The suppression of feelings would also result in all sorts of idol (i.e. material) worship. For instance, alchoholism&mdash;or alcho-holism: the religion of worshipping the unholy demon of alchohol&mdash;whose holy essences abound; whose worshippers can obtain endless supplies of said essences, which reduce them to becoming mere puppets of its will.

@@ -5,7 +5,7 @@ tags: null
 date: 2022-04-30T00:01:00.000Z
 ---
 
-<div style="text-align: center; font-weight: bold"> 
+<div style="text-align: center; font-weight: bold">
 <p>The Third Week </p>
 <h1 style="font-size: 300%; text-decoration: underline">תפארת</h1>
 <h2>ִTiferet</h2>
@@ -67,7 +67,7 @@ This four-letter name is known as the tetragrammaton, and whenever it appears in
 
 The Name **יהוה**, is a form of the Hebrew verb which means "to be," and so can be translated, "Unlimited Being". That is why many of us translate _Yod-Kay-Vav-Kay_ (saying _Adonai_) as "The Eternal One," or "The Eternal Presence."
 
-## Meditation for the Third Week at TIFERET.
+## Meditation for the Third Week at TIFERET
 
 <blockquote>
 <p dir="rtl">
@@ -82,6 +82,18 @@ I place YHVH before me always.<br />
 Today we allow ourselves to awaken to a greater sense of balance. There is a peacefulness which expands within the Heart of our being, a peacefulness which gradually radiates through out consciousness. We open to an awareness that holds compassion for everything it touches.
 
 ## Reflections
+
+<div class="note">
+
+There are three trees:
+
+- The **Tree of Balance**, also known as the Primordial Tree, is the tree that existed before anything had manifest. It represents that space of Perfection and Balance that was the primordial state from which everything emerged
+- the Tree of Emanation expresses the "emergence" of **Malchut**, the Kingdom which we inhabit. It is represented by a tree in which **Malchut** sits at the bottom, below **Yesod** and has two paths, one from **Netzach** and one from **Hod**. **Da'at**, the realm of hidden knowledge, is generally not represented in this Tree.
+- The Tree of Return, is the one that represents the journey to Spirit. It has the same _sephirot_ arrangement as the Tree of Emanation, but no longer has paths from **Hod** and **Netzach** to **Malchut**. Instead these paths now flow from **Chochmah** to **Gevurah** and from **Binah** to **Chesed** via **Da'at**. It speaks of the focus on the higher aspects of our beings, and the desire to reach up into the supernal realms.
+
+(I will include the diagrams later.)
+
+</div>
 
 [^1]: It is not only the balance between force and form, but also in the upper realm, between the expression of Mercy/Compassion versus the structures of Judgement/Strength. In the lower realm, it mediates the expression between physical force and physical forms.
 [^2]: The names, the unnameable – any appellation you give to **Ha’Shem** will reduce it. It can only be described by what it is not, never by what it is.

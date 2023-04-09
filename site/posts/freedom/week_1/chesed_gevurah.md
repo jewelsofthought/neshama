@@ -48,9 +48,15 @@ I honour the forms of my emotional expression now. Relaxing both body and mind, 
 </div>
 
 <h3>Personal Reflections</h3>
+<div style="margin-left: 2rem">
 
 <p style="font-style: italic">
 Thank you, O Lord, for the sustenance You provide.
+</p>
+</div>
+<p>
+"I receive more fully,
+so that I may give more truly."
 </p>
 
 **The Long Road of Exodus**

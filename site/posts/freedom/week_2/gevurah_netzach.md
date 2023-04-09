@@ -7,7 +7,7 @@ date: 2022-04-26T00:04:00.000Z
 
 <div style="font-weight: bold; text-align:center">
 <h2>Netzach she’b Gevurah</h2>
-<i>Day Four of Week 2:</i> 
+<i>Day Four of Week 2:</i>
 <p>Enduring in Restraint</p>
 
 </div>
@@ -44,3 +44,9 @@ A thread of hope is an anchor to the ground, a narrow path you’ve set for dest
 The thread snaps and your eyes look up to see nothing more than the open sky. Hope is gone. All you can do now is trust the One who has no bounds.
 
 That is Trust: When you stop suggesting to your Maker how He could rescue you. When you are prepared to be surprised by wonders and open to miracles.
+
+<div class='note'>
+
+Finally I understand that pure **Chesed** (חסד) is pure emotion, and as such has no form. It _has_ to be contained by **Gevurah** (גבורה) to take and express form.
+
+Allowing and focussing on emotions ends up having no form, producing no clarity. Thus I seek that balance.
