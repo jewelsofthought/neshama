@@ -59,6 +59,7 @@ modified: 2022-09-14T15:56:13.090Z
 44. [Message](#message)
     1. [Sexual](#sexual)
     2. [Quantum Flirt](#quantum-flirt)
+    3. [Stasis](#stasis)
 
 {% endblock %}
 
@@ -483,4 +484,13 @@ The intention must be pure (תהור). ֺOne has to rise above the material whic
 
 When two people's energies touch, it is similar to a what is known as a _quantum flirt_ - "a short-lived, transient, perceptual signal which can be used to provide us with insight."
 
+### Stasis
+
+If it is dead, this stasis is relatively stable, with a very small amount of energy being transferred to and from its environment.
+
+However, if it is "alive", there is a more active interchange &ndash; which could even be judged by measuring the energy of these interactions. In other words, one could even judge whether a "thing" is alive or dead by the amount of energy that is being transferred between it and its surroundings.
+
+As a result of this it requires a specific and ongoing energy input. In order to survive, the form needs nourishment from the surroundings. Thus to be alive has an inherently destructive aspect that is seldom taken into account as an important aspect of the full energy interaction.
+
+Thus it is inevitable, in a purely commercial situation, that eventually anything alive would become a liabiltiy. Anything that wished to live an autonomous existence would be looked at as useless. That is why there is the continuous destruction of the ancient, of the environment, and now of people themselves.
 {% endblock %}

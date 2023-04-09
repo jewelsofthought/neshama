@@ -2,6 +2,7 @@
 title: The Density of Space
 description: How dense our space can become.
 tags: [judaica]
+stars: '****'
 date: 2002-09-04T05:04:10.856Z
 modified: 2020-06-04
 ---
@@ -46,11 +47,11 @@ Thus I create a density,
 weaving a bridge between us
 that is filled with images and feelings.
 This is the material
-with which the density is molded,
+with which the space between is moulded,
 the material
 that makes up
 the landscape
-to transmit
+through which I transmit
 my thoughts
 and
 my feelings

@@ -24,6 +24,7 @@ modified: 2015-10-13T01:19:16.154Z
 13. [Misc](#misc)
 14. [F\*ck\*\*\*](#fck)
 15. [Dance with Joy](#dance-with-joy)
+16. [Some vague thoughts on the matter](#some-vague-thoughts-on-the-matter)
 
 ## Male & Female
 
@@ -161,3 +162,25 @@ True love is not love that only loves you when you do what it wants. Just as tru
 ## Dance with Joy
 
 ![Dance with Joy](/posts/img/qkab/dance_in_joy.svg)
+
+## Some vague thoughts on the matter
+
+The matter is one that discusses [the desire for separation or union](/posts/freedom/week_1/chesed_yesod/index.html#fn1), from a journey that is called the Omer.
+
+The male lingam points upward when ignited in its desire for union. This could be thought of as an impulse towards higher consciousness, and, therein, at that moment, likes the choice. The choice of whether to dedicate this act to the Creator, or to thrust down into the deapth of the darkness and dedicate the energy to the lower realms.
+
+Yet the two are intrinsically connected. They are never truly separate, and one has to master the ability to rise while at the same time being anchored deep in the darkness that is our flesh.
+
+Female remains dormant until she “thrusts” upward, which is expressing of the "negative" of the upward thrust, becoming in essence a thrust outward, an opening to receive. Its expression as a receptacle for the dark energies of the earth.
+
+The masculine thrust downwards, his desire to feel the energies of the earth and its darknesses. To go against this natural pull requires dedication to the Upper Realms. It is an expression of the servant of Higher Energies.
+
+In order to receive, there has to be a “negative" or empty space.
+
+In the Feminine expression, the energy is drawn inward (the process of reception) and, the female absorbs it. It is then transformed to form – as in the birth of a child. Which is a masculine expression – a giving.
+
+There is a similar process for the Male. In order to receive, in the Masculine expression, requires the energy to be quiet enough, and that is only through constraint that that can occur. By receiving the giving that is in the female's receiving, he brings harmony and balance into the interaction.
+
+And now the positions are changed. The receptacle, which was empty, is now full and the other, which was full, is now empty.  
+
+If this process of giving/receiving is blocked, the energy is transformed into waste energy, generating  either heat and friction &mdash; which is the terrain upon which violence (if masculine) or self-destructive (feminine) behaviour emerges. If the energy of the giving/receiving is misaligned, that inappropriated energy will find other outlets &mdash; some negative, some positive. The most positive solution I believe we have yet come up with, is to dedicate it to whatever will uplift you and/or those around you.  

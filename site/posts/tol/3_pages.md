@@ -6,6 +6,8 @@ date: 2004-01-01T00:03:24.478Z
 modified: 2020-06-28
 ---
 
+> ToLNet is a mental solution. That is why it is not working. I am here to express a solution far greater than any one of us could imagine. It is based the knowledge that Spirit unifies and ego separates. ToLNet is an expression of our innate desire for union.
+
 A private network that we create and maintain.
 It will be registered as a corporation.
 It is open-source, distributed & multi-level.
