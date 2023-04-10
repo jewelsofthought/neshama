@@ -9,11 +9,16 @@
   margin: 0.1em 1em;
 }
 
+
 .abstract {
-  text-align: justify; 
+  font-style:italic
+}
+
+@media (min-width: 580px) {
+  .abstract {
   margin-left: 2rem; 
   margin-right: 2rem; 
-  font-style:italic
+  }
 }
 
 .poem {

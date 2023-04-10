@@ -31,7 +31,7 @@ This is connected with ![The Principle of Five](/posts/img/qkab/the%20principle%
 
 <br clear="all" >
 
-<p style="text-align:center">* * * </p>
+<p style="text-align:center">** * </p>
 
 <h3>2.  The emergence, a birth</h3>
 
@@ -65,7 +65,7 @@ separation begins
 Removal of nothing to make space for something
 1st gaze is upward and outward
 
-<p style="text-align:center">* * * </p>
+<p style="text-align:center">** * </p>
 
 <figure style="float:right">
 <img src="/posts/img/qkab/reflection_keter_yesod.svg" alt="The reflection of keter to yesod" width="200">
@@ -78,7 +78,7 @@ The energies that scintillate in the realms of the Divine manifest here in the r
 
 The analogy is that each whole number is surrounded by an infinite array of rational number, and an even greater amount of transcendental numbers. In fact, there are so many transcendental numbers, they completely drown out the existence of the numbers we are familiar with&mdash;to such an extent that it could be said that it is a miracle that we are able to identify any whole numbers at all. In other words, it is as if we were provided these whole numbers, almost to say that we were programmed to be able to identify them by some consciousness that had either created or was already aware of them.
 
-<p style="text-align:center">* * * </p>
+<p style="text-align:center">** * </p>
 
 <div>
 <figure style="float:left">
@@ -91,7 +91,7 @@ The seven sisters transfrom the cloud of _keter_ into the denseness of _malchut_
 </div>
 <br clear="all" />
 
-<p style="text-align:center">* * * </p>
+<p style="text-align:center">** * </p>
 
 <figure style="float:right">
 <img src="/posts/img/qkab/the_duality_chochmah_binah.svg" alt="The duality emerging" width="100">
@@ -110,7 +110,7 @@ So says Rabbi Chinoos: The crystal was formed in the words "It is good"
 <br clear="all" />
 
 <div>
-<p style="text-align:center">* * * </p>
+<p style="text-align:center">** * </p>
 
 <h3>3. Central pillar:</h3>
 
@@ -135,7 +135,7 @@ He is connected with his higher self through knowledge (hence the push to unders
 
 <div>
 
-<p style="text-align:center">* * * </p>
+<p style="text-align:center">** * </p>
 
 <h3>4. Testing of the foundation, the splintering</h3>
 
@@ -154,7 +154,7 @@ _Malkhut_, the created, manifest world, the wondrous expression of our experienc
 </div>
 <br clear="all">
 <div>
-<p style="text-align:center">* * * </p>
+<p style="text-align:center">** * </p>
 
 <h3>Spiraling tree</h3>
 
@@ -204,9 +204,8 @@ Pushes on _Yesod_
 _Malchut_ ends up being the creation.
 All the rest is just preparation.
 
-## Full engine of emergence...
+## Full engine of emergence
 
 connected to Chassidic Masters!
 
 ![Full engine of emergence](/posts/img/qkab/emergence_full.svg)
-

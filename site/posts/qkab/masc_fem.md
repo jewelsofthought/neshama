@@ -23,8 +23,8 @@ modified: 2015-10-13T01:19:16.154Z
 12. [Coitus](#coitus)
 13. [Misc](#misc)
 14. [F\*ck\*\*\*](#fck)
-15. [Dance with Joy](#dance-with-joy)
-16. [Some vague thoughts on the matter](#some-vague-thoughts-on-the-matter)
+15. [Some vague thoughts on the matter](#some-vague-thoughts-on-the-matter)
+16. [Dance with Joy](#dance-with-joy)
 
 ## Male & Female
 
@@ -159,10 +159,6 @@ If she manages to control his sexual imperative, he will become sexually disconn
 
 True love is not love that only loves you when you do what it wants. Just as true faith is not love G-d when things are good for you (like in the story of Job)
 
-## Dance with Joy
-
-![Dance with Joy](/posts/img/qkab/dance_in_joy.svg)
-
 ## Some vague thoughts on the matter
 
 The matter is one that discusses [the desire for separation or union](/posts/freedom/week_1/chesed_yesod/index.html#fn1), from a journey that is called the Omer.
@@ -184,3 +180,7 @@ There is a similar process for the Male. In order to receive, in the Masculine e
 And now the positions are changed. The receptacle, which was empty, is now full and the other, which was full, is now empty.  
 
 If this process of giving/receiving is blocked, the energy is transformed into waste energy, generating  either heat and friction &mdash; which is the terrain upon which violence (if masculine) or self-destructive (feminine) behaviour emerges. If the energy of the giving/receiving is misaligned, that inappropriated energy will find other outlets &mdash; some negative, some positive. The most positive solution I believe we have yet come up with, is to dedicate it to whatever will uplift you and/or those around you.  
+
+## Dance with Joy
+
+![Dance with Joy](/posts/img/qkab/dance_in_joy.svg)
