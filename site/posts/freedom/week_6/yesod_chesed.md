@@ -11,9 +11,9 @@ date: 2022-05-21T04:04:00.000Z
 <p>Kindness in Connection[^1]</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
-_Love is the heart of bonding._[^2] _You cannot bond without love. Love establishes a reliable base which allows bonding to be built on. If you have a problem bonding, examine how much you love the one (or the object) you wish to bond with. Do I try to bond without first fostering a loving attitude? Is my bonding expressed in a loving manner? Demonstrate the bond you have with someone through acts of love._
+Love is the heart of bonding.[^2] You cannot bond without love. Love establishes a reliable base which allows bonding to be built on. If you have a problem bonding, examine how much you love the one (or the object) you wish to bond with. Do I try to bond without first fostering a loving attitude? Is my bonding expressed in a loving manner? Demonstrate the bond you have with someone through acts of love.
 
 </div>
 
@@ -27,16 +27,14 @@ It is through ego that we present ourselves in the world, that we relate to one 
 
 Ego often seek to claim the universe as its own, to see itself as the centre of all existence. This posture of egocentricity leads great personal and global suffering. Extreme self-involvement shuts out others and is a mockery of the spiritual path. So we bring **Chesed**, Lovingkindness, into **Yesod** to support the more loving and fluid expression of this ego-identity.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
-_I embrace more fully than ever before the worth of my separate self. The blessings of Love awaken within me now. I know now that there are new ways in which I can express this Love in my world. I am nourished by honouring the individual expression of self in me and in all whom I meet.
-_
+I embrace more fully than ever before the worth of my separate self. The blessings of Love awaken within me now. I know now that there are new ways in which I can express this Love in my world. I am nourished by honouring the individual expression of self in me and in all whom I meet.
 
 </div>
 
 [^1]: “Be kind in your relationships”; “Make connections that are kind, and not angry or devious”; ”Treat those you are connected to kindly”.
-[^2]:
-    Love is the heart of bonding:
+[^2]: Love is the heart of bonding:
     This is one of the 4 spaces of bonding. This should be expressed more clearly in the movement of **Yesod** through the _sefirot_.
     But because we are only dealing with the lower 7, the body, we do not experience the Upper, the spiritual engagement., which is expressed as “Impulse from below.”
     **Physical**: Lust/physical desire is the bond (**Malchut**). Here it is expressed in pure giving (masculine) and receiving (feminine) terms. Both are valid (and necessary). Only Love can lift us (and this) to a higher level, where the giving and the receiving are hormonious and balanced.

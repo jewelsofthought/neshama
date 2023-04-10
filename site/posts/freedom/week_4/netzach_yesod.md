@@ -11,9 +11,10 @@ date: 2022-05-12T03:04:00.000Z
 <p>Connection in Ambition</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem">
 
-_Bonding is an essential quality of endurance._
+<div class="abstract">
+
+Bonding is an essential quality of endurance.
 
 </div>
 
@@ -27,8 +28,8 @@ In **Netzach** today we recognise that aspect of ourselves which carries on the 
 
 **Yesod** provides a foundation within each _sefirah_ even as it provides Foundation as the seat of our separate self.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem">
+<div class="abstract">
 
-_My energies flow more freely now than ever before. I bless the work I do in the world, breathing new life into my being. I now appreciate the work of my lesser self that carries my energies out into the world. I am an expression of Life’s energy this day._
+My energies flow more freely now than ever before. I bless the work I do in the world, breathing new life into my being. I now appreciate the work of my lesser self that carries my energies out into the world. I am an expression of Life’s energy this day.
 
 </div>

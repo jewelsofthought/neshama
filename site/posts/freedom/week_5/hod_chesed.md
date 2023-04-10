@@ -11,9 +11,10 @@ date: 2022-05-14T04:04:00.000Z
 <p>Kindness in Humility</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
 
-_Healthy humility is not demoralizing; it bring love not fear. Humility brings joy because it gives you the ability to rise above yourself and love another. Arrogance in the guise of love means loving yourself, or what is even worse: making others a part and an extension of yourself and your self-love._
+<div class="abstract">
+
+Healthy humility is not demoralizing; it bring love not fear. Humility brings joy because it gives you the ability to rise above yourself and love another. Arrogance in the guise of love means loving yourself, or what is even worse: making others a part and an extension of yourself and your self-love.
 
 </div>
 
@@ -27,8 +28,8 @@ Today we bring **Chesed** into **Hod**. The channel of light flows from the righ
 
 With **Chesed** in **Hod**, we open ourselves to reflect the deep Lovingkindness that provides profoundly healing energies. We seek to perceive reflections of that Lovingkindness today. We seek to sense the presence of that freely-flowing source of Life.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
-_My senses provide an embodiment of Spirit. The blessing of Love supports me in my body and quiets my sense of physical limitation. I become aware of the vital Energy I carry through every cell of my body. I breathe the freshness of_ **Chesed**, _that it might influence all my thoughts, my words, and my actions. I cherish the Love with which I experience myself and with which I experience the world. I open myself to my connections to others and embrace my relationship with all Other._
+My senses provide an embodiment of Spirit. The blessing of Love supports me in my body and quiets my sense of physical limitation. I become aware of the vital Energy I carry through every cell of my body. I breathe the freshness of **Chesed**, that it might influence all my thoughts, my words, and my actions. I cherish the Love with which I experience myself and with which I experience the world. I open myself to my connections to others and embrace my relationship with all Other.
 
 </div>

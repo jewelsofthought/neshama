@@ -11,12 +11,11 @@ date: 2022-04-30T03:04:00.000Z
 <p>Kindness in Harmony</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
-<p>
+
+<div class="abstract">
 
 Examine the loving aspect of your compassion.
 
-</p>
 </div>
 
 The third week of our journey focuses at the _sefirah_ of **Tiferet**, the Heart Centre, the place of Compassion. Here Energy and Form find balance, and Heaven and Earth meet. We feel **Tiferet**, our own heart space awaken with the full glow of Light.
@@ -30,7 +29,7 @@ _Ruach_ is the place of breath, and it is with the relaxed breath that we become
 
 On this first day of the third week we bring **Chesed** into **Tiferet**. We receive the outpouring of emotional energy from that _sefirah_, even as we bless **Chesed** in the greater "I" of **Tiferet**. We celebrate the Heart of our being.
 
-<div style="font-style: italic; margin: 2rem; text-align: justify">
+<div class="abstract">
 
 Today I become aware of the Greater Life within me. The Light of **Tiferet** radiates from my heart space to fill me with vibrations of Compassion and Wholeness. My greater self is blessed with Lovingkindness today. In all I meet, I witness this greater Life. My world is filled with the Spirit of Love waiting to be embraced.
 

@@ -23,12 +23,10 @@ date: 2022-04-21T00:04:00.000Z
 <h4>Connection in Loving</h4>
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">
-<p>
+<div class="abstract">
 
 For love to be eternal it requires bonding. A sense of togetherness which actualizes the love in a joint effort. An intimate connection, kinship and attachment, benefiting both parties. This bonding bears fruit; the fruit born out of a healthy union.
 
-</p>
 </div>
 
 The sixth day of Omer focuses on the _sefirah_ **Yesod**, Foundation, in **Chesed**. **Yesod** is centred in the loins and represents the ego identity in all its glory and all its limitations.[^1]. This area of body and this aspect of self are today challenged to open to the energy of Love symbolized by **Chesed**. The right shoulder and the genitals are connected by a channel of radiant light.
@@ -39,7 +37,8 @@ We need the ego to support our survival as a separate entity in the world throug
 
 **Chesed**, the centre of Lovingkindness, is exactly what your ego needs to remember. So this day is one of great significance. This is the place where we can find the balance that we need for the next stage of our journey.
 
-<div style="font-style: italic; margin: 2rem; text-align: justify">
+<div class="abstract">
+
 All that I am is Blessed by the Divine energies of Light. Even my sense of separateness begins to open to this blessing, remembering that I am more than I can ever know. Through whatever difficulties I face, I remember that the world is speaking to me out of Divine Understanding. Through every cell of my being this Loving energy awakens, enabling me to perceive with greater clarity the One Whose Presence is everywhere and everything. As I recognize the Life that flows through all being, I express this life through fuller awareness of myself and acknowledge its presence in all beings. From today I recognise the Life which flows through all and everything that exists, both in me and around me.
 </div>
 

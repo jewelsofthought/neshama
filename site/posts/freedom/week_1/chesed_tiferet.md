@@ -23,10 +23,10 @@ date: 2022-04-18T00:04:00.000Z
 <h4>Balance in Love</h4>
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">
-<p>
+<div class="abstract">
+
 True love includes empathy and compassion which makes it a beautiful love. Love is often fostered in expectation of reciprocity. Real love is expressed even when one gets nothing in return; even when the other doesn't deserve love. <b>Tiferet</b> is giving also to those that have hurt you. It acknowledges the discipline of <b>Gevurah</b> and says that, nevertheless, compassionate love calls for helping all.
-</p>
+
 </div>
 
 On this third day of our counting, we seek the balance of **Tiferet** in **Chesed**. **Tiferet** is the Heart Space, translated as “Beauty”. It is the _sefirah_ symbolising the energies of the Greater Self, the Individuated “I”.
@@ -37,17 +37,15 @@ The central pillar of the Tree provides the place of balance between force and f
 
 Experience each of the two _sefirot_ as glowing spheres of energy, one at your right shoulder, the other at your heart space. Feel the connection between the two, allowing your heart to open to receiving and transmitting the harmony it expresses, this deeper centering infusing the energy at **Chesed**.
 
-<div style="font-style: italic; margin: 2rem; text-align: justify">
+<div class="abstract">
 
 Through the Heart I speak the deeper message of Love expressing itself in word and deed. I focus my awareness on the channel between **Chesed** and **Gevurah**, knowing that I have found the balance when I feel the light of the central pillar at  **Tiferet** illuminate my entire being, discovering a deep sense of confidence as I breathe these universal rhythms deeply into myself. I nourish my self with the Universal Spirit of Love whispering to me from the depths of my own being. In this awareness I grow and shine.
 </div>
 
 <h3>Reflections</h3>
 
-<p style="font-style: bold; text-align: center; font-size: 110%; text-decoration: underline">Being Paradox (Splitting the Sea)
-<p>
+<h4>Being Paradox (Splitting the Sea)</h4>
 
-<div style="font-size: small">
 <blockquote>
 “The water was a wall for them, to their right and to their left.”<br />—Exodus 14:29
 </blockquote>
@@ -60,7 +58,7 @@ Always be walking through the miraculous splitting of the sea.
 
 <p style="text-align: right">&mdash;Likutei Sichot volume 3, page 969.</p>
 
-</div>
+---
 
 [^1]: I feel this needs to be expanded upon somewhat. The outpouring of "emotion" (would it not more accurately, be feelings?) that come from our greater Self entering into the field of Mercy and Expansion. This, itself, produces an outpouring, if we just spend a moment in meditation upon the "feeling" of the greater Self, opening ourselves to receiving its influence. To concentrate on being more fully awake to this influx, supports the fuller awakening of this deeper Self.
 

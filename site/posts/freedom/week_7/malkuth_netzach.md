@@ -12,7 +12,7 @@ date: 2022-05-31T01:04:00.000Z
 
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
+<div class="abstract">
 
 A person's dignity and a leader's success is tested by his endurance level. Will and determination reflect the power and majesty of the human spirit. The strength of one's sovereignty.
 
@@ -28,7 +28,7 @@ Into this week of **Malchut**, today we bring **Netzach**, the _sefirah_ of Phys
 
 Our task on this day is to discover and honour those energies wherever we find them. We are challenged to affirm those forces even when they frighten us with their intensity. Only in this way can we grow to utilise them most effectively, and disperse the clouds of physical depression beneath which we so often live.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
+<div class="abstract">
 
 I accept that the energies that now flow into my world, knowing that they vitalise all that is. New vitality is available to me now in my awakening to these shared aspects of my Being. I will focus on sharing these energies more fully with my world.
 

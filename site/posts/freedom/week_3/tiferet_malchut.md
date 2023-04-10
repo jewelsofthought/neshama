@@ -11,10 +11,9 @@ date: 2022-05-06T01:04:00.000Z
 <p>Receiving in Harmony</p>
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
-<p>
+<div class="abstract">
+
 For compassion to be complete (and enhance the other six aspects of compassion) it must recognize and appreciate individual sovereignty. It should boost self-esteem and cultivate human dignity. When I express compassion in a dignified manner it will reflect reciprocally in the one who receives compassion.
-</p>
 </div>
 
 We conclude each week of our counting by bringing **Malchut**, the lowest of the _sefirot_, into the _sefirah_ of the week. This week we offer up **Malchut** to **Tiferet**, that this level of Kingdom might drink fully of the Compassion that illuminates the heart, and that **Tiferet** might bask the culmination of its energy.
@@ -27,7 +26,7 @@ To truly bless **Malchut** in **Tiferet** is to recognise the perfection of all 
 
 Metaphysical literature often states that twenty-one days of creative meditation are necessary to alter a habit or a belief. We are now completing the first twenty-one days of this journey. We are becoming more aware of the energies within. These meditations are taking root within our consciousness. These days of our counting provide a context for Spirit to awaken within each one of us.
 
-<div style="font-style: italic; margin: 1rem 2rem; text-align: justify">
+<div class="abstract">
 
 My world is blessed this day in the Light of the Heart. The Compassion of <b>Tiferet</b> spreads through all levels of my being. I feel a new sense of balance between my inner and my outer vision. My world reflects back to me the One Who s It Life. I cherish the Spark of Being in all I meet.
 

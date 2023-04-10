@@ -13,7 +13,7 @@ date: 2022-05-26T01:04:00.000Z
 
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic; font-style: italic">
+<div class="abstract">
 
 Examine the bonding in connection. The forms it takes and its level of expression. Every person needs and has the capacity to bond with other people, with significant undertakings and with meaningful experiences.
 
@@ -36,7 +36,7 @@ We are animal, yet we are other. Our minds see with the vision of the Whole. Our
 
 We are not asked to kill ego, but to actualise through it our fuller Being. Our way is not to deny the urges of our lesser “i”, but to express those urges in the service of healing and wholeness.[^1] I bless the opportunity we are offered to channel our True Being into specific thoughts, feelings and actions in the world.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic; font-style: italic">
+<div class="abstract">
 
 It is to this that we are called. It is for this that our world needs us. We strengthen our sense of separate self with all the energies available to us now. We bless the opportunity we are offered to channel our True Being into specific thoughts, feelings and actions in the world. We are aware of the strengths now of our individual identity.
 

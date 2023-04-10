@@ -76,3 +76,10 @@ The Universal Energy awakens prior to the limitation of form, beyond definition.
 I acknowledge all my feelings this week, honouring the energy they contain. I embrace the energy of each feeling, with the feeling of that energy behind all awareness.
 </p>
 </div>
+
+<h3>Reflections</h3>
+
+<div class="note">
+
+I am the channel through which the energies of the Creator of the universe, blessed be His Name, flow. I am aware of His potential within me to bring blessing. Today my physical energy are nourished by the Spirit of Love which is the manifestation of **HaShem**'s compassion and mercy,  May His Name be remembered forever.
+</div>

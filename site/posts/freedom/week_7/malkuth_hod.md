@@ -11,7 +11,7 @@ date: 2022-06-01T01:04:00.000Z
 
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
+<div class="abstract">
 
 Sovereignty is G-d's gift to each individual. **Hod** of **Malchut** is the humble appreciation of this exceptional gift. Do I appreciate the special qualities I was blessed with?
 
@@ -33,7 +33,7 @@ In **Malchut**, we need to remember that balance is possible, that all the myria
 
 Realising the preciousness of **Hod**, let us celebrate the Forms through which we experience the drama of our days. We receive appearances in order to see beyond them.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
+<div class="abstract">
 
 I trust my journey more fully now than ever before. I am aware that the forms of my experience carry the higher energies. With these new appreciations, I become ever more available to my world.
 
@@ -41,11 +41,9 @@ I trust my journey more fully now than ever before. I am aware that the forms of
 
 <h3>Reflections</h3>
 
-<div style="font-size: 80%">
 
-<h4 style="font-weight: bold; text-decoration: underline; text-align: center">Illumination</h4>
 
-<div style="margin-left: 2rem; margin-right: 2rem">
+<h4>Illumination</h4>
 
 <p>Why is Torah compared to light? Because it tells us the place of each thing.</p>
 
@@ -59,8 +57,9 @@ Each thing has a place, and in that place it is good. Altogether, it is very goo
 <p>Switch on one little light and a dangerous place becomes a home. With every light you add, you become wealthier and more blessed.</p>
 <p style="text-align: right">-- Torat Menachem 5742 vol. 3, pg.1626; Ibid 5748 vol. 4, pg. 175.</p>
 
+<div class="note">
+
+Everything in existence had and still has one single directive – to manifest. This has come under many terms, like reproduce, grow, spawn, etc. Every living thing, by the same token, is a manifestation that has its own directive, that will be expressed when the manifestation is ready, to “live”. Which is essentially the awakening of the ability to perceive certain sensations.
+
 </div>
 
-<p>Everything in existence had and still has one single directive – to manifest. This has come under many terms, like reproduce, grow, spawn, etc. Every living thing, by the same token, is a manifestation that has its own directive, that will be expressed when the manifestation is ready, to “live”. Which is essentially the awakening of the ability to perceive certain sensations.</p>
-
-</div>

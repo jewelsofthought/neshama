@@ -11,11 +11,12 @@ date: 2022-05-16T04:04:00.000Z
 <p>Harmony in Humility</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
 
-_Can you express your humility in an act of compassion? Does it cause me to be self-contained and anti-social or does it express itself in empathy for others. Is it awkward or is it balanced and beautiful?_
+<div class="abstract">
 
-_Just as humility brings compassion, compassion can lead to humility. If you lack humility, try acting compassionately._
+Can you express your humility in an act of compassion? Does it cause me to be self-contained and anti-social or does it express itself in empathy for others. Is it awkward or is it balanced and beautiful?
+
+Just as humility brings compassion, compassion can lead to humility. If you lack humility, try acting compassionately.
 
 </div>
 
@@ -29,8 +30,8 @@ Even in the midst of this ancient/modern wilderness, where there is so much conf
 
 With the Heart of Compassion glowing strongly within us, we reach out more surely into the world around us. We translate this Compassion through every cell of our beings. We perceive it reflected back to us from all we touch. Nothing is truly separate from the Source of all Life which flows through us.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
-_I walk this planet with a greater sense of inner balance. The Glow of Compassion awakening in the Heart of my being radiates through my physical being. Now with this deeper Beauty of Being . Creation expands through me._
+I walk this planet with a greater sense of inner balance. The Glow of Compassion awakening in the Heart of my being radiates through my physical being. Now with this deeper Beauty of Being . Creation expands through me.
 
 </div>

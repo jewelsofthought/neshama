@@ -14,7 +14,7 @@ date: 2022-04-30T00:01:00.000Z
 </div>
 <div style="margin-left: 2rem; margin-right: 2rem;text-align: justify">
 
-<div style="font-style: italic">
+<div class="abstract">
 
 **Tiferet** &ndash; Compassion &ndash; blends and harmonizes the free outpouring of love from **Chesed** with the discipline of **Gevurah**. **Tiferet** possesses this power by introducing a third dimension&mdash;the dimension of truth, which enables the integration of the two, neither love nor discipline&mdash;yet born from a balance of the two forces.
 
@@ -91,7 +91,7 @@ There are three trees:
 - the Tree of Emanation expresses the "emergence" of **Malchut**, the Kingdom which we inhabit. It is represented by a tree in which **Malchut** sits at the bottom, below **Yesod** and has two paths, one from **Netzach** and one from **Hod**. **Da'at**, the realm of hidden knowledge, is generally not represented in this Tree.
 - The Tree of Return, is the one that represents the journey to Spirit. It has the same _sephirot_ arrangement as the Tree of Emanation, but no longer has paths from **Hod** and **Netzach** to **Malchut**. Instead these paths now flow from **Chochmah** to **Gevurah** and from **Binah** to **Chesed** via **Da'at**. It speaks of the focus on the higher aspects of our beings, and the desire to reach up into the supernal realms.
 
-(I will include the diagrams later.)
+For a fuller explanation and diagrams, see the ["Engine of Emergence"](/posts/qkab/emergence/).
 
 </div>
 

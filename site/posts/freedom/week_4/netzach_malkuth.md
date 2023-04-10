@@ -11,9 +11,10 @@ date: 2022-05-13T03:04:00.000Z
 <p>Receptiveness in Ambition</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem">
 
-_Sovereignty is the cornerstone of endurance._
+<div class="abstract">
+
+Sovereignty is the cornerstone of endurance.
 
 </div>
 
@@ -29,8 +30,8 @@ The grounding of **Malchut** is available today to **Netzach**. All the _sefirot
 
 The manifestation of the fulfilment of the energies of speaks of the enriching influences of the Vitality of Physical Being in the world.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem">
+<div class="abstract">
 
-_My physical energies flow freely into my world now. I act with renewed purpose and vitality through the vision of a world that speaks of the Wholeness and the Life that is its Source. I am the vehicle through which the world takes shape._
+My physical energies flow freely into my world now. I act with renewed purpose and vitality through the vision of a world that speaks of the Wholeness and the Life that is its Source. I am the vehicle through which the world takes shape.
 
 </div>

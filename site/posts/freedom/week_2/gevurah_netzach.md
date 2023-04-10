@@ -11,12 +11,11 @@ date: 2022-04-26T00:04:00.000Z
 <p>Enduring in Restraint</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
-<p>
+
+<div class="abstract">
 
 Effective discipline must be enduring and tenacious. Is my discipline consistent or only when forced? Am I perceived as a weak disciplinarian?
 
-</p>
 </div>
 
 As multi-dimensional beings, we walk an ancient wilderness at the very same time we live our lives here and now. Our journey calls us to balance the energies which give us Life and Purpose. So this eleventh step, this day of bringing **Netzach** into **Gevurah**, the Light within connects the left shoulder with the right hip.
@@ -29,13 +28,16 @@ Give special attention to the physical energies which flow through us and which 
 
 **Gevurah** balances itself this week, bringing in each of the other seven _sefirot_. Today **Gevurah** meets the energy which has been birthed through her, and perhaps appreciates more fully the implications of her role.
 
-<div style="font-style: italic; margin: 2rem; text-align: justify">
+<div class="abstract">
+
 I honour the physical energies of Life which fill me everyday. I trust the forms through which these energies express from the deeper integrity of my Being. My actions in the world grow to reflect more completely the Life which infuses all things.
 </div>
 
 ## Reflections
 
 **Trust over Hope**
+
+<div class="note">
 
 Trust transcends hope, as the sky above transcends the earth below.
 
@@ -50,3 +52,5 @@ That is Trust: When you stop suggesting to your Maker how He could rescue you. W
 Finally I understand that pure **Chesed** (חסד) is pure emotion, and as such has no form. It _has_ to be contained by **Gevurah** (גבורה) to take and express form.
 
 Allowing and focussing on emotions ends up having no form, producing no clarity. Thus I seek that balance.
+
+</div>

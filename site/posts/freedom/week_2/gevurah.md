@@ -13,9 +13,8 @@ date: 2022-04-23T00:01:00.000Z
 <h3 style="font-style: italic">Transformation through Fear</h3>
 </div>
 
-<div style="margin-left: 2rem; margin-right: 2rem;text-align: justify">
 
-<div style="font-style: italic">
+<div class="abstract">
 
 If love (**Chesed**) is the basis of human connection, discipline (**Gevurah**) is the forms through which we express love. It gives our life and love shape and focus. **Gevurah**&mdash;discipline and measure&mdash;concentrates and directs our efforts, our desire and love into directions that will emerge in **Malchut**. Another aspect of **Gevurah** is respect and awe. Healthy love requires respect for the one you love.
 

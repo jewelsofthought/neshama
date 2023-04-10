@@ -26,11 +26,11 @@ date: 2022-04-16T00:04:00.000Z
 
 </div>
 
-<div>
+<div class="abstract">
 
-_Examine every aspect of love, its expression and its intensity. We all have the capacity to love, however to actualize and express it in a productive and positive manner is our work._
+Examine every aspect of love, its expression and its intensity. We all have the capacity to love, however to actualize and express it in a productive and positive manner is our work.
 
-_Unless my love includes the other six aspects of <b>Chesed</b>, it will be distorted and unable to be truly realized._
+Unless my love includes the other six aspects of <b>Chesed</b>, it will be distorted and unable to be truly realized.
 
 </div>
 
@@ -44,5 +44,8 @@ Freedom opens us to the choice to expand. I am free to choose how to live, free 
 
 In this way, the Omer Journey becomes a metaphor for our personal journey from the confines of a place of self-delusion to the wonder of renewed self-creation. This is the task to which we are called by our Tradition. The life of this Universe calls each of us to experience the fullness of our own life. In this way we participate fully in Creation itself.
 
-<div style="font-style: italic; margin: 2rem; text-align: justify">
-I step beyond the safe confines of my slavery now. I am filled with the energies of Divine Love, that I might journey with greater purpose and meaning. A deep inner security replaces my dependence on external circumstances, that suppress change. Instead I allow this deep Loving to support my growth.</div>
+<div class="abstract">
+
+I step beyond the safe confines of my slavery now. I am filled with the energies of Divine Love, that I might journey with greater purpose and meaning. A deep inner security replaces my dependence on external circumstances, that suppress change. Instead I allow this deep Loving to support my growth.
+
+</div>

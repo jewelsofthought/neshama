@@ -13,7 +13,7 @@ date: 2022-05-25T01:04:00.000Z
 
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
+<div class="abstract">
 
 Arrogance divides people. Preoccupation with your own desires and needs separates you from others. Humility allows you to appreciate another person and bond with him. Bonding that is just an extension of your own needs is only bonding tighter with yourself. Healthy bonding is the union of two distinct people, with independent personalities, who join for a higher purpose than satisfying their own needs.
 
@@ -31,7 +31,7 @@ The journey is never an easy one. In the true wilderness we are met by the cruci
 On this fortieth day, in the week of **Yesod**, we welcome the _sefirah_ of **Hod**, the Glory of the sensations of perceptions. We wish to realise those forms of sensation within ourselves which can support the expression of the Being Who dwells within us. The channel of Light connects the pubic area and the left hip. The receptive side of the Tree strengthens our ego self now.
 **Hod** is the _sefirah_ of physical beauty. This is not only a superficial beauty, but the inner beauty we experience as holiness. It is this deep beauty, in which form expands to more fully celebrate the Energy offered it, that we celebrate today.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
 _There is profound beauty which awakens within me now. I feel the blessing of this form as renewed confidence. Fuller abilities to realise my unique path unfold for me now. I express this realisation through every thought and every action in my life._
 

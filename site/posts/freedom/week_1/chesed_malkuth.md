@@ -23,10 +23,10 @@ date: 2022-04-22T00:04:00.000Z
 <h4>Receptivity in Loving</h4>
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">
-<p>
+<div class="abstract">
+
 Mature love comes with - and brings - personal dignity. An intimate feeling of nobility and regality. Knowing your special place and contribution in this world. Any love that is debilitating and breaks the human spirit is no love at all. For love to be complete it must have the dimension of personal sovereignty.
-</p>
+
 </div>
 
 Each day of the week we bring the energies of the seven lower _sefirot_ into the _sefirah_ of the week. This week our focus has been at **Chesed**, the _sefirah_ of Lovingkindness. On this, the seventh and final day of the week, we bring **Malchut**, the Kingdom, the “lowest”, densest, manifestations of energy, into **Chesed**. The most subtle and the most mundane, the “highest” and the “lowest”, of our meditations are joined today.
@@ -39,8 +39,10 @@ Our meditations for this day focus on the energies of the _sefirot_ at the right
 
 In the literal Omer period, following Passover, this is the final day of the Passover celebration for this year. Tomorrow evening we enjoy fresh _chametz_, bread made with leavening. Our ancient tradition speaks to the healing that is accomplished through this first week of meditative focusing. We are renewing our awareness of the multi-dimensionality of our being, and opening ourselves to an ever-expanding journey. It is certainly time to celebrate.
 
-<div style="font-style: italic; margin: 2rem; text-align: justify">
+<div class="abstract">
+
 I focus my awareness more intensely on the Presence of the Divine in this world. I feel its deeper influence throughout my being. I am grateful for its constant love, and am blessed with increased awareness of this  Universal Source of Light/Love. I recognise that all reality is an expression of this Loving Presence. In all I meet, I am nourished by the  energy of its constant love, and am blessed with this Love.
+
 </div>
 
 <h3>Reflections</h3>
@@ -53,11 +55,9 @@ Receiving lovingly, receiving kindly – loving, kind reception (receiving)
 
 **Note to R’ Falcon**:
 
-<p style="font-style: italic; margin: 2rem; text-align: justify">
+<div style="note">
 
 Now the energy of the world of our experience moves into **Chesed** to balance the Tree there, for each _sefirah_ contains an entire Tree. In turn, the fullness of **Chesed** connects today to this world. In **Malchut** all the flavours of the upper vessels manifest, but the Holy is hidden in husks of materiality. Today, this space is held in the Loving embrace of **Chesed**, as **Malchut** provides a grounding for the fullness of **Chesed**.
-
-</p>
 
 I understand the dynamic to be expressed this way. Each week for the seven days of the week, I focus on a specific _sefirah_ and experience that week “through the eyes/consciousness/awareness of that _sefirah_ during the whole of that week. For that reason, I begin that week with a deep meditation on the energy of the _sefirah_. Then, each day of the week, I focus on the interaction (awakening) of one of the _sefirot_ in the space of the “weekly” _sefirah_.
 
@@ -68,3 +68,5 @@ One of the ways of expressing this is through syntax. I would look at the weekly
 I place myself at the centre of the circle, and the six points of the natural hexagon of the circle at the other 6 _sefirot_ – like 6 portals that I look at from the center, focusing each day on one of them.
 
 ![The six portals](/posts/img/neshama/six_portals.jpg)
+
+</div>

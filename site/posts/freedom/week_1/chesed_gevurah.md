@@ -43,31 +43,23 @@ The balance between **Chesed** and **Gevurah** is brought into each of the lower
 
 Our emotions contain force and form which can destroy as well as heal. They can express themselves through both destructive as well as healing forms. Our challenge is to encourage Emotional Force to flow more fully by aligning it with our Emotional Form to provide suitable vehicles for that energy.
 
-<div style="font-style: italic; margin: 2rem; text-align: justify">
+<div class="abstract">
 I honour the forms of my emotional expression now. Relaxing both body and mind, I trust the higher forms to manifest through me. I open to receive more fully that I might express more truthfully.
 </div>
 
 <h3>Personal Reflections</h3>
-<div style="margin-left: 2rem">
 
-<p style="font-style: italic">
-Thank you, O Lord, for the sustenance You provide.
-</p>
-</div>
-<p>
-"I receive more fully,
-so that I may give more truly."
-</p>
+<div class="note">
+
+_Thank you, O Lord, for the sustenance You provide._
+
+"I receive more fully, so that I may give more truly."
 
 **The Long Road of Exodus**
-
-<div style="margin-left: 2rem; font-style: italic">
 
 - Every day since we first set foot from Ramses is another day of leaving Egypt.</p>
 - As soon as you stop leaving, you are back there again.</p>
 - Without limitation no energy can express in meaningful ways.</p>
-
-</div>
 
 R’ Falcon’s use of the concept of emotional energy, required a dive into the difference between emotions and feelings. As you can see below, I read the normative view of the differences. Where would I find the mystical one, I wonder?
 

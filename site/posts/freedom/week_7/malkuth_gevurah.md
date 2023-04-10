@@ -12,7 +12,7 @@ date: 2022-05-29T01:04:00.000Z
 
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
+<div class="abstract">
 
 Although sovereignty is loving, it needs to be balanced with discipline. Effective leadership is built on authority and discipline.
 
@@ -28,15 +28,13 @@ On this level of reality, we discover traces of the energies that carry deeper m
 
 Our feelings are always shifting. We live in a dynamic universe of emotion. We cannot hold our positive feelings for any great length of time, yet we can maintain our negative ones. We can always find something wrong somewhere. Our task is to allow both the positive and the negative feelings that we might learn the lessons of creation and growth.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
+<div class="abstract">
 
 I honour all the feelings which flow through me now. I become aware of the constant shifting of energies within me, and no longer struggle to hide what I feel. I have a deep trust in the creative rhythm of my inner life. I become more aware of the shape of my feelings than ever before.
 
 </div>
 
 <h3>Reflections</h3>
-
-<div style="font-size: 80%">
 
 <div style="text-align: center;">
 <h4><a href="https://www.chabad.org/calendar/view/day.asp?tdate=5/11/2021">Unconditional Life</a></h4>
@@ -46,9 +44,9 @@ I honour all the feelings which flow through me now. I become aware of the const
 </h4>
 <p>
 “These words that I command you today should be upon your heart.” 
--- (Deut. 6:6.)<br />
+<span style="text-align: right">&mdash;(Deut. 6:6.)<br />
 “Every day, the words of the Torah must be new to you.” 
--- (Sifri, Rashi.)
+<span style="text-align: right">&mdash;(Sifri, Rashi.)
 </div>
 
 Tradition is not life. Tradition preserves life. But it does not give life.
@@ -57,6 +55,6 @@ Life is here in this moment now. To be alive, every moment must be a moment that
 Which means that Torah must not be about tradition. It cannot be grounded on a memory of the past. Those are important, truly vital. But a Torah life cannot be built upon them.
 Real life, Torah life, is about who you are now, where the core of your soul lies at this very moment.
 For if it is not about the moment now, then it is not your life. And if it is not your life, then what is?
--- Maamar Tziyon BeMishpat 5736
+<span style="text-align: right">&mdash;Maamar Tziyon BeMishpat 5736</span>
 
 </div>

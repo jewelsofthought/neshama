@@ -13,7 +13,7 @@ date: 2022-05-27T01:04:00.000Z
 
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic; font-style: italic">
+<div class="abstract">
 
 Bonding must enhance a person's sovereignty. It should nurture and strengthen your own dignity and the dignity of the one you connect with. Emphasize and highlight the strengths of the one you bond with.
 
@@ -28,7 +28,7 @@ This has been our week of **Yesod**, focusing on the energies of the ego, of our
 
 **Malchut** is the _sefirah_ which grounds all those above it.[^2]. In electrical systems, without a suitable and stable “ground”, the current cannot flow fully and clearly. So it is with the system called the Tree of Life. We need a stable grounding to allow energies on the entire Tree to flow fully and with purpose. **Malchut** provides the environment in which we can stand. **Malchut** today brings that reality into **Yesod**, the Foundation of our sense of separate self.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic; font-style: italic">
+<div class="abstract">
 
 I feel the energies of a Universe flow through me now. I am a channel through whom heaven and earth meet. My journey grows clearer as I celebrate the blessings of my separate self. I act to translate these blessings to all those around me
 
@@ -36,8 +36,8 @@ I feel the energies of a Universe flow through me now. I am a channel through wh
 
 <h3>Reflections</h3>
 
-[^1]:
-    **Kingdom of Possibility**
+[^1]: **Kingdom of Possibility**
+jjjj
     Is it for us to experience joy & bliss, happiness and health here? I do not believe so. It is for us to work for G-d – for the greater cause offered to us by the Creator of the Universe! That is the beauty of being human. We are here to do work – which the others beings are just that – just being. So we can choose to remain in slavery, and thus human, or to rise to the challenge of embracing the Divine being who has created us and everything in existence&mdash;and expressing His Will in the Kingdom which he has created for us to do our work!
 
     How could we fall so deeply into the darkness of believing that the ultimate purpose of all of creation was to own a car, or a house, or make more money, or have lots of sex?
@@ -57,8 +57,7 @@ I feel the energies of a Universe flow through me now. I am a channel through wh
 
     Y”mba.
 
-[^2]:
-    _"**Malchut** is the_ sefirah _which grounds all those above it. In electrical systems, without a suitable and stable “ground”, the current cannot flow fully and clearly. So it is with the system called the Tree of Life. We need a stable grounding to allow energies on the entire Tree to flow fully and with purpose."_
+[^2]: _"**Malchut** is the_ sefirah _which grounds all those above it. In electrical systems, without a suitable and stable “ground”, the current cannot flow fully and clearly. So it is with the system called the Tree of Life. We need a stable grounding to allow energies on the entire Tree to flow fully and with purpose."_
 
     This is an incorrect analogy. Firstly, current can flow fully and clearly without a ground. Grounding is necessary for excess energy, if something happens to the circuit.
 

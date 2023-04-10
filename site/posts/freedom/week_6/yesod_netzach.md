@@ -13,7 +13,7 @@ date: 2022-05-24T01:04:00.000Z
 
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
 _An essential component of bonding is its endurance. Its ability to withstand challenges and setbacks. Without endurance there is no chance to develop true bonding._
 
@@ -33,7 +33,7 @@ This courage flows from **Netzach**. Our energies are renewed and deepened. We a
 
 We particularly honour the Vitality which allow us to create a self worthy of the Self Who lives in us. Today gives us space to appreciate the fuller strength of our individual being.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
 _Today I am filled with new vitality and Spirit. A deep self-acceptance allows a new flowering of awareness now. I am at peace with the world._
 
@@ -41,7 +41,11 @@ _Today I am filled with new vitality and Spirit. A deep self-acceptance allows a
 
 <h3>Reflections</h3>
 
+<div class="note">
+
 > Could also be expressed as
 > _Ambition in Connection_.
 > or
 > _Desire in Bonding_.
+
+</div>

@@ -11,9 +11,11 @@ date: 2022-05-20T04:04:00.000Z
 <p>Receptiveness in Humility</p>
 
 </div>
+
+<div class="abstract">
 <div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
 
-_Dignity is the essence of humility and modesty. The splendour of humility is majestic and noble. Walking humbly is walking tall. Humility that suppresses the human spirit and denies individual sovereignty is not humility at all._
+Dignity is the essence of humility and modesty. The splendour of humility is majestic and noble. Walking humbly is walking tall. Humility that suppresses the human spirit and denies individual sovereignty is not humility at all.
 
 </div>
 
@@ -27,9 +29,9 @@ As we complete this week, we appreciate more than ever the functioning of **Hod*
 
 Of course, that which holds the key to our growth can also serve to enslave us. Such is the Way of our Universe. We look around ourselves now with fuller awareness. Our goal is to sense the rightness of all we see, of all we hear, of all we experience. We rejoice that we are given the realities of the sensations with which we can know our path toward wholeness. Let us celebrate the One that meets us with every sensation we experience.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
-_I am the Consciousness of Spirit walking this planet. Welcoming all my sensations, my inner being expands with the sense of the Oneness hidden with them. Through my form, I am grateful for all the precious opportunities to experience and express the blessings of Love, Compassion and Vitality._
+I am the Consciousness of Spirit walking this planet. Welcoming all my sensations, my inner being expands with the sense of the Oneness hidden with them. Through my form, I am grateful for all the precious opportunities to experience and express the blessings of Love, Compassion and Vitality.
 
 </div>
 

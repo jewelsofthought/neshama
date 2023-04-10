@@ -11,10 +11,10 @@ date: 2022-04-25T00:04:00.000Z
 <p> Balance in Restraint</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
-<p>
+
+<div class="abstract">
+
 Not just love but compassion is also a necessary aspect of discipline for it to be balanced. That results in a discipline that is healthy, and not detrimental. Love comes from recognizing one's merits and positive qualities. Correct discipline channels and directs those strengths, reducing the influence of the negative. Compassion is unconditional.  You love as a reflection of G-d. <b>Tiferet</b> is the expression of total selflessness in the eyes of G-d. 
-</p>
 </div>
 
 Yesterday **Gevurah** entered into this week of **Gevurah**, bringing focus to the emotional forms of our current creations and the gifts we encounter in our appreciation for the necessity of such forms.
@@ -25,6 +25,7 @@ It is this deep compassion of Tiferet, this deep knowing, that will allow **Gevu
 
 The Heart of Life throbs within our chests, Life's Breath breathes its vitality into every cell of our beings. Through every action or dream or thought or deed, this Life moves through us. Life is an interaction, a co-operation, an interdependence. Life moves, shifts, and expands through and with us.
 
-<div style="font-style: italic; margin: 2rem; text-align: justify">
+<div class="abstract">
+
 Today I will open what was closed, awakening new possibilities through the sense of wonder I experience at the expansion taking place deeply within myself. I discover a fountain of compassion living and breathing inside me that nourishes the fuller expression of my Being. In this compassion, I radiate new joy from the creation of forms more fitting to my new experience of Oneness and Integrity.
 </div>

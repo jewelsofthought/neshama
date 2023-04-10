@@ -11,7 +11,8 @@ date: 2022-05-11T03:04:00.000Z
 <p>Humility in Ambition</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style: italic">
+
+<div class="abstract">
 
 Yielding - which is a result of humility - is an essential element of enduring. Standing fast can sometimes be a formula for destruction. The oak, lacking the ability to bend in the hurricane, is uprooted. The reed, which yields to the wind, survives without a problem. Do I know when to yield out of strength not fear?
 
@@ -31,8 +32,8 @@ The dynamic interplay of Energy through the _sefirot_ becomes more "real" as it 
 
 We begin to understand the dynamic of the Tree of Life as form expands to contain the greater energy it is given. **Hod** within **Netzach** allows the special fulfilment of the _sefirah_, and there is celebration.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
-_I am aware of the perfection of Physical Form, the sensations and perceptions that expand to contain the wonders of the energies of Life received. I am part of a glorious adventure of Spirit seeking to manifest Itself in continually expanding ways. With deep confidence, I allow myself freedom to move in directions that flow from my own integrity. I celebrate all form through which I perceive Spirit growing._
+I am aware of the perfection of Physical Form, the sensations and perceptions that expand to contain the wonders of the energies of Life received. I am part of a glorious adventure of Spirit seeking to manifest Itself in continually expanding ways. With deep confidence, I allow myself freedom to move in directions that flow from my own integrity. I celebrate all form through which I perceive Spirit growing.
 
 </div>

@@ -12,9 +12,10 @@ date: 2022-05-18T04:04:00.000Z
 <span style="font-weight: normal">(also </span>Splendour in Splendour)</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
 
-_Be humble for its own sake. Examine your humility for its genuineness. Everyone has humility and modesty in their hearts. How and in what manner do you feel it? Cultivate humility by interacting with people who are more refined than yourself, evoking in you modesty and a humility that motivates you to grow._
+<div class="abstract">
+
+Be humble for its own sake. Examine your humility for its genuineness. Everyone has humility and modesty in their hearts. How and in what manner do you feel it? Cultivate humility by interacting with people who are more refined than yourself, evoking in you modesty and a humility that motivates you to grow.
 
 </div>
 
@@ -26,7 +27,7 @@ We are such amazing beings. We can know forms which constrict the energies avail
 
 Traditionally, this is a day to experience the world of nature, connecting more concretely with our roots in the physical world. When we welcome perceptions of the natural world, there is often an opening, a relaxing of the usual sensations we habitually contain. This is the day for appreciating such Glory.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
 I am a perfect vehicle created by the One Spirit to experience and express Itself in this world. Through me, Spirit expresses Its Life of joy and celebration. The forms of my life&mdash;mental, emotional, and physical&mdash;expand to reflect fuller dimensions of wholeness through which I am able to celebrate the One I am.
 

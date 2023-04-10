@@ -11,9 +11,10 @@ date: 2022-05-28T04:04:00.000Z
 <p>Kindness in Receiving</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
 
-_Healthy sovereignty is always kind and loving. An effective leader needs to be warm and considerate._
+<div class="abstract">
+
+Healthy sovereignty is always kind and loving. An effective leader needs to be warm and considerate.
 
 </div>
 
@@ -28,11 +29,11 @@ We are challenged to discover the Light within a world of light and shadow. So w
 
 Lovingkindness infuses my world now. Its gentle Radiance illuminates all levels of my universe. Through that Light, I celebrate all Life about me. My world is blessed with Love.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
-_Lovingkindness infuses my world now. Its gentle Radiance illuminates all levels of my universe. Through that Light, I celebrate all Life about me. My world is blessed with Love._
+Lovingkindness infuses my world now. Its gentle Radiance illuminates all levels of my universe. Through that Light, I celebrate all Life about me. My world is blessed with Love.
 
-_I realise more fully than ever before the worth of my separate self. I feel the blessings of Love awaken within me now, and know that there are new ways in which I can express this Love in my world. I am grateful for this opportunity to honour the individual expression of self in me and in all whom I meet._
+I realise more fully than ever before the worth of my separate self. I feel the blessings of Love awaken within me now, and know that there are new ways in which I can express this Love in my world. I am grateful for this opportunity to honour the individual expression of self in me and in all whom I meet.
 
 </div>
 

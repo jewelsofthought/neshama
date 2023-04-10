@@ -12,7 +12,7 @@ date: 2022-06-03T01:04:00.000Z
 
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
+<div class="abstract">
 
 Take a moment and concentrate on yourself, on your true inner self, not on your performance and how you project to others. Be at peace with yourself knowing that G-d created a very unique and special person&mdash;which is you. Never forget, you could not have created this being that you are without G-d’s help.
 
@@ -28,7 +28,7 @@ It is not always easy to know our own uniqueness. There are so many voices that 
 
 How are we to know the way which is right for us at this moment? How are we to realise our own integrity? Perhaps by pausing long enough from our hectic lives to find out how we are really thinking, feeling and sensing our reality. To release the “should’s” from the “ought’s” long enough to meet ourselves and so to unfold through our own honesty. By daring to announce and accept ourselves as we are, that we might then be available to our world and to ourselves. We already are the One we need to be.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
+<div class="abstract">
 
 I release the tensions that keep me from being fully present in my world. I become available to the inner whisper of direction as I accept myself and my world. I am ready to stand with my People at the place called Sinai. **I am ready to hear the Word that supports my World**.
 
@@ -36,11 +36,8 @@ I release the tensions that keep me from being fully present in my world. I beco
 
 <h3>Reflections</h3>
 
-<div style="font-size: 80%">
 
-<h4 style="font-weight: bold; text-decoration: underline; text-align: center">Torah Unites</h4>
-
-<div style="margin-left: 2rem; margin-right: 2rem">
+<h4 style="text-decoration: underline; text-align: center">Torah Unites</h4>
 
 <p>We Jews are a diverse people. We speak many languages. We live in every part of the world. We have different cultures, foods, political views.
 But when a Jew’s mind is absorbed within Torah, it is the same Torah within which another Jew is absorbed. And another Jew. And yet another.
@@ -49,5 +46,3 @@ Until all of us become one in mind, soul and body, within one grand conversation
 
 <p style="text-align: right;">-- Last Day of Passover, 5744. _Likutei Sichot_ vol. 32, pg. 27</p>
 
-</div>
-</div>

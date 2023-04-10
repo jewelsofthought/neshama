@@ -11,9 +11,10 @@ date: 2022-05-07T03:04:00.000Z
 <p>Kindness in Perseverence</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
 
-_For anything to endure it needs to be loved._
+<div class="abstract">
+
+For anything to endure it needs to be loved.
 
 </div>
 
@@ -27,13 +28,15 @@ We are on the right side of the Tree today, the side of force, joining the Light
 
 This day infuse this physical force with Lovingkindness. Be aware of these energies moving through us that will ultimately awaken as our physical experience in the world.
 
-<div style="margin: 2rem; text-align: justify">
+<div class="abstract">
 
-_I am a channel through whom the energies of this Universe flow. I focus on their potential to bring blessing. Today my physical energies are nourished by the spirit of Love which is their source. I receive the fullness of this offering, that I might grow and better know the Life within me._
+I am a channel through whom the energies of this Universe flow. I focus on their potential to bring blessing. Today my physical energies are nourished by the spirit of Love which is their source. I receive the fullness of this offering, that I might grow and better know the Life within me.
 
 </div>
 
 <h3>Reflections</h3>
+
+<div class="note">
 
 "Kindness in Perseverence" is an example of the multi-dimensional aspect of all of these interactions. It is also referred to as "Kindness in Ambition", reminding us, that even when we are focussed on our ambitions, to be kind to those around us.
 
@@ -46,3 +49,5 @@ Here are some of the complimentary opposites that we become aware of:
 - Giving/Receiving
 - Force/Form
 - Power/Potential (Contained) Energy
+
+</div>

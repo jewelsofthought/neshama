@@ -5,16 +5,15 @@ tags: null
 date: 2022-05-14T00:01:00.000Z
 ---
 
-<div style="text-align: center; font-weight: bold"> 
+<div style="text-align: center; font-weight: bold">
 <p>The Fifth Week </p>
 <h1 style="font-size: 300%; text-decoration: underline">נצח</h1>
 <h2>ִHod</h2>
 <p>Humility; Reverberation<p />
 <h3 style="font-style: italic">Transformation through Sensation</h3>
 </div>
-<div style="margin-left: 2rem; margin-right: 2rem;text-align: justify">
 
-<div style="font-style: italic">
+<div class="abstract">
 
 The struggle to rid ourselves of ego and self-consciousness is fraught with challenge and contradiction.
 
@@ -32,9 +31,7 @@ Humility is sensitivity; it is healthy shame out of recognition that you can be 
 
 <h3 style="text-align:center">The Glory of Sensation</h3>
 
-This week I allow myself to relax into my experience and to release myself to explore the containers in which my perceptions present themselves. I am able to appreciate more fully how each sensation allows sensory vibration to manifest. I meet the wonders of physical sensation tor their own sake now.
-
-</div>
+This week I allow myself to relax into my experience and to release myself to explore the containers in which my perceptions present themselves. I am able to appreciate more fully how each sensation allows sensory vibration to manifest. I meet the wonders of physical sensation tor their own sake now.{.abstract}
 
 ## The Sefirah on the Tree of Life
 
@@ -56,13 +53,13 @@ is <em>Elohim Tzeva’ot</em>,
 אֱלֺוהִים צְבָאוֺת</h4>
 </div>
 
-The Name of G-d at Hod is _Elohim Tzeva’ot_, which means “G-d of Hosts”. _Elohim_, generally, reflects the aspect of the One we meet as an “Indwelling Presence” within a world of multiplicity. _Elohim_ helps us understand the truth of the One manifesting as the many. _Tzeva’ot_, translated “hosts”, has the connotation of an “army”, a group of great force. Here, the “force” is contained in each particular perception. The _Elohim_ is the Unity hidden within the apparent multiplicity of perceived forms. Our perceptions have the strength to convince us of the reality of our world. From our perceptions we learn about ourselves in relationship to that world.
+The Name of G-d at Hod is _Elohim Tzeva’ot_, which means “G-d of Hosts”. _Elohim_, generally, reflects the aspect of the One we meet as an “Indwelling Presence” within a world of multiplicity. _Elohim_ helps us understand the truth of the One manifesting as the many. _Tzeva’ot_, translated “hosts”[^1], has the connotation of an “army”, a group of great force. Here, the “force” is contained in each particular perception. The _Elohim_ is the Unity hidden within the apparent multiplicity of perceived forms. Our perceptions have the strength to convince us of the reality of our world. From our perceptions we learn about ourselves in relationship to that world.
 
-## Meditation for the Fifth Week at HOD.
+## Meditation for the Fifth Week at HOD
 
 <blockquote>
 <p dir="rtl">
-אֱלֹהִ֥ים הֲשִׁיבֵ֑נוּ וְהָאֵ֥ר פָּ֝נֶ֗יךָ וְנִוָּשֵֽׁעָה׃ 
+אֱלֹהִ֥ים הֲשִׁיבֵ֑נוּ וְהָאֵ֥ר פָּ֝נֶ֗יךָ וְנִוָּשֵֽׁעָה׃
 </p>
 <p>
 <em>Elohim Tzeva’ot</em> restore us, shine Your Presence and we shall be saved.<br />
@@ -72,7 +69,7 @@ The Name of G-d at Hod is _Elohim Tzeva’ot_, which means “G-d of Hosts”. _
 
 We move into higher energies of being becoming more aware ֹֹour current experience. In **Hod** we meet the particular forms in which our perceptions present themselves. Thus Hod informs our current experience of the world
 
-<div style="margin-left: 2rem; margin-right: 2rem;text-align: justify; font-style: italic">
+<div class="abstract">
 
 Focus on the letters of the Name at this level, and let the sound and the image of that Name provide a path for your moments of meditation. Discover the awareness supported through the vibrations of <span style="font-style: normal">Elohim Tzeva’ot</span>.
 
@@ -85,3 +82,9 @@ The expansion of the left side of the tree will happen within its constraints, b
 The female “mate” provides the receptacle for this energy, but also must “draw” the energy towards it.
 
 That is “active” feminine energy – her power: the ability to draw things towards herself.
+
+<h3>Reflections</h3>
+
+[^1]: These "hosts" are the myriad perceptions we experience. _Elohim_ is indicative of the unity within these hosts, each containing some Light (gold) of the Creator.
+
+An analogy for these hosts is that of colour. Within white, we find all the colours we experience, each one affecting us in a different way.

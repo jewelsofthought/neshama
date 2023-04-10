@@ -5,23 +5,23 @@ tags: null
 date: 2022-05-21T00:01:00.000Z
 ---
 
-<div style="text-align: center; font-weight: bold"> 
+<div style="text-align: center; font-weight: bold">
 <p style="margin-bottom: 0">The Sixth Week </p>
 <h1 style="font-size: 300%; text-decoration: underline; margin-top: 0; margin-bottom: 0">נצח</h1>
 <h2 style="margin-top: .5em; margin-bottom: 0">ִYesod</h2>
 <p style="margin-top: .2em; margin-bottom: 0">Foundation; Bonding or Connecting</p >
 <h3 style="font-style: italic; margin-top: .2em">Transformation through Intimacy</h3>
 </div>
-<div style="margin-left: 2rem; margin-right: 2rem;text-align: justify">
 
-<div style="font-style: italic">
+
+<div class="abstract">
 
 Bonding is on the same line of the mystical Tree of Life as Knowledge and Harmony. In the sphere of Knowledge, we become one with an idea. In Harmony, we’re doing in the heart what Knowledge does in the mind. Now, with Bonding, we duplicate that dynamic of connecting, but this time in the interpersonal arena.
 
 In these connections, we’re looking for intimacy of some sort. That requires vulnerability, a putting aside of the ego: to know something intimately means to let go of your own way of knowing the world, and look at it from another perspective. You want to understand the thing as it is&mdash;not as you would like it to be. To love intimately means the same thing. If you don’t get your ego out of the way, someone else is not going to risk opening their heart to you. They don’t trust you, because the ego makes playthings of other’s most intimate lives. Similarly with Bonding: in order to be really intimate, you can have no agenda. A vision for something? Yes. Agenda? No![^1]
 
 <p style="text-align: center; font-style: normal">
-* * * 
+* * *
 </p>
 
 Bonding is the ultimate emotional connection. While the first five qualities (love, discipline, compassion, endurance and humility) are interactive, they manifest duality: the lover and the beloved. The emphasis is on an individual's feelings, not necessarily on mutuality.
@@ -61,7 +61,7 @@ is <i>Shaddai</i> or <i>El Chai</i><br />
 
 The Kabbalistic tradition assigns two names at **Yesod**&mdash;_El Chai_ or _Shaddai_. We will use both of them in this meditative process. _Shaddai_ (“The Almighty”) is a Name reflecting the power of G-d, and is the name inscribed on the outside of the _mezuzah_ scroll, and often on the outside of the container affixed to the doorpost. The _mezuzah_ is a small cylindrical container holding a hand-written parchment upon which several central verses from the Torah are inscribed. It is placed on the right side of a doorway (as one enters a home or a room). _El Chai_ (The Living G-d” or “The G-d of Life”) is a “Life” name, drawing our awareness to the channelling of Life energy through the _sefirah_ of **Yesod**.
 
-## Meditation for the Sixth Week at YESOD.
+## Meditation for the Sixth Week at YESOD
 
 <blockquote>
 <p dir="rtl">
@@ -89,6 +89,14 @@ During your meditations this week, become more aware of the self behind your exp
 Take _Shaddai_ and _El Chai_ as the sounds and the letter images upon which you focus today. As you focus on them, what do you experience? Explore these two names and the energies they carry.
 
 <h3>Reflections</h3>
+
+<div class="note">
+
+That love for the other causes me to transform as well. It is in that loving and acknowledgement of my shadow side and its projections that I am healed.
+
+Seeing the reflections of my shadow self in the world around me, enables me to deal with it more clearly.
+
+</div>
 
 [^1]: This confuses me. Firstly, the ego cannot work without an agenda, either its own, or some adopted agenda. It is a directed energy, a vector. If it does not have something to do, some goal to achieve, then it is either in limbo, (and unhappy) or supporting someone else, who is ego driven, achieve theirs.
 

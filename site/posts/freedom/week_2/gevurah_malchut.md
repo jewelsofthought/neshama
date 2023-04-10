@@ -11,12 +11,11 @@ date: 2022-04-29T00:04:00.000Z
 <p>Receptivity in Restraint</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
-<p>
+
+<div class="abstract">
 
 Discipline, like love, must enhance personal dignity (see week one day seven). Discipline that breaks a person will backfire. Healthy discipline should bolster self-esteem and help elicit the best in a person; cultivating his sovereignty. And that does not compromise the discipline; on the contrary it fosters and enhances it.
 
-</p>
 </div>
 
 We are concluding the second week of our journey. The week in **Gevurah** ends by bringing in **Malchut**, the lowest _sefirah_. The channel of Light reaches from the left shoulder to the base of the spine.
@@ -35,7 +34,7 @@ The way is to bring _shalom_, peace within our selves is to balance our internal
 
 In order to bring balance within ourselves, we need to balance our internal heaven and earth, our inner tensions of awareness and forgetting. So the last day of this week holds special promise. In our meditations, we celebrate the awakening of **Malchut** in **Gevurah**.
 
-<div style="font-style: italic; margin: 2rem; text-align: justify">
+<div class="abstract">
 
 I release my insistence that things be better than they are, that I might realise the blessings whispering through/hidden within the everyday events of my life. There are higher forms which now manifest through me and around me, to hold more fully the energies of holiness flowing from their Source. I am now more aware of an underlying sense of Peace and Love reflecting through the world which is my present abode, but in which I know I have a deep sense of purpose.
 

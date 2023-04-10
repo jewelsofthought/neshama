@@ -11,9 +11,10 @@ date: 2022-05-15T04:04:00.000Z
 <p>Restraint in Humility</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
 
-_Humility must be disciplined and focused. It must include respect and awe for the person or experience you stand humbly before. Focus on your reluctance in any given area to see if it originates from a healthy, humble place._
+<div class="abstract">
+
+Humility must be disciplined and focused. It must include respect and awe for the person or experience you stand humbly before. Focus on your reluctance in any given area to see if it originates from a healthy, humble place.
 
 </div>
 
@@ -25,9 +26,9 @@ The world of forms is confusing to us. Often we fail to contain our powerful emo
 
 Our meditations for this day focus on the valuations we place on our sensations, on our experiences in the world. We shape ourselves into vessels of Divine expression[^1], that we might see beyond the transient impressions of sensations and physical form.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
-_I am the vehicle through whom Universal Energies flow. Now these forces find humane form to express themselves in my world. I bless the sensations through which I know my body and my world. My vision expands that I might bless the evolving dimensions of our physical experience in the world._
+I am the vehicle through whom Universal Energies flow. Now these forces find humane form to express themselves in my world. I bless the sensations through which I know my body and my world. My vision expands that I might bless the evolving dimensions of our physical experience in the world.
 
 </div>
 

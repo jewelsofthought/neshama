@@ -5,16 +5,15 @@ tags: null
 date: 2022-05-07T00:01:00.000Z
 ---
 
-<div style="text-align: center; font-weight: bold"> 
+<div style="text-align: center; font-weight: bold">
 <p>The Fourth Week </p>
 <h1 style="font-size: 300%; text-decoration: underline">נצח</h1>
 <h2>ִNetzach</h2>
-<p>Victory; Enduring, Continuation, Everlasting<p />
+<p>Victory; Enduring, Continuation, Everlasting</p>
 <h3 style="font-style: italic">Transformation through Endurance</h3>
 </div>
-<div style="margin-left: 2rem; margin-right: 2rem;text-align: justify">
 
-<div style="font-style: italic">
+<div class="abstract">
 
 Endurance and ambition is a combination of determination and tenacity. It is a balance of patience, persistence and guts. Endurance is also being reliable and accountable, which establishes security and commitment. Without endurance, any good endeavour or intention has no chance of success.
 
@@ -26,9 +25,8 @@ Without endurance, any good endeavour or intention has no chance of success.
 
 <h3 style="text-align:center">Perseverance of Physical Energy</h3>
 
-I allow myself special time this week to relax into the moment and seek the not-yet-limited vibration behind all sensation. I become more aware of the pulsing energy which flows through me. I am surrounded and supported in this field of abundant Energy.
+I allow myself special time this week to relax into the moment and seek the not-yet-limited vibration behind all sensation. I become more aware of the pulsing energy which flows through me. I am surrounded and supported in this field of abundant Energy.{.abstract}
 
-</div>
 
 ## The Sefirah on the Tree of Life
 
@@ -58,13 +56,13 @@ is <em>Adonai Tzeva'ot</em>,
 
 The Name of G-d at **Netzach** is _**Adonai Tzeva’ot**_, translated as “Eternal One of Hosts”, though written as _Yod-Kay-Vav-Kay Tzeva’ot_. In this context, “hosts” refers to the vibrational level&mdash;the sensations and perceptions&mdash;shared between the _sefirot_ of **Netzach** and **Hod** . The _Elohim_ of **Hod** present an apparent multiplicity; at **Netzach**, the “hosts” are _Adonai_, the unformed, undifferentiated aspect of the One. The Name _Yod-Kay-Vav-Kay Tzeva'ot_ refers to the energetic level prior to the manifestation of specific sensations.
 
-## Meditation for the Fourth Week at NETZACH.
+## Meditation for the Fourth Week at NETZACH
 
 <blockquote>
 <p dir="rtl">
 יְהוָ֣ה צְבָא֣וֹת עִמָּ֑נוּ מִשְׂגָּֽב־לָ֝נוּ אֱלֹהֵ֖י יַעֲקֹ֣ב סֶֽלָה
 </p><p>
-<em>Adonai Tzeva’ot</em> is with us, the G-d of Jacob is our haven.<br />
+Adonai Tzeva’ot</em> is with us, the G-d of Jacob is our haven.<br />
 -- (Psalm 46:12)
 </p>
 </blockquote>
@@ -73,7 +71,7 @@ This week become more sensitive to the flow of the endless energy of life itself
 
 Life is offered us every moment. Open your awareness to celebrate that offering. Release the security of the known forms of your perceptions and taste the reverberation that all forms carry behind them.
 
-<div style="margin-left: 2rem; margin-right: 2rem;text-align: justify; font-style: italic">
+<div class="abstract">
 
 In a deepening silence, allow yourself to open to the flow of energy, the force that causes a particular sensation. Before defining the sensation, bask in the blessing of that outpouring. After it becomes defined, a felt sensation, as it always shall, remain with that which is not yet named in the sensation itself.
 
@@ -83,4 +81,4 @@ Focus on the letter and on the sound of the Name of G-d. Let _Adonai Tzva’ot_ 
 
 <h3>Reflections</h3>
 
-[^1]: It is similar to the process of understanding the I’Ching, the interplay between the masculine and the feminine, dark and light, represented by the Yin and the Yang&mdash;both of which are essential for the wheel to continue turning.
+[^1]: It is similar to the process of understanding the _I’Ching_, the interplay between the masculine and the feminine, dark and light, represented by the Yin and the Yang&mdash;both of which are essential for the wheel to continue turning.

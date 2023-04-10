@@ -12,12 +12,10 @@ modified: 2022-06-15
 <p>Humility in Judgement</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
-<p>
+<div class="abstract">
 
 The results of discipline and might without humility are obvious. The greatest catastrophes have occurred as a result of people sitting in arrogant judgement of others. Beware of your arrogance in the name of justice (what I consider as just). A judge has to be the most humble of beings, recognizing that he sits in judgement not by his own merit but only because G-d bestowed upon him the right to judge His children. Personally, do not judge anyone unless you are doing so selflessly with no personal bias.
 
-</p>
 </div>
 
 Today our focus is on the left side of the Tree of Life. The connection is experienced between **Gevurah** at the left shoulder, and **Hod** at the left hip. **Gevurah** provides form for the emotional energies from **Chesed**, while **Hod** provides sensations that form from the physical energies flowing from **Netzach**. **Hod** is “Glory”, the fulfilment of physical sensation.
@@ -26,7 +24,8 @@ It is through the left side of the Tree that energy finds its form into the worl
 
 All forms grow rigid over time. The the nature of form is to perpetuate itself, and if it cannot expand, it will grow dense and rigid. All energies can overwhelm. That is the nature of force. Negative judgements keep form constrained. Blessings invite flexibility, and foster growth. Therefore we bless the sensations we are manifesting in physical forms, that we might become more, that we can grow more fully into the being that G-d wants us to be. Today, I acknowledge each feeling, each sensation and each perception as a wonder in itself.
 
-<div style="font-style: italic; margin: 2rem; text-align: justify">
+<div class="abstract">
+
 I release the constraints of self-condemnation and self-judgement. I surround myself with the Light of Being and experience the radiance of Its blessing in every cell of my body. The Beauty which flows around me and through me supports my wholeness and healing. I bathe in the Light of this Blessing. I focus on perceiving and expressing this Beauty more completely in my life.
 </div>
 
@@ -34,8 +33,12 @@ I release the constraints of self-condemnation and self-judgement. I surround my
 
 **Belief & Trust**
 
+<div class="note">
+
 Belief is not enough—you need trust.
 
 The Talmud says that before a robber breaks in, he prays that G-d should help him. He believes in G-d, but he doesn’t trust Him to provide him an honest living—and so he steals and murders instead.
 
 _Trust in G-d is when your belief changes the way you live._
+
+</div>

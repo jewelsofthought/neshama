@@ -11,12 +11,11 @@ date: 2022-05-01T01:04:00.000Z
 <p>Restraint in Harmony</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem; font-style:italic">
-<p>
+
+<div class="abstract">
 
 For compassion to be effective and healthy it needs to be disciplined and focused.
 
-</p>
 </div>
 
 On this day of the journey we bring **Gevurah** into **Tiferet**, and the energies connect the heart and the left shoulder. The day is one of healing, for we take the _sefirah_ of Limitation and Judgement into the _sefirah_ of Compassion and Balance.
@@ -29,7 +28,7 @@ We need to bless that which is in most need of blessing. Creation unfolds throug
 
 We have all that we need to support the _Tikkun Ha-Olam_, the Healing Completion of Creation. The higher truth is that our experiences are absolutely fitting for each one of us. When we accept them, they are no longer forced to remain as they are; when we resist them, we keep them&mdash;and ourselves&mdash;from changing. On this day, we open to the emotional energies within us which are in need of blessing from our Greater Awareness.
 
-<div style="font-style: italic; margin: 2rem; text-align: justify">
+<div class="abstract">
 
 I focus on the Light in my own heart space, so that it can be clear. Into this Light I bring the energies of my feelings. All aspects of my life are illuminated with special blessing. I awaken to a deep inner Compassion from which I can heal and realise my essential wholeness.
 

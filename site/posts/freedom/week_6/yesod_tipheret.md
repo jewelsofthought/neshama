@@ -7,12 +7,12 @@ date: 2022-05-23T01:04:00.000Z
 
 <div style="font-weight: bold; text-align:center">
 <h2>Tiferet she’b Yesod</h2>
-<i>Day Three of Week 6:</i> 
+<i>Day Three of Week 6:</i>
 <p>Harmony in Connection</p>
 
 </div>
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
 _Bonding needs to be not only loving but also compassionate, feeling your friend's pain and empathizing with him._
 
@@ -29,8 +29,6 @@ Our separate self is itself one such husk. It is a _klipah_ that hides the Indwe
 We are the beings on this level of reality who are given the responsibility of remembering Who we truly are. When we sink into despair, we draw our protective shells more firmly about us. When we open our eyes to the joys of existence, our shells thin, and we are able to see through them and realise our Identity.
 **Tiferet**, the _sefirah_ of our Greater Self, is given us this day for additional focus. When we allow ourselves to open to the gentle touch of that deep Compassion, we are led from places of despair back into the Light of our Being.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+I breathe deeply and release the tensions with which I have surrounded myself. I become aware of deeper influences of Compassion that awaken within me. This Light flows through me now as peaceful healing. I rest in the glow of the Presence within.{.abstract}
 
-I breathe deeply and release the tensions with which I have surrounded myself. I become aware of deeper influences of Compassion that awaken within me. This Light flows through me now as peaceful healing. I rest in the glow of the Presence within.
-
-</div>
+<h3>Reflections</h3>

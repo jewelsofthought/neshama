@@ -11,9 +11,10 @@ date: 2022-05-22T05:04:00.000Z
 <p>Restraint in Connection</p>
 
 </div>
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
 
-_Bonding must be done with discretion and careful consideration with whom and with what you bond. Even the healthiest and closest bonding needs "time out", a respect for each individual's space._
+<div class="abstract">
+
+Bonding must be done with discretion and careful consideration with whom and with what you bond. Even the healthiest and closest bonding needs "time out", a respect for each individual's space.
 
 </div>
 
@@ -27,8 +28,8 @@ The ego functions as an environment that reflects the polarities awakening at **
 
 It is too easy to collapse into the darkness we perceive in our awareness of the shadow self. Our goal, instead is to appreciate even those aspects of ourselves which carry forgetfulness, fear, insecurity and inadequacy. By working with the rejected aspects of our ego, we are finally able to recognise and make allies of our fears, enabling us to journey deeper into the wilderness entrusted to us.
 
-<div style="text-align: justify; margin-left: 2rem; margin-right: 2rem;">
+<div class="abstract">
 
-_Plumbing the deeper aspects of my being today, I am aware that there is light as well as shadow within me, and I honour both as I journey toward Sinai this year. I welcome the new forms I discover through which I express my uniqueness in the world. A deep trust in all aspects of my being awakens in me now._
+Plumbing the deeper aspects of my being today, I am aware that there is light as well as shadow within me, and I honour both as I journey toward Sinai this year. I welcome the new forms I discover through which I express my uniqueness in the world. A deep trust in all aspects of my being awakens in me now.
 
 </div>
