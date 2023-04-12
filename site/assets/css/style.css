@@ -41,13 +41,14 @@ span:dir(rtl) {
 blockquote:dir(rtl),
 div:dir(rtl),
 p:dir(rtl) {
+  font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
   text-align: start; /* left in latin, right in arabic */
   margin-inline-start: 0px; /* margin-left in latin, margin-right in hebrew */
   padding-inline-start: 0rem; /* padding-left in latin, padding-right in hebrew */
   padding-inline-end: 0rem;
 
   font-size: 1.2rem;
-  font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  line-height: 1.3;
   font-weight: 900;
 }
 

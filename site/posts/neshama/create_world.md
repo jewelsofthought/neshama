@@ -9,9 +9,9 @@ modified: 2002-03-02T19:46:47.668Z
 
 > One angel cannot have two missions. "Two angels cannot have the same mission." (_Targum Rashi_ on Genesis 18:2; _Bereshit Rabbah_ 50:2)
 
-This is echoed in physics, where it states "No two objects can occupy the same space at the same time. It is not a repetitive universe, and no situation can re-occur in exactly the same configuration.
+This is echoed in physics, where it states "No two objects can occupy the same space at the same time." It is not a repetitive universe, and no situation can re-occur in exactly the same configuration.
 
-We might spend a lot of our time and energy trying to recreate an event that affected us from the past, but even if we repeat it, it will never be the same as the previous one. The classic example of this is sex. If one's first sexual experience is blissful and fulfilling, one will begin to see this bliss in further sexual experiences, but it will never be the same as that first one.
+We might spend a lot of our time and energy trying to recreate an event that affected us from the past, but even if we repeat it, it will never be the same as the previous one. The classic example of this is sex. If one's first sexual experience is blissful and fulfilling, one may seek this bliss in further sexual experiences, but it will never be the same as that first one.
 
 The negative version of this is that the experience is horrible, and so one will spend the rest of one's life avoiding this experience so as not to experience that horror again.
 
@@ -19,17 +19,13 @@ The negative version of this is that the experience is horrible, and so one will
 <summary class='button is-outlined'>
  <i>Bereshit Rabbah</i>  &nbsp;50:2 &nbsp;<i class='fa fa-solid fa-caret-down'></i>
 </summary>
-<p dir="rtl" style="font-size: 120%; line-height: 1.3">
+<p dir='rtl'>
 תָּנָא אֵין מַלְאָךְ אֶחָד עוֹשֶׂה שְׁתֵּי שְׁלִיחוֹת, וְלֹא שְׁנֵי מַלְאָכִים עוֹשִׂים שְׁלִיחוּת אֶחָת, וְאַתְּ אֲמַרְתְּ שְׁנֵי, אֶלָּא מִיכָאֵל אָמַר בְּשׂוֹרָתוֹ וְנִסְתַּלֵּק, גַּבְרִיאֵל נִשְׁתַּלַּח לַהֲפֹךְ אֶת סְדוֹם, וּרְפָאֵל לְהַצִּיל אֶת לוֹט
 </p>
-<figure class='quote'>
-  <p>
-    <p>
-and behold, three men: One to bring the news [of Isaac’s birth] to Sarah, and one to overturn Sodom, and one to heal Abraham, for one angel does not perform two errands (Gen. Rabbah 50:2). You should know that [this is true] because throughout the entire chapter, Scripture mentions them in the plural, e.g., (below verse 8): “and they ate” ; (ibid. verse 9): “and they said to him.” Concerning the announcement, however, it says (ibid. verse 10): “And he said: I will surely return to you.” ... And Raphael, who healed Abraham, went from there to save Lot. This is what is stated: “And it came to pass when they took them outside, that he [the angel] said, ‘Flee for your life.’” You learn that only one acted as a deliverer.
+<p>
+and behold, three men: One to bring the news [of Isaac’s birth] to Sarah, and one to overturn Sodom, and one to heal Abraham, for one angel does not perform two errands (Gen. Rabbah 50:2). You should know that [this is true] because throughout the entire chapter, Scripture mentions them in the plural, e.g., (below verse 8): “and they ate”; (ibid. verse 9): “and they said to him.” Concerning the announcement, however, it says (ibid. verse 10): “And he said: I will surely return to you.” ... And Raphael, who healed Abraham, went from there to save Lot. This is what is stated: “And it came to pass when they took them outside, that he [the angel] said, ‘Flee for your life.’” You learn that only one acted as a deliverer.
 </p>
-  </p>
-  <figcaption>&mdash;(Rashi's commentary)</figcaption>
-</figure>
+&nbsp;&nbsp;&nbsp;&mdash;(Rashi's commentary)
 </details>
 
 ---
