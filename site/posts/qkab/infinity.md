@@ -8,14 +8,21 @@ stars: "**"
 ---
 
 1. [Message](#message)
-2. [Infinity](#infinity)
-3. [Imagining Infinity](#imagining-infinity)
-4. [Which direction?](#which-direction)
-5. [Numbers](#numbers)
+2. [Infinite Infinities](#infinite-infinities)
+3. [Infinity](#infinity)
+4. [Imagining Infinity](#imagining-infinity)
+5. [Which direction?](#which-direction)
+6. [Numbers](#numbers)
 
 ## Message
 
 > “What is to give light must endure burning.” Viktor Frankl
+
+## Infinite Infinities
+
+It is not that everything is possible. It is that anything is possible. Just as the Infinite of infinities exists in all non-infinite states, it also exists in all states of infinity.
+
+Infinite in all directions, means it exists everywhere, in all/any possible dimensions. From inf N (manifest) - 1 - -> null state (nothingness) - in which exists all possible states.
 
 ## Infinity
 

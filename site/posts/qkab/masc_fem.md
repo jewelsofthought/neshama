@@ -8,11 +8,11 @@ date: Last Modified
 modified: 2015-10-13T01:19:16.154Z
 ---
 
-1. [Male \& Female](#male--female)
-2. [M \& F](#m--f)
-3. [Upper \& Lower](#upper--lower)
-4. [Roles](#roles)
-5. [Desire for Power](#desire-for-power)
+1. [Introduction](#introduction)
+2. [Male \& Female](#male--female)
+3. [M \& F](#m--f)
+4. [Upper \& Lower](#upper--lower)
+5. [Roles](#roles)
 6. [Transform](#transform)
 7. [Sexual Journey](#sexual-journey)
    1. [A word on the beloved](#a-word-on-the-beloved)
@@ -24,7 +24,16 @@ modified: 2015-10-13T01:19:16.154Z
 13. [Misc](#misc)
 14. [F\*ck\*\*\*](#fck)
 15. [Some vague thoughts on the matter](#some-vague-thoughts-on-the-matter)
-16. [Dance with Joy](#dance-with-joy)
+
+## Introduction
+
+This is based on the Kabbalistic view of the dynamics that play out between the two polarities of force and form, expansion and contraction, giving and receiving. I want to emphasise that we are a combination of these two polarities. The common way to refer to these polarities in a lot of literature is as the masculine and the feminine. The idea is not to think of it as man and woman, but that we are a mixture of these two energies, and that our journey is to find some balance and harmony between the two. Thus a woman can be full of female energy, and a man full of feminine energy. When a woman expresses her emotions, it is a masculine effect, one of giving. When a man folds into a depression it is the feminine form energy of contraction and constraint that he is expressing.
+
+In the Kabbalah, for instance, **Chesed** represents mercy, or lovingkindness, and is on the masculine pillar. On the other hand, **Gevurah**, or strength, is on the feminine. Our sages say that the **Gevurah** is feminine because to practice restraint requires far more strength than it is to give to all (or even one) of one's desires. Never does it say that **Gevurah** represents the woman. We all are made up of all the _sefirot_ in the Tree of Life, and contain elements of all ten of these emanations of the Divine.
+
+Analogous to this, is the Taoist concept of the Yin and the Yang, masculine and feminine. From a reading of the I'Ching, the Yin is referred to in feminine forms of sister, princess, etc, while the Yang is referred to in masculine forms.
+
+In my opinion, the equating of masculine energy exclusively with the man, and the female energy with the woman is where much of the gender confusion arises from. It is the confusion between force and form. Although someone might be a biological woman, her energy (force) could be predominantly masculine. Thus the existential question of our time becomes: "Does that mean she is a man?".
 
 ## Male & Female
 
@@ -32,31 +41,40 @@ Dark energy -> expressed sexually: Woman as a channel for this energy. Just as t
 
 The image that comes to mind is of a cloaking, a filtering – or, on a higher level, the guiding – of the masculine by the feminine, and consists of concentric circles.
 
-![m&f](/posts/img/qkab/Diagram%20MF1%20-%20m&f.png) Whereas the male forms a circle of protection for the female. He faces outward, protecting her from outside effects. She works from the inside, nurturing and keeping the home and thus faces inward. His protection has to not allow anything in that shouldn’t get in. Her’s is to allow the dynamic fire of the man to be expressed in the world, but needs to control it enough to be able to temper and guide it.
+<figure style='float: right'>
+  <img src='/posts/img/qkab/Diagram%20MF1%20-%20m&f.png' alt='M&F 1' width='100' height='100' />
+</figure>
 
-![Dymanics](/posts/img/qkab/Diagram%20MF1a%20-%20Dynamics.png) This is a diagram of the universal dynamics of the Yin and the Yang. Where the divine feminine, represented by the the circle, represented space – creation, in that sense. The space in which creation can exist and be nurtured. Though Kabbalisticaly she is called form, paradoxically in her Divine, she is space – which is the form from which everything emerges. Whereas the masculine, the Yang, is represented as the energy that moves the space to manifest, and is always represented by straight lines, or rather a vector movement. This is because energy always moves in a “straight” line – though it might be a 4d straight line, and look very squiggly in this dimension.
+The male forms a circle of protection for the female. He faces outward, protecting her from external effects, thus his consciousness is focused on the outside. She works from the inside, nurturing and nourishing the internal spaces of our existence, and thus faces inward. He protects the female, not allow anything impure in, giving her space to express herself. Her’s is to allow the dynamic fire of the masculine to be expressed in the world, but needs to control it enough to be able to temper and guide it. Just as one needs to tend to a fire.
+
+<figure style='float: left'>
+  <img src='/posts/img/qkab/Diagram%20MF1a%20-%20Dynamics.png' alt='M&F Dynamics' width='100' height='100' />
+</figure>
+
+This is a diagram of the universal dynamics of the Yin and the Yang. Where the divine feminine, represented by the the circle, represented space – creation, in that sense. The space in which creation can exist and be nurtured.
+
+Though Kabbalisticaly she is called form, paradoxically in her Divine, she is space – which is the form from which everything emerges. Whereas the masculine, the Yang, is represented as the energy that moves the space to manifest, and is always represented by straight lines, rather like a vector. This is because energy always moves in a “straight” line – though it might be a 4d straight line, and look very squiggly in this dimension.
 
 ## M & F
 
-- F: All life sustaining events are circular (what we refer to as light, productive, nourishing, "informative", the energy is circular, used to sustain itself. Can produce narcissism. Everything for me/mine.Countered by the "spiritual" thrust of giving (M), producing the self-abnegating "mother" - eventually the Divine Mother, the unconditional love...)
-- M: All life threatening events are linear (what we refer to as evil - though light travels in a straight line. It has an integrity/force with which it travels, and it loses force/clarity by losing its integrity. Whilst darkness expands spatially (in all directions)) - it occupies the spaces that emerge through the lack of clarity/integrity of the light!)
-  ![Figure 1](/posts/img/book_gift/mf1.drawio.png)
+- F: All life is cyclical (or could one say circular?). The energy must be circular in order for it to sustain itself. As well as the cycle of life has to continue, else the life event ends. This can produce narcissism, the ego &mdash; everything for me/mine.
+- All life threatening events are linear (what we refer to as evil)
+- Though light travels in a straight line. It has an integrity/force with which it travels, and it loses force/clarity by losing its integrity. Whilst darkness expands spatially (in all directions), it occupies the spaces that emerge through the lack of clarity/integrity of the light!)
+
 - F: Will to receive => not receiving -> cold, vicious, conniving, mean
-  Frustration at being the receiver. Looked at as passive. Introduces power of choice by being empowered in her ability to receive, able to refuse.
+  Frustration at being the receiver. Looked at as passive. Introduces power of choice when empowered in her ability to receive. Anger when her ability to refuse to receive has been removed, or overriden.
 - M: Will to give => not giving -> moribund, violent
   Male anger at his “gift” not being received. That is where constraint is necessary, but can only be imposed by males. Not in what or how, but in that he always needs to ask for permission from the female – both inside himself and outside, always being open to hearing what the “other” has to say.
 
-![Union](/posts/img/qkab/Diagram%20MF3%20-%20Union.png)
-
 ## Upper & Lower
 
-![Masculine & Feminine - Upper & Lower](/posts/img/book_gift/mf1.drawio.png)
+![Upper & Lower](/posts/img/qkab/upper_lower.svg)
 
 Instead of looking at ourselves as some sort of "[object](objectification.html)", as an "ideal" to attain, [an imagined perfection](superior_man.html), as illustrated by Jesus, Buddha, Mother Teresa, and [other significant and influential figures](golden_shadow.html). What if we viewed ourselves and our fellow beings as works-in-progress? Imagine everyone walked around with an "under construction" sign. Because who dies completely fulfilled? There is always something or, if you are lucky, someone left behind.
 
-Why not look at ourselves, our world, in fact the whole darn universe, as dynamic systems. Systems that are always in some sort of flux, some of which is obvious and some of which is not. There is so much that happens, and that could happen, that we are unaware of, and that affect us. We are like fish in the ocean. All we can do, as regards the ocean itself, is just live in it and with it. We can search for food, and harvest what we can from our surroundings - but the currents that bring the nourishment, and the sun that nurtures them, and the many complex events that have to occur in order for this food to arrive and this current to flow is beyond anything we can imagine, and this flux affects us, even if we are seemingly still "who we were".
+Why not look at ourselves, our world, in fact the whole darn universe, as dynamic systems. Systems that are always in some sort of flux, some of which is obvious and some of which is not. There is so much that happens, and that could happen, that we are unaware of, and that affect us. We are like fish in the ocean. All we can do, as regards the ocean itself, is just live in it and with it. We can search for food, and harvest what we can from our surroundings - but the currents that bring the nourishment, and the sun that nurtures them, and the many complex events that have to occur in order for this food to arrive and this current to flow, is beyond anything we can imagine, and this flux affects us, even if we are seemingly still "who we were".
 
-Even in our lives we think we are a constant, and not in constant flux. Besides the fact that our body is, our emotions are, and our mind is constanly breathing, feeling and thinking. How balanced they are depends on a number of factors, but training and practice is at their core. But as we grow, we move from one "type" of person to another. I am not the toddler I was when I was born. I have grown from being the young boy I was cavorting around the garden. I am not longer the father I was to my young children. Although I might still be, and always will be, their father, I am not longer the father I was then, for they are grown with their own children. And so it goes on - till I die.
+Even in our lives we think we are a constant, and not in constant flux. Besides the fact that our body, our emotions and our mind are constantly breathing, feeling and thinking. How balanced they are depends on a number of factors, but training and practice is at their core. As we grow, we move from one "type" of person to another. I am not the toddler I was when I was born. I have grown from being the young boy I was cavorting around the garden. I am not longer the father I was to my young children. Although I might still be, and always will be, their father, I am not longer the father I was then, for they are grown with their own children. And so it goes on - till I die.
 
 ## Roles
 
@@ -71,10 +89,6 @@ The role of the woman is well-defined, as the role of the man needs to be. The b
 > - **Love** without vulnerability is not love at all
 
 Love, too, needs constant nourishment, though we know that material things are not what love needs - though gifts are always lovely. Admittedly, both men and women desire a materially comfortable life, that is not under question. And achieving that is a worthwhile goal. However, it is not sufficient to nourish love, though it might be sufficient to assuage the masculine, it certainly will leave the feminine in exile.
-
-## Desire for Power
-
-> The desire for power, greed, is a feminine trait. It devours whatever it can, an unbalanced form of receiving.
 
 ## Transform
 
@@ -180,7 +194,3 @@ There is a similar process for the Male. In order to receive, in the Masculine e
 And now the positions are changed. The receptacle, which was empty, is now full and the other, which was full, is now empty.  
 
 If this process of giving/receiving is blocked, the energy is transformed into waste energy, generating  either heat and friction &mdash; which is the terrain upon which violence (if masculine) or self-destructive (feminine) behaviour emerges. If the energy of the giving/receiving is misaligned, that inappropriated energy will find other outlets &mdash; some negative, some positive. The most positive solution I believe we have yet come up with, is to dedicate it to whatever will uplift you and/or those around you.  
-
-## Dance with Joy
-
-![Dance with Joy](/posts/img/qkab/dance_in_joy.svg)

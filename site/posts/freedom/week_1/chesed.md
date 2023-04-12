@@ -4,6 +4,11 @@ description: The Journey Begins
 tags: null
 date: 2022-04-16T00:02:00.000Z
 ---
+<figure style='float: left'>
+ <a href='/posts/img/neshama/freedom/Tree%20of%20Life%201.0%20-%20upper%20noD%20(Chesed).png'>
+   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%201.0%20-%20upper%20noD%20(Chesed)_144x300.png' alt='Chesed' width='144' height='300' />
+ </a>
+</figure>
 
 <div style="text-align: center; font-weight: bold">
 <p>The First Week </p>

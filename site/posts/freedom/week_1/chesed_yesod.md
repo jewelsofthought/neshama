@@ -44,6 +44,8 @@ All that I am is Blessed by the Divine energies of Light. Even my sense of separ
 
 <h3>Reflections</h3>
 
-[^1]: Could the idea of separateness affect the Infinite Oneness? Of course not. However, are we not essentially the expression of the One's "idea" of separateness, and thus we are born with this idea embedded in our (sub)consciousness. Our sages say that that is our work in the healing of the World (and perhaps G-d Himself), to overcome this separateness, and return home to the place of Union with the Divine Itself.
+[^1]: Could the idea of separateness affect the Infinite Oneness? Of course not. However, are we essentially the expression of the One's "idea" of separateness, and thus we are born with this idea embedded in our (sub)consciousness. Our sages say that that our work in the healing of the World (and perhaps G-d Himself) is to overcome this separateness and experience the place of Union with the Divine Itself.
+
+Which in a strange way, reflects the idea of separation, by being the process of return.
 
 [^2]: Indeed the ego cannot experience anything that is beyond the ego. One has to reach for some other aspect, some other part of one's being to become aware of this otherness that is the reason and cause of its very existence. Something that is humbling for this arrogant ego.
