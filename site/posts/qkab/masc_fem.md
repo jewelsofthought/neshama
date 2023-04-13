@@ -4,6 +4,7 @@ description: It is dynamic
 ref:
   - m&f 
 tags: null
+stars: "**"
 date: Last Modified
 modified: 2015-10-13T01:19:16.154Z
 ---
@@ -17,13 +18,7 @@ modified: 2015-10-13T01:19:16.154Z
 7. [Sexual Journey](#sexual-journey)
    1. [A word on the beloved](#a-word-on-the-beloved)
 8. [Limits](#limits)
-9. [Sexual realm](#sexual-realm)
-10. [Sex with](#sex-with)
-11. [Female](#female)
-12. [Coitus](#coitus)
-13. [Misc](#misc)
-14. [F\*ck\*\*\*](#fck)
-15. [Some vague thoughts on the matter](#some-vague-thoughts-on-the-matter)
+9. [Some vague thoughts on the matter](#some-vague-thoughts-on-the-matter)
 
 ## Introduction
 
@@ -53,18 +48,13 @@ The male forms a circle of protection for the female. He faces outward, protecti
 
 This is a diagram of the universal dynamics of the Yin and the Yang. Where the divine feminine, represented by the the circle, represented space – creation, in that sense. The space in which creation can exist and be nurtured.
 
-Though Kabbalisticaly she is called form, paradoxically in her Divine, she is space – which is the form from which everything emerges. Whereas the masculine, the Yang, is represented as the energy that moves the space to manifest, and is always represented by straight lines, rather like a vector. This is because energy always moves in a “straight” line – though it might be a 4d straight line, and look very squiggly in this dimension.
+Though Kabbalisticaly, the feminine is produces form, paradoxically in her Divine, she is space – which is the form from which everything emerges. Whereas the masculine, the Yang, is represented as the energy that induces the space to manifest, and is represented by straight lines, rather like a vector. This is because energy always moves in “straight” lines.
 
 ## M & F
 
-- F: All life is cyclical (or could one say circular?). The energy must be circular in order for it to sustain itself. As well as the cycle of life has to continue, else the life event ends. This can produce narcissism, the ego &mdash; everything for me/mine.
+- All life is cyclical (or could one say circular?). The energy must be circular in order for it to sustain itself. As well as the cycle of life has to continue, else the life event ends. This can produce narcissism, the ego &mdash; everything for me/mine.
 - All life threatening events are linear (what we refer to as evil)
-- Though light travels in a straight line. It has an integrity/force with which it travels, and it loses force/clarity by losing its integrity. Whilst darkness expands spatially (in all directions), it occupies the spaces that emerge through the lack of clarity/integrity of the light!)
-
-- F: Will to receive => not receiving -> cold, vicious, conniving, mean
-  Frustration at being the receiver. Looked at as passive. Introduces power of choice when empowered in her ability to receive. Anger when her ability to refuse to receive has been removed, or overriden.
-- M: Will to give => not giving -> moribund, violent
-  Male anger at his “gift” not being received. That is where constraint is necessary, but can only be imposed by males. Not in what or how, but in that he always needs to ask for permission from the female – both inside himself and outside, always being open to hearing what the “other” has to say.
+- Though light travels in a straight line. It has an integrity/force with which it travels, and it loses force/clarity by losing its integrity. Whilst darkness expands spatially (in all directions), it occupies the spaces that emerge through the lack of clarity/integrity of the light!
 
 ## Upper & Lower
 
@@ -78,119 +68,68 @@ Even in our lives we think we are a constant, and not in constant flux. Besides 
 
 ## Roles
 
-> For the masculine it is about achieving something - and then he will be satisfied/happy. For the feminine is it about being in love & happy.
+> For the masculine it is about achieving something - and then he will be satisfied/happy.
 
-The "success" that the masculine achieves has to be constantly maintained and monitored. The more he achieves, the more attention these will demand from him. And one of the main tools of the [_Sitra Achara_]{\#sitra_achara}, the evil impulse, is to keep us occupied in the realm of the mundane so that we have no time to spend in the realm of the divine. That is to say that most of our day is taken up with mundane activities, most of our goals are empirical, and very little, if any, of our day is devoted to our relationship with the Divine. All relationships need attention to flourish. If there is no time for a relationship with the Father, than eventually the two of you will become somewhat estranged and unfamiliar.How many of your daily thoughts are taken up in contemplating what we don't know, what is not there? Being still and listening silent speech, rather than thinking and about the things and experiences and events of your own life?
-
-A man must learn to respond, then he must practise responding in a constrained and balanced fashion. The woman must learn to contain her responses, and choose the appropriate responses, and, interestingly, the appropriate time to respond.
-
-The role of the woman is well-defined, as the role of the man needs to be. The better defined that each role of the masculine is, the easier it is for the woman to be secure in her place.
+Any "success" that is achieved has to be constantly maintained and monitored. The more one achieves, the more attention these will demand. And one of the main tools of the _Sitra Achara_, the evil impulse, is to keep us occupied in the realm of the mundane so that we have no time to spend in the realm of the divine. That is to say that most of our day is taken up with mundane activities, most of our goals are empirical, and very little, if any, of our day is devoted to our relationship with the Divine. All relationships need attention to flourish. If there is no time for a relationship with the Father, than eventually the two of you will become somewhat estranged and unfamiliar. How many of your daily thoughts are taken up in contemplating what we don't know, what is not there? Being still and listening to the silent speech, rather than thinking and about the things and experiences and events of your own life?
 
 > - **Love** without vulnerability is not love at all
 
-Love, too, needs constant nourishment, though we know that material things are not what love needs - though gifts are always lovely. Admittedly, both men and women desire a materially comfortable life, that is not under question. And achieving that is a worthwhile goal. However, it is not sufficient to nourish love, though it might be sufficient to assuage the masculine, it certainly will leave the feminine in exile.
+Love, too, needs constant nourishment, though not material things. Admittedly, both men and women desire a materially comfortable life, that is not under question. And achieving that is a worthwhile goal. However, it is not sufficient to nourish love.
 
 ## Transform
 
 ![transformation - from energy to form](/posts/img/tol/fn-mf.png)
+
 _The female transforms the male energy into form_
 
-However, it requires the union of male &amp; female, and, on the upper level, it requires this union to be harmonious and balanced. If the male is not contained by the female, and manifests form, it is misplace (misappropriated) energy, thus has the tendency to become destructive, as it will need to destroy this form (the female). If energy is not utilised, not only does it go to waste, but it turns toxic. [anaerobic - no oxygen](anaerobic.html). Think of under-utilised electrical energy&mdash;like a fully charged battery.
+It requires the union of male &amp; female to manifest form. On the upper level, it requires this union to be harmonious and balanced. If the masculine is not balanced by the feminine, and manifests form, it is misplaced (or misappropriated) energy. It thus has the tendency to become destructive. Just as energy that is not utilised, not only goes to waste, but can turn toxic.
 
 ## Sexual Journey
 
-The masculine sexual impulse enters the young body. It is new, it is powerful and overwhelms the vessel in which it needs to be contained. Due to the unrelieved pressure, it could crack, thus needs to be well bound to contain it.
+The sexual impulse enters the young body. It is new, it is powerful and overwhelms the vessel in which it needs to be contained. This intense, and misunderstood urge for the young female is overwhelming, while the young woman is radiating sexuality and beauty, flush with her youthful eroticism. Due to the unrelieved pressure, it could crack, thus needs to be well bound to contain it.
 
-This intense, and misunderstood urge for the young female is overwhelming, while the young woman is radiating sexuality and beauty, flush with her youthful eroticism.
-
-If this masculine urge for the female is not contained or focused on a beloved, and continuous till his later years, the older man will find the older woman unattractive, and continue to attempt to suck of the juice of the your girl. This will tilt the sexual energy into other forms, and will need to be fulfilled by other means in order to compensate for the lack of pure, clear sexuality.
+If the masculine urge for the female is not contained or focused on a beloved, and continues till his later years, the older man will find the older woman unattractive, and continue to attempt to suck of the juice of the young girl. This will tilt the sexual energy into other forms, and will need to be fulfilled by other means in order to compensate for the lack of clear love-making.
 
 ### A word on the beloved
 
-Whatever criticisms have been laid against the romantic ideal of the beloved, it came (and still comes) from our deep desire for union with the Beloved G-d, who is the Creator of All, bless Him forevermore. {You could say the Creator is male, the Nourisher is female&mdash;that is ignoring the fact that the Creator is both male and female and that it is only because of the constraints and comforts of our language that we refer to It as Him.}
+Whatever criticisms have been laid against the romantic ideal of the beloved, it came (and still comes) from our deep desire for union with the G-d, who is the Creator of All, bless Him forevermore. One could say the Creator is masculine, the Nourisher is feminine &mdash; that is ignoring the fact that the Creator is both masculine and feminine and that it is only because of the constraints and comforts of our language that we refer to It as Him.
 
-Once we had G-d manifest in human form (male, of course), now we could easier allow ourselves to love another human as we would G-d, our true Beloved. Once our focus on the unknowable Divine Source, may His dew water us eternally, wavered, then this attachment could be formed to anything. {This is the reason for the prohibition of idol worship.}
+Once we had G-d manifest in human form (male, of course), now we could easier allow ourselves to love another human as we would G-d, our true Beloved. Once our focus on the unknowable Divine Source, may His dew water us eternally, wavered, then this attachment could be formed for anything. This is the reason for the prohibition of idol worship.
 
-To constrain our sexual urges through love of the beloved, whether it is the human loved or the Divine, it raises us to seek a relationship with either the Divine aspect of my partner or the Divine Presence that surrounds us all. The alternative is to encourage sexual exploration, and dalliances, which will only lead to abomination and the perversion of desire.
+To constrain our sexual urges through love of the beloved, whether it is the human love or love of the Divine, uplifts us to seek a relationship with either the Divine aspect of my partner or the Divine Presence that surrounds us all. The alternative is to encourage sexual exploration, and dalliances, which will only lead to abominations and the perversion of desire.
 
 ## Limits
 
 $$\lim_{n \to 0} (1/n) = \infty$$
 
-The feminine’s tendency is towards fullness. She desires to fill the space, and is thus full of connections and counterconnections, circles and the curved intentions.
+The feminine’s tendency is towards fullness. She desires to fill the space, and is thus full of connections and counterconnections, circles and curved intentions.
 
 $$\lim_{n \to \infty} (1/n) = 0$$
 
-The masculine’s tendency is towards nothingness, annihilation, death. His analysis is reductionist, towards the atom, the smallest particle of matter, rather than towards unification, accepting the field of consciousness. He represents the force which is the expression of nothingness in this real. It has no body, no form – it is just pure energy.
+The masculine’s tendency is towards nothingness, annihilation, death. His analysis is reductionist, towards the atom, the smallest particle of matter, rather than towards unification, accepting the field of consciousness. He represents the force which is the expression of nothingness in this reality. It has no body, no form – it is just pure energy.
 
-Adam, the primordial man, is both male and female. Jung states that the purpose of human life, is the “union of anima and animus". His name is derived from the name of the earth, _adamah_, which is, in essence '$$Adam + h$$'. The ‘$$h$$’ represents the breathe of G!d, as the earth (אדמה adamah) needed the Divine Breath ($$h$$) in order to live..
+Adam, the primordial man, is both male and female. Jung states that the purpose of human life, is the “union of anima and animus". His name is derived from the name of the earth, _ADAMah_, which is, in essence Adam + h (_hey_). The ‘_hey_’ represents the breathe of G!d, just as the earth (אדמה adamah) needed the Divine Breath ('_hey_') in order to live...
 
-A side note: $$h$$ is the symbol for [hydrogen](/posts/qkab/hydrogen.html) - which is the first, and most abundant element in the universe. It is also an essential component of both water and oil, the two liquids that comprise all living cells.
+A side note: $$H$$ is the symbol for hydrogen &mdash; which is the first, and most abundant element in the universe. It is also an essential component of both water and oil, the two liquids that comprise all living cells.
 
-## Sexual realm
-
-The energy fusing with the material is the sexual realm of the upper world. The "descent" of the spirit into manifest form is the expression of the sexual in the spiritual space we are referring to.
-
-For us, the sexual act is a possible entrance into the spiritual. For the woman, when in love, it is. For the man it seems to be more of a descent. The feminine ascends, and the masculine descends. Woman is "filled", man is "emptied". Woman encounters the infinite through the fullness, a fullness that fills the emptinesses that she wrangles with. Man encounters the divine through the emptiness - the emptiness that removes his ego, allowing him to hear the rousing silence.
-
-Woman needs security and a firm foundation to hold her as she traverses the universal space.
-
-## Sex with
-
-Nobody has the right to tell anyone else who they can or cannot have sex with, beyond the natural constraints of sex between adults. If my truth is, in the moment, that my desire for this person is real and soulful, and I do not express that due to guilt, I am not being authentic. I am then acting out of fear&mdash;especially fear of consequences.
-
-What meetings are possible in the angelic realm where actions are true? Where a look, accompanied by a tremor of excitement, can set a soul alight.
-
-## Female
-
-If you accept the fact that you are young and beautiful, and every man is going to try want you, in one way or another&mdash;you will be more able to determine and control what goes on around you. All I say is - be gracious. Only use what you have to to get what you need. Don't be cruel.
-
-## Coitus
-
-The only truly heterosexual sexual act is vaginal penetration. All the rest are "diversions", and should be for the the pleasuring of the female.
-
-## Misc
-
-Male $$\rightarrow$$ line
-Female $$\rightarrow$$ circle
-Sex $$\Rightarrow$$ on/off $$\rightarrow$$ cycle
-
-## F\*ck\*\*\*
-
-Male wants the female for sex. That is a driving imperative. If he is "pure" male, then he would (if allowed) have a no nonsense approach. He would rip off her clothes and f\*ck.
-
-In order to make the experience worthwhile and for the upliftment and pleasure of both parties, to make the journey last, he needs "diversion". He has to "miss the mark", otherwise it is game over in a short time. Thus he needs to insert time into the experience, which equals creativity.
-
-That is what love introduces into the experience, the willingness and desire to spend time to make sure that the outcome is positive for them both. The only way to truly uplift both parties and especially the feminine is through love of his partner, and ideally he would see in her the feminine Divine. For he sees feminine energy everywhere, and, in his response, will change things in her environment.
-
-Love is when he sees her manifest in the objects around him.
-
-What if she just wants sex too, and not complicate it with the demand of love. This should balance things out, but it does not seem to. In that case, often it is the man that is hurt, and will end up referring to her as a slut.
-
-Woman controls man through sex, unless the man has enslaved her sexually, generally by overpowering physically or by means of societal controls. On the individual scale, it is emotional power that will stop him taking her, whereas on the communal scale it is social and legal pressures.
-
-If she manages to control his sexual imperative, he will become sexually disconnected and unhappy, as he is not in tune with his own life force.
-
-True love is not love that only loves you when you do what it wants. Just as true faith is not love G-d when things are good for you (like in the story of Job)
+> True love is not love that only loves you when you do what it wants. Just as true faith is not loving G-d only when things are good for you (like in the story of Job).
 
 ## Some vague thoughts on the matter
 
 The matter is one that discusses [the desire for separation or union](/posts/freedom/week_1/chesed_yesod/index.html#fn1), from a journey that is called the Omer.
 
-The male lingam points upward when ignited in its desire for union. This could be thought of as an impulse towards higher consciousness, and, therein, at that moment, likes the choice. The choice of whether to dedicate this act to the Creator, or to thrust down into the deapth of the darkness and dedicate the energy to the lower realms.
+The lingam points upward when ignited in its desire for union. This could be thought of as an impulse towards higher consciousness, and, therein, at that moment, lies the choice. The choice of whether to dedicate this act to the Creator, or to thrust down into the depth of the darkness and dedicate the energy to the material realms.
 
 Yet the two are intrinsically connected. They are never truly separate, and one has to master the ability to rise while at the same time being anchored deep in the darkness that is our flesh.
 
-Female remains dormant until she “thrusts” upward, which is expressing of the "negative" of the upward thrust, becoming in essence a thrust outward, an opening to receive. Its expression as a receptacle for the dark energies of the earth.
-
-The masculine thrust downwards, his desire to feel the energies of the earth and its darknesses. To go against this natural pull requires dedication to the Upper Realms. It is an expression of the servant of Higher Energies.
+Yet the masculine thrust downwards, his desire to feel the energies of the earth and its darknesses. To go against this natural pull requires dedication to the Upper Realms. It is an expression of the servant of Higher Energies.
 
 In order to receive, there has to be a “negative" or empty space.
 
-In the Feminine expression, the energy is drawn inward (the process of reception) and, the female absorbs it. It is then transformed to form – as in the birth of a child. Which is a masculine expression – a giving.
+In receiving, the energy is drawn inward (the process of reception) and if absorbed, can then transformed to form – as in the birth of a child.
 
-There is a similar process for the Male. In order to receive, in the Masculine expression, requires the energy to be quiet enough, and that is only through constraint that that can occur. By receiving the giving that is in the female's receiving, he brings harmony and balance into the interaction.
+In order to receive requires the energy to be quiet enough, and that is only through constraint that that can occur. By receiving the giving that is in the female's receiving, they bring harmony and balance into the interaction.
 
 And now the positions are changed. The receptacle, which was empty, is now full and the other, which was full, is now empty.  
 
-If this process of giving/receiving is blocked, the energy is transformed into waste energy, generating  either heat and friction &mdash; which is the terrain upon which violence (if masculine) or self-destructive (feminine) behaviour emerges. If the energy of the giving/receiving is misaligned, that inappropriated energy will find other outlets &mdash; some negative, some positive. The most positive solution I believe we have yet come up with, is to dedicate it to whatever will uplift you and/or those around you.  
+If this process of giving/receiving is blocked, the energy is transformed into waste energy, generating  either heat and friction &mdash; which is the terrain upon which violent (masculine) or self-destructive (feminine) behaviour emerges. If the energy of the giving/receiving is misaligned, that inappropriated energy will find other outlets &mdash; some negative, some positive. The most positive solution I believe we have yet come up with, is to dedicate it to what will uplift you and your partner.

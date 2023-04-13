@@ -9,15 +9,14 @@
   margin: 0.1em 1em;
 }
 
-
 .abstract {
-  font-style:italic
+  font-style: italic;
 }
 
 @media (min-width: 580px) {
   .abstract {
-  margin-left: 2rem; 
-  margin-right: 2rem; 
+    margin-left: 2rem;
+    margin-right: 2rem;
   }
 }
 
@@ -31,6 +30,7 @@
   .poem {
     padding-left: 4rem;
   }
+}
 
 span:dir(rtl) {
   font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
@@ -57,7 +57,8 @@ details,
 footnote,
 .note,
 .note p:dir(ltr),
-.note span:dir(ltr) {
+.note span:dir(ltr),
+.quote {
   font-size: small;
   line-height: 1.1rem;
 }
@@ -72,7 +73,6 @@ footnote,
 .item-hr {
   width: 10em;
 }
-  
 
 dt {
   font-weight: bold;
@@ -88,8 +88,8 @@ aside {
 }
 
 figure.quote {
-  text-align: left;
-  font-size: 95%;
+  text-align: justify;
+  font-size: small;
 }
 
 figure.quote p {
