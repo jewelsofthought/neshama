@@ -16,16 +16,16 @@ date: 2022-04-22T00:04:00.000Z
 <div style="text-align:center">
 <h2>Malchut she’b Chesed</h2>
 <p>
-<span dir="rtl"><b>הָיום שִׁיבָה יָמִים לָעוֹמֵר</b></span>
+<span dir="rtl"><b>הָיום שִׁיבָה יָמִים שֶׁהֵם שָׁבוּעַ אֶחָד לָעוֹמֶר לָעוֹמֵר</b></span>
 <br />
-<i>Today is seven days of the Omer</i>
+<i>Today is seven days, which is one week of the Omer</i>
 
 <h4>Receptivity in Loving</h4>
 </div>
 
 <div class="abstract">
 
-Mature love comes with - and brings - personal dignity. An intimate feeling of nobility and regality. Knowing your special place and contribution in this world. Any love that is debilitating and breaks the human spirit is no love at all. For love to be complete it must have the dimension of personal sovereignty.
+Mature love comes with - and brings - personal dignity. An intimate feeling of nobility and regality, knowing your special place and contribution in this world. Any love that is debilitating and breaks the human spirit is no love at all. For love to be complete it must have the dimension of personal sovereignty.
 
 </div>
 
@@ -47,26 +47,25 @@ I focus my awareness more intensely on the Presence of the Divine in this world.
 
 <h3>Reflections</h3>
 
-[^1]: The dynamics will be reversed, and the mundane will be influenced by the subtle, the lowest will be looking up. It is looking at the dynamic from the opposite pole. Useful and necessary for a deeper understanding of this interaction.
-[^2]: It is the base of the spine if you are sitting (either on a chair, or cross legged). Otherwise it is the base upon which you are standing. One could imagine almost like a distanceless space between the base of your spine and the space upon which you are standing.
-[^3]: As in the cosmic dance, Maya, dharma, etc.
+<div class="block note">
 
-Receiving lovingly, receiving kindly – loving, kind reception (receiving)
+Each week for the seven days of the week, I focus on a specific _sefirah_ and experience that week “through the eyes/consciousness/awareness of that _sefirah_ during the whole of that week. For that reason, I begin that week with a deep meditation on the energy of the _sefirah_. Then, each day of the week, I focus on the interaction (awakening) of one of the _sefirot_ in the space of the “weekly” _sefirah_.
 
-**Note to R’ Falcon**:
+<figure style='float: left'>
+  <img src='/posts/img/neshama/six_portals_200x200.jpg' alt='6 points' width='200' height='200' />
+  <figcaption>The six portals</figcaption>
+</figure>
 
-<div style="note">
+Holding the consciousness of the weekly _sefirah_, I look through the lense of the daily _sefirah_.  It is one of the “personalities” within the current weekly _sefirah_ &mdash; examining it's influence from the weekly _sefirah_’s perspective.
 
-Now the energy of the world of our experience moves into **Chesed** to balance the Tree there, for each _sefirah_ contains an entire Tree. In turn, the fullness of **Chesed** connects today to this world. In **Malchut** all the flavours of the upper vessels manifest, but the Holy is hidden in husks of materiality. Today, this space is held in the Loving embrace of **Chesed**, as **Malchut** provides a grounding for the fullness of **Chesed**.
-
-I understand the dynamic to be expressed this way. Each week for the seven days of the week, I focus on a specific _sefirah_ and experience that week “through the eyes/consciousness/awareness of that _sefirah_ during the whole of that week. For that reason, I begin that week with a deep meditation on the energy of the _sefirah_. Then, each day of the week, I focus on the interaction (awakening) of one of the _sefirot_ in the space of the “weekly” _sefirah_.
-
-Let us say that I now look, with the consciousness of the weekly _sefirah_ at/through a specific daily _sefirah_. At, if I look at it as an external _sefirah_. Through, if I look at it as one of the “personalities” within the current weekly _sefirah_&mdash;like seeing it from that _sefirah_’s perspective (within the purview of the current weekly sefirah).
-
-One of the ways of expressing this is through syntax. I would look at the weekly _sefirah_ as being the subject of the sentence, and the daily as being the object thereof.
+One of the ways of expressing this is through syntax, the daily _sefirah_ being the subject of the sentence, and the weekly being the object thereof.
 
 I place myself at the centre of the circle, and the six points of the natural hexagon of the circle at the other 6 _sefirot_ – like 6 portals that I look at from the center, focusing each day on one of them.
 
-![The six portals](/posts/img/neshama/six_portals.jpg)
-
 </div>
+
+<br clear="all"/>
+
+[^1]: The dynamics will be reversed, and the mundane will be influenced by the subtle, the lowest will be looking up. It is looking at the dynamic from the opposite pole. Useful and necessary for a deeper understanding of this interaction.
+[^2]: It is the base of the spine if you are sitting (either on a chair, or cross legged). Otherwise it is the base upon which you are standing. One could imagine almost like a distanceless space between the base of your spine and the space upon which you are standing.
+[^3]: As in the cosmic dance, Maya, dharma, etc.

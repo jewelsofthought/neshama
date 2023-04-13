@@ -19,7 +19,11 @@ The same applies to the attribute of **Gevurah**, fear. It’s coming your way n
 
 People all over the world do that every day. They’re afraid of not having enough money, of missing the bus, of speaking in public. Instead of letting go to the One who created everything, they somehow think it’s a safer bet to take things into their own hands and manage their lives “independently.” But that leads to fear-driven behaviour. At the highest level of the chain, we could call that neurotic behaviour&mdash;putting our real fears into things like the bus and having to give a presentation at work. Down the chain, there are states like anxiety disorder ... paranoia ... a whole slew of painful ways to live.
 
+{One could also call it a from of idol worship. Instead of fearing G-d, we fear the "god of money", hoping he will be generous towards us; or the "god of sex", hoping she will bring love to us; or the "god of spirituality", and hope she will show us the path to enlightenment and peace. }
+
 Your other choice is to fear G-d. If that’s your guiding light, you’ll be freed of all other anxiety! I don’t mean to say you shouldn’t be responsible and cautious where necessary. What I am saying is that when you experience healthy fear, or awe, then your other worries dissipate and disappear.
+
+{Healthy fear: Balanced fear. There are two types of fear, the one imagined, and emotional, the other, in response to a threat. For instance, a feeling of terror upon encountering a spider stems from imagined feeling of panic, that will express themselves emotionally. Yet their are spiders that carry toxins that can harm us, but not all spiders. That is the real threat.}
 
 This basic element of fear or awe can also be framed as hatred or opposition. It doesn’t function only in isolation, but plays itself out together with all our other emotional attributes. Take it in combo with love, for example.
 
@@ -33,8 +37,8 @@ Its holy form is a resistance to anything that obstructs G-d’s presence in the
 
 Animalistic behaviour that intimidates others brings oppression, estrangement and abuse in its wake. However, there’s the G-dly side of the coin. Whereas love is expansive, fear is contractive. We need both impulses—sugar and salt, attraction and repulsion, connection and boundaries.
 
-Life without boundaries or awe would overpower and destroy us. Think of rain. The blessing of water falling to earth allows us to live, but if it came down in sheets, all growing things would die. We need the spaces between the water that form raindrops. Those spaces are a metaphor for the kabbalistic attribute of **Gevurah**&mdash;or awe, fear, respect, discipline, opposition.
+Life without boundaries or fear would overpower and destroy us. Think of rain. The blessing of water falling to earth allows us to live, but if it came down in sheets, all growing things would die. We need the spaces between the water that form raindrops. Those spaces are a metaphor for the kabbalistic attribute of **Gevurah**&mdash;or awe, fear, respect, discipline, opposition.
 
-We need to temper our love and passion. If not, we’re likely to steam roll others with our emotions and not allow them space to be themselves. We run the risk of tripping over our own feet in the heat of our passion and vision for a better tomorrow. The blessing of rain is in the spaces.
+We need to temper our love and passion. If not, we’re likely to steamroll others with our emotions and not allow them space to be themselves. We run the risk of tripping over our own feet in the heat of our passion and vision for a better tomorrow. The blessing of rain is in the spaces.
 
 When we incorporate restraint into our lives (whether its origin is fear, awe, respect or opposition), we counter-intuitively open another realm of possibility, and actually enhance our loving connections. Certainly, unholy fear is to be avoided at all costs; but holy awe and respect is to be embraced. It frees us of our neuroses, and creates the space for love to flourish.

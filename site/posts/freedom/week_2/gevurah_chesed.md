@@ -4,11 +4,23 @@ description: Loving Restraint
 tags: null
 date: 2022-04-23T00:04:00.000Z
 ---
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
 
-<div style="font-weight: bold; text-align:center">
+<figure style='float: left'>
+ <a href='/posts/img/neshama/freedom/Tree%20of%20Life%202.1%20-%20upper%20noD%20(Chesed%20in%20Gevurah).png'>
+   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%202.1%20-%20upper%20noD%20(Chesed%20in%20Gevurah)_144x300.png' alt='Chesed in Gevurah' width='144' height='300' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Chesed she’b Gevurah</h2>
-<i>Day One of Week 2:</i> 
-<p>Kindness in Restraint</p>
+<span dir="rtl"><b>הָיום שְׁמוֹנָה יָמִים שֶׁהֵם שָׁבוּעַ אֶחָד לָעוֹמֶר וְיוֹם אֶחָד לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is eight days, which is one week and one day of the Omer</i>
+</p>
+
+<h4>Kindness in Restraint</h4>
 
 </div>
 
@@ -22,11 +34,11 @@ Counting the Omer is a metaphor for counting the steps on the journey from slave
 
 This second week focuses on **Gevurah**, the _sefirah_ placed at the left shoulder which balances **Chesed** on the right side. **Gevurah** itself symbolises the dark side, the _Sitra Achra_, the place of Other. It holds the possibility of being mere shell without energy. It is the place of the shadows lacking light. It is the place of restriction and constriction, since it limits the pure flow from **Chesed**. Because it provides a form for **Chesed**, it allows that Love to manifest. Because any form will limit **Chesed**, it threatens to strangle the very energies for which it is a vessel. At **Gevurah** we sense most clearly the essential paradox of form.
 
-Since **Gevurah** expresses itself as the form of emotions, it is our task to to inform these emotions the energy of Love that flows from **Chesed** to better recognize and appreciate the feelings which have arisen within us. This first day of the second week brings **Chesed** into **Gevurah**, to help us sense the presence of that Lovingkindness within all the feelings we experience.
+Since **Gevurah** expresses itself as the form of emotions, it is my task to infuse these emotions with the energy of Love that flows from **Chesed**&mdash;to better recognize and appreciate the feelings which have arisen within me. This first day of the second week brings **Chesed** into **Gevurah**, to help us sense the presence of that Lovingkindness within all the feelings we experience.
 
-This week we focus on the left shoulder, and today we imagine a channel of light between the illuminations at left and right shoulder. Notice that this channel passes through the throat, which is the place that we enter and impact the world with our words. With this awareness, we enter into our experience this day.
+This week, focus is on the left shoulder. Today imagine a channel of light between the illuminations at left and right shoulder. Notice that this channel passes through the throat, which is the place that we enter and impact the world with our words. With this awareness, I enter into my experience this day.
 
 <div class="abstract">
 
-On this day, I encourage myself to awaken to a new reverence for Life, focusing on the Breath of Life energy within every feeling that awakens within me. I accept that the energy of Lovingkindness animates all forms. This awareness helps me appreciate the incredible dance of feelings I experience. My life is filled with blessings.
+Awakening to a new reverence for Life, through focusing on the Breath of Life energy within every feeling that arises within me. I accept that the energy of Lovingkindness animates all forms. This awareness helps me appreciate the incredible dance of feelings I experience. My life is filled with blessings.
 </div>

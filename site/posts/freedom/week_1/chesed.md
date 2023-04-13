@@ -17,14 +17,15 @@ date: 2022-04-16T00:02:00.000Z
 <p>Lovingkindness; Mercy, Love, Kindness; Expansion<p />
 <h3 style="font-style: italic">Transformation through Love</h3>
 </div>
-<div style="margin-left: 2rem; margin-right: 2rem;text-align: justify">
 
-<div style="font-style: italic">
+<div class="abstract">
 
 Love is the single most powerful and necessary component in life. Love is the origin and foundation of all human interactions. It is both giving and receiving. It allows us to reach above and beyond ourselves. To experience another person and to allow that person to experience us. It is the tool by which we learn to experience the highest reality – G-d. In a single word: love is transcendence.
-
 </div>
+
 <h3 style="text-align:center">Mercy in Love</h3>
+
+<div class="abstract">
 
 I take moments of quiet each day this week to appreciate more fully the nature of my experience. I allow myself to expand into the omnipotent and abundant flow of Life behind each feeling I find. This week I embrace the abundant outpouring of possibility.
 
@@ -51,7 +52,7 @@ Traditionally, _El_, which basically means G-d, reflects the Universal attribute
 
 Each feeling we experience is itself a shell containing the unlimited flow of Divine Energy. Open yourself to the abundance of that offering, beginning the journey to experience more fully the Fountain of Life that is always available to us.
 
-## Meditation for the First Week at CHESED
+## Meditation for the First Week at <i>Chesed</i>
 
 <blockquote>
 <p dir="rtl">

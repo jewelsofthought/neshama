@@ -7,7 +7,7 @@ date: 2022-05-29T01:04:00.000Z
 
 <div style="font-weight: bold; text-align:center">
 <h2>Gevurah she’b Malkuth</h2>
-<i>Day Two of Week 7:</i> 
+<i>Day Two of Week 7:</i>
 <p>Restraint in Receiving</p>
 
 </div>
@@ -43,9 +43,9 @@ I honour all the feelings which flow through me now. I become aware of the const
 וְהָי֞וּ הַדְּבָרִ֣ים הָאֵ֗לֶּה אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם עַל־לְבָבֶֽךָ׃
 </h4>
 <p>
-“These words that I command you today should be upon your heart.” 
+“These words that I command you today should be upon your heart.”
 <span style="text-align: right">&mdash;(Deut. 6:6.)<br />
-“Every day, the words of the Torah must be new to you.” 
+“Every day, the words of the Torah must be new to you.”
 <span style="text-align: right">&mdash;(Sifri, Rashi.)
 </div>
 
@@ -58,3 +58,11 @@ For if it is not about the moment now, then it is not your life. And if it is no
 <span style="text-align: right">&mdash;Maamar Tziyon BeMishpat 5736</span>
 
 </div>
+
+<h3>Reflections</h3>
+
+<div class="note">
+
+Only through awareness of the limits of our existence can we become aware of the possibility of the limitless.
+
+That is why an animal, for instance, is unaware of G-d, as it is "unaware" of any separation, being just an expression of G-d, the Creative force expressing itself, unaware of any limitations of its existence.
