@@ -15,7 +15,7 @@ date: 2022-04-23T00:04:00.000Z
 
 <div style="text-align:center">
 <h2>Chesed she’b Gevurah</h2>
-<span dir="rtl"><b>הָיום שְׁמוֹנָה יָמִים שֶׁהֵם שָׁבוּעַ אֶחָד לָעוֹמֶר וְיוֹם אֶחָד לָעוֹמֵר</b></span>
+<span dir="rtl"><b>הָיום שְׁמוֹנָה יָמִים שֶׁהֵם שָׁבוּעַ אֶחָד  וְיוֹם אֶחָד לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is eight days, which is one week and one day of the Omer</i>
 </p>

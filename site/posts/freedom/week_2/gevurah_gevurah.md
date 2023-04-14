@@ -5,10 +5,23 @@ tags: null
 date: 2022-04-24T00:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week2/2.2-Gevurah_in_Gevurah.png'>
+   <img src='/posts/img/freedom/week2/2.2-Gevurah_in_Gevurah_s.png' alt='Gevurah in Gevurah' width='144' height='300' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Gevurah she’b Gevurah</h2>
-<i>Day Two of Week 2:</i> 
-<p>Constraint in Restraint</p>
+<span dir="rtl"><b>הָיום תִשְׁעָה יָמִים שֶׁהֵם שָׁבוּעַ אֶחָד  וּּשְׁנֵֶי יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is eight days, which is one week and two days of the Omer</i>
+</p>
+
+<h4>Constraint in Restraint</h4>
 
 </div>
 
@@ -29,4 +42,12 @@ To honour the current emotional expression of our energies is the challenge of t
 <div class="abstract">
 
 As I become aware of feelings or thoughts of condemnation, for myself or anyone else, that I carry, I release each of them. I continue to repeat this process&mdash;remembering that I am a created being, that can experience with my feelings the Greater Creative Presence which lives in me and as me... until the flow of my feelings and thoughts is clear. Then accepting my current experience, I open to receiving an expansion of feeling, enabling new forms of energy to emerge that express my authentic being. I bless the full flow of Creative energies, that I am now gifted with.
+</div>
+
+<h4>Reflections</h4>
+
+<div class="note">
+
+Constraint in Restraint could mean constraining the restraining element&mdash;in other words, in effect, an act of mercy, or release. Or it could mean the constraining of restraint, and thus  in allowing it free reign (another act of mercy). Or it could have a hint of absolute control, almost like a doubling of restraint, as in a constraint that restrains.
+
 </div>
