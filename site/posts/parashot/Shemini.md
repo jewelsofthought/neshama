@@ -5,22 +5,23 @@ tags: null
 date: 2021-03-26T08:09:57.912Z
 ---
 
-1. [Sin of the Golden Calf (n9_1)](#sin-of-the-golden-calf-n9_1)
-2. [Speak to them (n9_3)](#speak-to-them-n9_3)
+1. [Sin of the Golden Calf (n9\_1)](#sin-of-the-golden-calf-n9_1)
+2. [Speak to them (n9\_3)](#speak-to-them-n9_3)
 3. [Heavenly Fire](#heavenly-fire)
-   1. [Light the fire (n9_10)](#light-the-fire-n9_10)
-   2. [A fire went forth (n9_24)](#a-fire-went-forth-n9_24)
-   3. [Sacrifice of the sons (n10_1)](#sacrifice-of-the-sons-n10_1)
-   4. [Heavenly Fire](#heavenly-fire-1)
-   5. [Adding love to love](#adding-love-to-love)
-4. [Legal Judgement (n10_11)](#legal-judgement-n10_11)
-5. [Holy moment (n10_12-20)](#holy-moment-n10_12-20)
+   1. [Light the fire (n9\_10)](#light-the-fire-n9_10)
+   2. [A fire went forth (n9\_24)](#a-fire-went-forth-n9_24)
+   3. [Fell on their faces (n9\_24)](#fell-on-their-faces-n9_24)
+   4. [Sacrifice of the sons (n10\_1)](#sacrifice-of-the-sons-n10_1)
+   5. [Heavenly Fire](#heavenly-fire-1)
+   6. [Adding love to love](#adding-love-to-love)
+4. [Legal Judgement (n10\_11)](#legal-judgement-n10_11)
+5. [Holy moment (n10\_12-20)](#holy-moment-n10_12-20)
 6. [Inquire (n10:16)](#inquire-n1016)
 7. [Laws of Kashrut](#laws-of-kashrut)
 8. [Contamination or Uncleanliness](#contamination-or-uncleanliness)
 9. [Principle of uncleanliness](#principle-of-uncleanliness)
-10. [Basic rules of contamination (n11_39-40)](#basic-rules-of-contamination-n11_39-40)
-11. [Lest you become contaminated (n11_43)](#lest-you-become-contaminated-n11_43)
+10. [Basic rules of contamination (n11\_39-40)](#basic-rules-of-contamination-n11_39-40)
+11. [Lest you become contaminated (n11\_43)](#lest-you-become-contaminated-n11_43)
 12. [Discernment](#discernment)
 13. [Personal Reflections](#personal-reflections)
 14. [The way of heaven](#the-way-of-heaven)
@@ -29,95 +30,114 @@ date: 2021-03-26T08:09:57.912Z
 
 The first sacrifice that Aharon performed was to atone for the sin of the golden calf. This was a human sin. It represented the essential way in which we sin. Not only in losing faith in G-d, blessed be His Name, but also turning towards another, man-made G-d, made, significantly, of gold itself.
 
-Adam, the primordial man, in the fabled Garden of Eden, completely supported by G-d, may He rule in Peace - in fact, in what one could refer to as the womb of humanity, not yet born into the world - sinned by disobeying G-d. This was the sin of humanity, whereas the golden calf was the sin of a people.
-
 ## Speak to them (n9_3)
 
-> תדבר
-
-(\*) It is a combination of (b) & (c). And would be fairly normal in a more egalitarian society. First Moshe Rabeinu told the people what the situation was, then he gave specific instructions to certain people.
+<blockquote dir="rtl">
+תדבר
+</blockquote>
 
 ## Heavenly Fire
 
 ### Light the fire (n9_10)
 
-> הקטיר
+<blockquote dir="rtl">
+הקטיר
+</blockquote>
 
 There was no permanent fire lit (v24) until the _heavenly fire_ came down.
 
 ### A fire went forth (n9_24)
 
-> תצה השׁ מלפני ה’. ו
-> A fire went forth from before HaShem... It came down like a pillar
+<blockquote>
+<p dir='rtl'>
+ ו. תצה השׁ מלפני ה’
+</p>
+  <p  style="text-align: right">
+A fire went forth from before HaShem... It came down like a pillar
+  </p>
+</blockquote>
 
-The literal explanation of _heavenly fire_ is simply fire from heaven, though that has its questions too. Where did it actually come from? Unless you have a very simplistic view of G-d, and His place in the universe, believing that whatever comes from above, comes from G-d's hand. Generally lumped into the category of whatever does not make sense, or I don't understand, comes from G-d. Someone of a more scientific frame of mind might ask, "What could cause the heavens to "release" fire?
+<div class="note">
 
-Or perhaps this _heavenly fire_ is different to the fire that we know? We focus on the word _fire_ to interpret the event, because we know that word, so we denigrate the role of the _heavenly_. In the same manner in which we do not clearly differentiate between the holy _shekel_ and the "regular" _shekel_. Do they differ in weight? Are they made from different materials? Or is it just the intention behind it that makes it holy?
+NOTE: The literal explanation of _heavenly fire_ is simply fire from heaven, though that has its questions. Where did it actually come from? Unless you have a very simplistic view of G-d, and His place in the universe, believing that whatever comes from above, comes from G-d's hand. Generally lumped into the category of whatever does not make sense, or I don't understand, comes from G-d. Someone of a more scientific frame of mind might ask, "What could cause the heavens to "release" fire?
+
+Perhaps this _heavenly fire_ is different to the fire that we know? We focus on the word _fire_ to interpret the event, because we know that word, so we denigrate the role of the _heavenly_. In the same manner in which we do not clearly differentiate between the holy _shekel_ and the "regular" _shekel_. Do they differ in weight? Are they made from different materials? Or is it just the intention behind it that makes it holy?
 
 Focusing on the _heavenly_ aspect of the _fire_, I ask similar questions.
 
-<p class="note">
-{NOTE: Perhaps part of the training of the _Kohan Ha'Gadol_ is to teach him how to know when the _heavenly fire_ has descended, for it is not a fire that flames and burns. This is also hinted at in the manner in which Nadav and Abihu died, with their clothes intact. See below [n10:1](#sacrifice-of-the-sons-n101)}
-</p>
+Perhaps part of the training of the _Kohan Ha'Gadol_ is to teach him how to know when the _heavenly fire_ has descended, for it is not a fire that flames and burns. This is also hinted at in the manner in which Nadav and Abihu died, with their clothes intact. See below [n10:1](#sacrifice-of-the-sons-n101)
+</div>
 
-֨### Fell on their faces (n9_24)
+### Fell on their faces (n9_24)
 
-> <b>ויִפלוּ על־פניהם</b>
+<blockquote dir="rtl">
+ויִפלוּ על־פניהם
+</blockquote>
 
 The entire nation fitted into the tine 50-cubit square area in of the _Mishkan_. Upon falling to their hand and knees, everyone had 4 cubits of space around themselves. At that moment the Spirit of Holiness descended upon them, and they sang out in praise.
 
 <div class="note">
-{NOTE: My question to you is:
+NOTE: My question is this:
 
 - has that ever occurred to you?
 - have you ever seen someone having that experience?
-- do you know who has had such an experience?
+- do you know anyone who has had such an experience?
 - have you heard of anyone who has had such an experience?
 
-How could you tell? }
+How could you tell whether it is authentic or not?
 
 </div>
 
 ### Sacrifice of the sons (n10_1)
 
-> Death of Nadav נדב and Abihu אביהו
+> Death of Nadav <span dir="rtl">נדב</span> and Abihu <span dir="rtl">אביהו</span>.
 
-The concept of child sacrifice has still not completely died.
+The concept of child sacrifice has still not completely died.{.note}
 
 One commentary speaks of the sacrifice of son's as sanctification of G-d Name, may He have mercy on us, and that His acceptance of their sacrifice as a testimony to their greatness.
 
-<p class="note">
-{NOTE: How long did they have to learn all the intricacies of priesthood? And this is the first time they performed the ceremony, ever. We look at their death as a somewhat merciless judgement, and say that they sinned. However, perhaps they were zealous, and wanted to get even closer to the Divine Presence, even though they were not ordered to. On the one hand, there is a punishment &ndash; though on the other hand, it was an acceptance of their sacrifice.}
-</p>
+NOTE: How was the training to learn all the intricacies of priesthood? This is the first time they performed the ceremony, ever. We look at their death as a somewhat merciless judgement, and say that they sinned. However, perhaps they were zealous, and wanted to get even closer to the Divine Presence, even though they were not ordered to. On the one hand, there is a punishment &ndash; though on the other hand, it was an acceptance of their sacrifice.{.note}
 
 ### Heavenly Fire
 
-Could it be the same fire heavenly fire that killed them?
+Could it be the same heavenly fire that killed them?{.note}
 
-It says about (10:5) **בכותנותם** - by their tunics: The were moved by the sons of Aaron's uncle, Uziel, by grabbing hold of their tunics. So, although they died from the fire, their clothes were still intact. Thus, according to the n10:5, the fire burned their souls.
+It says about (10:5) <span dir="rtl">בכותנותם</span> - by their tunics: The were moved by the sons of Aaron's uncle, Uziel, by grabbing hold of their tunics. So, although they died from the fire, their clothes were still intact. Thus, according to n10:5, the fire burned their souls.
 
-<p class="note">
-{NOTE: The first firewalk I ever did, the facilitator said, I suppose in order to calm our anxiety, that we must remember that fire can only burn the material. So, would not Divine Fire be that fire that sears our soul?}
-</p>
+NOTE: The first firewalk I ever did, the facilitator said, I suppose in order to calm our anxiety, that we must remember that fire can only burn the material. So, would not Divine Fire be that fire that sears our soul?{.note}
+
 ### Adding love to love
 
-> _Studies in Weekly Parasha_ by Y. Nachshoni (P685).
+>
 
-> _Nadav_ and _Avihu_ added love to love and went beyond the proper limits by exceeding what they had been commanded to do (_Sifra_). _HaKesav VeHaKabalah_ explains "and it consumed them" in the sense of a sacrifice, as if to say that their zeal was accepted by **HaShem** and, as a result, they died. R' Chaim Vital in his _Eitz HaDa'as HaTov_ and other works compares the death of _Nadav_ and _Avihu_ to the _misas neshika_ ("death by a kiss") mentioned in _Idra Rabbah_. Such a lofty action as the of _Nadav_ and _Avihu_ draws the soul from the body to its Creator. _Chazal_ too says that when the Torah was given, the souls of all Israel departed from their bodies because of their love of **HaShem** and that **HaShem** later revived them all with the dew of resurrection.
+<details>
+<summary class='button is-outlined'>
+ <i>Studies in Weekly Parasha</i> by Y. Nachshoni (p. 685).&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+
+> _Nadav_ and _Avihu_ added love to love and went beyond the proper limits by exceeding what they had been commanded to do (_Sifra_). _HaKesav VeHaKabalah_ explains "and it consumed them" in the sense of a sacrifice, as if to say that their zeal was accepted by **HaShem** and, as a result, they died. R' Chaim Vital in his _Eitz HaDa'as HaTov_ and other works compares the death of _Nadav_ and _Avihu_ to the _misas neshika_ ("death by a kiss") mentioned in _Idra Rabbah_. Such a lofty action as that of _Nadav_ and _Avihu_ draws the soul from the body to its Creator. _Chazal_ too says that when the Torah was given, the souls of all Israel departed from their bodies because of their love of **HaShem** and that **HaShem** later revived them all with the dew of resurrection.
+
 > The Lubavitcher Rebbe in his discourses on _Parashas Acharei-Kedoshim_ 5724 says that even though the righteous man in his worship of **HaShem** may leave his physical reality, he must still return after his worship to the lower regions. _Nadav_ and _Avihu_ only knew how to leave their material reality, but did not know how to return. They left their earthly framework and drew so close to **HaShem** that "they died". _Chazal_ states that they served **HaShem** "with incomplete clothes", meaning that they did not know that one also needs a physical garb and must remain in this garb and not shed it. This also referred to the fact that _Nadav_ and _Avihu_ did not marry wives and had no children.
+
 > Even when the _Kohen Gadol_ ascends to the loftiest spirirual realms, he may not forget his human existence and "his house", which is part of his existence (_Vayikra_ 16:2-3,6).
+</p>
+</details>
 
 ## Legal Judgement (n10_11)
 
-> להורות - to teach.
+<blockquote>
+<p>
+<span dir="rtl"></span>להורות - to teach
+</p>
+</blockquote>
 
 A legal judgement should be a teaching otherwise it just perpetuates human law, which is the law of control. Thus to render a legal judgement requires a clear mind, otherwise it is forbidden to render such a judgement which is tantamount to teaching Torah.
 
 ## Holy moment (n10_12-20)
 
-From the discussion regarding the offerings, in response to Aaron and his remaining sons, Elazar and Ithamar, not eating the sin-offering, emerges the concept of קִדְשׁי שׁעה וקדשׁי דורות, the concept of offerings that were brought for a specific occasion and were never to be repeated versus offerings that were part of the regular service, and would be brought in future as well.
+From the discussion regarding the offerings, in response to Aaron and his remaining sons, Elazar and Ithamar, not eating the sin-offering, emerges the concept of <span dir="rtl">קִדְשׁי שׁעה וקדשׁי דורות</span>&mdash;the concept of offerings that were brought for a specific occasion and were never to be repeated versus offerings that were part of the regular service, and would be brought in future as well.
 
-I suppose one could place sin in the same two categories as well. The sin you sinned once and only once versus the sin that you repeat.
+NOTE: I suppose one could place sin in the same two categories as well. The sin you sinned once and only once versus the sin that you repeat.{.note}
 
 ## Inquire (n10:16)
 
@@ -162,6 +182,12 @@ In the case of water animals, everything that has fins and scales may you eat.
 
 However, as far as birds are concerned, there is no general principles, and they are named in groups:
 
+<details>
+<summary class='button is-outlined'>
+Groups of forbidden birds&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+<p>
+
 - the nesher, the peres, the ozniah - נשׁר, פרס, עזניה
 - the daah and ayah, according to its kind - דאה, איה
 - every orev, according to its kind - עורב
@@ -170,6 +196,9 @@ However, as far as birds are concerned, there is no general principles, and they
 - the tinshemes, the kaas and the racham - תנשֶׁמת, קָאת, רָחם
 - the chasidah, the anafah according to its kind - חסידהמ אנפה
 - the ducifas and the atalef - דוּכיפת, אְַטַלף
+
+</p>
+</details>
 
 ## Principle of uncleanliness
 
