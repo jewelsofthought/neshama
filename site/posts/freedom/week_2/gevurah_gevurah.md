@@ -18,7 +18,7 @@ date: 2022-04-24T00:04:00.000Z
 <h2>Gevurah she’b Gevurah</h2>
 <span dir="rtl"><b>הָיום תִשְׁעָה יָמִים שֶׁהֵם שָׁבוּעַ אֶחָד  וּּשְׁנֵֶי יָמִים לָעוֹמֵר</b></span>
 <br />
-<i>ֹToday is eight days, which is one week and two days of the Omer</i>
+<i>ֹToday is nine days, which is one week and two days of the Omer</i>
 </p>
 
 <h4>Constraint in Restraint</h4>
