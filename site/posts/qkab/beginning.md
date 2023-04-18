@@ -14,7 +14,9 @@ In the beginning there was only the infinite void – darkness, chaos, _tohu v�
 
 Upon this background nothing can be depicted, there is nothing to say or describe for nothing existed independent of this perfect sublime light of existence. Anything said about it, any characteristics describing it, can never express this inexpressible state – for it is unmanifest and thus indescribable.
 
-This was what was before there was anything. It is something that is not something, yet also not nothing. It has been described as the Void or Infinite Light. It is only described as infinite from a finite perspective. How would the infinite describe itself to us? “I am that I am” or “I will be what I will be”... or is it “I was what I will be” or “I am what I was never”?
+This was what was before there was anything.
+
+Anything that is said about such matters, any characteristics, or words, can never describe this inexpressible state, for it is unmanifest, and thus indescribable by anything manifest. This was before there was anything – and thus it is referred to as the Infinite Light, as well as the (Infinite) Void or Nothingness. It is something which is not something, yet is also not nothing. It cannot even be described as infinite for that would imply a possible finiteness, but being undifferentiated perfection, there could be nothing finite in It. It is more than infinite. It just is what it is, “I am that I am”.
 
 At some point, something changed, something shifted, something happened to disturb this endless emptiness, and we say that "a point emerged" _ex nihilo_ - out of nothing. We call this "the beginning". Out of this infinite, endless nothingness the something arose. Because the Void is perfect and balanced&mdash;all human terms&mdash;this emanation occurred in all directions simultaneously – which created a "space". This beginning, we call an _‘agol’_, a circle. This is is also known as the centre - or [middle point](/posts/qkab/middle_point/), the point of origin.
 
@@ -90,7 +92,7 @@ It is lovely to see, in the history of art, where most ancient art had a 2d, or 
   - Before the worlds were created there was only Void
     → where correction & perfection could be added
 
-## Worlds & Souls:
+## Worlds & Souls
 
 ```
   All the worlds & souls
