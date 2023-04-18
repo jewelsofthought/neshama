@@ -5,8 +5,8 @@ tags: null
 date: 2022-04-23T00:01:00.000Z
 ---
 <figure style='float: left'>
- <a href='/posts/img/neshama/freedom/Tree%20of%20Life%202.0%20-%20upper%20noD%20(Gevurah).png'>
-   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%202.0%20-%20upper%20noD%20(Gevurah)_144x300.png' alt='Gevurah' width='144' height='300' />
+ <a href='/posts/img/freedom/week2/2.0-Gevurah.png' target="_blank">
+   <img src='/posts/img/freedom/week2/2.0-Gevurah_s.png' alt='Gevurah' width='200' height='304' />
  </a>
 </figure>
 
@@ -60,7 +60,7 @@ _Elohim_, is the Name associated with judgement and severity, and so is associat
 
 _Elohim_ is actually the plural form of the noun, yet it is almost always translated as if it were singular, and takes a singular verb and modifier. One way of explaining this is to understand _Elohim_ as the One Being, _Adonai_, appearing to our awareness as the many. _Elohim_ can be appreciated as the Presence of _Adonai_ within each individual being, enabling us to experience the Immanent aspect of the Divine. This Presence is named _Shechinah_, which is also another name for _Elohim_ in the ancient mystical text called the _Zohar_ or “Book of Splendour”. _Shechinah_ is also the Presence of the Transcendent _Adonai_ present in all living things, as well as the world itself!
 
-## Meditation for the Second Week at <i>Gevurah<i>
+## Meditation for the Second Week at <i>Gevurah</i>
 
 <blockquote>
 <p dir="rtl">
@@ -72,7 +72,7 @@ Be still, and know that I am Elohim.<br />
 </p>
 </blockquote>
 
-<div style="font-style: italic; margin: 2rem; text-align: justify">
+<div class="abstract">
 
 Sitting and breathing calmly, become aware of your current experience in the world. Focus on your feelings as they arise. Begin to appreciate them without judgement.
 

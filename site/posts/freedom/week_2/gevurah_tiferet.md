@@ -8,17 +8,10 @@ date: 2022-04-25T00:04:00.000Z
 <i class="fa fa-file" aria-hidden="true"></i></a>
 
 <figure style='float: left'>
- <a href='/posts/img/freedom/week2/2.3-Tiferet_in_Gevurah.png'>
-   <img src='/posts/img/freedom/week2/2.3-Tiferet_in_Gevurah_s.png' alt='Tiferet in Gevurah' width='144' height='300' />
+ <a href='/posts/img/freedom/week2/2.3-Tiferet_in_Gevurah.png' target="_blank">
+   <img src='/posts/img/freedom/week2/2.3-Tiferet_in_Gevurah_s.png' alt='Tiferet in Gevurah' width='200' height='304' />
  </a>
 </figure>
-
-<div style="font-weight: bold; text-align:center">
-<h2>Tiferet she’b Gevurah</h2>
-<i>Day Three of Week 2:</i>
-<p> Balance in Restraint</p>
-
-</div>
 
 <div style="text-align:center">
 <h2>Tiferet she’b Gevurah</h2>

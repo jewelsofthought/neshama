@@ -5,10 +5,24 @@ tags: null
 date: 2022-04-26T00:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week2/2.4-Netzach_in_Gevurah.png' target="_blank">
+   <img src='/posts/img/freedom/week2/2.4-Netzach_in_Gevurah_s.png' alt='Tiferet in Gevurah' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
+
 <h2>Netzach she’b Gevurah</h2>
-<i>Day Four of Week 2:</i>
-<p>Enduring in Restraint</p>
+
+<span dir="rtl"><b>הָיום אַחַד עָשָׂר יוֹם שֶׁהֵם שָׁבוּעַ אֶחָד  וְאַרְבָּעָה יָמִים לָעוֹמֵר</b></span>
+<i>ֹToday is eleven days, which is one week and four days of the Omer</i>
+</p>
+
+<h4>Enduring in Restraint</h4>
 
 </div>
 
@@ -49,7 +63,7 @@ That is Trust: When you stop suggesting to your Maker how He could rescue you. W
 
 <div class='note'>
 
-Finally I understand that pure **Chesed** (חסד) is pure emotion, and as such has no form. It _has_ to be contained by **Gevurah** (גבורה) to take and express form.
+Pure **Chesed** (חסד) is pure emotion, and as such has no form. It _has_ to be contained by **Gevurah** (גבורה) to take and express form.
 
 Allowing and focussing on emotions ends up having no form, producing no clarity. Thus I seek that balance.
 

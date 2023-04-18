@@ -8,8 +8,8 @@ date: 2022-04-21T00:04:00.000Z
 <i class="fa fa-file" aria-hidden="true"></i></a>
 
 <figure style='float: left'>
- <a href='/posts/img/neshama/freedom/Tree%20of%20Life%201.6%20-%20upper%20noD%20(Yesod%20in%20Chesed).png'>
-   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%201.6%20-%20upper%20noD%20(Yesod%20in%20Chesed)_144x300.png' alt='Yesod in Chesed' width='144' height='300' />
+ <a href='/posts/img/freedom/week1/1.6-Yesod_in_Chesed.png' target="blank">
+   <img src='/posts/img/freedom/week1/1.6-Yesod_in_Chesed_s.png' alt='Yesod in Chesed' width='200' height='304' />
  </a>
 </figure>
 

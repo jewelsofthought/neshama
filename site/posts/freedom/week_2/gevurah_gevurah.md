@@ -9,8 +9,8 @@ date: 2022-04-24T00:04:00.000Z
 <i class="fa fa-file" aria-hidden="true"></i></a>
 
 <figure style='float: left'>
- <a href='/posts/img/freedom/week2/2.2-Gevurah_in_Gevurah.png'>
-   <img src='/posts/img/freedom/week2/2.2-Gevurah_in_Gevurah_s.png' alt='Gevurah in Gevurah' width='144' height='300' />
+ <a href='/posts/img/freedom/week2/2.2-Gevurah_in_Gevurah.png' target="_blank">
+   <img src='/posts/img/freedom/week2/2.2-Gevurah_in_Gevurah_s.png' alt='Gevurah in Gevurah' width='200' height='304' />
  </a>
 </figure>
 

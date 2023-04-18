@@ -10,8 +10,8 @@ date: 2022-04-15T00:02:00.000Z
 3. [Learning the Ten Sefirot](#learning-the-ten-sefirot)
 
 <figure style='float: left'>
- <a href='/posts/img/neshama/tree_diag.jpg'>
-   <img src='/posts/img/neshama/tree_diag_265x512.jpg' alt='Tree Diagram' width='265' height='512' />
+ <a href='/posts/img/freedom/tree_diag.jpg'>
+   <img src='/posts/img/freedom/tree_diag_265x512.jpg' alt='Tree Diagram' width='265' height='512' />
  </a>
 </figure>
 
@@ -22,8 +22,8 @@ The Kabbalistic Tree of Life, or _Etz Chayim_, is a symbolic representation of t
 The Tree teaches that the nature of "reality" depends upon the place from which that "reality" is viewed. From spaces of "higher" consciousness, Oneness is clear. From spaces of "lower" consciousness, there is clearly separation. It's the same "reality," perceived from different points of view.
 
 <figure style='float: right'>
- <a href='/posts/img/neshama/freedom/Trees%20of%20Life%20-%20chapter5-005%20(Sefirot%20as%20Concentric%20Circles)_1000x1344.jpg'>
-   <img src='/posts/img/neshama/freedom/Trees%20of%20Life%20-%20chapter5-005%20(Sefirot%20as%20Concentric%20Circles)_250x317.jpg' alt='Sefirot as concentric circles' width='250' height='317' />
+ <a href='/posts/img/freedom/Trees%20of%20Life%20-%20chapter5-005%20(Sefirot%20as%20Concentric%20Circles)_1000x1344.jpg'>
+   <img src='/posts/img/freedom/Trees%20of%20Life%20-%20chapter5-005%20(Sefirot%20as%20Concentric%20Circles)_250x317.jpg' alt='Sefirot as concentric circles' width='250' height='317' />
  </a>
  <figcaption>Ten <i>Sefirot</i> in <br />the form of concentric circles <br />in the contraction (<i>tzimtzim</i>) <br />from <i>Etz HaChayyim</i></figcaption>
 </figure>

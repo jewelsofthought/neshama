@@ -5,8 +5,8 @@ tags: null
 date: 2022-04-16T00:02:00.000Z
 ---
 <figure style='float: left'>
- <a href='/posts/img/neshama/freedom/Tree%20of%20Life%201.0%20-%20upper%20noD%20(Chesed).png'>
-   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%201.0%20-%20upper%20noD%20(Chesed)_144x300.png' alt='Chesed' width='144' height='300' />
+ <a href='/posts/img/freedom/week1/1.0-Chesed.png' target="_blank">
+   <img src='/posts/img/freedom/week1/1.0-Chesed_s.png' alt='Chesed' width='200' height='304' />
  </a>
 </figure>
 

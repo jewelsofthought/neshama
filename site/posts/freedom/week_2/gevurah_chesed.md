@@ -8,8 +8,8 @@ date: 2022-04-23T00:04:00.000Z
 <i class="fa fa-file" aria-hidden="true"></i></a>
 
 <figure style='float: left'>
- <a href='/posts/img/neshama/freedom/Tree%20of%20Life%202.1%20-%20upper%20noD%20(Chesed%20in%20Gevurah).png'>
-   <img src='/posts/img/neshama/freedom/Tree%20of%20Life%202.1%20-%20upper%20noD%20(Chesed%20in%20Gevurah)_144x300.png' alt='Chesed in Gevurah' width='144' height='300' />
+ <a href='/posts/img/freedom/week2/2.1-Chesed_in_Gevurah.png' target="_blank">
+   <img src='/posts/img/freedom/week2/2.1-Chesed_in_Gevurah_s.png' alt='Chesed in Gevurah' width='200' height='304' />
  </a>
 </figure>
 

@@ -5,10 +5,22 @@ tags: null
 date: 2022-04-29T00:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
-<h2>Malchut she’b Gevurah</h2>
-<i>Day Seven of Week 2:</i> 
-<p>Receptivity in Restraint</p>
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week2/2.7-Malchut_in_Gevurah.png' target="_blank">
+   <img src='/posts/img/freedom/week2/2.7-Malchut_in_Gevurah_s.png' alt='Malkhut in Gevurah' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
+<h2>Malkhut she’b Gevurah</h2>
+<span dir="rtl"><b>הָיום אַרְבָעָה עָשָׂר יוֹם שֶׁהֵם שָׁבוּעַ אֶחָד וְשִׁיבָה יָמִים לָעוֹמֵר</b></span>
+<i>ֹToday is fourteen days, which is two weeks of the Omer</i>
+</p>
+
+<h4>Receptivity in Restraint</h4>
 
 </div>
 
@@ -30,12 +42,12 @@ This whole week in **Gevurah** has been filled with the challenge of realising t
 
 Each of the seven weeks of our counting concludes with the focus at **Malchut**. If we can balance ourselves here, we can bring heaven and earth together.
 
-The way is to bring _shalom_, peace within our selves is to balance our internal and external lives, the inner tensions of awareness and confusion, and the external tensions of material existence with its unending needs and desires.
+The way to bring _shalom_, peace within our selves is to balance our internal and external lives, the inner tensions of awareness and confusion, and the external tensions of material existence with its unending needs and desires.
 
-In order to bring balance within ourselves, we need to balance our internal heaven and earth, our inner tensions of awareness and forgetting. So the last day of this week holds special promise. In our meditations, we celebrate the awakening of **Malchut** in **Gevurah**.
+So the last day of this week holds special promise. In our meditations, we celebrate the awakening of **Malchut** in **Gevurah**.
 
 <div class="abstract">
 
-I release my insistence that things be better than they are, that I might realise the blessings whispering through/hidden within the everyday events of my life. There are higher forms which now manifest through me and around me, to hold more fully the energies of holiness flowing from their Source. I am now more aware of an underlying sense of Peace and Love reflecting through the world which is my present abode, but in which I know I have a deep sense of purpose.
+I release my insistence ON things be better than they are that I might instead realise the blessings hidden within the everyday events of my life. There are higher forms that express more fully the energies of holiness flowing from their Source which now manifest through me and around me,  
 
 </div>
