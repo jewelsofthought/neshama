@@ -10,6 +10,7 @@ stars: '*****'
 ---
 
 1. [The Mekubalim](#the-mekubalim)
+2. [Merkava](#merkava)
 
 ## The Mekubalim
 
@@ -26,3 +27,13 @@ What is the greatest evil to the being conscious of being alive? It's death&mdas
 However, there is a subtlety here. There is the higher road, which is the one we call "the spiritual path". It states that there is a principle that is greater than the constant struggle of existence, a principle that overrides this dance of the material. But in order to participate in this cosmic dance, you will need to open your ears and mind to hearing the music of the cosmos. That is the true life, and as such it is immortal. If you understand that you are part of the will of the Infinite Being that created the universe and everything in it, and our journey here is to play our part in this great symphony, you need have no fear of death.
 
 That "good" path is to emulate G!d, and the evil, which brings death, is to turn one's back on the Divine expression that not only are we surrounded by, but are also a part of.
+
+## Merkava
+
+“The war has been waging between the believers and the non-believers for many years now. It was when they discovered the true purpose of the Merkava that everything changed.”
+
+We had gathered again.
+
+It was during our campaign against the Secularai that I first saw a Merkaba enacted. We had been slogging it out in the outer quadrant for many days now. The stars shone brightly around us in the eternal night of space. How did I get here, I often wondered?
+
+It was as if one day I was living a normal life, and the next, I was in Atonia, in that house of the Golden Dragon, preparing for a huge battle.

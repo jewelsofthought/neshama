@@ -38,10 +38,10 @@ modified: 2023-04-18T12:48:34.172Z
       3. [One](#one)
       4. [Two](#two)
          1. [The square](#the-square)
-   8. [Number 3](#number-3)
-      1. [3 dimensional](#3-dimensional)
-   9. [Number 4](#number-4)
-   10. [Number 5](#number-5)
+      5. [Three](#three)
+         1. [3 dimensional](#3-dimensional)
+      6. [Number 4](#number-4)
+      7. [Number 5](#number-5)
 7. [Electron](#electron)
 8. [Spiral](#spiral)
       1. [Quantum](#quantum)
@@ -887,13 +887,13 @@ Playing with the square, we get $$ a \* a = a^2 $$, as a form of narcissism, a d
 </details>
 <br />
 
-### Number 3
+#### Three
 
 Three is the formed world, the trinity, the trigram. It emerges from love. Do something for love and something else will grow out of it, the product of the love. It is a vessel with the light (love) pouring in, being filled.
 
 The breath moves from the contraction, _Tzimtzum_, to the exhalation, where the pain of constriction is realised, pouring out is love. Three is the result of coordinated movement (union) between the two.
 
-#### 3 dimensional
+##### 3 dimensional
 
 We start with three physical dimensions and time. We meditate on the here and now, as timeless. Being totally in the present, we are fully in the trinity of the present three-dimensional reality.
 
@@ -903,13 +903,13 @@ Now we are in the manifest universe, with duality, with opposites. With the whee
 
 Now if two $$a$$’s are identical, in other words, $$ a_j = a_k $$. If they are equal, and there is no movement. This is the Level I, the _doppelg&auml;nger_.
 
-### Number 4
+#### Number 4
 
 Four is the completion of the first cycle. That is why it signifies death in the Chinese numerology. It also signifies stability. The circle is complete. How does five emerge from here?
 
 It is also $$ 2^2 $$.
 
-### Number 5
+#### Number 5
 
 Five is a difficult number. It is unstable. It is the beginning of another cycle of life. It is expaning into the world.
 
