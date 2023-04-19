@@ -16,7 +16,7 @@ date: 2022-04-29T00:04:00.000Z
 
 <div style="text-align:center">
 <h2>Malkhut she’b Gevurah</h2>
-<span dir="rtl"><b>הָיום אַרְבָעָה עָשָׂר יוֹם שֶׁהֵם שָׁבוּעַ אֶחָד וְשִׁיבָה יָמִים לָעוֹמֵר</b></span>
+<span dir="rtl"><b>הָיום אַרְבָעָה עָשָׂר יוֹם שֶׁהֵם שָׁבוּעַ שְׁנֵי שָׁבוּעוֹת לָעוֹמֵר</b></span>
 <i>ֹToday is fourteen days, which is two weeks of the Omer</i>
 </p>
 
@@ -34,7 +34,7 @@ We are concluding the second week of our journey. The week in **Gevurah** ends b
 
 **Malchut** is the Kingdom. It is the _sefirah_ of our earthly existence, receiving the energies from the entire Tree. In most kabbalistic sources, it is the place of the indwelling presence, called _Shechinah_, the feminine aspect of the Divine One. It is our task to build a holy temple for _Shechinah_ to reside in this realm. This is done through the reintegration of Holy Energies in our lives.
 
-**Malchut** seems like the land of limitations&mdash;limitations that we impose by measurement and judgment. It is the place in which we become dissonant and lose ourselves in unconscious drives and desires. At the same time, we are called upon to remember in this land of forgetting. We are the ones with the freedom to awaken in the land of the sleepers.
+**Malchut** seems like the land of limitations&mdash;limitations that we impose by measurement and judgment. It is the place in which we become dissonant and lose ourselves in unconscious drives and desires. At the same time, we are called upon to remember in this land of forgetting. We are the ones with the possibility of awakening in the land of the sleepers.
 
 This whole week in **Gevurah** has been filled with the challenge of realising the necessity of limitation, to perceive the appropriateness of the forms through which the One might speak. In **Malchut** we are surrounded with forms that seem silent, so it is our task to learn to listen more carefully, to become receptive to that which is hidden right in front of our eyes.
 
@@ -48,6 +48,6 @@ So the last day of this week holds special promise. In our meditations, we celeb
 
 <div class="abstract">
 
-I release my insistence ON things be better than they are that I might instead realise the blessings hidden within the everyday events of my life. There are higher forms that express more fully the energies of holiness flowing from their Source which now manifest through me and around me,  
+I release my insistence ON things being better than they are that I might instead realise the blessings hidden within the everyday events of my life. There are higher forms that express more fully the energies of holiness flowing from their Source which now manifest through me and around me,  
 
 </div>
