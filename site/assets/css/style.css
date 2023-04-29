@@ -1,6 +1,9 @@
-.main-content {
-  text-align: justify;
+@media (min-width: 580px) {
+  .main-content {
+    text-align: justify;
+  }
 }
+
 .main-content .tc ol {
   list-style-type: decimal;
   margin: 0.1em 1em;
@@ -52,16 +55,27 @@ p:dir(rtl) {
   font-weight: 900;
 }
 
+blockquote.is-centered p {
+  text-align: center;
+}
+
 details,
 .footnotes,
 footnote,
 .note,
 .note p:dir(ltr),
-.note span:dir(ltr),
-.quote {
+.note span:dir(ltr) {
   font-size: small;
   line-height: 1.1rem;
 }
+
+details {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.content details sup,
+  font-size: 75%;
 
 .container-centered {
   height: 1.2rem;
@@ -87,9 +101,22 @@ aside {
   background-color: lightgray;
 }
 
+/* SCCS */
+.content figure {
+  margin-left: 5px;
+  margin-right: 1em;
+}
+.content figure:not(:last-child) {
+  margin-bottom: 5px;
+}
+.content figure:not(:first-child) {
+  margin-top: 0px;
+}
+
+/* end SCCS */
+
 figure.quote {
-  text-align: justify;
-  font-size: small;
+  text-align: start;
 }
 
 figure.quote p {
@@ -101,31 +128,27 @@ figure.quote p:not(:last-child) {
 }
 
 /*** MARK ****/
-/*
+
 mark {
-  border-style: solid;
-    border-width: 1px;
-    padding: 3px;
-    border-radius: 5px;
+  border-style: none;
+  border-width: 1px;
+  padding: 3px;
+  border-radius: 5px;
 }
-
-
 
 mark mark {
-    margin: 0 -3px;
+  margin: 0 -3px;
 }
 mark .start {
-    border-top-right-radius: 0;
-    border-bottom-right-radius: 0;
-    border-right: none;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-right: none;
 }
 mark .end {
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
-    border-left: none;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-left: none;
 }
-
-*/
 
 /* Regular yellow for underlinings */
 
@@ -162,11 +185,6 @@ mark .red {
 }
 */
 
-/*
-blockquote p:dir(ltr):not(:first-child) {
-  text-indent: 2rem;
-}
-*/
 .title.is-4 {
   font-size: 2rem;
 }
@@ -191,4 +209,90 @@ blockquote p:dir(ltr):not(:first-child) {
   margin-left: auto;
   margin-right: auto;
   background-color: #b2b5b8;
+}
+
+/* ----- */
+.myTag {
+  display: none;
+}
+
+a:hover + div {
+  display: inline-flex;
+  flex-wrap: nowrap;
+}
+
+.myTag:not(body) {
+  align-items: center;
+  background-color: whitesmoke;
+  border-radius: 4px;
+  color: #4a4a4a;
+  font-size: 0.75rem;
+  height: 2em;
+  justify-content: center;
+  line-height: 1.5;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  white-space: nowrap;
+}
+
+/* ------ */
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  max-width: 50em;
+  background-color: #99a122;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 2px 4px;
+  position: absolute;
+  z-index: 1;
+  bottom: 90%;
+  left: 50%;
+  margin-left: -1.7em;
+  font-size: small;
+}
+/* Popup arrow 
+.popup .popuptext::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+*/
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }

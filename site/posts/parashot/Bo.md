@@ -40,7 +40,7 @@ This is a constant reminder for us, an action we repeat almost every day to remi
  שׁמא ישׂרַאל אדוני אלוהינו, אדוני אחד.
 </p>
 <p>
-> "Hear O Israel, Your Lord, Your G-d, is One."
+"Hear O Israel, Your Lord, Your G-d, is One."
 </p>
 </blockquote>
 
@@ -104,11 +104,56 @@ Then the end of the story is for us to remember this event, and to teach it to o
 
 This is the climax of our story. The last three plagues occur, we are commanded to sanctify the new moon, which anchors the calendar and from which we can derive the festival cycle. The laws of Passover are explained, and the requirement to sanctify the firstborn in order to atone for the killing of the firstborn of Egypt. Finally, Pharaoh's resistance is crushed, and the dashes through the streets in search of Moses and Aaron.
 
+n10:1] [וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־משֶׁ֔ה בֹּ֖א אֶל־פַּרְעֹ֑ה]{dir="rtl"&mdash;_The Lord said to Moses: "Come (in) to Pharaoh"..._
+
+<figure class='quote'>
+  <p>
+    Rabbi Shimon [bar Yochai] continued: It is now fitting to reveal mysteries connected with that which is above and that which is below. Why is it written, “Come in to Pharaoh”? Ought it not rather have said, “Go to Pharaoh”? It is to indicate that G‑d brought Moses into a chamber within a chamber, into the abode of the supernal mighty serpent that is the soul of Egypt, from whom many lesser serpents emanate. Moses was afraid to approach him, because his roots are in supernal regions, and he approached only his subsidiary streams. When G‑d saw that Moses feared the serpent, He said, “Come in to Pharaoh.”
+  </p>
+  <figcaption>&mdash;(Zohar)</figcaption>
+</figure>
+
+10:9] Our youth and elders
+
+<blockquote>
+<p dir='rtl'>
+ט. וַיֹּ֣אמֶר משֶׁ֔ה בִּנְעָרֵ֥ינוּ וּבִזְקֵנֵ֖ינוּ נֵלֵ֑ךְ בְּבָנֵ֨ינוּ וּבִבְנוֹתֵ֜נוּ בְּצֹאנֵ֤נוּ וּבִבְקָרֵ֨נוּ֙ נֵלֵ֔ךְ כִּ֥י חַג־יְהֹוָ֖ה לָֽנוּ:
+</p>
+
+9. Moses said, "With our youth and with our elders we will go, with our sons and with our daughters, with our flocks and with our cattle we will go, for we must observe **HaShem**'s festival."
+
+  <p>
+
+  </p>
+</blockquote>
+
+n10:9] _We will go with our young and with our old, with our sons and with our daughters (10:9)_
+
+<figure class='quote'>
+<p>
+Pharaoh was willing to let the menfolk go, as long as the children remain behind; for as long as the younger generation remains “in Egypt,” there would be no future for the people of Israel.
+
+The “Pharaohs” of our day have the same attitude. If the older folk wish to cling to Jewish tradition, that is perfectly acceptable; but the youth should be raised in “the spirit of the times” . . .
+
+  </p>
+  <figcaption>&mdash;(Maayanah Shel Torah)</figcaption>
+</figure>
+
+social station Heb. bi-n‘areinu u-vi-ziqneinu, taking na‘ar and zaqen as terms of social rank—lit. “with our underlings and with our elders.”
+
 ### Locusts
+
+<div class="note">
+
+**Locusts** in Hebrew are _arbeh_, which means destruction, but the letters are similar to _harbeh_, which means abundance or bounty.
+
+When looking at our lives, do we focus on the negative instead of the positive? Do we focus on our challenges or difficulties? From _arbeh_, we can choose to see the good and adjust our attitudes, to reframe and see the abundance and bounty. It is almost by beginning with the _heh_, or 'h', which represents G-d, knowing that all extends from His Mercy, we can adjust our attitude, and bring much into the place where there is little.
+</div>
 
 This plague introduces a new element. It is meant to make a mockery of Egypt, that the Egyptians and the Jewish people will know **HaShem**'s greatness. That the Jews are included in this event speaks of the fact that even amongst the believers, there are those who belief is imperfect and needs to be adjusted. This apparently happened at the splitting of the sea that those whose faith was not pure gained true faith in **HaShem** and his servant Moshe (14:31).
 
 n10:2] [למען תסַפר]{dir="rtl"} &mdash; _to relate_. The lesson here is that **HaSHem** is not aloof, but master every day of all events. [**Note**: God creates the stage and the actors, and we "play" our parts&mdash;and with free choice &mdash; or not.]{.note}
+
 n10:2] [התאללתי]{dir="rtl"} &mdash; _mocked_.
 
 > G-d is the first cause of everything.
@@ -117,7 +162,7 @@ n10:3] [עד־מתי]{dir="rtl"}  "Pharaoh and his advisors have seen My total c
 
 **Note**: Which brings up the suffering of the people because of one man, their king, who stubbornly refused to let our people go. These are the innocent victims of the battles between kings. Here it is between G-d and Pharaoh, and although many would slate me for that comparison, it is very much how it is represented in this story. It is the power of the Egyptian gods against the power of **HaShem**. A tale of my King is more powerful than yours!{.note}
 
-In addition, as has so often happens, while the people suffer and often die for the cause, the actual cause, the Pharaoh survives. }
+In addition, as has so often happens, while the people suffer and often die for the cause, the actual cause, the Pharaoh survives.{.note}
 
 [לענות מפני]{dir="rtl"} &mdash;_humbled_. Pharaoh would not bend to Divine Will.
 
@@ -127,21 +172,29 @@ In addition, as has so often happens, while the people suffer and often die for 
 
 **Note**: This is an example of the details that are left to the "actors". G-d gave Moses instructions. Here was a situation that one can assume was not covered in those instructions. G-d never said to Moses specifically "take all the people". Perhaps during his negotiations with Pharaoh, Moses realised that it had to be everyone. Allowing only the elders and leaders to leave would be a pyrrhic victory. Also, according to R' Bachya, as Moses knew the purpose of the exodus was the revelations at Mount Sinai, he knew he had to include the children. This underlines the principle that "the commandments are (equally binding) for everyone."{.note}
 
-\*n10] [כי רעַה נגד]{dir="rtl"} &mdash;_evil intent_. Pharaoh was astute in guessing that Moses and the people had no intention of returning from their excursion. {Note: This is quite a climactic moment when Pharaoh accuses Moses of treachery.}
+\*n10:10] [כי רעַה נגד]{dir="rtl"} &mdash;_evil intent_. Pharaoh was astute in guessing that Moses and the people had no intention of returning from their excursion. {Note: This is quite a climactic moment when Pharaoh accuses Moses of treachery.}
 
 [רעה]{dir="rtl"}  is thought of as a star. Expressed through the Egyptian astrologers' prediction that the nation would be formed in blood. This was thought to be the blood of the paschal lamb, but was instead the blood of the circumcision. This is the argument Moses used against G-d after the sin of the Golden Calf. It was, in essence an egotistical argument, playing into G-d's: "You are better than them."
 
+<div class="note">
+
 **Note**: Perhaps Moses was blessed in the sense that the opposing force, Pharaoh, was clear. Here and now, who the Pharaoh is, is not so obvious. Who is the clear opposer that I can say to G-d, "You are better than him?"{.note}
 
-My only prayer here is: "If this is the way we have to go, if this is the path we have to walk, may I do it with grace, with love and forgiveness in my heart&mdash;and with joy. However, my deepest prayer is that there is another way, and that you will guide those of us who believe in You, along Your Way, the way that is closer to Your Will&mdash;with outstretched arm and great judgements. For evil walks freeling in the world, and it needs to be banished again. It must return home to its place in the heavens.}
+My only prayer here is: "If this is the way we have to go, if this is the path we have to walk, may I do it with grace, with love and forgiveness in my heart&mdash;and with joy. However, my deepest prayer is that there is another way, and that you will guide those of us who believe in You, along Your Way, the way that is closer to Your Will&mdash;with outstretched arm and great judgements. For evil walks freeling in the world, and it needs to be banished again. It must return home to its place in the heavens.
+</div>
 
-Game:
+<details>
+<summary class='button is-outlined'>
+Game &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
 
 Moses warns Pharaoh about the locusts. Then Moses walks out (v6), knowing that Pharaoh and his advisors must be worried about the famine that will ensue. His advisors capitulate (v7), but not Pharaoh.
 
 The Pharaoh then calls Moses, and offers him a compromise. The men can go, but the women and children&mdash;the future of the nation&mdash;have to stay behind, almost hostages to ensure Moses' return. Pharaoh even demands a list of the elders and leaders who were to go. Moses responds that everyone, including the women and children, will need to go.
 
-He then accuses Moses of treachery (v10), claiming that his G-d will not be with someone who will accept his dishonesty. [**Note**: Though this is not what happened, for Moses has been obeying G-d's commands assiduously.]{.note}
+He then accuses Moses of treachery (v10), claiming that his G-d will not be with someone who will accept his dishonesty. [**Note**: Though this is not what happened, for Moses has been obeying G-d's commands assiduously.]
+
+</details>
 
 **Note**: Where does Pharaoh get this logic from? What does he know of the Jewish G-d (or did he get information regarding HaShem from his advisors)? And why would he try and sway Moses by trying to turn the characteristics of his G-d against him? Is he trying to turn Moses' own beliefs against him?{.note}
 
@@ -152,6 +205,27 @@ n17] [שׂא נא]{dir="rtl"} &mdash;_Forgive me_: The locusts descend on Egypt, 
 n19-20] Pharoah had promised not to sin again, however, after the West wind blew away all the locusts (including those that had been collected for food), G-d then again strengthened Pharaoh's heart and he refused to let our people go. This is an illustration of the principle: _If one wishes to contaminate oneself, the way is open to you_.
 
 ### Darkness
+
+<blockquote>
+<p dir='rtl'>
+כא. וַיֹּ֨אמֶר יְהֹוָ֜ה אֶל־משֶׁ֗ה נְטֵ֤ה יָֽדְךָ֙ עַל־הַשָּׁמַ֔יִם וִ֥יהִי ח֖שֶׁךְ עַל־אֶ֣רֶץ מִצְרָ֑יִם וְיָמֵ֖שׁ חֽשֶׁךְ:
+</p>
+  <p>
+21. The Lord said to Moses, "Stretch forth your hand toward the heavens, and there will be darkness over the land of Egypt, and the darkness will become darker."
+
+  </p>
+</blockquote>
+
+n10:21] _Stretch out your hand towards heaven, that there shall be darkness over the land of Egypt (10:21)_
+
+<figure class='quote'>
+  <p>
+
+Why did G‑d . . . bring darkness upon the Egyptians? Because there were transgressors in Israel who had Egyptian patrons and who lived in affluence and honor, and were unwilling to leave. So G‑d said: “If I bring upon them publicly a plague from which they will die, the Egyptians will say: ‘Just as it has passed over us, so has it passed over them.’” Therefore He brought darkness upon the Egyptians for three days, so that the [Israelites] should bury their dead without their enemies seeing them.
+  </p>
+  <figcaption>&mdash;(Midrash Rabbah)
+</figcaption>
+</figure>
 
 The plague is the end of a set of three. Like the 3rd & the 6th plague there was no warning. The darkness was broken into the first three days, and then the last three days during which the darkness became so dense that the Egyptians could not move.
 
@@ -167,28 +241,53 @@ A more radical view, in line with my previous one, would be that there was somet
 - How did we manage to see anything? if the darkness was upon the Egyptians. Did they have lamps? Where the Egyptians not aware of the light from these lamps when they were in their houses? That must have been a very strange darkness, almost one that arose from inside the person. But would the (innocent) children also be mired in the same intense, debilitating darkness? The other possibility is that the darkness only encompassed the idol worshippers, and non-believers. That would give more credence to the idea that it arose from inside the person, but also speaks of an even more power/sentient darkness&mdash;as strange as that concept might be to the modern, rational mind.
 - Why borrow? Did the people not know that they were leaving, never to return? Or were they simply being dishonest, and thus it was a form of thievery. It says they gave their possession willingly. Why would they hand over their possession to their slaves? What are we missing here? Either it was this G-d's hand, to honour the promise He made to Abraham about leaving Egypt with great wealth. Or it was the power of the Cult of Yahweh, which existed and began at the time of Abraham.
 
-n22-23] [לא ראוּ אישׁ]{dir="rtl"}  Each plague lasted seven days.
+n10:22-23] [לא ראוּ אישׁ]{dir="rtl"}  Each plague lasted seven days.
 "The darkness was not merely the absence of light, but an opaque fog-like condition, that extinguished all flames." Thus the Egyptians could not light their lambs (Ramban), nor could they keep track of the days and nights. [לא קמה אישׁ מתחתיו]{dir="rtl"}  They could not rise, nor could they go anywhere. The darkness was extreme (Ibn Ezra). "The sitting could not stand, and the standing could not sit" (Rashi). This describes a palpable darkness, almost alive.
 
-n25-26] In order to have livestock for the offering, the people left with livestock. It seems that they did not only take their own livestock with them, but also that of the Egyptians.
+n10:25-26] In order to have livestock for the offering, the people left with livestock. It seems that they did not only take their own livestock with them, but also that of the Egyptians.
 
 **Note**: No wonder Pharaoh chased after them, as Egypt was looking at a serious famine, with no vegetation and no livestock. What if there was a time dilations here that is not mentioned. As there is no information about how long a period passed between each plague, it could be that a number of years passed between each one?{.note}
 
-n27-29] This was Pharaoh's final intransigence. "The wicked do not repent even when standing on the threshold of Gehinnom" (Eruvim 19a). And G-d strengthened Pharaoh's heart, allowing him to make whatever decision he deemed rational.
+n10:27-29] This was Pharaoh's final intransigence. "The wicked do not repent even when standing on the threshold of Gehinnom" (Eruvim 19a). And G-d strengthened Pharaoh's heart, allowing him to make whatever decision he deemed rational.
 
 ## Chapter 11
 
-n1-8] "Warning of the plague of the first-born".
-n1] [כָּלָה]{dir="rtl"} &mdash; _complete_: "G-d's justice decrees whoever refuses of his own free will to obey Him will be forced to do so in a less pleasant way (Avot 4:10).
+n11:1-8] "Warning of the plague of the first-born".
 
-n2] Moses has commanded the Jews to request their valuables from the Egyptians in fulfilment of G-d's vow to Abraham that his descendants would leave Egypt with great wealth.
+n11:1] [כָּלָה]{dir="rtl"} &mdash; _complete_: "G-d's justice decrees whoever refuses of his own free will to obey Him will be forced to do so in a less pleasant way (Avot 4:10).
 
-n3] [בעיני העם]{dir="rtl"}  Moses stature grew in the eyes of the people.
-n4] [בחצות הלילה]{dir="rtl"} &mdash; _midnight_.. This points out a less than savoury aspect of human nature. Even though the first-born were dying around them, the necromancers would snatch at any straw to discredit Moses. This sort of perverse attitude has corrupted human behaviour throughout history. Such is the nature of the wicked: their belief in G-d is so fragile that they will discard it at the slightest provocation.
+n11:2] Moses has commanded the Jews to request their valuables from the Egyptians in fulfilment of G-d's vow to Abraham that his descendants would leave Egypt with great wealth.
 
-n5] [ומת כל־בכור]{dir="rtl"} &mdash; _All the firstborn perished_ eeven the poor and foreign captives.
+<blockquote>
+<p dir='rtl'>
+ב. דַּבֶּר־נָ֖א בְּאָזְנֵ֣י הָעָ֑ם וְיִשְׁאֲל֞וּ אִ֣ישׁ | מֵאֵ֣ת רֵעֵ֗הוּ וְאִשָּׁה֙ מֵאֵ֣ת רְעוּתָ֔הּ כְּלֵי־כֶ֖סֶף וּכְלֵ֥י זָהָֽב:
+</p>
+  <p>
+2. Please, speak into the ears of the people, and let them borrow, each man from his friend and each woman from her friend, silver vessels and golden vessels."
+  </p>
+</blockquote>
 
-n9] Pharaoh's heart hardened, because there were still wonders to perform. [**Note**: This is an amazing story to see, or understand, or have faith in such a mega-narrative.]{.note}
+<figure class='quote'>
+  <p>
+Why was it so important that the children of Israel should carry out the wealth of Egypt, to the extent that this was foretold hundreds of years earlier to Abraham as an indispensable component of their redemption?
+
+Every creation contains a “spark of holiness” which embodies its divine purpose. When a person utilizes an object, force or phenomenon to serve the Creator, thereby realizing its function within G‑d’s overall purpose for creation, he “redeems” and “elevates” the divine spark at its core.
+
+Every soul has its own “sparks” scattered about in the world, which actually form an integral part of itself: no soul is complete until it has redeemed those sparks which belong to its mission in life. Therein lies the purpose of galut in all its forms: the exile of the soul from its sublime origins to the physical world, and the various exiles that nations and individuals experience in the course of their history, impelled from place to place and from occupation to occupation by seemingly random forces. All is by divine providence, which guides every man to those possessions and opportunities whose “spark” is intimately connected with his.
+
+As the father and prototype of all exiles, the Egyptian galut was a highly concentrated period of history, in which the foundations were laid for all that was to unfold in subsequent centuries. The material world contains 288 general “sparks” (each of which includes innumerable offshoots and particles); of these, 202 were taken out of Egypt, redeemed and elevated when the Jewish people carried off its gold and silver and used these to construct a sanctuary for G‑d in the desert (see Exodus 25–31).
+
+  </p>
+  <figcaption>&mdash;(The Chassidic Masters)
+</figcaption>
+</figure>
+
+n11:3] [בעיני העם]{dir="rtl"}  Moses stature grew in the eyes of the people.
+n11:4] [בחצות הלילה]{dir="rtl"} &mdash; _midnight_.. This points out a less than savoury aspect of human nature. Even though the first-born were dying around them, the necromancers would snatch at any straw to discredit Moses. This sort of perverse attitude has corrupted human behaviour throughout history. Such is the nature of the wicked: their belief in G-d is so fragile that they will discard it at the slightest provocation.
+
+n11:5] [ומת כל־בכור]{dir="rtl"} &mdash; _All the firstborn perished_ eeven the poor and foreign captives.
+
+n11:9] Pharaoh's heart hardened, because there were still wonders to perform. [**Note**: This is an amazing story to see, or understand, or have faith in such a mega-narrative.]{.note}
 
 ## Chapter 12
 
@@ -199,9 +298,19 @@ Now we have a 28 verse interruption to the narrative of the plagues, after which
 3. The seder ceremony
 4. The pesach laws.
 
-n2] _Rosh Chodesh_ The sanctification of the new moon is the first commandment given to the nation. This is so important to the functioning of the society, that it was one of the three prohibitions of the Syrian Greek persecution: this, the Sabbath and circumcision. For without the setting of the new month, the calendar of the year could not be determined, thus the festival cycle could not occur. This new moon is also a time of renewal.
+n12:2] _Rosh Chodesh_ The sanctification of the new moon is the first commandment given to the nation. This is so important to the functioning of the society, that it was one of the three prohibitions of the Syrian Greek persecution: this, the Sabbath and circumcision. For without the setting of the new month, the calendar of the year could not be determined, thus the festival cycle could not occur. This new moon is also a time of renewal.
 
 **Jewish Calendar**
+
+<figure class='quote'>
+  <p>
+
+**Time** is the first creation (see Sforno on Genesis 1:1); thus, the sanctification of time is the first mitzvah commanded to Israel.
+
+  </p>
+  <figcaption>&mdash;(Lubavitzer Rabbi)
+</figcaption>
+</figure>
 
 The Jewish calendar is based on the moon, and regulated by the sun.
 The time between one new moon and the next is $$29$$ days, $$12$$ hours, $$44$$ minutes and $$ 3 \frac1{3} $$ seconds. Since the month has to consist of complete days, the month vacillates between 29 and 30 days, so that a 12 month year contains 354 days. This is 11 days less than the solar year, and if it had to continue for many years, Nissan would fall in the winter &mdash; but the Torah requires that Nissan be [חודשׁ אביב]{dir="rtl"} , _the month of springtime_ [generally March/April in the northern hemisphere] (Deut 16:1). This is very interesting, as Nissan is not the "springtime" in the southern hemisphere! To solve this problem, the "Jewish leap year" was instituted. It consists of adding a $$13^th$$ month ot the year 7 times in 19 years, so that Nissan remains in its proper season.
@@ -210,7 +319,7 @@ The Torah provides that _Rosh Chodesh_ can be proclaimed only by the rabbinic co
 
 In the year 4119 (358-359 C.E), the court of Hillel promulgated a calendar for all succeeding generations based on the calculation that had historically been used to corroborate the testimony of witnesses to the new moon.
 
-n2] [החודשׁ הזה]{dir="rtl"} &mdash; _This month_, Nissan, in which this commandment was given, is to be the _beginning of the months_ i.e., even though the new year begins with Tishrei, the moons are numbered from the month of the Exodus, so that the Torah refers to Rosh Hashanah as the first day of the _seventh_ month, while Pesach is the fifteenth day of _first_ month (Rashi). By numbering all the months from Nissan &mdash; the second month, the third and so on &mdash; we are always recalling the month of the Exodus.
+n12:2] [החודשׁ הזה]{dir="rtl"} &mdash; _This month_, Nissan, in which this commandment was given, is to be the _beginning of the months_ i.e., even though the new year begins with Tishrei, the moons are numbered from the month of the Exodus, so that the Torah refers to Rosh Hashanah as the first day of the _seventh_ month, while Pesach is the fifteenth day of _first_ month (Rashi). By numbering all the months from Nissan &mdash; the second month, the third and so on &mdash; we are always recalling the month of the Exodus.
 
 The currently used names of the month are of Babylonian origin, and came into use only after the destruction of the First Temple. Those names were retained as a reminder of the redemption from Babylon which resulted in the building of the Second Temple (Ramban).
 
@@ -218,23 +327,23 @@ The word [חדשׁ]{dir="rtl"} should be understood not as _month_, but as _renew
 
 [לכם]{dir="rtl"} &mdash; _For you_. The word appears twice in the verse to stress a new relationship between Jews and time. As slaves, their time belonged to their masters, not to them. For they did not have the freedom to act as they pleased _when_ they pleased. But from now on, Jews would be masters of their time, and their only master would be G-d (Sforno).
 
-n3-11] **The _pesach_ offering**. The word [פסח]{dir="rtl"}  means _pass over_ and it commemorates G-d's mercy towards the Jewish people on the night of Pesach in Egypt, for He took the lives of the Egyptian firstborn, but he _passed over_ the home where the people (the believers) were eating their _pesach_-offering. Although the _pesach_-offering was to be brought annually, the offering in Egypt served a special function that included procedures that applied only in Egypt.
+n12:3-11] **The _pesach_ offering**. The word [פסח]{dir="rtl"}  means _pass over_ and it commemorates G-d's mercy towards the Jewish people on the night of Pesach in Egypt, for He took the lives of the Egyptian firstborn, but he _passed over_ the home where the people (the believers) were eating their _pesach_-offering. Although the _pesach_-offering was to be brought annually, the offering in Egypt served a special function that included procedures that applied only in Egypt.
 
-n3] [עַדַת]{dir="rtl"} &mdash; _assembly_. The word derives from [יעד]{dir="rtl"} , _to fix, to appoint_, referring to a society united by their common calling, a community (R. Hirsch). This is the first time this word is found in the Torah, implying that the commandment of the _pesach_-offering ushered in a new era. The people was a nation united by its common calling as G-d Chosen People.
+n12:3] [עַדַת]{dir="rtl"} &mdash; _assembly_. The word derives from [יעד]{dir="rtl"} , _to fix, to appoint_, referring to a society united by their common calling, a community (R. Hirsch). This is the first time this word is found in the Torah, implying that the commandment of the _pesach_-offering ushered in a new era. The people was a nation united by its common calling as G-d Chosen People.
 
-n3-12] What if you do not eat meat? A form of Nazarite, swearing off all meat products, and a vegan swearing off all animal products.
+n12:3-12] What if you do not eat meat? A form of Nazarite, swearing off all meat products, and a vegan swearing off all animal products.
 
-n6] The Pesach _Haggadah_ cites a verse from _Ezekiel_ )12:48), which suggests that the people could be redeemed by blood, meaning that the _pesach_-offering and that of circumcision.
+n12:6] The Pesach _Haggadah_ cites a verse from _Ezekiel_ )12:48), which suggests that the people could be redeemed by blood, meaning that the _pesach_-offering and that of circumcision.
 
 [בינ הערבים]{dir="rtl"} &mdash; _between the evenings_. The afternoon is given this name because it falls between the two "sunsets": the first is when the noontime sun begins to dip toward the horizon adn the second when it sets below the horizon (Rashi).
 
-n8] [הבשׂר ... וּמצות]{dir="rtl"} &mdash; _The flesh ... and matzos_. There are three positive commandments in this verse: to eat flesh of the _pesach_-offering, matzah and bitter herbs. There is a Rabbinic commandment if you cannot eat the _pesach_-offering, to eat bitter herbs at the Seder.
+n12:8] [הבשׂר ... וּמצות]{dir="rtl"} &mdash; _The flesh ... and matzos_. There are three positive commandments in this verse: to eat flesh of the _pesach_-offering, matzah and bitter herbs. There is a Rabbinic commandment if you cannot eat the _pesach_-offering, to eat bitter herbs at the Seder.
 
-n9] [... אל־תאכלוּ]{dir="rtl"} &mdash; _You shall not eat ..._ The preparation of the offering apply to all _pesach_-offerings throughout the ages; those regarding the conditions under which it is to be eaten applied only to the offering in Egypt.
+n12:9] [... אל־תאכלוּ]{dir="rtl"} &mdash; _You shall not eat ..._ The preparation of the offering apply to all _pesach_-offerings throughout the ages; those regarding the conditions under which it is to be eaten applied only to the offering in Egypt.
 
-n12-13] **G-d Himself will carry out the plague**
+n12:12-13] **G-d Himself will carry out the plague**
 
-n12] [...ועברתי... והכיתי]{dir="rtl"} &mdash;_I shall go through... and I shall strike..._ From this verse we learn that G-d _personally_ [**Note**: What does that even mean?]{.note} carried out the plague of the firstborn, and did not send an emissary or angel to do so.
+n12:12] [...ועברתי... והכיתי]{dir="rtl"} &mdash;_I shall go through... and I shall strike..._ From this verse we learn that G-d _personally_ [**Note**: What does that even mean?]{.note} carried out the plague of the firstborn, and did not send an emissary or angel to do so.
 
 From the foundation of Israel as a nation, G-d's relationship to it was direct and personal, without an intermediary (Maharal).
 
@@ -258,59 +367,69 @@ Since the verse stresses that the sign will be _for you_, the Sages infer that t
 
 That does raise a point though. If the firstborn died quietly in their sleep, why would their family members be awake? If their passing was peaceful, no one would discover them till morning. However, was it peaceful? Did they just expire? Or did they suffer beforehand, alerting their family to their plight?{.note}
 
-\*m14-20] **The Pesach (Passover) Festival** We shall all be free!
+\*n12:14-20] **The Pesach (Passover) Festival** We shall all be free!
 
 Pesach is the inaugural festival of the our people, because it marked their inauguration as a nation. This nationhood was not based on revolution, triumph in battle, conquest of a land, or any of the other normal manifestations of national pride and struggle for independence.
 
 **Note**: However, we had to fulfil the promise of nationhood by settling in Canaan &mdash; and then it was full of all of these "normal" manifestations of nationhood. This has been repeated 2000 years later. Please G-d, my prayer here is that modern day Israel does not behave similarly to the manner in which the Ancient Jews behaved &mdash; though I fear it might be too late...{.note}
 
-n15] [...שׁבעת ימים]{dir="rtl"} &mdash; _A seven day period..._ The Sages derive exegetically that there is no requirement to eat matzah through the seven days of Pesach, for the eating of matzah is compulsory only on the Seder night. Our verse treaches that if one wishes to eat a grain product during the Pesach, it must be unleavened (see _Rashi_).
+n12:15] [...שׁבעת ימים]{dir="rtl"} &mdash; _A seven day period..._ The Sages derive exegetically that there is no requirement to eat matzah through the seven days of Pesach, for the eating of matzah is compulsory only on the Seder night. Our verse treaches that if one wishes to eat a grain product during the Pesach, it must be unleavened (see _Rashi_).
 
-n17] [וּשׁמרתם את־המצות]{dir="rtl"} &mdash; You shall safeguard the matzos. "If a _mitzvah_ comes to your hand, do not allow it to be "leavened" by delaying its performance (_Rashi_). The performance of a single _mitzvah_ without delay may be necessary for the salvation of an individual at any moment. (_Maskil Ha'David_)
+n12:17] [וּשׁמרתם את־המצות]{dir="rtl"} &mdash; You shall safeguard the matzos. "If a _mitzvah_ comes to your hand, do not allow it to be "leavened" by delaying its performance (_Rashi_). The performance of a single _mitzvah_ without delay may be necessary for the salvation of an individual at any moment. (_Maskil Ha'David_)
 
-n19] [בַּגֵּר וּבאזרח הארץ]{dir="rtl"} &mdash; _Whether a convert or a citizen of the land_. The Torah makes clear that _all_ believers, even later converts whose ancestors did not participate in the Exodus, are equally obligated to keep the commandments (_Rashi_). [**Note**: This gives more credence to the idea that it was a mixed multitude that obeyed G-d's commandment and left Egypt with Moshe.]{.note}
+n12:19] [בַּגֵּר וּבאזרח הארץ]{dir="rtl"} &mdash; _Whether a convert or a citizen of the land_. The Torah makes clear that _all_ believers, even later converts whose ancestors did not participate in the Exodus, are equally obligated to keep the commandments (_Rashi_). [**Note**: This gives more credence to the idea that it was a mixed multitude that obeyed G-d's commandment and left Egypt with Moshe.]{.note}
 
-n21-28] **The Ritual of the _pesach_-offering**
+12:21-28] **The Ritual of the _pesach_-offering**
 
-n21] [...מִשׁכּוּ]{dir="rtl"}  &mdash; Draw forth... Homiletically, _R' Hirsch_ renders _withdraw_ from the errors of your past and _accept_ the new values of submission to your G-d, which are symbolised by docile, submissive lambs and kids. [**Note**: That is a problem when you are in a crises.]{.note}
+n12:21] [...מִשׁכּוּ]{dir="rtl"}  &mdash; Draw forth... Homiletically, _R' Hirsch_ renders _withdraw_ from the errors of your past and _accept_ the new values of submission to your G-d, which are symbolised by docile, submissive lambs and kids. [**Note**: That is a problem when you are in a crises.]{.note}
 
-n22] [אְַגֻדת אֵזוב]{dir="rtl"}  &mdash; _A bundle of hyssop_. Three stalks were required (_Rashi_). By using the bundle of hyssop the people demonstrated their acknowledgement that only G-d's intervention could redeem us from Egypt.
+n12:22] [אְַגֻדת אֵזוב]{dir="rtl"}  &mdash; _A bundle of hyssop_. Three stalks were required (_Rashi_). By using the bundle of hyssop the people demonstrated their acknowledgement that only G-d's intervention could redeem us from Egypt.
 
 \* \* \*
 
 **Note**: How old were Menasseh & Gershom when they arrived in Sinai? As Moses was 80 by then.{.note}
 
-\*n19] [לא תצה]{dir="rtl"}  &mdash; _do not go out_. The destroyer is about and there are other destroyers about too. [**Note**: However, the previous note says that G-d said that He would carry out this plague? So who were the destroyers mentioned here then?]{.note}
+\*n12:19] [לא תצה]{dir="rtl"}  &mdash; _do not go out_. The destroyer is about and there are other destroyers about too. [**Note**: However, the previous note says that G-d said that He would carry out this plague? So who were the destroyers mentioned here then?]{.note}
 
-\*n26-27] Wicked son
+\*n12:26-27] Wicked son
 
 **10th Plague: The plague of the firstborn**
 
-n29] [כל בכור]{dir="rtl"} . The first born, eldest son was the one that died. If he was the eldest in the household, and there was no firstborn son, then he, the eldest would die. [**Note**: It seems that the women were unaffected. Thus every house was affected.]{.note}
+n12:29] [כל בכור]{dir="rtl"} . The first born, eldest son was the one that died. If he was the eldest in the household, and there was no firstborn son, then he, the eldest would die. [**Note**: It seems that the women were unaffected. Thus every house was affected.]{.note}
 
 **Pharaoh's capitulation**
 
-n31] [בדברדכם]{dir="rtl"}  &mdash; _as you have spoken_ or prophesised. Moses sent agnels. [**Note**: So did Jacob!]{.note}
+n12:31] [בדברדכם]{dir="rtl"}  &mdash; _as you have spoken_ or prophesised. Moses sent agnels. [**Note**: So did Jacob!]{.note}
 
-n32] Pharaoh survives. [**Note**: Is that just? He is the one who was responsible for the deaths amongst his people.]{.note} Moses says they will not slink out at night, but leave proudly in the day. [**Note**:This contradicts the notion that the Exodus was done in haste. They also had to "pick" up all the valuables that they wished to "borrow" from their friendly Egyptian neighbours.]{.note}
+n12:32] Pharaoh survives. [**Note**: Is that just? He is the one who was responsible for the deaths amongst his people.]{.note} Moses says they will not slink out at night, but leave proudly in the day. [**Note**:This contradicts the notion that the Exodus was done in haste. They also had to "pick" up all the valuables that they wished to "borrow" from their friendly Egyptian neighbours.]{.note}
 
-n34] _Unleavened_: (see n32 above)
+n12:34] _Unleavened_: (see n32 above)
 
-n35-38] _Obeyed the word_: The justification for borrowing can be found in n3:18-22, but it is a rather weak argument.
+n12:35-38] _Obeyed the word_: The justification for borrowing can be found in n3:18-22, but it is a rather weak argument.
 
-n37-42] The estimate is of 600,000 males, which makes for a population of around 3 million people. How many people lived in Egypt at that time? The general estimate is maximum 4.5 million (including slaves), minimum 1.5 million.
+n12:37-42] The estimate is of 600,000 males, which makes for a population of around 3 million people. How many people lived in Egypt at that time? The general estimate is maximum 4.5 million (including slaves), minimum 1.5 million.
 
-n38] [ערב רב]{dir="rtl"}  &mdash; _a mixed multitude_ followed the Jews out of Egypt. [**Note**: If you were a slave, no matter what nationality, and you saw an opportunity to gain your freedom, would you not want to be a part of that?]{.note}
+12:38] **A mixed multitude**
+<blockquote>
+<p dir='rtl'>
+לח. וְגַם־עֵ֥רֶב רַ֖ב עָלָ֣ה אִתָּ֑ם וְצֹ֣אן וּבָקָ֔ר מִקְנֶ֖ה כָּבֵ֥ד מְאֹֽד:
+</p>
+  <p>
+38. And also, a great mixed multitude went up with them, and flocks and cattle, very much livestock.
+  </p>
+</blockquote>
 
-\*n40] _The duration of the exile_ was officially 210 years. The 400 years number is derived from starting from Jacob.
+n12:38] [ערב רב]{dir="rtl"}  &mdash; _a mixed multitude_ followed the Jews out of Egypt. [**Note**: If you were a slave, no matter what nationality, and you saw an opportunity to gain your freedom, would you not want to be a part of that?]{.note}
 
-n43] [בן־נַכַּר]{dir="rtl"}  &mdash; _alienated_. The [מוּמר]{dir="rtl"} , apostate and the non-Jew may not participate in the _pesach_-offering. The apostate being a Jewish non-believer. Although apostate should be used to generally define a non-believer in **HaShem**, whether Jewish or not.
+\*n12:40] _The duration of the exile_ was officially 210 years. The 400 years number is derived from starting from Jacob.
 
-n44] [וכל־עבד]{dir="rtl"}  &mdash; Every slave shall be circumcised and shall eat of it. [**Note**: So even if the slave is an apostate, he can eat of it.]{.note}
+n12:43] [בן־נַכַּר]{dir="rtl"}  &mdash; _alienated_. The [מוּמר]{dir="rtl"} , apostate and the non-Jew may not participate in the _pesach_-offering. The apostate being a Jewish non-believer. Although apostate should be used to generally define a non-believer in **HaShem**, whether Jewish or not.
 
-n45] [תוטב ושׂכיר]{dir="rtl"}  A casual labourer or a hired hand are not permitted, even if circumcised, but not Jewish.
+n12:44] [וכל־עבד]{dir="rtl"}  &mdash; Every slave shall be circumcised and shall eat of it. [**Note**: So even if the slave is an apostate, he can eat of it.]{.note}
 
-n46] Part of _Kashrut_ is not to break the bones of the animal (even when eating it).
+n12:45] [תוטב ושׂכיר]{dir="rtl"}  A casual labourer or a hired hand are not permitted, even if circumcised, but not Jewish.
+
+n12:46] Part of _Kashrut_ is not to break the bones of the animal (even when eating it).
 
 ## Chapter 13
 

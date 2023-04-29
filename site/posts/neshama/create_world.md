@@ -7,6 +7,15 @@ date: 2008-01-03T22:18:16.154Z
 modified: 2002-04-12
 ---
 
+1. [One angel, one mission](#one-angel-one-mission)
+   1. [Metatron, the angel](#metatron-the-angel)
+2. [Creating my world](#creating-my-world)
+3. [Freedom of Choice](#freedom-of-choice)
+4. [Place of choice](#place-of-choice)
+5. [Pagan Belief](#pagan-belief)
+
+## One angel, one mission
+
 > One angel cannot have two missions. "Two angels cannot have the same mission." (_Targum Rashi_ on Genesis 18:2; _Bereshit Rabbah_ 50:2)
 >
 <details>
@@ -34,7 +43,11 @@ The negative version of this is that the experience is horrible, and so one will
 
 An angel meets Metatron (or a Metatronic event) and it emerges into our reality &ndash; even if only as a momentary and visceral event. It is like the double helix of the DNA molecule. However the angel is not one of the two strands, but the energetic force of the _axis mundi_ around which the two streams, masculine and feminine, form. It is represented by the central column in Kabbalistic thought. It is not the column itself, but the energy  that "holds" or maintains the column.
 
-In order for anything to exist, there has to be the space in which it can exist. So before existence emerged, there needed to be space into which it could manifest. That "space" is measured by time! Not the time we measure, which requires already space for the object to be measured in, but space-time as in the emergence of the finite within the infinite.
+In order for anything to exist, there has to be the space in which it can exist. So before existence emerged, there needed to be space into which it could manifest.
+
+This "space" is not space as we know it&mdash;for that would require something that had to be removed. This was just a perception, pregnant with possibility.
+
+This "space" is measured by "time"! Not the time we measure, which requires already space for the object to be measured in, but movement as in the emergence of the finite within the infinite.
 
 One might think of this space as an expansion, but that is from a finite point of view. From the standpoint of the Infinite, the space is a contraction.
 
@@ -79,6 +92,15 @@ The foundation of all foundations, and the pillar of all wisdom, is to know that
 </div>
 
 That is the paradoxical and Divine essence of our existence... the freedom (and burden) of choice, for _the human experience is ordained, and inevitable, but the spiritual experience is optional._
+
+## Place of choice
+
+This is now the place of choice. The place of transformation. The existential fork in the road. Which way will you turn? It is not a place of up or down, in or out, but one of whether you choose to make your God finite or infinite. Your cosmology based on an infinite idea, or a finite one. Your choice.
+
+<figure class='quote'>
+G-d is the exclusive source of life; hence life, by definition, is connection with G-d. A “life” of disconnection from G-d is pseudo-life — a life devoid of all but its most superficial illusory shell.
+  <figcaption>&mdash;(The Chassidic Masters)</figcaption>
+</figure>
 
 ---
 
@@ -135,12 +157,3 @@ $$\zeta (x) = S(x) = 1+1/2^ x+1/3^ x+1/4^ x...,$$
 and for $$x\leq 1$$ the function $$\zeta (x)$$ has well-defined, finite values. This method of extension is called analytic continuation and the new function you get is called the Riemann zeta function, after the 19th century mathematician Bernhard Riemann. (Making this new function give you finite values for $$x \leq -1$$ involves cleverly subtracting another divergent sum, so that the infinity from the first divergent sum minus the infinity from the second divergent sum gives you something finite.)
 </p>
 </details>
-
-## Place of choice
-
-This is now the place of choice. The place of transformation. The existential fork in the road. Which way will you turn? It is not a place of up or down, in or out, but one of whether you choose to make your God finite or infinite. Your cosmology based on an infinite idea, or a finite one. Your choice.
-
-<figure class='quote'>
-G-d is the exclusive source of life; hence life, by definition, is connection with G-d. A “life” of disconnection from G-d is pseudo-life — a life devoid of all but its most superficial illusory shell.
-  <figcaption>&mdash;(The Chassidic Masters)</figcaption>
-</figure>

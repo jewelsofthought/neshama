@@ -56,11 +56,11 @@ stones, by birth?
 
 30:7] Here we have the mysterious spice-incense.
 
-n28:30] _Urim_ from אור (light); while _Tumim_ (plus the ineffable name) and anointing oil, light up with letters, which if read correctly...
+n28:30] _Urim_ from [אור]{dir="rtl"} (light); while _Tumim_ (plus the ineffable name) and anointing oil, light up with letters, which if read correctly...
 
 n28:2] _Glory_ accrues to a person even because of God-given abilities, while _splendour_ refers to the regard he has earned through his own accomplishments.
 
 n28:33] Pomegranates: 72 bells, 72 pomegranates => 72 shades of white (מצורה metzora)
 
-n28:41] ומלאת את ידם - inaugurate, as in "fill hands" as opposed to empty-handed. Fill position, invested with authority - as in full hands.
+n28:41] [ומלאת את ידם]{dir="rtl"} - inaugurate, as in "fill hands" as opposed to empty-handed. Fill position, invested with authority - as in full hands.
 40G

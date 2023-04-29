@@ -1,10 +1,12 @@
 ---
 title: From point to purpose
 description: Expansion from the point
-tags: null
+tags: [beg]
 date: 2015-01-16T15:12:16.154Z
 modified: 2021-12-28T13:23:06.287Z
 ---
+
+
 
 In the Rosicrucian Beacon, Dec. 2000, The Hieroglyphic Monad of Dr. John Dee by Paul Goodall, FRC.
 
@@ -19,7 +21,7 @@ In the Rosicrucian Beacon, Dec. 2000, The Hieroglyphic Monad of Dr. John Dee by 
 </figcaption>
 </figure>
 
-The circle and the line came into existence together. The point, the monad that he speaks of, is a “point in infinity” – which is a concept we cannot clearly define in terms of the concept of this Creative Will, that we call infinity. For in order to speak of a point that emerges, we have to already have a division of the infinite oneness, else it could not emerge. So the point, the circle and the line emerge together.
+The circle and the line came into existence together. The point, the monad that he speaks of, is a “point in infinity” – which is a concept we cannot clearly define in terms of this Creative Will, that we call infinity. For in order to speak of a point that emerges, we have to already have a division of the infinite oneness, else it could not emerge. So the point, the circle and the line emerge together.
 
 The description of the circle emerging has been illuminated in the Ari in the concept of the _Tzimtzum_ – the withdrawing of the Divine. From that emerges the circle. One could explain it with the “_Arich Anpin_”, the large face is the one that faces the Divine. It is also the long face, in that it is the stepping down from the infinite to the finite – a rather long ladder, one might say even perhaps an infinite one! The other side of the face, the lower end of the _Arich Anpin_ is the one that faces this world, us. It appears to us as a point, for we are finite, therefore there must be a beginning and an end to everything in this world – else it is no longer a finite world. The point which is the lower face of the _Arich Anpin_, is the upper face of _Zeir Anpin_ – the small face. Also because it is far smaller journey from the point of the finite to the manifold manifestations of the finite, even if we measure it in billions of light years. It has an end, and thus we know it must have a beginning. And so _Zeir Anpin_ takes the point of _Arich Anpin_, which is as broad as a circle, encompassing the space that the Divine has withdrawn from, in order for the creatures of creation to emerge – both big and small, tall and tiny, clever or dumb, wise or stupid, strong and weak – and fashions, becomes the design of each one of them.
 

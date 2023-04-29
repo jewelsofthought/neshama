@@ -1,15 +1,21 @@
 <!doctype html>
 <html lang="en">
+PUBLIC "-//W3C//DTD HTML 4.01//EN"
+      "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-US">
+<link rel="icon" 
+      type="image/ico" 
+      href="/favicon.ico">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title or metadata.title }}</title>
     <meta name="generator" content="{{ eleventy.generator }}">
     <meta name="description" content="{{ description or metadata.description }}">
-    
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | url }}">
+
     <link rel="stylesheet" href="{{ '/assets/fonts/fontawesome.min.css' | url }}">
     <link rel="stylesheet" href="{{ '/assets/fonts/solid.min.css' | url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/main.css' | url }}">
     <!--link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"-->
     <!--link rel="stylesheet" href="{{ '/assets/css/index.css' | url }}"-->
     <link rel="stylesheet" href="{{ '/assets/css/katex.min.css' | url }}">
@@ -45,9 +51,7 @@
     <!-- Javascript (at end of document) -->
     <script src="/assets/js/vue.min.js"></script>
 
-    <script src="/assets/js/bulma-burger-vue.js"></script>    
-    <script src="/assets/js/toggle.js"></script>
-
+    <script src="/assets/js/style.js"></script>    
 
     <!-- Current page: {{ page.url | url }} -->
   </body>

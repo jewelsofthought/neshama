@@ -3,14 +3,15 @@ title: Absolutist's world
 description:
 tags: null
 date: 2015-01-01T02:32:16.154Z
-modified: 2019-07-01
+modified: 2023-04-21
+stars: "***"
 ---
 
 ## Absolutist
 
-In the absolutist's world, we have one life to live, and if you sin in this life, your soul suffers in hell for eternity. It seems like the punishment, in many cased, does not match the crime. And if you are righteous and holy, you go to heaven. But what if you're average? You do not do evil, yet you are not really righteous, where do you go?
+In the absolutist's world, you have one life to live, and if you sin in this life, your soul suffers in hell for eternity. It seems like the punishment, in many cased, does not match the crime. And if you are righteous and holy, you go to heaven. But what if you're average? You do not do evil, yet you are not really righteous, where do you go?
 
-In the more modern view, embracing reincarnation, whereby one's (spiritual) path is to serve G-d, to bring oneself closer to Him. Upon achieving sufficient closeness, one is no longer trapped in wheel of Samsara and reaches "heaven".
+In the more modern view, embracing reincarnation, whereby one's (spiritual) path is to serve G-d, to draw closer to Him. Upon achieving sufficient closeness, one is no longer trapped in wheel of Samsara and reaches "heaven".
 
 What of the evil person? Does it make sense to imprison his soul in hell? How will that redeem his soul? If he is truly evil, and cannot be redeemed, would it not make more sense to destroy his soul completely?
 

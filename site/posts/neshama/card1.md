@@ -60,6 +60,7 @@ modified: 2022-09-14T15:56:13.090Z
     1. [Sexual](#sexual)
     2. [Quantum Flirt](#quantum-flirt)
     3. [Stasis](#stasis)
+    4. [Body Shape](#body-shape)
 
 {% endblock %}
 
@@ -493,4 +494,13 @@ However, if it is "alive", there is a more active interchange &ndash; which coul
 As a result of this it requires a specific and ongoing energy input. In order to survive, the form needs nourishment from the surroundings. Thus to be alive has an inherently destructive aspect that is seldom taken into account as an important aspect of the full energy interaction.
 
 Thus it is inevitable, in a purely commercial situation, that eventually anything alive would become a liabiltiy. Anything that wished to live an autonomous existence would be looked at as useless. That is why there is the continuous destruction of the ancient, of the environment, and now of people themselves.
+
+### Body Shape
+
+![We all occupy the same "space".](/posts/img/neshama/body.png)
+
+A look into some simple spacial features of humans as compared to animals. It was an exploration which started from the first diagram on the left. Then I thought to simplify it even more, and so these latter two emerged, showing clearly two things. The first is the obvious horizontal versus upright nature of the two. The second is their amazing similarity. The third, and to me, intriguing, is the obvious difference between the space occupied by the animal that shifted to become the space used by our arms, which are extremely dextrous, and one could say 3d, as opposed to the far more resticted spacial features of the legs. Both cannot bend backwards - we need to walk into the future, and do the work that is in front of us, where we can keep an eye on what we are doing, rather than behind us, where we hide our things.
+
+As the sages say: "Only the fool trips on what is behind him".
+
 {% endblock %}

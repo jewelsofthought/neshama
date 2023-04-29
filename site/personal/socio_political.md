@@ -4,18 +4,19 @@ description: Some socio-political thoughts
 tags:
   - story
 date: 2001-02-08T00:19:23.458Z
-modified: 2022-02-08T00:19:23.458Z
+modified: 2023-04-20T00:19:23.458Z
+stars: "***"
 ---
 
 ## 1. Sabbath
 
-I became aware of the fact the Muslims celebrate their Sabbath on a Friday, the Jews on a Saturday and the Christians on a Sunday. This is a manifestation of the separation that exists between these three great religions–for they cannot even pray together. I would wish for them all to celebrate their Sabbath on the same day, but being realistic about the chances of them all three agreeing to one of the days, I propose instead to have three days of prayer, to include them all. Those who wish to participate could either go—hopefully they will be invited and welcome—to a mosque on the Friday, a Synagogue on the Saturday and a church on the Sunday or they can just celebrate in a temple of their own for all three days. The idea is for us all to pray together. I could even propose a fourth day, a day of dancing and singing and being together as people, in love and faith – a day to let off steam.
+I became aware of the fact the Muslims celebrate their Sabbath on a Friday, the Jews on a Saturday and the Christians on a Sunday. This is a manifestation of the separation that exists between these three great religions–for they cannot even pray together. I would wish for them all to celebrate their Sabbath on the same day, but being realistic about the chances of them all three agreeing to one of the days, I propose instead to have three days of prayer, to include them all. Those who wish to participate could either go—hopefully they will be invited and welcome—to a mosque on the Friday, a synagogue on the Saturday and a church on the Sunday or they can just celebrate in a temple of their own for all three days. The idea is for us all to pray together. I could even propose a fourth day, a day of dancing and singing and being together as people, in love and faith – a day to let off steam.
 
 For the killing must stop. Whatever we are or are not doing, we have to stop killing one another. We will never convince the military-industrial machine to stop making guns; so we have to stop using them, stop believing that they will solve any problems. If one man has a gun and your answer to that is to obtain a gun yourself, you have just doubled the potential for violence.
 
 ## 2. Poverty
 
-Two stories I read on the way back from Virginia, after writing this test for my security professional certification, both from the Sun magazine. The one is about someone who works for a charity and is being hosted by a family in Albania, where he is helping the charity to distribute food and gifts. The mother, Vera, living in the poverty of the place, and needing help, for she has a large lump behind her ear, plies him with gifts (once again the strange affluence of poverty – where the impoverished give gifts with such ease, and the wealthy, being hosted by her – have no presents or gifts. In the end he leaves, feeling guilty, remembering all the people he has left in similar situations all over the world. And ends up with:
+Two stories I read on the way back from Virginia, after writing this test for my security professional certification, both from the Sun magazine. The one is about someone who works for a charity and is being hosted by a family in Albania, where he is helping the charity to distribute food and gifts. The mother, Vera, living in the poverty of the place, and needing help, for she has a large lump behind her ear, plies him with gifts (once again the strange affluence of poverty – where the impoverished give gifts with such ease, and the wealthy, being hosted by her, have no presents or gifts. In the end he leaves, feeling guilty, remembering all the people he has left in similar situations all over the world. And ends up with:
 
 <blockquote>
 “But the cost of my escape is great. While avoiding brutal truth and gruelling need, I also miss out on the possibility of a profound happiness that’s available only if everyone shares in it. Maybe I could still find that happiness if I give myself to others in a way I have never before. I want to live differently. I want to live so I can see, so I can look into the eyes of the beggar crumpled on the street in New Delhi or Cape Town. And so Vera can look into mine.”
@@ -34,15 +35,15 @@ I know there is an answer to this question. It is the basic message of a lot of 
 Continuing on to the second article. It talks of Forgiveness. And says something very true
 
 <blockquote>
-“Perhaps the most fundamental law of the universe is that everything that exists seeks to perpetuate itself. An organism survives by defending itself and eating other things and producing offspring—not all organisms! So, too, do good and evil seek to perpetuate themselves? In the moral dimension, this is known as the law of karma, which stipulates that good begets good and evil, evil. Since none of us is perfect, this law says, we can expect to have to settle our accounts sooner or later. Even if our wrongs amount to no more than petty slanders and the spite of day-to-day life, the tally can still end up quite large. And there is no escaping it.
+“Perhaps the most fundamental law of the universe is that everything that exists seeks to perpetuate itself. An organism survives by defending itself and eating other things and producing offspring—not all organisms! So, too, do good and evil seek to perpetuate themselves. In the moral dimension, this is known as the law of karma, which stipulates that good begets good and evil, evil. Since none of us is perfect, this law says, we can expect to have to settle our accounts sooner or later. Even if our wrongs amount to no more than petty slanders and the spite of day-to-day life, the tally can still end up quite large. And there is no escaping it.
 
-Nevertheless, Christianity does offer a way out of the inexorable chain of Karma. **It&mdash;the Doctrine of Forgiveness&mdash;accounted as the unique contribution of Jesus Christ to the spiritual life of humanity,** since no teacher before him seems to have given this idea much attention. It is expressed most succinctly by a line of the Lord’s Prayer: _“Forgive us our transgressions as we forgive those that transgress against us”_. (Matthew 6:12).
+Nevertheless, Christianity does offer a way out of the inexorable chain of Karma. It&mdash;the Doctrine of **Forgiveness**&mdash;accounted as the unique contribution of Jesus Christ to the spiritual life of humanity, since no teacher before him seems to have given this idea much attention. It is expressed most succinctly by a line of the Lord’s Prayer: _“Forgive us our transgressions as we forgive those that transgress against us”_. (Matthew 6:12).
 
 </blockquote>
 
 While this is usually taken as merely high-minded sentiment, closer examination reveals how it can turn the law of Karma upon its head. We sow as we reap; thus if we forgive, we are entitled to forgiveness in turn.
 
-Forgiveness offers an escape from the monstrous quid pro quo that is the essence of the world. Forgiveness is a steadfast refusal to see wrongs, or, if they are seen, to remember them. Forgiveness is the ultimate act of generosity, since it gives without keeping count, and it is the ultimate act of freedom, since it liberates those who practice it from bondage to past hurts or losses: by refusing to care about any supposed damage, we proclaim our immunity to it.
+Forgiveness offers an escape from the monstrous q_uid pro quo_ that is the essence of the world. Forgiveness is a steadfast refusal to see wrongs, or, if they are seen, to remember them. Forgiveness is the ultimate act of generosity, since it gives without keeping count, and it is the ultimate act of freedom, since it liberates those who practice it from bondage to past hurts or losses: by refusing to care about any supposed damage, we proclaim our immunity to it.
 
 Just some morning thoughts.
 
@@ -78,11 +79,12 @@ That answer lies in part of human chromosome 15, and depends on what is known as
 The T variant does not, however, increase the likelihood that someone will take up smoking in the first place. That is either a matter of free will or, if it is genetic, is controlled by genes somewhere else.
 
 It all looks neat and simple and extremely plausible. Genes promote smoking; smoking promotes cancer. However, it might be wrong. For another paper in Nature, and a third in its sister journal Nature Genetics, report similar studies that have drawn rather different conclusions.
+
 They have concluded that genetic variation there acts directly on a person's susceptibility to lung cancer, rather than acting indirectly by modifying his smoking behaviour. That genetic variants in the nicotine-receptor-rich part of chromosome 15 are changing not smokers' behaviour, but their susceptibility to cancer.
 
 What is not in doubt, however, is that there is some sort of a link between genetics and lung cancer.
 
-What is fascinating for me here, is that it starts with the “What causes cancer? Genes” – which should be rendered as “What causes cancer? Genes?” – and ends with the definitive statement that what is NOT in doubt is “some sort of link” between genetics and lung cancer. So, there is doubt about the previous statement, but there is doubt as to the concluding one as well for – there is “some sort of link” – is not a very definite or scientific conclusion at all!
+What is fascinating for me here, is that it starts with the “What causes cancer? Genes” – which should be rendered as “What causes cancer? Genes?” – and ends with the definitive statement that what is NOT in doubt is “some sort of link” between genetics and lung cancer. So, there is doubt about the previous statement, but there is also doubt as to the concluding one as well for – there is “some sort of link” – is not a very definite or scientific conclusion at all!
 
 It is all very subtle. Intimating that genes are responsible for our behaviour, not us. It falls into the same category as genes being responsible for our diseases, not our behaviour, or our lifestyle.
 

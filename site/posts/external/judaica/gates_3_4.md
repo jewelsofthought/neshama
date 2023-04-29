@@ -33,39 +33,43 @@ modified: 2022-06-27T08:50:46.274Z
 Man's folly subverts his ways.
 
 _ADoNaY_ - 1st name, closest to those who have been created
-_YHWY_ - essence of our Blessed Creator and everything subordinate to it.
-_ADoNaY_
+**YHWY** (pronounced _ADoNaY_) - essence of our Blessed Creator and everything subordinate to it.
 
-![4 degrees](/site/posts/img/judaica/4_degrees.svg)
-
-<figure style="float: left">
-  <img src="/posts/img/judaica/4_degrees.svg" alt="4 divisions of Shekhina" width="100%" />
+<div class="columns">
+<div class="column" style="max-width: 300px">
+<figure>
+  <img src="/posts/img/judaica/4_degrees.svg" alt="4 divisions of Shekhina" width="258" height="181" />
   <figcaption>The four divisions of Shekhina</figcaption>
 </figure>
+</div>
+<div class="column">
 
 - key to entrance at 1st gate
 - lowest level of G-ds names
 - Foundation of unity
   - after which comes the other world, the world outside of Divine Hierarchy!
-  - lowest level of Divine Oneness
+- lowest level of Divine Oneness
+
+</div>
+</div>
 
 Rivers (Gen. 2:10) - 4 divisions of the _Shechina_ subordinate to _ADoNaY_.
 
-YHWH
+**YHWH**
 
-- sustains all through the power of YHWH within.
-- **all who wish to enter and cleave to YHWH, must enter and leave by the word of ADoNaY**
-- YHWH always pronounced ADoNaY in Torah!
+- sustains all through the power of **YHWH** within.
+- <mark>all who wish to enter and cleave to **YHWH**, must enter and leave by the word of _ADoNaY_</mark>
+- **YHWH** always pronounced _ADoNaY_ in Torah!
 
-ADoNaY
+_ADoNaY_
 
 - storehouse of the treasures of G-d
-- survive where YHWH dwells
-- anyone seeking YHWH will find Him in the Name ADoNaY
+- survive where **YHWH** dwells
+- anyone seeking **YHWH** will find Him in the Name _ADoNaY_
 
-YHWH
+**YHWH**
 
-- 54 quadrilateral names $$ \rightarrow $$ 216 letters $$ \rightarrow $$ Ex. 14:19-21 $$ \rightarrow $$ 72 combinations of YHWH
+- 54 quadrilateral names $$ \rightarrow $$ 216 letters $$ \rightarrow $$ 72 combinations of **YHWH** (Ex. 14:19-21)
 - everything created included in these 54 names
 
 ![Adonai](/posts/img/judaica/adon.svg)

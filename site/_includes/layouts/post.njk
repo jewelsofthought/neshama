@@ -76,7 +76,8 @@ templateClass: tmpl-post
     <div class="main-content">
       {{ content | latex | safe }}
     </div>
-     
+
+    
     {%- if collections.posts %}
       {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
       {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
@@ -93,6 +94,7 @@ templateClass: tmpl-post
         {%- set pTitle = previousPost.data.title %}
       {%- endif %}
   
+    <br clear="all" />
     <hr>
     <ul>
       {%- if nURL %}<li>Next: <a href="{{ nURL | url }}">{{ nTitle }}</a></li>{% endif %}

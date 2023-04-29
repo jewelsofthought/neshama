@@ -6,42 +6,98 @@ date: 2021-03-26T08:09:57.912Z
 ---
 
 1. [Sin of the Golden Calf (n9\_1)](#sin-of-the-golden-calf-n9_1)
-2. [Speak to them (n9\_3)](#speak-to-them-n9_3)
-3. [Heavenly Fire](#heavenly-fire)
+2. [Heavenly Fire](#heavenly-fire)
    1. [Light the fire (n9\_10)](#light-the-fire-n9_10)
    2. [A fire went forth (n9\_24)](#a-fire-went-forth-n9_24)
-   3. [Fell on their faces (n9\_24)](#fell-on-their-faces-n9_24)
-   4. [Sacrifice of the sons (n10\_1)](#sacrifice-of-the-sons-n10_1)
-   5. [Heavenly Fire](#heavenly-fire-1)
-   6. [Adding love to love](#adding-love-to-love)
-4. [Legal Judgement (n10\_11)](#legal-judgement-n10_11)
-5. [Holy moment (n10\_12-20)](#holy-moment-n10_12-20)
-6. [Inquire (n10:16)](#inquire-n1016)
-7. [Laws of Kashrut](#laws-of-kashrut)
-8. [Contamination or Uncleanliness](#contamination-or-uncleanliness)
-9. [Principle of uncleanliness](#principle-of-uncleanliness)
-10. [Basic rules of contamination (n11\_39-40)](#basic-rules-of-contamination-n11_39-40)
-11. [Lest you become contaminated (n11\_43)](#lest-you-become-contaminated-n11_43)
-12. [Discernment](#discernment)
-13. [Personal Reflections](#personal-reflections)
-14. [The way of heaven](#the-way-of-heaven)
+      1. [Fell on their faces (n9\_24)](#fell-on-their-faces-n9_24)
+   3. [Sacrifice of the sons (n10\_1)](#sacrifice-of-the-sons-n10_1)
+   4. [Heavenly Fire](#heavenly-fire-1)
+   5. [Adding love to love](#adding-love-to-love)
+3. [Legal Judgement - to teach (n10\_11)](#legal-judgement---to-teach-n10_11)
+4. [Holy moment (n10\_12-20)](#holy-moment-n10_12-20)
+5. [Inquire (n10:16)](#inquire-n1016)
+6. [Laws of Kashrut](#laws-of-kashrut)
+7. [Contamination or Uncleanliness](#contamination-or-uncleanliness)
+8. [Principle of uncleanliness](#principle-of-uncleanliness)
+9. [Basic rules of contamination (n11\_39-40)](#basic-rules-of-contamination-n11_39-40)
+10. [Lest you become contaminated (n11\_43)](#lest-you-become-contaminated-n11_43)
+11. [Discernment](#discernment)
+12. [Personal Reflections](#personal-reflections)
+13. [The way of heaven](#the-way-of-heaven)
 
 ## Sin of the Golden Calf (n9_1)
 
+<blockquote>
+
+ב. וַיֹּ֣אמֶר אֶל־אַֽהֲרֹ֗ן קַח־לְ֠ךָ֠ עֵ֣גֶל בֶּן־בָּקָ֧ר לְחַטָּ֛את וְאַ֥יִל לְעֹלָ֖ה תְּמִימִ֑ם וְהַקְרֵ֖ב לִפְנֵ֥י יְהֹוָֽה:{dir="rtl"}
+
+2. And he said to Aaron, "Take for yourself a bull calf as a sin offering, and a ram as a burnt offering, [both] unblemished, and bring [them] near before the Lord.
+
+</blockquote>
+
+<div  width="230">
+<figure style='float: right'>
+  <img src='/posts/img/parashot/Worshiping_the_golden_calf.jpg' alt='Worshiping the Golden Calf' width='220' height='250' title="Illustration from a Bible card published 1901 by the Providence Lithograph Company" />
+ <figcaption>Worshiping the golden calf, <br /><a href="https://biblia.com/bible/esv/Exod%2032.1-35" target="_blank">Exodus 32:1-35</a>.</figcaption>
+</figure>
+</div>
+
 The first sacrifice that Aharon performed was to atone for the sin of the golden calf. This was a human sin. It represented the essential way in which we sin. Not only in losing faith in G-d, blessed be His Name, but also turning towards another, man-made G-d, made, significantly, of gold itself.
 
-## Speak to them (n9_3)
+<div class="note">
 
-<blockquote dir="rtl">
-תדבר
+The sacrifice is of a calf and a ram (unblemished). How would this be translated into today's terms? The only line I can find, is that this represents the beastly in our selves that we have to sacrifice for the "sin of the golden calf". What does a bull-calf and a ram signify? What is the meaning the "sin of the golden calf"?
+
+<figure style='float: left'>
+    <img src="/posts/img/parashot/Jeroboam_Idolatry_150x170.jpg" alt="Jeroboam&#39;s Idolatry" width='150' height='170' title="illustration from a Bible card published 1904 by the Providence Lithograph Company" />
+ </a>
+ <figcaption>Jeroboam’s idolatry,<br /> <a href="https://biblia.com/bible/esv/1%20Kings%2012.25-33" data-reference="1 Kings 12.25-33" data-version="esv" data-purpose="bible-reference" target="_blank" rel="noopener">1 Kings 12:25-33</a>,</figcaption>
+</figure>
+
+The sacrifice is of a calf and a ram (unblemished). How would this be translated into today's terms? The only line I can find, is that this represents the beastly in our selves that we have to sacrifice for the "sin of the golden calf". What does a bull-calf and a ram signify? What is the meaning the "sin of the golden calf"?
+
+[Ram in Dreams](https://worldbirds.com/ram-symbolism)
+
+Since the ram is a masculine symbol associated with strength and power, dreaming about this fantastic animal might indicate stubbornness or a desire for dominance or control.
+
+Associated with fertility, the ram spotted in your dreams could represent the sexual drive and the natural urges that lie within every person.
+
+</div>
+<br clear="all">
+
+[Calf](https://blog.israelbiblicalstudies.com/holy-land-studies/the-real-meaning-of-the-golden-calf/)
+
+But what about the word for calf in the original Hebrew? The word egel (עגל) comes from the Hebrew root which means “to roll”, “circular” or “round”. What is the connection between the calf and the verb to roll? Presumably, the calf is known as a “rounder” because his grazing caused him to walk in circles. The word for a grazing path is a _maagal_, which literally means a circuit. Interesting that in the two stories of golden calves seen above, the calf was regarded by its creator as a beneficial link, something completing the wide circuit which divides the human and divine spheres.
+
+<blockquote>
+
+ו. וַיֹּ֣אמֶר משֶׁ֔ה זֶ֧ה הַדָּבָ֛ר אֲשֶׁר־צִוָּ֥ה יְהֹוָ֖ה תַּֽעֲשׂ֑וּ וְיֵרָ֥א אֲלֵיכֶ֖ם כְּב֥וֹד יְהֹוָֽה:{dir="rtl"}
+
+6. And Moses said, "This is the thing the Lord has commanded; do [it], and the glory of the Lord will appear to you."
+
 </blockquote>
+
+<div class="note">
+
+To sacrifice the specified animals, and the "glory of the Lord will appear to you". We no longer sacrifice these animals, and we have to find other ways to see the "glory".{.note}
+
+There is also a specific protocol to the sacrifice. "The blood is dashed on the altar, the fat is burnt, and the breasts and right thigh are waved.
+
+This specific waving of items (especially such ones) is a mystery. ["הֵנִ֧יף תְּנוּפָ֖ה"]{dir="rtl" style="font-size: inherit"} means to make a movement. What movement was it specifically, and why did we need to "wave" these bloody pieces of the meat in the air to glorify G-d?
+
+In other translations, [הַתְּנוּפָ֜ה]{dir="rtl"} is called an "elevation offering" and [הַתְּרוּמָ֗ה]{dir="rtl"} a "gift offering", which makes more sense then the "waving" that Chabad use.
+</div>
 
 ## Heavenly Fire
 
 ### Light the fire (n9_10)
 
-<blockquote dir="rtl">
-הקטיר
+<blockquote>
+
+י. וְאֶת־הַחֵ֨לֶב וְאֶת־הַכְּלָיֹ֜ת וְאֶת־הַיֹּתֶ֤רֶת מִן־הַכָּבֵד֙ מִן־הַ֣חַטָּ֔את הִקְטִ֖יר הַמִּזְבֵּ֑חָה כַּֽאֲשֶׁ֛ר צִוָּ֥ה יְהֹוָ֖ה אֶת־משֶֽׁה:{dir="rtl"}
+
+10. And the fat, the kidneys, and the diaphragm with the liver from the sin offering, he caused to [go up in] smoke on the altar, as the Lord had commanded Moses.
+
 </blockquote>
 
 There was no permanent fire lit (v24) until the _heavenly fire_ came down.
@@ -49,13 +105,14 @@ There was no permanent fire lit (v24) until the _heavenly fire_ came down.
 ### A fire went forth (n9_24)
 
 <blockquote>
-<p dir='rtl'>
- ו. תצה השׁ מלפני ה’
-</p>
-  <p  style="text-align: right">
-A fire went forth from before HaShem... It came down like a pillar
-  </p>
+
+כ. דוַתֵּ֤צֵא אֵשׁ֙ מִלִּפְנֵ֣י יְהֹוָ֔ה וַתֹּ֨אכַל֙ עַל־הַמִּזְבֵּ֔חַ אֶת־הָֽעֹלָ֖ה וְאֶת־הַֽחֲלָבִ֑ים וַיַּ֤רְא כָּל־הָעָם֙ וַיָּרֹ֔נּוּ וַיִּפְּל֖וּ עַל־פְּנֵיהֶֽם:{dir="rtl"}
+
+24. And fire went forth from before the Lord and consumed the burnt offering and the fats upon the altar, and all the people saw, sang praises, and fell upon their faces.
+
 </blockquote>
+
+A fire went forth from before HaShem... It came down like a pillar
 
 <div class="note">
 
@@ -65,14 +122,10 @@ Perhaps this _heavenly fire_ is different to the fire that we know? We focus on 
 
 Focusing on the _heavenly_ aspect of the _fire_, I ask similar questions.
 
-Perhaps part of the training of the _Kohan Ha'Gadol_ is to teach him how to know when the _heavenly fire_ has descended, for it is not a fire that flames and burns. This is also hinted at in the manner in which Nadav and Abihu died, with their clothes intact. See below [n10:1](#sacrifice-of-the-sons-n101)
+Perhaps part of the training of the _Kohan Ha'Gadol_ is to teach him how to know when the _heavenly fire_ has descended, for it is not a fire that flames and burns. This is also hinted at in the manner in which Nadav and Abihu died, with their clothes intact. See below [n10:1](#heavenly-fire-1) and [in depth](../Shemini_depth/index.html#the-fire-consumed-them).
 </div>
 
-### Fell on their faces (n9_24)
-
-<blockquote dir="rtl">
-ויִפלוּ על־פניהם
-</blockquote>
+#### Fell on their faces (n9_24)
 
 The entire nation fitted into the tine 50-cubit square area in of the _Mishkan_. Upon falling to their hand and knees, everyone had 4 cubits of space around themselves. At that moment the Spirit of Holiness descended upon them, and they sang out in praise.
 
@@ -90,7 +143,23 @@ How could you tell whether it is authentic or not?
 
 ### Sacrifice of the sons (n10_1)
 
-> Death of Nadav <span dir="rtl">נדב</span> and Abihu <span dir="rtl">אביהו</span>.
+> Death of Nadav [נדב]{dir="rtl} and Abihu [אביהו]{dir="rtl"}.
+
+<blockquote>
+
+א. וַיִּקְח֣וּ בְנֵי־אַֽ֠הֲרֹ֠ן נָדָ֨ב וַֽאֲבִיה֜וּא אִ֣ישׁ מַחְתָּת֗וֹ וַיִּתְּנ֤וּ בָהֵן֙ אֵ֔שׁ וַיָּשִׂ֥ימוּ עָלֶ֖יהָ קְטֹ֑רֶת וַיַּקְרִ֜יבוּ לִפְנֵ֤י יְהֹוָה֙ אֵ֣שׁ זָרָ֔ה אֲשֶׁ֧ר לֹ֦א צִוָּ֖ה אֹתָֽם:{dir="rtl"}
+
+ב. וַתֵּ֥צֵא אֵ֛שׁ מִלִּפְנֵ֥י יְהֹוָ֖ה וַתֹּ֣אכַל אוֹתָ֑ם וַיָּמֻ֖תוּ לִפְנֵ֥י יְהֹוָֽה:{dir="rtl"}
+
+ג. וַיֹּ֨אמֶר משֶׁ֜ה אֶל־אַֽהֲרֹ֗ן ה֩וּא אֲשֶׁר־דִּבֶּ֨ר יְהֹוָ֤ה | לֵאמֹר֙ בִּקְרֹבַ֣י אֶקָּדֵ֔שׁ וְעַל־פְּנֵ֥י כָל־הָעָ֖ם אֶכָּבֵ֑ד וַיִּדֹּ֖ם אַֽהֲרֹֽן:{dir="rtl"}
+
+1. And Aaron's sons, Nadab and Abihu, each took his pan, put fire in them, and placed incense upon it, and they brought before the Lord foreign fire, which He had not commanded them.
+
+2. And fire went forth from before the Lord and consumed them, and they died before the Lord.
+
+1. Then Moses said to Aaron, "This is what the Lord spoke, [when He said], 'I will be sanctified through those near to Me, and before all the people I will be glorified.' " And Aaron was silent.
+
+</blockquote>
 
 The concept of child sacrifice has still not completely died.{.note}
 
@@ -100,15 +169,21 @@ NOTE: How was the training to learn all the intricacies of priesthood? This is t
 
 ### Heavenly Fire
 
+<blockquote>
+
+ה. וַיִּקְרְב֗וּ וַיִּשָּׂאֻם֙ בְּכֻתֳּנֹתָ֔ם אֶל־מִח֖וּץ לַמַּֽחֲנֶ֑ה כַּֽאֲשֶׁ֖ר דִּבֶּ֥ר משֶֽׁה:{dir="rtl"}
+
+1. So they approached and carried them with/by their tunics to the outside of the camp, as Moses had spoken.
+
+</blockquote>
+
 Could it be the same heavenly fire that killed them?{.note}
 
-It says about (10:5) <span dir="rtl">בכותנותם</span> - by their tunics: The were moved by the sons of Aaron's uncle, Uziel, by grabbing hold of their tunics. So, although they died from the fire, their clothes were still intact. Thus, according to n10:5, the fire burned their souls.
+It says about (10:5) [בכותנותם]{dir="rtl"}, "by their tunics". The were moved by the sons of Aaron's uncle, Uziel, by grabbing hold of their tunics. So, although they died from the fire, their clothes were still intact. Thus, according to n10:5, the fire burned their souls.
 
 NOTE: The first firewalk I ever did, the facilitator said, I suppose in order to calm our anxiety, that we must remember that fire can only burn the material. So, would not Divine Fire be that fire that sears our soul?{.note}
 
 ### Adding love to love
-
->
 
 <details>
 <summary class='button is-outlined'>
@@ -123,25 +198,30 @@ NOTE: The first firewalk I ever did, the facilitator said, I suppose in order to
 </p>
 </details>
 
-## Legal Judgement (n10_11)
+---
+
+## Legal Judgement - to teach (n10_11)
 
 <blockquote>
-<p>
-<span dir="rtl"></span>להורות - to teach
-</p>
+
+וְחֻקַּ֥ת עוֹלָ֖ם לְדֹרֹֽתֵיכֶֽם:
+יוּֽלֲהַבְדִּ֔יל בֵּ֥ין הַקֹּ֖דֶשׁ וּבֵ֣ין הַחֹ֑ל וּבֵ֥ין הַטָּמֵ֖א וּבֵ֥ין הַטָּהֽוֹר:{dir="rtl"}
+
+[This is] an eternal statute for your generations, to distinguish between holy and profane and between unclean and clean, and to instruct the children of Israel regarding all the statutes which the Lord has spoken to them through Moses.
+
 </blockquote>
 
 A legal judgement should be a teaching otherwise it just perpetuates human law, which is the law of control. Thus to render a legal judgement requires a clear mind, otherwise it is forbidden to render such a judgement which is tantamount to teaching Torah.
 
 ## Holy moment (n10_12-20)
 
-From the discussion regarding the offerings, in response to Aaron and his remaining sons, Elazar and Ithamar, not eating the sin-offering, emerges the concept of <span dir="rtl">קִדְשׁי שׁעה וקדשׁי דורות</span>&mdash;the concept of offerings that were brought for a specific occasion and were never to be repeated versus offerings that were part of the regular service, and would be brought in future as well.
+From the discussion regarding the offerings, in response to Aaron and his remaining sons, Elazar and Ithamar, not eating the sin-offering, emerges the concept of [קִדְשׁי שׁעה וקדשׁי דורות]{dir="rtl"}&mdash;the concept of offerings that were brought for a specific occasion and were never to be repeated versus offerings that were part of the regular service, and would be brought in future as well.
 
 NOTE: I suppose one could place sin in the same two categories as well. The sin you sinned once and only once versus the sin that you repeat.{.note}
 
 ## Inquire (n10:16)
 
-> דָרושׁ דָרַשׁ - never stop inquiring
+> [דָרושׁ דָרַשׁ]{dir="rtl"}&mdash;_never stop inquiring_
 
 These two words are the exact halfway mark of the Torah. This teaches us that "the entire Torah revolves around constant inquiry; one must never stop studying and seeking an ever deeper and broader understanding of the Torah" (_Degel Machaneh Ephriam_)
 
@@ -149,6 +229,7 @@ These two words are the exact halfway mark of the Torah. This teaches us that "t
 
 > n11: By observing these laws the Jew...
 
+<div class="note">
 I believe this to be more generally applicable. The stance taken here is that a Jew is an entity. For instance, if your mother is Jewish, then you are a Jew. However, in the present context, a Jew is defined by certain fundamental beliefs, attitudes and actions. Here, for example, is one of the fundamentals of what a Jew is: One who practices the Laws of Kashrut.
 
 If I extract a principle, it is that there are certain foods that are spiritual uplifting and those that are not, amongst which would be some that are actually spiritually damaging. Just as there are regarding ones physical health. In a time when all food came from the earth, it was about which of them are good and which not. Nowadays, the fundamentals have shifted far beyond this point. One of the fundamentals has to food that comes from G-d, not from man. Thus any food that is not grown in the way G-d intended, is obviously not Kosher, in that it cannot be spiritually uplifting, if man's spirit has become more prevalent in the food than G-d's. Thus meat that comes from a cow that never lived as a cow would live naturally, has never had an experience of grazing, or eating grass from the pasture, and needs to be constanly imbibed with chemicals to keep it alive, can never be kosher. Tomatoes that have fish genes in them, or any other of the abominations that the scientists are cooking up for their masters, cannot be kosher. One could say that another dimension, another factor, has entered into the kosher equations.
@@ -158,6 +239,7 @@ My point is here, that firstly we have to apply the rules of Kashrut, not like l
 Kashrut is part of the preparation of the food. But the food itself has to be untainted, else no matter how "kosher" it is, it is already _tumah_ (tainted).
 
 My specific response to this note, is that it needs to generalised. Anyone who understands and applies the principles of _Kashrut_ in their lives, will be able to a higher spiritual plane - perhaps necessary, but not sufficient.
+</div>
 
 Here is my more general version of n11.
 
@@ -170,7 +252,15 @@ Here is my more general version of n11.
 
 ## Contamination or Uncleanliness
 
-> n11:4] טוּמאה - refers to the spiritual contamination that can be conveyed to people or things. In the context of _kashrut_ it refers primarily to forbidden foods.
+<blockquote>
+
+ד. אַ֤ךְ אֶת־זֶה֙ לֹ֣א תֹֽאכְל֔וּ מִמַּֽעֲלֵי֙ הַגֵּרָ֔ה וּמִמַּפְרִסֵ֖י הַפַּרְסָ֑ה אֶת־הַ֠גָּמָ֠ל כִּי־מַֽעֲלֵ֨ה גֵרָ֜ה ה֗וּא וּפַרְסָה֙ אֵינֶ֣נּוּ מַפְרִ֔יס טָמֵ֥א ה֖וּא לָכֶֽם:{dir="rtl"}
+
+1. But these you shall not eat among those that bring up the cud and those that have a cloven hoof: the camel, because it brings up its cud, but does not have a [completely] cloven hoof; it is unclean for you.
+
+</blockquote>
+
+n11:4] [טוּמאה]{dir="rtl"}&mdash;refers to the spiritual contamination that can be conveyed to people or things. In the context of _kashrut_ it refers primarily to forbidden foods.
 
 Thus an "unclean" animal is not contaminated, it is _tamei_ however, in that it is forbidden as food. It is through the eating of "unclean" food that we become contaminated.
 
@@ -212,7 +302,7 @@ The classic example of this is what is called Orly Whip. It is a completely synt
 
 Another example is the meat that we are eating. The bull is killed ritually as required; the meat is inspected and prepared as required. It is untainted, and thus kosher. However, the animal has been kept in a small cage all its life, and fed many pharmaceuticals to maintain its health. It has never grazed, or if it has, that has been restricted. It was raised in unhealthy&mdash;what one might call not kosher&mdash;conditions. Should this not be taken into account.
 
-Actually, I think we missed a wonderful opportunity here to shine, and show the world the real value of the laws of _Kashrut_. Instead, for years now, there has been a battle to properly identify food that is not organic. But, it is a David and Goliath story&mdash;the little guy against mega-corporations. Even Oprah Winfrey was severely reprimanded when she ran a show speaking out against modern meat methods.
+Actually, I think we missed a wonderful opportunity here to shine, and show the world the real value of the laws of _kashrut_. Instead, for years now, there has been a battle to properly identify food that is not organic. But, it is a David and Goliath story&mdash;the little guy against mega-corporations. Even Oprah Winfrey was severely reprimanded when she ran a show speaking out against modern meat methods.
 
 Let me tell you a story. There was once a king who was blessed with a son, who he wanted to be his heir to the kingdom that the king had spent many years creating. So to ensure that his son would be given a proper foundation to his future role, He invited all the wise men of his kingdom to his palace, so that he may choose the wisest amongst them to be his son's tutor. This tutor, having been given this immense task, set about teaching the son, beloved by his king. However, in order to make sure that the untrained mind and body of the son would be ready for the task ahead of him, he was exceedingly strict with the prince. He would be punished if he did not obey the laws that were laid down for him. He was allowed little leniency, having to submit to the most conservative interpretation of these laws.
 
@@ -222,7 +312,7 @@ Thus the boy was assuaged, and applied himself diligently to his practice.
 
 So it is with G-d and Israel, his beloved child. In the beginning, we were young, and needed to have the restrictive laws drummed into our very beings. However, since we have spent 2000 years learning, being tested, and emerging with our essence intact, it is perhaps the time to understand the principles that we need to apply to our present reality.
 
-In this case of _Kashrut_, I propose that the basic principle is contamination of blood and death. It says (n11:24-31), "the only sort of contamination that is forbidden without exception is for a _Kohen_ to become contaminated through contact with a human corpse."
+In this case of _kashrut_, I propose that the basic principle is contamination of blood and death. It says (n11:24-31), "the only sort of contamination that is forbidden without exception is for a _Kohen_ to become contaminated through contact with a human corpse."
 
 There are a couple of points here, for "as a practical matter, contamination is only forbidden for sacred foods or objects... and people who may touch them." So it only the _Kohen_, who has a sacred duty, who becomes contaminated through touching a human corpse.
 
@@ -252,37 +342,49 @@ Can one drink the milk of a non-kosher animal?
 
 ## Lest you become contaminated (n11_43)
 
-> וניטמֵתם בּם - _Lest you become contaminated through them_
+<blockquote>
+
+מג. אַל־תְּשַׁקְּצוּ֙ אֶת־נַפְשֹׁ֣תֵיכֶ֔ם בְּכָל־הַשֶּׁ֖רֶץ הַשֹּׁרֵ֑ץ וְלֹ֤א תִטַּמְּאוּ֙ בָּהֶ֔ם וְנִטְמֵתֶ֖ם בָּֽם:{dir="rtl"}
+
+43. You shall not make yourselves abominable with any creeping creature that creeps, and you shall not defile yourselves with them, that you should become unclean through them.
+
+</blockquote>
+
+<span dir="rtl">וניטמֵתם בּם</span> - _Lest you become contaminated through them_
 
 > If you contaminate yourself by eating forbidden foods in this world, I will render you contaminated in the World to Come and before the Heavenly Court. (_Rashi, Sifra, Yoma_ 39a).
 
 We could even generalise the concept of "food" to nourishment and even "pleasure".
 
-> The _aleph_ is missing from ונטמ[א]תם, and can be rendered _lest you become dulled_.
+> The _aleph_ is missing from [ונטמ[א]תם]{dir="rtl"}, and can be rendered _lest you become dulled_.
 > In the words of the Sages: If a person contaminates himself a little, he becomes contaminated a great deal... Conversely, _you shall sanctify yourselves and you shall become holy_ (v. 44): If a person sanctifies himself a little, he becomes sanctified a great deal.
 > To become holy, a person must sanctify himself "down below", meaning that the road to holiness does not begin with sublime thoughts or the study of lofty ideas. First a person must sanctfiy himself in the "lowly" things, such as his personal behaviour, morality and appetite.
 
 ## Discernment
 
-> 10:10] להבדיל בין הקודשׁ ובין החל ובין טמא ובין טהור
+> 10:10] [להבדיל בין הקודשׁ ובין החל ובין טמא ובין טהור]{dir="rtl"}
 > _To distingues between the holy and the unholy, between clean and contaminated._
 
 > The Torah urges us to make the delicate and difficult distinctions that are essential to carry out G-d's will.
 
-9:23] וירא כבוד־ה’ אל־כל־העם - _the glory of **Hashem** appeared to the entire people_.
-9:24] תצה אשׁ מלפני ה’, ויָרְא כל העם וֻירָֹנוּ ויפלוּ על־פניהם - _A fire went out from before **Hashem**...; the people saw and sang glad song and fell upon their faces._
+9:23] [וירא כבוד־ה’ אל־כל־העם]{dir="rtl"}&mdash;_the glory of **Hashem** appeared to the entire people_.
+9:24] [תצה אשׁ מלפני ה’, ויָרְא כל העם וֻירָֹנוּ  ויפלוּ על־פניהם]{dir="rtl"}&mdash;_A fire went out from before **Hashem**...; the people saw and sang glad song and fell upon their faces._
 
-10:3] בקרבי אקדשׁ ועל־פני כל־העם אכּבד - _I will be sanctified through those who are nearest Me, thus I will be honoured before the entire people._
-10:14] הזה התנוּפה ואת שׁוק התדוּמה
+10:3] [בקרבי אקדשׁ ועל־פני כל־העם אכּבד]{dir="rtl"}&mdash;_I will be sanctified through those who are nearest Me, thus I will be honoured before the entire people._
+10:14] [הזה התנוּפה ואת שׁוק התדוּמה]{dir="rtl"}
 
 ## Personal Reflections
 
+<div class="note">
+
 If we contain a spark of the Divine Energy in us, a spark that vivifies the dust of my body providing me with an experience of life that we call Human being, then this very "spark" will contain with it, the potential to perceive any other living being's behviour/motivation&mdash;even perhaps the possiblity of percieving anything in the the universe. This I say, as it has enabled us to percive certain intangibles in our existence. That is the essence of what we have been grappling with throughout our short history. These include all the elements in our environment that are not included in our social constructs. And if they are then it is only representations of these things that become effects within these social contracts. Things like love, hate, greed, passion, avarice, dishonesty, etc; even things like kindness, loyalty, trust, etc are both the motivators and the destructoros of our social dynamics.
+
 Any system that we fashion will have to take these intangibles into account.
 
 Included in these intangibles are two of the greatest mysteries of our existence. The first is our ability to know of our demise, which is the ability to tell the future. No other animal has that ability, as far as we can tell&mdash;or has not expressed that in any way we can recognise so far. Is it not interesting that one of the spiritual characteristics we most revere is that of the prophet&mdash;which implies one who can know the future.
 
 The second is our ability to conceive of infinity. How can a finite being have any idea of an infinity, which is the very antithesis of its experience. That is why so many people will have difficulty in understanding that concept, the idea that something could be perpetual in the constant cycle of existence and non-existence.
+</div>
 
 ## The way of heaven
 
@@ -293,6 +395,4 @@ On _Shabbat_ we are prohibited from performing any of the activities related to 
 
 That the building and the maintanance of the _mishkan_ all take place and exist in the mundane, all the activities and the elements are sacred. Would it not make sense that in the sacred ceremenonies and energy of thet _Mishkan_ we should beging to seek our pathway through the mundane? Not to use the mundane to build the sacred, but the sacred to build the mundane.
 
-Just as the essence of the _shabbat_ is to make it קדושׁ, sacred by seperating it from the mundance. It is the day to break patterns, rest from the demanding aspects of the mundane. It is the day to practice one's dedication to the "way of heaven", not the way of the earth.
-
-.
+Just as the essence of the _shabbat_ is to make it [קדושׁ]{dir="rtl"}, sacred by seperating it from the mundance. It is the day to break patterns, rest from the demanding aspects of the mundane. It is the day to practice one's dedication to the "way of heaven", not the way of the earth.

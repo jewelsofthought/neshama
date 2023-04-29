@@ -35,3 +35,17 @@ This $1m will enable the project to purchase and fund for about 3 years a seed c
 It will require the participation of 20 people. At least 10 will maintain the community, while 10 will work on creating the network.
 
 Once these individuals have been organised into clusters and are familiar with the protocols and functioning of the ToLNet, having pledged support, either financially, or in barter either of some other needed product or item, or time and energy, to the tune of 10%/mth. which should be between $1 - $100. Anyone who wishes to add more would be welcome to. This is because a certain amount of their energy is still being used in earning money for their upkeep.
+
+## Economy
+
+It may not be bad, but the world economy is shrinking and reconfiguring itself at the same time. How far it will go, how deep will be the changes, only time will tell. But, being prepared for the worst case scenario, anything else will be easy.
+
+## Arms
+
+This raises the uneasy question of arms.
+
+**Arms**: Guns are a tool, but they are killers. To invite a killer into your home needs careful consideration. It also makes a potential killer of you! Remember that.
+
+Thus I say: The underlying principle here is that guns are dangerous, but in the hands of untrained and unqualified people, they are deadly and can easily tip the balance of power, if allowed to spread unchecked.
+
+Those who are trained, and willing to undergo the appropriate discipline, may be allowed to handle guns. However, what these guns will be used for will depend on the motive and goals of those who inspire (and control) these gunmen. They will be even more dangerous if used to further evil or nebulous agendas.

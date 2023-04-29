@@ -28,9 +28,9 @@ The highest form of prayer is gratitude&mdash;for it reflects the knowledge and 
 
 To rail against G-d and His works, to beg or demand that He change, or change the situation, is the gateway to Hell. To ask perfection to fix what I judge to be imperfection or demand that the Unchangeable change is absurd. Is it that just as we expect man to improve and become better, we expect G-d to do that same? How arrogant and short-sighted!
 
-Let me apologise for my judgements, and ask a question. May I?
-
 ## Who/What is G-d?
+
+Let me apologise for my judgements, and ask a question. May I?
 
 My question is: Who or What is this G-d you are (or not) praying to? Perhaps, simply put, the picture is of God in heaven above, where He sees, and hears and knows everything. And if He knows everything, how can He allow evil to exist? That, actually, is one of the basic questions of our existence&mdash;if G-d is perfect, and if He knows everything, and if He is omnipotent, how can he allow evil to exist? YOU have to answer this question yourself&mdash;not parrot some one else's version of the answer, lest you place the care of your soul in another's hands.
 
@@ -40,7 +40,7 @@ This might answer my original question of evil existence, leaving me in the mids
 
 ## All is One
 
-There are a number of ways to relieve yourself from this hell of two parents (God and Satan) fighting constantly. The one I follow is to accept the fact that **G-d is One**.
+There are a number of ways to relieve yourself from this hell of two parents (God and Satan) fighting constantly. The best (and perhaps only) one is to accept the fact that **G-d is One**.
 
 Because this is so difficult in this binary world we live in, filled with the dualities of this reality, we create mantra's, like chants that we repeat to ourselves and to the community regularly. For instance, in my tradition, we recite the _Shema_ at least twice a day, translated loosely as _"Hear, O Israel, the Lord, your G-d is One."_ It is a calling in the the direction that will produce synthesis.
 
@@ -65,4 +65,4 @@ Many of us are driven by a deep desire to find an other with whom we can share a
 
 We cannot solve a problem by dwelling on it. Eventually it (the darkness) will swallow us. Only by reaching for the light inside yourself can you overcome the darkness&mdash;though we are never free of it. For all that we see as objects is through darkness, not light. "He formed the light, and created the darkness." One can only create form in light with darkness!
 
-Similarly, if you obsess over death - if [you are in terror of it](atheist.html) - it is because you do not believe in a greater narrative than your own life.
+Similarly, if you obsess over death - if you are in terror of it - it is because you do not believe in a greater narrative than your own life.

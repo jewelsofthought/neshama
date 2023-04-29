@@ -1,7 +1,7 @@
 ---
 title: Sex for Bliss
 description: What is the purpose of sex?
-tags: null
+tags: [todo]
 stars: '**'
 date: 2008-01-02T12:38:35.115Z
 modified: 2022-05-14T14:27:35.678Z
@@ -28,14 +28,14 @@ An essential shift needs to occur. In order for that to occur, there needs to be
 
 ## Sex
 
-What will be the spiritual purpose of sex, when it is no longer to procreate? Can this need to procreate be fulfilled through love, and our need for love? Procreation was a survival vector, a basic need for survival, as is food. Now it is a vector that if continued will bring us to our knees. What is the new direction?
+What will be the purpose of sex, when it is no longer to procreate? Can this need to procreate be fulfilled through love, and our need for love? Procreation was a survival vector, a basic need for survival, as is food. Now it is a vector that if continued will bring us to our knees, splintering and confusing.
 
-This will splinter and confuse. What is the goal of sex if not to procreate? This potentially amazing, blissful experience, is not, in essence, love. Can it survive and still fuel us, if it just dedicated to pleasure&mdash;the fun fair of life? Which, as we know, especially in the sexual arena, is filled with some very dark energies and desires.
+What is the new direction? This potentially amazing, blissful experience, is not, in essence, love. Can it survive and still fuel us, if it just dedicated to pleasure&mdash;the fun fair of life? Which, as we know, especially in the sexual arena, is filled with some very dark energies and desires.
 
 Paradoxically, it seems in order to experience the bliss, there is also a need to experience the darkness. Perhaps that is what leads us into the temptation! Where the little death actually becomes the dark night of the soul.
 
-Though it could become an entry into a spiritual experience, an "entheogenic" experience as such. But in order to attain that requires discipline and training, and it is much easier just to pop a pill to potentially have a "G-dly" experience. In fact there are certain practices that are dedicated to this, like Tantra, etc. However, for them to be truly spiritual, one has to be steeped in the religious culture that it has emerged from, else it will just cater to ones base, and frivolous, desires.
+Though it could become an entry into a spiritual experience, an "entheogenic" experience as such. But in order to attain that requires discipline and training, and it is much easier just to pop a pill to potentially have a "G-dly" experience. In fact there are certain practices that are dedicated to this, like Tantra, etc. However, for them to be truly spiritual, one has to be steeped in the religious culture that it has emerged from, else it will just cater to one's base, and frivolous, desires.
 
 ## Entheogens
 
-Just as sex is insufficient to attain bliss, so the medicine plant alone will not produce that Divine encounter that is often sought. It is just a trip&mdash;literally&mdash;to another realm. It itself cannot produce what we call an "entheogenic" experience, just as penetrating a women in not sufficient (though necessary) to have a spiritual experience of sex&mdash;which we call "love". The space for having such an experience needs to already have been created, as well as the "recptors" with which to receive said experience.
+Just as sex is insufficient to attain bliss, so the medicine plant alone will not produce that Divine encounter that is often sought. It is just a trip&mdash;literally&mdash;to another realm. It itself cannot produce what we call an "entheogenic" experience, just as penetrating a women in not sufficient, and not even necessary to have a spiritual experience of sex&mdash;which we call "love". The space for having such an experience needs to already have been created, as well as the "receptors" with which to receive said experience.

@@ -3,7 +3,8 @@ title: ANE Jewish Compass
 description: A compass requires a firmament.
 tags: null
 date: 2010-01-01T14:11:23.542Z
-modified: 2022-01-02T04:13:57.641Z
+modified: 2023-04-27
+stars: '***'
 ---
 
 ## Ancient Near-East Compass
@@ -18,22 +19,24 @@ In addition, the baseline of E-W is the equator, whereas there is an arbitrary b
 
 Notice (fig 2) that there is no up nor down in this interpretation. The up and down motion, the axis mundi, is tantamount to entering another dimension. {Live in essentially a 2d world, as we have been surface bound for many generation. It is only in the last century that we have begun to truly experience 3d en-masse.}
 
-{I use N-S because it places N above S in the culture that represents this. Whereas I use W-E, because that is the direction of forward movement. When moving along the E-W line, one's forward movement is in the same direction as the earth. What a boost!
+I use N-S because it places N above S in the culture that represents this. Whereas I use W-E, because that is the direction of forward movement. When moving along the E-W line, one's forward movement is in the same direction as the earth. What a boost!{.note}
 
-The S-N line has no up or down orientation, except for the fact that it arose as a baseline from the North, and so the cultural tendency is to refer to the north as up. However, the experience of North/South is different in the northern hemisphere to that in the Southern. Cold is south in the south, but north in the north. Sunnier and hotter is towards the north in the south, and the south in the north. Thus, even though the north south lines remain constant, the environment changes according to location.
+The S-N line has no up or down orientation, except for the fact that it arose as a baseline from the North, and so the cultural tendency is to refer to the north as up. However, the experience of North/South is different in the northern hemisphere to that in the southern. Cold is south in the south, but north in the north. Sunnier and hotter is towards the north in the south, and the south in the north. Thus, even though the north-south lines remain constant, the environment changes according to location.
 
-In fact the Jewish calendar was based on quite a local environment, with the desert being in the south, and the cold being in the north. Some say it is even based on the setting of the mishkan.
+In fact the Jewish calendar was based on quite a local environment, with the desert being in the south, and the cold being in the north. Some say it is even based on the setting of the , the Ark.
 
-The E-W compass is also easily represented as a circle, which has no up or down. Only once it is placed on a rectangular grid, can one begin to make such distinctions, which is, in main, just a negative (diminishing) or a postive (increasing).
+The East-West compass is also easily represented as a circle, which has no up or down. Only once it is placed on a rectangular grid, can one begin to make such distinctions, which is, in main, just a negative (diminishing) or a postive (increasing).
 
-In a spiritual sense, there is no different between the East wherever you may be, however, one can have a different sense of place on the north south line, wherever one may be. Perhaps the spiritual, not the empirical, meaning of the direction changes according to place. {This bolsters the idea that there might be other temples that need to be built. In fact, many.
+In a spiritual sense, there is no different between the east wherever you may be, however, one can have a different sense of place on the north south line, wherever one may be. Perhaps the spiritual, not the empirical, meaning of the direction changes according to place. [This bolsters the idea that there might be other temples that need to be built. In fact, many.]{.note}
 
 But here we see the equator as the "crossing" line. The "meanings" cross over, reflect, along the N-S axis. Whereas the W-E line is following the spin of the earth, another "natural" phenomenon, and is invariant over most of the planet.
 
-So perhaps it is necessary to take such cultural prejudices into account, and accept that the characteristics of the 4 directions might differ. meaning of the differ according to location. Will we one day be able to maintain our balance in a space of such multitudinal meaning? Will we be able to manage this refletion? {It is similar to the way medicine has been ignoring the basic fact that women have one of their chromosomes that is different (a reflection of) to the man. This would of course influence the effect of the said medicine/chemical.}
+So perhaps it is necessary to take such cultural prejudices into account, and accept that the characteristics of the four directions might differ. meaning of the differ according to location. Will we one day be able to maintain our balance in a space of such multitudinous meaning? Will we be able to manage this refletion?
+
+[It is similar to the way medicine has been ignoring the basic fact that women have one of their chromosomes that is different (a reflection of) to the man. This would of course influence the effect of the said medicine/chemical.]{.note}
 
 This can only be done if there is a firm foundation upon which you can rely on. This foundation does not have to be universal, except in the assertion of G-d's unity (which is, of course, based on the Truth of His Existence).
 
 In this there is the melding of science and spirituality - something that was once known as Alchemy. The science of the compass requires magnetic north to orient itself, whereas the spiritual/human compass requires/uses the sun to orientate itself.
 
-This is the merging (modern word: {[entanglement](entanglement.html)} ) that is necessary in order to build the temple for G-d on the earth.
+This is the emerging (modern word: entanglement) that is necessary in order to build the temple for G-d on the earth.

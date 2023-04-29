@@ -1,9 +1,11 @@
 ---
 title: In the Beginning
 description: It all begins with the first emanation.
-tags: judaica
+tags: 
+  - judaica
+  - beg
 date: 2015-01-02T05:01:16.154Z
-modified: 2022-01-30T19:07:49.394Z
+modified: 2023-04-24
 ---
 
 # In the Beginning
@@ -16,9 +18,9 @@ Upon this background nothing can be depicted, there is nothing to say or describ
 
 This was what was before there was anything.
 
-Anything that is said about such matters, any characteristics, or words, can never describe this inexpressible state, for it is unmanifest, and thus indescribable by anything manifest. This was before there was anything – and thus it is referred to as the Infinite Light, as well as the (Infinite) Void or Nothingness. It is something which is not something, yet is also not nothing. It cannot even be described as infinite for that would imply a possible finiteness, but being undifferentiated perfection, there could be nothing finite in It. It is more than infinite. It just is what it is, “I am that I am”.
+Anything that is said about such matters, any characteristics, or words, can never describe this inexpressible state, for it is unmanifest, and thus indescribable by anything manifest. This was before there was anything – and thus it is referred to as the Supernal Light, as well as the (Infinite) Void or Nothingness. It is something which is not something, yet is also not nothing. It cannot even be described as infinite for that would imply a possible finiteness, but being undifferentiated perfection, there could be nothing finite in It. It is more than infinite. It just is what it is, “I am that I am”.
 
-At some point, something changed, something shifted, something happened to disturb this endless emptiness, and we say that "a point emerged" _ex nihilo_ - out of nothing. We call this "the beginning". Out of this infinite, endless nothingness the something arose. Because the Void is perfect and balanced&mdash;all human terms&mdash;this emanation occurred in all directions simultaneously – which created a "space". This beginning, we call an _‘agol’_, a circle. This is is also known as the centre - or [middle point](/posts/qkab/middle_point/), the point of origin.
+At some point, something changed, something shifted, something happened to disturb this endless emptiness, and we say that "a point emerged" _ex nihilo_ - out of nothing. We call this "the beginning". Out of this infinite, endless nothingness the something arose. Because the Void is perfect and balanced&mdash;all human terms. This emanation occurred in all directions simultaneously – which created a "space". This beginning, we call an _‘agol’_, a circle. This is is also known as the centre - or [middle point](/posts/qkab/middle_point/), the point of origin.
 
 It is possible that many (perhaps an infinite amount of) points arose simultaneously. However, one of them is the point of origin of whatever space is under investigation. Mathematics uses different language. It states (and proves) that it if there are many points, it is unimportant which point is chosen, and refers it as the axiom of choice.
 
@@ -30,9 +32,8 @@ However that may be, it is certain that there was not a single event.
 
 Another way to think of this, is that until there are more than one event, and these events interact in some form or fashion, there is nothing that can happen. Thus although there might be information contained in this single event, unless there is another event interacting with it, this event will have absolutely no effect on anything, except itself! [narcissism](narcissism.html)
 
-<p class="note">
 NOTE: Thus we have 3 identifiable things - 2 events & some sort of interaction between the two. Then that interaction can affect one (or both) of these events. We could say we have two points and a line between them. That "line", if itself represented as a point (of notice), a triangle (or triplet) would be a clearer symbol to represent that situation with. However, one could say that that triangle needs to be situated in a space that is not quite this space. It extends along a different dimension or axis as is more commonly known. If another event emerged out of two, or more,connected, or more events, would we then have a triangle emerging.
-</p>
+{.note}
 
 ## The point of origin
 

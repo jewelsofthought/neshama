@@ -12,7 +12,6 @@ modified: 2022-01-13T05:37:16.270Z
 ---
 
 1. [Quatum Mind](#quatum-mind)
-2. [Complex Conjugate](#complex-conjugate)
    1. [Properties of complex conjugates](#properties-of-complex-conjugates)
 
 ## Quatum Mind
@@ -75,11 +74,35 @@ Similarly, the new psychology might involve visiting the future and looking back
 
 Quantum Mind is at the forefront of a paradigm shift that may be unprecedented in scope. In large measure, the book was possible because of Mindell's brilliant insights and his rare capability to identify relationships among several areas of knowledge&mdash;relationships that escape notice (in CR) by many others. He communicates concepts from diverse fields in an effective, exciting, and reader-friendly way. For example, he uses metaphors that will help some readers appreciate nature more&mdash;Alice in Wonderland to compare CR with NCR, a juggler to illustrate shuffling symmetry, highway speeding to illustrate the uncertainty principle, and athletic fields to explain mathematical fields. One chapter presents a historical perspective, discussing the marginalization of the spirit during the Renaissance, in which "objective science" replaced Church dogma as the repressor of personal experience. Nuggets of perennial wisdom, familiar to many people on paths of self-development, come alive as Quantum Mind relates them to mathematical and scientific principles. The book is a must-read, not only for those who want to explore the exciting new possibilities in the sciences but also for anyone on a path of self-development (as is everyone, in a sense). Complete with its practical exercises, this book can be not only read but also experienced.
 
-        COPYRIGHT 2001 Temple University - of the Commonwealth System of Higher Education, through its Center for Frontier Sciences.
-        No portion of this article can be reproduced without the express written permission from the copyright holder.
-        Copyright 2001 Gale, Cengage Learning. All rights reserved.
+<div class="note">
+RIGHT 2001 Temple University - of the Commonwealth System of Higher Education, through its Center for Frontier Sciences.
+No portion of this articleCOPY can be reproduced without the express written permission from the copyright holder.
+Copyright 2001 Gale, Cengage Learning. All rights reserved.
+</div>
 
-## Complex Conjugate
+<details>
+<summary class='button is-outlined is-danger'>
+Imaginary Numbers (Math) &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+
+    We represent imaginary numbers as $$ai$$, where $$a$$ is the real part, and $$i$$ the imaginary.
+
+    Thus, although we represent the two elements as loosely coupled, as in $$a + bi$$, we have the real part, and then express the imaginary part as in "real" numbers - or rather numbers derived from and used to express the real world. In the number system, we only have "real" numbers, and the imaginary is only represented by adding the imaginary appelation $$i$$ to the real.
+
+    $$a+bi$$ could be interpreted as: $$CR + CR(NCR)$$, $$i$$ being a symbol to represent the imaginary realm $$\Im$$.
+
+    This is an additive situation. But the latter part, the $$I$$ part, we can only express in CR terms, the $$i$$ serving to "tag" this part as the imaginary portion. It seems obvious since we can only function in CR, as someone who recognises a CR, the material from which to fashion explanations to NCR would (and could only) be built on CR. For a logician, the only explanation he would accept would be the "logical" one. Any other would be either rejected outright, or put in the "unknown" category&mdash;but not embraced.
+
+    Because 3d is 1d lower than 4d (the imaginary realm), we can maintain our hold on reality by dropping the $$\Im$$-axis, and just work in the 3d reality. Especially if we use this $$\Im$$ realm to solve our solution in 3d&mdash;we can pretend it "never" happend&mdash;perhaps we just "imagined" it!
+
+</details>
+
+<details>
+<summary class='button is-outlined is-danger'>
+ Complex Conjugate (Math)&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+
+<div class="note">
 
 The complex conjugate of a complex number is formed by changing the sign between the real and imaginary components of the complex number. Given a complex number of the form, $$ z = a + bi $$ where $$ a $$ is the real component and $$ bi $$ is the imaginary component, the complex conjugate, $$ z^\* $$, of $$ z $$ is:
 
@@ -95,10 +118,23 @@ Any complex number multiplied by its conjugate results in a real number: $$ (a +
 ### Properties of complex conjugates
 
 Given two complex numbers, $$ z $ and $$ w $$, conjugation is distributive for the operations of addition, subtraction, multiplication, and division:
+<figure style='float: left'>
+ <a href=''>
+   <img src='' alt='' width='' height='' />
+ </a>
+ <figcaption></figcaption>
+</figure>
 
 $$ \( z \pm w \)^\* = z^\* { \pm } w^\* $$
 $$ \(z \* w \)^\* = {z^\*} {w^\*} $$
 $$ \(z / w )^\* = {z^\*} / {w^\*} $$
+
+<figure style='float: right'>
+ <a href='/posts/img/qkab/math/ccj.svg'>
+   <img src='/posts/img/qkab/math/ccj.svg' alt='Complex Conjugate' width='100' height='150' />
+ </a>
+  <figcaption>Graph of complex conjugate</figcaption>
+</figure>
 
 If a complex number only has a real component: $$ z^\* = z $$
 
@@ -109,23 +145,14 @@ $$ | z^\* | = z $$
 $$ z z^\* = |z|^2 $$
 $$ z^{-1} = z^\* / z^2 $$
 
-![graph of complex conjugate](/posts/img/neshama/ccj.svg)
+</details>
+
+---
 
 [^1]: There is agreement & authority (forced agreement - another form of NCR!). This force is from a belief structure, which is theological in nature. Science, in fact, is just one of those belief structures. That it happens to be the most accepted theology at present, does not make it the only one, or the correct one. Every endeavour that tries to explain the universe will have its inaccuracies - no representation can be encompass the full reality of whatever it is trying to express. There will always be a margin of error&mdash;with G&ouml;del's incompleteness proof in support. That is the fundamental error that all theologies suffer from, and that is the arrogant belief in their absoluteness. Because we live in a world of constant change, walking a thin edge between live and death, we seek to find firm places upon which we can build our lives. And science is very convincing at that, using numbers and esoteric tricks that few mathematicians can even understand&mdash;let alone those who are using these powerful tools.
 [^2]: Perhaps our counting is our way of maintaining this version of CR. It is similar to singing reality into existence using numbers. If we measure everything, if we quantify the world around us, and begin to value it commercially, we will create a commercial CR.
 [^3]: I would say that CR is a subset of NCR
 [^4]: I think this merging of CR & NCR is even more deeply entrenched. We are looking at the vast space of NCR through a CR lens, using CR methodology to interpret what we are seeing. That is the perspective of the inside out, finite to infinite. I believe we need to move to a greater perspective, that of the "large mind", as close as we are able to the infinite. In other words, taking the perspective not from the infinitely small, but from the infinite source that surrounds us. It is like looking at the world outside through a small window.
-
-    We represent imaginary numbers as $$ai$$, where $$a$$ is the real part, and $$i$$ the imaginary.
-
-    Thus, although we represent the two elements as loosely coupled, as in $$a + bi$$, we have the real part, and then express the imaginary part as in "real" numbers - or rather numbers derived from and used to express the real world. In the number system, we only have "real" numbers, and the imaginary is only represented by adding the imaginary appelation $$i$$ to the real.
-
-    $$a+bi$$ could be interpreted as: $$CR + CR(NCR)$$, $$i$$ being a symbol to represent the imaginary realm $$\Im$$.
-
-    This is an additive situation. But the latter part, the $$I$$ part, we can only express in CR terms, the $$i$$ serving to "tag" this part as the imaginary portion. It seems obvious since we can only function in CR, as someone who recognises a CR, the material from which to fashion explanations to NCR would (and could only) be built on CR. For a logician, the only explanation he would accept would be the "logical" one. Any other would be either rejected outright, or put in the "unknown" category&mdash;but not embraced.
-
-    Because 3d is 1d lower than 4d (the imaginary realm), we can maintain our hold on reality by dropping the $$\Im$$-axis, and just work in the 3d reality. Especially if we use this $$\Im$$ realm to solve our solution in 3d&mdash;we can pretend it "never" happend&mdash;perhaps we just "imagined" it!
-[^5]: Why the focus on pain? Any event that had an effect on the person. Any "energy" that impacts the receiver would fall into this category.
-
+[^5]: Why the focus on pain? Any event that had an effect on the person. Any "energy" that impacts the receiver would fall into this category (see "Imaginary Numbers" above).
 [^6]: A form of conjugate.
 [^7]: I wonder if that is why the virtual world, like Meta or the Metaverse, are so attractive

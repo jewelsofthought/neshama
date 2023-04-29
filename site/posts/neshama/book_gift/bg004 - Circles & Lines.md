@@ -3,19 +3,20 @@ title: Circles & Lines
 description: Between something and nothing exists... the excluded middle.
 tags:
   - todo
+  - beg
 page:
   - 4
 stars: '-'
 date: 2008-01-10T18:22:39.609Z
 ---
 
-> 0 $$\rightarrow$$ 1 is a spiritual mystery. 1 $$\rightarrow$$ is the miracle we are part of/in.
+> 0 $$\rightarrow$$ 1 is a spiritual mystery. 1 $$\rightarrow \infty$$ is the miracle we are part of.
 
 ## 1st Principle: <b>The Unity of G-d</b>
 
-> **All is One** **שׁמא** & one is the beginning.
+> **All is One** [שׁמא]{dir="rtl"} & one is the beginning.
 
-### s1: Nothingness
+### s1: Nothingness (repeat)
 
 Between something and nothing, exists No-thing.
 
@@ -27,7 +28,7 @@ As finite beings, we cannot represent infinite nothingness, but can only imagine
 
 Within this perfect nothingness arose a single point.
 
-### s3: Point expanded.
+### s3: Point expanded
 
 > For anything to occur, there must be a force that causes it. And this force always moves in a straight line (unless acted upon by another force).
 

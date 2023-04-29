@@ -1,5 +1,5 @@
 ---
-title: Consciousness, et. al.
+title: Consciousness (pieces)
 description: Consciousness - God or AI?
 tags: null
 stars: '***'
@@ -24,13 +24,13 @@ modified: 2022-01-30T19:46:47.668Z
 
 ## Consciousness is fundamental
 
-> We awaken to consciousness, but not to [spirit](spirit.html)
+> We awaken to consciousness, but not to [spirit](spirit.html).
 
 What does that mean "awaken to consciousness?"
 
-_It means that at some point I became aware of myself, my being(ness), my own existence. It is an existential realisation. For the next step is the realisation that I will have to shape it, or it will be shaped by my environment and future history. But, there is no (need for) awareness of spirit in that process of awakening to myself. Something awakens in you, in a completely unconscious fashion, and you are suddenly aware of yourself as a separate being._
+It means that at some point I became aware of myself, my being(ness), my own existence. It is an existential realisation. For the next step is the realisation that I will have to shape it, or it will be shaped by my environment and future history. But, there is no (need for) awareness of spirit in that process of awakening to myself. Something awakens in you, in a completely unconscious fashion, and you are suddenly aware of yourself as a separate being.
 
-How do I differentiate between what "consciousness" is, and what "spirit" is? How do I tell the difference?
+How do I differentiate between what "consciousness" is, and what "spirit" is? How do I tell the difference? Perhaps consciousness is spirit expressing itself.
 
 _To become aware of spirit is a choice. It is to become aware of something outside of yourself, that is not a thing. How can you prove that there are things outside of yourself, that don't exist empirically in this realm? Energy is a good start, as it "exists" in our realm, but yet it has no physical presence, except through its effect upon other material objects. However, there are other more subtle things, like whatever starts our motor when we are born. The "energy" that fashioned me. That is the same energy that fashioned the Universe itself!_
 
@@ -53,7 +53,7 @@ It is the included middle. It is the future that either expands or contracts acc
 
 > The only true change is the one which makes no sense!
 
-Form is memory - which is trapped energy, which means it contains angular momentum, and is thus circular. Consciousness is awareness of what has just occurred, and the ability to retain (and even sometimes use) it. Thus the partner of consciousness is memory.
+Form is memory - which is trapped energy, It generally "forms" around a central point, the memory, which means it contains angular momentum, and is thus circular. Consciousness is awareness of what has just occurred, and the ability to retain (and even sometimes use) it. Thus the partner of consciousness is memory.
 
 ## Message Broker
 
@@ -73,7 +73,6 @@ Divide time into mundane & sacred time.
 
 **Sacred Time**:
 
-- The Shabbat is the day that we focus on entering sacred time.
 - Actually is "out of time", timeless
 - Godhead exists in sacred time
 
@@ -83,4 +82,4 @@ We exist in the world of separation in the realm of oneness (which is, in realit
 
 ## Dynamic
 
-We think of consciousness as an awareness that is in essence static. Whereas the only consciousness that could be "static" is perhaps the Divine One. Ouor consciousness is dynamic. It grows, changes and adapts to whatever it encounters, changing perception and changing reaction according to its progress. Just as we encounter the growth and constantly changing aspect of our bodies, so it is similarly with our consciousness.
+We think of consciousness as an awareness that is in essence static. Whereas the only consciousness that could be "static" is perhaps the Divine One. Our consciousness is dynamic. It grows, changes and adapts to whatever it encounters, changing perception and changing reaction according to its progress. Just as we encounter the growth and constantly changing aspect of our bodies, so it is similarly with our consciousness.
