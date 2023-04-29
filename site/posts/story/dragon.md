@@ -3,7 +3,7 @@ title: Story of Dragons
 description: Are there aliens that walk amongst us?
 tags:
   - story
-  - todo
+  - brains
 date: 2001-01-04T21:00:00.000Z
 modified: 2023-02-09T16:26:11.821Z
 stars: '****'
@@ -36,7 +36,7 @@ His defence was that he was not of the human race, but of an alien species. This
 {Note: Could use a runic alphabet for communication. But here this is his inner dialogue...
 Later, if it is worth it, we can translate it into the language that was used. For I perceive a possibility of having to use that to bolster our case.}
 
-‘I hear you, and understand what it is that you are saying. Your word might be dragon, but in our tongue it is $$ \P\partial\Re\varnothing\mho $$ &nbsp; $$ \sharp\Finv\complement\Im\pi $$ A name you cannot hear, nor comprehend – as I see. Thus the closest we have come to is similar to your concept “dragon”. I realise that sounds frightening to your ears, thus we will change it to **פרצושׂים** – faces. That will make it easier for your consciousness. My name is _Chesed_, or Face of Mercy. There are others of us. But you will meet them later – if you have not already. We are higher dimensional, and thus can move around in your world as we wish.
+‘I hear you, and understand what it is that you are saying. Your word might be dragon, but in our tongue it is $$ \P\partial\Re\varnothing\mho $$ &nbsp; $$ \sharp\Finv\complement\Im\pi $$ A name you cannot hear, nor comprehend – as I see. Thus the closest we have come to is similar to your concept “dragon”. I realise that sounds frightening to your ears, thus we will change it to [פרצופים]{dir="rtl"} – faces. That will make it easier for your consciousness. My name is _Chesed_, or Face of Mercy. There are others of us. But you will meet them later – if you have not already. We are higher dimensional, and thus can move around in your world as we wish.
 
 ‘You are just entering this world, and like blind children, are bumbling around in the incredible vastness and possibilities inherent in that dimension. Perhaps you will downplay the immensity of such an expansion, but, in fact, it is an infinite one – one that extends far beyond what you are capable of right now.
 

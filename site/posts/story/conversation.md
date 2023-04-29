@@ -3,11 +3,13 @@ title: Conversations with G-d
 description: Oh, if only...
 tags:
   - story
-  - short
-  - todo
+  - brains
 date: 2001-01-03T15:39:53.293Z
 modified: 2023-02-20T19:19:23.458Z
+stars: '***'
 ---
+
+{TODO: does it fit with the Mekubalim story?}{.is-hidden}
 
 <div style="text-align: center">
 <span style="font-size: 200%; font-weight: bold"><bdo dir='rtl'>רצון יראיך יעשה</bdo></span>
@@ -39,7 +41,7 @@ _“That is another story completely, which I won’t go into now, except to men
 
 “I mean, if there is only fear and love...”
 
-_“What bullshit!” He thundered._
+_“What bullshit!”_ He thundered.
 
 ...
 
@@ -93,7 +95,7 @@ Every morning after that I prayed. In fact, I prayed at least four times a day. 
 
 I could suddenly feel His holy presence in the room. close to me. It was as if the air became denser, yet it was more like an intuition than a measurable effect.
 
-“Where does it all end/”
+“Where does it all end?”
 
 He laughed raucously. _“For you, it ends in death!”_
 
@@ -144,6 +146,28 @@ And with that He was Gone – and it was over. This time I was racked with doubt
 
 I mean, if I had to tell any of my friends or family that I am talking to G-d, or, G-d forbid, a psycho-logist, that could only get me onto the path to a very strong drug regime, willingly or unwillingly. The only place I could turn was to the Ancient Books, and their companions in which there were many interwoven many tales of people who had walked this path. From the ancient mythical Moshe Rabbeinu, to the modern spiritual leaders – who seem far more human than Moshe Rabeinu could ever be.
 
- Though it has been a dream of mine to capture some of that story in a real living sense. I mean, would it not be wonderful to imagine living the life that he lived, even if it has been mythologised. Imagine if it was possible for us to ascend to such clairvoyance, and see through the _Aspaklariah_ clearly. To be able to see into the esoteric realm clearly – what vision, what joy.
+Though it has been a dream of mine to capture some of that story in a real living sense. I mean, would it not be wonderful to imagine living the life that he lived, even if it has been mythologised. Imagine if it was possible for us to ascend to such clairvoyance, and see through the _Aspaklariah_ clearly. To be able to see into the esoteric realm clearly – what vision, what joy.
 
- I threw myself into reading these accounts of our visionary Teachers, may each one of their righteous souls be blessed and bless us all for ever and ever, however the assiduousness of my prayers suffered as a consequence. It was many months before I found my rhythm again, and discovered an axis, a centre that I had not had previously.
+I threw myself into reading these accounts of our visionary Teachers, may each one of their righteous souls be blessed and bless us all for ever and ever, however the assiduousness of my prayers suffered as a consequence. It was many months before I found my rhythm again, and discovered an axis, a centre that I had not had previously.
+
+---
+
+I felt His Presence with me. '**HaShem** appeared to me'.
+
+_"Well done, My son_, he began. _"We now have to begin our work._
+
+I wondered whether this was my true task or whether it was a task that I had been chosen in the moment to participate in. Did it make any difference?
+
+_"You need to begin to teach the Holy Kabbalah to the masses."_
+
+"That is a tall order, and I will need help with this. I have tried for many years to teach what I know, with little success."
+
+_"All is possible. The times you now live in call for a change of pace"._
+
+"You will have to guide me, my Lord, or else I will soon get lost."
+
+_"Just as I guided Moshe Rabeinu, and all the other prophets and seers to bring you to this place at this time, so I will guide you."_
+
+"Blessed is Your Name, forever more".
+
+---

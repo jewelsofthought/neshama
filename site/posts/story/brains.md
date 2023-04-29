@@ -3,6 +3,7 @@ title: The Transhuman Brain
 description: What if their agenda was fulfilled... this is the end!
 tags:
   - story
+  - brains
   - tol
   - todo
 date: 2001-01-20T18:11:18.856Z
@@ -24,15 +25,17 @@ stars: '**'
    12. [In the Garden](#in-the-garden)
    13. [The Meeting](#the-meeting)
 2. [Experience of the Brain](#experience-of-the-brain)
-3. [Story lines](#story-lines)
+3. [Shaman tribe](#shaman-tribe)
+4. [Story lines](#story-lines)
    1. [Definitions](#definitions)
    2. [(i) Jk: → Kab](#i-jk--kab)
    3. [(ii). JBCI: → (man)](#ii-jbci--man)
    4. [(iii). LSH: → (woman)](#iii-lsh--woman)
-4. [Silver Surfer](#silver-surfer)
+5. [Silver Surfer](#silver-surfer)
    1. [Q-story](#q-story)
    2. [Story](#story)
    3. [Poem](#poem)
+   4. [ToL Story](#tol-story)
 
 ## Brain story
 
@@ -97,9 +100,10 @@ Now, we know, that the reason for this, in the beginning, was so that the brains
 
 The brains realised very soon that earth might become inhospitable both to them and perhaps to the living beings themselves. They began to create biospheres in which they could live as long as needed. These biospheres became totall self-sufficient, so they turned their attention to the solar system and even set their sights on the stars beyond.
 
-//So, when the war broke out, they had already created and seeded areas with biospheres, in which they could live for as long as they needed. Thus, after the cataclysm, they emerged to a decimated human population.
+By the time our story begins, they have spread across the galaxy.
+Many years have gone by, and they have spread so far and wide, that they no longer remembered where they came from. Because of some "errors" in the original systems, they live according to the Great Myths of the Imaginary, and the four tombs of Parnassius, and Elianary, their first Routers.
 
-By the time our story begins, they have spread across the galaxy. They have harnessed the energy in the atom properly. They have managed to store huge warehouses of information on the atomic level in tiny memory cells. They can extract close to 100% of the energy from the atom. They can travel across space by bending time and space. They are interacting with their surroundings on the quantum level, understanding fully the principle of small effects, or chaos.
+They have harnessed the energy in the atom properly. They have managed to store huge warehouses of information on the atomic level in tiny memory cells. They can extract close to 100% of the energy from the atom. They can travel across space by bending time and space. They are interacting with their surroundings on the quantum level, understanding fully the principle of small effects, or chaos.
 
 After the machines, they created much more compact devices that they used, allowing them to become mobile. Their interface became even more compact and integrated, and they basically had a mobile jar in which they travelled. Eventually, understanding the fabric of the make up of the universe, the brains were encased in a special material, that both fed them and transmitted and received their information, and commands, i.e. will.
 
@@ -216,11 +220,36 @@ In fact, one could have multiple androids, of different shapes, doing different 
 This, being the major form of entertainment, and one could only imagine the incredible amount of information that could be garnered this way.
 
 → One could also surf the universe on the energy waves, and m-wave background that exists everywhere. [By 5d, you are able to surf the nothingness, which in fact contains a huge amount of energy.]{.note}
+
+## Shaman tribe
+
 → Finally, one could move around the universe in one’s astral body, as in a Shamanic Journey. In fact, this was the next stage of journeying that was discovered, and that is to move around as an entity, and be able to influence things by tapping into the very lines that were used to crate and exist and act in that way.
 
 This could also be an alternate unfolding of the story. The one line was to the Brains, the other to the Shamans, who used conscious journey work to travel the galaxy.{.note}
 
+Here is an expansion on the story:
+
+We have the Branes, and the "humanoids" created by the Branes, and then the Shaman's.
+
+The Shaman tribe are the one's who rejected the path into Branes, and remained in their bodies on earth. As time went by, and more people turned into Branes, there began to be hostility between the Branes and the Humans that remained. These Branes developed technologically extremely fast, and had reached a stage of development whereby they had become almost independent of their environments, and needed only power and material. This was available on many other worlds.
+
+So, soon they left the planet, with only a small contingent remaining, and began to explore the solar system.
+
+Eventually they overcame the barriers preventing them from reaching the stars, and travelled along galactic lines all over the galaxy.
+
+In the meantime, there was a huge upheaval on earth, whereby severe restrictions on technological advancement were enacted, and people had to find other means, in addition to the scientific one, of interpreting and dealing with the world around them.
+
+They organised in small, autonomous groups in the beginning, until they could co-ordinate with one another and grow larger. An incredible flowering occurred, a merging of science-and-spiritual, and so the Shamans flourished.
+
+They too came to understand the 4-d waves that influence our physical reality. There method of transportation (and communiation) however, was by projecting their astral forms. Thus they too could explore far off planets, creating a kind a holographic representation around them. In the beginning there actual forms of inter-species communication was quite primitive, and they had to inhabit the body of some being that had the capability of speech in order to actually communicate.
+
+Lately they have been able to speak from anywhere. So they normally due it with a holographic representation of themselves, that actually speak.
+
 ## Story lines
+
+- See [Trial of the Dragon](/posts/story/dragon/)
+
+- See [Reflections of R Y"mba](/posts/story/reflections/)
 
 ### Definitions
 
@@ -228,6 +257,8 @@ BCI - Brain Computer Interface
 JBCI - Dreams and BCI
 
 ### (i) Jk: → Kab
+
+- See [Mekubalim](/posts/story/mekubalim/)
 
 → Deeper into mysteries
 → Practice, become more traditional
@@ -256,8 +287,6 @@ But in order to hear the Atlantean voices (from 4d), the JBCI brain firstly has 
 ---
 
 There is only one line of communication (or field of interaction – eg vesica pisces), one place where the two realms (dimensions) meet. Kabbalah is one way of getting there, BCI is another, prophetic shamanism is another. Probably yoga, meditation and definitely entheogens.
-
----
 
 ---
 
@@ -358,3 +387,34 @@ with their own little
 moon-children.
 
 ---
+
+<details>
+<summary class='button is-outlined is-small'>
+ <i class='fa fa-solid fa-caret-down'></i>
+</summary>
+Taglist
+</details>
+
+![We all occupy the same "space".](/posts/img/neshama/body.png)
+
+A look into some simple spacial features of humans as compared to animals. It was an exploration which started from the first diagram on the left. Then I thought to simplify it even more, and so these latter two emerged, showing clearly two things. The first is the obvious horizontal versus upright nature of the two. The second is their amazing similarity. The third, and to me, intriguing, is the obvious difference between the space occupied by the animal that shifted to become the space used by our arms, which are extremely dextrous, and one could say 3d, as opposed to the far more resticted spacial features of the legs. Both cannot bend backwards - we need to walk into the future, and do the work that is in front of us, where we can keep an eye on what we are doing, rather than behind us, where we hide our things.
+
+As the sages say: "Only the fool trips on what is behind him".
+
+### ToL Story
+
+When I received the phone call from the Secretary of the Global Federation, I knew that we had entered the turning point.
+
+We were over 1m before we even had any public presence. We just arose and grew quietly and unobtrusively. A piece here, a piece there &ndash; and still only we knew all the connection.
+
+Info had to be locked in a vault until we gained sovereignty.
+
+When we topped 10m, it was becoming very obvious that there were many positives to being part of this emergence.
+
+UN Speech:
+   Pivotal point
+
+- 1m
+- 100m @ 10% => $10 -> $1B/mth - $12B/yr
+
++ associated businesses and other dealings...

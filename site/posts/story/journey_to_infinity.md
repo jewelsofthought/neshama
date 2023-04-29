@@ -225,7 +225,7 @@ Now bless the air as you breathe in... as well.
 
 > Breathe in, breathe out (x3)
 
-<div style="display:none">
+<div class="is-hidden">
 
 FIG 1: Inner and Outer
 
@@ -298,7 +298,7 @@ This is based on the fact that in order for something to exist, there has to be 
 
 This, combined with the ability to communicate coherently to one another, brings greater awareness of self and of other. Now the journey truly begins.
 
-<div class="note" style="display:none">
+<div class="note" class="is-hidden">
 
 {
   Malchut: First step: establish the ego, one's kingship in this world (ego).

@@ -4,8 +4,10 @@ description: Attuning oneself to the harmonies
 tags:
 - story
 - short
+- complete
 date: 2001-01-18T00:39:53.293Z
 modified: 2023-02-20T19:19:23.458Z
+stars: "****"
 ---
 
 ## A Story of Radical Forgiveness

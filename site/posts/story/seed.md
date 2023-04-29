@@ -3,9 +3,10 @@ title: The Seedlings
 description: Nibiru - the seed of coming generations
 tags:
   - story
-  - tol
+  - brains
 date: 2001-01-19T05:39:53.293Z
 modified: 2022-01-30T19:19:23.458Z
+stars: "**"
 ---
 
 1. [The Seeding](#the-seeding)

@@ -21,8 +21,7 @@ Emerging from childhood, it was a series of apparently benign meetings that caus
 
 It was many decades later, he recalled, at one of the gatherings, that he spoke of that time with his siblings, and discovered many things about that period and how it affected his own growth. But I digress.
 
-“Mmm, baruch ata elohim, sh’kaymenu, v’higianu” the murmuring went on, as I tried to memorize my portion from the Book, and the prayers, incantations and movements I needed to know for my upcoming initiation. His sightless eyes seemed to look upwards, as his frail body swayed in ecstasy. Blind from birth,
-Ha’derech had learnt every single nuance, every word, every symbol of the Book. He lived in a small hut a little ways from the village, and was cared and tended by the tribe, for he was a holy man, a blessed spirit and just to spend some time in his presence was a gift.. And I was to spend a whole year learning my portion with him.
+“Mmm, baruch ata elohim, sh’kaymenu, v’higianu” the murmuring went on, as I tried to memorize my portion from the Book, and the prayers, incantations and movements I needed to know for my upcoming initiation. His sightless eyes seemed to look upwards, as his frail body swayed in ecstasy. Blind from birth, Ha’derech had learnt every single nuance, every word, every symbol of the Book. He lived in a small hut a little ways from the village, and was cared and tended by the tribe, for he was a holy man, a blessed spirit and just to spend some time in his presence was a gift.. And I was to spend a whole year learning my portion with him.
 
   \* * \*{.has-text-centered}
 

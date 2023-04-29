@@ -3,7 +3,7 @@ title: The Jewel
 description: Each one of us is a gem
 tags:
   - story
-  - todo
+  - brains
 date: 2001-01-10T05:23:18.856Z
 modified: 2022-08-24T19:17:26.846Z
 stars: '****'
@@ -19,26 +19,25 @@ There was ease and peace in his kingdom. His subjects all loved him dearly. They
 
 ## _Chirabah_ - (abyss)
 
-[Chirabah](abyss.html)
+As a young man, the prince had undergone the most rigorous training in all the sciences and arts both of the apparent and the hidden. In order to claim the title of king he had to pass through the _Chirabah_, and return with the gift that he would receive, if he survived.
 
-As a young man, the prince had undergone the most rigorous training in all the sciences and arts both of the apparent and the hidden. In order to claim the title of king he had to pass through the abyss of _Chirabah_, and return with the gift that he would receive, if he survived.
-
-> He surrounded His Spirit in a precious crystal, so that it could still communicate with the faraway. We call these crystals jewels, or gems. However, each one of these jewels were so precious, that they were each given their own very special vessel with which to be kept safe - so that He could continue to communicate with all his subjects.
+He surrounded His Spirit in a precious crystal, so that it could still communicate with the faraway. However, each one of these jewels were so precious, that they were each given their own very special vessel with which to be kept safe - so that He could continue to communicate with all his subjects.[Use the twelve stones from the bible + Urim and Tummim: The Hebrew names for the 12 precious stones are: Odem, Pitdah, Bareketh, Nophek,Sappir, Yahalom, Leshem, Shebo, Ahlamah, Tarshish, Shalom, and Yashpheh.]{.note}
 
 Each one of these gems was like a radio. It could transmit and receive broadcasts. Just like our radio, where we have a big transmitter from which we broadcast over a large area, and each one of the crystals in your little radio receives the signal and transmits to the radio. For now, we have to be satisfied with the simple crystal and translate it to electricity ourselves.
 
 Although I could easily imagine a crystal that receives light and transmits electricity... [chlorophyll](chlorophyll.html). Thus so far, we have only managed to find this occurring in organic molecules... which means living molecules, that respond to external influences. There are some that respond only to light.
 
-> Each one of these jewels were so precious to him, for he had imbued each one with some of his very essence, and thus each one contained something of his will. [magician](magician.html) In order to keep them safe, he decided to fashion a vessel in which to hold it. This vessel would be made from the strongest, and densest material that his scientists could imagine and his artisans could fashion. Once that was done, he began to place each one of these precious jewels in the container that they had fashioned. "In their image, they created him".
+Each one of these jewels were so precious to him, for he had imbued each one with some of his very essence, and thus each one contained something of his will. In order to keep them safe, he decided to fashion a vessel in which to hold it. This vessel would be made from the strongest, and densest material that his scientists could imagine and his artisans could fashion. Once that was done, he began to place each one of these precious jewels in the container that they had fashioned.
 
 The one promise he swore to each one of these jewels, was that he would never stop communicating with any one of them. He would maintain contact with each and every one of them...
 
-He did not anticipate the problem being that any might chose ever to not want this communication. And having to become in order to create the vessels, he suffered the very aspects that he'd used to fashion his vessels - hurt and anger. How could they?
+{?He did not anticipate the problem being that any might chose ever to not want this communication. And having to become in order to create the vessels, he suffered the very aspects that he'd used to fashion his vessels - hurt and anger. How could they?}
 
-## Descent
+## Child
 
-> We do not "gain" consciousness here. We enter as fully conscious beings. We are not here to pay off some ancient or ancestral debt, though we might have come here to complete an ancestral mission.
-> Nor are we born in some debt to some overlord, divine or not. We are here because we asked to be here, or were chosen. We had to train for many years, to be able and willing to step down from a higher, more encompassing viewpoint into this constricting and challenging place.
+We do not "gain" consciousness here. We enter as fully conscious beings. We are not here to pay off some ancient or ancestral debt, though we might have come here to complete an ancestral mission.
+
+Nor are we born in some debt to some overlord, divine or not. We are here because we asked to be here, or were chosen. We had to train for many years, to be able and willing to step down from a higher, more encompassing viewpoint into this constricting and challenging place.
 
 Each child is born with one of these precious jewels. In times past we called it a blessing from G-d, or the kiss of an angel.
 
@@ -122,10 +121,10 @@ Those around me, I perceived/saw as vibrational patterns or crystals that formed
 
 This is the creation of the vessel, the chariot, the construction that you will be shaped from and by throughout your life.
 
-The goal is for each one of us to re-pattern ourselves. It is referred to as redemption, חוזר בצובה, returning to the source through the process of first atonement then "atunement". This is done by passing through the three levels of forgiveness, till gratitude is all that remains.
+The goal is for each one of us to re-pattern ourselves. It is referred to as redemption, [חוזר בתְשׁוּבָה]{dir="rtl"}, returning to the source through the process of first atonement then "atunement". This is done by passing through the three levels of forgiveness, till gratitude is all that remains.
 
 This will require a change. If you want your life to change, first change yourself. The Holy One, blessed be He, will not change.
 
 ---
 
-In my bubble, or womb, of light, I had no fear. I was still aware of and connected to the Light. I was clean and pure, and thus radiated that image of Divine, that is spoken of in Genesis. Every morning, I am reminded of this. <b>אלוהים, הנפשׁ שׁנתתה בי, תהוּרה. </b>
+In my bubble, or womb, of light, I had no fear. I was still aware of and connected to the Light. I was clean and pure, and thus radiated that image of Divine, that is spoken of in Genesis. Every morning, I am reminded of this. [אלוהים, הנפשׁ שׁנתתה בי, תהוּרה]{dir="rtl"}

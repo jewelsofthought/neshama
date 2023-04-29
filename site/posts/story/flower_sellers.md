@@ -3,7 +3,7 @@ title: Flower Sellers
 description: An Story of Africa
 tags:
   - story
-  - short
+  - complete
 date: 2001-01-06T00:39:53.293Z
 modified: 2023-02-20T19:19:23.458Z
 ---

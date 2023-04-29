@@ -4,6 +4,7 @@ description: Are atoms angels?
 tags: 
   - story
   - neshama
+  - todo
 stars: '*****'
 date: 2001-01-01T20:38:35.115Z
 ---
@@ -11,19 +12,19 @@ date: 2001-01-01T20:38:35.115Z
 1. [Speak of Angels](#speak-of-angels)
 2. [Truth \& Shekhina](#truth--shekhina)
 3. [Angels and light](#angels-and-light)
-4. [Spiritual - Manifest awareness of itself.](#spiritual---manifest-awareness-of-itself)
+4. [Spiritual - Manifest awareness of itself](#spiritual---manifest-awareness-of-itself)
 5. [Electron Existence](#electron-existence)
 6. [Hydrogen bonds](#hydrogen-bonds)
 
 ## Speak of Angels
 
-When G-d first started the creation of the world, He wanted it to be made up only of _chesed_, light and love. So he created Heaven/Garden of Eden. There all was peace and love and harmony. They praised G-d continuously, sang beautiful harmonies together, everything they did was in service to G-d, the never erred, never fought, all was peaceful and fulfilled.
+When G-d first started the creation of the world, He wanted it to be made up only of _chesed_, light and love. So he created Heaven/Garden of Eden. There all was peace and love and harmony. They praised G-d continuously, sang beautiful harmonies together, everything they did was in service to G-d, they never erred, never fought, all was peaceful and fulfilled.
 
-But that was not the end of the emergence of Creation yet. It had not reached its ultimate goal. He knew that he had to ask the angels to descend lower, to, in a sense, clip their wings&mdash;but the gift of such a sacrifice would be to launch a world in which the miraculous could take place. So He gathered the council around Him, and said to them: "You are my holiest, and the mightiest of my angels. I need you all to gather your minions, and choose those among you who will be blessed by carrying out a task in My Name."
+But that was not the end of the emergence of Creation yet. It had not reached its ultimate goal. He knew that He had to ask the angels to descend lower, to, in a sense, clip their wings &mdash; but the gift of such a sacrifice would be to launch a world in which the miraculous could take place. So He gathered the council around Him, and said to them: "You are my holiest, and the mightiest of My angels. I need you all to gather your minions, and choose those among you who will be blessed by carrying out a task in My Name."
 
 Once they had chosen, He, Blessed is His Holy Name, then said to them: "This is what you will do. You will remove their wings every aeon, (what we know today as Plank's constant), and appear in and as My creation. From there others will direct you to your place. Each aeon you will appear in this guise until you are no longer needed. Know that you are My beloveds, and will be the forces that will form creation. Go forth and emanate, for I am going to create a world in which will live beings who will become the guardians of the realm of both good and evil."
 
-The Lord said to these angels, of whom this story is about, "Go and be (quanta/atoms?) a specific piece of the puzzle we call creation." Because they were angels, they could do nothing else other than being what the Divine Will had them do.
+The Lord said to these angels, of whom this story is about, "Go and be (quanta/atoms?) a specific piece of the puzzle we call Creation." Because they were angels, they could do nothing else other than be what the Divine Will had them do.
 
 So it was done.
 
@@ -35,11 +36,11 @@ He came to Adam and said, "You are alone amongst the animals. None of them are a
 
 So she convinced the Serpent, a being of great wisdom, who was also enamoured by Eve, to seduce Eve, and get her to eat the fruit of the forbidden tree.
 
-God, who had been struggling with the problem of His world not working properly, because it had become stagnant and was not unfolding as it should, realised that He had to do something. There was a whole realm that was not being attended to, and He realised that He needed someone in charge of that realm. But in order for there to be balance, he had to have someone who was to be the Prince of the other, complimentary realm.
+God, who had been struggling with the problem of His world not working properly, because it had become stagnant and was not unfolding as it should, realised that He had to do something. There was a whole realm that was not being attended to, and He  needed someone in charge of that realm. But in order for there to be balance, he had to have someone who was to be the Prince of the other, complimentary realm.
 
-When Adam ate of the tree, G-d realised that something had changed. That somehow the very realm that He had been ignored, which was the actual reason that He had needed to create the world of humans, had entered into this perfection that He had created&mdash;for being perfect Himself, He could only create perfection.
+When Adam ate of the tree, G-d realised that something had changed. That somehow the very realm that He had been ignored, which was the actual reason that He had created the world of humans, had fallen from the perfection that He had created &mdash; for being perfect Himself, He could only create perfection.
 
-He went to Adam and asked him, how come he had eaten of the fruit? Adam replied that Eve had convinced him to eat of it. He then asked Eve, who blamed the snake. So he sent them all out of the Garden and into the world he had made for them, with only the skins that He had covered them with in which to contend with the world of light and dark.
+He went to Adam and asked him, "Why did you eat of the fruit? Adam replied that Eve had convinced him to eat of it. He then asked Eve, who blamed the snake. So he sent them all out of the Garden and into the world he had made for them, with only the skins that He had covered them with in which to contend with the world of light and dark.
 
 In the meantime, Samael, for being the angel who had shown Him what was needed to awaken the world was not _chesed_ alone, but also _gevurah_, constraint, or judgement, was given the lower realms, these realms of constraint, to rule over, and became known as the Prince of Darkness. While Lilith, became a consort of his, and continued to interfere with all births that came from Adam and his descendants.
 
@@ -83,7 +84,7 @@ Just to allay your objection to a random and fickle universe, as the wisdom by w
 
 ---
 
-## Spiritual - Manifest awareness of itself.
+## Spiritual - Manifest awareness of itself
 
 Does spiritual mean in essence a manifest awareness of self? Would one call the lion spiritual, except in being an expression of the Spirit we perceive in everything? This might be a way of differentiating between consciousness and spirituality. The conscious being has an unquestioning awareness of its existence, whereas the spiritual being has a awareness of itself as a construct.
 

@@ -3,9 +3,10 @@ title: The Wounded Animal
 description: Heal thyself
 tags:
   - story
-  - short
+  - complete
 date: 2001-01-23T00:39:53.293Z
 modified: 2023-02-20T19:19:23.458Z
+stars: "***"
 ---
 
 Screeching dogs head or animal carcass head in darkness – my interpretation this morning after a sleep, our conversation and what emerged as I drove to work.

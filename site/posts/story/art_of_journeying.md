@@ -11,6 +11,62 @@ modified: 2022-11-16
 stars: '***'
 ---
 
+TODO: Possibly include in brain story?{style="display:none"}
+
+1. [1. Forward](#1-forward)
+2. [2. Chapter: Shamanism](#2-chapter-shamanism)
+   1. [2.1. Name](#21-name)
+   2. [2.2. Derivation](#22-derivation)
+   3. [2.3. Between the two worlds](#23-between-the-two-worlds)
+   4. [2.4. Other Pathways](#24-other-pathways)
+      1. [2.4.1. Sacral Pathways](#241-sacral-pathways)
+      2. [2.4.2. Mental Pathways](#242-mental-pathways)
+      3. [2.4.3. Heart Based Pathways](#243-heart-based-pathways)
+      4. [2.4.5. Shaman](#245-shaman)
+   5. [2.5. All Paths](#25-all-paths)
+3. [3. Chapter: Sacred Space](#3-chapter-sacred-space)
+   1. [3.1. Safe Place](#31-safe-place)
+   2. [3.2 Sacred Space](#32-sacred-space)
+   3. [3.3. After constraint comes creation](#33-after-constraint-comes-creation)
+4. [Chapter 4: Shaman Journeying](#chapter-4-shaman-journeying)
+   1. [4.1 Why journey?](#41-why-journey)
+   2. [4.2 Entheogens](#42-entheogens)
+   3. [4.3 Benefits](#43-benefits)
+   4. [4.4 Service](#44-service)
+5. [Chapter 5: Soul Retrieval](#chapter-5-soul-retrieval)
+   1. [5.1. Psychosis](#51-psychosis)
+      1. [5.1.2. Emerging and merging from and with psychosis](#512-emerging-and-merging-from-and-with-psychosis)
+   2. [5.2. Dark night of the Soul](#52-dark-night-of-the-soul)
+   3. [5.3. Meeting Yourself](#53-meeting-yourself)
+6. [Chapter 6: Safeties](#chapter-6-safeties)
+   1. [6.1. Entities](#61-entities)
+   2. [6.2. Reason for discipline](#62-reason-for-discipline)
+   3. [6.3. Reason for guides](#63-reason-for-guides)
+   4. [6.4. Intention](#64-intention)
+   5. [6.5. Integrity](#65-integrity)
+   6. [6.6. Permission](#66-permission)
+   7. [6.7. Gratitude](#67-gratitude)
+7. [Chapter 7: Process](#chapter-7-process)
+   1. [7.1. Continuation](#71-continuation)
+   2. [7.2. Guide](#72-guide)
+   3. [7.3. Guide (cont…)](#73-guide-cont)
+   4. [7.4. Same way ALWAYS](#74-same-way-always)
+   5. [7.5. NEVER](#75-never)
+   6. [7.6. Mentor](#76-mentor)
+   7. [7.7. Discipline](#77-discipline)
+      1. [7.7.1. Regular journeying](#771-regular-journeying)
+      2. [7.7.2. Journaling](#772-journaling)
+   8. [7.8. Stop](#78-stop)
+8. [Chapter 8: Theory (\* Todo)](#chapter-8-theory--todo)
+   1. [8.1. The Brain](#81-the-brain)
+   2. [8.2 Pathways in the brain](#82-pathways-in-the-brain)
+      1. [8.1.1. Information](#811-information)
+      2. [8.1.2. Attitude is altitude](#812-attitude-is-altitude)
+      3. [8.1.3. Conscious/Unconscious](#813-consciousunconscious)
+9. [Chapter 9: The Nature of Shamanism](#chapter-9-the-nature-of-shamanism)
+   1. [9.2. From Lyn’s thesis: P16](#92-from-lyns-thesis-p16)
+   2. [9.3. Young Shaman](#93-young-shaman)
+
 ## 1. Forward
 
 Why write another book on Shamanism, a reader might rightly ask? Why this book specifically? Well this is not really a book about Shamanism. It is a book about a journey, a personal journey, and about journeying itself.
@@ -81,7 +137,7 @@ It is in the knowledge, or the humbling experience thereof, that produces the un
 
 Before we continue, do you believe, nay know, that such a realm exists? Because if you do not, then this book is not for you.
 
-### 2.4. Other Pathways.
+### 2.4. Other Pathways
 
 Perhaps there are amongst us, who are brave enough to explore this realm. It begins from the knowing of the existence of this space. Then there must be a methodology that is employed to access this arena. There might be, in fact there are, more than one path that the intrepid explorer could take, some of which we have mentioned previously. Let’s call this space, the spiritual realm.
 
@@ -97,7 +153,7 @@ There are many methods and disciplines by which you can reach this goal of commu
 
 The path we are speaking of is Shaman, and as such, nature based. However, the shaman way is to walk that path as a life path, and to practice what the spirit guides us to do, no matter how difficult or challenging it might be. This is generic to all who have embraced the spiritual path.
 
-#### 2.4.1. Sacral Pathways.
+#### 2.4.1. Sacral Pathways
 
 There are many practitioners who base their protocols on the Native American methods of journeying. Often they use a body of water, or a vessel, like a canoe to travel to another place to find one’s animal guides and to work with them. Carlos Castaneda wrote a series of books describing his experiences. This form often used entheogens as an aid to the initiate. Though nowadays in the conservative fearfulness of today’s empire, that is practised far less.
 
@@ -109,7 +165,7 @@ These are all sacral pathways, in that they move the energy from the sacral regi
 
 A great need for these sacral pathways has arisen in the youth of today in Western societies, as expressed in the trance dance and raves, as well as the children who are seeking to encounter other ways of looking at the world, that enhance their unbalanced rational based culture, often through experimenting with drugs, especially hallucinogenic ones.
 
-#### 2.4.2. Mental Pathways.
+#### 2.4.2. Mental Pathways
 
 There are other ways one can enter the zone that are more intellectual. For instance, complete focus on a particular problem, like a mathematical or physics one, could induce such a trancelike state in which one finds a place of clarity and intuition, resulting in the understanding of deeper aspects of what one has been exploring open up.
 
@@ -117,7 +173,7 @@ Prayer and meditation are another method, also requiring complete focus on a par
 
 These are excellent methods of attaining a closer connection and the creation of pathways to higher aspects of yourself and your world. However, I think in this day and age, many of those that are searching along these type of shamanistic paths, have spent a large portion of their lives in some sort of mentally focused state. Much of the work that we do has become sedentary, consisting of sitting and looking at a computer screen, controlling one’s mind to focus on the task or problem at hand.
 
-#### 2.4.3. Heart Based Pathways.
+#### 2.4.3. Heart Based Pathways
 
 This is the form we speak of most often in this book, and the path we have chosen for a number of reasons. It does not require any wild drumming or dancing, no leaping around the fires or walking over hot coals – though that might help as a preparation. It does not require fasting - though fasting is always a good method to clear out one’s gateways and thus have more bandwidth in which to experience whatever comes next. It does not require any preparation, beyond following a proscribed methodology and way of approaching and being in this other space. It emphasis the need for disciplined behaviour once you have crossed over to the inner world.
 
@@ -145,7 +201,7 @@ In order to cleanse ourselves and remove the detritus that we have collected and
 
 Once the lower worlds have been cleansed by shamanic work, one will be ready for the ascent. That is why often within the safe place we have created in the lower world, there exists what I refer to as an inner sanctum, a place from which we can begin the ascent.
 
-### 2.5. All Paths.
+### 2.5. All Paths
 
 The goal that all these different paths have in common is to do a form of neural reprogramming. It is about opening up pathways that have been shut down through disuse. It is training and exercising a muscle that has become lax. Each one of these will approach this reprogramming from a different point of view, along a different route, and will affect slightly different areas of the body and mind. Essentially it is about forging a pathway in your brain that will enable you to communicate with spirit. Eventually we hope to have build a bridge and have a highway that will be able to transport many useful products to and from the other world.
 
@@ -279,7 +335,7 @@ Now as he approaches the bush he hears “noise”, the “voice” of God. It c
 There are those that are drawn to the light, and those that are drawn into the darkness. For each soul consists of them both. The psychosis is when your soul is blinded by the light&mdash;thus it does not even realise the consequences of the psychotic behaviour some might perpetuate&mdash;though not all are violent. Some hear voices, some see images, some retreat completely. The first we label schizophrenia, the second depression. If we do it part of the time, but not all the time, it would be labelled as bipolar or something similar. However, it is all expressing a form of disassociation, a form of escaping from what is going on _inside_.
 
 Those that end up in darkness, labelled as depression, have a different experience and disassociate differently.
-**Stanzas Of The Soul **
+**Stanzas Of The Soul**
 
 <div class="poem">
 One dark night,<br />
@@ -444,12 +500,12 @@ The most attractive aspect of this world is the power you can gain. But be most 
 
 In the real world, either you have more firepower than the opponent or not, and that decides the outcome. There is some of that in the spirit world, and it is not pleasant. There is also the natural way of this world that will bring everything in balance. For instance, when the other entity reclaims its power, what will happen to you? I could fly and built my dream world around my flying. Now I can no longer fly! What do I do now? I have to start again and recreate my whole world.
 
-### 6.6. Permission.
+### 6.6. Permission
 
 As a final note on behaviour, always ask permission. And, once again, _listen_ to the answer. For example, the first time I did a firewalk, we assembled outside close by the fire. During our preparation, we could see the fire, we could feel its energy. When the time came to walk across the coals, we were to ask permission of the fire and listen to its answer. If it was “NO”, we were to ask, “Why not?” for there was a lesson there. If it said, “Yes”, we were then to ask ourselves if we were ready to walk. Again listen for the answer. So it is in the spirit world which we were entering.
 The gift/learning that results is that only matter can burn, and the more in-spirit (in-spired) I am, the more walking the coals would feel like walking on velvet.
 
-### 6.7. Gratitude.
+### 6.7. Gratitude
 
 Always show gratitude, and be thankful to whoever or whatever has helped you.[^13]
 
@@ -513,7 +569,7 @@ Once you have determined who your guide is, you can then ask any question you wa
 
 Every time you enter your safe place now, you can invite him in. Especially if you have work to do down there. Later we will speak of what the concept of “work” in this world means.
 
-### 7.4. Same way ALWAYS.
+### 7.4. Same way ALWAYS
 
 Whenever entering or leaving this world, you need always to do it along the same pathway. However you entered, thus you shall leave—“Dust to dust, ashes to ashes”. You enter according to the way according to the method you will have been taught. The path to your safe place from this world, and from your safe place to this world will always be the same path.
 
@@ -586,7 +642,7 @@ Lyn...
 
 That is also why we need to be careful when we access the spaces, and the portals, that are held in the right brain. People have been known to haemorrhage, due to overheating of that side of the brain. As we said before, to contain, or even to communicate, information requires excess heat. If too much is released too swiftly, it will cause the communication channels to overheat and thus “burn out”. This has occurred to people who take entheogens, or have undergone some other overwhelming experience. It is similar to what happens to an electric circuit which becomes overloaded. The basic information is contained in light, and frequency modulations.[^16] This provides us with a similar on/off mechanism as is used in computer communications
 
-### 8.2 Pathways in the brain.
+### 8.2 Pathways in the brain
 
 How do we make the pathways in our brain? By repetition. Through anything we do over and over again, or anything we think again and again, or an attitude we hold onto. It is through training that we create these mappings. Thus, if we want to change our attitude, or rid ourselves of a habit, we need to go through a period of discipline, of retraining, of repetition.
 
@@ -695,6 +751,6 @@ Religious Metaphor"_ by Michael Ripinsky-Naxon:
     [^15]: From “What the bleep”, the movie.
     [^16]: see [“Using phases in optic fibre communication”.](https://www.researchgate.net/publication/356021170_Changing_phases_of_fiber_optic_communication)
     [^17]: Same as socially. It is about space. If you provide the space, they will self-organize.
-    [^18]: From: http://www.lycaeum.org/books/tradition/naturenaxon.html
+    [^18]: From: <http://www.lycaeum.org/books/tradition/naturenaxon.html>
     [^19]: Religious experience as ecstatic. Romanticism -> ecstacy as pathway to God; or as a “proof” of “union with G-d”.
     [^20]: From . Just a silly note on the fact that perhaps the silly notion of Father Christmas using the reindeer to pull his sled is another [deep shaman ritual](http://www.museum.state.il.us/exhibits/changing/journey/shamanism.html) that was trivialized by the Christian movement.
