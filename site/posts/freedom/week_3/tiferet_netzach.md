@@ -1,19 +1,33 @@
 ---
 title: Netzach in Tiferet
-description: Constant Balance
+description: 'Meditation for Day Eighteen: Constant Balance'
 tags: null
 date: 2022-05-03T01:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week3/3.4-Netzach_in_Tiferet.png' target="_blank">
+   <img src='/posts/img/freedom/week3/3.4-Netzach_in_Tiferet_s.png' alt='Netzach in Tiferet' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Netzach she’b Tiferet</h2>
-<i>Day Four of Week 3:</i>
-<p>Ambition in Harmony</p>
+<span dir="rtl"><b>הָיום שִׁבְעָה עָשָׂר יָוֹם שֶׁהֵם שְׁנֶי שָׁבוּעוֹת  וְאַרְבָּאָה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is eighteen days, which is two weeks and four days of the Omer</i>
+</p>
+
+<h4>ֵֵEnduring Harmony</h4>
+
 </div>
 
 <div class="abstract">
 
-Is my compassion enduring? Does it prevail among other forces in my life? Do I have the capacity to be compassionate even when it's uncomfortable?
+Is the harmony in my life enduring? Does my balance remain steadfast among other forces in my life? Do I have the capacity to keep balanced even when it's uncomfortable?
 
 </div>
 

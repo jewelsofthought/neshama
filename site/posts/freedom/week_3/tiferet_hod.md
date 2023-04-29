@@ -1,14 +1,28 @@
 ---
 title: Hod in Tiferet
-description: Humble Balance
+description: 'Meditation for Day Nineteen: Humble Balance'
 tags: null
 date: 2022-05-04T01:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week3/3.5-Hod_in_Tiferet.png' target="_blank">
+   <img src='/posts/img/freedom/week3/3.5-Hod_in_Tiferet_s.png' alt='Hod in Tiferet' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Hod she’b Tiferet</h2>
-<i>Day Five of Week 3:</i>
-<p>Ambition in Harmony</p>
+<span dir="rtl"><b>הָיום תִּשְׁעָה עָשָׂר יָוֹם שֶׁהֵם שְׁנֶי שָׁבוּעוֹת  וְחְַםִשָּׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is nineteen days, which is two weeks and five days of the Omer</i>
+</p>
+
+<h4>ֵֵAmbition in Harmony</h4>
+
 </div>
 
 <div class="abstract">
@@ -21,6 +35,7 @@ Into the _sefirah_ of **Tiferet**, the place of the Heart, we bring **Hod**, the
 **Hod** represents the form needed to shape the energies flowing in from **Netzach**, enabling those physical energies to manifest as specific physical sensations in the world. On the Tree of Life we are continually challenged to match force and form, to balance the energies of expression with those of receptivity. One without the other cannot exist.
 
 Yet if the force is too great for the form, the imbalance created leaves our energies spilling over aimlessly in the world. If the form is too great for the force, we experience the hollow of pretence.
+
 True Balance is not achieved once and for all. Each new balancing leads to the next imbalance. According to the kabbalistic image, imbalance is required for our growth. The Tree is dynamic, not static. It is a living representation of the way of evolution. The Tree exists within each of us as well as within every aspect of reality.[^1]
 
 Today we cherish each manifestation of form – as well as force. We bless the form of physical sensation as we bromg it into the Compassionate Centre of **Tiferet**. We are grateful for the forms of sensation through which we experience ourselves in the world. In releasing our resistance to the evolution of these forms, they become more flexible, enabling the energies for our next expansion to more fully emerge.
@@ -33,7 +48,7 @@ I am the Self through whom the Eternal One thinks, feels and speaks its Life in 
 
 <h3>Reflections</h3>
 
-<div class="notes">
+<div class="note">
 
 My friends, my children, brothers and sisters, the time is approaching. Just be strong. Believe in the Light of what you know to be true, and we will all meet in the next world, _Olam Ha'ba_, the world to come.
 

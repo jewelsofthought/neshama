@@ -1,14 +1,27 @@
 ---
 title: Chesed in Netzach
-description: Gentle perseverence
+description: 'Meditation for Day Twenty-Two: Gentle perseverence'
 tags: null
 date: 2022-05-07T03:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week4/4.1-Chesed_in_Netzach.png' target="_blank">
+   <img src='/posts/img/freedom/week4/4.1-Chesed_in_Netzach_s.png' alt='Chesed in Netzach' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Chesed she’b Netzach</h2>
-<i>Day One of Week 4:</i> 
-<p>Kindness in Perseverence</p>
+<span dir="rtl"><b>הָיום שְׁנַיִם וְעֶשְׂרִים יָוֹם שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וְיוֹם אֶחָד לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is twenty-two days, which is three weeks and one day of the Omer</i>
+</p>
+
+<h4>Kindness in Perseverence</h4>
 
 </div>
 

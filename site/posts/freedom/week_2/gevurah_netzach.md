@@ -1,6 +1,6 @@
 ---
 title: Netzach in Gevurah
-description: Enduring Constraint
+description: 'Meditation for Day Eleven: Enduring Constraint'
 tags: null
 date: 2022-04-26T00:04:00.000Z
 ---

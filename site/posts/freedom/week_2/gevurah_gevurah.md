@@ -1,6 +1,6 @@
 ---
 title: Gevurah in Gevurah
-description: Restrained Constraint
+description: 'Meditation for Day Nine: Restrained Constraint'
 tags: null
 date: 2022-04-24T00:04:00.000Z
 ---

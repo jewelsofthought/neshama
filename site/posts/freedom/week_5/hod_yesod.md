@@ -5,10 +5,23 @@ tags: null
 date: 2022-05-19T04:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week5/5.6-Yesod_in_Hod.png' target="_blank">
+   <img src='/posts/img/freedom/week5/5.6-Yesod_in_Hod_s.png' alt='Yesod in Hod' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Yesod she’b Hod</h2>
-<i>Day Six of Week 5:</i> 
-<p>Connection in Humility</p>
+<span dir="rtl"><b>הָיום אַרְבָּעָה וְשׁלושׁים יָוֹם שֶׁהֵם ארבעה שָׁבוּעוֹת וְשִׁשָּׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is thirty-four days, which is four weeks and six days of the Omer</i>
+</p>
+
+<h4>Connection in Humility</h4>
 
 </div>
 

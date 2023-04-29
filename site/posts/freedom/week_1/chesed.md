@@ -1,6 +1,6 @@
 ---
 title: Chesed
-description: The Journey Begins
+description: Week One - The Journey Begins
 tags: null
 date: 2022-04-16T00:02:00.000Z
 ---
@@ -11,7 +11,6 @@ date: 2022-04-16T00:02:00.000Z
 </figure>
 
 <div style="text-align: center; font-weight: bold">
-<p>The First Week </p>
 <h1 style="font-size: 300%; text-decoration: underline">חסד</h1>
 <h2>Chesed</h2>
 <p>Lovingkindness; Mercy, Love, Kindness; Expansion<p />
@@ -54,12 +53,11 @@ Each feeling we experience is itself a shell containing the unlimited flow of Di
 
 ## Meditation for the First Week at <i>Chesed</i>
 
-<blockquote>
+<blockquote class="is-centered">
 <p dir="rtl">
 וְאַתָּ֣ה אֲ֭דֹנָי אֵל־רַח֣וּם וְחַנּ֑וּן אֶ֥רֶךְ אַ֝פַּ֗יִם וְרַב־חֶ֥סֶד וֶאֱמֶֽת
 </p>
 <p>
-
 And You, Eternal One, are _El_, full of Compassion, Gracious, Long-suffering and Bountiful in Lovingkindness and Truth.
 -- (Psalm 86:15)
 </p>
@@ -71,7 +69,7 @@ From this place of limitation, this place of contraction, it is not possible to 
 
 Our journey thus begins with **Chesed**, the _sefirah_ of ever-flowing, over-flowing, energies of life. This week in **Chesed**, we honour the energies with which we are nourished.
 
-<div style="font-style: italic">
+<div class="abstract">
 <p>
 I acknowledge the abundant outpouring of possibility this week.
 </p>
@@ -88,4 +86,5 @@ I acknowledge all my feelings this week, honouring the energy they contain. I em
 <div class="note">
 
 I am the channel through which the energies of the Creator of the universe, blessed be His Name, flow. I am aware of His potential within me to bring blessing. Today my physical energy are nourished by the Spirit of Love which is the manifestation of **HaShem**'s compassion and mercy,  May His Name be remembered forever.
+
 </div>

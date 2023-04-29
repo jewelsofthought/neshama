@@ -5,12 +5,17 @@ tags: null
 date: 2022-05-14T00:01:00.000Z
 ---
 
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week5/5.0-Hod.png' target="_blank">
+   <img src='/posts/img/freedom/week5/5.0-Hod_s.png' alt='Hod' width='200' height='304' />
+ </a>
+</figure>
+
 <div style="text-align: center; font-weight: bold">
-<p>The Fifth Week </p>
-<h1 style="font-size: 300%; text-decoration: underline">נצח</h1>
-<h2>ִHod</h2>
+<h1 style="font-size: 300%; text-decoration: underline">הוד</h1>
+<h2>Hod</h2>
 <p>Humility; Reverberation<p />
-<h3 style="font-style: italic">Transformation through Sensation</h3>
+<h3 style="font-style: italic">Transformation through Humility</h3>
 </div>
 
 <div class="abstract">
@@ -22,9 +27,11 @@ If endurance is the engine of life, humility is its fuel. As **Gevurah** (discip
 Humility is the silent partner of endurance. Its strength is in its silence. Its splendour in its repose. Humility leads to yielding, which is an essential element of humility - and the resulting yielding - should not be confused with weakness and lack of self-esteem.
 
 Humility is modesty; it is acknowledgement (from the root _"hoda'ah"_). It is saying "thank you" to G-d. It is clearly recognizing your qualities and strengths and acknowledging that they are not your own; they were given to you by G-d for a higher purpose than just satisfying your own needs. Humility is modesty; it is recognizing how small you are which allows you to realize how large you can become. And that makes humility so formidable.
-Endurance draws its energy from the acknowledgement of humility. Human endurance goes only as far as your tolerance level.Acknowledging that your strengths come from a higher place gives you the power to endure far beyond your own perceived capacity. It gives you part of G-d's enduring strength.
+
+Endurance draws its energy from the acknowledgement of humility. Human endurance goes only as far as your tolerance level. Acknowledging that your strengths come from a higher place gives you the power to endure far beyond your own perceived capacity. It gives you part of G-d's enduring strength.
 
 A full cup cannot be filled. When you're filled with yourself and your needs, "I and nothing else", there is no room for more. When you "empty" yourself before something which is greater than yourself, you allow in much more than your limited capacity. Humility is the key to transcendence; to reach beyond yourself. Only true humility gives you the power of total objectivity.
+
 Humility is sensitivity; it is healthy shame out of recognition that you can be better than you are and that you expect more of yourself. Although humility is silent it is not a void. It is a dynamic expression of life that includes all seven qualities of love, discipline, compassion, endurance, humility, bonding and sovereignty. Humility is active not passive. Not a state of being but an interaction even in its calm and inaction.
 
 </div>
@@ -67,7 +74,7 @@ The Name of G-d at Hod is _Elohim Tzeva’ot_, which means “G-d of Hosts”. _
 </p>
 </blockquote>
 
-We move into higher energies of being becoming more aware ֹֹour current experience. In **Hod** we meet the particular forms in which our perceptions present themselves. Thus Hod informs our current experience of the world
+We move into higher energies of being becoming more aware ֹֹour current experience. In **Hod** we meet the particular forms in which our perceptions present themselves. Thus **Hod** informs our current experience of the world
 
 <div class="abstract">
 
@@ -77,14 +84,16 @@ Focus on the letters of the Name at this level, and let the sound and the image 
 
 <h3>Reflections</h3>
 
+<div class="note">
+
 The expansion of the left side of the tree will happen within its constraints, but will occur in many directions at once, unless channelled.
 
 The female “mate” provides the receptacle for this energy, but also must “draw” the energy towards it.
 
 That is “active” feminine energy – her power: the ability to draw things towards herself.
+</div>
 
-<h3>Reflections</h3>
+---
 
 [^1]: These "hosts" are the myriad perceptions we experience. _Elohim_ is indicative of the unity within these hosts, each containing some Light (gold) of the Creator.
-
 An analogy for these hosts is that of colour. Within white, we find all the colours we experience, each one affecting us in a different way.

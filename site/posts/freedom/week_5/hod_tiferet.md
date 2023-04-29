@@ -5,10 +5,23 @@ tags: null
 date: 2022-05-16T04:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week5/5.3-Tiferet_in_Hod.png' target="_blank">
+   <img src='/posts/img/freedom/week5/5.3-Tiferet_in_Hod_s.png' alt='Tiferet in Hod' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Tiferet she’b Hod</h2>
-<i>Day Three of Week 5:</i> 
-<p>Harmony in Humility</p>
+<span dir="rtl"><b>הָיום אֵֶחָד וְשׁלושׁים יָוֹם שֶׁהֵם ארבעה שָׁבוּעוֹת וּשְׁלוֹשָׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is thirty days, which is four weeks and three days of the Omer</i>
+</p>
+
+<h4>Harmony in Humility</h4>
 
 </div>
 

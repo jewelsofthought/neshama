@@ -1,6 +1,6 @@
 ---
 title: Chesed in Chesed
-description: Loving Mercy
+description: 'Meditation for Day One: Loving Mercy'
 tags: null
 date: 2022-04-16T00:04:00.000Z
 ---

@@ -1,6 +1,6 @@
 ---
 title: Hod in Gevurah
-description: Glory emerging in Restraint
+description: 'Meditation for Day Twelve: Glory emerging in Restraint'
 tags: null
 date: 2022-04-27T00:04:00.000Z
 modified: 2022-06-15

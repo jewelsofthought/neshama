@@ -1,6 +1,6 @@
 ---
 title: Malchut in Gevurah
-description: Receptive Restraint
+description: 'Meditation for Day Fourteen: Receptive Restraint'
 tags: null
 date: 2022-04-29T00:04:00.000Z
 ---
@@ -16,7 +16,8 @@ date: 2022-04-29T00:04:00.000Z
 
 <div style="text-align:center">
 <h2>Malkhut she’b Gevurah</h2>
-<span dir="rtl"><b>הָיום אַרְבָעָה עָשָׂר יוֹם שֶׁהֵם שָׁבוּעַ שְׁנֵי שָׁבוּעוֹת לָעוֹמֵר</b></span>
+<span dir="rtl"><b>הָיום אַרְבָעָה עָשָׂר יוֹם שֶׁהֵם שְׁנֵי שָׁבוּעוֹת לָעוֹמֵר</b></span>
+<br />
 <i>ֹToday is fourteen days, which is two weeks of the Omer</i>
 </p>
 

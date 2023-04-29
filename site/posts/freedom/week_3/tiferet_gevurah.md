@@ -1,14 +1,27 @@
 ---
 title: Gevurah in Tiferet
-description: Balanced Judgement
+description: 'Meditation for Day Sixteen: Balanced Judgement'
 tags: null
 date: 2022-05-01T01:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week3/3.2-Gevurah_in_Tiferet.png' target="_blank">
+   <img src='/posts/img/freedom/week3/3.2-Gevurah_in_Tiferet_s.png' alt='Gevurah in Tiferet' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Gevurah she’b Tiferet</h2>
-<i>Day Two of Week 3:</i> 
-<p>Restraint in Harmony</p>
+<span dir="rtl"><b>הָיום שִׁשָּׁה עָשָׂר יָוֹם שֶׁהֵם שְׁנֶי שָׁבוּעוֹת  וּשְׁנֶי יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is sixteen days, which is two weeks and two days of the Omer</i>
+</p>
+
+<h4>Restraint in Harmony</h4>
 
 </div>
 

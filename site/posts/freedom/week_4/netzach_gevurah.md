@@ -1,14 +1,27 @@
 ---
 title: Gevurah in Netzach
-description: Forming Ambition
+description: 'Meditation for Day Twenty-Three: Forming Ambition'
 tags: null
 date: 2022-05-08T03:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week4/4.2-Gevurah_in_Netzach.png' target="_blank">
+   <img src='/posts/img/freedom/week4/4.2-Gevurah_in_Netzach_s.png' alt='Gevurah in Netzach' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Gevurah she’b Netzach</h2>
-<i>Day Two of Week 4:</i>
-<p>Restraint in Ambition</p>
+<span dir="rtl"><b>הָיום שְׁלוֹשָׁה וְעֶשְׂרִים יָוֹם שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is twenty-three days, which is three weeks and two days of the Omer</i>
+</p>
+
+<h4>Restraint in Victory</h4>
 
 </div>
 

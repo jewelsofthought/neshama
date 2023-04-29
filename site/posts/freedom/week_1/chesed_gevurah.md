@@ -1,6 +1,6 @@
 ---
 title: Gevurah in Chesed
-description: Constraint in Love
+description: 'Meditation for Day Two: Constraint in Love'
 tags: null
 date: 2022-04-17T00:04:00.000Z
 ---

@@ -4,12 +4,16 @@ description: Transformation that occurs through discipline and endurance.
 tags: null
 date: 2022-05-07T00:01:00.000Z
 ---
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week4/4.0-Netzach.png' target="_blank">
+   <img src='/posts/img/freedom/week4/4.0-Netzach_s.png' alt='Netzach' width='200' height='304' />
+ </a>
+</figure>
 
 <div style="text-align: center; font-weight: bold">
-<p>The Fourth Week </p>
 <h1 style="font-size: 300%; text-decoration: underline">נצח</h1>
-<h2>ִNetzach</h2>
-<p>Victory; Enduring, Continuation, Everlasting</p>
+<h2>Netzach</h2>
+<p>Victory; Enduring, Continuation, Everlasting<p />
 <h3 style="font-style: italic">Transformation through Endurance</h3>
 </div>
 
@@ -26,7 +30,6 @@ Without endurance, any good endeavour or intention has no chance of success.
 <h3 style="text-align:center">Perseverance of Physical Energy</h3>
 
 I allow myself special time this week to relax into the moment and seek the not-yet-limited vibration behind all sensation. I become more aware of the pulsing energy which flows through me. I am surrounded and supported in this field of abundant Energy.{.abstract}
-
 
 ## The Sefirah on the Tree of Life
 

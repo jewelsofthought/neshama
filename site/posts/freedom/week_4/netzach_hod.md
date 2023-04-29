@@ -1,14 +1,27 @@
 ---
 title: Hod in Netzach
-description: Humble Ambition
+description: 'Meditation for Day Twenty-Six: Humble Ambition'
 tags: null
 date: 2022-05-11T03:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week4/4.5-Hod_in_Netzach.png' target="_blank">
+   <img src='/posts/img/freedom/week4/4.5-Hod_in_Netzach_s.png' alt='Hod in Netzach' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Hod she’b Netzach</h2>
-<i>Day Five of Week 4:</i> 
-<p>Humility in Ambition</p>
+<span dir="rtl"><b>הָיום שִׁשָּׁה וְעֶשְׂרִים יָוֹם שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וְחְַמִשָּׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is twenty-six days, which is three weeks and five days of the Omer</i>
+</p>
+
+<h4>Humility in Victory</h4>
 
 </div>
 

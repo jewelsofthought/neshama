@@ -20,11 +20,12 @@ The struggle is as old as the first Friday of the world’s existence. Adam an
 But we can’t shy away from the challenge, because being “’umble” encapsulates the purpose of existence. We are asked to pierce through the curtain of cosmic amnesia and reveal&mdash;first and foremost to ourselves&mdash;that ego is a delusion. The raison d’être of creation is that we discard the false and acquired consciousness we imbibed with that first bite, thereby regaining access to reality as it truly is&mdash;entirely one with G‑d.
 
 The fifth of the emotional abilities of the soul is called **Hod**, or “glory,” and it’s all about humility. It’s about experiencing the glory of the other; being one with the Source; ridding ourselves of false notions of the way things are.
-The name is etymologically related to three other Hebrew words. The first is *modeh*, and means “admission.” The second is *todah*, which connotes “gratitude,” and the third is *hoda’ah*, or “praise.” As we will see, each of these is deeply connected to the notion of selflessness embodied by **Hod**.
+
+The name is etymologically related to three other Hebrew words. The first is _modeh_, and means “admission.” The second is _todah_, which connotes “gratitude,” and the third is _hoda’ah_, or “praise.” As we will see, each of these is deeply connected to the notion of selflessness embodied by **Hod**.
 
 ## The Power of Non-Being
 
-Contrary to Uriah Heep’s bloating himself up with proclamations of humility, it is really the ability to be small that truly makes us great. Our base self believes we have power when we are ego-present. The more solid our ego, the more likely we are to push ahead and succeed in the world! However, true power comes from what the mystics call *ayin*, “nothingness.” It is at the moment that we get our ego out of the way that we can begin to plumb the depths of who we really are.
+Contrary to Uriah Heep’s bloating himself up with proclamations of humility, it is really the ability to be small that truly makes us great. Our base self believes we have power when we are ego-present. The more solid our ego, the more likely we are to push ahead and succeed in the world! However, true power comes from what the mystics call _ayin_, “nothingness.” It is at the moment that we get our ego out of the way that we can begin to plumb the depths of who we really are.
 
 This nothingness is not the “absence of all else.” Rather, it is the existence of an idea or entity as it stands in its source in a state of no-thing. At that place, deep in the source, everything that is yet to manifest from it is non-recognizable. It doesn’t yet exist in an individuated way.
 
@@ -37,13 +38,15 @@ Take this one layer down. Think for a moment of a flintstone. I’d contend that
 Each of the three analogies illustrates the notion that the more something is united with its source, the more it disappears. Each affords us a mental glimpse of the subtlety and layers of the disappearance act.
 
 The same thing applies at all levels of reality. Matter emerges from spirit, but you’d be hard-pressed to find it there.
-Similarly within our own souls. A simple definition of the ten powers of the soul is that they are a progressive and ever more individuated manifestation of its core beingness. Our ability to conceptualize[^1] is the most refined of the conscious dimensions of the soul. Its movement into our capacity to analyze[^2], and then subsequently into the talent to internalize information[^3],is at each stage a process of “materialization.”
+
+Similarly within our own souls. A simple definition of the ten powers of the soul is that they are a progressive and ever more individuated manifestation of its core beingness. Our ability to conceptualize is the most refined of the conscious dimensions of the soul. Its movement into our capacity to analyze, and then subsequently into the talent to internalize information, is at each stage a process of “materialization.”
 
 At each level, a more refined existence descends into a more material realm. Each lower soul-power can be identified once it separates from its source, yet if you’d “cut open” the higher soul-power, you’d not find the lower one there. It’s not that it doesn’t exist in the source. It does. However, there it exists in a way of non-being.
 
 ## What’s It Got to Do with Me?
 
 So much for the philosophy! What does this have to do with our lives?
+
 Getting into the space of **Hod** will change it dramatically. In our source, we can be anything we desire. Because our essence contains all of who we are, when we touch it, we have the ability to manifest as whatever we choose, at any given moment. We’re not locked into one way of being. We no longer have to think of ourselves with any specific label or identity.
 
 In our essence we are daughter, friend, CEO, comedienne, philosopher. We are all ways of knowing, and all feelings&mdash;love, awe, compassion. We are sitting stillness and dynamic action. There where we are no-thing, we are everything. Precisely in the place of non-attachment, we become infinite.
@@ -54,7 +57,7 @@ If you’re in touch with your essence, however, you don’t “outgrow” the b
 
 Certainly, we’re not meant to remain in our source. The fire within the flintstone must be brought to revelation. Conversely, though, we have to be able to retrace who we are to our personal ground zero. We must have access to our inner essence.
 
-Take, for example, our love for G‑d. It cannot remain in the heart. At the same time, it cannot be limited to externals. Love that is dependent on anything will die. True love will not, because it doesn’t take on any form connected to the revealed self. When you love G‑d in this way, you can bring that love into any form you choose. You can love your parent, spouse, child; you can love the sound of the *shofar*, the taste of *matzah*. You can even love mangoes and jazz. You’re infinite and free.
+Take, for example, our love for G‑d. It cannot remain in the heart. At the same time, it cannot be limited to externals. Love that is dependent on anything will die. True love will not, because it doesn’t take on any form connected to the revealed self. When you love G‑d in this way, you can bring that love into any form you choose. You can love your parent, spouse, child; you can love the sound of the _shofar_, the taste of _matzah_. You can even love mangoes and jazz. You’re infinite and free.
 
 And when you need to, you can feel the opposite feeling. You can respect, condemn something, push forward or pull back, whatever’s called for in the moment. Your whole existence becomes a manifestation of the oneness that you are at your core.
 
@@ -77,6 +80,7 @@ Whether you’re a sophisticated Uriah Heep whose whole reality is based on fals
 ## Bringing It Home
 
 How, though, does all we have said apply to the concepts of admission, gratitude and praise we mentioned at the outset?
+
 Admission is owning up to the truth. It’s walking away from a lie. Admitting to G‑d, by way of example, means this: G‑d says, “I am the only True Existence.” We, by contrast, say, “There is nothing other than me. I and nothing else exists!” To admit to G‑d means I walk away from the lie of ego.
 
 How can you admit to G‑d that you don’t exist? Only when you’re in touch with the very deepest level of who you are. Only when you access the part of you that is itself a part of G‑d, and is therefore not dependent on anything, can you make that kind of admission. You can destroy your whole consciousness with that understanding. That’s not to say recklessly, but in a holy way&mdash;you deconstruct the lie about how you’ve lived, and admit to G‑d that you don’t exist. Then, just as oil permeates all it comes in contact with, you essence will permeate all your existence.
@@ -92,4 +96,5 @@ Gratitude parallels this dynamic. To say, “Thank you,” to really say it, req
 If you’re coming from the consciousness of non-being, however, you can afford to receive from another person. You’re no longer threatened; no one can destroy you; another’s success or generosity can never detract from you. **Hod**, in this way, allows for true abundance mentality. The humility frees you up to be happy for another person’s ability to give. It allows you to truly say, “Thank you.”
 
 The same principle applies to praise. Just as with admission and gratitude, to truly praise someone requires nullification of the ego. This is evident in the underpinnings of praise. First off, it is from a state of humility that you are able to sense the other’s greatness. You’re focused not on yourself, but on the other person. Deeper than that, a non-ego state of consciousness allows you to gain access to what’s really beyond you, because you’re no longer in the way! From there you can begin to experience true wonder, and come to the highest form of praise.
+
 In the old world order, the exile mentality, “big” used to matter. Now, as the world is becoming more refined and is able to climb back up the ladder of cosmic progression, we are able to be small again. Our smallness is a non-being state that empowers us to be infinite. Only when we can be small can we truly connect to others and admit when we are wrong, express our gratitude and offer praise. Which is why, in the new world order, small is the new big.

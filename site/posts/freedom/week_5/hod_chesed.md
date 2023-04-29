@@ -4,11 +4,23 @@ description: 'Meditation for the Twenty-Ninth Day: Gentle Humility'
 tags: null
 date: 2022-05-14T04:04:00.000Z
 ---
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
 
-<div style="font-weight: bold; text-align:center">
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week5/5.1-Chesed_in_Hod.png' target="_blank">
+   <img src='/posts/img/freedom/week5/5.1-Chesed_in_Hod_s.png' alt='Chesed in Hod' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Chesed she’b Hod</h2>
-<i>Day One of Week 5:</i> 
-<p>Kindness in Humility</p>
+<span dir="rtl"><b>הָיום תשׁעה וְעֶשְׂרִים יָוֹם שֶׁהֵם ארבעה שָׁבוּעוֹת וְיוֹם אֶחָד לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is twenty-nine days, which is four weeks and one day of the Omer</i>
+</p>
+
+<h4>Kindness in Humility</h4>
 
 </div>
 

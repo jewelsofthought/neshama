@@ -1,6 +1,6 @@
 ---
 title: Yesod in Chesed
-description: Loving Connection
+description: 'Meditation for Day Six: Loving Connection'
 tags: null
 date: 2022-04-21T00:04:00.000Z
 ---

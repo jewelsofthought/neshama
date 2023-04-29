@@ -1,14 +1,27 @@
 ---
 title: Gevurah in Yesod
-description: 'Meditation for the Thirty-Seventh Day: Be careful with your connections'
+description: 'Meditation for Day Thirty-Seven: Be careful with your connections'
 tags: null
 date: 2022-05-22T05:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week6/6.2-Gevurah_in_Yesod.png' target="_blank">
+   <img src='/posts/img/freedom/week6/6.2-Gevurah_in_Yesod_s.png' alt='Gevurah in Yesod' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Gevurah she’b Yesod</h2>
-<i>Day Two of Week 6:</i> 
-<p>Restraint in Connection</p>
+<span dir="rtl"><b>הָיום שִׁבְעָה וְשׁלושׁים יָוֹם שֶׁהֵם חְַמִשָּׁה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is thirty-seven days, which is five weeks and two days of the Omer</i>
+</p>
+
+<h4>Restraint in Connection</h4>
 
 </div>
 

@@ -1,6 +1,6 @@
 ---
 title: Tiferet in Gevurah
-description: Harmonious Constraint
+description: 'Meditation for Day Ten: Harmonious Constraint'
 tags: null
 date: 2022-04-25T00:04:00.000Z
 ---

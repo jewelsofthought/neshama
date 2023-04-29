@@ -1,6 +1,6 @@
 ---
 title: Netzach in Chesed
-description: Enduring Love
+description: 'Meditation for Day Four: Enduring Love'
 tags: null
 date: 2022-04-19T00:04:00.000Z
 ---

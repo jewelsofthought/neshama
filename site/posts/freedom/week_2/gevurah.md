@@ -1,6 +1,6 @@
 ---
 title: Gevurah
-description: The Shaping begins
+description: Week Two - The Shaping begins
 tags: null
 date: 2022-04-23T00:01:00.000Z
 ---
@@ -11,8 +11,7 @@ date: 2022-04-23T00:01:00.000Z
 </figure>
 
 <div style="text-align: center; font-weight: bold">
-<p>The Second Week </p>
-<h1 style="text-decoration: underline">גבורה</h1>
+<h1 style="font-size: 300%; text-decoration: underline">גבורה</h1>
 <h2>Gevurah</h2>
 <p>Strength, Restraint, Discipline; Contraction<p />
 <h3 style="font-style: italic">Transformation through Fear</h3>
@@ -62,7 +61,7 @@ _Elohim_ is actually the plural form of the noun, yet it is almost always transl
 
 ## Meditation for the Second Week at <i>Gevurah</i>
 
-<blockquote>
+<blockquote class="is-centered">
 <p dir="rtl">
 הַרְפּ֣וּ וּ֭דְעוּ כִּֽי־אָנֹכִ֣י אֱלֹהִ֑ים
 </p>
@@ -72,13 +71,13 @@ Be still, and know that I am Elohim.<br />
 </p>
 </blockquote>
 
+This exploration requires us to embrace the immediacy of the present moment. As we focus fully and persistently on the contents of our awareness, each moment naturally expands. There is so much more in each moment, in each sensation and feeling, than we ever noticed before.
+
 <div class="abstract">
 
 Sitting and breathing calmly, become aware of your current experience in the world. Focus on your feelings as they arise. Begin to appreciate them without judgement.
 
 </div>
-
-This exploration requires us to embrace the immediacy of the present moment. As we focus fully and persistently on the contents of our awareness, each moment naturally expands. There is so much more in each moment, in each sensation and feeling, than I had ever noticed before.
 
 <h3>Personal Reflections</h3>
 
@@ -91,3 +90,4 @@ This starts with the non-acceptance somewhere in our ancestral line of feelings 
 Thus the suppression of a young girl's feelings could produce a mother/woman who wants people&mdash;especially her own children&mdash;to express their feelings. For a young boy, whose innocent desires were suppressed, might result in aberrent desires expressed in the realm of relationships.
 
 The suppression of feelings would also result in all sorts of idol (i.e. material) worship. For instance, alchoholism&mdash;or alcho-holism: the religion of worshipping the unholy demon of alchohol&mdash;whose holy essences abound and whose worshippers can obtain endless supplies of said essences, which reduce them to becoming mere puppets of its will.
+</div>

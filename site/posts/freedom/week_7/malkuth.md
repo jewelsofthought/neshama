@@ -5,15 +5,18 @@ tags: null
 date: 2022-05-28T00:01:00.000Z
 ---
 
-<div style="text-align: center; font-weight: bold"> 
-<p style="margin-bottom: 0">The Seventh Week </p>
-<h1 style="font-size: 300%; text-decoration: underline; margin-top: 0; margin-bottom: 0">מלכות</h1>
-<h2 style="margin-top: .5em; margin-bottom: 0">Malchut</h2>
-<p style="margin-top: .2em; margin-bottom: 0">Kingship; Actualisation, Sovereignty</p >
-<h3 style="font-style: italic; margin-top: .2em">Transformation through Self-Expression</h3>
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week7/7.0-Malkhut.png' target="_blank">
+   <img src='/posts/img/freedom/week7/7.0-Malkhut_s.png' alt='Malchut' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align: center; font-weight: bold">
+<h1 style="font-size: 300%; text-decoration: underline">מלכות</h1>
+<h2>Malchut</h2>
+<p>Kingship; Actualisation, Sovereignty<p />
+<h3 style="font-style: italic">Transformation through Self-Expression</h3>
 </div>
-<div style="margin-left: 2rem; margin-right: 2rem;text-align: justify">
-<div style="font-style: italic">
 
 Sovereignty - the last of the seven attributes - is different than the previous six. It is a state of being rather than an activity.
 
@@ -23,14 +26,9 @@ On the other hand, **Malchut** manifests and actualizes the character and majest
 
 **Malchut** is a sense of belonging. Knowing that you matter and that you make a difference. That you have the ability to be a proficient leader in your own right. It gives you independence and confidence. A feeling of certainty and authority. When a mother lovingly cradles her child on her bosom, the child receives the message that I am wanted and needed in this world. I have a comfortable place where I will always be loved. I have nothing to fear. I feel like a king in my heart. This is **Malchut**, kingship.
 
-</div>
-
 <h3>Sovereign self-expression</h3>
 
-In moments of quiet this week I explore more fully my current experience in the world. Without trying to change anything, I allow myself to accept and open to where and what I am now in the life I am living.
-
-</div>
-</div>
+In moments of quiet this week I explore more fully my current experience in the world. Without trying to change anything, I allow myself to accept and open to where and what I am now in the life I am living.{.abstract}
 
 ## The Sefirah on the Tree of Life
 
@@ -61,14 +59,14 @@ is <i>Adonai</i><br />
 
 _Adonai_ literally means “Lord”, and is the word we read as a replacement for the Tetragrammaton, the unspoken four-lettered Name of G-d. Here _Adonai_ is spelled as it sounds. On a higher level, it will be the name spoken as a reflection of that Name which is beyond speech.
 
-## Meditation for the Seventh Week at MALKUTH.
+## Meditation for the Seventh Week at MALKUTH
 
 <blockquote>
 <p dir="rtl">
 אֲ֭דֹנָי שְׂפָתַ֣י תִּפְתָּ֑ח וּ֝פִ֗י יַגִּ֥יד תְּהִלָּתֶֽךָ
 </p>
 <p>
-Adonai open my lips, that my mouth may declare your glory. 
+Adonai open my lips, that my mouth may declare your glory.
 -- (Prayerbook – Psalm 51:17)
 <p>
 </blockquote>

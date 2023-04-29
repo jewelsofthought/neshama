@@ -1,14 +1,26 @@
 ---
 title: Malkuth in Netzach
-description: Receptive Ambition
+description: 'Meditation for Day Twenty-Eight: Receptive Ambition'
 tags: null
 date: 2022-05-13T03:04:00.000Z
 ---
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
 
-<div style="font-weight: bold; text-align:center">
-<h2>Malkuth she’b Netzach</h2>
-<i>Day Seven of Week 4:</i> 
-<p>Receptiveness in Ambition</p>
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week4/4.7-Malchut_in_Netzach.png' target="_blank">
+   <img src='/posts/img/freedom/week4/4.7-Malchut_in_Netzach_s.png' alt='Malchut in Netzach' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
+<h2>Malchut she’b Netzach</h2>
+<span dir="rtl"><b>הָיום שְׁמוֹנָה וְעֶשְׂרִים יָוֹם שֶׁהֵם אַרְבָּעָה שָׁבוּעוֹת לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is twenty-eight days, which is four weeks of the Omer</i>
+</p>
+
+<h4>Humility in Victory</h4>
 
 </div>
 

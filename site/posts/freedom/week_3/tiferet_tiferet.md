@@ -1,14 +1,27 @@
 ---
 title: Tiferet in Tiferet
-description: Balanced Harmony - resonance!
+description: 'Meditation for Day Seventeen: Balanced Harmony - resonance!'
 tags: null
 date: 2022-05-02T01:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week3/3.3-Tiferet_in_Tiferet.png' target="_blank">
+   <img src='/posts/img/freedom/week3/3.3-Tiferet_in_Tiferet_s.png' alt='Tiferet in Tiferet' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Tiferet she’b Tiferet</h2>
-<i>Day Three of Week 3:</i>
-<p>Harmony in Harmony</p>
+<span dir="rtl"><b>הָיום שִׁבְעָה עָשָׂר יָוֹם שֶׁהֵם שְׁנֶי שָׁבוּעוֹת  וּשְׁלוֹשָׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is seventeen days, which is two weeks and three days of the Omer</i>
+</p>
+
+<p>Harmony in Balance</p>
 
 </div>
 
@@ -18,7 +31,7 @@ True compassion is limitless. It is not an extension of your needs and defined b
 
 Is my compassion serving myself as an expression of my  feelings of guilt? Does my compassion resound with vitality or is it expressed only out of obligation?
 
-Examine and refine your compassion, observing it's limitations and forms of expression.It must contain the other six elements of <b>Tiferet</b>, without which full compassion remains unrealized.
+Examine and refine your compassion, observing it's limitations and forms of expression. It must contain the other six elements of <b>Tiferet</b>, without which full compassion remains unrealized.
 
 >Express your compassion in a new way that goes beyond your previous limitations.
 
@@ -44,7 +57,9 @@ I open to the Light of **Tiferet** , receiving this Light in my heart-space unti
 
 <div class="note">
 
-The issue is the lack of relationship with G-d. I see this in the phrases used, eg. I release..., I allow..., I... instead of "May the Lord, **HaShem**, Mast of all, Creator of the Universe, release me, or help me dwell in the light of **Tiferet**, enabling or showing me how to allowing this Light to reach me, so that I may recieve it with grace, and share it with all around me. With Your guidance may this Light expand... With Your Grace, a deep inner healing can take place.
+The issue is the lack of relationship with G-d. I see this in the phrases used, eg. I release..., I allow..., I... instead of:
+
+"May the Lord, **HaShem**, Master of all, Creator of the Universe, release me, or help me dwell in the light of **Tiferet**, enabling or showing me how to allowing this Light to reach me, so that I may recieve it with grace, and share it with all around me. With Your guidance may this Light expand... With Your Grace, a deep inner healing can take place."{.abstract}
 
 </div>
 

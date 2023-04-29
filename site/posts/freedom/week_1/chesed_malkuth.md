@@ -1,6 +1,6 @@
 ---
 title: Malchut in Chesed
-description: Receiving Love
+description: 'Meditation for Day Seven: Receiving Love'
 tags: null
 date: 2022-04-22T00:04:00.000Z
 ---
@@ -16,7 +16,7 @@ date: 2022-04-22T00:04:00.000Z
 <div style="text-align:center">
 <h2>Malchut she’b Chesed</h2>
 <p>
-<span dir="rtl"><b>הָיום שִׁיבָה יָמִים שֶׁהֵם שָׁבוּעַ אֶחָד לָעוֹמֶר לָעוֹמֵר</b></span>
+<span dir="rtl">הָיום שִׁיבָה יָמִים שֶׁהֵם שָׁבוּעַ אֶחָד לָעוֹמֶר</span>
 <br />
 <i>Today is seven days, which is one week of the Omer</i>
 

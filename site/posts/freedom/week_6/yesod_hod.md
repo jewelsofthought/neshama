@@ -1,15 +1,27 @@
 ---
 title: Hod in Yesod
-description: 'Meditation for the Fortieth Day: Humbly connecting'
+description: 'Meditation for Day Forty: Humbly connecting'
 tags: null
 date: 2022-05-25T01:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
 
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week6/6.5-Hod_in_Yesod.png' target="_blank">
+   <img src='/posts/img/freedom/week6/6.5-Hod_in_Yesod_s.png' alt='Hod in Yesod' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Hod she’b Yesod</h2>
-<i>Day Five of Week 6:</i> 
-<p>Humility in Connection</p>
+<span dir="rtl"><b>הָיום ארבעים יָוֹם שֶׁהֵם חְַמִשָּׁה שָׁבוּעוֹת וְחְַמִשָּׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is forty days, which is five weeks and five days of the Omer</i>
+</p>
+
+<h4>Humility in Connection</h4>
 
 </div>
 
@@ -22,6 +34,7 @@ True humility comes from recognizing and acknowledging G-d in your life. Am I aw
 </div>
 
 There is something special about the number forty – it is a symbol of radical change in awareness. It rained forty days and nights during Noah’s time; Moses was alone atop the mountain for forty days, and we wandered the wilderness for forty years.
+
 In Jewish mystical tradition, there are four worlds. In each of the worlds there is a Tree of Life with ten _sefirot_. Four Trees yield forty _sefirot_. We are cautioned against studying Kabbalah before the age of forty. This is not a measure of time as much as a measure of awareness. We are to be well-grounded before such study can be of true meaning.
 
 Perhaps the forty days we have already spent on our journey this years are symbolic of such preparation. Perhaps we are all more ready now than ever before to receive that which awaits us at Sinai.

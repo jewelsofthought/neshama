@@ -1,6 +1,6 @@
 ---
 title: Hod in Chesed
-description: Humbly Loving
+description: 'Meditation for Day Five: Humbly Loving'
 tags: null
 date: 2022-04-20T00:04:00.000Z
 ---

@@ -1,9 +1,29 @@
 ---
 title: Tipheret in Yesod
-description: 'Meditation for the Thirty-Eighth Day: Enjoy harmonious bonds'
+description: 'Meditation for Day Thirty-Eight: Enjoy harmonious bonds'
 tags: null
 date: 2022-05-23T01:04:00.000Z
 ---
+
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week6/6.3-Tiferet_in_Yesod.png' target="_blank">
+   <img src='/posts/img/freedom/week6/6.3-Tiferet_in_Yesod_s.png' alt='Tiferet in Yesod' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
+<h2>Tiferet she’b Yesod</h2>
+<span dir="rtl"><b>הָיום שְׁמוֹנָה וְשׁלושׁים יָוֹם שֶׁהֵם חְַמִשָּׁה שָׁבוּעוֹת וּשְׁלוֹשָׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is thirty-eight days, which is five weeks and three days of the Omer</i>
+</p>
+
+<h4>Harmony in Connection</h4>
+
+</div>
 
 <div style="font-weight: bold; text-align:center">
 <h2>Tiferet she’b Yesod</h2>

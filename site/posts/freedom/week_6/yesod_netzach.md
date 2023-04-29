@@ -1,23 +1,35 @@
 ---
 title: Netzach in Yesod
-description: 'Meditation for the Thirty-Ninth Day: Enduring connection'
+description: 'Meditation for Day Thirty-Nine: Enduring connection'
 tags: null
 date: 2022-05-24T01:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
 
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week6/6.4-Netzach_in_Yesod.png' target="_blank">
+   <img src='/posts/img/freedom/week6/6.4-Netzach_in_Yesod_s.png' alt='Netzach in Yesod' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Netzach she’b Yesod</h2>
-<i>Day Four of Week 6:</i> 
-<p>Endurance in Connection</p>
+<span dir="rtl"><b>הָיום תשׁעה וְשׁלושׁים יָוֹם שֶׁהֵם חְַמִשָּׁה שָׁבוּעוֹת וְאַרְבָּעָה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is thirty-nine days, which is five weeks and four days of the Omer</i>
+</p>
+
+<h4>Endurance in Connection</h4>
 
 </div>
 
 <div class="abstract">
 
-_An essential component of bonding is its endurance. Its ability to withstand challenges and setbacks. Without endurance there is no chance to develop true bonding._
+An essential component of bonding is its endurance. Its ability to withstand challenges and setbacks. Without endurance there is no chance to develop true bonding.
 
-_Demonstrate the endurance nature of your bonding by confronting a challenge that obstructs the bond._
+Demonstrate the endurance nature of your bonding by confronting a challenge that obstructs the bond.
 
 </div>
 

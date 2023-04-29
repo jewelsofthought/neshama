@@ -1,18 +1,21 @@
 ---
 title: Tiferet
-description: Finding the place of dynamic balance
+description: "Week Three - Finding the place of dynamic balance"
 tags: null
 date: 2022-04-30T00:01:00.000Z
 ---
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week3/3.0-Tiferet.png' target="_blank">
+   <img src='/posts/img/freedom/week3/3.0-Tiferet_s.png' alt='Tiferet' width='200' height='304' />
+ </a>
+</figure>
 
 <div style="text-align: center; font-weight: bold">
-<p>The Third Week </p>
 <h1 style="font-size: 300%; text-decoration: underline">תפארת</h1>
 <h2>ִTiferet</h2>
 <p>Beauty; Harmony, Balance, Compassion<p />
 <h3 style="font-style: italic">Transformation through Harmony</h3>
 </div>
-<div style="margin-left: 2rem; margin-right: 2rem;text-align: justify">
 
 <div class="abstract">
 
@@ -20,7 +23,7 @@ date: 2022-04-30T00:01:00.000Z
 
 Truth is accessed through selflessness: rising above your ego and your prejudices, enables you to realize truth. The imbalance of love and discipline (and for that matter, any distortion) is a result of a subjective, hence limited perspective. Introducing truth, by suspending personal prejudices, allows you to express your feelings (including the synthesis of **Chesed** and **Gevurah**) in a balanced fashion.
 
-Breathe quietly, noticing the nature of my experience at this moment. Become more deeply aware of the feelings that are attached to all my thoughts and sensations. Each feeling limits emotional energy and allows it to be experienced and absorbed into my personal space.
+Breathe quietly, noticing the nature of your experience at this moment. Become more deeply aware of the feelings that are attached to all your thoughts and sensations. Each feeling limits emotional energy and allows it to be experienced and absorbed into your personal space.
 
 **Tiferet** blends the differing colours of love and discipline, and this harmony makes it beautiful. For **Tiferet** to be complete it needs the inclusion of the following seven facets: love of compassion, discipline of compassion, beauty of compassion, endurance of compassion, humility of compassion, bonding of compassion and sovereignty of compassion.
 
@@ -30,13 +33,15 @@ If love (**Chesed**) is the basis of human connection, discipline (**Gevurah**) 
 
 <h3 style="text-align:center">Balance in Compassion</h3>
 
+<div class="abstract">
+
 I remember the silence within, I remember to breathe gently and I simply accept my experience of this moment. I discover the space of my expanded identity when I breathe a Universal breath. I am a precious expression of a Universal identity.
 
 </div>
 
 ## The Sefirah on the Tree of Life
 
-**Tiferet** is the place where there is a deepening of the unfolding of Compassionate Awareness.
+**Tiferet** is the place where there is a deepening of Compassionate Awareness.
 
 The right side of the Tree signifies force, and the left side, form.[^1] The central pillar signifies not only balance but identify. **Tiferet** is the Centre of the Tree of Life, where force and form attain balance.
 
@@ -44,7 +49,7 @@ There are many representations of the Tree which have all the _sefirot_, except 
 
 The identity at **Tiferet** is the Inclusive “I”, the inclusive shared Self behind the exclusive ego-self. In **Tiferet**, there is a balance between the self which resides in the body and the Universal Self that exists beyond differentiation. Here the upper and lower worlds are connected.
 
-Tiferet is the Heart of the Tree, reflected as the heart-space within each one of us. It provides a central focus, a place of deepening of compassionate awareness.
+**Tiferet** is the Heart of the Tree, reflected as the heart-space within each one of us. It provides a central focus, a place of deepening of compassionate awareness.
 
 If the central pillar is the place of balance, it must also be the place of tension. **Tiferet** is asked to remain open to both force and form, to avoid the seductions of the limitlessness of force, as well as being bound by the limitations of form. Compassion is the experience at **Tiferet**&mdash;it is the acceptance of all that is given with equanimity. If it is true acceptance, then the flow might be balanced.
 
@@ -69,7 +74,7 @@ The Name **יהוה**, is a form of the Hebrew verb which means "to be," and so 
 
 ## Meditation for the Third Week at TIFERET
 
-<blockquote>
+<blockquote class="is-centered">
 <p dir="rtl">
 שִׁוִּ֬יתִי יְהוָ֣ה לְנֶגְדִּ֣י תָמִ֑יד
 </p>
@@ -79,7 +84,7 @@ I place YHVH before me always.<br />
 </p>
 </blockquote>
 
-Today we allow ourselves to awaken to a greater sense of balance. There is a peacefulness which expands within the Heart of our being, a peacefulness which gradually radiates through out consciousness. We open to an awareness that holds compassion for everything it touches.
+Today I allow myself to awaken to a greater sense of balance. There is a peacefulness which expands within the Heart of our being, a peacefulness which gradually radiates through my consciousness. I open to an awareness that holds compassion for everything it touches.{.abstract}
 
 ## Reflections
 
@@ -94,6 +99,8 @@ There are three trees:
 For a fuller explanation and diagrams, see the ["Engine of Emergence"](/posts/qkab/emergence/).
 
 </div>
+
+---
 
 [^1]: It is not only the balance between force and form, but also in the upper realm, between the expression of Mercy/Compassion versus the structures of Judgement/Strength. In the lower realm, it mediates the expression between physical force and physical forms.
 [^2]: The names, the unnameable – any appellation you give to **Ha’Shem** will reduce it. It can only be described by what it is not, never by what it is.

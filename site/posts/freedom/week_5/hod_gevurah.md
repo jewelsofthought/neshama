@@ -5,10 +5,23 @@ tags: null
 date: 2022-05-15T04:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week5/5.2-Gevurah_in_Hod.png' target="_blank">
+   <img src='/posts/img/freedom/week5/5.2-Gevurah_in_Hod_s.png' alt='Gevurah in Hod' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Gevurah she’b Hod</h2>
-<i>Day Two of Week 5:</i> 
-<p>Restraint in Humility</p>
+<span dir="rtl"><b>הָיום שׁלושׁים יָוֹם שֶׁהֵם ארבעה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is thirty days, which is four weeks and two days of the Omer</i>
+</p>
+
+<h4>Restraint in Humility</h4>
 
 </div>
 

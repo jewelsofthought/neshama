@@ -1,6 +1,6 @@
 ---
 title: Tiferet in Chesed
-description: Beauty in Love
+description: 'Meditation for Day Three: Beauty in Love'
 tags: null
 date: 2022-04-18T00:04:00.000Z
 ---

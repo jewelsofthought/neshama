@@ -1,6 +1,6 @@
 ---
 title: Yesod in Gevurah
-description: Connecting through Restraint
+description: 'Meditation for Day Thirteen: Connecting through Restraint'
 tags: null
 date: 2022-04-28T00:04:00.000Z
 ---

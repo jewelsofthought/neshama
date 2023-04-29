@@ -1,6 +1,6 @@
 ---
 title: Chesed in Gevurah
-description: Loving Restraint
+description: 'Meditation for Day Eight: Loving Restraint'
 tags: null
 date: 2022-04-23T00:04:00.000Z
 ---

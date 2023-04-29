@@ -1,14 +1,28 @@
 ---
 title: Yesod in Tiferet
-description: Connected Harmony
+description: 'Meditation for Day Twenty: Connected Harmony'
 tags: null
 date: 2022-05-05T01:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week3/3.6-Yesod_in_Tiferet.png' target="_blank">
+   <img src='/posts/img/freedom/week3/3.6-Yesod_in_Tiferet_s.png' alt='Yesod in Tiferet' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Yesod she’b Tiferet</h2>
-<i>Day Six of Week 3:</i>
-<p>Connection in Harmony</p>
+<span dir="rtl"><b>הָיום  עֶשְׂרִים יָוֹם שֶׁהֵם שְׁנֶי שָׁבוּעוֹת  וְשׁישָּׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is twenty days, which is two weeks and six days of the Omer</i>
+</p>
+
+<h4>Connection in Harmony</h4>
+
 </div>
 
 <div class="abstract">
@@ -40,14 +54,13 @@ The oneness that is I and that reflects the Creator, holy is His name, awakens w
 
 <h3>Reflections</h3>
 
-<div class="note">
-
 <blockquote style="text-align: center">
 
 "The finish line is for the ego.
 The journey is for the soul."
 
 </blockquote>
+<div class="note">
 
 No longer experiencing the awesome wonder of the Creation, we are asleep. We awaken, either through our soul being jolted awake, or suffering sufficient pain that we begin to acknowledge that the universe is infinite and we each have a piece of that infinity existing inside ourselves. We need then to become nothing again, so that God can now clothe us (_Essential Kabbalah_ by Daniel Matt, p. 71).
 

@@ -5,14 +5,18 @@ tags: null
 date: 2022-05-21T00:01:00.000Z
 ---
 
-<div style="text-align: center; font-weight: bold">
-<p style="margin-bottom: 0">The Sixth Week </p>
-<h1 style="font-size: 300%; text-decoration: underline; margin-top: 0; margin-bottom: 0">נצח</h1>
-<h2 style="margin-top: .5em; margin-bottom: 0">ִYesod</h2>
-<p style="margin-top: .2em; margin-bottom: 0">Foundation; Bonding or Connecting</p >
-<h3 style="font-style: italic; margin-top: .2em">Transformation through Intimacy</h3>
-</div>
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week6/6.0-Yesod.png' target="_blank">
+   <img src='/posts/img/freedom/week6/6.0-Yesod_s.png' alt='Yesod' width='200' height='304' />
+ </a>
+</figure>
 
+<div style="text-align: center; font-weight: bold">
+<h1 style="font-size: 300%; text-decoration: underline">יסוד</h1>
+<h2>Yesod</h2>
+<p>Foundation; Bonding or Connecting<p />
+<h3 style="font-style: italic">Transformation through Intimacy</h3>
+</div>
 
 <div class="abstract">
 
@@ -21,7 +25,7 @@ Bonding is on the same line of the mystical Tree of Life as Knowledge and Harmon
 In these connections, we’re looking for intimacy of some sort. That requires vulnerability, a putting aside of the ego: to know something intimately means to let go of your own way of knowing the world, and look at it from another perspective. You want to understand the thing as it is&mdash;not as you would like it to be. To love intimately means the same thing. If you don’t get your ego out of the way, someone else is not going to risk opening their heart to you. They don’t trust you, because the ego makes playthings of other’s most intimate lives. Similarly with Bonding: in order to be really intimate, you can have no agenda. A vision for something? Yes. Agenda? No![^1]
 
 <p style="text-align: center; font-style: normal">
-* * *
+*&nbsp;*&nbsp;*
 </p>
 
 Bonding is the ultimate emotional connection. While the first five qualities (love, discipline, compassion, endurance and humility) are interactive, they manifest duality: the lover and the beloved. The emphasis is on an individual's feelings, not necessarily on mutuality.
@@ -36,9 +40,7 @@ The foundation of **Yesod** is different from an ordinary foundation. It does no
 
 <h3 style="text-align:center">Centre and Foundation</h3>
 
-This week I honour the one at the centre of my thoughts, my feelings and my perceptions. I allow myself to appreciate this centre of my being by remaining open to the moment. I watch my judgements, my feelings, and my sensations. I welcome them from the centre of my individual self.
-
-</div>
+This week I honour the one at the centre of my thoughts, my feelings and my perceptions. I allow myself to appreciate this centre of my being by remaining open to the moment. I watch my judgements, my feelings, and my sensations. I welcome them from the centre of my individual self.{.abstract}
 
 ## The Sefirah on the Tree of Life
 
@@ -59,7 +61,7 @@ is <i>Shaddai</i> or <i>El Chai</i><br />
  שָדַי    </h4>
 </div>
 
-The Kabbalistic tradition assigns two names at **Yesod**&mdash;_El Chai_ or _Shaddai_. We will use both of them in this meditative process. _Shaddai_ (“The Almighty”) is a Name reflecting the power of G-d, and is the name inscribed on the outside of the _mezuzah_ scroll, and often on the outside of the container affixed to the doorpost. The _mezuzah_ is a small cylindrical container holding a hand-written parchment upon which several central verses from the Torah are inscribed. It is placed on the right side of a doorway (as one enters a home or a room). _El Chai_ (The Living G-d” or “The G-d of Life”) is a “Life” name, drawing our awareness to the channelling of Life energy through the _sefirah_ of **Yesod**.
+The Kabbalistic tradition assigns two names at **Yesod**&mdash;_El Chai_ or _Shaddai_. We will use both of them in this meditative process. _Shaddai_ (“The Almighty”) is a Name reflecting the power of G-d, and is the name inscribed on the outside of the _mezuzah_ scroll, and often on the outside of the container affixed to the doorpost. The _mezuzah_ is a small cylindrical container holding a hand-written parchment upon which several central verses from the Torah are inscribed. It is placed on the right side of a doorway (as one enters a home or a room). _El Chai_ ("The Living G-d" or "The G-d of Life") is a “Life” name, drawing our awareness to the channelling of Life energy through the _sefirah_ of **Yesod**.
 
 ## Meditation for the Sixth Week at YESOD
 

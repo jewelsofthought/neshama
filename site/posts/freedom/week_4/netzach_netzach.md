@@ -1,14 +1,28 @@
 ---
 title: Netzach in Netzach
-description: Endless Ambition
+description: 'Meditation for Day Twenty-Five: Endless Ambition'
 tags: null
 date: 2022-05-10T03:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week4/4.4-Netzach_in_Netzach.png' target="_blank">
+   <img src='/posts/img/freedom/week4/4.4-Netzach_in_Netzach_s.png' alt='Netzach in Netzach' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Netzach she’b Netzach</h2>
-<i>Day Four of Week 4:</i> 
-<p>Victory in Ambition</p>
+<span dir="rtl"><b>הָיום חְַמִשָּׁה וְעֶשְׂרִים יָוֹם שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וְאַרְבָּעָה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is twenty-five days, which is three weeks and four days of the Omer</i>
+</p>
+
+<h4>Perseverence in Ambition</h4>
 
 </div>
 

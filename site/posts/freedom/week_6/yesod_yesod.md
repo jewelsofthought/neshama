@@ -1,15 +1,27 @@
 ---
 title: Yesod in Yesod
-description: 'Meditation for the Fortieth-First Day: Humbly connecting'
+description: 'Meditation for Day Forty-One: Deeply connecting'
 tags: null
 date: 2022-05-26T01:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
 
-<h2>Hod she’b Yesod</h2>
-<i>Day Six of Week 6:</i> 
-<p>Humility in Connection</p>
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week6/6.6-Yesod_in_Yesod.png' target="_blank">
+   <img src='/posts/img/freedom/week6/6.6-Yesod_in_Yesod_s.png' alt='Yesod in Yesod' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
+<h2>Yesod she’b Yesod</h2>
+<span dir="rtl"><b>הָיום אֵֶחָד וְארבעים יָוֹם שֶׁהֵם חְַמִשָּׁה שָׁבוּעוֹת וְשִׁשָּׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is forty-one days, which is five weeks and six days of the Omer</i>
+</p>
+
+<h4>Foundation in Connection</h4>
 
 </div>
 

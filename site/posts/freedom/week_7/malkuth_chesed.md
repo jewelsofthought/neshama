@@ -1,13 +1,33 @@
 ---
 title: Chesed in Malkuth
-description: 'Meditation for the Forty-Third Day: Be Kind and Receive'
+description: 'Meditation for Day Forty-Three: Be Kind and Receive'
 tags: null
 date: 2022-05-28T04:04:00.000Z
 ---
 
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week7/7.1-Chesed_in_Malkhut.png' target="_blank">
+   <img src='/posts/img/freedom/week7/7.1-Chesed_in_Malkhut_s.png' alt='Chesed in Malkhut' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
+<h2>Chesed she’b Malkhut</h2>
+<span dir="rtl"><b>הָיום תשׁעה וְעֶשְׂרִים יָוֹם שֶׁהֵם ארבעה שָׁבוּעוֹת וְיוֹם אֶחָד לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is forty-three days, which is six weeks and one day of the Omer</i>
+</p>
+
+<h4>Kindness in Receiving</h4>
+
+</div>
+
 <div style="font-weight: bold; text-align:center">
 <h2>Chesed she’b Malkuth</h2>
-<i>Day One of Week 7:</i> 
+<i>Day One of Week 7:</i>
 <p>Kindness in Receiving</p>
 
 </div>

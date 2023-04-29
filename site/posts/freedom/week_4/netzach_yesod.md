@@ -1,13 +1,33 @@
 ---
 title: Yesod in Netzach
-description: Foundational Ambition
+description: 'Meditation for Day Twenty-Seven: Foundational Ambition'
 tags: null
 date: 2022-05-12T03:04:00.000Z
 ---
 
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week4/4.6-Yesod_in_Netzach.png' target="_blank">
+   <img src='/posts/img/freedom/week4/4.6-Yesod_in_Netzach_s.png' alt='Yesod in Netzach' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
+<h2>Yesod she’b Netzach</h2>
+<span dir="rtl"><b>הָיום שִׁבְעָה וְעֶשְׂרִים יָוֹם שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וְשִׁשָּׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is twenty-seven days, which is three weeks and six days of the Omer</i>
+</p>
+
+<h4>Humility in Victory</h4>
+
+</div>
+
 <div style="font-weight: bold; text-align:center">
 <h2>Yesod she’b Netzach</h2>
-<i>Day Six of Week 4:</i> 
+<i>Day Six of Week 4:</i>
 <p>Connection in Ambition</p>
 
 </div>

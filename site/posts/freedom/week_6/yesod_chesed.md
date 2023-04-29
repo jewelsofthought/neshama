@@ -1,16 +1,34 @@
 ---
 title: Chesed in Yesod
-description: 'Meditation for the Thirty-Sixth Day: Be Kind and Connect'
+description: 'Meditation for Day Thirty-Six: Be Kind and Connect'
 tags: null
 date: 2022-05-21T04:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week6/6.1-Chesed_in_Yesod.png' target="_blank">
+   <img src='/posts/img/freedom/week6/6.1-Chesed_in_Yesod_s.png' alt='Chesed in Yesod' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Chesed she’b Yesod</h2>
-<i>Day One of Week 6:</i> 
-<p>Kindness in Connection[^1]</p>
+<span dir="rtl"><b>הָיום שִׁשָּׁה וְשׁלושׁים יָוֹם שֶׁהֵם חְַמִשָּׁה שָׁבוּעוֹת וְיוֹם אֶחָד לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is thirty-six days, which is five weeks and one day of the Omer</i>
+</p>
+
+<h4>
+
+Kindness in Connection[^1]
+
+</h4>
 
 </div>
+
 <div class="abstract">
 
 Love is the heart of bonding.[^2] You cannot bond without love. Love establishes a reliable base which allows bonding to be built on. If you have a problem bonding, examine how much you love the one (or the object) you wish to bond with. Do I try to bond without first fostering a loving attitude? Is my bonding expressed in a loving manner? Demonstrate the bond you have with someone through acts of love.

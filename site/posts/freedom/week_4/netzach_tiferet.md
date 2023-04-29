@@ -1,14 +1,27 @@
 ---
 title: Tiferet in Netzach
-description: Compassionate Ambition
+description: 'Meditation for Day Twenty-Four: Compassionate Ambition'
 tags: null
 date: 2022-05-09T03:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week4/4.3-Tiferet_in_Netzach.png' target="_blank">
+   <img src='/posts/img/freedom/week4/4.3-Tiferet_in_Netzach_s.png' alt='Tiferet in Netzach' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
 <h2>Tiferet she’b Netzach</h2>
-<i>Day Three of Week 4:</i> 
-<p>Balance in Ambition</p>
+<span dir="rtl"><b>הָיום אַרְבָּעָה וְעֶשְׂרִים יָוֹם שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וּשְׁלוֹשָׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is twenty-four days, which is three weeks and three days of the Omer</i>
+</p>
+
+<h4>Balance in Ambition</h4>
 
 </div>
 
