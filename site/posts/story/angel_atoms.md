@@ -18,9 +18,9 @@ date: 2001-01-01T20:38:35.115Z
 
 ## Speak of Angels
 
-When G-d first started the creation of the world, He wanted it to be made up only of _chesed_, light and love. So he created Heaven/Garden of Eden. There all was peace and love and harmony. They praised G-d continuously, sang beautiful harmonies together, everything they did was in service to G-d, they never erred, never fought, all was peaceful and fulfilled.
+When G-d first started the creation of the world, He wanted it to be made up only of **Chesed**, light and love. So he created Heaven/Garden of Eden. There all was peace and love and harmony. They praised G-d continuously, sang beautiful harmonies together, everything they did was in service to G-d, they never erred, never fought, all was peaceful and fulfilled.
 
-But that was not the end of the emergence of Creation yet. It had not reached its ultimate goal. He knew that He had to ask the angels to descend lower, to, in a sense, clip their wings &mdash; but the gift of such a sacrifice would be to launch a world in which the miraculous could take place. So He gathered the council around Him, and said to them: "You are my holiest, and the mightiest of My angels. I need you all to gather your minions, and choose those among you who will be blessed by carrying out a task in My Name."
+But that was not the end of Creation yet. It had not reached its ultimate goal. He knew that He had to ask the angels to descend lower, to, in a sense, clip their wings &mdash; but the gift of such a sacrifice would be to launch a world in which the miraculous could take place. So He gathered the council around Him, and said to them: "You are my holiest, and the mightiest of My angels. I need you all to gather your minions, and choose those among you who will be blessed by carrying out a task in My Name."
 
 Once they had chosen, He, Blessed is His Holy Name, then said to them: "This is what you will do. You will remove their wings every aeon, (what we know today as Plank's constant), and appear in and as My creation. From there others will direct you to your place. Each aeon you will appear in this guise until you are no longer needed. Know that you are My beloveds, and will be the forces that will form creation. Go forth and emanate, for I am going to create a world in which will live beings who will become the guardians of the realm of both good and evil."
 
@@ -42,7 +42,7 @@ When Adam ate of the tree, G-d realised that something had changed. That somehow
 
 He went to Adam and asked him, "Why did you eat of the fruit? Adam replied that Eve had convinced him to eat of it. He then asked Eve, who blamed the snake. So he sent them all out of the Garden and into the world he had made for them, with only the skins that He had covered them with in which to contend with the world of light and dark.
 
-In the meantime, Samael, for being the angel who had shown Him what was needed to awaken the world was not _chesed_ alone, but also _gevurah_, constraint, or judgement, was given the lower realms, these realms of constraint, to rule over, and became known as the Prince of Darkness. While Lilith, became a consort of his, and continued to interfere with all births that came from Adam and his descendants.
+In the meantime, Samael, for being the angel who had shown Him what was needed to awaken the world was not **Chesed**_ alone, but also **Gevurah**, constraint, or judgement, was given the lower realms, these realms of constraint, to rule over, and became known as the Prince of Darkness. While Lilith, became a consort of his, and continued to interfere with all births that came from Adam and his descendants.
 
 He also raised Enoch up into the heavens and appointed him Prince over all of creation, in that he forms and fashions all that exists, and named him Melchezidick, the Prince of Light. He chose Enoch, because he was a man who was righteous in a world that had gone mad with lust.
 

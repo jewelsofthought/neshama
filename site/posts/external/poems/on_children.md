@@ -1,10 +1,10 @@
 ---
-title: On Children
-author: Kahlil Gibran
+title: On Children (Kahlil Gibran)
 article: The Prophet
 tags: null
 date: 2003-01-11T05:00:52.768Z
 modified: 2023-01-28T16:00:15.224Z
+stars: '*****'
 ---
 
 <h3>On Children</h3>

@@ -36,11 +36,13 @@ Upon awakening, by thanking G-d for providing you, a soul, with the extraordinar
 </div>
 
 **Hod** enters the week of **Netzach** with its gifts of Perceptual Forms for the Vital Energy that have been building. The channel between the left and right leg is alive with Light.
+
 **Hod** forms **Netzach**'s expression, so each is required for Creation to take place. It is the “Glory” of physical form appropriately reflecting the energies it receives. We now recognize the unfolding beauty of the forms with which **Netzach** is now blessed. We also witness these forms in other beings.
 
 There is a tension between **Netzach** and **Hod**, for in their communication true balance is difficult to achieve. In fact, each perceptual form, while containing the energy of **Netzach**, tends to close itself off from further flow. The flow of Energy yearns to be held in the form of a sensation, and then longs to be released.
 
 Energy contained too long in any shell loses its freshness, loses its connection to source. We seek to enable the form to respond naturally to that which it receives, so that we might avoid both excessive limitation or the creation of hollow shells of pretence.
+
 The dynamic interplay of Energy through the _sefirot_ becomes more "real" as it moves downward. Our bodies are forms in which the Energy from **Netzach** is realized. As this life-giving flow becomes more available, we become more aware of our health and wholeness. Our cells drink fully from the offering of **Netzach**, responding with new expansions and definitions of self.
 
 We begin to understand the dynamic of the Tree of Life as form expands to contain the greater energy it is given. **Hod** within **Netzach** allows the special fulfilment of the _sefirah_, and there is celebration.

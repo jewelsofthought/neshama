@@ -1,10 +1,15 @@
 ---
 title: Ongoing process of existence
-description: <i>Tefillin</i> is worn as a sign to remind us...
-tags: [process]
+description: Tefillin is worn as a sign to remind us...
+tags: null
+author: R' Aryeh Kaplan
+article: Tefillin
 date: 2010-01-20T04:11:23.542Z
-modified: 2022-01-21T08:27:32.751Z
+modified: 2023-05-03
+stars: "*** (Px)"
 ---
+
+[P - means personal; Px - means personal view of external text]{.is-hidden}
 
 > G-d is indicative of the ongoing process of creation/existence.
 
@@ -22,11 +27,9 @@ p36:
 
 Here is the explanation:
 
-"G-d's purpose in creation was to bestow good and He created the Torah as the means through which man attains this good. Thus the only ones who can reach the ultimate Good are those who accepted the Torah.
+> "G-d's purpose in creation was to bestow good and He created the Torah as the means through which man attains this good. Thus the only ones who can reach the ultimate Good are those who accepted the Torah.
 
-The ones who accepted the Torah are the Jewish people.
-
-G-d's original purpose required someone to receive His Good. In accepting the Torah, Israel become that someone...
+The ones who accepted the Torah are the Jewish people. G-d's original purpose required someone to receive His Good. In accepting the Torah, Israel become that someone...
 
 > ..The Jewish people are G-d's _Tefillin_.
 

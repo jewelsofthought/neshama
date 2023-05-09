@@ -84,16 +84,6 @@ Focus on the letters of the Name at this level, and let the sound and the image 
 
 <h3>Reflections</h3>
 
-<div class="note">
-
-The expansion of the left side of the tree will happen within its constraints, but will occur in many directions at once, unless channelled.
-
-The female “mate” provides the receptacle for this energy, but also must “draw” the energy towards it.
-
-That is “active” feminine energy – her power: the ability to draw things towards herself.
-</div>
-
 ---
 
-[^1]: These "hosts" are the myriad perceptions we experience. _Elohim_ is indicative of the unity within these hosts, each containing some Light (gold) of the Creator.
-An analogy for these hosts is that of colour. Within white, we find all the colours we experience, each one affecting us in a different way.
+[^1]: These "hosts" are the myriad perceptions we experience. _Elohim_ is indicative of the unity within these hosts, each containing some Light (gold) of the Creator. An analogy for these hosts is that of colour. Within white, we find all the colours we experience, each one affecting us in a different way.

@@ -1,9 +1,10 @@
 ---
-title: Modeh Ani - the full version
+title: Modeh Ani - the Morning prayer
 description: Every morning, I awaken with Your breath.
 tags: ['neshama', 'poem']
-date: 2010-01-12T11:20:54Z
+date: 2010-01-13T14:20:54Z
 modified: 2022-06-05
+stars: '****'
 ---
 
 <div style="text-align: center;">
@@ -11,7 +12,7 @@ modified: 2022-06-05
 <div style="font-weight: bold">
 
 <h1 style="font-size: 300%; text-decoration: underline">מודה אני</h1>
-<h2>Modeh Ani</h2>
+<h2><a href="https://hebrew4christians.com/Blessings/Daily_Blessings/Upon_Arising/upon_arising.html">Modeh Ani</a></h2>
 
 <h4>The Blessing upon Arising</h4>
 
@@ -21,30 +22,31 @@ modified: 2022-06-05
 -- Rabbi Sholom Dov Ber of Lubavitch
 </p>
 
-<p><strong>WHEN WE AWAKEN IN THE MORNING,</strong> G-d graciously restores our soul (<i>nefesh</i>within us in order to experience another day of life.
+<p><strong>WHEN WE AWAKEN IN THE MORNING,</strong> G-d graciously restores our soul (<i>nefesh</i> within us in order to experience another day of life.
 <p>
 
 </div>
 
 Every morning we recite the _Modeh Ani_ blessing. It is both a blessing and a prayer of faith.
 
-<h3 dir="rtl" >מודה אני לפניך מלך חי וקיים שהחזרת בי נשמתי בחמלה. רבה אמונתך
-</h3>
-<p><em>"I thank you, living an eternal King, for returning my soul within me in compassion. Great is your faithfulness."</em></p>
+  <figure>
+  <img src='/posts/img/judaica/modeh_ani_is_the_meditation_said_upon_awakening.png' alt='Modeh Ani' width='530' height='530' />
+  <figcaption>"I thank you, living an eternal King,<br /> for returning my soul within me in compassion &mdash; <br />great is your faithfulness."</figcaption>
+</figure>
+
+<p><em></em></p>
 
 It is a lovely prayer, and a lovely reminder.
 
-“Returning **my soul** within **me**”\_ is also an expression of the Triune nature of our conscious existence.
+_“Returning **my soul** within **me**”_ is also an expression of the Triune nature of our conscious existence.
 
 However it arouses certain questions in my mind for it seems to me that _“returning **my soul** within **me**”_ is an expression of the [Trinity](/posts/qkab/trinity). Going slower and in more detail, it is read as **You**, God, return **“my soul”** to **“me”**, meaning within my 'body'. The body referred to here is not really mine, but was provided to me by G-d.
 
 Who is the “I”, that possesses a soul that needs to be “returned” to a body?
 
-What we seem to have is the expression of the Divine (King) who returns a soul to a body. Here is Spirit, Soul and Body, and an additional 4th element, the **“me”** in the **“my soul”**. For the “I” that is referred to here is not “**You**, God”, neither am I the soul, nor the body. Although I am all of that too.
+What we seem to have is the expression of the Divine (King) who returns a soul to a body. Here is Spirit, Soul and Body, and an additional fourth element, the **“me”** in the **“my soul”**. For the “I” that is referred to here is not “**You**, God”, neither am I the soul, nor the body that is praying. Although I am all of that too. The only conclusion that I come to here, is the I am the soul that is the impetus here.
 
-Is there a 4th element here? For the question that turns here, is who am 'I' that is having this morning experience? Who is the one praying? It is not 'You, G-d', it is not my body, though it does the praying. The only conclusion that I come to here, is the I am the soul that is the impetus here.
-
-This is my response
+This is my response:
 
 > "I am of the angels, descended from the realm of the Elohim."
 
@@ -56,7 +58,7 @@ _B”shem_.
 
 I am the ray of supernal light,
 the light that casts no shadow
-entering the space of Constraint (_tzimtzum_).
+entering the space of _Tzimtzum_).
 I am the expression of the God-head
 in the body of Creation.
 I am the awakening. I am Me,

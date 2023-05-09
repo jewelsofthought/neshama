@@ -1,9 +1,11 @@
 ---
 title: Touched by an angel
+description: Only love sets us free
 author: Mary Angelou
 tags: null
 date: 2003-01-20T15:00:52.768Z
 modified: 2023-01-28T16:00:15.224Z
+stars: '****'
 ---
 
 <div class="poem">

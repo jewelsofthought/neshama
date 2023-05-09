@@ -4,7 +4,7 @@ description: 'Notes: You cannot gaze upon G-d!'
 pages:
   - 44
 tags: [speculum]
-date: 2010-10-19T16:02:59+02:00
+date: 2010-10-22T09:02:59+02:00
 ---
 
 ## Speech

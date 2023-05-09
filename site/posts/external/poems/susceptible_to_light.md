@@ -1,10 +1,10 @@
 ---
-title: Dazzlement
+title: Suseptible to Life
 author: Chelan Harkin
-article: (from) Susceptible to Light
 tags: null
 date: 2003-01-04T01:00:52.768Z
-modified: 2023-01-28T16:00:15.224Z
+modified: 2023-05-05T16:00:15.224Z
+stars: '*****'
 ---
 
 <div class="poem">

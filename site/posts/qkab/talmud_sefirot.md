@@ -10,7 +10,7 @@ modified: 2023-04-24
 
 # In the Beginning
 
-![The un(en)folding](/posts/img/qkab/beginning.png)
+![The un(en)folding](/site/posts/img/qkab/beginning.png)
 
 In the beginning there was only the infinite void – darkness, chaos, _tohu v’bohu_ – the unchanging, perfect, balanced. This was the absolute totality of the infinite of infinities, _Ein Sof Aur_. Perfection reigned, endless peace and harmony, no disturbance, no ripple... a state of complete nothingness, an infinite ocean of bliss.
 
@@ -37,11 +37,11 @@ NOTE: Thus we have 3 identifiable things - 2 events & some sort of interaction b
 
 ## The point of origin
 
-Imagine this spot of density – the [middle point](/posts/qkab/middle_point/index.html#the-middle-point).
+Imagine this spot of density – the [middle point](/site/posts/qkab/middle_point/index.html#the-middle-point).
 
 What is that point? It is a point of finity – the emergence of which takes an infinite amount of “energy”. One could say that it takes a infinity to produce a single finite point, and the mystery of the circle – which could be thought of as an expanded point (or a point could be thought of as a tiny circle – which is close to what we observe, as the particles that make up our world are not points at all, but “fields of influence”. This mystery of the circle speaks of the mystery by which the unbounded infinite becomes the bounded finite – creation ex-nihilo. The emergence of something from other; the source is different from the result, there being no correlation between cause and effect.
 
-From the [middle point](/posts/qkab/middle_point/index.html#the-middle-point) the universe emerged. We refer to it as the ‘big bang’. There is a version of this creation story that speaks of many big bangs occurring simultaneously.
+From the [middle point](/site/posts/qkab/middle_point/index.html#the-middle-point) the universe emerged. We refer to it as the ‘big bang’. There is a version of this creation story that speaks of many big bangs occurring simultaneously.
 
 ## Emergence from Infinity
 
@@ -55,7 +55,7 @@ It took billions of years to create this space and by saying that in the Realm o
 
 Everything starts of as a ‘point’. A point just represents presence and thus position. Nothing has yet ‘manifested’. It is just ‘in position’. Similar to voltage, which is ‘potential’ energy, and is ready to manifest as soon as it is hooked up to a circuit. Thus the energy of the point is potential, and it too waiting to be ‘connected’.
 
-Let us for a moment look at everything from this point of view. We can think of everything as consisting of points, but it is the [middle point](/posts/qkab/middle_point/index.html#the-middle-point), the point of origin that we could look at, and reduce an event to a ‘point’. In order to be connected, and thus flow, the point needs to recognise or acknowledge some other point. Think of it like a goal. One has to have somewhere one desires to go, in order to move. {[lech lecha](go.html)} [However, in Abram’s case, before he had been given the place to go, he was told by G-d to “_lech lecha_”.] It is like imagining some other point, and then heading in that direction. In a sense you could say that you created a line of energy between your present point, and some future point. The line that emerges to connect the two points is two dimensional, or binary. It could be looked at as the relationship between the two points. Like a vector, which is a line that has direction.
+Let us for a moment look at everything from this point of view. We can think of everything as consisting of points, but it is the [middle point](/site/posts/qkab/middle_point/index.html#the-middle-point), the point of origin that we could look at, and reduce an event to a ‘point’. In order to be connected, and thus flow, the point needs to recognise or acknowledge some other point. Think of it like a goal. One has to have somewhere one desires to go, in order to move. However, in Abram’s case, before he had been given the place to go, he was told by G-d “_lech lecha_” - leave, go, walk away. It is like imagining some other point, and then heading in that direction. In a sense you could say that you created a line of energy between your present point, and some future point. The line that emerges to connect the two points is two dimensional, or binary. It could be looked at as the relationship between the two points. Like a vector, which is a line that has direction.
 
 Now these two points could replicate or connect to many other points, creating patterns and objects of immense complexity and beauty, but they would only be able to interact in 2d. How then, does it manifest in 3d, I ask. Is it just a miracle, or magic, evolution or chance? It is, indeed, a mystery.
 
@@ -78,7 +78,7 @@ It is lovely to see, in the history of art, where most ancient art had a 2d, or 
   → emanations & creatures
   → reason: revelation of Its Names & Appellations
 
-**Anything we do not attain, we do not know the name of!**
+> Anything we do not attain, we cannot not know the name of.
 
 ## **Upper Simple Light**
 
@@ -116,8 +116,8 @@ After the **First Constraint** in the five worlds:
 | Emanation                            | _Atzilut_     |
 | Creation                             | _Beria_       |
 | Foundation                           | _Yetzira_     |
-| Action/                              |
-| The manifest realm/Kingdom of Heaven | _Assiya_      |
+| Action/Doing                         | _Assiya_ |
+| The manifest realm/Kingdom of Heaven |       |
 
 ## אור Spiritual Light
 
@@ -155,13 +155,13 @@ Before we begin, it is important to underline the fact that all of this is based
 
 For that reason I will make an effort to give every word its spiritual identity, detached of space, time and change. It is upon the readers to memorize the meaning of these words thoroughly, for it is impossible to repeat them every time.
 
-We begin with the **Tzimtzum Aleph**, the First Constraint, which occurred when the Infinite Supernal Presence restricted itself in order to enable the Emanation and thus create creation. Now, before this occurred, there only existed the Void, _Ein Sof_, which filled everything, everywhere, all the time. That was all there was. This creation/constraint occurred around a single point, which we call the middle point, producing a space that emanated after that was circular, because _Ohr Ein Sof_, the Infinite Presence, is perfect and balanced, thus the Constraint was also even. This is meaning of **Agol**, the Circle.
+We begin with the _Tzimtzum Aleph_, the First Constraint, which occurred when the Infinite Supernal Presence restricted itself in order to enable the Emanation and thus create creation. Now, before this occurred, there only existed the Void, _Ein Sof_, which filled everything, everywhere, all the time. That was all there was. This creation/constraint occurred around a single point, which we call the middle point, producing a space that emanated after that was circular, because _Ohr Ein Sof_, the Infinite Presence, is perfect and balanced, thus the Constraint was also even. This is meaning of _Agol_, the Circle.
 
 In all of this resides a mystery for it says that the reason for all of this, for all of creation, was “the revelation of Its Names and Appellations!" Why would It need us to “reveal” Its names and appelations? What does it really mean, for the Upper Simple Light to “reveal”? Is it by us “revealing” Its names, It is revealed? Is it like a marriage? As you spend more time together, you understand the other, and thus your spouse is “revealed” in the same way?
 
 1. Know, that before the Emanations were emanated and the Creations created, an Upper Simple Light[^1] had filled the entire reality.[^2] There was no vacant place,[^3] such as empty Air[^4] or a Space,[^5] but everything was filled with that simple, boundless Presence of Light.[^6] There was no idea of the Beginning nor of the End.[^7] All was One, Simple Light,[^8] completely balanced,[^9] called the Infinite Light, _Ohr Ein Sof_. [^10]
 
-Here we are describing in more detail what actually occurred at this momentous event, the one we might today know as the Big Bang Theory of Creation. It begins by emphasizing the fact that before anything emanated, or was created, there was only the Upper Simple Light, אור עליון פשוט, which filled everything, leaving no space vacant. This light expanded from the Vitality (strength, force, power) of the Creator.
+Here we are describing in more detail what actually occurred at this momentous event, the one we might today know as the Big Bang Theory of Creation. It begins by emphasizing the fact that before anything emanated, or was created, there was only the Upper Simple Light, [אור עליון פשוט]{dir="rtl"}, which filled everything, leaving no space vacant. This light expanded from the Vitality (strength, force, power) of the Creator.
 
 > Let me remind you that all the names and appellations used in the wisdom of the Kabbalah are never referring to the Vitality of the Creator but only to the Light that expands (or emanates) from Its Vitality. We are unable to utter a single word regarding Its Power, for the rule is that anything we do not attain, we do not know its name. Remember that and you will not fail!
 
@@ -170,13 +170,13 @@ Here we are describing in more detail what actually occurred at this momentous e
 There are two rudiments concerning these Worlds and Souls, we should discern in reality before us:
 
 1. They are fixed and exist in the Presence, Ein Sof, in all their measure and their glory.
-2. How they are arranged and hang down and innovate before us after the First Constraint, **Tzimtzum Aleph**, in the five Worlds: the Divine Template, Emanation, Creation, Foundation and Action - the Manifest Realm, Kingdom of Heaven – _Adam Kadmon_, _Atzilut_, _Beria_, _Yetzira_ and _Assiya_.
+2. How they are arranged and hang down and innovate before us after the First Constraint, _Tzimtzum Aleph_, in the five Worlds: the Divine Template, Emanation, Creation, Foundation and Action - the Manifest Realm, Kingdom of Heaven – _Adam Kadmon_, _Atzilut_, _Beria_, _Yetzira_ and _Assiya_.
 
 The Upper Light that extends from His Will, also known as his Vigour, or Power - _Atzmut_ - “had filled the entire reality.” This refers to the entire reality relating to their existence in the Void, Ein Sof, before the Constraint occurred. The Upper Light filled them entirely, until they had no vacant place left where correction and perfection could be added whatsoever.
 
 [^3]: There was no vacant place לא היה שום מקום פנוי. It means that before the Worlds were created there was only the Void, _Ein Sof_. There was no “vacant space,” meaning a place of dearth that would qualify for corrections because the Supernal Light, _Ohr Elyon_, filled that place. It left no room for the lower Beings, the _Tachtonim_ [the ones below], to distinguish themselves and add something to His completeness.
 
-Because of the **Tzimtzum** there came about a wanting and a vacant place for the corrections. However, do not be mistaken to think that this book speaks of a corporeal place.
+Because of the _Tzimtzum_ there came about a wanting and a vacant place for the corrections. However, do not be mistaken to think that this book speaks of a corporeal place.
 
 [^4]: … empty Air אויר ריקני This does not refer to corporeal air whatsoever but is talking of a spiritual Light, Ohr, that is called by that name. There are two aspects of this Light present in every Expression or Face, _Partzuf_. They are referred to as the Light of Wisdom, _Ohr de Hochma_, and the Light of Mercy, _Ohr de Hassadim_.
 
@@ -209,6 +209,7 @@ Because we awaken here, in this wave, we can only begin to work from this space.
 
 In the Divine realm, it could be said that the point and the circle emerged simultaneously, for it occurred in a place without time nor space.
 
+![Human Consciousness]("/posts/img/qkab/Diagram%20Kab5%20-%20Human%20Consciousness.png")
 <figure>
   <img src="/posts/img/qkab/Diagram%20Kab5%20-%20Human%20Consciousness.png" alt="Consciousness" width="400" height="400" />
   <figcaption>Human Consciousness</figcaption>
@@ -216,5 +217,31 @@ In the Divine realm, it could be said that the point and the circle emerged simu
 
 ---
 
-[^1]: Upper Simple Light: אור עליון פשוט. It refers to the Light that expands from the Vitality, [Strength, power, force] of the Creator.
+[^1]: [אור עליון פשוט]{dir='rtl'} &mdash; _Upper Simple Light_. . It refers to the Light that expands from the Vitality, [Strength, power, force] of the Creator.
 [^2]: What reality exist here, before any World had been created, that the Upper Light could fill? All the Worlds and all the Souls, that exist and that are destined to be created with all their incidents until the end of their correction, are all included in the Void, Ein Sof, in their full measure and glory.
+
+Because of the _Tzimtzum_ there came about a wanting and a vacant place for the corrections. However, do not be mistaken to think that this book speaks of a corporeal place.
+
+The Light of Wisdom is the expression of the vitality of the Face. The Light of Mercy only operates as a clothing or veiling over this Light, since the Light of Wisdom cannot permeate the _Partzuf_ if it does not wear the Light of Mercy first.
+
+However, sometimes, when this Face is constricted, it only has _Ohr de Hassadim_. You should know that that the Light of Mercy is called Air, or sometimes Wind – _Avir_, or _Ruach_. When it is by itself, without the Light of Wisdom, it is called “empty Air”. Then it waits for the Light of Wisdom to fulfil it.
+
+Before the Worlds were created such empty Air did not exist in reality at all, because there was not any earth there.
+
+Know, that the amount of that Desire and yearning is the entire substance that exists in the _Ne’etzal_. Thus, everything that exists in the _Ne’etzal_ that is not that substance, no longer relates to its substance, but to the Abundance that it receives from the _Ma'atzil_.
+
+Furthermore, this substance determines the Importance, _Gadlut_ [greatness, eminence, importance], and the level of each _Ne’etzal_, each _Partzuf_, and each _sefirah_. The Dissemination of the Supernal Light from the _Ma'atzil_ is certainly immeasurable, but it is the _Ne’etzal_ that limits the Flow, for it receives no more and no less than its measure of desire to receive. This is the criterion in spirituality, because there is no coercion there; it depends entirely on the Desire to Receive..
+
+For that reason we call this will to receive the “Vessel of Reception” of the _Ne’etzal_. It is regarded as its substance and the reason that it stopped being regarded as a _Ma'atzil_ and was denominated as a Ne’etzal. The Ne’etzal is defined by a substance that does not exist in the Ma'atzil whatsoever, for there is absolutely no will to receive in the Ma'atzil.
+
+There are four degrees in this substance, from Smallness, _Katnut_ [smallness, insignificance] to Greatness, _Gadlut_ of reception. The fourth degree, being the Greatness of the reception, is complete only in the Void, _Ein Sof_, before the Worlds were created. It is the only one that was subject to the Constraint, _Tzimtzum_, and we will clarify henceforth that it was emptied of every Flow that it had from the Void, _Ein Sof_, and remained a vacant Space. This is what the Sage means when he says that before the World was created this vacant Space did not exist.
+
+[^6]:
+
+[^7]:
+
+[^8]:
+
+[^9]:
+
+[^10]:

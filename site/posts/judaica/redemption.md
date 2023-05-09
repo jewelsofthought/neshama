@@ -2,14 +2,16 @@
 title: Redemption
 description: Judgement of body and soul
 tags: [neshama]
-date: 2010-01-18T04:11:23.542Z
+date: 2010-01-18T08:11:23.542Z
+modified: 2023-05-03
+stars: "***"
 ---
 
-1. [Speak of redemption:](#speak-of-redemption)
+1. [Speak of redemption](#speak-of-redemption)
 2. [End of Days](#end-of-days)
 3. [Meaning](#meaning)
 
-## Speak of redemption:
+## Speak of redemption
 
 I do not speak this way of sin and punishment. I dream of the Messianic age, of the time of redemption, of what and how to herald in the World to Come. And that in order to do that, we would need to balance the soul and the body so that they would no longer be separate – heralded by the need to incorporate the masculine and the feminine elements of our being – to bring back the Shechina from her exile when the 2nd temple was destroyed. But now we need to create this space in our own beings, and join together to create this place, the 3rd temple, the one I call the Temple of Truth, each one of us being the bricks with which this temple is fashioned.
 

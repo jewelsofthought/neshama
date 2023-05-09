@@ -2,7 +2,7 @@
 title: Sinai Files
 description: Moses argues for the Torah
 tags: null
-date: 2010-01-24T18:15:01.542Z
+date: 2010-01-19T09:05:01.542Z
 ---
 
 ## Sinai Files

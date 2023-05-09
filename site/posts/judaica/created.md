@@ -3,6 +3,7 @@ title: Created heaven and earth
 description: Overview of the sequence of creation.
 tags: [todo]
 date: 2010-01-03T18:01:23.542Z
+stars: "***"
 ---
 
 1. Created heaven & earth

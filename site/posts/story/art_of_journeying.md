@@ -22,20 +22,20 @@ TODO: Possibly include in brain story?{style="display:none"}
       1. [2.4.1. Sacral Pathways](#241-sacral-pathways)
       2. [2.4.2. Mental Pathways](#242-mental-pathways)
       3. [2.4.3. Heart Based Pathways](#243-heart-based-pathways)
-      4. [2.4.5. Shaman](#245-shaman)
+      4. [2.4.4 Shaman](#244-shaman)
    5. [2.5. All Paths](#25-all-paths)
 3. [3. Chapter: Sacred Space](#3-chapter-sacred-space)
    1. [3.1. Safe Place](#31-safe-place)
-   2. [3.2 Sacred Space](#32-sacred-space)
+   2. [3.2. Sacred Space](#32-sacred-space)
    3. [3.3. After constraint comes creation](#33-after-constraint-comes-creation)
 4. [Chapter 4: Shaman Journeying](#chapter-4-shaman-journeying)
-   1. [4.1 Why journey?](#41-why-journey)
-   2. [4.2 Entheogens](#42-entheogens)
-   3. [4.3 Benefits](#43-benefits)
-   4. [4.4 Service](#44-service)
+   1. [4.1. Why journey?](#41-why-journey)
+   2. [4.2. Entheogens](#42-entheogens)
+   3. [4.3. Benefits](#43-benefits)
+   4. [4.4. Service](#44-service)
 5. [Chapter 5: Soul Retrieval](#chapter-5-soul-retrieval)
    1. [5.1. Psychosis](#51-psychosis)
-      1. [5.1.2. Emerging and merging from and with psychosis](#512-emerging-and-merging-from-and-with-psychosis)
+      1. [5.1.1. Emerging and merging from and with psychosis](#511-emerging-and-merging-from-and-with-psychosis)
    2. [5.2. Dark night of the Soul](#52-dark-night-of-the-soul)
    3. [5.3. Meeting Yourself](#53-meeting-yourself)
 6. [Chapter 6: Safeties](#chapter-6-safeties)
@@ -60,9 +60,9 @@ TODO: Possibly include in brain story?{style="display:none"}
 8. [Chapter 8: Theory (\* Todo)](#chapter-8-theory--todo)
    1. [8.1. The Brain](#81-the-brain)
    2. [8.2 Pathways in the brain](#82-pathways-in-the-brain)
-      1. [8.1.1. Information](#811-information)
-      2. [8.1.2. Attitude is altitude](#812-attitude-is-altitude)
-      3. [8.1.3. Conscious/Unconscious](#813-consciousunconscious)
+      1. [8.2.1. Information](#821-information)
+      2. [8.2.2. Attitude is altitude](#822-attitude-is-altitude)
+      3. [8.2.3. Conscious/Unconscious](#823-consciousunconscious)
 9. [Chapter 9: The Nature of Shamanism](#chapter-9-the-nature-of-shamanism)
    1. [9.2. From Lyn’s thesis: P16](#92-from-lyns-thesis-p16)
    2. [9.3. Young Shaman](#93-young-shaman)
@@ -187,7 +187,7 @@ Shamanism that does use this sacral energy will use dance and drumming to activa
 
 This form of shamanism, which we call heart-based, and as such is gentle and supportive, calm and loving. It activates that energy and raises it. It assumes that we have already gone through many sacral trans-formations. This works on the connection points from the heart up, as opposed to the sacral ceremonies that connect from the belly to the earth.[^8]
 
-#### 2.4.5. Shaman
+#### 2.4.4 Shaman
 
 In the shamanic sense, we exist in the middle world and are the bridge between the upper and lower worlds.
 
@@ -219,7 +219,7 @@ In the same way, each one of us (and possibly each and every being and object th
 
 This is the “safe place” that we refer to in the inner realm that you encounter when on a journey. For this reason, once you have located it, the first action is to clean it out of all energies. And I mean ALL. Nothing must be in there, unless you have invited it or desire it to be there.
 
-### 3.2 Sacred Space
+### 3.2. Sacred Space
 
 Your first task upon arriving in this new space, is to create a safe place. I like to think of it as a sacred space. It is the place where no-one and nothing may enter without your permission. It is a place you have, or create, or find, inside yourself in which only you, the I exist. The only entity that may enter with you without first asking permission is your guide. No-one, nothing else may do so. At any point you may request that whatever has entered leave, and it is required, by law, to leave.
 
@@ -262,7 +262,7 @@ Just a note on the amazing effect of the sacred place that you have now prepared
 
 ## Chapter 4: Shaman Journeying
 
-### 4.1 Why journey?
+### 4.1. Why journey?
 
 We come to the crux of the matter – why journey at all? Before going onto that, let us discuss what a journey actually is. It is a way of travelling from this world (however you might describe the thisness or the worldness of this world) to the next, or spirit world.
 
@@ -270,7 +270,7 @@ This world is one of manifestation, of real things, real because they are caught
 
 However, using these methods without proper protocols, is equivalent to being a human cannon-ball—except you have no idea where you will land and what you will encounter. It is a totally unsupervised jetting of oneself into this other world, with no safeties, no guidance and little knowledge. That is probably why it was and still is practised mainly by youngsters.
 
-### 4.2 Entheogens
+### 4.2. Entheogens
 
 Almost every one of the elders that began the exploration into these entheogenic realms, except for a couple of notable exceptions, reached the conclusion that these are windows into these realms, and can teach us pathways into them, but are not, in themselves, the pathways. Ending back in the bosom of religious and spiritual practice as the sane path to this other realm.
 
@@ -278,13 +278,13 @@ In Judaism, we speak of two types of prophets. Those that have walked the path o
 
 In many cultures they have used similar methods, but generally in a much more communal and controlled situation. Mystics have learnt the pathways to that place, near-death experiencers have brought back information about it. The most complete set of data we have, is from the shamans of yore.
 
-### 4.3 Benefits
+### 4.3. Benefits
 
 Journeying is empowering. Firstly to realise the vastness of the space that is available to us to work in.
 
 Journeying, in the form that we do it, is blissful. Even after the first journey, you will find something about it that is very interesting and will no doubt remain with you for a while after. Some have found that even just witnessing another’s journey has awoken them. It will allay strange fears by enabling you to become aware of the possibility of having a safe place at the core of your being. In this world one connects with spirit, and thus comes that much closer to God.
 
-### 4.4 Service
+### 4.4. Service
 
 Do not think that this is a joy-ride, an evening’s entertainment. It is actually work. Yes, you can walk away from it, but if you wish to become engaged in, are called to service, you will soon realise that it is work. In acknowledging the realm of the spirit, you will then find that you will begin to allow it to penetrate your life. Thus you will begin to listen to that part of your being more and more.
 
@@ -318,7 +318,7 @@ That is where the concept of soul retrieval fits in. At the point of psychosis, 
 
 It is seeking prevention, instead of a cure using narrow methods of healing. It is better to have nipped the problem in the bud, rather than wait till it is so chronic that you need drastic intervention like surgery or chemo just to remove it.
 
-#### 5.1.2. Emerging and merging from and with psychosis
+#### 5.1.1. Emerging and merging from and with psychosis
 
 However and whenever any sort of psychosis appears, one needs to know that the healing can only occur after emerging. “Yea, though I walk through the valley of death, I will fear no evil, for the Lord is my witness”.
 
@@ -660,7 +660,7 @@ Thus we provide a structure, a certain method, a pathway that is the domain of t
 
 We know that a painter or dancer first has to have mastered her trade before she can begin to be really creative in her field. The mastering of the task is the left brained activity. In order to be fully engaged in it. first you have to overcome its doubts, and fears of “I cannot do it” or “This is too difficult” or “What’s in it for me?” or “My friends aren’t supporting me”. Then, once you have learned the technique, your left brain will be occupied and so the right brain can emerge. Thus it is with this particular technique.
 
-#### 8.1.1. Information
+#### 8.2.1. Information
 
 The purpose of these pathways, or mappings, is to hold information. It is a chemical representation of this information. We also know that it takes extra energy (and thus heat) to store information in a structure. In fact, we need an additional structure with its requirements to even contain the information.
 
@@ -684,7 +684,7 @@ Once you meet your spirit in all consciousness. Once you become more familiar wi
 
 Now you have a pathway to interacting with another, more mysterious aspect of yourself. It will give you strength and courage and support to walk through the difficult things in your life. It can even guide and advise you as necessary. It can illustrate trends, show you the result of what you have placed in your future. It will aid you in the creation of your life, which is your future too.
 
-#### 8.1.2. Attitude is altitude
+#### 8.2.2. Attitude is altitude
 
 Keeping in mind that what we are discussing here is a tool to add to your repertoire. Albeit a vital and extremely effective tool. As such, we need to spend some time making sure that you understand the importance of using the tool correctly. One could almost refer to it as a sacred tool, and, if not that, at least a chariot that enables one to travel to places inside oneself that have not been explored and have become chaotic and hidden due to the lack of attention and importance that our culture has placed around them.
 
@@ -704,7 +704,7 @@ This is not the purpose of what we are trying to achieve here. What we are hopin
 
 Once we attain that, we seek our _axis mundi_, the still place at the heart of the storm, signifying the axis around which our being revolves. It is called the soul in many of our traditions. We could call it the heart of the soul, as we would speak about the heart of a storm. Therein we can begin to discover our true, our Zen selves, starting off with our spirit guide, who will mentor and guide us in our journeys in this, for the most part, unknown realm.
 
-#### 8.1.3. Conscious/Unconscious
+#### 8.2.3. Conscious/Unconscious
 
 Yes, it is about delving into the unconscious aspects of the mind, but in a proscribed and highly-effective manner. We spend most of our time in the light of the so-called rational. I emphasise the so-called, as the rationality that we uphold is often very limited in its outlook, as the rational, by its very nature, is detail orientated. It works within a closed system, with well-defined limits. It focuses on the small, on the apprehensible. In addition, often what we label rational is based on very flimsy, if not incorrect, information and understanding.
 

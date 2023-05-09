@@ -388,10 +388,14 @@ Upon Moses "spreading out his hands to the Lord, the thunder and the hail ceased
 </p>
 </blockquote>
 
-## Haftorah - _Yechezkel_ 28:25
+## Haftorah - _Yechezkel_ 28:25-29-21
 
-This week's haftorah teaches us a profound lesson in arrogance and self dependency. Hashem instructed the prophet Yechezkel to deliver a crushing blow to Pharaoh and his Egyptian empire and predict its total destruction.
+1/10/2002 10:54 AM
 
-Hashem said, "Behold I am sending the sword after you that will decimate man and animal. Egypt will lay desolate and ruined... in response to your saying, 'The river is mine and I developed it.'" (29: 8,9) Hashem held Pharaoh and Egypt fully accountable for their arrogant approach to prosperity crediting their sustenance solely to their technology.
+This week's _haftorah_ teaches us a profound lesson in arrogance and self dependency. **HaShem** instructed the prophet Yechezkel to deliver a crushing blow to Pharaoh and his Egyptian empire and predict its total destruction.
 
-The above lesson reminds us never to forget our limited role in our personal success. We must never forget that Hashem is our true provider and He develops and secures our efforts with their ultimate success.
+**HaShem** said, "Behold I am sending the sword after you that will decimate man and animal. Egypt will lay desolate and ruined....in response to your saying, 'The river is mine and I developed it.'" (29:8,9)
+
+**HaShem** held Pharaoh and Egypt fully accountable for their arrogant approach to  prosperity crediting their sustenance solely to their technology.
+
+> Never to forget our limited role in our personal success. We must never forget that **HaShem** is our true provider and He develops and secures our efforts with their ultimate success.

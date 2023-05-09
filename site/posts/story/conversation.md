@@ -12,7 +12,7 @@ stars: '***'
 {TODO: does it fit with the Mekubalim story?}{.is-hidden}
 
 <div style="text-align: center">
-<span style="font-size: 200%; font-weight: bold"><bdo dir='rtl'>רצון יראיך יעשה</bdo></span>
+<span dir="rtl"style="font-size: 200%; font-weight: bold">רצון יראיך יעשה</span>
 </br>
 HE WILL DO THE WILL OF THOSE THAT FEAR HIM.
 </div>

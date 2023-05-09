@@ -2,8 +2,7 @@
 title: Book of Beliefs & Opinions
 description: Rabbi Saadia Gaon
 tags: [todo]
-date: Last Modified
-modified: 2010-01-02T12:11:23.542Z
+date: 2010-01-02T15:11:23.542Z
 ---
 
 1. [Beliefs \& Opinions (Saadia Gaon)](#beliefs--opinions-saadia-gaon)

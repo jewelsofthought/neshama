@@ -2,7 +2,7 @@
 title: Da'at Tevunah 58
 description: G-d's Existence
 tags: null
-date: 2010-01-08T01:11:18.856Z
+date: 2010-01-04T01:11:18.856Z
 modified: 2023-04-28
 ---
 1. [Da'at Tevunah 58](#daat-tevunah-58)

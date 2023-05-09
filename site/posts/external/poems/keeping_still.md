@@ -3,7 +3,8 @@ title: Keeping Still
 author: Pablo Neruda
 tags: null
 date: 2003-01-11T05:00:52.768Z
-modified: 2023-01-28T16:00:15.224Z
+modified: 2023-05-05
+stars: '****'
 ---
 
 <div class="poem">
