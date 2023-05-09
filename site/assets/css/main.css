@@ -2244,7 +2244,7 @@ a.list-item {
 .navbar.is-white .navbar-burger {
   color: #0a0a0a;
 }
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 1028px) {
   .navbar.is-white .navbar-start > .navbar-item,
   .navbar.is-white .navbar-start .navbar-link,
   .navbar.is-white .navbar-end > .navbar-item,
@@ -2456,7 +2456,7 @@ a.list-item {
 .navbar.is-primary .navbar-burger {
   color: #fff;
 }
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 1028px) {
   .navbar.is-primary .navbar-start > .navbar-item,
   .navbar.is-primary .navbar-start .navbar-link,
   .navbar.is-primary .navbar-end > .navbar-item,
@@ -2509,7 +2509,7 @@ a.list-item {
 .navbar.is-link .navbar-burger {
   color: #fff;
 }
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 1028px) {
   .navbar.is-link .navbar-start > .navbar-item,
   .navbar.is-link .navbar-start .navbar-link,
   .navbar.is-link .navbar-end > .navbar-item,
@@ -2562,7 +2562,7 @@ a.list-item {
 .navbar.is-info .navbar-burger {
   color: #fff;
 }
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 1028px) {
   .navbar.is-info .navbar-start > .navbar-item,
   .navbar.is-info .navbar-start .navbar-link,
   .navbar.is-info .navbar-end > .navbar-item,
@@ -2615,7 +2615,7 @@ a.list-item {
 .navbar.is-success .navbar-burger {
   color: #fff;
 }
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 1028px) {
   .navbar.is-success .navbar-start > .navbar-item,
   .navbar.is-success .navbar-start .navbar-link,
   .navbar.is-success .navbar-end > .navbar-item,
@@ -2668,7 +2668,7 @@ a.list-item {
 .navbar.is-warning .navbar-burger {
   color: rgba(0, 0, 0, 0.7);
 }
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 1028px) {
   .navbar.is-warning .navbar-start > .navbar-item,
   .navbar.is-warning .navbar-start .navbar-link,
   .navbar.is-warning .navbar-end > .navbar-item,
@@ -2721,7 +2721,7 @@ a.list-item {
 .navbar.is-danger .navbar-burger {
   color: #fff;
 }
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 1028px) {
   .navbar.is-danger .navbar-start > .navbar-item,
   .navbar.is-danger .navbar-start .navbar-link,
   .navbar.is-danger .navbar-end > .navbar-item,
@@ -2945,7 +2945,7 @@ a.navbar-item.is-active,
   margin: 0.5rem 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1028px) {
   .navbar > .container {
     display: block;
   }
@@ -3001,7 +3001,9 @@ a.navbar-item.is-active,
     padding-bottom: 3.25rem;
   }
 }
-@media screen and (min-width: 769px) {
+
+/* TODO: Needs to be changed in SASS! */
+@media screen and (min-width: 1028px) {
   .navbar,
   .navbar-menu,
   .navbar-start,

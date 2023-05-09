@@ -1,11 +1,5 @@
 <!doctype html>
 <html lang="en">
-PUBLIC "-//W3C//DTD HTML 4.01//EN"
-      "http://www.w3.org/TR/html4/strict.dtd">
-<html lang="en-US">
-<link rel="icon" 
-      type="image/ico" 
-      href="/favicon.ico">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,7 +19,9 @@ PUBLIC "-//W3C//DTD HTML 4.01//EN"
    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
     <!--link rel="stylesheet" href="{{ '/assets/css/debug.css' | url }}"-->
-
+    <link rel="icon" 
+      type="image/ico" 
+      href="/favicon.ico">
   </head>
   <body>
 
@@ -36,8 +32,8 @@ PUBLIC "-//W3C//DTD HTML 4.01//EN"
     
     <!--content -->
     <div class="container">
-      <div class="columns layout-base">
-      <div class="column is-offset-1 is-10">
+      <div class="columns layout-base maxwidth">
+      <div class="column">
         <main role="main" class="content{% if templateClass %} {{ templateClass }}{% endif %}">
         {{ content | safe }}
         </main>

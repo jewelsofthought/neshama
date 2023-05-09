@@ -4,6 +4,25 @@
   }
 }
 
+@media print {
+  header {
+    display:none !important;
+  }
+  content.blog-post {
+    font-size: 1em;
+    line-height: 1.2;
+    width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .layout-base {
+    padding: 0;
+  }
+  content.blog-post > .box {
+    padding-left: 0;
+  }
+}
+
 .main-content .tc ol {
   list-style-type: decimal;
   margin: 0.1em 1em;
@@ -39,6 +58,10 @@ span:dir(rtl) {
   font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
   font-weight: 900;
   font-size: 1.1rem;
+}
+
+.content blockquote {
+  padding: 0.2em 1.5em;
 }
 
 blockquote:dir(rtl),
@@ -259,6 +282,12 @@ a:hover + div {
   margin-left: -1.7em;
   font-size: small;
 }
+
+.mycaption {
+  padding-left: 3em;
+  font-style: italic;
+}
+
 /* Popup arrow 
 .popup .popuptext::after {
   content: '';
@@ -270,6 +299,8 @@ a:hover + div {
   border-style: solid;
   border-color: #555 transparent transparent transparent;
 }
+
+
 */
 /* Toggle this class - hide and show the popup */
 .popup .show {
@@ -296,3 +327,20 @@ a:hover + div {
     opacity: 1;
   }
 }
+
+
+/* TODO: This needs to be changed in SASS 
+         To increase the size of the screen for this media call
+         so that the navbar will behave correctly and not overflow the display area, instead become a burger sooner. */
+/*
+@media screen and (min-width: 1028px) {
+  .navbar,
+  .navbar-menu,
+  .navbar-start,
+  .navbar-end {
+    align-items: stretch;
+    display: flex;
+  }
+
+  ... etc.
+*/
