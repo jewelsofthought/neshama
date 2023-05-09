@@ -149,13 +149,14 @@ module.exports = function(eleventyConfig) {
 	eleventyConfig.addWatchTarget("site/assets/css/");
 
   // Copy the `img` and `css` folders to the output
-  eleventyConfig.addPassthroughCopy("site/references");
+  eleventyConfig.addPassthroughCopy({"site/assets/fontawesome/css/": "assets/fonts/"});
+  eleventyConfig.addPassthroughCopy({"site/assets/fontawesome/webfonts/": "assets/webfonts/"});
+  eleventyConfig.addPassthroughCopy("site/favicon.ico");
   eleventyConfig.addPassthroughCopy("site/assets/css");
   eleventyConfig.addPassthroughCopy("site/assets/img");
   eleventyConfig.addPassthroughCopy("site/assets/js");
   eleventyConfig.addPassthroughCopy("site/posts/img/**/*");
-  eleventyConfig.addPassthroughCopy({"site/assets/fontawesome/css/": "assets/fonts/"});
-  eleventyConfig.addPassthroughCopy({"site/assets/fontawesome/webfonts/": "assets/webfonts/"});
+  eleventyConfig.addPassthroughCopy("site/references/");
 
 	// Markdown
 	const markdownIt = require("markdown-it");
