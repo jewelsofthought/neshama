@@ -34,12 +34,9 @@ async function imageShortcode(src, alt) {
 }
 
 // Import transforms (min)
-
 // Import data files
 // use _data/site.js (included as module) instead of _data/metadata.json?
 
-
-//
 module.exports = function(eleventyConfig) {
 
   // Add plugins (filters)
@@ -58,21 +55,20 @@ module.exports = function(eleventyConfig) {
 		return values.slice().sort((a, b) => a.data.title.localeCompare(b.data.title))
 	});
 
-	// Add date filter
+  // Add date filter
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
   });
 
-	// Add math filter
-	eleventyConfig.addFilter('latex', content => {
-		return content.replace(/\$\$(.+?)\$\$/g, (_, equation) => {
-			const cleanEquation = equation
-				.replace(/&lt;/g, '<')
-				.replace(/&gt;/g, '>')
-
-			return katex.renderToString(cleanEquation, { throwOnError: false })
-		})
-	});
+  // Add math filter
+  eleventyConfig.addFilter('latex', content => {
+    return content.replace(/\$\$(.+?)\$\$/g, (_, equation) => {
+      const cleanEquation = equation
+        .replace(/&lt;/g, '<')
+        .replace(/&gt;/g, '>') 
+	return katex.renderToString(cleanEquation, { throwOnError: false }) 
+      })
+  });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
@@ -133,20 +129,20 @@ module.exports = function(eleventyConfig) {
   }
   eleventyConfig.addFilter('sortByOrder', sortByOrder); 
 
-	eleventyConfig.addCollection("postsAscending", (collection) =>
-		collection.getFilteredByGlob("posts/*.md").sort((a, b) => {
-				if (a.data.title > b.data.title) return -1;
-				else if (a.data.title < b.data.title) return 1;
-				else return 0;
-		})
-	);
+  eleventyConfig.addCollection("postsAscending", (collection) =>
+    collection.getFilteredByGlob("posts/*.md").sort((a, b) => {
+      if (a.data.title > b.data.title) return -1;
+      else if (a.data.title < b.data.title) return 1; 
+        else return 0;
+    })
+  );
 
-	// To include sass
-	// need to add "sass -watch" to package.json
-	// eleventyConfig.addWatchTarget("./site/sass/");
-	// 
-	// For now, just watch the css folder for any changes
-	eleventyConfig.addWatchTarget("site/assets/css/");
+  // To include sass
+  // need to add "sass -watch" to package.json
+  // eleventyConfig.addWatchTarget("./site/sass/");
+  // 
+  // For now, just watch the css folder for any changes
+  eleventyConfig.addWatchTarget("site/assets/css/");
 
   // Copy the `img` and `css` folders to the output
   eleventyConfig.addPassthroughCopy({"site/assets/fontawesome/css/": "assets/fonts/"});
@@ -158,12 +154,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("site/posts/img/**/*");
   eleventyConfig.addPassthroughCopy("site/references/");
 
-	// Markdown
-	const markdownIt = require("markdown-it");
-	const markdownItAnchor = require("markdown-it-anchor");
-	const markdownItFootnote = require("markdown-it-footnote");
-	const markdownItAttr = require("markdown-it-attrs");
-	const markdownItSpan = require("markdown-it-bracketed-spans");
+  // Markdown
+  const markdownIt = require("markdown-it");
+  const markdownItAnchor = require("markdown-it-anchor");
+  const markdownItFootnote = require("markdown-it-footnote");
+  const markdownItAttr = require("markdown-it-attrs");
+  const markdownItSpan = require("markdown-it-bracketed-spans");
 
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
@@ -217,9 +213,18 @@ module.exports = function(eleventyConfig) {
     ghostMode: false
   });
 
-	// Use image shortcode to render images
+  // Use image hortcode to render images
   eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
   eleventyConfig.addJavaScriptFunction("image", imageShortcode);
+
+  eleventyConfig.addShortcode("youtube", function(videoURL, title)  {
+    const url = new URL(videoURL);
+    const id = url.searchParams.get("v");
+console.log(id); 
+    return `<iframe class="yt-shortcode" src="https://www.youtube-nocookie.com/embed/${id}" title="YouTube video player${
+      title ? ` for ${title}` : ""}" frameborder="0" allowfullscreen></iframe>`;
+  });
+
 
   return {
     // Control which files Eleventy will process
