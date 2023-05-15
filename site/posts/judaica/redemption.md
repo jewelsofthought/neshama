@@ -19,17 +19,17 @@ What we still need to create this, what can inspire us, are the great stories, n
 
 ## End of Days
 
-If we truly believed that this is the “end of days”, that the time of global transformation is happening and that Armageddon is knocking on our doors, would we really continue to behave as we do? For, surely, we know that if we continue to act as we always have, nothing will change?
+If we truly believed that this is the "end of days", that the time of global transformation is happening and that Armageddon is knocking on our doors, would we really continue to behave as we do? For, surely, we know that if we continue to act as we always have, nothing will change?
 
 If you knew that you were about to die, would you continue to behave in the same manner as you do right now? Where you have lulled yourself into believing you will live forever, or if not forever, that you will not die, not now? Maybe tomorrow, maybe in a week, or a month, or a year, or even ten – just not now?
 
-If you were told that you were about to die, would you not ask why me? Why now? You would say, “I still have so much to do…”
+If you were told that you were about to die, would you not ask why me? Why now? You would say, "I still have so much to do…"
 
-So I ask, “Are you doing that which you have to do before you die? Are you doing those things that you have not yet got around to doing? Those important things? And why are you not then doing them, right now?
+So I ask, "Are you doing that which you have to do before you die? Are you doing those things that you have not yet got around to doing? Those important things? And why are you not then doing them, right now?
 
 ## Meaning
 
-We imbue meaning into other’s lives, because we are afraid to face the meaningfulness or lack thereof our own lives.
+We imbue meaning into other's lives, because we are afraid to face the meaningfulness or lack thereof our own lives.
 
 How can we really expect those who have not lived a normal life, who have not participated in the normal activities of life, to lead us to paradise? Our leaders reach a level of existence which is available only to a very few, and yet we look to them to answer the questions that we, the plebeians, face? That is not their challenge, on the contrary, their purpose is, once having achieved, to maintain their place of privilege and position.
 

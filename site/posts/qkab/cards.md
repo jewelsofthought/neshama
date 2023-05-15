@@ -8,7 +8,7 @@ stars: '***'
 ---
 
 1. [Kaballah (qkab)](#kaballah-qkab)
-2. [Merkava Descent (qkab/shaman)](#merkava-descent-qkabshaman)
+2. [Merkabah Descent (qkab/shaman)](#merkabah-descent-qkabshaman)
 3. [Metatron (qkab)](#metatron-qkab)
 4. [Quanta (qkab)](#quanta-qkab)
 5. [Desire \[qkab\]](#desire-qkab)
@@ -24,7 +24,7 @@ stars: '***'
 15. [Arrogance \[neshama\]](#arrogance-neshama)
 16. [Enlightenment](#enlightenment)
 17. [D.T. Suzuki (Notes: P21) \[qkab\]](#dt-suzuki-notes-p21-qkab)
-18. [Shekhina \[qkab\]](#shekhina-qkab)
+18. [Shekhinah \[qkab\]](#shekhinah-qkab)
 19. [Insight \[qkab\]](#insight-qkab)
 20. [Divine Spark \[qkab\]](#divine-spark-qkab)
 21. [Infinite collections \[qkab/math\]](#infinite-collections-qkabmath)
@@ -43,20 +43,22 @@ stars: '***'
 34. [Good and bad](#good-and-bad)
 35. [(un)Manifest](#unmanifest)
 36. [Everything is circular](#everything-is-circular)
+37. [Exciting ability](#exciting-ability)
+38. [Technology](#technology)
 
 <details style="display:none">
 <summary class='button is-outlined'>
- Outlinle (story-line) &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+ Outline (story-line) &nbsp;<i class='fa fa-solid fa-caret-down'></i>
 </summary>
 <p>
 1. Change the narrative (4D – 3D)
 2. Language transference (angels -> quantum -> 4d)
 3. Multi-dimensionality
    a) Dimensions
-   b) all action occurs @ 1D, “the point”. What is the point (event, conversation, etc.).
+   b) all action occurs @ 1D, "the point". What is the point (event, conversation, etc.).
    c) Sex – the erotic nature of the universe.
    Pt (masc.), encountering receptor (fem). {Remembering, that this is the process. In order to have a point that is penetrating, one has to have a space that is receiving too.}
-   They touch at a “pt”, which, if received becomes a “collection” of points – which form, then, an object or event. Millions of pts of interaction occurring at any and every moment, extending from the center, which was the first point of contact.
+   They touch at a "pt", which, if received becomes a "collection" of points – which form, then, an object or event. Millions of pts of interaction occurring at any and every moment, extending from the center, which was the first point of contact.
 4. Numbers (0 – 9 [10], 1 – 10 [10] -> 12?)
 5. Geometry (shapes, 6, 12, etc)
 6. Space, topology
@@ -73,9 +75,9 @@ stars: '***'
 
 If the ultimate goal of Kabbalah is to bring people back to Judaism,  the Torah & _Mitzvot_, then it is not the Kabbalah that our sages propagated. For that Kabbalah comes after being steeped in Torah & from obeying the _Mitzvot_, i.e. being righteous, not before. Kabbalah is meant to lead the student into the deeper mysteries of the Torah (and universe), to gain a deeper understanding of God and His Purpose, how the Universe looks and works, what spiritual energy is and thus, how to understand it and its dynamics in our lives. However, this was taught upon a firm foundation of Judaic laws and customs. First a deep understanding of the religion was required before one could enter Kabbalah.
 
-## Merkava Descent (qkab/shaman)
+## Merkabah Descent (qkab/shaman)
 
-The Merkava Descent, as taught by Martha-Joy Aft, is correct (even if only for this time and this place). It is our inheritance - a portal to another world, perhaps the "other world", that is part of our true inheritance, in addition to this one.
+The Merkabah Descent, as taught by Martha-Joy Aft, is correct (even if only for this time and this place). It is our inheritance - a portal to another world, perhaps the "other world", that is part of our true inheritance, in addition to this one.
 
 ## Metatron (qkab)
 
@@ -165,7 +167,7 @@ NOTE: But in most cases there is a threat that the [clairvoyant](clairvoyant.htm
 </summary>
 <p>
 
-One with clear vision. We don't have any names for the other 5 senses. Just an edge here. There is the shaman, who walks between two worlds. There are many types of shamans: healing with herbs/medicine; soul work. They speak of him walking between two worlds. That is because she is interacting with the spirit of mother earth (_Shekhina_). However, a clairvoyant is one who sees through the speculum into the other world - whether shaman or not. A _Mekubal_, is one who studies, empirically, phenomenologically, and theoretically, the other spiritual realms. He is generally not interested in the non-spiritual.
+One with clear vision. We don't have any names for the other 5 senses. Just an edge here. There is the shaman, who walks between two worlds. There are many types of shamans: healing with herbs/medicine; soul work. They speak of him walking between two worlds. That is because she is interacting with the spirit of mother earth (_Shekhinah_). However, a clairvoyant is one who sees through the speculum into the other world - whether shaman or not. A _Mekubal_, is one who studies, empirically, phenomenologically, and theoretically, the other spiritual realms. He is generally not interested in the non-spiritual.
 </p>
 </details>
 
@@ -234,19 +236,19 @@ A problem that is inherent in the intrinsic dynamics of the system itself.
 
 _Keter_, _Ein Sof_ = _satori_
 
-| chokhmah                     | binah                                 |
+| _Chokhmah_                     | _Binah_                                 |
 | ---------------------------- | ------------------------------------- |
-| בינה                         | חוכמה                                 |
+| [בינה]{dir="rtl"}                         | [חוכמה]{dir="rtl"}                                 |
 | wisdom                       | understanding                         |
-| prajna                       | vijnana                               |
+| _prajna_                       | _vijnana_                               |
 | intuitive knowing            | discoursive knowledge                 |
 | grasp reality in its oneness | analyse information: subject & object |
 
-## <i>Shekhina</i> [qkab]
+## <i>Shekhinah</i> [qkab]
 
 <div class="poem">
 
-The _Shekhina_ is _Divine Presence_
+The _Shekhinah_ is _Divine Presence_
 She is the earth and the wind,
 the water and the air
 and all the beings that walk upon it,
@@ -335,7 +337,7 @@ If it is mobile, it tries to attain an optimum balance between light and dark, f
 
 ## Wisdom of Math
 
-It is said that Wisdom is the ability to understand the essence, the principles, the “fundamentals” of a topic, and then are able to apply this understanding of principles to other fields of investigation. Perhaps one could then refer to mathematics as a language of wisdom, and equations as the sentences with which it speaks, the symbols beings vowels that bring the consonants to life.
+It is said that Wisdom is the ability to understand the essence, the principles, the "fundamentals" of a topic, and then are able to apply this understanding of principles to other fields of investigation. Perhaps one could then refer to mathematics as a language of wisdom, and equations as the sentences with which it speaks, the symbols beings vowels that bring the consonants to life.
 
 ## Intention/Outcome
 
@@ -353,7 +355,7 @@ Whether postive or negative depends on the breadth of the measurement of the out
 
 Kabbalists called it the _Merkabah_, meaning "four-wheel chariot."
 
-Actually, _Merkaba_ is a compilation of Egyptian words. All the component syllables are Egyptian words. _Mer_ means "place of ascending", _Ka_ is “spirit-soul” and _Ba_ is “earth-self”. You can see there is a connection here.
+Actually, _Merkabah_ is a compilation of Egyptian words. All the component syllables are Egyptian words. _Mer_ means "place of ascending", _Ka_ is "spirit-soul" and _Ba_ is "earth-self". You can see there is a connection here.
 
 ## Multi-dimensionality of being
 
@@ -424,3 +426,12 @@ All that is manifest can be measured (quantified), and it can only be measured b
   <img src="/posts/img/qkab/sine_wave_1 - circular_motion.gif" alt="Circular - sine wave" width="200" height="" />
   <figcaption>Circular - sine wave</figcaption>
 </figure>
+
+## Exciting ability
+
+"A person cannot create something out of nothing, but she possesses a much more exciting ability, the ability to create one thing out of another thing. She creates new combinations and constructs out of the fragments and pieces of existence."
+~Rav Shagar, "The Remainder of Faith," p.24.
+
+## Technology
+
+Technology will be and is only the product of the human mind and can and will be used in pursuit and support of the light or the darkness according to the mind that wields it.  No technology is inherently evil – however as much as they are enhancements of actual aspects of our being so they will allow for greater expression of the positive or the negative aspects thereof.

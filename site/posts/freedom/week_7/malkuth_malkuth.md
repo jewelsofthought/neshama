@@ -4,17 +4,30 @@ description: 'Meditation for the Forty-Ninth Day: Sovereign Receptivity'
 tags: null
 date: 2022-06-03T01:04:00.000Z
 ---
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
 
-<div style="font-weight: bold; text-align:center">
-<h2>Yesod she’b Malkuth</h2>
-<p><i>Day Six of Week 7:</i>&nbsp;&nbsp;Receptiveness in Receptiveness</p>
-<p>(Sovereignty in Sovereignty)</p>
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week7/7.7-Malchut_in_Malkhut.png' target="_blank">
+   <img src='/posts/img/freedom/week7/7.7-Malchut_in_Malkhut_s.png' alt='Malkhut in Malkhut' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
+<h2>Malkhut she'b Malkhut</h2>
+<span dir="rtl"><b>הָיום תשׁעה וְארבעים יָוֹם שֶׁהֵם שִׁבְעָה שָׁבוּעוֹת לָעוֹמֵר</b></span>
+
+<br />
+<i>ֹToday is forty-nine days, which is seven weeks of the Omer</i>
+</p>
+
+<h4>Receptivity in Receiving</h4>
 
 </div>
 
 <div class="abstract">
 
-Take a moment and concentrate on yourself, on your true inner self, not on your performance and how you project to others. Be at peace with yourself knowing that G-d created a very unique and special person&mdash;which is you. Never forget, you could not have created this being that you are without G-d’s help.
+Take a moment and concentrate on yourself, on your true inner self, not on your performance and how you project to others. Be at peace with yourself knowing that G-d created a very unique and special person&mdash;which is you. Never forget, you could not have created this being that you are without G-d's help.
 
 </div>
 
@@ -26,7 +39,7 @@ We are challenged to be true to ourselves and to our world, to perceive our own 
 
 It is not always easy to know our own uniqueness. There are so many voices that live inside us and around us demanding that we conform to models fashioned by others.
 
-How are we to know the way which is right for us at this moment? How are we to realise our own integrity? Perhaps by pausing long enough from our hectic lives to find out how we are really thinking, feeling and sensing our reality. To release the “should’s” from the “ought’s” long enough to meet ourselves and so to unfold through our own honesty. By daring to announce and accept ourselves as we are, that we might then be available to our world and to ourselves. We already are the One we need to be.
+How are we to know the way which is right for us at this moment? How are we to realise our own integrity? Perhaps by pausing long enough from our hectic lives to find out how we are really thinking, feeling and sensing our reality. To release the "should's" from the "ought's" long enough to meet ourselves and so to unfold through our own honesty. By daring to announce and accept ourselves as we are, that we might then be available to our world and to ourselves. We already are the One we need to be.
 
 <div class="abstract">
 
@@ -36,13 +49,11 @@ I release the tensions that keep me from being fully present in my world. I beco
 
 <h3>Reflections</h3>
 
-
 <h4 style="text-decoration: underline; text-align: center">Torah Unites</h4>
 
 <p>We Jews are a diverse people. We speak many languages. We live in every part of the world. We have different cultures, foods, political views.
-But when a Jew’s mind is absorbed within Torah, it is the same Torah within which another Jew is absorbed. And another Jew. And yet another.
+But when a Jew's mind is absorbed within Torah, it is the same Torah within which another Jew is absorbed. And another Jew. And yet another.
 We discuss and debate and share and challenge and discuss yet more.
 Until all of us become one in mind, soul and body, within one grand conversation of an endless Torah.</p>
 
 <p style="text-align: right;">-- Last Day of Passover, 5744. _Likutei Sichot_ vol. 32, pg. 27</p>
-

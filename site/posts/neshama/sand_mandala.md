@@ -15,7 +15,7 @@ modified: 2022-05-01
 
 Every day I build a day of action, drawing a mandala of being in the sands of time. Each night, during my sleep, I dream, as it is erased. The next day, I begin building a new mandala of existence.
 
-“But things remain after I go to sleep that are still there the next day? Like the house I live in, my family, friends, my work, etc.”
+"But things remain after I go to sleep that are still there the next day? Like the house I live in, my family, friends, my work, etc."
 
 "Yes, those are your specific representations of the archetypes, and elements, that make up our daily lives. Their essence remains unchanging,
 just as the sun is always shining in the heavens, and gravity, the same as it was yesterday, still holds us gently on this planet. That you are a man or a woman, that you have children or not, that your house is big or an apartment. All those elements that form these fundamentals do not change. But your interactions and relationships with all those fundamentals of your life can and do change.
@@ -28,4 +28,4 @@ Let's envisage this mandala as a mandala of emotions. Each day upon awakening, y
 
 ## Mandala of Thoughts
 
-Then we have that strange tapestry of your thoughts. Where do they come from? Can I claim all of them as my own? If each day you are thinking the same thoughts, then, I’m afraid, you might be caught in a loop, a kind of groundhog day – even if they are lovely. This kaleidescope of flashing thoughts, many of which flit by before you can even register them, changes from day to day too – even from moment to moment. And our mental realm is full of its archetypes and symbols too.
+Then we have that strange tapestry of your thoughts. Where do they come from? Can I claim all of them as my own? If each day you are thinking the same thoughts, then, I'm afraid, you might be caught in a loop, a kind of groundhog day – even if they are lovely. This kaleidescope of flashing thoughts, many of which flit by before you can even register them, changes from day to day too – even from moment to moment. And our mental realm is full of its archetypes and symbols too.

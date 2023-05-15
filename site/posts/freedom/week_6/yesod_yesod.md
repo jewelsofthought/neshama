@@ -15,7 +15,7 @@ date: 2022-05-26T01:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Yesod she’b Yesod</h2>
+<h2>Yesod she'b Yesod</h2>
 <span dir="rtl"><b>הָיום אֵֶחָד וְארבעים יָוֹם שֶׁהֵם חְַמִשָּׁה שָׁבוּעוֹת וְשִׁשָּׁה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is forty-one days, which is five weeks and six days of the Omer</i>
@@ -40,13 +40,13 @@ Begin bonding with a new person or experience you love by committing designated 
 
 </div>
 
-This is the day of **Yesod** – **Yesod** in **Yesod**. Our focus is on that _sefirah_ which symbolises the energies of our Lessor Self, our ego consciousness, our separate sense of self. The Light is centred in the pubic area. This is the energetic centre of sexuality, which is central to our ego self. It is central to the ego’s task of individual biological survival.
+This is the day of **Yesod** – **Yesod** in **Yesod**. Our focus is on that _sefirah_ which symbolises the energies of our Lessor Self, our ego consciousness, our separate sense of self. The Light is centred in the pubic area. This is the energetic centre of sexuality, which is central to our ego self. It is central to the ego's task of individual biological survival.
 
 Our challenge is to keep the ego open to those energies which flow from less separate aspects of Self. Then we can manifest the fuller truth of our being. We are separate and at the same time One. We are the One manifesting as the many.
 
 We are animal, yet we are other. Our minds see with the vision of the Whole. Our Hearts beat with the harmony of the Universe. We would translate image and the song into the material world of our senses. We are the beings who have the opportunity of remembering Who we are.
 
-We are not asked to kill ego, but to actualise through it our fuller Being. Our way is not to deny the urges of our lesser “i”, but to express those urges in the service of healing and wholeness.[^1] I bless the opportunity we are offered to channel our True Being into specific thoughts, feelings and actions in the world.
+We are not asked to kill ego, but to actualise through it our fuller Being. Our way is not to deny the urges of our lesser "i", but to express those urges in the service of healing and wholeness.[^1] I bless the opportunity we are offered to channel our True Being into specific thoughts, feelings and actions in the world.
 
 <div class="abstract">
 

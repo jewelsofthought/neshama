@@ -33,9 +33,9 @@ The upper two _sefirot_ make up the world of **Atzilut** or Emanation, and hold 
 Crown
 The Creative Impulse
 Crown of the Head
-The Absolutely Unlimited “I”
+The Absolutely Unlimited "I"
 Blinding Invisible White
-_Kamatz_ (Long “Ah”) or _Chirek_ (Long “E”)
+_Kamatz_ (Long "Ah") or _Chirek_ (Long "E")
 Name of God: EHYEH ASHER EHYEH
 <h4 dir="rtl">אהיה אשר אהיה</h4>
 
@@ -52,7 +52,7 @@ Wisdom
 Right Hemisphere
 The Energy of Awareness
 A Gray that includes all colours
-_Patach_ (Shorter “Ah”)
+_Patach_ (Shorter "Ah")
 <h4 dir="rtl">יה</h4>
 
 **YAH**
@@ -73,7 +73,7 @@ Understanding
 Left Hemisphere
 The Form of Awareness
 Green (or Yellow)
-_Tzeray_ (Long “Ay”)
+_Tzeray_ (Long "Ay")
 <h4 dir="rtl">יהוה</h4>
 ELOHIM
 
@@ -81,7 +81,7 @@ ELOHIM
 
 <h3 dir="rtl">דעת</h3>
 
-**DA’AT**
+**DA'AT**
 The Space Called the Abyss
 _Dark night of the Soul_
 _Crossing Over_
@@ -105,7 +105,7 @@ Mercy (Lovingkindness)
 Right Shoulder
 The Outpouring of Emotion
 White (or Silver)
-_Segol_ (“Eh”)
+_Segol_ ("Eh")
 <h4 dir="rtl">אל</h4>
 
 **EL**
@@ -121,7 +121,7 @@ Judgment (Severity, Strength)
 Left Shoulder
 The Forms of Emotions
 Red (or Gold)
-_Sh’va_ (Silent)
+_Sh'va_ (Silent)
 <h4 dir="rtl">אלוהים</h4>
 
 **ELOHIM**
@@ -135,11 +135,11 @@ _Sh’va_ (Silent)
 **TIFERET**
 Beauty
 The Heart Space
-The Inclusive “I”
+The Inclusive "I"
 The Greater Self
 Individuation
 Purple (or Yellow)
-_Cholem_ (“Oh”) or _Kamatz_ (“Ah”)
+_Cholem_ ("Oh") or _Kamatz_ ("Ah")
 <h4 dir="rtl">יהוה</h4>
 
 **ADONAI**
@@ -156,10 +156,10 @@ The Right Hip
 The Force of Physical Expression
 The Expansion of Physical Energy
 Light Pink
-_Chirek_ (Long “E”)
+_Chirek_ (Long "E")
 <h4 dir="rtl">יהוה צבאות</h4>
 
-**ADONAI TZAVA’OT**
+**ADONAI TZAVA'OT**
 
 ---
 
@@ -173,10 +173,10 @@ The Left Hip
 The Form of Physical Expression
 The Restriction of Physical Energy
 Dark Pink
-_Kubbutz_ (Sorter “OO”)
+_Kubbutz_ (Sorter "OO")
 <h4 dir="rtl">אלוהים צבאות</h4>
 
-**ELOHIM TZAVA’OT**
+**ELOHIM TZAVA'OT**
 
 ---
 
@@ -187,9 +187,9 @@ _Kubbutz_ (Sorter “OO”)
 **YESOD**
 Foundation
 The Loins
-Ego “I” – Separate Self
+Ego "I" – Separate Self
 Orange
-_Shurek_ (Long “OO”) or _Cholem_ (“Oh”)
+_Shurek_ (Long "OO") or _Cholem_ ("Oh")
 <h4 dir="rtl">שדי אל חי</h4>
 
 **SHADDAI EL CHAI**

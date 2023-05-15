@@ -82,7 +82,7 @@ v1. And God said, "Let there be a firmament" - It is written (Psalms 104:3), "Wh
 
 v2. "Let there be a firmament" means "let the firmament (_raqi'a_) solidify", like the thin plates of gold (_vayeraq'u_) in Exodus 39:3. The middle liquid layer solidified, and the lower heavens were formed, and the heavens above the heavens, the upper ones [were formed]. Their works on the first day were liquid and on the second they were solid.
 
-How did it solidify? The fire came forth from above and dried the surface of the firmament, making its surface gleam. For it says: "By His breath [meaning fire] the heavens are smoothed" (Job 26:13). The work of creation came to teach about the giving of the Torah, and the teaching was revealed through it: "As when fire kindles the parts” (Isaiah 64:1)—its halves. When did the fire split between the upper and lower [heavens], is it not when the Torah was given!? Thus it was at the creation of the universe.
+How did it solidify? The fire came forth from above and dried the surface of the firmament, making its surface gleam. For it says: "By His breath [meaning fire] the heavens are smoothed" (Job 26:13). The work of creation came to teach about the giving of the Torah, and the teaching was revealed through it: "As when fire kindles the parts" (Isaiah 64:1)—its halves. When did the fire split between the upper and lower [heavens], is it not when the Torah was given!? Thus it was at the creation of the universe.
 
 <details>
 <summary class='button is-outlined'>
@@ -112,7 +112,7 @@ He used to say: "Rabbi Chanina taught me well".
 Rabbi Yudan the son of Rabbi Shimon said
   "the fire went forth from above and it made the surface of the firmament gleam".
 R. Berakhyah, R. Yaakov bar R. Avina in the name of R. Abbah bar Kahana said:
-  "The work of creation came to teach about the giving of the Torah, and the teaching was revealed through it: "As when fire kindles the parts” (Isaiah 64:1)—its halves. When did the fire split between the upper and lower [heavens], is it not when the Torah was given!? Thus it was at the creation of the universe.Thus it was at the creation of the universe."
+  "The work of creation came to teach about the giving of the Torah, and the teaching was revealed through it: "As when fire kindles the parts" (Isaiah 64:1)—its halves. When did the fire split between the upper and lower [heavens], is it not when the Torah was given!? Thus it was at the creation of the universe.Thus it was at the creation of the universe."
 </p>
 </details>
 

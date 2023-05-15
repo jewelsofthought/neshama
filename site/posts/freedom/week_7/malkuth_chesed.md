@@ -15,20 +15,13 @@ date: 2022-05-28T04:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Chesed she’b Malkhut</h2>
-<span dir="rtl"><b>הָיום תשׁעה וְעֶשְׂרִים יָוֹם שֶׁהֵם ארבעה שָׁבוּעוֹת וְיוֹם אֶחָד לָעוֹמֵר</b></span>
+<h2>Chesed she'b Malkhut</h2>
+<span dir="rtl"><b>הָיום שְׁלוֹשָׁה וְארבעים יָוֹם שֶׁהֵם שִׁשָּׁה שָׁבוּעוֹת וְיוֹם אֶחָד לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is forty-three days, which is six weeks and one day of the Omer</i>
 </p>
 
 <h4>Kindness in Receiving</h4>
-
-</div>
-
-<div style="font-weight: bold; text-align:center">
-<h2>Chesed she’b Malkuth</h2>
-<i>Day One of Week 7:</i>
-<p>Kindness in Receiving</p>
 
 </div>
 
@@ -38,7 +31,7 @@ Healthy sovereignty is always kind and loving. An effective leader needs to be w
 
 </div>
 
-We begin the final week of our counting. It is the week of **Malchut**, the tenth _sefirah_. **Malchut** is the Kingdom, representing this world in which all the energies of the Tree of Life converge and manifest. According to some Kabbalistic formulations, this is the _sefirah_ of _Shechinah_, the indwelling Presence, the feminine aspect of God’s Oneness. This is the material world in which the spiritual awaits realisation.
+We begin the final week of our counting. It is the week of **Malchut**, the tenth _sefirah_. **Malchut** is the Kingdom, representing this world in which all the energies of the Tree of Life converge and manifest. According to some Kabbalistic formulations, this is the _sefirah_ of _Shechinah_, the indwelling Presence, the feminine aspect of God's Oneness. This is the material world in which the spiritual awaits realisation.
 
 **Malchut** is the place in which we play out our earthly drama. We are born into this Kingdom much as we are born into our bodies. Our purpose here is to realise Who we are, that we might contribute to the completion of Creation in this realm.[^1]
 
@@ -59,4 +52,4 @@ I realise more fully than ever before the worth of my separate self. I feel the 
 
 <h3>Reflections</h3>
 
-[^1]: I would have thought the the very process of being born into the body, of embodying form, would be one and the same with the “spiritual” birth in which we are playing out this drama.
+[^1]: I would have thought the the very process of being born into the body, of embodying form, would be one and the same with the "spiritual" birth in which we are playing out this drama.

@@ -1,6 +1,6 @@
 ---
 title: Shemini פרשׁת שׁמיני
-description: 'Leviticus 9:1-11:46 (שׁמיני ט”א־יב”מז)'
+description: 'Leviticus 9:1-11:46 (שׁמיני ט"א־יב"מז)'
 tags: null
 date: 2021-03-26T08:09:57.912Z
 ---
@@ -51,7 +51,7 @@ The sacrifice is of a calf and a ram (unblemished). How would this be translated
 <figure style='float: left'>
     <img src="/posts/img/parashot/Jeroboam_Idolatry_150x170.jpg" alt="Jeroboam&#39;s Idolatry" width='150' height='170' title="illustration from a Bible card published 1904 by the Providence Lithograph Company" />
  </a>
- <figcaption>Jeroboam’s idolatry,<br /> <a href="https://biblia.com/bible/esv/1%20Kings%2012.25-33" data-reference="1 Kings 12.25-33" data-version="esv" data-purpose="bible-reference" target="_blank" rel="noopener">1 Kings 12:25-33</a>,</figcaption>
+ <figcaption>Jeroboam's idolatry,<br /> <a href="https://biblia.com/bible/esv/1%20Kings%2012.25-33" data-reference="1 Kings 12.25-33" data-version="esv" data-purpose="bible-reference" target="_blank" rel="noopener">1 Kings 12:25-33</a>,</figcaption>
 </figure>
 
 The sacrifice is of a calf and a ram (unblemished). How would this be translated into today's terms? The only line I can find, is that this represents the beastly in our selves that we have to sacrifice for the "sin of the golden calf". What does a bull-calf and a ram signify? What is the meaning the "sin of the golden calf"?
@@ -67,7 +67,7 @@ Associated with fertility, the ram spotted in your dreams could represent the se
 
 [Calf](https://blog.israelbiblicalstudies.com/holy-land-studies/the-real-meaning-of-the-golden-calf/)
 
-But what about the word for calf in the original Hebrew? The word egel (עגל) comes from the Hebrew root which means “to roll”, “circular” or “round”. What is the connection between the calf and the verb to roll? Presumably, the calf is known as a “rounder” because his grazing caused him to walk in circles. The word for a grazing path is a _maagal_, which literally means a circuit. Interesting that in the two stories of golden calves seen above, the calf was regarded by its creator as a beneficial link, something completing the wide circuit which divides the human and divine spheres.
+But what about the word for calf in the original Hebrew? The word egel (עגל) comes from the Hebrew root which means "to roll", "circular" or "round". What is the connection between the calf and the verb to roll? Presumably, the calf is known as a "rounder" because his grazing caused him to walk in circles. The word for a grazing path is a _maagal_, which literally means a circuit. Interesting that in the two stories of golden calves seen above, the calf was regarded by its creator as a beneficial link, something completing the wide circuit which divides the human and divine spheres.
 
 <blockquote>
 
@@ -367,8 +367,8 @@ We could even generalise the concept of "food" to nourishment and even "pleasure
 
 > The Torah urges us to make the delicate and difficult distinctions that are essential to carry out G-d's will.
 
-9:23] [וירא כבוד־ה’ אל־כל־העם]{dir="rtl"}&mdash;_the glory of **Hashem** appeared to the entire people_.
-9:24] [תצה אשׁ מלפני ה’, ויָרְא כל העם וֻירָֹנוּ  ויפלוּ על־פניהם]{dir="rtl"}&mdash;_A fire went out from before **Hashem**...; the people saw and sang glad song and fell upon their faces._
+9:23] [וירא כבוד־ה' אל־כל־העם]{dir="rtl"}&mdash;_the glory of **Hashem** appeared to the entire people_.
+9:24] [תצה אשׁ מלפני ה', ויָרְא כל העם וֻירָֹנוּ  ויפלוּ על־פניהם]{dir="rtl"}&mdash;_A fire went out from before **Hashem**...; the people saw and sang glad song and fell upon their faces._
 
 10:3] [בקרבי אקדשׁ ועל־פני כל־העם אכּבד]{dir="rtl"}&mdash;_I will be sanctified through those who are nearest Me, thus I will be honoured before the entire people._
 10:14] [הזה התנוּפה ואת שׁוק התדוּמה]{dir="rtl"}

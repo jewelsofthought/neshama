@@ -61,6 +61,7 @@ modified: 2022-09-14T15:56:13.090Z
     2. [Quantum Flirt](#quantum-flirt)
     3. [Stasis](#stasis)
     4. [Body Shape](#body-shape)
+    5. [Suicide \& Judgement (170506)](#suicide--judgement-170506)
 
 {% endblock %}
 
@@ -226,7 +227,7 @@ It is through faith which transcends comprehension that one can feel true closen
 
 What is faith then? It is the believe/knowledge that we are only a small part of the greater whole, and that what constitutes the totality is far greater than anything I can imagine. Thus life consists of an exploration into this great mystery.
 
-> “We know that human vision assimilates only a small fragment of the spectrum; as far as our senses are concerned, the rest of it does not exist.”
+> "We know that human vision assimilates only a small fragment of the spectrum; as far as our senses are concerned, the rest of it does not exist."
 > &mdash; Rabbi Adin Steinsaltz
 
 It is more than likely that as far as all our senses are concerned, the rest does not exist. We cannot know what we don't know; we cannot comprehend the incomprehensible. And most of us have a survival mechanism, that keeps us safe in what we know, and is very reluctant to experience the unknown&mdash;a dark and terrifying place, filled with all sorts of monsters that we do may not be able to handle. Besides, it might cause a complete reassessment of the current life experience that you are going through.
@@ -250,7 +251,7 @@ As the eyes and the ears, the nose and mouth, the heart, legs and arms of G-d ha
   <p>
     Meditation that does not lead to clarification of commitment & action is entirely insufficient.
   </p>
-  <figcaption>&mdash; R’ Y”mba</figcaption>
+  <figcaption>&mdash; R' Y"mba</figcaption>
 </figure>
 
 Meditation that does not lead to clarification of commitment & action is entirely insufficient.
@@ -333,13 +334,13 @@ Oh the joy when you choose Her. The righteous abundance that is showered upon yo
 
 ## Free will
 
-Why is following the Torah so onerous for so many? If it is indeed the blueprint of Creation, is this blueprint so flimsy, so delicately put together? If _Ha’Shem_ is omnipotent, why is there so much difficulty in following his commands? Why do we have to be cajoled and threatened, into obeying His Holy Word? Would we not, especially those who have seen His miracle, just follow them naturally?
+Why is following the Torah so onerous for so many? If it is indeed the blueprint of Creation, is this blueprint so flimsy, so delicately put together? If _Ha'Shem_ is omnipotent, why is there so much difficulty in following his commands? Why do we have to be cajoled and threatened, into obeying His Holy Word? Would we not, especially those who have seen His miracle, just follow them naturally?
 
-Is it because we have been granted some of the Divine essence, or power, that we call “free will”.
+Is it because we have been granted some of the Divine essence, or power, that we call "free will".
 
-However, this free will can only be expressed as a negative – that is to go against the “Will of G-d”.
+However, this free will can only be expressed as a negative – that is to go against the "Will of G-d".
 
-To have any choice in the realm of the omnipotent perfection, I would have to have the ability to negate the existence of such omnipotence—a contradiction in itself. Perhaps the only way to express this is through taking a position of against the existence of G-d, declaring myself part of the tribe whose structure is build around the belief that there is No G-d. This attitude becomes an action in the world and the members build a system around this core belief, explaining the universe and our world in terms of this belief. This line of thinking always end up at question of the first cause, “In the beginning”, then speaks of a state or an unfolding of effects, but avoiding the question of how did the space and the configurations that make these effects possible, arise in the first place.
+To have any choice in the realm of the omnipotent perfection, I would have to have the ability to negate the existence of such omnipotence—a contradiction in itself. Perhaps the only way to express this is through taking a position of against the existence of G-d, declaring myself part of the tribe whose structure is build around the belief that there is No G-d. This attitude becomes an action in the world and the members build a system around this core belief, explaining the universe and our world in terms of this belief. This line of thinking always end up at question of the first cause, "In the beginning", then speaks of a state or an unfolding of effects, but avoiding the question of how did the space and the configurations that make these effects possible, arise in the first place.
 
 ## Freedom
 
@@ -441,24 +442,24 @@ If you are expected to uncritically accept something, then it is very likely tha
 
 Thoughts on why we need a sacred ritual to focus the sexual energy that the feminine is the recipient of:
 
-The masculine collects all this “sexual – creative energy that needs to be made manifest. For his direction is transformation from the spiritual to the material – from the crown chakra down to the sexual chakra, from Keter to Schinah. The feminine, the receptive, awaits this energy to enter into her and she is the medium in which the spiritual is made manifest. So, sexually, she accepts the gifting of the masculine into her very being. What should emerge from this is a child, but now when we have sex for other reasons, the creative energy will need to find another outlet. This often manifests in possessive emotional energy. She needs to be able to move the energy from the material to the spiritual. This is why we need the sacred ritual. The kundulini snake that will unwind the energy from the base of the spine into the heavens.
+The masculine collects all this "sexual – creative energy that needs to be made manifest. For his direction is transformation from the spiritual to the material – from the crown chakra down to the sexual chakra, from Keter to Schinah. The feminine, the receptive, awaits this energy to enter into her and she is the medium in which the spiritual is made manifest. So, sexually, she accepts the gifting of the masculine into her very being. What should emerge from this is a child, but now when we have sex for other reasons, the creative energy will need to find another outlet. This often manifests in possessive emotional energy. She needs to be able to move the energy from the material to the spiritual. This is why we need the sacred ritual. The kundulini snake that will unwind the energy from the base of the spine into the heavens.
 
 Thoughts on nutrient absorption being a metaphor for male/female dynamics, or why we believe in the perfect partner…
 
-The cell needs certain nutrients. It creates a protein receptor, a huge, macro-molecule, which then emerges from the cell wall. Its roots in the primal fluid within which the cell lives, its head in the universal fluid that surrounds the cell. There it waits, a receptor, listening to all the sounds, all the calls, all the music of the spheres that surrounds it. It gets enchanted sometime. But if it is healthy, and in alignement, it will recognize the sign it is listening for, and then it will morph, and change itself, to begin to send out the vibrational energy to pull this nutrient into it’s being. It does not know from anything except the musical vibrations whether it will fit or not. Assuming, balance and perfection, it will fit like a glove to a hand, the key that opens up the doorway to the core of the cell. There it will be consumed and in it’s giving aid the cell in its life and journey. It is why the masculine seeks annihilation, for through that there is transformation. And the creative journey is one of annihilation, transformation and creation.
+The cell needs certain nutrients. It creates a protein receptor, a huge, macro-molecule, which then emerges from the cell wall. Its roots in the primal fluid within which the cell lives, its head in the universal fluid that surrounds the cell. There it waits, a receptor, listening to all the sounds, all the calls, all the music of the spheres that surrounds it. It gets enchanted sometime. But if it is healthy, and in alignement, it will recognize the sign it is listening for, and then it will morph, and change itself, to begin to send out the vibrational energy to pull this nutrient into it's being. It does not know from anything except the musical vibrations whether it will fit or not. Assuming, balance and perfection, it will fit like a glove to a hand, the key that opens up the doorway to the core of the cell. There it will be consumed and in it's giving aid the cell in its life and journey. It is why the masculine seeks annihilation, for through that there is transformation. And the creative journey is one of annihilation, transformation and creation.
 
 A moment on the cell that is a little off center – emotionally, or otherwise, then the protein will accept a substitute, perhaps something that is close, and bring it in. This will provide some nutrition, but there will be a side effect. Thus needing more than is healthy of this nutrient, you will have an allergic reaction to it, or it will hurt you.
 
 ## Natural Laws / Divine Laws
 
-> “laws of the solar system as derived from the five regular solids… was the result of divine law, interpreted not just as a geometrical but also as a mystical harmony..”
+> "laws of the solar system as derived from the five regular solids… was the result of divine law, interpreted not just as a geometrical but also as a mystical harmony.."
 > &nbsp;&nbsp;&nbsp; Mystic, Mysticism and Magic – Joscelyn Godwin p148 – Johannes Kepler
 
 brought me to the following:
 
-1. All laws, even those that are “scientific” are expressions of divine law. For instance, the laws of gravity, are Divine laws.
-2. To look at one’s life in that manner, seeing that one is contained in sorroundings filled with G-d’s laws. And that every action is a dialogue (a negotiation) with these Divine laws.
-3. That is how science co-opted religion so completely. Because these were mystics who penetrated the secrets of the universe, under the banner of science, and not under the banner of being mystics. They never for a moment thought that they were not penetrating the mind of G-d, which was, to their minds, a holy quest. So the “laws” that they “discovered” were accepted scientifically, and not mystically. Though, by the masses, they realised that they were actually mystical.
+1. All laws, even those that are "scientific" are expressions of divine law. For instance, the laws of gravity, are Divine laws.
+2. To look at one's life in that manner, seeing that one is contained in sorroundings filled with G-d's laws. And that every action is a dialogue (a negotiation) with these Divine laws.
+3. That is how science co-opted religion so completely. Because these were mystics who penetrated the secrets of the universe, under the banner of science, and not under the banner of being mystics. They never for a moment thought that they were not penetrating the mind of G-d, which was, to their minds, a holy quest. So the "laws" that they "discovered" were accepted scientifically, and not mystically. Though, by the masses, they realised that they were actually mystical.
 
 ### My Pain
 
@@ -502,5 +503,12 @@ Thus it is inevitable, in a purely commercial situation, that eventually anythin
 A look into some simple spacial features of humans as compared to animals. It was an exploration which started from the first diagram on the left. Then I thought to simplify it even more, and so these latter two emerged, showing clearly two things. The first is the obvious horizontal versus upright nature of the two. The second is their amazing similarity. The third, and to me, intriguing, is the obvious difference between the space occupied by the animal that shifted to become the space used by our arms, which are extremely dextrous, and one could say 3d, as opposed to the far more resticted spacial features of the legs. Both cannot bend backwards - we need to walk into the future, and do the work that is in front of us, where we can keep an eye on what we are doing, rather than behind us, where we hide our things.
 
 As the sages say: "Only the fool trips on what is behind him".
+
+### Suicide & Judgement (170506)
+
+Perhaps that soul needs to have that experience. Nothing to do with drugs, depression, or anything else, including "voices". Those are all just pathways to that particular experience. As the ultimate denial of faith, the only truly "unholy" act, that of the negation of life, which inherent in it,  a denial of G!d, the Divine. It is nevertheless and perhaps something that the soul needs to experience on its journey through this realm—which may not take only one lifetime. As it is said, "We can either take the long road of suffering or the short, sweet path through Torah".
+To propose that G!d punishes, or abandons us, if we commit suicide, is perhaps not true. It is a valid experience in the realm of human experience and as such is not "judged" in the same way. For G!d's Judgement is not the same as human's.
+Think of this "Judgement" as you would think of the "infinite" number that sits at the end of any endless line of numbers—already we are in the paradoxical world of higher space. This "endpoint" that doesn't exist also contains all the numbers in existence—plus all of those that aren't too. Thus we ask is infinite a number? Is the set of all sets itself a set? Similarly, is the Judgement that contains all judgements itself a judgement? All we can really do in response is to capitalise the first letter. Just as we use capital R to designate the set of all real numbers, and then call it an "infinite" set.
+In conclusion: "The good and the evil of this realm is not the same as that of the spiritual realm".
 
 {% endblock %}

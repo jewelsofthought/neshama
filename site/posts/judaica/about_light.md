@@ -40,4 +40,4 @@ Ezekiel's vision of the chariot upon which sits "the image of a man", is one of 
 
 ---
 
-[^1]: “Commentary on Ezekiel’s Chariot,” p. 3; see sources cited and discussed by Farber on pp. 78 n. 12, 80 n. 1.
+[^1]: "Commentary on Ezekiel's Chariot," p. 3; see sources cited and discussed by Farber on pp. 78 n. 12, 80 n. 1.

@@ -15,7 +15,7 @@ date: 2022-05-03T01:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Netzach she’b Tiferet</h2>
+<h2>Netzach she'b Tiferet</h2>
 <span dir="rtl"><b>הָיום שִׁבְעָה עָשָׂר יָוֹם שֶׁהֵם שְׁנֶי שָׁבוּעוֹת  וְאַרְבָּאָה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is eighteen days, which is two weeks and four days of the Omer</i>

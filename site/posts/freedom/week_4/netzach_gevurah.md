@@ -15,7 +15,7 @@ date: 2022-05-08T03:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Gevurah she’b Netzach</h2>
+<h2>Gevurah she'b Netzach</h2>
 <span dir="rtl"><b>הָיום שְׁלוֹשָׁה וְעֶשְׂרִים יָוֹם שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is twenty-three days, which is three weeks and two days of the Omer</i>
@@ -33,7 +33,7 @@ Endurance and determination, focused and directed toward productive goals, expre
 
 This is the second day of the week of **Netzach**, the week that focuses our energies at the _sefirah_ of Physical Force. On this day we bring **Gevurah** into **Netzach**, experiencing the flow of Light between the left shoulder and the right leg.
 
-To express our energies creatively, they need to be given form, even though that form always limits their possibilities. **Gevurah** is the great limiter on the Tree. As such, it draws to itself names like Judgement and Severity. It is seen as the place of “evil”, because of its potential for creating forms too rigid to change, as well as forms which hide an emptiness inside.
+To express our energies creatively, they need to be given form, even though that form always limits their possibilities. **Gevurah** is the great limiter on the Tree. As such, it draws to itself names like Judgement and Severity. It is seen as the place of "evil", because of its potential for creating forms too rigid to change, as well as forms which hide an emptiness inside.
 
 Yet **Gevurah** holds the key to all the expression of the One Energy. So we bring it into **Netzach** gently, that it might help (in)form our physical existence in truly fruitful ways. **Gevurah** holds the secret of true receptivity, which provides the means for what might, without it, be the proliferation of unusable energies.[^1]
 
@@ -55,4 +55,4 @@ May **Ha'Shem** support the flowering of my physical energies this day. With dee
 
 </div>
 
-[^1]: This is the true concept of “waste” or “wasted” energy.
+[^1]: This is the true concept of "waste" or "wasted" energy.

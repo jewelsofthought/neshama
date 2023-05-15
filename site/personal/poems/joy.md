@@ -11,7 +11,7 @@ date: 2002-12-09T15:03:10.856Z
 
 In the realm of religiousity
 Sit the demons of vanity and rote.
-The uncompromising “I am” of “I do”,
+The uncompromising "I am" of "I do",
 The result of a placing. When invited
 To join, there is no hesitation,
 Only cultural affectations. A hat here,

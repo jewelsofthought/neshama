@@ -29,15 +29,15 @@ This becomes a journey that is an exploration of power in love and love in power
 
 ## The Veil
 
-A mysterious veil exists between the finite and infinite. Another exists between between the finite and zero. It is incomprehensible how the infinite “becomes” finite, yet, once it "emanates", it will eventually reach zero, and "disappear" thus transforming into that which we cannot measure.
+A mysterious veil exists between the finite and infinite. Another exists between between the finite and zero. It is incomprehensible how the infinite "becomes" finite, yet, once it "emanates", it will eventually reach zero, and "disappear" thus transforming into that which we cannot measure.
 
-My experience of life is finite – it has a beginning and an end – and that is a fact we all live with. Everything around me is finite Thus I have a clear and fundamental idea of what is finite. However, as a finite being, I can only approach infinity, never quite reach it. So the question remains: how can the finite comprehend the infinite? To explore this mystery is like trying to peek behind the curtain that veils the mystery of union. As we reach close to it, it rises like a mist we cannot pass through – only imagine. As much as I extend myself, I can never “become” infinite&mdash;but I can have an experience of endlessness.
+My experience of life is finite – it has a beginning and an end – and that is a fact we all live with. Everything around me is finite Thus I have a clear and fundamental idea of what is finite. However, as a finite being, I can only approach infinity, never quite reach it. So the question remains: how can the finite comprehend the infinite? To explore this mystery is like trying to peek behind the curtain that veils the mystery of union. As we reach close to it, it rises like a mist we cannot pass through – only imagine. As much as I extend myself, I can never "become" infinite&mdash;but I can have an experience of endlessness.
 
 I cannot penetrate the veil between the finite and the infinite, but there is something in me that can. It will always be a mystery as to how the infinite can manifest something that is aware of itself as finite. How astounding is it for this finite being to even postulate an infinite consciousness. A consciousness that is other than itself.
 
-Thus unless the finite has risen out of the infinite it could never “return” to it. Actually, only from the infinite could the finite have come, for only the infinite has no source, no beginning and no end.
+Thus unless the finite has risen out of the infinite it could never "return" to it. Actually, only from the infinite could the finite have come, for only the infinite has no source, no beginning and no end.
 
-In the upper realm, there is no finite, only the Infinite. In the finite view/comprehension, the infinite is a collection of finite objects – particles of matter. We believe that because we are created from the universe, we might be able to understand it! But how can the finite mind understand an infinite cause? We can only track and learn from Its behaviour, Its reactions, Its “communication”.
+In the upper realm, there is no finite, only the Infinite. In the finite view/comprehension, the infinite is a collection of finite objects – particles of matter. We believe that because we are created from the universe, we might be able to understand it! But how can the finite mind understand an infinite cause? We can only track and learn from Its behaviour, Its reactions, Its "communication".
 
 What is communication? It is the transfer of information. Thus the Infinite communicates to us finite beings through the finite things of this world. And it for us to listen to the Infinite guidance.
 

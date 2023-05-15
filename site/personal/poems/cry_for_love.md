@@ -24,7 +24,7 @@ living in Babylon,
 
 We had it all worked out once upon a Time.
 Then what happened?
-It’s all just a joke, now.
+It's all just a joke, now.
 
 Life is a winding path,
 we don't know
@@ -205,7 +205,7 @@ What we really want
 is a state of order
 that provides maximum freedom
 for its constituents
-like one of Mei’s living crystals.
+like one of Mei's living crystals.
 A state of anxiety,
 and ever continuing cycles.
 

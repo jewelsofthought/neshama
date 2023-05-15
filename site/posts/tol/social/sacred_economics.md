@@ -25,4 +25,4 @@ However, if we propose that everything be held in common, we could just as easil
 - Poverty is your problem (if I am wealthy), you solve it.
   In the modern society, if I have succeeded and thus am wealthy, then, your poverty - which is an expression of your lack of success - is your problem. You need to solve it - just as I solved my "poverty| problem.
 - Poverty is our problem (if I am poor), you (the wealthy) need to solve it.
-  Thus all politics that appeals to the poor man is one in which wealthy people, who have no incentive to change the system, will “lift” the poor out of poverty—even to their detriment. Pretending to be “just like us”, but having escaped from the crushing burden of poverty, they are willing to do anything to remain above the water line.
+  Thus all politics that appeals to the poor man is one in which wealthy people, who have no incentive to change the system, will "lift" the poor out of poverty—even to their detriment. Pretending to be "just like us", but having escaped from the crushing burden of poverty, they are willing to do anything to remain above the water line.

@@ -5,7 +5,7 @@ tags: [todo]
 date: 2021-09-24T21:22:16.154Z
 ---
 
-<blockquote dir="rtl"> 
+<blockquote dir="rtl">
 כו:ב]
 הלצתה אל המקום אשׁר יבחר יהיה אלוהיך לשׁכן שׁמו שׁם.
 <p dir="ltr">
@@ -54,7 +54,7 @@ These concerns bring me to question deeply what it means when G-d or Moses refer
 </p>
 
 <blockquote>
-27:15-26] 
+27:15-26]
 Accursed is the man who:
 - make a graven or molten image, and emplace it in secret;
 - degrades his father or mother;
@@ -139,7 +139,7 @@ n28:10] Inspire awe
 
 n28:13] Subservient to no-one.
 
-n28:15] בקול ה’ ... לשׁמור ולאשׂות&mdash; study, transmit and observe.
+n28:15] בקול ה' ... לשׁמור ולאשׂות&mdash; study, transmit and observe.
 
 n28:24,29,30,32] curses
 

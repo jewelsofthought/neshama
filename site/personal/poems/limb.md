@@ -8,12 +8,12 @@ date: 2002-12-11T10:13:10.856Z
 
 <div class="poem">
 
-I’m afraid to go there.
+I'm afraid to go there.
 Afraid to go against the advice of society.
 Afraid to give up my well-paying job,
-my security, what I’ve worked “up to”,
+my security, what I've worked "up to",
 been educated for, dedicated my life to
-and what I’m good at.
+and what I'm good at.
 
 My heart pulls me in another direction.
 It urges me to take flight
@@ -25,7 +25,7 @@ Spirit is calling and
 I must answer the call.
 
 I fear that if I flounder
-they’ll have no mercy.
+they'll have no mercy.
 An image appears
 of being out on a limb
 extending over a cliff.

@@ -15,7 +15,7 @@ date: 2022-05-19T04:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Yesod she’b Hod</h2>
+<h2>Yesod she'b Hod</h2>
 <span dir="rtl"><b>הָיום אַרְבָּעָה וְשׁלושׁים יָוֹם שֶׁהֵם ארבעה שָׁבוּעוֹת וְשִׁשָּׁה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is thirty-four days, which is four weeks and six days of the Omer</i>
@@ -39,7 +39,7 @@ The channel of Light we experience today links the left side of the hips to the 
 
 **Yesod** needs of the Glory of Form which **Hod** can express. **Hod**, in turn, needs the vehicle through which that form can act in the world of being. Each _sefirah_ interacts with the others. None can stand alone. None is less significant in the process of Creation. Each aspect of our being is crucial and precious, just as each of us is crucial and precious in our world.
 
-Personal responsibility awakens at **Yesod**. Today we bring that sense of responsibility into form at **Hod**. Form must find its function through which it can express in the world. Perception must find the observer through which it can be known in the world. It cannot simply contain that which it holds. Our perceptions shape the very nature of our identity, since the creation we experience is a transaction between the observer and that which is observed. **Hod** needs its **Yesod**, its own vehicle for transmitting its fullness. **Hod** informs **Yesod** with its sensations. **Yesod** bases its identity upon the nature of **Hod**’s perceptions.
+Personal responsibility awakens at **Yesod**. Today we bring that sense of responsibility into form at **Hod**. Form must find its function through which it can express in the world. Perception must find the observer through which it can be known in the world. It cannot simply contain that which it holds. Our perceptions shape the very nature of our identity, since the creation we experience is a transaction between the observer and that which is observed. **Hod** needs its **Yesod**, its own vehicle for transmitting its fullness. **Hod** informs **Yesod** with its sensations. **Yesod** bases its identity upon the nature of **Hod**'s perceptions.
 
 <div class="abstract">
 

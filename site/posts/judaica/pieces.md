@@ -164,12 +164,12 @@ In _galut_ ("exile") the Jewish conscience lies dormant, the soul unable to expr
 
 Though Mordechai was a Benjaminite, he is called _Yehudi_ ("Jew") which literally means a descendant of the tribe of _Yehudah_ (Judah). Likewise, throughout the _Megillah_, the entire Jewish people are called _Yehudim_, without distinction of tribal origin. For _Yehudi_ is of the same root as _hoda'ah_ which means "to acknowledge" and "to accept". This title describes the core of the Jew, his untouchable essence.
 
-“Everything that a person sees or hears should serve him as a lesson in his service of G‑d”
+"Everything that a person sees or hears should serve him as a lesson in his service of G‑d"
 &mdash;Rabbi Baal Shem Tov
 
 ## Sixty Days of Joy
 
-It is with the service of G-d just as it is with a victory over a physical opponent. For instance, two people who wrestle with each other, each striving to fell the other. If one of them is lazy and sluggish, he will easily be defeated and will fall, even if he is stronger than the other. Similarly, with the conquest of one’s evil nature, it is impossible to conquer the evil nature with laziness and sluggishness&mdash;which stem from sadness and a stone-like dullness of the heart&mdash;but rather [it must be conquered] with alacrity, which derives from joy and an open heart that is unblemished by any trace of worry and sadness in the world.
+It is with the service of G-d just as it is with a victory over a physical opponent. For instance, two people who wrestle with each other, each striving to fell the other. If one of them is lazy and sluggish, he will easily be defeated and will fall, even if he is stronger than the other. Similarly, with the conquest of one's evil nature, it is impossible to conquer the evil nature with laziness and sluggishness&mdash;which stem from sadness and a stone-like dullness of the heart&mdash;but rather [it must be conquered] with alacrity, which derives from joy and an open heart that is unblemished by any trace of worry and sadness in the world.
 &mdash; _Tanya_, chapter 26
 
 ## The Concealment of the Glory

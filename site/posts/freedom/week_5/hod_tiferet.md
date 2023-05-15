@@ -15,7 +15,7 @@ date: 2022-05-16T04:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Tiferet she’b Hod</h2>
+<h2>Tiferet she'b Hod</h2>
 <span dir="rtl"><b>הָיום אֵֶחָד וְשׁלושׁים יָוֹם שֶׁהֵם ארבעה שָׁבוּעוֹת וּשְׁלוֹשָׁה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is thirty days, which is four weeks and three days of the Omer</i>
@@ -27,7 +27,7 @@ date: 2022-05-16T04:04:00.000Z
 
 <div class="abstract">
 
-Can you express your humility in an act of compassion? Does it cause me to be self-contained and anti-social or does it express itself in empathy for others. Is it awkward or is it balanced and beautiful?
+Can you express your humility in an act of compassion? Does it cause me to be self-contained and anti-social or does it express itself in empathy for others? Is it awkward or is it balanced and beautiful?
 
 Just as humility brings compassion, compassion can lead to humility. If you lack humility, try acting compassionately.
 
@@ -39,7 +39,7 @@ The connection of Light is between the heart space and the left hip. The balanci
 
 My physical being responds to the rhythms of the Universe with renewed health and vitality. I strive to express through all that is given me that which I know to be supportive of myself and of others.
 
-Even in the midst of this ancient/modern wilderness, where there is so much confusion and doubt, despair and pain, I choose to live in the vision of wholeness. I insist that our lives have meaning, that our actions and our words can indeed elicit responses far beyond our limited selves’ to conceive.
+Even in the midst of this ancient/modern wilderness, where there is so much confusion and doubt, despair and pain, I choose to live in the vision of wholeness. I insist that our lives have meaning, that our actions and our words can indeed elicit responses far beyond our limited selves' to conceive.
 
 With the Heart of Compassion glowing strongly within us, we reach out more surely into the world around us. We translate this Compassion through every cell of our beings. We perceive it reflected back to us from all we touch. Nothing is truly separate from the Source of all Life which flows through us.
 

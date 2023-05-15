@@ -48,19 +48,19 @@ Physical sensation and perception allow us to know our world, and to discover ou
 
 **Hod** provides the container for **Netzach** without which **Netzach** cannot manifest. **Hod** is the sensational perception that is enlivened by **Netzach**. **Hod** is the shape of each and every perception. It is the capturing of the vibration through the senses. At this level, the vibration takes shape as that which we know sensually. Each _sefirah_ receives from all above it and transmits to all below, except for the first and the last. The shapes that **Hod** contains are not sensory vibration alone, but also feeling and emotional energy. Since the energies flowing to **Hod** already contain colourations from the higher _sefirot_, the forms that Hod provides already include these influences.
 
-There are sensations we appreciate as well as those we do not, just as there are feelings we are more comfortable with than others. Our task is to become aware of our own sensations, our own perceptions. Such awareness enables the shifts in perception through which we more directly learn the “secrets” these sensations contain.
+There are sensations we appreciate as well as those we do not, just as there are feelings we are more comfortable with than others. Our task is to become aware of our own sensations, our own perceptions. Such awareness enables the shifts in perception through which we more directly learn the "secrets" these sensations contain.
 
-We can become more aware of the intensity of energy, the “juice” of **Netzach** which is carried by a particular sensation. We can begin to honour and explore that energy when we do not get caught up in the container. It is the acceptance of the container that allows us to move beyond it.
+We can become more aware of the intensity of energy, the "juice" of **Netzach** which is carried by a particular sensation. We can begin to honour and explore that energy when we do not get caught up in the container. It is the acceptance of the container that allows us to move beyond it.
 
 <div style="text-align: center; font-size: 130%">
 The Name of G-d<br />
 at <strong>Hod</strong></br >
-is <em>Elohim Tzeva’ot</em>,
+is <em>Elohim Tzeva'ot</em>,
 <h4 style="font-size: 200%">
 אֱלֺוהִים צְבָאוֺת</h4>
 </div>
 
-The Name of G-d at Hod is _Elohim Tzeva’ot_, which means “G-d of Hosts”. _Elohim_, generally, reflects the aspect of the One we meet as an “Indwelling Presence” within a world of multiplicity. _Elohim_ helps us understand the truth of the One manifesting as the many. _Tzeva’ot_, translated “hosts”[^1], has the connotation of an “army”, a group of great force. Here, the “force” is contained in each particular perception. The _Elohim_ is the Unity hidden within the apparent multiplicity of perceived forms. Our perceptions have the strength to convince us of the reality of our world. From our perceptions we learn about ourselves in relationship to that world.
+The Name of G-d at Hod is _Elohim Tzeva'ot_, which means "G-d of Hosts". _Elohim_, generally, reflects the aspect of the One we meet as an "Indwelling Presence" within a world of multiplicity. _Elohim_ helps us understand the truth of the One manifesting as the many. _Tzeva'ot_, translated "hosts"[^1], has the connotation of an "army", a group of great force. Here, the "force" is contained in each particular perception. The _Elohim_ is the Unity hidden within the apparent multiplicity of perceived forms. Our perceptions have the strength to convince us of the reality of our world. From our perceptions we learn about ourselves in relationship to that world.
 
 ## Meditation for the Fifth Week at HOD
 
@@ -69,7 +69,7 @@ The Name of G-d at Hod is _Elohim Tzeva’ot_, which means “G-d of Hosts”. _
 אֱלֹהִ֥ים הֲשִׁיבֵ֑נוּ וְהָאֵ֥ר פָּ֝נֶ֗יךָ וְנִוָּשֵֽׁעָה׃
 </p>
 <p>
-<em>Elohim Tzeva’ot</em> restore us, shine Your Presence and we shall be saved.<br />
+<em>Elohim Tzeva'ot</em> restore us, shine Your Presence and we shall be saved.<br />
 -- (Psalm 80:4)
 </p>
 </blockquote>
@@ -78,7 +78,7 @@ We move into higher energies of being becoming more aware ֹֹour current experi
 
 <div class="abstract">
 
-Focus on the letters of the Name at this level, and let the sound and the image of that Name provide a path for your moments of meditation. Discover the awareness supported through the vibrations of <span style="font-style: normal">Elohim Tzeva’ot</span>.
+Focus on the letters of the Name at this level, and let the sound and the image of that Name provide a path for your moments of meditation. Discover the awareness supported through the vibrations of <span style="font-style: normal">Elohim Tzeva'ot</span>.
 
 </div>
 

@@ -82,19 +82,19 @@ The story of the four Rabbis ascending to the Pardes – the throne room of the 
 
 That is the True sex drive – Desire for Union with the Beloved – the search for your B'shirt.
 
-The descent is also a descent into Duality. Where you see the One as Two. As described in the story of one of the four Rabbis – the one who entered and “became an apostate”, because he saw two where there is only One. The is the move into movement and form, that had to happen on a soul level.
+The descent is also a descent into Duality. Where you see the One as Two. As described in the story of one of the four Rabbis – the one who entered and "became an apostate", because he saw two where there is only One. The is the move into movement and form, that had to happen on a soul level.
 
 Metaphorically, it is the wave seeking its "identity". Just like we are the expression of a wave that has "collapsed into time", a spirit being (which is equivalent to a wave in our vocabulary), incorporeal, and timeless, manifesting in this 3d skin and existence.
 
 In fact, this is termed the _Tzimtzum_ – separation created by the contraction of the spiritual potential that is derived from the Omnipotent Presence. If desire is the only energy – what is your desire? Some say the ultimate is to desire nothing, no movement. However, the soul has now been split into masculine and feminine. They long to be joined into the Holy Matrimony of Union.
 
-As expressed in the film the Broken Crystal – the crystal that has a shard missing, creating Good and Bad. And the end is of them coming together, the light and the shadow, wave and particle joining to become the Supernal light – the light that throws no shadow, known as _“Tikkun Olam”_.
+As expressed in the film the Broken Crystal – the crystal that has a shard missing, creating Good and Bad. And the end is of them coming together, the light and the shadow, wave and particle joining to become the Supernal light – the light that throws no shadow, known as _"Tikkun Olam"_.
 
 ## Free will and angels [qkab] (rambling)
 
-Call this “where the angels fear to tread” because they are forbidden to come down here without invitation or permission. They are also “afraid” to come down here, as they need to purify themselves after contact with this realm. Yet they are drawn to experience the realm of free will and once, having tasted it, they might revolt – and go “against” the will of G!d and, G!d forbid, sin – where sin is defined as not obeying the Will of **Ha'Shem**. This is perhaps the story of Samael and his cohorts, who, after co-habiting with humans, became tainted and had to be removed by the flood.
+Call this "where the angels fear to tread" because they are forbidden to come down here without invitation or permission. They are also "afraid" to come down here, as they need to purify themselves after contact with this realm. Yet they are drawn to experience the realm of free will and once, having tasted it, they might revolt – and go "against" the will of G!d and, G!d forbid, sin – where sin is defined as not obeying the Will of **Ha'Shem**. This is perhaps the story of Samael and his cohorts, who, after co-habiting with humans, became tainted and had to be removed by the flood.
 
-In fact, there is a possibility, that that is what the impetus to the story of the fall actually was. And we are fashioned from angels who wish to experience “free will”.
+In fact, there is a possibility, that that is what the impetus to the story of the fall actually was. And we are fashioned from angels who wish to experience "free will".
 
 ## Realm of Spirit
 
@@ -102,13 +102,13 @@ The realm of spirit is accessible via the imagination. Which brings me to propos
 
 In the beginning we walked with G!d (Adonai). There was no separation between mind and spirit, which occurred only after the flood!
 
-The spiritual realm consists of live “spirits”, which is one of the names for angels. To access this realm, one of the places to start is Ezekiel's vision, upon which the _Merkaba_ mysticism is based.
+The spiritual realm consists of live "spirits", which is one of the names for angels. To access this realm, one of the places to start is Ezekiel's vision, upon which the _Merkaba_ mysticism is based.
 
-The Holocaust was a deluge, like the flood. It too removed a generation. Why? What was their “sin”? It says if we are righteous, we will be rewarded, yet many orthodox Jews died in this deluge. What went wrong?
+The Holocaust was a deluge, like the flood. It too removed a generation. Why? What was their "sin"? It says if we are righteous, we will be rewarded, yet many orthodox Jews died in this deluge. What went wrong?
 
-Perhaps the Holocaust generation was too devout. If you do the same thing over and over again, how can you expect a different result? We are now accessing 4th dimensional information, seeing different things, understanding the unseen as science. What a methodist minister calls “New light – old light...” We cannot live life looking into the rear-view mirror.
+Perhaps the Holocaust generation was too devout. If you do the same thing over and over again, how can you expect a different result? We are now accessing 4th dimensional information, seeing different things, understanding the unseen as science. What a methodist minister calls "New light – old light..." We cannot live life looking into the rear-view mirror.
 
-They say we are far removed from Sinai, when we were holier, thus closer to G!d. I say perhaps we are further removed from the generation that sinned and were not allowed to enter the Holy Land. We have moved from needing animal sacrifices - which themselves were a replacement of human sacrifices - and use instead prayer. Which is indicative of removing the “animal” in you and sacrificing it to a Higher purpose.
+They say we are far removed from Sinai, when we were holier, thus closer to G!d. I say perhaps we are further removed from the generation that sinned and were not allowed to enter the Holy Land. We have moved from needing animal sacrifices - which themselves were a replacement of human sacrifices - and use instead prayer. Which is indicative of removing the "animal" in you and sacrificing it to a Higher purpose.
 
 Perhaps we are closer to entering the mystical Holy Land. May we be the generation that will merit that – entering into the Olam Ha'ba, the place we will walk in the presence of the Lord, [ברוך שם קבוד]{dir="rtl"}... at our side.
 

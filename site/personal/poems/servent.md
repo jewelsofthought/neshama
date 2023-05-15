@@ -20,7 +20,7 @@ Taking over. I have to leave, and all that keeps me going
 Is the upcoming trip.
 
 Being here puts me into such a strange state of mind. As if
-I’m participating in a movie, not quite real. I cannot quite grok
+I'm participating in a movie, not quite real. I cannot quite grok
 That this is supposed to be my life. I cannot understand how I
 Got to this place, to take it as normal to be so untrue.
 

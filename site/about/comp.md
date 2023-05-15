@@ -16,17 +16,17 @@ Later that morning, Erin, from Support comes over and says it seems we are infec
 
 Well, of course, due to time pressure on this mail project, I had been pulled off completing the virus scan project, and had managed to install the virus scanner on only one of our three gateways. I wanted to test for a while on one of the gateways to make sure everything was working properly before installing it on all three. Defining the notifications had taken longer than I expected, so it had been all of a week languishing at this stage. But I now realized that something was wrong and I needed to install the virus scanner on all the gateways, update the virus files, and that would take probably the rest of the day. So, after re-ordering my priorities, I began to do that.
 
-Firstly, I already had taken one of the gateways (mail2) out of the load pool in preparation for the installation. So, wanting to try something, I had tarred up all the TrendMicro files, and just needed to untar them and install them on mail2. This was to reduce the pain of having to reconfigure the actions and notifications again. It had been complicated and uncomfortable doing it on mail1, I was trying to simplify the process on mail2. They really should have a manual way of being able to port configurations between hosts. But no, of course, they have to build a fancy control manager product and charge people for that one. I don’t need that. I could use cfengine, or just scp the configuration changes. I mean, how often am I going to change the configuration anyways?
+Firstly, I already had taken one of the gateways (mail2) out of the load pool in preparation for the installation. So, wanting to try something, I had tarred up all the TrendMicro files, and just needed to untar them and install them on mail2. This was to reduce the pain of having to reconfigure the actions and notifications again. It had been complicated and uncomfortable doing it on mail1, I was trying to simplify the process on mail2. They really should have a manual way of being able to port configurations between hosts. But no, of course, they have to build a fancy control manager product and charge people for that one. I don't need that. I could use cfengine, or just scp the configuration changes. I mean, how often am I going to change the configuration anyways?
 
-In the meantime, i tried to update Pollux’s virus file, as i was concerned that it did not have the new pattern file. The update process timed out! 3 times. Well, that’s not working. Onto TrendMicro’s site. Find the file, download it manually. Find the documentation that explains how to install it manually on the product. Install, restart. Check virus log files – and voila!
+In the meantime, i tried to update Pollux's virus file, as i was concerned that it did not have the new pattern file. The update process timed out! 3 times. Well, that's not working. Onto TrendMicro's site. Find the file, download it manually. Find the documentation that explains how to install it manually on the product. Install, restart. Check virus log files &mdash; and voila!
 
 <pre>
 200X/08/20 15:08:43 GMT-04:00   43A12B63-9EF2-669D-2B11-6257D1C4DF0E    support@infolex.gr      <ajohnson@my.edu>      Re: Thank you!  WORM_SOBIG.F    2       3               3
 </pre>
 
-Well, a nice readable log format though I don’t know what those trailing numbers are, and it would be nice to know, but unless it becomes relevant, I will not bother with it.
+Well, a nice readable log format though I don't know what those trailing numbers are, and it would be nice to know, but unless it becomes relevant, I will not bother with it.
 
-Unfortunately that didn’t work. Well, it was a long shot, but I had to try it.
+Unfortunately that didn't work. Well, it was a long shot, but I had to try it.
 
 So, I copy over the product and install it. Then the patch. Then the configuration. Finally the new pattern file, start the MTA and the virus scanner. Enable mail2 in the load pool, and voila! Success. Repeat the process for mail3, and we are good to go. Well, let us say we have prevented new viruses from entering the system. Now we have to start cleaning up the mess.
 
@@ -48,7 +48,7 @@ Run
 </pre>
 on the gateways. Wait.
 
-Peruse the queues to get some idea of how bad it is. I looked at some emails, and remembered that Arin had said there were <code>.pif</code> files. I ascertained that by reading the emails. I also noticed that a couple of subjects that were common, by looking at the virus logs. Using lines like “Wicked Screensaver” started to get my goat up – I mean who do these smart asses think they are?
+Peruse the queues to get some idea of how bad it is. I looked at some emails, and remembered that Arin had said there were <code>.pif</code> files. I ascertained that by reading the emails. I also noticed that a couple of subjects that were common, by looking at the virus logs. Using lines like "Wicked Screensaver" started to get my goat up &mdash; I mean who do these smart asses think they are?
 
 Eventually, I got results. The first mailq had completed. On Pollux I noticed a lot of mail from virusadmin which were notifications of virus activity and from MAILER-D telling people their mail could not be sent and why. I realized I needed to clean these out. So, I ran a search on the output of the mailq program and removed these instances.
 

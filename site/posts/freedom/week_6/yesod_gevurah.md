@@ -15,7 +15,7 @@ date: 2022-05-22T05:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Gevurah she’b Yesod</h2>
+<h2>Gevurah she'b Yesod</h2>
 <span dir="rtl"><b>הָיום שִׁבְעָה וְשׁלושׁים יָוֹם שֶׁהֵם חְַמִשָּׁה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is thirty-seven days, which is five weeks and two days of the Omer</i>
@@ -33,7 +33,7 @@ Bonding must be done with discretion and careful consideration with whom and wit
 
 The first step of this week of **Yesod** was to infuse this ninth _sefirah_ with the energies of **Chesed**. Now it is time to limit Lovingkindness with **Gevurah**, the _sefirah_ of Emotional Boundaries. The Acceptance and Love that we carry must have proper form for it to express meaningfully in our world. On this day we feel the channel of Light between the genital area and the left shoulder.
 
-Honouring the ego, the identity which awakens at **Yesod**, is one of the great challenges we face. From the lesser “i”, our more limited point of view, we experience a constant parade of judgements and comparisons with which we separate ourselves from ourselves, from others and from our world. **Gevurah**, that first _sefirah_ of separation, reminds us of the necessity of such boundaries, for it is **Gevurah** which supports Creation when it shapes the fullness it receives. Even our judgements and comparisons can be for blessing when they help orientate us in the world, when they teach us to better use ourselves as vehicles of Divine Purpose.
+Honouring the ego, the identity which awakens at **Yesod**, is one of the great challenges we face. From the lesser "i", our more limited point of view, we experience a constant parade of judgements and comparisons with which we separate ourselves from ourselves, from others and from our world. **Gevurah**, that first _sefirah_ of separation, reminds us of the necessity of such boundaries, for it is **Gevurah** which supports Creation when it shapes the fullness it receives. Even our judgements and comparisons can be for blessing when they help orientate us in the world, when they teach us to better use ourselves as vehicles of Divine Purpose.
 
 The ego does not function simply in an environment of light. It knows the shadow as well. **Gevurah** symbolises that shadow, and by its strength we know the strength of the Light it contains. All aspects of our being proclaim the glory of the One we are, so we do not seek to rid ourselves of shadow, but to utilise its energies in the service of evolution itself.
 

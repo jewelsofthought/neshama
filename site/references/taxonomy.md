@@ -18,7 +18,7 @@ date: 2021-10-19T20:30:21.600Z
 
 The question and challenge that always comes up regarding the ability to create regular content on a continual basis is how to organize content. Should we use categories or tags?
 
-The good news is, it doesn’t need to be complicated. There is no single answer to this question but there are several driving principles that can help guide you to creating a smart, simple taxonomy.
+The good news is, it doesn't need to be complicated. There is no single answer to this question but there are several driving principles that can help guide you to creating a smart, simple taxonomy.
 
 ## What is taxonomy?
 
@@ -57,9 +57,9 @@ A strong taxonomy creates relationships between posts and eases the user&#8217;s
 - Review them and type out all possible themes for the posts.
   Are they campaign or program specific? Organization updates? News articles? Case Studies? Product updates?
 - Just write down words
-  like “publications” “events” “news”.
-- Don’t get hung up on if they make sense or not. That can come later.
-- Keep narrowing down your themes until you can’t go any further.
+  like "publications" "events" "news".
+- Don't get hung up on if they make sense or not. That can come later.
+- Keep narrowing down your themes until you can't go any further.
 
 ### Define your hierarchy
 
@@ -78,20 +78,20 @@ Note: Every thing will be case by case (we love that phrase here at Visceral) bu
 
 Rules or guidelines will help you appropriately tag your content. If you have two levels for example, a category and a tag, you should allocate 1 category to each blog post and 1-3 tags (which are really descriptors) to each post. If you have only one level of organization, then you choose whether you want to add only one tag per post or between 1-3.
 
-Do not add more than 3 tags to each post. You know how your working memory can hold 3-5 pieces of information? Think of your blog post that way as well. The more tags you overload on a post, the less useful your tagging system becomes. Why? When a user clicks on a specific tag, each filtered view they get will look very similar if all the posts are tagged with that one tag. The navigation system breaks down and then you’ve lost a reader to Facebook. Forever.
+Do not add more than 3 tags to each post. You know how your working memory can hold 3-5 pieces of information? Think of your blog post that way as well. The more tags you overload on a post, the less useful your tagging system becomes. Why? When a user clicks on a specific tag, each filtered view they get will look very similar if all the posts are tagged with that one tag. The navigation system breaks down and then you've lost a reader to Facebook. Forever.
 
-### Document your taxonomy choices.
+### Document your taxonomy choices
 
 Use a simple outline in Word format or Blog-Taxonomy-Template in Excel. The document includes the system you have set up with basic instructions (from step 4) on how to use it. This will keep you and your team accountable for the decisions that you made early on. You then apply this system into your editorial calendar on a post-by-post basis by adding appropriate taxonomy terms to each post in your calendar.
 
 ## Tips
 
 - Keep it **simple**.
-  There will always be exceptions and posts that don’t fall into one category or that fall into all ten of your categories. Be decisive in your categorization. Don’t worry too much.
+  There will always be exceptions and posts that don't fall into one category or that fall into all ten of your categories. Be decisive in your categorization. Don't worry too much.
 - Be **fluid**.
   Use your taxonomy to support your content strategy but let your content ideas go outside of what you set up... and then just adjust the taxonomy accordingly.
 - Be **deliberate**.
-  Don’t be afraid to change it. Just make sure that when you are changing it, you are assessing the impact for better or worse on the overall structure and most importantly, your users.
+  Don't be afraid to change it. Just make sure that when you are changing it, you are assessing the impact for better or worse on the overall structure and most importantly, your users.
 - Be **analytical**.
   Review your analytics to see what is getting read, found, not read and then consider changing your editorial content, SEO strategy and scheme accordingly.
 
@@ -100,4 +100,4 @@ Use a simple outline in Word format or Blog-Taxonomy-Template in Excel. The do
 - **Too many** tags.
   For reasons already discussed.
 - **Mis-tagging**.
-  Be devoted to the system you put in place. Don’t get lazy and mistag or not tag items at all. This is a disservice to your users.
+  Be devoted to the system you put in place. Don't get lazy and mistag or not tag items at all. This is a disservice to your users.

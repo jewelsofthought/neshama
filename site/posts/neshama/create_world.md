@@ -26,7 +26,7 @@ modified: 2002-04-12
 תָּנָא אֵין מַלְאָךְ אֶחָד עוֹשֶׂה שְׁתֵּי שְׁלִיחוֹת, וְלֹא שְׁנֵי מַלְאָכִים עוֹשִׂים שְׁלִיחוּת אֶחָת, וְאַתְּ אֲמַרְתְּ שְׁנֵי, אֶלָּא מִיכָאֵל אָמַר בְּשׂוֹרָתוֹ וְנִסְתַּלֵּק, גַּבְרִיאֵל נִשְׁתַּלַּח לַהֲפֹךְ אֶת סְדוֹם, וּרְפָאֵל לְהַצִּיל אֶת לוֹט
 </p>
 <p>
-and behold, three men: One to bring the news [of Isaac’s birth] to Sarah, and one to overturn Sodom, and one to heal Abraham, for one angel does not perform two errands (Gen. Rabbah 50:2). You should know that [this is true] because throughout the entire chapter, Scripture mentions them in the plural, e.g., (below verse 8): “and they ate”; (ibid. verse 9): “and they said to him.” Concerning the announcement, however, it says (ibid. verse 10): “And he said: I will surely return to you.” ... And Raphael, who healed Abraham, went from there to save Lot. This is what is stated: “And it came to pass when they took them outside, that he [the angel] said, ‘Flee for your life.’” You learn that only one acted as a deliverer.
+and behold, three men: One to bring the news [of Isaac's birth] to Sarah, and one to overturn Sodom, and one to heal Abraham, for one angel does not perform two errands (Gen. Rabbah 50:2). You should know that [this is true] because throughout the entire chapter, Scripture mentions them in the plural, e.g., (below verse 8): "and they ate"; (ibid. verse 9): "and they said to him." Concerning the announcement, however, it says (ibid. verse 10): "And he said: I will surely return to you." ... And Raphael, who healed Abraham, went from there to save Lot. This is what is stated: "And it came to pass when they took them outside, that he [the angel] said, 'Flee for your life.'" You learn that only one acted as a deliverer.
 </p>
 &nbsp;&nbsp;&nbsp;&mdash;(Rashi's commentary)
 </details>
@@ -67,11 +67,11 @@ Starting off as kids, where we are taught to accept the edicts handed down to us
 
 It ends up with a desire to escape that web of constraints. The only way to do that is to become an authority oneself.
 
-Surrounded by the ultimate cage, the one that is defined by God, and then handed down to us by Man. We often forget that this is just a human interpretation of the Will of the God, the Unknowable. It is fortified by the mythos that surrounds the enlightened one’s, Moses, Jesus, Buddha, Mohammed, to name a few. For though human like us, they are assumed to have a special relationship with the Divine.
+Surrounded by the ultimate cage, the one that is defined by God, and then handed down to us by Man. We often forget that this is just a human interpretation of the Will of the God, the Unknowable. It is fortified by the mythos that surrounds the enlightened one's, Moses, Jesus, Buddha, Mohammed, to name a few. For though human like us, they are assumed to have a special relationship with the Divine.
 
 There are two attitudes that emerge from this.
 
-The first is that they are better, or different, than us. They are “special”. This attitude fortifies the division between us &mdash; that there are those who are “special” and different, and thus deserve their differing status is life – the aristocracy, the wealthy, or even the prophets. This is often referred to as the "golden shadow".
+The first is that they are better, or different, than us. They are "special". This attitude fortifies the division between us &mdash; that there are those who are "special" and different, and thus deserve their differing status is life – the aristocracy, the wealthy, or even the prophets. This is often referred to as the "golden shadow".
 
 Whereas the "(dark) shadows" consist of self-doubt, guilt, and the other shadows that prevent us from realising our full potential, there is also the golden shadow, which, by believing in the person that throws a "golden shadow" over you, you end up believing that you are less than that person, and can never achieve what he or she achieved. This is another, more subtle, way of saying to yourself that you are less than...
 
@@ -98,7 +98,7 @@ That is the paradoxical and Divine essence of our existence... the freedom (and 
 This is now the place of choice. The place of transformation. The existential fork in the road. Which way will you turn? It is not a place of up or down, in or out, but one of whether you choose to make your God finite or infinite. Your cosmology based on an infinite idea, or a finite one. Your choice.
 
 <figure class='quote'>
-G-d is the exclusive source of life; hence life, by definition, is connection with G-d. A “life” of disconnection from G-d is pseudo-life — a life devoid of all but its most superficial illusory shell.
+G-d is the exclusive source of life; hence life, by definition, is connection with G-d. A "life" of disconnection from G-d is pseudo-life — a life devoid of all but its most superficial illusory shell.
   <figcaption>&mdash;(The Chassidic Masters)</figcaption>
 </figure>
 

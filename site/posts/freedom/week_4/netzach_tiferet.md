@@ -15,7 +15,7 @@ date: 2022-05-09T03:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Tiferet she’b Netzach</h2>
+<h2>Tiferet she'b Netzach</h2>
 <span dir="rtl"><b>הָיום אַרְבָּעָה וְעֶשְׂרִים יָוֹם שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וּשְׁלוֹשָׁה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is twenty-four days, which is three weeks and three days of the Omer</i>

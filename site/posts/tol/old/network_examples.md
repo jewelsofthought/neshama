@@ -86,13 +86,13 @@ It would behoove the architects of these social networks and communication syste
 
 ## Natural webs
 
-### Food webs (Nature).
+### Food webs (Nature)
 
 These are networks created by nature. In food webs, species are connected by links telling which species feeds on which other species. The links of these networks seldom go both ways, and hence food webs are also an example of directed networks.
 
 Studying food webs is important to understand the ecosystem dynamics. For instance, ecologists believe that hubs of food webs are the keystone species of the ecosystem, paramount in maintaining the stability of the ecosystem. The ecosystem can easily survive if random species are deleted; if, however, hub species are removed, the ecosystem dramatically collapses.
 
-### Metabolic and protein networks (Nature).
+### Metabolic and protein networks (Nature)
 
 The nodes of metabolic networks are simple molecules like water or ATP. The links are the biochemical reactions that take place between these molecules. Moreover, proteins can be viewed as nodes of a complex network in which two proteins are connected if they can physically interact.
 
@@ -108,7 +108,7 @@ This structure has a number of qualities:
 
 - It had a moral imperative that you could activate within the community. Thus there was recourse to a Rabbi who would make a moral decision about conflicts, rather than relying on an external legal process. If there was a need for that, then there were generally lawyers within the community who could advise the participants as well as the Rabbi.
 - It becomes a self-sustaining and self-supporting structure that has minimal reliance on the greater surrounding community.
-- When services were provided to the greater community, that energy would be used to enrich the Jewish community itself. This provides an example of the way in which we can extricate ourselves from our reliance on the old, current paradigm. A form of the “build it and they will come”.
+- When services were provided to the greater community, that energy would be used to enrich the Jewish community itself. This provides an example of the way in which we can extricate ourselves from our reliance on the old, current paradigm. A form of the "build it and they will come".
 
 ## Organic food
 
@@ -119,23 +119,23 @@ In the more advanced version, it would behove the network to have its own legal,
 
 ## Political/Economic
 
-### Instance 7. Economic networks.
+### Instance 7. Economic networks
 
 Markets can be viewed as a huge directed multi-relational network. Companies, firms, financial institutions, governments play the role of nodes. Links symbolize different interactions between them, for instance purchases and sales or financial loaning, and the weight of the links captures the value of the transaction.
 
-### Model of the Sovereign entity.
+### Model of the Sovereign entity
 
 (See notes accompanying discourse on TOL).
 
-The corporation is becoming a model of a sovereign entity. Though it is become “para-governmental” and is not guided by any other imperative than to survive and increase itself. It is a bit animal like, eat and reproduce – though as we all know that its food is not organic, but economic – lacking the “higher” skills of judgement, morality, social consciousness, etc.
+The corporation is becoming a model of a sovereign entity. Though it is become "para-governmental" and is not guided by any other imperative than to survive and increase itself. It is a bit animal like, eat and reproduce – though as we all know that its food is not organic, but economic – lacking the "higher" skills of judgement, morality, social consciousness, etc.
 
 That is one of the main reasons that we are speaking about it in terms of a nation, a nation being an entity that has a government, as a managing body, that is answerable to the members of the nation.
 
 What if we declared this network a Sovereign entity with citizens, laws, codes of behaviour, etc? Just as the Jewish culture has created a culture that is in essence a sovereign nation.
 
-I choose the concept of a nation, because our web has aspects of a nation, and that is why I sometimes speak of it as a community too. There are ways of “joining”, i.e. becoming a “citizen” of this nation; modes of behaviour required as well as ethical and moral imperatives’ embedded in the social fabric.)
+I choose the concept of a nation, because our web has aspects of a nation, and that is why I sometimes speak of it as a community too. There are ways of "joining", i.e. becoming a "citizen" of this nation; modes of behaviour required as well as ethical and moral imperatives' embedded in the social fabric.)
 
-#### Example: UN decade of the child.
+#### Example: UN decade of the child
 
 In order to enable the voice of the children to be heard, the UN allowed a representative with full nation status to sit on the UN to speak for the rights of the children.
 
@@ -148,7 +148,7 @@ Boycotts are a willingness to do without certain things supplied by a group or c
 <div class="note">
 NOTE: Sanctions generally do not affect the country (countries) imposing the sanctions. And most times if there is something that one of the sanctioning countries, they will break the sanctions overtly or covertly.
 
-NOTE: Boycotts are better, because they are more personal. Through boycotts, once the critical mass is reached, we will be able to effect much change very quickly. As the call to arms has stated, “We vote with our dollars”. Meaning by the purchasing choices we make, we can affect the suppliers who are driven purely by the profit motive.
+NOTE: Boycotts are better, because they are more personal. Through boycotts, once the critical mass is reached, we will be able to effect much change very quickly. As the call to arms has stated, "We vote with our dollars". Meaning by the purchasing choices we make, we can affect the suppliers who are driven purely by the profit motive.
 
 </div>
 
@@ -158,19 +158,19 @@ An example of this was SA during Apartheid when sanctions were imposed on it, be
 
 A side effect was also that a lot of the local companies emerged from Apartheid cash-rich, and became global in their reach by buying up a lot of other companies when sanctions were lifted. An example of this was SA Breweries.
 
-#### Example: Bowling for Columbine:
+#### Example: Bowling for Columbine
 
 Michael Moore got K-Mart to agree to stop selling bullets for the automatic weapons that had been used in the Columbine massacre. North American Rifle Association boycotted K-Mart and it went down.
 
 #### Usage: Coca cola principle
 
-Speaking to boycotts, in a business environment, which runs according to the equations of profit, if you could mobilise a critical mass of people to declare sanctions, it would have an immediate effect on profit. The CEO would notice the rapid loss of sales and negotiate to “Make what they want, or they won’t buy”. In a sense it is speaking the language of the driving force of our society.
+Speaking to boycotts, in a business environment, which runs according to the equations of profit, if you could mobilise a critical mass of people to declare sanctions, it would have an immediate effect on profit. The CEO would notice the rapid loss of sales and negotiate to "Make what they want, or they won't buy". In a sense it is speaking the language of the driving force of our society.
 
-### Instance 4. Language networks.
+### Instance 4. Language networks
 
 In these networks the nodes are words and the links represent relationships among words like significant co-occurrence in texts.
 
-### Instance 5. Citation networks.
+### Instance 5. Citation networks
 
 An article citation network links scholarly papers through bibliographic references contained in the bibliography of the papers. This network is directed and follows the temporal ordering of papers: we cite the past, not the future. Hence, cycles are very rare, and a citation network closely resembles a directed acyclic graph.
 
@@ -182,6 +182,6 @@ Citation networks are fundamental tools in bibliometrics, the discipline that co
 
 Citation networks arise also in different contexts like patents and corresponding citations and published opinions of judges and their citations within and across opinion circuits.
 
-### Instance 9. Powerline and airline networks.
+### Instance 9. Powerline and airline networks
 
 These are human-made networks. Failures may have cascading effects: the failure of one node may recursively provoke the failure of connected nodes. The topology of the network directly influences the magnitude and reach of such events.

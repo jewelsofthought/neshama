@@ -20,9 +20,9 @@ date: 2022-05-21T00:01:00.000Z
 
 <div class="abstract">
 
-Bonding is on the same line of the mystical Tree of Life as Knowledge and Harmony. In the sphere of Knowledge, we become one with an idea. In Harmony, we’re doing in the heart what Knowledge does in the mind. Now, with Bonding, we duplicate that dynamic of connecting, but this time in the interpersonal arena.
+Bonding is on the same line of the mystical Tree of Life as Knowledge and Harmony. In the sphere of Knowledge, we become one with an idea. In Harmony, we're doing in the heart what Knowledge does in the mind. Now, with Bonding, we duplicate that dynamic of connecting, but this time in the interpersonal arena.
 
-In these connections, we’re looking for intimacy of some sort. That requires vulnerability, a putting aside of the ego: to know something intimately means to let go of your own way of knowing the world, and look at it from another perspective. You want to understand the thing as it is&mdash;not as you would like it to be. To love intimately means the same thing. If you don’t get your ego out of the way, someone else is not going to risk opening their heart to you. They don’t trust you, because the ego makes playthings of other’s most intimate lives. Similarly with Bonding: in order to be really intimate, you can have no agenda. A vision for something? Yes. Agenda? No![^1]
+In these connections, we're looking for intimacy of some sort. That requires vulnerability, a putting aside of the ego: to know something intimately means to let go of your own way of knowing the world, and look at it from another perspective. You want to understand the thing as it is&mdash;not as you would like it to be. To love intimately means the same thing. If you don't get your ego out of the way, someone else is not going to risk opening their heart to you. They don't trust you, because the ego makes playthings of other's most intimate lives. Similarly with Bonding: in order to be really intimate, you can have no agenda. A vision for something? Yes. Agenda? No![^1]
 
 <p style="text-align: center; font-style: normal">
 *&nbsp;*&nbsp;*
@@ -44,13 +44,13 @@ This week I honour the one at the centre of my thoughts, my feelings and my perc
 
 ## The Sefirah on the Tree of Life
 
-**Yesod** represents the “Foundation” of our separate sense of self. It is the awareness that we call “ego”. This is the place of our _nefesh_, the level of soul which is associated with the body. In **Malchut** we tend to lose our sense of self, and identify with the aspects of the world we encounter. We identify with things, roles, possessions and with other people. At **Yesod**, we are able to discover the “I” of the storm, the identity from which we can most effectively act in the world.
+**Yesod** represents the "Foundation" of our separate sense of self. It is the awareness that we call "ego". This is the place of our _nefesh_, the level of soul which is associated with the body. In **Malchut** we tend to lose our sense of self, and identify with the aspects of the world we encounter. We identify with things, roles, possessions and with other people. At **Yesod**, we are able to discover the "I" of the storm, the identity from which we can most effectively act in the world.
 
 **Yesod** is also the _sefirah_ of generation, represented on the body by the genitals. The ego identity is the body identity, and the body identity is deeply connected to our sexuality. It is important to appreciate how an energy which supports life can also be turned against itself. As we move down the Tree, and the energies become more dense, there is greater need for fuller awareness.
 
-**Yesod** is the Foundation from which **Malchut**, the manifestation, can flow. Psychologically, **Yesod** is the place of the individual identity called the ego. Here the essential identity needed for ensuring the individual biological survival of the organism is forged . Although the ego is often denigrated, it is not “bad”. Ego is required, and the stronger the ego, the better. It is the incomplete ego that seeks to usurp for itself power beyond it capabilities, and then to enter into the pretence of holding what it cannot by trying to control others and the world.
+**Yesod** is the Foundation from which **Malchut**, the manifestation, can flow. Psychologically, **Yesod** is the place of the individual identity called the ego. Here the essential identity needed for ensuring the individual biological survival of the organism is forged . Although the ego is often denigrated, it is not "bad". Ego is required, and the stronger the ego, the better. It is the incomplete ego that seeks to usurp for itself power beyond it capabilities, and then to enter into the pretence of holding what it cannot by trying to control others and the world.
 
-That **Yesod** is identified with sexuality is appropriate, for much of our individual identity is rooted there. Sexuality offers a clear reflection of the dilemma of our separate selves. We experience incompleteness and seek, as it were, our “other half” with which to know an exclusive completeness. Of course, that “other” which exists outside the self is a reflection of the “other half” hidden within us. When an ego discovers its own integrity, its own essential wholeness, then it can express its very being more clearly, and discover a fuller identity within which it itself will be held with compassion.
+That **Yesod** is identified with sexuality is appropriate, for much of our individual identity is rooted there. Sexuality offers a clear reflection of the dilemma of our separate selves. We experience incompleteness and seek, as it were, our "other half" with which to know an exclusive completeness. Of course, that "other" which exists outside the self is a reflection of the "other half" hidden within us. When an ego discovers its own integrity, its own essential wholeness, then it can express its very being more clearly, and discover a fuller identity within which it itself will be held with compassion.
 
 <div style="text-align: center; font-size: 130%">
 The Name of G-d<br />
@@ -61,7 +61,7 @@ is <i>Shaddai</i> or <i>El Chai</i><br />
  שָדַי    </h4>
 </div>
 
-The Kabbalistic tradition assigns two names at **Yesod**&mdash;_El Chai_ or _Shaddai_. We will use both of them in this meditative process. _Shaddai_ (“The Almighty”) is a Name reflecting the power of G-d, and is the name inscribed on the outside of the _mezuzah_ scroll, and often on the outside of the container affixed to the doorpost. The _mezuzah_ is a small cylindrical container holding a hand-written parchment upon which several central verses from the Torah are inscribed. It is placed on the right side of a doorway (as one enters a home or a room). _El Chai_ ("The Living G-d" or "The G-d of Life") is a “Life” name, drawing our awareness to the channelling of Life energy through the _sefirah_ of **Yesod**.
+The Kabbalistic tradition assigns two names at **Yesod**&mdash;_El Chai_ or _Shaddai_. We will use both of them in this meditative process. _Shaddai_ ("The Almighty") is a Name reflecting the power of G-d, and is the name inscribed on the outside of the _mezuzah_ scroll, and often on the outside of the container affixed to the doorpost. The _mezuzah_ is a small cylindrical container holding a hand-written parchment upon which several central verses from the Torah are inscribed. It is placed on the right side of a doorway (as one enters a home or a room). _El Chai_ ("The Living G-d" or "The G-d of Life") is a "Life" name, drawing our awareness to the channelling of Life energy through the _sefirah_ of **Yesod**.
 
 ## Meditation for the Sixth Week at YESOD
 
@@ -104,6 +104,6 @@ Seeing the reflections of my shadow self in the world around me, enables me to d
 
 In this intimate love, there has to be agendas, if it is only to love the other, to provide the other pleasure, or to help them achieve their own ego-driven goals.
 
-Once again, there is a masc/fem form of response – in the form of giving/receiving. In other words, one (fem) works towards creating the space in which this can occur. The other (masc) is more difficult to express, because it is the outward expression of this functioning “space”, and is judged by what the space produces and garners.
+Once again, there is a masc/fem form of response – in the form of giving/receiving. In other words, one (fem) works towards creating the space in which this can occur. The other (masc) is more difficult to express, because it is the outward expression of this functioning "space", and is judged by what the space produces and garners.
 
 [^2]: From a piece by Simon Jacobsen (on the Chabad website)

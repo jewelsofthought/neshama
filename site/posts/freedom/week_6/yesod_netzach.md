@@ -15,7 +15,7 @@ date: 2022-05-24T01:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Netzach she’b Yesod</h2>
+<h2>Netzach she'b Yesod</h2>
 <span dir="rtl"><b>הָיום תשׁעה וְשׁלושׁים יָוֹם שֶׁהֵם חְַמִשָּׁה שָׁבוּעוֹת וְאַרְבָּעָה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is thirty-nine days, which is five weeks and four days of the Omer</i>

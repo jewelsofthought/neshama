@@ -16,7 +16,7 @@ modified: 2022-06-15
 </figure>
 
 <div style="text-align:center">
-<h2>Hod she’b Gevurah</h2>
+<h2>Hod she'b Gevurah</h2>
 <span dir="rtl"><b>הָיום שְׁתים עָשָׂר יוֹם שֶׁהֵם שָׁבוּעַ אֶחָד וְחָמִישַׁה יָמִים לָעוֹמֵר</b></span>
 <i>ֹToday is twelve days, which is one week and five days of the Omer</i>
 </p>
@@ -31,7 +31,7 @@ The results of discipline and might without humility are obvious. The greatest c
 
 </div>
 
-Today our focus is on the left side of the Tree of Life. The connection is experienced between **Gevurah** at the left shoulder, and **Hod** at the left hip. **Gevurah** provides form for the emotional energies from **Chesed**, while **Hod** provides sensations that form from the physical energies flowing from **Netzach**. **Hod** is “Glory”, the fulfilment of physical sensation.
+Today our focus is on the left side of the Tree of Life. The connection is experienced between **Gevurah** at the left shoulder, and **Hod** at the left hip. **Gevurah** provides form for the emotional energies from **Chesed**, while **Hod** provides sensations that form from the physical energies flowing from **Netzach**. **Hod** is "Glory", the fulfilment of physical sensation.
 
 It is through the left side of the Tree that energy finds its form in the world. The goal is to continually bring energy and form into harmony, that the form may more truly express the unfolding possibilities inherent in the energy that arises. But if the form grows rigid, it cannot express itself fully, as it limits expansion.
 
@@ -50,7 +50,7 @@ I release the constraints of self-condemnation and self-judgement. I surround my
 
 Belief is not enough—you need trust.
 
-The Talmud says that before a robber breaks in, he prays that G-d should help him. He believes in G-d, but he doesn’t trust Him to provide him an honest living—and so he steals and murders instead.
+The Talmud says that before a robber breaks in, he prays that G-d should help him. He believes in G-d, but he doesn't trust Him to provide him an honest living—and so he steals and murders instead.
 
 _Trust in G-d is when your belief changes the way you live._
 

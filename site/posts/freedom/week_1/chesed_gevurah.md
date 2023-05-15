@@ -14,7 +14,7 @@ date: 2022-04-17T00:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Gevurah she’b Chesed</h2>
+<h2>Gevurah she'b Chesed</h2>
 <p>
 <span dir="rtl"><b>הָיום שְׁנִי יָמִים לָעוֹמֵר</b></span>
 <br />
@@ -61,7 +61,7 @@ _Thank you, O Lord, for the sustenance You provide._
 - As soon as you stop leaving, you are back there again.</p>
 - Without limitation no energy can express in meaningful ways.</p>
 
-R’ Falcon’s use of the concept of emotional energy, required a dive into the difference between emotions and feelings. As you can see below, I read the normative view of the differences. Where would I find the mystical one, I wonder?
+R' Falcon's use of the concept of emotional energy, required a dive into the difference between emotions and feelings. As you can see below, I read the normative view of the differences. Where would I find the mystical one, I wonder?
 
 <details>
 <summary class='button is-outlined'>
@@ -74,13 +74,13 @@ Upper (spiritual) -> (feelings) || _mind_ || (emotions) <- Lower (physical).
 
 To explain: The mind "interprets" the feelings that come from the upper, or spiritual, realm as well as the sensations that produce emotions that we receive as a result of our interaction with the world around us.
 
-I do not think that contradicts what seems to me his description of the above situation: “Our emotions bridge the gap between operations of mind and expressions of body.”
+I do not think that contradicts what seems to me his description of the above situation: "Our emotions bridge the gap between operations of mind and expressions of body."
 
 I have just placed our mind (the only place we are cognisant of our behaviour) between the spiritual realm and the material realm.
 
-A fundamental difference between feelings and emotions is that feelings are experienced consciously, while emotions manifest either consciously or subconsciously. Emotion is a “feedback system whose influence on behaviour is indirect.”
+A fundamental difference between feelings and emotions is that feelings are experienced consciously, while emotions manifest either consciously or subconsciously. Emotion is a "feedback system whose influence on behaviour is indirect."
 
-Most people want to “feel more positive than negative.” Yet the emotions that cause a positive experience are shown to change between cultures.
+Most people want to "feel more positive than negative." Yet the emotions that cause a positive experience are shown to change between cultures.
 
 |                                                                           | EMOTIONS versus FEELINGS                                   |                  |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------- |
@@ -90,9 +90,9 @@ Most people want to “feel more positive than negative.” Yet the emotions tha
 | Physical states                                                           | Mental associations and reactions                          |                  |
 | Can be observed through the physical reaction                             | Can be hidden                                              |                  |
 
-Emotions are natural phenomenon. They can be considered as physical and instinctive since they arise from our bodies’ responses to external stimuli. For example, when you are in an unknown place, you may feel a range of emotions such as curiosity and fear. Since emotions are physical states, they can be measured by physical factors such as facial expressions, body language, blood flow, etc. Emotions are considered to be irrational, illogical and unreasonable since they are carried out by the limbic system, which is separate from the neocortex, which deals with reasoning, conscious thoughts, and decision making.
+Emotions are natural phenomenon. They can be considered as physical and instinctive since they arise from our bodies' responses to external stimuli. For example, when you are in an unknown place, you may feel a range of emotions such as curiosity and fear. Since emotions are physical states, they can be measured by physical factors such as facial expressions, body language, blood flow, etc. Emotions are considered to be irrational, illogical and unreasonable since they are carried out by the limbic system, which is separate from the neocortex, which deals with reasoning, conscious thoughts, and decision making.
 
-Feelings are mental experiences of body states, which arise as the brain interprets emotions, themselves physical states arising from the body’s responses to external stimuli.
+Feelings are mental experiences of body states, which arise as the brain interprets emotions, themselves physical states arising from the body's responses to external stimuli.
 </div>
 </details>
 
@@ -127,15 +127,15 @@ In contrast to emotions, feelings originate in the neocortical region of the bra
 
 Because they are based on an emotional experience, feelings can be entirely subjective and vary from person to person. If we are to look at any basic emotion that was discussed in the previous section, you can attach the word feel, felt, or feeling to any of them.
 
-For example, you can feel happy or angry, or you felt sad, or you’re feeling disgusted.
+For example, you can feel happy or angry, or you felt sad, or you're feeling disgusted.
 
-Feelings can become even more specific than these emotional responses, though, and they can also be brought up from your physical reactions to various things. Pain and hunger are a couple of examples of this. If you’re injured, you can feel pain, or if you haven’t eaten all day, you’re bound to feel hungry at some point.
+Feelings can become even more specific than these emotional responses, though, and they can also be brought up from your physical reactions to various things. Pain and hunger are a couple of examples of this. If you're injured, you can feel pain, or if you haven't eaten all day, you're bound to feel hungry at some point.
 
 All of this indicates that feelings are something that is noticed at the conscious level, and according to Antonio Damasio, who is a professor of Neuroscience at the University of Southern California, feelings are mental experiences of body states and arise as your brain interprets the subconscious emotions.
 
-Unlike emotions, feelings are [completely conscious](https://counseling.online.wfu.edu/blog/difference-feelings-emotions/), and this is one of the key differences between them. However, not all conscious experiences are feelings necessarily; you are aware of what you’re seeing or hearing, or any of the primary senses, but they aren’t feelings.
+Unlike emotions, feelings are [completely conscious](https://counseling.online.wfu.edu/blog/difference-feelings-emotions/), and this is one of the key differences between them. However, not all conscious experiences are feelings necessarily; you are aware of what you're seeing or hearing, or any of the primary senses, but they aren't feelings.
 
-Although they are two separate concepts, as you can see, they aren’t unrelated to each other by any means.
+Although they are two separate concepts, as you can see, they aren't unrelated to each other by any means.
 
 </div>
 </p>

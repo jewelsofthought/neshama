@@ -34,11 +34,11 @@ Even though we experience our world and ourselves as continuously changing, West
 
 ## Process
 
-> _Process is a basic entity that is individuated in terms of what it ‘does.’_
+> _Process is a basic entity that is individuated in terms of what it 'does.'_
 
-In order to develop a taxonomy of dynamic beings (types and modes of occurrences), _processists replace the descriptive concepts of substance metaphysics with a set of new basic **categories**_. Central among these is the notion of a basic entity that is individuated in terms of what it ‘does.’ This type of functionally individuated entity is often labelled ‘_**process**_’ in a technical sense of this term that does not coincide with our common-sense notion of a process. Some of the ‘processes’ postulated by process philosophers are in agreement with our common-sense understanding of processes — temporal developments that can be analysed as temporally structured sequences of stages of an occurrence, with each such stage being numerically and qualitatively different from any other. But some of the ‘processes’ that process philosophers operate with are not temporal developments in this sense — they are, for example, temporal but non-developmental occurrences like activities, or non-spatiotemporal happenings that realize themselves in a developmental fashion and thereby constitute the directionality of time.
+In order to develop a taxonomy of dynamic beings (types and modes of occurrences), _processists replace the descriptive concepts of substance metaphysics with a set of new basic **categories**_. Central among these is the notion of a basic entity that is individuated in terms of what it 'does.' This type of functionally individuated entity is often labelled '_**process**_' in a technical sense of this term that does not coincide with our common-sense notion of a process. Some of the 'processes' postulated by process philosophers are in agreement with our common-sense understanding of processes — temporal developments that can be analysed as temporally structured sequences of stages of an occurrence, with each such stage being numerically and qualitatively different from any other. But some of the 'processes' that process philosophers operate with are not temporal developments in this sense — they are, for example, temporal but non-developmental occurrences like activities, or non-spatiotemporal happenings that realize themselves in a developmental fashion and thereby constitute the directionality of time.
 
-> _What holds for all dynamic entities labelled ‘**processes**,’ however, is that they occur—that they are somehow or other intimately connected to time, and often, though not necessarily, related to the directionality or the passage of time._
+> _What holds for all dynamic entities labelled '**processes**,' however, is that they occur—that they are somehow or other intimately connected to time, and often, though not necessarily, related to the directionality or the passage of time._
 
 ## Form
 
@@ -56,13 +56,13 @@ In some process accounts, _becoming_ is the mode of being common to the many kin
 
 The conditions of spatio-temporal existence, the kinds of dynamic entities, the relationship between mind and world, and the realization of values in action are all under discussion. The wide range of approaches to the subject share the guiding idea that natural existence consists in modes of becoming and types of occurrences.
 
-‘**Processists**’ agree that the world is an assembly of physical, organic, social, and cognitive processes that interact at and across levels of dynamic organization.\_
+'**Processists**' agree that the world is an assembly of physical, organic, social, and cognitive processes that interact at and across levels of dynamic organization.\_
 
 ## Substance Metaphysics
 
 > _Process philosophy opposes substance metaphysics_
 
-**_Substance metaphysics_** has been the dominant research paradigm in the history of Western philosophy since Aristotle. Substance metaphysics proceeds from the intuition — first formulated by the pre-Socratic Greek philosopher Parmenides — that being should be thought of as simple, hence as internally undifferentiated and unchangeable. Substance metaphysicians recast this intuition as _the claim that the primary units of reality (called “substances”) must be static_ — they must be what they are at any instant in time (_time invariant_). In contrast to the substance-metaphysical _snapshot view of reality_, with its typical focus on eternalist being and on what there is, process philosophers analyse becoming and what is occurring as well as ways of occurring.
+**_Substance metaphysics_** has been the dominant research paradigm in the history of Western philosophy since Aristotle. Substance metaphysics proceeds from the intuition — first formulated by the pre-Socratic Greek philosopher Parmenides — that being should be thought of as simple, hence as internally undifferentiated and unchangeable. Substance metaphysicians recast this intuition as _the claim that the primary units of reality (called "substances") must be static_ — they must be what they are at any instant in time (_time invariant_). In contrast to the substance-metaphysical _snapshot view of reality_, with its typical focus on eternalist being and on what there is, process philosophers analyse becoming and what is occurring as well as ways of occurring.
 
 ## Process Metaphysics
 

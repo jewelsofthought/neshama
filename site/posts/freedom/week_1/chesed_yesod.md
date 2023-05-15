@@ -14,7 +14,7 @@ date: 2022-04-21T00:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Yesod she’b Chesed</h2>
+<h2>Yesod she'b Chesed</h2>
 <p>
 <span dir="rtl"><b>הָיום שִׁישָׁה יָמִים לָעוֹמֵר</b></span>
 <br />

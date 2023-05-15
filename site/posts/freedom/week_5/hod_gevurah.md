@@ -15,7 +15,7 @@ date: 2022-05-15T04:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Gevurah she’b Hod</h2>
+<h2>Gevurah she'b Hod</h2>
 <span dir="rtl"><b>הָיום שׁלושׁים יָוֹם שֶׁהֵם ארבעה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is thirty days, which is four weeks and two days of the Omer</i>
@@ -31,7 +31,7 @@ Humility must be disciplined and focused. It must include respect and awe for th
 
 </div>
 
-This is the week of **Hod**, the “Glory” of Physical Form, experienced through our sensations and our perceptions. Into **Hod** we bring **Gevurah**, the Severity of Emotional Limitation. We focus our energies on the left side of the Tree, experiencing the connection as a channel of light between the left hip and the left shoulder.
+This is the week of **Hod**, the "Glory" of Physical Form, experienced through our sensations and our perceptions. Into **Hod** we bring **Gevurah**, the Severity of Emotional Limitation. We focus our energies on the left side of the Tree, experiencing the connection as a channel of light between the left hip and the left shoulder.
 
 This is a day for consolidating our energies, for appreciating the forms into which they are cast. We are offered precious moments to consider the shape of the emotions which are expressed through the forms and patterns of our lives. We are challenged to care tenderly for our physical selves, and to become more aware than ever of our power to translate ways of wholeness into the world of being.
 
@@ -47,4 +47,4 @@ I am the vehicle through whom Universal Energies flow. Now these forces find hum
 
 <h3>Reflections</h3>
 
-[^1]: I would like to shape myself into a “vessel” to receive the Light – when It wishes to grace me with Its form – and a “channel” for that Light to express Itself in the world.
+[^1]: I would like to shape myself into a "vessel" to receive the Light – when It wishes to grace me with Its form – and a "channel" for that Light to express Itself in the world.

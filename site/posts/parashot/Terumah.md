@@ -50,11 +50,11 @@ v2] _Terumah_ - Uplifting
   </p>
 </blockquote>
 
-**NOTE**: A _terumah_ means an offering in this context, but also has the meaning of “uplifting”. Thus, in common parlance, one might say, something like: "Speak to the children of Israel, that they should bring to Me something that will lift me up, i.e., honour me &mdash; and through honouring me, will be 'uplifted'."{.note}
+**NOTE**: A _terumah_ means an offering in this context, but also has the meaning of "uplifting". Thus, in common parlance, one might say, something like: "Speak to the children of Israel, that they should bring to Me something that will lift me up, i.e., honour me &mdash; and through honouring me, will be 'uplifted'."{.note}
 
 <figure class='quote'>
   <p>
-    The verse does not say “and I will dwell within it,” but “and I will dwell within them” &mdash; within each and every one of them.
+    The verse does not say "and I will dwell within it," but "and I will dwell within them" &mdash; within each and every one of them.
   </p>
   <figcaption>&mdash;(Shaloh)</figcaption>
 </figure>
@@ -75,7 +75,7 @@ We need to build a [temple](https://www.chabad.org/parshah/article_cdo/aid/1167/
 
 <figure class='quote'>
   <p>
-    Every created entity has a spark of G‑dliness within it, a pinpoint of divinity that constitutes its “soul,” its spiritual function and design. When we utilize something to serve the Creator, we penetrate its shell of mundanity, revealing and realizing its divine essence. Thus we elevate these “sparks,” reuniting them with their Source.
+    Every created entity has a spark of G‑dliness within it, a pinpoint of divinity that constitutes its "soul," its spiritual function and design. When we utilize something to serve the Creator, we penetrate its shell of mundanity, revealing and realizing its divine essence. Thus we elevate these "sparks," reuniting them with their Source.
   </p>
   <figcaption>&mdash;(The Chassidic Masters)</figcaption>
 </figure>
@@ -223,13 +223,13 @@ Even as late as the time of Solomon, whether G-d dwelt amongst us or not was dep
 
 <figure class='quote'>
   <p>
-     The <em>Gemara</em> (<em>Megillah</em> 18a) says, <em>“A word is worth one <em>sela</em> (coin). Silence is worth two.”</em> Perhaps the <em>Gemara</em> alludes to the speak-half-as-much-as-you-know rule:  for every word you speak, make sure it is accompanied by two measures of silence. Only half of what we think in our heads, should actually be articulated.
+     The <em>Gemara</em> (<em>Megillah</em> 18a) says, <em>"A word is worth one <em>sela</em> (coin). Silence is worth two."</em> Perhaps the <em>Gemara</em> alludes to the speak-half-as-much-as-you-know rule:  for every word you speak, make sure it is accompanied by two measures of silence. Only half of what we think in our heads, should actually be articulated.
 <p></p>
 Sometimes we must be called upon to ring clearly, and make our views known, like a bell. But other times, silence must reign. We must hold back the thoughts that could be potentially hurtful or unhelpful. There is tremendous power in silence.
 <p></p>
 From the tension of speaking and silence, emerges action. From the tension of sound and silence comes music.
 <p></p>
-This triad of speaking, silence and action is a methodology that we must each employ when advocating for change. For righting wrongs, and bringing justice to our world. When we try to better our world, and continue God’s creative work, we must know when to speak out. We must know when not to talk, to remain silent, and control the anger, and frustration within us. And then, we must know when to act. To turn the sounds and silences into action.
+This triad of speaking, silence and action is a methodology that we must each employ when advocating for change. For righting wrongs, and bringing justice to our world. When we try to better our world, and continue God's creative work, we must know when to speak out. We must know when not to talk, to remain silent, and control the anger, and frustration within us. And then, we must know when to act. To turn the sounds and silences into action.
 <p></p>
 There is a time to talk out; a time to remain silent; a time to act.
   </p>

@@ -36,9 +36,9 @@ Jack Freund and Jack Jones describe a more specific overview of GRC as follows:
 
 ### Governance
 
-> Ultimately, leadership is expected to cost-effectively govern the organization’s risk landscape.
+> Ultimately, leadership is expected to cost-effectively govern the organization's risk landscape.
 
-Accomplishing this requires setting and communicating expectations, overseeing and facilitating the achievement and maintenance of those expectations, and managing conditions that don’t align with their expectations.
+Accomplishing this requires setting and communicating expectations, overseeing and facilitating the achievement and maintenance of those expectations, and managing conditions that don't align with their expectations.
 
 GRC solutions are supposed to assist with this by providing a way to report where these expectations are and are not being met, within a meaningful business context.
 
@@ -46,19 +46,19 @@ GRC solutions are supposed to assist with this by providing a way to report wher
 
 This objective is all about making better-informed risk decisions, which boils down to three things:
 
-- identifying ‘risks’,
-- effectively rating and prioritising ‘risks,’ and
-- making decisions about how to mitigate ‘risks’ that are significant enough to warrant mitigation.”
+- identifying 'risks',
+- effectively rating and prioritising 'risks,' and
+- making decisions about how to mitigate 'risks' that are significant enough to warrant mitigation."
 
 ### Compliance
 
-On the surface, compliance is simply a matter of identifying the relevant expectations (e.g., requirements defined by Basel, Payment Card Industry (PCI), SOX, etc.), documenting and reporting on how the organisation is (or is not) complying with those expectations, and tracking and reporting on activities to close any gaps.”
+On the surface, compliance is simply a matter of identifying the relevant expectations (e.g., requirements defined by Basel, Payment Card Industry (PCI), SOX, etc.), documenting and reporting on how the organisation is (or is not) complying with those expectations, and tracking and reporting on activities to close any gaps."
 
 ## Risk
 
 Well here is a shot at fashioning these risk related statements in a more human orientated fashion:
 
-> “Ultimately, leadership is expected to cost-effectively govern the organisation’s risk landscape..."
+> "Ultimately, leadership is expected to cost-effectively govern the organisation's risk landscape..."
 
 This is the first statement regarding "governance". It sets the basic framework within which the game is required to be played. What if we looked at this crystal from a different perspective? Firstly, why is the game a leadership game? If the "leadership" gains by cost effective governance, that would be its focus - of course. Just as it is with our social/political systems too. Even our political system is riddled with risk analysis - only the risk this time is losing your seat, or political standing.
 

@@ -15,7 +15,7 @@ date: 2022-05-12T03:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Yesod she’b Netzach</h2>
+<h2>Yesod she'b Netzach</h2>
 <span dir="rtl"><b>הָיום שִׁבְעָה וְעֶשְׂרִים יָוֹם שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וְשִׁשָּׁה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is twenty-seven days, which is three weeks and six days of the Omer</i>
@@ -26,7 +26,7 @@ date: 2022-05-12T03:04:00.000Z
 </div>
 
 <div style="font-weight: bold; text-align:center">
-<h2>Yesod she’b Netzach</h2>
+<h2>Yesod she'b Netzach</h2>
 <i>Day Six of Week 4:</i>
 <p>Connection in Ambition</p>
 
@@ -38,7 +38,7 @@ Bonding is an essential quality of endurance.
 
 </div>
 
-Today we bring **Yesod** into **Netzach**. The manifestation of the balance of **Hod** and **Netzach** is at **Yesod**, the seat of the ego, the place of the lesser “i”, the identity with which we interact with our world. This is the Foundation from which our energies reach out to the world around us.
+Today we bring **Yesod** into **Netzach**. The manifestation of the balance of **Hod** and **Netzach** is at **Yesod**, the seat of the ego, the place of the lesser "i", the identity with which we interact with our world. This is the Foundation from which our energies reach out to the world around us.
 
 **Yesod** brings this Foundation for expression into **Netzach**. From our physical sensations and perceptions comes our experience of the world. **Netzach** provides an appreciation of that which is behind the specific form of sensation; **Yesod** provides the avenue through which those energies will be able to act in the world. No _sefirah_ stands without the others. They must all interact to celebrate the great dance of Being of which we are a part. **Yesod** provides the foundation which **Netzach** needs, and **Netzach** provides the energies that **Yesod** requires for its own fulfilment.
 
@@ -50,6 +50,6 @@ In **Netzach** today we recognise that aspect of ourselves which carries on the 
 
 <div class="abstract">
 
-My energies flow more freely now than ever before. I bless the work I do in the world, breathing new life into my being. I now appreciate the work of my lesser self that carries my energies out into the world. I am an expression of Life’s energy this day.
+My energies flow more freely now than ever before. I bless the work I do in the world, breathing new life into my being. I now appreciate the work of my lesser self that carries my energies out into the world. I am an expression of Life's energy this day.
 
 </div>

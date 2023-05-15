@@ -14,7 +14,7 @@ date: 2022-04-25T00:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Tiferet she’b Gevurah</h2>
+<h2>Tiferet she'b Gevurah</h2>
 <span dir="rtl"><b>הָיום אָשָׂרָה יָמִים שֶׁהֵם שָׁבוּעַ אֶחָד  וּּשְׁלוֹשָׁה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is ten days, which is one week and three days of the Omer</i>

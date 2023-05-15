@@ -13,7 +13,7 @@ modified: 2022-01-01T14:23:16.309Z
 4. [Rational](#rational)
 5. [As "instant gratification"](#as-instant-gratification)
 
-## Science will save us!
+## Science will save us
 
 > The sheep, without a shepherd, wandering in the wilderness.
 
@@ -43,16 +43,16 @@ Nor is it a battle between the rational and the irrational - for any rationality
 
 ## Rational
 
-Similarly, rationality would also fall into the category of a belief system, but one that has a serious flaw. It requires a “closed system”, one in which there is an optimum or ideal state from which to judge and interpret the state of the world that conforms (or not) to this ideal, rational state. This is always based on a set of criteria that deems something rational (or non-rational). However, what if the base criteria were inadequate, or the rational evaluation brought us to a place of “irrationality”, a self-contradictory postion? This is not so absurd as it might seem, as might be seen regarding the contradictory nature of quantum physics – which is derived from the reason of pure science.
+Similarly, rationality would also fall into the category of a belief system, but one that has a serious flaw. It requires a "closed system", one in which there is an optimum or ideal state from which to judge and interpret the state of the world that conforms (or not) to this ideal, rational state. This is always based on a set of criteria that deems something rational (or non-rational). However, what if the base criteria were inadequate, or the rational evaluation brought us to a place of "irrationality", a self-contradictory postion? This is not so absurd as it might seem, as might be seen regarding the contradictory nature of quantum physics – which is derived from the reason of pure science.
 
-A very simple example of this is in geometry. If I have a equilateral triangle that has two sides of length 1, what is the third side’s length? Well, as we know from the Pythagorean equation, it has length , which itself is called an irrational number.
+A very simple example of this is in geometry. If I have a equilateral triangle that has two sides of length 1, what is the third side's length? Well, as we know from the Pythagorean equation, it has length , which itself is called an irrational number.
 
 ## As "instant gratification"
 
-Science is an expression of “instant gratification”. A “scientific” fact is the prize in this process. It could be described as a game of points, scored by scientifically proven facts, and any others are not allowed to be included in the game .
+Science is an expression of "instant gratification". A "scientific" fact is the prize in this process. It could be described as a game of points, scored by scientifically proven facts, and any others are not allowed to be included in the game .
 
 This is one of the reasons that mathematics stands apart – for it seeks only its own certainty, and is a language that is purely narcissistic and, essentially, self contained. It seeks only mathematical facts, whether existentially correct, or not. Through its disregard for what is real, it has become the premier tool in empirical science.
-Thus it hovers between “fact” and “fiction – just as we as humans experience our existences, a mixture of fact and fiction, truth and story, reality and narrative. Of course, the fiction is just as much a driver as is fact in many of our endeavours to describe and find balance in the world we live in – through our religion and our philosophy, our stories and myths, history, romance, discoveries and explorations.
+Thus it hovers between "fact" and "fiction – just as we as humans experience our existences, a mixture of fact and fiction, truth and story, reality and narrative. Of course, the fiction is just as much a driver as is fact in many of our endeavours to describe and find balance in the world we live in – through our religion and our philosophy, our stories and myths, history, romance, discoveries and explorations.
 
 Scientific truth is limited to the context – and thus language and culture – in which it is framed. For instance, a physical law might not apply in non-physical situations, like psychology or economics – though there is no scientific fact that is not expressed in mathematical truths. (is there?) because math is the yardstick by which all such facts are now judged – you could even call it the blade that each fact is threshed upon – whether overtly or covertly.
 

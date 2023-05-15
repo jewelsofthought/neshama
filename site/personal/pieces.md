@@ -16,7 +16,7 @@ I am afraid to lose control. And lovely women make me feel weak and not in contr
 
 The dance today was different, in that I had a lot of support and affirmation from all the women in the group. Even the facilitator said that I was a wonderful dancer. This affirms my belief and feeling in the dance. I have been playing soccer and volleyball in lieu of my dancing. But I need to get back on the bandwagon.
 
-Anyways during the dance today, while I was in trance, I suddenly got this picture of the women wanting me to continue. They were supporting me in what I am doing and want me to succeed to realise my potential. Each one thinks they want me, but as a whole, they want me to bridge between them and the male principle. A sacred male prostitute! A _kwitsat ha’derech_. I have to remain strong and true to my belief and principles. I see something and I need to offer it to us all.
+Anyways during the dance today, while I was in trance, I suddenly got this picture of the women wanting me to continue. They were supporting me in what I am doing and want me to succeed to realise my potential. Each one thinks they want me, but as a whole, they want me to bridge between them and the male principle. A sacred male prostitute! A _kwitsat ha'derech_. I have to remain strong and true to my belief and principles. I see something and I need to offer it to us all.
 
 ## Personal
 
@@ -26,7 +26,7 @@ Why show me the path, and then I die with never having revealed it? It is the wa
 
 4/13/02
 
-It is painful to be back in my “real” space. After entering into a state of bliss, a place of unconditional love, of non-judgmental relating, we return, as if from outer space to the dependencies and dependents, the enabling and the co-dependent relationships; the loves that manifest in the material – as of daughter, of husband, of lover and love, of Father and of friend – with all their limitations and expectations, and slowly we emerge from the fog and the harsh light of the day removes all the shadows, all the soft places.
+It is painful to be back in my "real" space. After entering into a state of bliss, a place of unconditional love, of non-judgmental relating, we return, as if from outer space to the dependencies and dependents, the enabling and the co-dependent relationships; the loves that manifest in the material – as of daughter, of husband, of lover and love, of Father and of friend – with all their limitations and expectations, and slowly we emerge from the fog and the harsh light of the day removes all the shadows, all the soft places.
 
 5/1/2001 9:32 AM
 

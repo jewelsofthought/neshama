@@ -15,7 +15,7 @@ date: 2022-05-07T03:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Chesed she’b Netzach</h2>
+<h2>Chesed she'b Netzach</h2>
 <span dir="rtl"><b>הָיום שְׁנַיִם וְעֶשְׂרִים יָוֹם שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וְיוֹם אֶחָד לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is twenty-two days, which is three weeks and one day of the Omer</i>

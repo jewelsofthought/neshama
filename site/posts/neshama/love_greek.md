@@ -28,15 +28,15 @@ The ancient Greeks had seven words for love that corresponded to different types
 
 > Eros: sexual, erotic
 > definition: love based on physical appearance
-> when you eros-love someone, you give to receive, and don’t receive. this type of love is much like lust but lust is not a type of love, it is an infatuation.
+> when you eros-love someone, you give to receive, and don't receive. this type of love is much like lust but lust is not a type of love, it is an infatuation.
 
-Eros was the Greek God of love and sexual desire. He was shooting golden arrows into the hearts of both mortals and immortals without warning. The Greeks feared that kind of love the most because it was dangerous and could get them into the most trouble. Eros is defined as divine beauty or lust. Eros is mainly based on sexual attraction and it is where the term “erotica” came from.
+Eros was the Greek God of love and sexual desire. He was shooting golden arrows into the hearts of both mortals and immortals without warning. The Greeks feared that kind of love the most because it was dangerous and could get them into the most trouble. Eros is defined as divine beauty or lust. Eros is mainly based on sexual attraction and it is where the term "erotica" came from.
 
 Example of Eros love: A young couple that meets and immediately feels attracted, and lustful, towards one another.
 
 ### Philia: Love of the mind
 
-> Philia or Phileo: friendship, “brotherly love”
+> Philia or Phileo: friendship, "brotherly love"
 > definition: love based on common interests or bonds
 > when you phileo-love someone, its a relationship where you give to receive.
 
@@ -48,7 +48,7 @@ Example of Philia love: Two friends talk about how deeply they understand each o
 
 - Ludus: flirtatious, playful, casual, uncommitted
 
-Ludus is the flirtatious and teasing kind of love, the love mostly accompanied by dancing or laughter. It’s the child-like and fun kind of love. If you think about it; this generation loves Ludus more than anything else.
+Ludus is the flirtatious and teasing kind of love, the love mostly accompanied by dancing or laughter. It's the child-like and fun kind of love. If you think about it; this generation loves Ludus more than anything else.
 
 Example of Ludus love: Modern love at its finest, Ludus love is best described by thinking of two people who just want to have fun together, with little need for security or roots.
 
@@ -56,18 +56,18 @@ Example of Ludus love: Modern love at its finest, Ludus love is best described b
 
 - Pragma: committed, long-standing
 
-The everlasting love between a married couple which develops over a long period of time. Pragma was the highest form of love; the true commitment that comes from understanding, compromise and tolerance. It is pragmatic this is why it is referred to as “standing in love” rather than “falling in love” because it grows over time and requires profound understanding between lovers who have been together for many years.
+The everlasting love between a married couple which develops over a long period of time. Pragma was the highest form of love; the true commitment that comes from understanding, compromise and tolerance. It is pragmatic this is why it is referred to as "standing in love" rather than "falling in love" because it grows over time and requires profound understanding between lovers who have been together for many years.
 
 Example of Pragma love: Think about your grandparents, and how they have endured so much, but have always chosen each other.
 
 ### Agape: Love of the soul
 
-> Agape: “unconditional love”, divine, selfless
-> definition- literally translated means ‘charity’. loving someone/something on no conditions (no matter what)
+> Agape: "unconditional love", divine, selfless
+> definition- literally translated means 'charity'. loving someone/something on no conditions (no matter what)
 > when you agape-love, you give for the sake of making the other person happy. because you truly want the best for them. you have no intentions of receiving.
 > The final result of the natural chemical blending of unrelated feelings that one holds toward another, which, once synthesized, create an emotion that is independent of the confines of time or the elements of this existence.
 
-Agape love is selfless love, the love for humanity. It is the closest to unconditional love. The love you give without expecting anything in return reflected in all charitable acts. It is the compassionate love that makes us sympathize with, help and connect to people we don’t know. The world needs more Agape love.
+Agape love is selfless love, the love for humanity. It is the closest to unconditional love. The love you give without expecting anything in return reflected in all charitable acts. It is the compassionate love that makes us sympathize with, help and connect to people we don't know. The world needs more Agape love.
 
 Example of Agape love: The person in your life that is always giving to others, and needing nothing in return. This is the way they show their love, and this is the way they are energized through love. By giving all that they have, and all that they are, to those around them, they find beauty in life.
 
@@ -83,10 +83,10 @@ Example of Philautia love: Selfish Philautia love is the kind of love that takes
 
 > Storge: affection
 
-Storge is the love parents naturally feel for their children. It’s based on natural feelings and effortless love. Storge is the love that knows forgiveness, acceptance and sacrifice. It is the one that makes you feel secure, comfortable and safe.
+Storge is the love parents naturally feel for their children. It's based on natural feelings and effortless love. Storge is the love that knows forgiveness, acceptance and sacrifice. It is the one that makes you feel secure, comfortable and safe.
 
 Example of Storge love: Think about the kind of love your mother gives you, or your very best friend. It is rooted in friendship, and understanding, but there is also a deep emotional connection there.
 
-### Mania:
+### Mania
 
 - Mania: obsessive, possessive, addictive, dependent

@@ -15,7 +15,7 @@ date: 2022-04-29T00:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Malkhut she’b Gevurah</h2>
+<h2>Malkhut she'b Gevurah</h2>
 <span dir="rtl"><b>הָיום אַרְבָעָה עָשָׂר יוֹם שֶׁהֵם שְׁנֵי שָׁבוּעוֹת לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is fourteen days, which is two weeks of the Omer</i>

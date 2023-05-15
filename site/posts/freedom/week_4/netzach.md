@@ -35,9 +35,9 @@ I allow myself special time this week to relax into the moment and seek the not-
 
 Whenever we work with the image of the Tree, we need to sense and appreciate the function represented by the right and the left side. The right side is seen as the side of expression and of force, the left as the side of receptivity (not passivity) and form. One cannot exist without the other, and therefore neither can, in any real sense, be superior. But we learn more deeply about each by paying attention to the other.[^1]
 
-The two sides of the Tree call us to remember the difference between the container and that which it contains. Form provides the vehicle through which the force can actualise. The side of force provides the ‘juice’ for the side of form.
+The two sides of the Tree call us to remember the difference between the container and that which it contains. Form provides the vehicle through which the force can actualise. The side of force provides the 'juice' for the side of form.
 
-**Netzach**, like the other two _sefirot_ on the right side of the Tree of Life, represents Energy as force, which will take particular shape and form at the corresponding _sefirah_ on the left side of the Tree. **Hod**, **Netzach’s** partner, provides the forms for perception and sensation; **Netzach** symbolises the energy yearning to be held in such forms.
+**Netzach**, like the other two _sefirot_ on the right side of the Tree of Life, represents Energy as force, which will take particular shape and form at the corresponding _sefirah_ on the left side of the Tree. **Hod**, **Netzach's** partner, provides the forms for perception and sensation; **Netzach** symbolises the energy yearning to be held in such forms.
 
 Through remaining aware of these two polarities, we can appreciate more deeply the vital energy that vibrates behind all unique perceptions, and is independent of any specific perception. This is the very energy that flow into the sensations that we experience, and it is both through the situation in which they arose, and our manner of expressing them that we will experience them as positive or negative.
 
@@ -57,7 +57,7 @@ is <em>Adonai Tzeva'ot</em>,
 יהוה צבאות
 </div>
 
-The Name of G-d at **Netzach** is _**Adonai Tzeva’ot**_, translated as “Eternal One of Hosts”, though written as _Yod-Kay-Vav-Kay Tzeva’ot_. In this context, “hosts” refers to the vibrational level&mdash;the sensations and perceptions&mdash;shared between the _sefirot_ of **Netzach** and **Hod** . The _Elohim_ of **Hod** present an apparent multiplicity; at **Netzach**, the “hosts” are _Adonai_, the unformed, undifferentiated aspect of the One. The Name _Yod-Kay-Vav-Kay Tzeva'ot_ refers to the energetic level prior to the manifestation of specific sensations.
+The Name of G-d at **Netzach** is _**Adonai Tzeva'ot**_, translated as "Eternal One of Hosts", though written as _Yod-Kay-Vav-Kay Tzeva'ot_. In this context, "hosts" refers to the vibrational level&mdash;the sensations and perceptions&mdash;shared between the _sefirot_ of **Netzach** and **Hod** . The _Elohim_ of **Hod** present an apparent multiplicity; at **Netzach**, the "hosts" are _Adonai_, the unformed, undifferentiated aspect of the One. The Name _Yod-Kay-Vav-Kay Tzeva'ot_ refers to the energetic level prior to the manifestation of specific sensations.
 
 ## Meditation for the Fourth Week at NETZACH
 
@@ -65,7 +65,7 @@ The Name of G-d at **Netzach** is _**Adonai Tzeva’ot**_, translated as “Eter
 <p dir="rtl">
 יְהוָ֣ה צְבָא֣וֹת עִמָּ֑נוּ מִשְׂגָּֽב־לָ֝נוּ אֱלֹהֵ֖י יַעֲקֹ֣ב סֶֽלָה
 </p><p>
-Adonai Tzeva’ot</em> is with us, the G-d of Jacob is our haven.<br />
+Adonai Tzeva'ot</em> is with us, the G-d of Jacob is our haven.<br />
 -- (Psalm 46:12)
 </p>
 </blockquote>
@@ -78,10 +78,10 @@ Life is offered us every moment. Open your awareness to celebrate that offering.
 
 In a deepening silence, allow yourself to open to the flow of energy, the force that causes a particular sensation. Before defining the sensation, bask in the blessing of that outpouring. After it becomes defined, a felt sensation, as it always shall, remain with that which is not yet named in the sensation itself.
 
-Focus on the letter and on the sound of the Name of G-d. Let _Adonai Tzva’ot_ provide the daily mantra for the week, reminding you of that which lies beyond all sensation, all experience.
+Focus on the letter and on the sound of the Name of G-d. Let _Adonai Tzva'ot_ provide the daily mantra for the week, reminding you of that which lies beyond all sensation, all experience.
 
 </div>
 
 <h3>Reflections</h3>
 
-[^1]: It is similar to the process of understanding the _I’Ching_, the interplay between the masculine and the feminine, dark and light, represented by the Yin and the Yang&mdash;both of which are essential for the wheel to continue turning.
+[^1]: It is similar to the process of understanding the _I'Ching_, the interplay between the masculine and the feminine, dark and light, represented by the Yin and the Yang&mdash;both of which are essential for the wheel to continue turning.

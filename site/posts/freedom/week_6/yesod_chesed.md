@@ -15,7 +15,7 @@ date: 2022-05-21T04:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Chesed she’b Yesod</h2>
+<h2>Chesed she'b Yesod</h2>
 <span dir="rtl"><b>הָיום שִׁשָּׁה וְשׁלושׁים יָוֹם שֶׁהֵם חְַמִשָּׁה שָׁבוּעוֹת וְיוֹם אֶחָד לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is thirty-six days, which is five weeks and one day of the Omer</i>
@@ -35,7 +35,7 @@ Love is the heart of bonding.[^2] You cannot bond without love. Love establishes
 
 </div>
 
-This week we focus our attention on **Yesod**, the place where we awaken as individualized beings in the world. This is the centre we call “ego”. The One Being individualises Itself on this level of existence. The cost of individualisation is the awareness of separation.
+This week we focus our attention on **Yesod**, the place where we awaken as individualized beings in the world. This is the centre we call "ego". The One Being individualises Itself on this level of existence. The cost of individualisation is the awareness of separation.
 
 Into this space of separateness we bring **Chesed**, with its energies of Lovingkindness, to begin the sixth week of our journey. We imagine the connection as a channel of light between the genital area and the right shoulder.
 
@@ -51,10 +51,10 @@ I embrace more fully than ever before the worth of my separate self. The blessin
 
 </div>
 
-[^1]: “Be kind in your relationships”; “Make connections that are kind, and not angry or devious”; ”Treat those you are connected to kindly”.
+[^1]: "Be kind in your relationships"; "Make connections that are kind, and not angry or devious"; "Treat those you are connected to kindly".
 [^2]: Love is the heart of bonding:
     This is one of the 4 spaces of bonding. This should be expressed more clearly in the movement of **Yesod** through the _sefirot_.
-    But because we are only dealing with the lower 7, the body, we do not experience the Upper, the spiritual engagement., which is expressed as “Impulse from below.”
+    But because we are only dealing with the lower 7, the body, we do not experience the Upper, the spiritual engagement., which is expressed as "Impulse from below."
     **Physical**: Lust/physical desire is the bond (**Malchut**). Here it is expressed in pure giving (masculine) and receiving (feminine) terms. Both are valid (and necessary). Only Love can lift us (and this) to a higher level, where the giving and the receiving are hormonious and balanced.
     **Emotional**: Love is the bond (**Yesod**) – **Netzach** & **Hod** have to be balanced.
     **Intellectual**: Balance/Harmony is the goal (**Tiferet**). Melding of minds. Bonding through a common vision, shared beliefs. .

@@ -30,13 +30,13 @@ Joseph words charmed Pharoah and his courtiers. (v37) And Pharoah responds by ma
 אֲנִ֣י פַרְעֹ֑ה וּבִלְעָדֶ֗יךָ לֹֽא־יָרִ֨ים אִ֧ישׁ אֶת־יָד֛וֹ וְאֶת־רַגְל֖וֹ בְּכׇל־אֶ֥רֶץ מִצְרָֽיִם׃
 {dir="rtl"}
 
-Pharaoh then gave Joseph the name Zaphenath-paneah (for “God speaks; he lives,” or “creator of life”), and he gave him for a wife Asenath daughter of Poti-phera, priest of On. (v45)
+Pharaoh then gave Joseph the name Zaphenath-paneah (for "God speaks; he lives," or "creator of life"), and he gave him for a wife Asenath daughter of Poti-phera, priest of On. (v45)
 
 Now Joseph was 30 years old when he entered into the service of Pharaoh. He travelled all through the land of Egypt, and gathered all the grain of the seven years of abundance that Egypt was enjoying, and stored the grain in the cities. (v46-49)
 
-In the meantime Asenath, daughter of Poti-Phera, priest of On, bore him two sons. The first he named Manasseh, meaning “God has made me forget [נַשַּׁ֤נִי]{dir="rtl"} completely my hardship and my parental home.” The second he named Ephraim meaning “God has made me fertile [הִפְרַ֥נִי]{dir="rtl"} in the land of my affliction.” (v50-52)
+In the meantime Asenath, daughter of Poti-Phera, priest of On, bore him two sons. The first he named Manasseh, meaning "God has made me forget [נַשַּׁ֤נִי]{dir="rtl"} completely my hardship and my parental home." The second he named Ephraim meaning "God has made me fertile [הִפְרַ֥נִי]{dir="rtl"} in the land of my affliction." (v50-52)
 
-The seven years of abundance ended, and the famine descended upon the people. There was famine in all the lands except for Egypt were there was bread. (v53-54) When all the land of Egypt felt the hunger and the people cried out to Pharoah for bread, Pharaoh responded and said: “Go to Joseph; whatever he tells you, you shall do” [לְכ֣וּ אֶל־יוֹסֵ֔ף אֲשֶׁר־יֹאמַ֥ר לָכֶ֖ם תַּעֲשֽׂוּ]{dir="rtl"}. (v55)
+The seven years of abundance ended, and the famine descended upon the people. There was famine in all the lands except for Egypt were there was bread. (v53-54) When all the land of Egypt felt the hunger and the people cried out to Pharoah for bread, Pharaoh responded and said: "Go to Joseph; whatever he tells you, you shall do" [לְכ֣וּ אֶל־יוֹסֵ֔ף אֲשֶׁר־יֹאמַ֥ר לָכֶ֖ם תַּעֲשֽׂוּ]{dir="rtl"}. (v55)
 
 Accordingly, Joseph opened all the storage facilities, and rationed out grain to the Egyptians. The famine, however, spread over the whole world. All the world came to Joseph in Egypt to procure rations, for the famine had become severe throughout the world. (v56-57)
 
@@ -65,11 +65,11 @@ Recalling the dreams he had about them, Joseph accuses them: "You are spies. You
 
 "We your servants were twelve brothers, sons of a certain man in the land of Canaan; the youngest, however, is now with our father, and one is no more." (v13)
 
-But Joseph insists: "It is just as I have told you: You are spies! This is the test I shall put to you. Unless your youngest brother comes here, by Pharaoh, you shall not depart from this place! Let one of you go and bring your brother, while the rest of you remain confined, that your words may be put to the test whether there is truth in you. Else, by Pharaoh, you are nothing but spies!”. (v14-16) Then he confines them in the guardhouse for three days. (v17) On the third day, he commands them: "Do as I order you, and you shall live, for I fear G-d. If you are being honest, let one of you brothers be held in your place of detention, while the rest of you go and take home rations for your starving households; but you must bring me your youngest brother, that your words may be verified and that you may not die.” (v18-20)
+But Joseph insists: "It is just as I have told you: You are spies! This is the test I shall put to you. Unless your youngest brother comes here, by Pharaoh, you shall not depart from this place! Let one of you go and bring your brother, while the rest of you remain confined, that your words may be put to the test whether there is truth in you. Else, by Pharaoh, you are nothing but spies!". (v14-16) Then he confines them in the guardhouse for three days. (v17) On the third day, he commands them: "Do as I order you, and you shall live, for I fear G-d. If you are being honest, let one of you brothers be held in your place of detention, while the rest of you go and take home rations for your starving households; but you must bring me your youngest brother, that your words may be verified and that you may not die." (v18-20)
 
-The discussed this demand amongst one another. "We are being punished on account of our brother, because we looked on at his anguish, yet paid no heed as he pleaded with us. That is why this distress has come upon us.” (v21)
+The discussed this demand amongst one another. "We are being punished on account of our brother, because we looked on at his anguish, yet paid no heed as he pleaded with us. That is why this distress has come upon us." (v21)
 
-The Rueben spoke up and said: "Did I not tell you, ‘Do no wrong to the boy’? But you paid no heed. Now comes the reckoning for his blood." (v22)
+The Rueben spoke up and said: "Did I not tell you, 'Do no wrong to the boy'? But you paid no heed. Now comes the reckoning for his blood." (v22)
 
 **Note**: It is interesting the view they have on the way life unfolds, and that all is connected in the spiritual realm. But not the details, but the intention behind what you do. Thus they connect what is happening with the Vizier with their actions towards their brother.{.note}
 
@@ -79,13 +79,13 @@ They did not know that Joseph understood, for there was an interpreter between h
 
 He weeps when he hears what they have to say. For he hears their regret and shame at what they had done. But he came back to them, bound Simeon before their eyes, and loaded them up with grain, returning the money to each one's sack, and gave them provisions for their return journey. (v24-25)
 
-Loaded up, they departed. As one of them was opening his sack to give feed to his ass at the night encampment, he saw his money right there at the mouth of his bag. And he said to his brothers, “My money has been returned! It is here in my bag!” Their hearts sank; and, trembling, they turned to one another, saying, “What is this that G-d has done to us?” (v26-29)
+Loaded up, they departed. As one of them was opening his sack to give feed to his ass at the night encampment, he saw his money right there at the mouth of his bag. And he said to his brothers, "My money has been returned! It is here in my bag!" Their hearts sank; and, trembling, they turned to one another, saying, "What is this that G-d has done to us?" (v26-29)
 
 When they arrived back, they told him all that had happened. "The man who is lord of the land spoke harshly to us and accused us of spying on the land. We protested, But the man &mdash; who is lord of the land &mdash; said to us, 'By this I shall know that you are being honest: leave one of your brothers with me, and take something for your starving households and be off. And bring your youngest brother to me, that I may know that you are not spies, that you are being honest. I will then restore your brother to you, and you shall be free to move about in the land.'" (v30-34)
 
-As they were emptying their sacks, there, in each one’s sack, was his money-bag! When they and their father saw their money-bags, they were dismayed. (v35)
+As they were emptying their sacks, there, in each one's sack, was his money-bag! When they and their father saw their money-bags, they were dismayed. (v35)
 
-Then Jacob, their father, said to them: “It is always me that suffers: Joseph is no more and Simeon is no more, and now you would take away Benjamin. These things always happen to me!” (v36)
+Then Jacob, their father, said to them: "It is always me that suffers: Joseph is no more and Simeon is no more, and now you would take away Benjamin. These things always happen to me!" (v36)
 
 Rueben tries to change his father's mind, offering his two sons if he does not return with Benjamin. (v37)
 
@@ -95,26 +95,26 @@ But Joseph is adamant, "My son must not go down with you, for his brother is dea
 
 But the famine was severe, and after they had finished the rations they had brought from Egypt, their father relented and sent them back down to Egypt. "Go again and procure some food for us." (v1-2)
 
-But Judah reminded him: "The man warned us, ‘You will not see my face unless your brother is with you.’ If you will let our brother go with us, we will go down and procure food for you; but if you will not let him go, we cannot go down, for that man said to us, ‘Do not let me see your faces unless your brother is with you.'" (v3-5)
+But Judah reminded him: "The man warned us, 'You will not see my face unless your brother is with you.' If you will let our brother go with us, we will go down and procure food for you; but if you will not let him go, we cannot go down, for that man said to us, 'Do not let me see your faces unless your brother is with you.'" (v3-5)
 
 Israel reprimanded them, saying, "Why did you tell the man that you had another brother? Did you not know that that could affect me badly?" (v6)
 
-They explained, “The man kept asking about us and our family, saying, ‘Is your father still living? Have you another brother?’ And we answered him accordingly. How were we to know that he would say, ‘Bring your brother here’?” (v7)
+They explained, "The man kept asking about us and our family, saying, 'Is your father still living? Have you another brother?' And we answered him accordingly. How were we to know that he would say, 'Bring your brother here'?" (v7)
 
 {Note: This is additional information regarding the conversation that Joseph, the Vizier, had with his brothers. We are not told of this aspect of the dialogue they had until now.}
 
-Judah is the sensible one. "Send the boy in my care," he argues, "and let us be on our way, that we may live and not die &mdash; you and us and our children. I myself will be surety for him; you may hold me responsible: if I do not bring him back to you and set him before you, I shall stand guilty before you forever." Then he adds, "For we could have been there and back twice if we had not dawdled.” (v8-11)
+Judah is the sensible one. "Send the boy in my care," he argues, "and let us be on our way, that we may live and not die &mdash; you and us and our children. I myself will be surety for him; you may hold me responsible: if I do not bring him back to you and set him before you, I shall stand guilty before you forever." Then he adds, "For we could have been there and back twice if we had not dawdled." (v8-11)
 
-Israel relents, “If it must be so, do this: take some of the choice products of the land in your baggage, and carry them down as a gift for the man, Take with you double the money, carrying back with you the money that was replaced in the mouths of your bags; perhaps it was a mistake. Take your brother too; and go back at once to the man. And may El Shaddai dispose the man to mercy toward you, that he may release to you your other brother, as well as Benjamin. As for me, if I am to be betrayed, I shall have to live with my sorrow.” (v12-14)
+Israel relents, "If it must be so, do this: take some of the choice products of the land in your baggage, and carry them down as a gift for the man, Take with you double the money, carrying back with you the money that was replaced in the mouths of your bags; perhaps it was a mistake. Take your brother too; and go back at once to the man. And may El Shaddai dispose the man to mercy toward you, that he may release to you your other brother, as well as Benjamin. As for me, if I am to be betrayed, I shall have to live with my sorrow." (v12-14)
 
 **Note**: Israel (not Jacob), like a true leader, once he has relented and made his decision to let them go, then prepares them properly with gifts and the money, accepting the responsibility of his decision, even though it might turn out badly for him. Such were the nature of such events in those days. You sent your children off for days (perhaps weeks) to procure food for you from a far-off land. You would hear nothing from them or about them until they returned, if they returned.{.note}
 
-They return to Egypt, where they presented themselves to Joseph. When Joseph sees Benjamin with them, he says: "Prepare an animal. These men will dine with me at noon." So they were brought to Joseph's house. But the brothers were frightened. “It must be,” they thought, “because of the money replaced in our bags the first time that we have been brought inside, as a pretext to attack us and seize us as slaves, with our pack animals.” (v15-18)
+They return to Egypt, where they presented themselves to Joseph. When Joseph sees Benjamin with them, he says: "Prepare an animal. These men will dine with me at noon." So they were brought to Joseph's house. But the brothers were frightened. "It must be," they thought, "because of the money replaced in our bags the first time that we have been brought inside, as a pretext to attack us and seize us as slaves, with our pack animals." (v15-18)
 
-So they approach Joseph's steward, trying to explain to him what had happened. “If you please, my lord,” they said, “we came down once before to procure food. But when we arrived at the night encampment and opened our bags, there was each one’s money in the mouth of his bag, our money in full.So we have brought it back with us. And we have brought down with us other money to procure food. We do not know who put the money in our bags.”
+So they approach Joseph's steward, trying to explain to him what had happened. "If you please, my lord," they said, "we came down once before to procure food. But when we arrived at the night encampment and opened our bags, there was each one's money in the mouth of his bag, our money in full.So we have brought it back with us. And we have brought down with us other money to procure food. We do not know who put the money in our bags."
 (v19-22)
 
-However, the steward replies: “All is well with you; do not be afraid. Your God, the God of your father’s [house], must have put treasure in your bags for you. I got your payment.” And he brought out Simeon to them. (v23)
+However, the steward replies: "All is well with you; do not be afraid. Your God, the God of your father's [house], must have put treasure in your bags for you. I got your payment." And he brought out Simeon to them. (v23)
 
 **Note**: This is the second time G-d is acknowledged, but why would the steward refer to their God (the G-d of your father's house)?{.note}
 
@@ -126,11 +126,11 @@ When Joseph comes home, they present the gifts to him, bowing low to the ground.
 
 **Benjamin** also bows here!{.note}
 
-They replied, “It is well with your servant our father; he is still in good health.” And they bowed and made obeisance. (v28)
+They replied, "It is well with your servant our father; he is still in good health." And they bowed and made obeisance. (v28)
 
 **Note**: What a scene. He is dressed in his regalia, probably walking around them, looking at them. Or sitting on his throne, gazing down at them.{.note}
 
-Looking about, he saw his brother Benjamin, his mother’s son, and asked, “Is this your youngest brother of whom you spoke to me?” And he went on, “May God be gracious to you, my boy.” (v29)
+Looking about, he saw his brother Benjamin, his mother's son, and asked, "Is this your youngest brother of whom you spoke to me?" And he went on, "May God be gracious to you, my boy." (v29)
 
 At this point, Joseph is overcome with emotion toward his brother and was on the verge of tears. So he went into a room and wept there. (v30) Then, washing his face, he reappeared, and the meal was served. (v31) But the Hebrews and the Egyptians dined separately, for the Egyptians could not dine with the Hebrews, since that would be abhorrent to the Egyptians. (v32)
 
@@ -140,21 +140,21 @@ They were served unequal portions at the table, with Benjamin's being five times
 
 ## Chapter 44
 
-The he instructs his steward. "“Fill the men’s bags with food, as much as they can carry, and put each one’s money in the mouth of his bag. Put my silver goblet in the mouth of the bag of the youngest one, together with his money for the rations.” And he did as Joseph told him. (v1-2)
+The he instructs his steward. ""Fill the men's bags with food, as much as they can carry, and put each one's money in the mouth of his bag. Put my silver goblet in the mouth of the bag of the youngest one, together with his money for the rations." And he did as Joseph told him. (v1-2)
 
 With the first light of morning, the men were sent off with their pack animals. They had not gone far, when Joseph said to his house steward, "Up, go after those men! And when you overtake them, say to them, 'Why did you repay good with evil? It is the very one from which my master drinks and which he uses for divination. It was a wicked thing for you to do!'" (v4-5)
 
 **Note**: This is kind of cryptic. How did he know that they took his goblet?{.note}
 
-When he had overtaken them, and said those things to them, they, of course, proclaim their innocence. "Why does my lord say such things? Far be it from your servants to do anything of the kind!" They protest. "Here we brought back to you from the land of Canaan the money that we found in the mouths of our bags. How then could we have stolen any silver or gold from your master’s house! Whichever of your servants it is found with shall die; the rest of us, moreover, shall become slaves to my lord.” (v6-9)
+When he had overtaken them, and said those things to them, they, of course, proclaim their innocence. "Why does my lord say such things? Far be it from your servants to do anything of the kind!" They protest. "Here we brought back to you from the land of Canaan the money that we found in the mouths of our bags. How then could we have stolen any silver or gold from your master's house! Whichever of your servants it is found with shall die; the rest of us, moreover, shall become slaves to my lord." (v6-9)
 
-He replies, “Although what you are proposing is right, only the one with whom it is found shall be my slave; but the rest of you shall go free.” (v10)
+He replies, "Although what you are proposing is right, only the one with whom it is found shall be my slave; but the rest of you shall go free." (v10)
 
-So each one hastened to lower his bag to the ground, and each one opened his bag. He searched, beginning with the oldest and ending with the youngest; and the goblet turned up in Benjamin’s bag. (v11-12)
+So each one hastened to lower his bag to the ground, and each one opened his bag. He searched, beginning with the oldest and ending with the youngest; and the goblet turned up in Benjamin's bag. (v11-12)
 
 **Note**: This was a cruel thing for Joseph to do to his brothers. Did he intend sending them back to their father without Benjamin. That would have been punishing his father too. Which would bring a whole other aspect to the story.{.note}
 
-At this they tear their clothes. Each reloaded his pack animal, and they returned to the city. When Judah and his brothers re-entered the house of Joseph, who was still there, they threw themselves on the ground before him. Joseph said to them, “What is this deed that you have done? Do you not know that a man like me practices divination?” [כִּֽי־נַחֵ֧שׁ יְנַחֵ֛שׁ]{dir="rtl"}
+At this they tear their clothes. Each reloaded his pack animal, and they returned to the city. When Judah and his brothers re-entered the house of Joseph, who was still there, they threw themselves on the ground before him. Joseph said to them, "What is this deed that you have done? Do you not know that a man like me practices divination?" [כִּֽי־נַחֵ֧שׁ יְנַחֵ֛שׁ]{dir="rtl"}
 
 **"Practices divination"**: He could read dreams, we know that. Plus he had G-d helping him. Where did he learn the magic? As it is almost magical the way he took over everything he was involved in. First Potaphar's house, (and Potiphar's wife); the prison; then Egypt, as well as marrying Potiphar's daughter.{.Note}
 

@@ -14,7 +14,7 @@ date: 2022-04-22T00:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Malchut she’b Chesed</h2>
+<h2>Malchut she'b Chesed</h2>
 <p>
 <span dir="rtl">הָיום שִׁיבָה יָמִים שֶׁהֵם שָׁבוּעַ אֶחָד לָעוֹמֶר</span>
 <br />
@@ -29,13 +29,13 @@ Mature love comes with - and brings - personal dignity. An intimate feeling of n
 
 </div>
 
-Each day of the week we bring the energies of the seven lower _sefirot_ into the _sefirah_ of the week. This week our focus has been at **Chesed**, the _sefirah_ of Lovingkindness. On this, the seventh and final day of the week, we bring **Malchut**, the Kingdom, the “lowest”, densest, manifestations of energy, into **Chesed**. The most subtle and the most mundane, the “highest” and the “lowest”, of our meditations are joined today.
+Each day of the week we bring the energies of the seven lower _sefirot_ into the _sefirah_ of the week. This week our focus has been at **Chesed**, the _sefirah_ of Lovingkindness. On this, the seventh and final day of the week, we bring **Malchut**, the Kingdom, the "lowest", densest, manifestations of energy, into **Chesed**. The most subtle and the most mundane, the "highest" and the "lowest", of our meditations are joined today.
 
-They will meet again on the first day of the seventh week, when the “host” _sefirah_ will have reversed, and **Malchut** will welcome **Chesed**.[^1]
+They will meet again on the first day of the seventh week, when the "host" _sefirah_ will have reversed, and **Malchut** will welcome **Chesed**.[^1]
 
 Now the energies reach downward into the world of our experience. In **Malchut** we manifest using all the flavours of the upper vessels. **Malchut** is the intrusion of the Holy into the space(s) of the manifest, where it is hidden in the husks of materiality. Today we focus on experiencing this space as as an expression of the Loving energy of **Chesed**, providing a grounding for the fullness of the Tree – for each _sefirah_ contains an entire tree.
 
-Our meditations for this day focus on the energies of the _sefirot_ at the right shoulder and the base of the spine[^2] and the channel between the two. The space of Loving energies welcomes the manifestation of the “real” world.[^3]
+Our meditations for this day focus on the energies of the _sefirot_ at the right shoulder and the base of the spine[^2] and the channel between the two. The space of Loving energies welcomes the manifestation of the "real" world.[^3]
 
 In the literal Omer period, following Passover, this is the final day of the Passover celebration for this year. Tomorrow evening we enjoy fresh _chametz_, bread made with leavening. Our ancient tradition speaks to the healing that is accomplished through this first week of meditative focusing. We are renewing our awareness of the multi-dimensionality of our being, and opening ourselves to an ever-expanding journey. It is certainly time to celebrate.
 
@@ -49,14 +49,14 @@ I focus my awareness more intensely on the Presence of the Divine in this world.
 
 <div class="block note">
 
-Each week for the seven days of the week, I focus on a specific _sefirah_ and experience that week “through the eyes/consciousness/awareness of that _sefirah_ during the whole of that week. For that reason, I begin that week with a deep meditation on the energy of the _sefirah_. Then, each day of the week, I focus on the interaction (awakening) of one of the _sefirot_ in the space of the “weekly” _sefirah_.
+Each week for the seven days of the week, I focus on a specific _sefirah_ and experience that week "through the eyes/consciousness/awareness of that _sefirah_ during the whole of that week. For that reason, I begin that week with a deep meditation on the energy of the _sefirah_. Then, each day of the week, I focus on the interaction (awakening) of one of the _sefirot_ in the space of the "weekly" _sefirah_.
 
 <figure style='float: left'>
   <img src='/posts/img/neshama/six_portals_200x200.jpg' alt='6 points' width='200' height='200' />
   <figcaption>The six portals</figcaption>
 </figure>
 
-Holding the consciousness of the weekly _sefirah_, I look through the lense of the daily _sefirah_.  It is one of the “personalities” within the current weekly _sefirah_ &mdash; examining it's influence from the weekly _sefirah_’s perspective.
+Holding the consciousness of the weekly _sefirah_, I look through the lense of the daily _sefirah_.  It is one of the "personalities" within the current weekly _sefirah_ &mdash; examining it's influence from the weekly _sefirah_'s perspective.
 
 One of the ways of expressing this is through syntax, the daily _sefirah_ being the subject of the sentence, and the weekly being the object thereof.
 

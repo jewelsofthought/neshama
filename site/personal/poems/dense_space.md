@@ -36,8 +36,8 @@ that allows me to be open
 fully.
 
 It is confusing.
-I can “hear” my thoughts so clearly,
-why can’t you?
+I can "hear" my thoughts so clearly,
+why can't you?
 
 If I wish to communicate my thoughts,
 the best way is to clothe them in a story,

@@ -136,6 +136,10 @@ aside {
   margin-top: 0px;
 }
 
+figure figcaption {
+  font-size: small;
+}
+
 /* end SCCS */
 
 figure.quote {
@@ -344,3 +348,14 @@ a:hover + div {
 
   ... etc.
 */
+
+/* Add youtube video */
+iframe.yt-shortcode {
+  height: 30vw;
+  margin: 1rem 0;
+  max-height: 25rem;
+  width: 50%;
+  border-style: groove;
+  border-width: 5px;
+  border-color: lightgrey;
+}

@@ -34,7 +34,7 @@ date: 2021-10-19T20:32:21.600Z
 
 ## What are circular plots?
 
-**Circular stories** follow a “round” pattern—they begin and end in the same way. Like the cycle of seasons or the life cycle, circular stories follow a predictable series of events that returns to the starting point.
+**Circular stories** follow a "round" pattern—they begin and end in the same way. Like the cycle of seasons or the life cycle, circular stories follow a predictable series of events that returns to the starting point.
 
 ## How do you start a circular story?
 

@@ -33,8 +33,8 @@ with the human spirit and biosphere.
 
 ## Non-violence
 
-> “The underlying philosophy of non-violence is that the people have more power than their government, but must connect with each other in order to mobilize that power.”
-> --Kusum Singh: Mass Communication without Mass Media: Gandhi’s message to a violent world
+> "The underlying philosophy of non-violence is that the people have more power than their government, but must connect with each other in order to mobilize that power."
+> --Kusum Singh: Mass Communication without Mass Media: Gandhi's message to a violent world
 
 ## The Net of Indra
 

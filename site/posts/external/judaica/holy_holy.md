@@ -28,6 +28,6 @@ for when you say before Me, Holy,
 I bend down over it, clasp it, embrace it, and kiss it,
 and My hands are on its arms, thrice daily,
 when you say before Me:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;‘Holy, Holy, Holy.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Holy, Holy, Holy.
 
 </poem>

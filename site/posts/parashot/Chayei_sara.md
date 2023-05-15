@@ -51,15 +51,15 @@ And the servant placed his hand under the thigh of Abraham, his master, and he s
 Eliezar, the "servant"<i class='fa fa-solid fa-caret-down'></i>
 </summary>
 
-1. What a servant, Eliezar, the one who ran Abraham’s house, was.
-2. His request and the response to Eliezar’s prayer. He speaks to **Ha’Shem**, but does not get a response of words, but of events. This is an interesting rumination on prayer here.
+1. What a servant, Eliezar, the one who ran Abraham's house, was.
+2. His request and the response to Eliezar's prayer. He speaks to **Ha'Shem**, but does not get a response of words, but of events. This is an interesting rumination on prayer here.
 3. Places the nose ring on Rifka (Rebecca).
-4. His speech is that of a man of honour. “Before I can eat, I need to tell you my truth.” That is why witnesses were held in such high esteem. Now that we have the written contract, and no longer verbal oaths, the value of the word has been diminished.
+4. His speech is that of a man of honour. "Before I can eat, I need to tell you my truth." That is why witnesses were held in such high esteem. Now that we have the written contract, and no longer verbal oaths, the value of the word has been diminished.
 5. Rifka, a young girl, skipping to the spring, one day, and the next leaving for a whole new life. What courage!
-6. She happens to be Isaac’s cousin, the daughter of the brother that stayed behind. But he immediately recognises a follower of **Ha’Shem****.**He says “As it is of**Ha’Shem**, it is neither good nor bad.” A deep statement that I have not seen used anywhere. So he was, in essence, a sleeper, even though he was part of the intrigue, the family narrative. That is why Abraham sent Eliezar to fetch her. That is why she immediately stepped into her role. She had already been primed for such a match.
+6. She happens to be Isaac's cousin, the daughter of the brother that stayed behind. But he immediately recognises a follower of **Ha'Shem****.**He says "As it is of**Ha'Shem**, it is neither good nor bad." A deep statement that I have not seen used anywhere. So he was, in essence, a sleeper, even though he was part of the intrigue, the family narrative. That is why Abraham sent Eliezar to fetch her. That is why she immediately stepped into her role. She had already been primed for such a match.
 
 <p>
-{Story: What if the story was one of intrigue and that the followers of**Ha’Shem** – the Shemites – arrive to declare the next in line – Rebecca}.
+{Story: What if the story was one of intrigue and that the followers of**Ha'Shem** – the Shemites – arrive to declare the next in line – Rebecca}.
 </p>
 </details>
 

@@ -24,7 +24,7 @@ Soon there will be no middle way. Either you are with me, or you are against me.
 
 ## Anthropos
 
-Seeking to create abolute order and balance through not "allowing" change to occur is a form of death. A living being is one in which balance is attained through the harmonic resonance of its various components, reacting and responding to the influences that it encounters. In other words, it is in constant relationship with itself, and its environment.
+Seeking to create absolute order and balance through not "allowing" change to occur is a form of death. A living being is one in which balance is attained through the harmonic resonance of its various components, reacting and responding to the influences that it encounters. In other words, it is in constant relationship with itself, and its environment.
 
 In any human society, one must expect every possible human quality and characteristic to at some point, emerge. There is no human system that can exclude the humanity in humans, else it will grow to become inhuman or non-human or even anti-human. The only system that we can create that is perfect is one that will have no place for humans to be human.
 

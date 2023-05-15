@@ -42,8 +42,8 @@ depths of existence, the Divine
 plan glimmers.
 
 Moaning arises in the midst
-of the container “Hold me, hold
-me – for I am angry”
+of the container "Hold me, hold
+me – for I am angry"
 
 Bend to the task, hold one
 another. For together we

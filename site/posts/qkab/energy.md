@@ -29,6 +29,7 @@ stars: '****'
 14. [Energy is energy - good or bad](#energy-is-energy---good-or-bad)
 15. [Zero Waste (Energy)](#zero-waste-energy)
 16. ["Trapped" energy](#trapped-energy)
+17. [Energy - form](#energy---form)
 
 ## Fundamental property
 
@@ -154,7 +155,7 @@ We create "form" in the world around us by naming the experience we are having, 
 [Theories of Truth (1): Correspondence and Coherence
 ](<<https://www.inner.org/torah_and_science/theories-of-truth-correspondence-and-coherence)> by Harav Yitzchak Ginsburgh.
 
-[The Torah’s Greatest Secret, Revealed](https://www.mayimachronim.com/the-torahs-greatest-secret-revealed/) from the website [_Mayim Achronim_](https://www.mayimachronim.com/).
+[The Torah's Greatest Secret, Revealed](https://www.mayimachronim.com/the-torahs-greatest-secret-revealed/) from the website [_Mayim Achronim_](https://www.mayimachronim.com/).
 
 [The Electricity of G-d – **חשׁמל**](https://www.chaimbentorah.com/2015/06/word-study-the-electricity-of-god-%D7%97%EF%AC%AA%D7%9E%D7%9C/)
 
@@ -187,7 +188,7 @@ So onward intrepid explorers, armed with your electrically powered machines, and
 
 Energy is energy, whether good or bad, positive or negative, replenishing or diminishing.
 
-Electricity, just as fire, is both and bad. To the universe, there is no difference – though to G-d there might be. Perhaps it is a rallying call, a guiding beacon calling us, challenging us to “manifest” the upper in the lower, using the power of the upper to thus energise the lower.
+Electricity, just as fire, is both and bad. To the universe, there is no difference – though to G-d there might be. Perhaps it is a rallying call, a guiding beacon calling us, challenging us to "manifest" the upper in the lower, using the power of the upper to thus energise the lower.
 
 ## Zero Waste (Energy)
 
@@ -204,3 +205,16 @@ For something to exist in material form, it has to have "energy". The energy of 
 If it is "dead" this stasis is relatively stable, with a very small amount of energy being transferred form it into its environment and vice-versa. One could then define death as an energy situation that is below a certain threshold. If it is "alive", there is a more active interchange&mdash; which could even be judged by measuring the energy of these interactions. Thus, trivially, being alive is a measurement of a certain level of energy.
 
 As a result of this, in order to remain alive, requires an energy input. The entity/form needs energy/nourishment form its surroundings. Thus the inherently destructive aspect of being alive is generally ignored in the full energy equation/interaction.
+
+## Energy - form
+
+Energy
+Energy that does not have form cannot be represented in this world.
+
+It is only mathematics that is able to represent or describe those energies that do not have a manifest form like gravity or electricity. However, in the latter case there seems to be a form or order inherent in the energy, which we can conveniently refer to as packets, or, as the wont is nowadays, quanta. Thus we intrinsically believe that there will be a similar form for Gravity. Though what if there is not? For all of this has been created not just for God's or our pleasure, but for our learning as well. Somehow, we were lost, or, as we refer to it biblically, fallen. Perhaps gravity will be a koan to lead science deeper into the mystery of creation. Perhaps we are errant souls or expressions of some desire for self identity existing in the Pleroma. However that may be, we are here and dream always of the World to Come in which the evil that roams this world will have been banished or demolished.
+
+The only way we are aware of this subtler energy is through its effect. Just as, in order to understand the forces that are at play in the world around us, requires us to look deeper into certain manifestations, so it is regarding the even more subtle effects that influence our lives.
+
+Science in the beginning had a relatively easy time, for in its beginnings it investigated the so-called "spiritual" effects of things. I am speaking of what is referred to as superstition—which was the word we used to describe those "extra-natural" or  metaphysical forces.
+
+The quantum arena speaks of such energy. We feel it's effect in our everyday lives with our cell phones and other wireless devices. Yet there is an even more subtle energy, one that vivifies everything. We call it alive when we see it move, and inanimate when it doesn't. Yet they all react to input and energy affects their structure and sometimes their behaviour too. They are alive, or at least reactive, to these energetic forces.

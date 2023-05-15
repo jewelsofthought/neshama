@@ -62,9 +62,9 @@ It is, to put it mildly, a heck of a text. It has three angels visiting Abraham,
 
 As much as I would have liked to have completed the whole chapter, at this stage, I am sharing just up to the destruction of Sodom and Gomorrah and Lot's ending up in a cave in the mountains with his two daughters.
 
-Whenever I approach these texts more closely, I keep in mind the environment in which this story takes place, which, I have to admit, was probably something a lot different from that which we are accustomed to today. Ignoring the lack of “modern technology”for the moment, let us note some of the strangenesses that were spoken of from those days. Let that strangeness allow us to open our minds to the non-rational, or perhaps the supra-rational.
+Whenever I approach these texts more closely, I keep in mind the environment in which this story takes place, which, I have to admit, was probably something a lot different from that which we are accustomed to today. Ignoring the lack of "modern technology"for the moment, let us note some of the strangenesses that were spoken of from those days. Let that strangeness allow us to open our minds to the non-rational, or perhaps the supra-rational.
 
-Using shaman methodology to investigate this story, I look at what part of it could be a journey, and what part of it could fit into my understanding of what I will refer to, as the “3D” or “consensual” reality in which we live. I do that because I take the journey to be one that will take me to a non-material realm. And the non-material realm is where the spiritual begins. For it is the realm of the ideal, of the vow, of the _Brit_.
+Using shaman methodology to investigate this story, I look at what part of it could be a journey, and what part of it could fit into my understanding of what I will refer to, as the "3D" or "consensual" reality in which we live. I do that because I take the journey to be one that will take me to a non-material realm. And the non-material realm is where the spiritual begins. For it is the realm of the ideal, of the vow, of the _Brit_.
 
 However, this contains one of the difficult and heart-rendering passages&mdash;besides the total destruction of four cities: S'dom and Amorrah, Admah and Tzevo'im&mdash;it contains in it the brief narrative of Isaac's binding &ndash; _akeidah_. What father sacrifices his son to (a) G-d? What G-d would ask such a sacrifice from a father? It shakes my foundation to the core. Do I want to be part of this?
 
@@ -89,15 +89,15 @@ However, that is not what really fascinates me regarding this week's reading. Bu
 
 #### Appeared
 
-Approaching it from the English rendering, in which the _Parasha_ begins with the nameless aspect of G!d, __HaShem__, the one we refer to as the Name, because It has no name, being beyond the realm of naming. Part of creation’s emergence was the need for Adam to name everything.
+Approaching it from the English rendering, in which the _Parasha_ begins with the nameless aspect of G!d, __HaShem__, the one we refer to as the Name, because It has no name, being beyond the realm of naming. Part of creation's emergence was the need for Adam to name everything.
 
-__HaShem__ then is beyond this realm being the source of creation, the “One” that exists before creation. Now, this could alert us to the fact that this portion is starting in the presence of the Divine, _“For_ __HaShem__ _appeared to him”_, thus he must be in sacred space. We could say that he was visited by the Divine.
+__HaShem__ then is beyond this realm being the source of creation, the "One" that exists before creation. Now, this could alert us to the fact that this portion is starting in the presence of the Divine, _"For_ __HaShem__ _appeared to him"_, thus he must be in sacred space. We could say that he was visited by the Divine.
 
 <div class="note">
-Note: My claim is that whenever the words: “<b>HaShem</b> appeared to him”, or “<b>HaShem</b> spoke to him”, or, to a lesser extent, "He heard the voice of <b>HaShem</b>", it signifies a transition to sacred space, however that was achieved. And there are certain protocols which will enable one to enter sacred space. We want to believe that this happens in our regular, day-to-day reality. However, the form that the formless might take to "appear" to us is a mystery. This is the omnipresent G-d. He IS everywhere and everything. For He "lowers Himself" so that He might appear in a form that we will recognise and comprehend, but it is I that needs to open my mind to receiving Him. . Today, if someone claimed that G-d spoke to him, or that G-d appeared to him, we would classify him as insane.
+Note: My claim is that whenever the words: "<b>HaShem</b> appeared to him", or "<b>HaShem</b> spoke to him", or, to a lesser extent, "He heard the voice of <b>HaShem</b>", it signifies a transition to sacred space, however that was achieved. And there are certain protocols which will enable one to enter sacred space. We want to believe that this happens in our regular, day-to-day reality. However, the form that the formless might take to "appear" to us is a mystery. This is the omnipresent G-d. He IS everywhere and everything. For He "lowers Himself" so that He might appear in a form that we will recognise and comprehend, but it is I that needs to open my mind to receiving Him. . Today, if someone claimed that G-d spoke to him, or that G-d appeared to him, we would classify him as insane.
 </div>
 
-However, in the Hebrew, the first word is not __HaShem__, but is __וירא__ &ndash; _Vayerah_. It can be rendered as _“It_ (__HaShem__) _will be seen”_, a form of looking that is the looking into the future and hence _“appeared”_ because of the biblical future tense being rendered as the past.
+However, in the Hebrew, the first word is not __HaShem__, but is __וירא__ &ndash; _Vayerah_. It can be rendered as _"It_ (__HaShem__) _will be seen"_, a form of looking that is the looking into the future and hence _"appeared"_ because of the biblical future tense being rendered as the past.
 
 <div class="note">
 Note: In English, if something appears, it must be seen. If one sees something, then it has appeared. Have you never lost your keys, or your spectacles, and looked for it all over, again and again, for it suddenly to appear? "There! I see it!"
@@ -105,10 +105,10 @@ Note: In English, if something appears, it must be seen. If one sees something, 
 Note: There is a strange situation here. The word <b>ירא</b> actually means fear or terror, Why is it translated as "appearance"? If that was the case, would it not be spelt <b>יראה</b> This is the only phrase in which the word ַappears.
 </div>
 
-I find this straddling, this con-fusion of the past and the future, fascinating. It generally occurs in reference to the Divine though. It is as if She acts in the future, that is, exists as the future, yet we can only see her in the present as pregnant with future possibilities. <span class="note">Note: Is that not what a child means to us. It creates a present that is "pregnant" with future possibilities?</span> The “past” is what has been actualised, been made manifest. But __HaShem__ remains the only possible, potential action.
+I find this straddling, this con-fusion of the past and the future, fascinating. It generally occurs in reference to the Divine though. It is as if She acts in the future, that is, exists as the future, yet we can only see her in the present as pregnant with future possibilities. <span class="note">Note: Is that not what a child means to us. It creates a present that is "pregnant" with future possibilities?</span> The "past" is what has been actualised, been made manifest. But __HaShem__ remains the only possible, potential action.
 
 <div class="note">
-Note: It is also interesting, and mentioned nowhere, that <b>יֵּרָ֤א</b> is defective, and should be <b>יִרְאֶה</b>, as in<b> ראשׁית חוכמה יראת ה’ ־</b> &ndash; 'The first wisdom is the _fear_ of G-d.&ndash; there is a deficient <b>ה</b> (<i>hey</i>) in the word we translate as appearance. What is interesting here is that <b>יִירָא</b> means terror, or fear. Except it is written with two '<b>'</b>'s (<i>yod</i>'s). it could also be seen as "the terror (awe, respect, fear) of G-d came upon him.
+Note: It is also interesting, and mentioned nowhere, that <b>יֵּרָ֤א</b> is defective, and should be <b>יִרְאֶה</b>, as in<b> ראשׁית חוכמה יראת ה' ־</b> &ndash; 'The first wisdom is the _fear_ of G-d.&ndash; there is a deficient <b>ה</b> (<i>hey</i>) in the word we translate as appearance. What is interesting here is that <b>יִירָא</b> means terror, or fear. Except it is written with two '<b>'</b>'s (<i>yod</i>'s). it could also be seen as "the terror (awe, respect, fear) of G-d came upon him.
 </div>
 
 The use of __אֵלָיו֙__ ("to him") is also much more personal than the word __לו__ ("to him) according to _Rashi_ (_Studies_, pp 78,79 ).
@@ -125,17 +125,17 @@ _Meleches Macheves_ concludes that every appearance of prophecy, even when it co
 
 #### Entrance
 
-Upon this appearance of the Divine, we find Abraham sitting _“at the entrance”_. Why is he sitting there in the first place? In the heat of the day would one not want to be in coolness of the tent itself? Especially after having a circumcision at 99 years of age. Was he waiting for some visitors? That is what Rashi intimates (from B.M. 86b). But, sitting somewhere in the desert, why would he expect passersbys?
+Upon this appearance of the Divine, we find Abraham sitting _"at the entrance"_. Why is he sitting there in the first place? In the heat of the day would one not want to be in coolness of the tent itself? Especially after having a circumcision at 99 years of age. Was he waiting for some visitors? That is what Rashi intimates (from B.M. 86b). But, sitting somewhere in the desert, why would he expect passersbys?
 
 Perhaps it is representative of the beginning of a shamanic journey, or, in modern parlance, a lucid, or conscious, dream &mdash; one which is as real as an unconscious, i.e. sleeping, dream can be. To explain further, although conscious of everything that is happening in the journey, you have become unaware of being in this 3d reality that we take as empirical, and what transpires in that lucid dream is as real as if it had occurred in your life.
 
-Every journey will begin “at the entrance” (like "at the beginning"). The various types of journeying will differ according to the method, or road, one takes to get to "the entrance". The path you take to the entrance will also affect the results and experiences of the journey itself.
+Every journey will begin "at the entrance" (like "at the beginning"). The various types of journeying will differ according to the method, or road, one takes to get to "the entrance". The path you take to the entrance will also affect the results and experiences of the journey itself.
 
 You might think that this is a radical approach to take, but there is much that has been written around the meaning of the phrase "__HaShem__ appeared". (See Y. Nachshoni, "_Studies in the Weekly Parash_")
 
 #### The tent
 
-So in the "heat of the day" – __פתוֹם היום__ &ndash; _pitom ha’yom_ &ndash; "He lifts his eyes" &ndash; __וישׁא עיניו וַיַרְא__ &ndash;_ve’yeseh einav va’yaar_&ndash; while sitting at the entrance to _the_ tent. This is another clue, for why is it referred to as _the_ tent? Why is Abraham not sitting at the entrance to _his_ tent? There may be a reference to what later became to be called “the tent of meeting” &ndash; __אֹ֣הֶל מוֹעֵ֑ד__ &ndash; _Ohel Mo-ed_
+So in the "heat of the day" – __פתוֹם היום__ &ndash; _pitom ha'yom_ &ndash; "He lifts his eyes" &ndash; __וישׁא עיניו וַיַרְא__ &ndash;_ve'yeseh einav va'yaar_&ndash; while sitting at the entrance to _the_ tent. This is another clue, for why is it referred to as _the_ tent? Why is Abraham not sitting at the entrance to _his_ tent? There may be a reference to what later became to be called "the tent of meeting" &ndash; __אֹ֣הֶל מוֹעֵ֑ד__ &ndash; _Ohel Mo-ed_
 
 ### 18 &#58;2 Three men
 
@@ -150,15 +150,15 @@ So in the "heat of the day" – __פתוֹם היום__ &ndash; _pitom ha’yom_
 
 #### The lifting of his eyes
 
-The lifting of his eyes is also perchance a code phrase for something occurring, especially considering the context, in which this phrase is used. Normally it would be referring to something of the Divine,as in: “I lift up my eyes to the heavens”, etc. Is there a usage of it other than that context? And is it not a strange turn of phrase – "lifting my eyes"? Can I lift my eyes without lifting my head? How do I "lift my eyes? Is it a simple turning upward of my eyeballs? Or is it something more metaphorical? Say I close my eyes, and lift my consciousness, ascending to a “higher” plane...
+The lifting of his eyes is also perchance a code phrase for something occurring, especially considering the context, in which this phrase is used. Normally it would be referring to something of the Divine,as in: "I lift up my eyes to the heavens", etc. Is there a usage of it other than that context? And is it not a strange turn of phrase – "lifting my eyes"? Can I lift my eyes without lifting my head? How do I "lift my eyes? Is it a simple turning upward of my eyeballs? Or is it something more metaphorical? Say I close my eyes, and lift my consciousness, ascending to a "higher" plane...
 
 A lot of Jewish literature, especially of the more esoteric nature, focuses on these journeys of ascent, in full realisation of their spiritually uplifting nature. Journeys in which you are encouraged to strive for the highest you can reach. That is the greatness of many of these stories and their continued fascination for us all.
 
-One last point, the word use for “lift” here is __נשׂא__ which also means to arise, heighten, to carry from one place to another. So the subtlety of “carrying your eyes from one place to another” implies lifting them from this place, the shifting of vision from this reality to another, by which, you ... "will see" &ndash; __וירא__.
+One last point, the word use for "lift" here is __נשׂא__ which also means to arise, heighten, to carry from one place to another. So the subtlety of "carrying your eyes from one place to another" implies lifting them from this place, the shifting of vision from this reality to another, by which, you ... "will see" &ndash; __וירא__.
 
-The moment I _see_, things start happening. We could think of “seeing” as conscious looking, for until you become conscious of what you are looking at, you cannot see anything! Otherwise what you see, is not what you are looking at, but some patchwork approximation in your imagination.
+The moment I _see_, things start happening. We could think of "seeing" as conscious looking, for until you become conscious of what you are looking at, you cannot see anything! Otherwise what you see, is not what you are looking at, but some patchwork approximation in your imagination.
 
-A moment here, please. In the beginning there was light. But unless there are beings who could see light, of what use, purpose or significance is the light? Remember, the Parashah starts with the words “and he saw - it will be seen” translated as “appearance”, as if he had nothing to do with this visitation. But he “saw”, first the presence of __HaShem__, and now the three men/angels.
+A moment here, please. In the beginning there was light. But unless there are beings who could see light, of what use, purpose or significance is the light? Remember, the Parashah starts with the words "and he saw - it will be seen" translated as "appearance", as if he had nothing to do with this visitation. But he "saw", first the presence of __HaShem__, and now the three men/angels.
 
 #### Three men
 
@@ -166,11 +166,11 @@ What is interesting is that three men appear to Abraham. Why three, where one wo
 
 #### He ran
 
-What comes next is lovely. “Behold!” thunders forth. First the act of seeing, then the act of “be-holding” &ndash; __היני__ &ndash; "behold", the moment is here. It has arrived and is producing the here and now and you are commanded to behold, be present! Again, what we are looking at needs to be-held in order to have any meaning, otherwise, it comes and goes, merely flitting through our consciousness.
+What comes next is lovely. "Behold!" thunders forth. First the act of seeing, then the act of "be-holding" &ndash; __היני__ &ndash; "behold", the moment is here. It has arrived and is producing the here and now and you are commanded to behold, be present! Again, what we are looking at needs to be-held in order to have any meaning, otherwise, it comes and goes, merely flitting through our consciousness.
 
-Now there “appear” three men, standing over him &ndash; נִצָּבִים עָלָיו. Yet he subsequently rises and ran to greet them. How can the two be reconciled? Again, we have _vayirah_ – he saw, he perceived (here again the future is the past). What did he perceive exactly that caused him, sitting in pain after his recent circumcision, to rush out and tend to these people? Nowhere does it take into consideration his pain. For why would he be the one to run towards these men? Surely someone else would have? Was he the only who saw them?
+Now there "appear" three men, standing over him &ndash; נִצָּבִים עָלָיו. Yet he subsequently rises and ran to greet them. How can the two be reconciled? Again, we have _vayirah_ – he saw, he perceived (here again the future is the past). What did he perceive exactly that caused him, sitting in pain after his recent circumcision, to rush out and tend to these people? Nowhere does it take into consideration his pain. For why would he be the one to run towards these men? Surely someone else would have? Was he the only who saw them?
 
-Perhaps it was taking place in another context, not quite this 3d one. He was in fact, sitting there, tripping his brains out – in modern day parlance. I mean, just reading this jumble is causing my brain to beat like an excited boy’s heart.
+Perhaps it was taking place in another context, not quite this 3d one. He was in fact, sitting there, tripping his brains out – in modern day parlance. I mean, just reading this jumble is causing my brain to beat like an excited boy's heart.
 
 ### n18 &#58;3 Do not pass
 
@@ -183,11 +183,11 @@ Perhaps it was taking place in another context, not quite this 3d one. He was in
   </p>
 </blockquote>
 
-He approaches these men in the most regal fashion, bowing down to them, referring to them as “my lord”, and begs them to stay with the poetic phrase: “Please pass not away from your servant” &ndash; __אַל–נָא תַעֲבֹר מֵעַל עַבְדֶּךָ__. How come he refers to them as “my lord”? Surely he should have used the plural. How much of an expression of the many manifest as one, was he dealing with here?
+He approaches these men in the most regal fashion, bowing down to them, referring to them as "my lord", and begs them to stay with the poetic phrase: "Please pass not away from your servant" &ndash; __אַל–נָא תַעֲבֹר מֵעַל עַבְדֶּךָ__. How come he refers to them as "my lord"? Surely he should have used the plural. How much of an expression of the many manifest as one, was he dealing with here?
 
 I propose that we are engaging with another realm again. For this is the arrival of the manifest aspect of the Divine. The non-incarnate is represented by __HaShem__ while the angels are the incarnate. They represent the function of the Divine purpose manifesting here &ndash; and perhaps in the whole of creation.
 
-It is almost like we have entered the Abrahamic realm again. It exists as a strange admixture of the physical and the non-physical, where the people and the angelic realm are intertwined. They existed in such symbiosis that they are more closely connected to this realm, and the “group” slipped in and out together.
+It is almost like we have entered the Abrahamic realm again. It exists as a strange admixture of the physical and the non-physical, where the people and the angelic realm are intertwined. They existed in such symbiosis that they are more closely connected to this realm, and the "group" slipped in and out together.
 
 It is the sort of merging that happens when a number of people are practising together. Whether participating in entheogens, or in love, or fighting a war together, there can be moments where there is a knowing, and an ability to act as one. They can know at moments what the other is thinking and act accordingly.
 
@@ -223,7 +223,7 @@ There is an interesting note here on diet. The diet is meat, and milk and cream 
 
 #### Eat
 
-Why does Abraham stand over them while they are eating? Does it have any connection with the men standing over him when he first saw themn? The verb used for the angels standing is _nitzav_ &ndash; __ניצב__, which implies some sort of structure. Whereas in Abraham’s case, the more common __עומד__ (_omed_) is used. Surely a good host would sit and eat with his guests and not “stand over” them?
+Why does Abraham stand over them while they are eating? Does it have any connection with the men standing over him when he first saw themn? The verb used for the angels standing is _nitzav_ &ndash; __ניצב__, which implies some sort of structure. Whereas in Abraham's case, the more common __עומד__ (_omed_) is used. Surely a good host would sit and eat with his guests and not "stand over" them?
 
 The men must have sojourned there a little while, for at least half a day, as Abraham had enough time to slaughter a calf and prepare its meat.Unless, of course, it was happening in a non-spatial/temporal realm.
 
@@ -238,7 +238,7 @@ The men must have sojourned there a little while, for at least half a day, as Ab
 </p>
 </blockquote>
 
-Here is an interesting twist to this tale. Perhaps the three men came for Sarah. They needed to be physically manifest, because there was something they needed to “do” to her to enable her to conceive. That is why they ask for Sarah specifically. Abraham responds, “She is in the tent”. Where else would she be? In her tent? No, she is waiting in the tent.
+Here is an interesting twist to this tale. Perhaps the three men came for Sarah. They needed to be physically manifest, because there was something they needed to "do" to her to enable her to conceive. That is why they ask for Sarah specifically. Abraham responds, "She is in the tent". Where else would she be? In her tent? No, she is waiting in the tent.
 
 ### 18&#58;10 She stands behind
 
@@ -270,7 +270,7 @@ However, it seems that he has been there the whole time. For it does not say tha
 
 Referring to the Note 11, on p80 in the _Chumash_ which refers to the statement that they are "well on in years", and Sarah "ceased the way of the women.
 
-> The Zohar comments that each day in a person’s life carries with it its own challenge and mission. What is to be accomplished today cannot be postponed till tomorrow, because tomorrow has its own set of things to do. In the normal course of events, people go through life with their “spiritual calendars” marred by countless days and hours that were wasted or, even worse, misused. But the greatest people, like Abraham and Sarah, come through life with all their days intact, all of them utilised properly and purposefully. This is the significance of the expression __בָאִים בִַּיָמים__.
+> The Zohar comments that each day in a person's life carries with it its own challenge and mission. What is to be accomplished today cannot be postponed till tomorrow, because tomorrow has its own set of things to do. In the normal course of events, people go through life with their "spiritual calendars" marred by countless days and hours that were wasted or, even worse, misused. But the greatest people, like Abraham and Sarah, come through life with all their days intact, all of them utilised properly and purposefully. This is the significance of the expression __בָאִים בִַּיָמים__.
 
 Literally, "they came with days": They reached their old age with a rich harvest of days that truly mattered.
 
@@ -288,7 +288,7 @@ Note: This is an idealisation. As Abraham travelled from place to place. When do
 12.And Sarah laughed within herself, saying, "After I have become worn out, will I have smooth flesh? And also, my master is old." </p>
 </blockquote>
 
-Remember, it was __HaShem__ who became angry at Sarah! And in “_Beholders of Divine Secrets_” by Vita Daphne Arbel it says “The central truth is the ability of G!d to assume a form and let it be seen by man” a quote from J. Barr, _“Theosopy and Anthropomorphism in the Old Testament”_, p32. Elliot Wolfson has written a whole book on the topic called "The Speculum that Shines" in which he discusses the phenomology inherent in the the "image" of G-d.
+Remember, it was __HaShem__ who became angry at Sarah! And in "_Beholders of Divine Secrets_" by Vita Daphne Arbel it says "The central truth is the ability of G!d to assume a form and let it be seen by man" a quote from J. Barr, _"Theosopy and Anthropomorphism in the Old Testament"_, p32. Elliot Wolfson has written a whole book on the topic called "The Speculum that Shines" in which he discusses the phenomology inherent in the the "image" of G-d.
 
 ### 18&#58;16 Rose
 
@@ -301,7 +301,7 @@ Remember, it was __HaShem__ who became angry at Sarah! And in “_Beholders of D
 </p>
 </blockquote>
 
-After delivering their message, they get up and “gaze towards Sodom” and Abraham escorts them! Again we have a mixup of the visual and the actual. It does not say that they walked or travelled to Sodom, only that they “gazed”. So how could Abraham then accompany them? Once again we might be in the journey world.
+After delivering their message, they get up and "gaze towards Sodom" and Abraham escorts them! Again we have a mixup of the visual and the actual. It does not say that they walked or travelled to Sodom, only that they "gazed". So how could Abraham then accompany them? Once again we might be in the journey world.
 
 ### 18&#58;17 Conceal
 
@@ -330,7 +330,7 @@ Why would __HaShem__ feel obligated to share this information with Abraham? How 
 
 Changing the meaning slightly, one could render this as: "I will descend now and see according to her cry which has come to Me; [They will] make (be) [like] a bride; and if not, I will know."
 
-__עָשׂוּ כָּלָה__ thus becomes an interesting phrase, meaning _"to make like a bride,"_ and "_if not I will know_", says the Lord. I mention this, because the people of Sodom, all the men, want to “know” the strangers. In the biblical sense this is used sexually, that is true. But, there is also __לשׁכב__ which is to “sleep” with someone. And to know someone, is more than to have sex with them.
+__עָשׂוּ כָּלָה__ thus becomes an interesting phrase, meaning _"to make like a bride,"_ and "_if not I will know_", says the Lord. I mention this, because the people of Sodom, all the men, want to "know" the strangers. In the biblical sense this is used sexually, that is true. But, there is also __לשׁכב__ which is to "sleep" with someone. And to know someone, is more than to have sex with them.
 
 ### 18&#58;22 Leave
 
@@ -343,8 +343,8 @@ __עָשׂוּ כָּלָה__ thus becomes an interesting phrase, meaning _"to m
 </p>
 </blockquote>
 
-The men/angels then continue to Sodom, while Abraham remains behind with __HaShem__ to negotiate the fate of Sodom and Gomorrah. Which further speaks of __HaShem__’s continued presence during this whole incidence.
-It says later that "two arrive in S'dom" while Abraham stands before __HaShem__&mdash;whereas 3 men arrived at Abraham’s. This introduces the idea once again, that one of the 3 was __HaShem__!
+The men/angels then continue to Sodom, while Abraham remains behind with __HaShem__ to negotiate the fate of Sodom and Gomorrah. Which further speaks of __HaShem__'s continued presence during this whole incidence.
+It says later that "two arrive in S'dom" while Abraham stands before __HaShem__&mdash;whereas 3 men arrived at Abraham's. This introduces the idea once again, that one of the 3 was __HaShem__!
 
 This is the second time that it says that men went to Sodom, the first time Abraham escorted them, this time he stayed behind with the Lord.
 
@@ -361,7 +361,7 @@ This is the second time that it says that men went to Sodom, the first time Abra
 
 They (Abraham and __HaShem__) conclude their negotiations having reached an agreement that if there are 10 good people in Sodom, G!d will not destroy it.
 
-From that we could extrapolate that what one needs to keep a town alive is just ten good men. Also that Abraham has some pull regarding __Ha’Shem__. I pray that we would all have such a gift. The men of G!d arrive at Sodom at nightfall, and by morning, they are ready to destroy the cities. This does not give Abraham much time to find his ten good men. Or was __Ha’Shem__ going to send an angel to scan the city? Did He not already know the tally? This negotiation is not mentioned again. So, what was its real purpose? What was the meaning of righteous in this context? It is often said that the issue that Sodom and the cities suffered that caused their destruction was sexual impurity. The other was that their renowned inhospitality was also a sin in G!d’s eyes. Which included not caring for the sick and the weak.
+From that we could extrapolate that what one needs to keep a town alive is just ten good men. Also that Abraham has some pull regarding __Ha'Shem__. I pray that we would all have such a gift. The men of G!d arrive at Sodom at nightfall, and by morning, they are ready to destroy the cities. This does not give Abraham much time to find his ten good men. Or was __Ha'Shem__ going to send an angel to scan the city? Did He not already know the tally? This negotiation is not mentioned again. So, what was its real purpose? What was the meaning of righteous in this context? It is often said that the issue that Sodom and the cities suffered that caused their destruction was sexual impurity. The other was that their renowned inhospitality was also a sin in G!d's eyes. Which included not caring for the sick and the weak.
 
 Perhaps the next events, hectic as they are, chased out any more thoughts of the ten righteous.
 
@@ -380,9 +380,9 @@ This is a turbulent chapter.
 </p>
 </blockquote>
 
-When the men arrive, Lot is sitting at the entrance to the city,just as Abraham was sitting at the entrance to the tent. How come Lot “hangs out” at the entrance to the city? Has he nothing to do all day, but hang around and greet the people who come and go from Sodom? Or is it a synchronicy of the manner we all experience. Where we "bump into" someone, or just happen to be at the place where we need to be. Again we encounter the significance of the entrance as a placement in the story.
+When the men arrive, Lot is sitting at the entrance to the city,just as Abraham was sitting at the entrance to the tent. How come Lot "hangs out" at the entrance to the city? Has he nothing to do all day, but hang around and greet the people who come and go from Sodom? Or is it a synchronicy of the manner we all experience. Where we "bump into" someone, or just happen to be at the place where we need to be. Again we encounter the significance of the entrance as a placement in the story.
 
-Now Lot too ran up to them as well and fell on his face when he saw them approaching, just as Abraham did. One could have said previously that it was because Abraham was so hospitable, but then here Lot reacts in the same way. They both must have seen or recognised them as angels. This says in some form or fashion the angelic can be “seen” by some. Which gives some credence to the Christian and Moslem belief that Lot was a holy man in his own right.
+Now Lot too ran up to them as well and fell on his face when he saw them approaching, just as Abraham did. One could have said previously that it was because Abraham was so hospitable, but then here Lot reacts in the same way. They both must have seen or recognised them as angels. This says in some form or fashion the angelic can be "seen" by some. Which gives some credence to the Christian and Moslem belief that Lot was a holy man in his own right.
 
 Note that it is said that Abraham was still recovering from having circumcised himself, whereas Lot did not circumcise himself. So is he perhaps a progenitor of the uncircumcised races?
 
@@ -397,7 +397,7 @@ Note that it is said that Abraham was still recovering from having circumcised h
 </p>
 </blockquote>
 
-Lot invites them to stay at his place. Where they will "wash their feet” &ndash; __וְרַֽחֲצ֣וּ רַגְלֵיכֶ֔ם__. Remember that is what Abraham said to his visitors too. What is the significance of the washing of the feet? Is it just a form of greeting, of hospitality from those times? They respond that they will not stay with Lot, but will stay __ברחוב__ &ndash; at the “broad“ (from __רחב__) place or “street” in modern Hebrew. Why do they say that? Are they just being polite? What is their reticence?
+Lot invites them to stay at his place. Where they will "wash their feet" &ndash; __וְרַֽחֲצ֣וּ רַגְלֵיכֶ֔ם__. Remember that is what Abraham said to his visitors too. What is the significance of the washing of the feet? Is it just a form of greeting, of hospitality from those times? They respond that they will not stay with Lot, but will stay __ברחוב__ &ndash; at the "broad" (from __רחב__) place or "street" in modern Hebrew. Why do they say that? Are they just being polite? What is their reticence?
 
 ### 19&#58;3 Feast
 
@@ -418,7 +418,7 @@ Perhaps _matzoh_ was a type of bread that was made in those days. It has been re
 
 Another reason that he offered them could point to his concern about them staying there, as it was known that Sodom was not hospitable to guests. Something that was as much of a sin as their licentiousness. So, although he insisted on them staying, he was concerned, and offered them some drink and some _matzoh_. The _matzoh_ speaks of his concern, because from the Exodus, we know of _matzoh_ as a bread of affliction and of journeying, as it was prepared by the Jews for their flight from Egypt. For he must have known that offering to let them stay overnight was going to upset his neighbours.
 
-Though there is the midrash regarding Lot’s _matzoh_ – which speaks of Lot’s wife having to go out to the neighbours to ask for some salt to bake the matzoh and that this is what alerted them to the presence of the quests. However, if Lot was sitting at the entrance to the city, would not others have seen him run out and bow to these men, then take them to his home? Or can angels only be seen by some? Then why does what follows transpire?
+Though there is the midrash regarding Lot's _matzoh_ – which speaks of Lot's wife having to go out to the neighbours to ask for some salt to bake the matzoh and that this is what alerted them to the presence of the quests. However, if Lot was sitting at the entrance to the city, would not others have seen him run out and bow to these men, then take them to his home? Or can angels only be seen by some? Then why does what follows transpire?
 
 ### 19&#58;4 People arrive
 
@@ -431,13 +431,13 @@ Though there is the midrash regarding Lot’s _matzoh_ – which speaks of Lot�
   </p>
 </blockquote>
 
-His concern seems to have been justified, because <b>טֶרֶם יִשְׁכָּבו</b> even before they lay down, “the men of the city, the people of Sodom... both young and old... from all the quarters” had surrounded the house.
+His concern seems to have been justified, because <b>טֶרֶם יִשְׁכָּבו</b> even before they lay down, "the men of the city, the people of Sodom... both young and old... from all the quarters" had surrounded the house.
 
-It did not take long for the news of their arrival to spread as _“They have not yet lain down,”_ and the people are gathering. But this is not surprising, for surely Lot was not the only person at the entrance to the city at the time of their arrival, and they had to accompany him to his home.
+It did not take long for the news of their arrival to spread as _"They have not yet lain down,"_ and the people are gathering. But this is not surprising, for surely Lot was not the only person at the entrance to the city at the time of their arrival, and they had to accompany him to his home.
 
-There is the _midrash_ regarding Lot’s _matzoh_ – which speaks of Lot’s wife having to go out to the neighbours to ask for some salt to bake the _matzoh_ and that this is what perhaps alerted them to the presence of the quests. However, if Lot was sitting at the entrance to the city, would not others have seen him run out and bow to these men, then take them to his home? Unless this tale is taking place on a non-real plane.
+There is the _midrash_ regarding Lot's _matzoh_ – which speaks of Lot's wife having to go out to the neighbours to ask for some salt to bake the _matzoh_ and that this is what perhaps alerted them to the presence of the quests. However, if Lot was sitting at the entrance to the city, would not others have seen him run out and bow to these men, then take them to his home? Unless this tale is taking place on a non-real plane.
 
-This sounds like quite an extreme response to a couple of men coming to stay at Lot’s house? Every single man and boy, old and young, from every part of the city, gathering around Lot’s house, wanting to “know” them? And why is there a repetition here: "The people of..." and "from all quarters"?
+This sounds like quite an extreme response to a couple of men coming to stay at Lot's house? Every single man and boy, old and young, from every part of the city, gathering around Lot's house, wanting to "know" them? And why is there a repetition here: "The people of..." and "from all quarters"?
 
 ### 19&#58;5 Know
 
@@ -450,9 +450,9 @@ This sounds like quite an extreme response to a couple of men coming to stay at 
 </p>
 </blockquote>
 
-Even if Sodom was known as sinful, this behaviour is rather bizarre, for is it not strange that every man, young and old, wanted to “know” these men?
+Even if Sodom was known as sinful, this behaviour is rather bizarre, for is it not strange that every man, young and old, wanted to "know" these men?
 
-They say _“bring these people out to us that have come to you this night, so that we will know them.”_ According to the Rabbinic reading, it shows how evil the Sodomites had become. The whole city had risen up and they wanted to “know” these men. Was the city so desperate for new flesh that it needed to sodomise two men? That surely indicates something, if not the sinful state of affairs of Sodom.
+They say _"bring these people out to us that have come to you this night, so that we will know them."_ According to the Rabbinic reading, it shows how evil the Sodomites had become. The whole city had risen up and they wanted to "know" these men. Was the city so desperate for new flesh that it needed to sodomise two men? That surely indicates something, if not the sinful state of affairs of Sodom.
 
 Of course, we are not told of what their sin is exactly &ndash; but according to most commentators, it was the sin of licentiousness and/or the sin of inhospitality. We learn that it is sufficient for this city, and three others, to be completely annihilated.
 
@@ -484,13 +484,13 @@ Verily, their sin is exceeding grievous
 
 Upon them gathering in front of his house, and demanding to know the visitors, he wants to protect these men of G!d, and so Lot steps outside and closes the door behind him, then pleads with the men, offering his two virgin daughters instead. Now this is something that is also difficult to accept. There are a number of ways to look at this offering.
 
-It could speak of Lot’s amorality in him offering his daughters to the mob. However, he is being virtuous on one hand in his sincere desire to protect these men of G!d, albeit to the detriment of his daughters. It could also point to the lack of value attributed to women in those days, as just possessions of the men. As is also perhaps represented in the previous verse, when they first speak of __וְאַנְשֵׁי__ הָעִיר ֬ &ndash; _the people of the city_, and then say __מִנַּעַר וְעַד זָקֵן__ &ndash; _from the youth to the elder_” (both masculine).
+It could speak of Lot's amorality in him offering his daughters to the mob. However, he is being virtuous on one hand in his sincere desire to protect these men of G!d, albeit to the detriment of his daughters. It could also point to the lack of value attributed to women in those days, as just possessions of the men. As is also perhaps represented in the previous verse, when they first speak of __וְאַנְשֵׁי__ הָעִיר ֬ &ndash; _the people of the city_, and then say __מִנַּעַר וְעַד זָקֵן__ &ndash; _from the youth to the elder_" (both masculine).
 
 Also, he offers his virgin daughters here, but he himself ends up having sex with them in the cave to which they flee, after they offer themselves to him.
 
 How strangely convoluted this tale is.
 
-There is perhaps another expression of this. It is: "These men are under my protection, and it is as if you would be raping my home, my very daughters by abusing them. It is as if you violated my home, my house, my family בְּצֵלקֹרָתִי &ndash; under ”_the shadow of my roof_”."
+There is perhaps another expression of this. It is: "These men are under my protection, and it is as if you would be raping my home, my very daughters by abusing them. It is as if you violated my home, my house, my family בְּצֵלקֹרָתִי &ndash; under "_the shadow of my roof_"."
 
 ### 19&#58;9 Sojourner
 
@@ -503,7 +503,7 @@ There is perhaps another expression of this. It is: "These men are under my prot
 </p>
 </blockquote>
 
-__הָאֶחָד בָּא-לָגוּר וַיִּשְׁפֹּט שָׁפוֹט__&mdash;_This one fellow came in to sojourn, and he will needs play the judge?_ The response of the mob is "how can you, merely a sojourner in our land, judge us", providing further credence to this idea, because by his offering of his daughters to keep the men safe, it sounds to them like a judgement of their behaviour, and angers them even more. Here again they break the code of hospitality, and say that in response __נָרַ עלְךָ מֵהֶם__ &ndash; “We will deal even more harshly with you”. This of course, is the rallying call of all xenophobia. “You, who are the sojourner, cannot judge me nor my actions”.
+__הָאֶחָד בָּא-לָגוּר וַיִּשְׁפֹּט שָׁפוֹט__&mdash;_This one fellow came in to sojourn, and he will needs play the judge?_ The response of the mob is "how can you, merely a sojourner in our land, judge us", providing further credence to this idea, because by his offering of his daughters to keep the men safe, it sounds to them like a judgement of their behaviour, and angers them even more. Here again they break the code of hospitality, and say that in response __נָרַ עלְךָ מֵהֶם__ &ndash; "We will deal even more harshly with you". This of course, is the rallying call of all xenophobia. "You, who are the sojourner, cannot judge me nor my actions".
 
 ### 19:10 Hand
 
@@ -520,9 +520,9 @@ __הָאֶחָד בָּא-לָגוּר וַיִּשְׁפֹּט שָׁפוֹט__
 
 Note: Although it is generally translated as hands, __ידיים__ (_yadai'im_), in this case it is spelt, __ִיָדָם__, (_yadam_) which is closer to "their hand".{.note}
 
-They press "sorely" against Lot, ready to break down his door, then something strange and magical occurs. The men (of G!d) stretch out their hand – note the singular – the men (plural) put out their hand (singular). Perhaps this is referring to a collective action. But it also is reminiscent Abraham addressing the men in the singular, as “My Lord”. Or perhaps it was that there was one amongst the three who was the Lord, blessed by His name, and the other two were angels.
+They press "sorely" against Lot, ready to break down his door, then something strange and magical occurs. The men (of G!d) stretch out their hand – note the singular – the men (plural) put out their hand (singular). Perhaps this is referring to a collective action. But it also is reminiscent Abraham addressing the men in the singular, as "My Lord". Or perhaps it was that there was one amongst the three who was the Lord, blessed by His name, and the other two were angels.
 
-They bring Lot inside and close the door. Now there is no mention of them opening it! Aaah, isn’t poetic license so welcome in a story? And if they had, would not the people have streamed into the house?
+They bring Lot inside and close the door. Now there is no mention of them opening it! Aaah, isn't poetic license so welcome in a story? And if they had, would not the people have streamed into the house?
 
 ### 19:11
 
@@ -545,9 +545,9 @@ However, if a spell of darkness (like the double darkness of the plagues in Egyp
 
 <b>וַיִּלְא֖וּ לִמְצֹ֥א הַפָּֽתַח</b> &mdash; <i>toiled to find the entrance.</i>
 
-In their blindness they still sought the entrance, until they wearied of this. How long did this plague of blindness last? If one assumes that it lasted till they wearied and went back home, would they then have decided to give up this quest to know the men? Would they forget and forgive and go onto something else, till the morning? If it was so important to them that they all gathered at Lot’s house, would they just wander off after being blinded? Or did they realise they were dealing with forces that were magical and this scared them off.
+In their blindness they still sought the entrance, until they wearied of this. How long did this plague of blindness last? If one assumes that it lasted till they wearied and went back home, would they then have decided to give up this quest to know the men? Would they forget and forgive and go onto something else, till the morning? If it was so important to them that they all gathered at Lot's house, would they just wander off after being blinded? Or did they realise they were dealing with forces that were magical and this scared them off.
 
-An interesting line to note is that the angels just made manifest an inner state of blindness that already existed in these men. They, in essence, just allowed the darkness of what was inside to emerge on the outside. Human character, when enraged and in a mob, becomes blinded by the rage of righteousness. They will then continue on blind, often destructive, or cruel and violent paths... “continuing to seek the entrance”.
+An interesting line to note is that the angels just made manifest an inner state of blindness that already existed in these men. They, in essence, just allowed the darkness of what was inside to emerge on the outside. Human character, when enraged and in a mob, becomes blinded by the rage of righteousness. They will then continue on blind, often destructive, or cruel and violent paths... "continuing to seek the entrance".
 
 This also speaks to the fact that only G-d can "change what is", in other words "create something out of nothing". All other beings, including angels, can only use what is already there to create. In this situation, the angels used the blindness of the mob (which was made up of sinners, both young and old) to manifest darkness.
 
@@ -569,7 +569,7 @@ The angels urge Lot to leave – yet he lingers. It is like someone comes along 
 וַיְהִי כִמְצַחֵק בְּעֵינֵי חֲתָנָיו
 </p>
 <p>
-“He seemed to his son-in-laws as one who was in jest.” (19&#58;14)
+"He seemed to his son-in-laws as one who was in jest." (19&#58;14)
 </p>
 </blockquote>
 
@@ -586,7 +586,7 @@ Which meant that his betrothed daughters could not leave with him, as was the cu
 </p>
 </blockquote>
 
-So, at dawn, they take him, his wife and his two daughters __בְּחֶמְלַת יְהוָה עָלָיו__ &ndash; “_in the Lord’s mercy_” out of the city. They tell them: הִמָּלֵטעַל נַפְשֶׁךָ &ndash; "_Flee for your life_" or rather “_Save your soul_”...
+So, at dawn, they take him, his wife and his two daughters __בְּחֶמְלַת יְהוָה עָלָיו__ &ndash; "_in the Lord's mercy_" out of the city. They tell them: הִמָּלֵטעַל נַפְשֶׁךָ &ndash; "_Flee for your life_" or rather "_Save your soul_"...
 
 <blockquote>
 <p dir="rtl">
@@ -597,7 +597,7 @@ Do not look behind you, do not tarry on the plains, escape to the mountains.
 </p>
 </blockquote>
 
-But Lot objects! אַל נָא אֲדֹנָי &ndash; “_Not so, my Lord_”. Who
+But Lot objects! אַל נָא אֲדֹנָי &ndash; "_Not so, my Lord_". Who
 is he addressing here? Then he says something strange:
 
 <blockquote>
@@ -609,11 +609,11 @@ is he addressing here? Then he says something strange:
 </p>
 </blockquote>
 
-What evil is he referring to? And how can it overtake him if he has fled (or is fleeing) to the mountain? So instead he asks to take refuge in the small city that is close by __וּתְחִי__ נַפְשִׁי &ndash; "_and my soul shall live_” It is interesting again that it is not “I shall live”, or “you shall live”, but that it is his soul, his __נֶפֶש__ that shall live.
+What evil is he referring to? And how can it overtake him if he has fled (or is fleeing) to the mountain? So instead he asks to take refuge in the small city that is close by __וּתְחִי__ נַפְשִׁי &ndash; "_and my soul shall live_" It is interesting again that it is not "I shall live", or "you shall live", but that it is his soul, his __נֶפֶש__ that shall live.
 
-And He agrees. who is he addressing? Can the angels make such a decision, or does it require __HaShem__’s agreement? It seems that Lot might also have access to __HaShem__. Which is interesting as he is not looked at in a very positive light by the Jewish tradition, though in both the Muslim and Christian, he is revered as a prophet. They have a point, for would one not revere the brother of Abraham to whom __HaShem__ also appeared, who was saved from the destruction wrought on Sodom and Gomorrah, who also negotiated with G!d, and was responded to?
+And He agrees. who is he addressing? Can the angels make such a decision, or does it require __HaShem__'s agreement? It seems that Lot might also have access to __HaShem__. Which is interesting as he is not looked at in a very positive light by the Jewish tradition, though in both the Muslim and Christian, he is revered as a prophet. They have a point, for would one not revere the brother of Abraham to whom __HaShem__ also appeared, who was saved from the destruction wrought on Sodom and Gomorrah, who also negotiated with G!d, and was responded to?
 
-Anyways, the response is “Hurry...”
+Anyways, the response is "Hurry..."
 
 <blockquote>
 <p dir="rtl">
@@ -654,12 +654,12 @@ his wife looked back from behind him, and she became a pillar of salt
 
 Remember, nothing could happen until he arrived at Zoar. This sequence confirms this. Did she gaze at the destruction from Zoar? Did she linger? In our rational view of a non-rational event, we fit it nicely into the sequence that this must have happened when they were leaving. However here, it is inserted only after Lot has arrived at Zoar.
 
-Now we turn to the question of what would turn someone into salt. She was not vaporised like the rest of the people, but remained as a pillar of salt. There is also an interesting note from _Tanchuma_ that it came down from the heavens as rain and turned into sulphur and fire as it approached earth. There are also many that say that Lot’s wife turned around to see whether her married daughters were following her, and that she was a Sodomite, so she could not resist a last glance at the city of her birth and saw the LORD about to start destroying the cities, and that is why she turned into salt. But would not the others in Sodom and Gomorrah also have seen the LORD and thus also have been turned into sand? Perhaps it is because those that are steeped in the ways of evil cannot see the LORD even when he is present. A kind of cognitive dissonance. “None so blind as those who cannot see?” Even more radical is the notion that she needed to be taken out of the picture so that Lot’s daughters would then sleep with him to procreate and to continue the unfolding of our history.
+Now we turn to the question of what would turn someone into salt. She was not vaporised like the rest of the people, but remained as a pillar of salt. There is also an interesting note from _Tanchuma_ that it came down from the heavens as rain and turned into sulphur and fire as it approached earth. There are also many that say that Lot's wife turned around to see whether her married daughters were following her, and that she was a Sodomite, so she could not resist a last glance at the city of her birth and saw the LORD about to start destroying the cities, and that is why she turned into salt. But would not the others in Sodom and Gomorrah also have seen the LORD and thus also have been turned into sand? Perhaps it is because those that are steeped in the ways of evil cannot see the LORD even when he is present. A kind of cognitive dissonance. "None so blind as those who cannot see?" Even more radical is the notion that she needed to be taken out of the picture so that Lot's daughters would then sleep with him to procreate and to continue the unfolding of our history.
 
 Finally, on a scientific note, there are many metallic salts, though it might be even more intriguing to consider what would
 turn her into a metallic salt.
 
-Abraham rises the next morning and sees the destruction, and we are reminded that the only reason that Lot was saved was because of Abraham’s righteousness. In other words he was saved in Abraham’s name. Though as mentioned before, both the Christians and the Muslims disagree, and believe Lot to be a holy man and a prophet in his own right.
+Abraham rises the next morning and sees the destruction, and we are reminded that the only reason that Lot was saved was because of Abraham's righteousness. In other words he was saved in Abraham's name. Though as mentioned before, both the Christians and the Muslims disagree, and believe Lot to be a holy man and a prophet in his own right.
 
 <blockquote>
 <p dir="rtl">
@@ -670,7 +670,7 @@ for he feared to dwell in Zoar
 </p>
 </blockquote>
 
-Even Zoar was not safe for Lot, forcing him to leave (or does he “flee”) into the mountains with his daughters. He was afraid to remain there, understandably so, as I cannot imagine that his reception could have been that warm, considering that four cities had just been wiped out, and he and his daughters were the only survivors. In fact, not only did he survive, but he left before the event occurred. That must have made the inhabitants of Zoar very suspicious of him. That is perhaps why he “feared ..”
+Even Zoar was not safe for Lot, forcing him to leave (or does he "flee") into the mountains with his daughters. He was afraid to remain there, understandably so, as I cannot imagine that his reception could have been that warm, considering that four cities had just been wiped out, and he and his daughters were the only survivors. In fact, not only did he survive, but he left before the event occurred. That must have made the inhabitants of Zoar very suspicious of him. That is perhaps why he "feared .."
 
 <blockquote>
 <p dir="rtl">
@@ -683,7 +683,7 @@ there is not a man in the earth to come in unto us after the manner of all the e
 
 Then the elder daughter tells the younger that there is no man left on earth to make babies with them, so that she needs to sleep with her father to continue the human race. This is from a commentary which says that she slept with her father, because she believed that everyone on earth had been wiped out. But they had just left Zoar, which had been spared – so how could this have been true?
 
-But what I have to say, and wonder if the commentaries deal with this topic at all, that it dealing with a deep, urge that lies buried in the human race. Many daughters would like to sleep with their fathers, and many fathers would like to sleep with their daughters. Incest has occurred in most societies, and is rampant in some. It is a very sexual theme that is being “mentioned” here, a deep, dark sexual urge. Nor does it say that it should not happen at this point of the unfolding of the human story. In fact, it is somewhat justified as necessary in the light of the future, as Ruth the Moabite ancestor of David Ha’Melech was born from the offspring of the younger daughter’s son, Moav, and the wife of Solomon descended from the loins of the elder daughter’s son, Ammon.
+But what I have to say, and wonder if the commentaries deal with this topic at all, that it dealing with a deep, urge that lies buried in the human race. Many daughters would like to sleep with their fathers, and many fathers would like to sleep with their daughters. Incest has occurred in most societies, and is rampant in some. It is a very sexual theme that is being "mentioned" here, a deep, dark sexual urge. Nor does it say that it should not happen at this point of the unfolding of the human story. In fact, it is somewhat justified as necessary in the light of the future, as Ruth the Moabite ancestor of David Ha'Melech was born from the offspring of the younger daughter's son, Moav, and the wife of Solomon descended from the loins of the elder daughter's son, Ammon.
 
 There is no judgement of the incident. In fact, most commentaries do not fault the daughters, but say the Lot was the immoral one in the story, as he was aware of his elder daughter leaving his bed, and did not take heed when the younger began plying him with wine that night.
 
@@ -694,7 +694,7 @@ Does this connect somehow with Lot's offering of his two virgin daughters to the
 
 I dedicate this piece to my love of the Divine, as an expression of my ongoing dialogue with the Divine in me and in my surroundings and especially as I wrestle with It in the form that I have encountered It in my tradition.
 
-ב”ה B’Shem Elohim
+ב"ה B'Shem Elohim
 
 ## Addendum
 
@@ -768,7 +768,7 @@ But his wife looked back from behind him, That is, the wife of Lot, whose name t
 
 Rauwolff [^e] relates something of the same kind by information, but not on his own testimony; that the pilgrims who visit it used to beat off some small pieces, and yet was found whole again; nay, which is beyond all credit, that they once knocked off a whole hand and took it away, and when they returned found it whole again. One [^f] that travelled in those parts in the beginning of the sixteenth century affirms, that almost in the midway to Zoar is seen to this day the pillar of salt into which Lot's wife was turned; he does not say indeed that he saw it, but leaves his reader to think so. The Jerusalem Targum says, it will remain until the resurrection; but modern travellers of credit and intelligence could never see it; and when they have inquired of the country people about it, they either tell them there is no such thing, or say it stands in the mountains, where it cannot be come at, because of the Arabs, or because of wild beasts [^g], but no doubt there was such a statue, but how long it continued cannot be said; nor should it be thought incredible, when there are similar facts affirmed by authors of the best credit and reputation. Aventinus [^h] reports, that in Bavaria, in 1348, more than fifty peasants, with the cows they had milked, at the time of an earthquake were struck with a pestilential air, and stiffened into statues of salt, and which he himself saw. The chancellor of Austria, and Bisselius relates [^i], that Didacus Almagrus, who was the first person that with his army penetrated through the cold countries from Peru into Chile, lost abundance of his men, through the extremity of the cold and a pestiferous air; and that, returning to the same place five months afterwards, he found his men, horse and foot, standing unmoved, unconsumed, in the same situation, form, and habit, the pestilence had fastened them; one lying on the ground, another standing upright, another holding his bridle in his hand, as if about to shake it; in short, he found them just as he left them, without any ill smell or colour, common to corpses: indeed, the very fables of the Heathens, which seem to be hammered out of this history, serve to confirm the truth of the whole of it. As the fable of Jupiter and Mercury coming to a certain place in Phrygia, where they were hospitably entertained by Baucis and Philemon, when the doors were shut against them by others; wherefore they directed their guests, after being entertained by them, to leave the place and follow them to the mountains, when they turned the town into a standing lake [^k]. Also that of Niobe being changed into a marble stone while weeping for the death of her children; and of Olenus and Lethaea, turned into stones also [^l]. But, leaving these, and passing by other instances that might be observed, we are directed to remember this wonderful case by our Lord himself, [Luke 17:32](http://bible.cc/luke/17-32.htm).
 
-[Christians](https://en.wikipedia.org/wiki/Christians" title=Christians) and [Muslims](https://en.wikipedia.org/wiki/Muslims) revere Lot as a righteous man of [G!d](https://en.wikipedia.org/wiki/God). According to [Christianity](https://en.wikipedia.org/wiki/Lot_%28biblical_person%29#cite_note-2), [Jesus](https://en.wikipedia.org/wiki/Jesus) is a descendent of Lot through David's great-grandmother [Ruth](https://en.wikipedia.org/wiki/Ruth_%28biblical_figure%29), who is descended from Lot's son [Moab](https://en.wikipedia.org/wiki/Moab). The [Qur'an](https://en.wikipedia.org/wiki/Qur%27an/a) does not include any references to Lot's drunkenness and incestuous relations. He is regarded as a [prophet of Islam](https://en.wikipedia.org/wiki/Prophets_of_Islam).
+[Christians](<https://en.wikipedia.org/wiki/Christians>" title=Christians) and [Muslims](https://en.wikipedia.org/wiki/Muslims) revere Lot as a righteous man of [G!d](https://en.wikipedia.org/wiki/God). According to [Christianity](https://en.wikipedia.org/wiki/Lot_%28biblical_person%29#cite_note-2), [Jesus](https://en.wikipedia.org/wiki/Jesus) is a descendent of Lot through David's great-grandmother [Ruth](https://en.wikipedia.org/wiki/Ruth_%28biblical_figure%29), who is descended from Lot's son [Moab](https://en.wikipedia.org/wiki/Moab). The [Qur'an](https://en.wikipedia.org/wiki/Qur%27an/a) does not include any references to Lot's drunkenness and incestuous relations. He is regarded as a [prophet of Islam](https://en.wikipedia.org/wiki/Prophets_of_Islam).
 
 ---
 

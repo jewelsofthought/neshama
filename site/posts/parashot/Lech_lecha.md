@@ -82,7 +82,7 @@ n12:1] [לֶךְ־לְךָ]{dir="rtl"} &mdash; <i>Go for yourself.</i>(\*)
  <figure class='quote'>
    <p>
 
-      [מֵֽאַרְצְךָ֥]{dir="rtl"} &mdash; _from your land._ Now had he not already gone out of there with his father and come as far as Haran? Rather, thus did He say to him, “Distance yourself more from there and leave your father’s house.”
+      [מֵֽאַרְצְךָ֥]{dir="rtl"} &mdash; _from your land._ Now had he not already gone out of there with his father and come as far as Haran? Rather, thus did He say to him, "Distance yourself more from there and leave your father's house."
    </p>
    <figcaption>&mdash;(Rashi)</figcaption>
  </figure>
@@ -503,9 +503,9 @@ n20] [וברוך אל]{dir="rtl"}
 <figure class='quote'>
   <p>
 
-    [אחר הדברים האלה]{dir="rtl"} &mdash; <i>After these incidents.</i> Wherever the term [אַחַר]{dir="rtl"} is used, it signifies immediately afterwards; [אַחֲרֵי]{dir="rtl"} signifies a long time afterwards (<i>Gen. Rabbah</i> 44:5). After this miracle had been wrought for him, that he slew the kings, he was worried and said, “Perhaps I have received reward for all my righteous deeds.” Therefore, the Omnipresent said to him, “Fear not Abram, I am your Shield” from punishment, that you will not be punished for all those souls that you have slain, and as far as your being worried about receiving reward, your reward is exceedingly great.  
+    [אחר הדברים האלה]{dir="rtl"} &mdash; <i>After these incidents.</i> Wherever the term [אַחַר]{dir="rtl"} is used, it signifies immediately afterwards; [אַחֲרֵי]{dir="rtl"} signifies a long time afterwards (<i>Gen. Rabbah</i> 44:5). After this miracle had been wrought for him, that he slew the kings, he was worried and said, "Perhaps I have received reward for all my righteous deeds." Therefore, the Omnipresent said to him, "Fear not Abram, I am your Shield" from punishment, that you will not be punished for all those souls that you have slain, and as far as your being worried about receiving reward, your reward is exceedingly great.  
   </p>
-  <figcaption>&mdash;(from Aggadath Bereishith 16:2; Tan. Buber, Lech Lecha 15; Pirkei d’Rabbi Eliezer ch. 27)</figcaption>
+  <figcaption>&mdash;(from Aggadath Bereishith 16:2; Tan. Buber, Lech Lecha 15; Pirkei d'Rabbi Eliezer ch. 27)</figcaption>
 </figure>
 
 **Note**: When these sections start with the words "the Lord came to..." in a vision, it makes me think of a shamanic journey.{.note}
@@ -527,7 +527,7 @@ n20] [וברוך אל]{dir="rtl"}
 <figure class='quote'>
   <p>
 
-[הולך ערירי]{dir="rtl"} &mdash; <i>since I am going childless.</i> It appears to me, however, that [עֵר וְעֹנֶה]{dir="rtl"} is derived from the same root as (<i>Song of Songs</i> 5:2): “but my heart is awake ([עֵר]{dir="rtl"}),” whereas [עֲרִירִי]{dir="rtl"} is an expression of destruction, as in (Ps. 137:7): “Raze it, raze it ([עָרוּ עָרוּ]{dir="rtl"})” and as in (Hab. 3:13): “destroying ([עָרוֹת]{dir="rtl"}) the foundation,” and as in (Jer. 51:58): “shall be completely destroyed ([עַרְעֵר ,תִּתְעַרְעַר]{dir="rtl"}),” and as in (Zeph. 2:14): “for the cedarwork will be destroyed ([עֵרָה]{dir="rtl"}).”
+[הולך ערירי]{dir="rtl"} &mdash; <i>since I am going childless.</i> It appears to me, however, that [עֵר וְעֹנֶה]{dir="rtl"} is derived from the same root as (<i>Song of Songs</i> 5:2): "but my heart is awake ([עֵר]{dir="rtl"})," whereas [עֲרִירִי]{dir="rtl"} is an expression of destruction, as in (Ps. 137:7): "Raze it, raze it ([עָרוּ עָרוּ]{dir="rtl"})" and as in (Hab. 3:13): "destroying ([עָרוֹת]{dir="rtl"}) the foundation," and as in (Jer. 51:58): "shall be completely destroyed ([עַרְעֵר ,תִּתְעַרְעַר]{dir="rtl"})," and as in (Zeph. 2:14): "for the cedarwork will be destroyed ([עֵרָה]{dir="rtl"})."
   </p>
   <figcaption>&mdash;(Rashi)</figcaption>
 </figure>
@@ -535,7 +535,7 @@ n20] [וברוך אל]{dir="rtl"}
 <figure class='quote'>
   <p>
 
-    [ובן משק ביתי]{dir="rtl"} &mdash; <i>and the steward of my household.</i> [וּבֶן מֶשֶׁק בֵּיתִי]{dir="rtl"}, to be interpreted like the Aramaic translation, ([וּבַר פַּרְנָסָה הָדֵין דִי בְּבֵיתִי]{dir="rtl"}): and this sustainer who is in my house). My entire household is sustained by his orders, as (below 41:40): “and by your orders they will be sustained ([יִשַּׁק]{dir="rtl"}).” [בֶּן מֶשֶׁק]{dir="rtl"} means “my administrator,” but if I had a son, my son would be appointed over my possessions. 
+    [ובן משק ביתי]{dir="rtl"} &mdash; <i>and the steward of my household.</i> [וּבֶן מֶשֶׁק בֵּיתִי]{dir="rtl"}, to be interpreted like the Aramaic translation, ([וּבַר פַּרְנָסָה הָדֵין דִי בְּבֵיתִי]{dir="rtl"}): and this sustainer who is in my house). My entire household is sustained by his orders, as (below 41:40): "and by your orders they will be sustained ([יִשַּׁק]{dir="rtl"})." [בֶּן מֶשֶׁק]{dir="rtl"} means "my administrator," but if I had a son, my son would be appointed over my possessions. 
   </p>
   <figcaption>&mdash;(Rashi)</figcaption>
 </figure>
@@ -543,7 +543,7 @@ n20] [וברוך אל]{dir="rtl"}
 <figure class='quote'>
   <p>
 
-    [דמשק]{dir="rtl"} &mdash; <i>Damascus.</i>According to the Targum, he was from Damascus, but according to the _Midrash Aggadah_ (_Gen. Rabbah_ 44:9) [the meaning is] that he pursued the kings until Damascus. And in our Talmud (_Yoma_ 28b), it (the word [דַּמֶּשֶׂק]{dir="rtl"}) is interpreted as a notarikon [acrostic for [דּוֹלֶה וּמַשְׁקֶה]{dir="rtl"}: he drew and gave to drink from his master’s teachings to others.
+    [דמשק]{dir="rtl"} &mdash; <i>Damascus.</i>According to the Targum, he was from Damascus, but according to the _Midrash Aggadah_ (_Gen. Rabbah_ 44:9) [the meaning is] that he pursued the kings until Damascus. And in our Talmud (_Yoma_ 28b), it (the word [דַּמֶּשֶׂק]{dir="rtl"}) is interpreted as a notarikon [acrostic for [דּוֹלֶה וּמַשְׁקֶה]{dir="rtl"}: he drew and gave to drink from his master's teachings to others.
   </p>
   <figcaption>&mdash;(Rashi)</figcaption>
 </figure>
@@ -576,7 +576,7 @@ n20] [וברוך אל]{dir="rtl"}
 <figure class='quote'>
   <p>
 
-    [ויוצא אתו החוצה]{dir="rtl"} &mdash; <i>And He took him outside.</i> According to its simple meaning: He took him out of his tent, outdoors, to see the stars. But according to its midrashic interpretation, He said to him, “Go out of your astrology,” for you have seen in the signs of the zodiac that you are not destined to have a son. (<i>Ned</i>. 32a, <i>Gen. Rabbah</i> 44:10) Another explanation: He took him out of the terrestrial sphere and lifted him above the stars. This explains the expression of [הַבָּטָה]{dir="rtl"}, looking down from above (<i>Gen. Rabbah</i> 44:12).
+    [ויוצא אתו החוצה]{dir="rtl"} &mdash; <i>And He took him outside.</i> According to its simple meaning: He took him out of his tent, outdoors, to see the stars. But according to its midrashic interpretation, He said to him, "Go out of your astrology," for you have seen in the signs of the zodiac that you are not destined to have a son. (<i>Ned</i>. 32a, <i>Gen. Rabbah</i> 44:10) Another explanation: He took him out of the terrestrial sphere and lifted him above the stars. This explains the expression of [הַבָּטָה]{dir="rtl"}, looking down from above (<i>Gen. Rabbah</i> 44:12).
   </p>
   <figcaption>&mdash;(Rashi)</figcaption>
 </figure>
@@ -629,7 +629,7 @@ n20] [וברוך אל]{dir="rtl"}
 <figure class='quote'>
   <p>
 
-    [ויבתר אותם]{dir="rtl"} &mdash; <i>and he divided them.</i> It is the custom of those who form a covenant to divide an animal and to pass between its parts, as it is written (Jer. 34:19): “who passed between the parts of the calf.” Here too, “a smoking furnace and a fire brand, which passed between the parts,” was the agent of the Shechinah, which is [referred to as] fire. (from _Pirkei d’Rabbi Eliezer_ , ch. 28).
+    [ויבתר אותם]{dir="rtl"} &mdash; <i>and he divided them.</i> It is the custom of those who form a covenant to divide an animal and to pass between its parts, as it is written (Jer. 34:19): "who passed between the parts of the calf." Here too, "a smoking furnace and a fire brand, which passed between the parts," was the agent of the Shechinah, which is [referred to as] fire. (from _Pirkei d'Rabbi Eliezer_ , ch. 28).
 
   </p>
   <figcaption>&mdash;(Rashi)</figcaption>
@@ -648,7 +648,7 @@ n20] [וברוך אל]{dir="rtl"}
 <figure class='quote'>
   <p>
 
-    [הָעַיִט]{dir="rtl"} &mdash; <i>And the birds of prey.</i> This is a bird, and [it is called [עַיִט]{dir="rtl"}] because it swoops down [[עָט]{dir="rtl"}] and seeks the carcasses. Like (Job 9:26): “to swoop upon food,” and like (I Sam. 15:19): “and you flew (**וַתַּעַט**) upon the spoil.”
+    [הָעַיִט]{dir="rtl"} &mdash; <i>And the birds of prey.</i> This is a bird, and [it is called [עַיִט]{dir="rtl"}] because it swoops down [[עָט]{dir="rtl"}] and seeks the carcasses. Like (Job 9:26): "to swoop upon food," and like (I Sam. 15:19): "and you flew (**וַתַּעַט**) upon the spoil."
   </p>
   <figcaption>&mdash;(Rashi)</figcaption>
 </figure>
@@ -656,7 +656,7 @@ n20] [וברוך אל]{dir="rtl"}
 <figure class='quote'>
   <p>
 
-    [וַיַּשֵּׁב]{dir="rtl"} &mdash; <i>and Abram drove them away.</i> An expression of blowing and causing to fly away, like (Ps. 147:18): “He causes His wind to blow ([יַשֵּׁב]{dir="rtl"}).”
+    [וַיַּשֵּׁב]{dir="rtl"} &mdash; <i>and Abram drove them away.</i> An expression of blowing and causing to fly away, like (Ps. 147:18): "He causes His wind to blow ([יַשֵּׁב]{dir="rtl"})."
   </p>
   <figcaption>&mdash;(Rashi)</figcaption>
 </figure>
@@ -694,7 +694,7 @@ n20] [וברוך אל]{dir="rtl"}
 <figure class='quote'>
   <p>
 
-    [כי גר יהיה זרעך]{dir="rtl"} &mdash; <i>that your seed will be strangers.</i> From the time that Isaac was born until the Israelites left Egypt was four hundred years. How so? Isaac was sixty years old when Jacob was born, and Jacob, when he went down to Egypt, said, “The days of the years of my sojournings are one hundred and thirty years,” which total 190. They were in Egypt 210 years, like the numerical value of [רְדוּ]{dir="rtl"} (see Rashi, below 42:2; [ר]{dir="rtl"} = 200, [ד]{dir="rtl"} = 4, [ו]{dir="rtl"} = 6, totaling 210). Thus, the total is 400 years. Now, if you should say that they were 400 years in Egypt, [this is not so] because Kehath was one of those who descended to Egypt. If you compute the years of Kehath (133) and those of Amram (his son, 137), and the 80 years of Moses, his age when they left Egypt, you will find only 350 [years]. And you must still subtract from them all the years that Kehath lived after the birth of Amram and that Amram lived after the birth of Moses. [from _Seder Olam_ ch. 3]
+    [כי גר יהיה זרעך]{dir="rtl"} &mdash; <i>that your seed will be strangers.</i> From the time that Isaac was born until the Israelites left Egypt was four hundred years. How so? Isaac was sixty years old when Jacob was born, and Jacob, when he went down to Egypt, said, "The days of the years of my sojournings are one hundred and thirty years," which total 190. They were in Egypt 210 years, like the numerical value of [רְדוּ]{dir="rtl"} (see Rashi, below 42:2; [ר]{dir="rtl"} = 200, [ד]{dir="rtl"} = 4, [ו]{dir="rtl"} = 6, totaling 210). Thus, the total is 400 years. Now, if you should say that they were 400 years in Egypt, [this is not so] because Kehath was one of those who descended to Egypt. If you compute the years of Kehath (133) and those of Amram (his son, 137), and the 80 years of Moses, his age when they left Egypt, you will find only 350 [years]. And you must still subtract from them all the years that Kehath lived after the birth of Amram and that Amram lived after the birth of Moses. [from _Seder Olam_ ch. 3]
   </p>
   <figcaption>&mdash;(Rashi)</figcaption>
 </figure>
@@ -720,7 +720,7 @@ Now it came to pass that the sun had set.</i> The subject apparently does not ag
 <figure class='quote'>
   <p>
 
-    [בָּאָה]{dir="rtl"} &mdash; <i>had set. </i> Its accent is on the first syllable. Therefore, it is explained that it had already set; but if its accent were at the end, on the “alef,” it would be explained to mean: as it was setting. but it is impossible to say this, for it is already written (above verse 12): “Now the sun was setting,” and the passing of the smoking furnace happened after this. It is found that it had already set. And this difference exists in every word in the feminine gender, whose radical consists of two letters, such as [בא]{dir="rtl"} (to come), [קם]{dir="rtl"} (to arise), [שב]{dir="rtl"} (to return). When the accent is on the first syllable, it is in the past tense, e.g., this case and e.g., (below 29:9): “and Rachel came ([בָּאָה]{dir="rtl"})”; (below 37:7): “my sheaf arose ([קָמָה]{dir="rtl"})”; ([Ruth 1:15](https://www.chabad.org/16453#v15)): “Lo! Your sister-in-law has returned ([שָׁבָה]{dir="rtl"}).” However, when the accent is on the final syllable, it is in the present tense, denoting a thing that is happening now and is continuing to happen, like (below 29:6): “She is coming [בָּאָה]{dir="rtl"} with the flocks”; ([Esther 2:14](https://www.chabad.org/16475#v14)): “In the evening she would come ([בָּאָה]{dir="rtl"}), and in the morning she would return ([שָׁבָה]{dir="rtl"}).”
+    [בָּאָה]{dir="rtl"} &mdash; <i>had set. </i> Its accent is on the first syllable. Therefore, it is explained that it had already set; but if its accent were at the end, on the "alef," it would be explained to mean: as it was setting. but it is impossible to say this, for it is already written (above verse 12): "Now the sun was setting," and the passing of the smoking furnace happened after this. It is found that it had already set. And this difference exists in every word in the feminine gender, whose radical consists of two letters, such as [בא]{dir="rtl"} (to come), [קם]{dir="rtl"} (to arise), [שב]{dir="rtl"} (to return). When the accent is on the first syllable, it is in the past tense, e.g., this case and e.g., (below 29:9): "and Rachel came ([בָּאָה]{dir="rtl"})"; (below 37:7): "my sheaf arose ([קָמָה]{dir="rtl"})"; ([Ruth 1:15](https://www.chabad.org/16453#v15)): "Lo! Your sister-in-law has returned ([שָׁבָה]{dir="rtl"})." However, when the accent is on the final syllable, it is in the present tense, denoting a thing that is happening now and is continuing to happen, like (below 29:6): "She is coming [בָּאָה]{dir="rtl"} with the flocks"; ([Esther 2:14](https://www.chabad.org/16475#v14)): "In the evening she would come ([בָּאָה]{dir="rtl"}), and in the morning she would return ([שָׁבָה]{dir="rtl"})."
   </p>
   <figcaption>&mdash;(Rashi)</figcaption>
 </figure>

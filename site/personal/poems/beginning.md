@@ -38,7 +38,7 @@ What in me is thinking
 That thought in the first place?
 Where does it all end?
 בראשית ברא אלוהים…
-‘In the beginning….’
+'In the beginning….'
 
 Where is He, the Blessed Source?
 

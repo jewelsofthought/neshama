@@ -15,7 +15,7 @@ date: 2022-05-05T01:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Yesod she’b Tiferet</h2>
+<h2>Yesod she'b Tiferet</h2>
 <span dir="rtl"><b>הָיום  עֶשְׂרִים יָוֹם שֶׁהֵם שְׁנֶי שָׁבוּעוֹת  וְשׁישָּׁה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is twenty days, which is two weeks and six days of the Omer</i>
@@ -30,11 +30,11 @@ date: 2022-05-05T01:04:00.000Z
 For compassion to be realized, it requires a channel between giver and receiver. A mutuality that extends beyond the moment of need.  Ensure that something eternal is built as a result of your compassion.
 </div>
 
-On this day, nearing the end of the third week of our crossing, we bring **Yesod** into **Tiferet**. It is our ego identity which we bathe in the Light of Compassion today. Today, **Tiferet** receives the balance of Foundation within itself. The Light is focused on the central pillar of the Tree, from heart to pubis. The promise of this day is the balancing of our lesser and greater “I”, our exclusive and our inclusive identities.
+On this day, nearing the end of the third week of our crossing, we bring **Yesod** into **Tiferet**. It is our ego identity which we bathe in the Light of Compassion today. Today, **Tiferet** receives the balance of Foundation within itself. The Light is focused on the central pillar of the Tree, from heart to pubis. The promise of this day is the balancing of our lesser and greater "I", our exclusive and our inclusive identities.
 
-Which “I” looks at the world at any given time determines much of what is received. If it is the smaller “I”, the one who is separate from all others, then it will be perceived in terms of competition, of winning and losing. If it is seen from the perspective of the larger “I”, the one who shares rather than competes, who has rather than needs, then a different reality will be perceived. I realise my self acting all parts in the drama, and glimpse the nature of the Dance of the Whole. What is really “out there”? It depends on who is looking.
+Which "I" looks at the world at any given time determines much of what is received. If it is the smaller "I", the one who is separate from all others, then it will be perceived in terms of competition, of winning and losing. If it is seen from the perspective of the larger "I", the one who shares rather than competes, who has rather than needs, then a different reality will be perceived. I realise my self acting all parts in the drama, and glimpse the nature of the Dance of the Whole. What is really "out there"? It depends on who is looking.
 
-We need both our greater “I” and our lesser “i”. The one is connected to the Universe of Being, and maintains our connection to this greater Light, reminding us who we truly are. The other ensures our biological survival on this planet, so that the Greater Awareness might be in this world.
+We need both our greater "I" and our lesser "i". The one is connected to the Universe of Being, and maintains our connection to this greater Light, reminding us who we truly are. The other ensures our biological survival on this planet, so that the Greater Awareness might be in this world.
 
 Today focus on blessing that lesser identity in the Light of the greater I that lives within us. Bring all your feelings of separateness, the competition, and your fears into the Light. We do no seek to change the ego, but to appreciate it more truly. In order to do that, we need to relieve it of responsibilities that it cannot carry, and to support it in those it must. We wish to build a fitting vehicle for **Tiferet** to express itself in the world.
 

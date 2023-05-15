@@ -14,7 +14,7 @@ date: 2022-05-13T03:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Malchut she’b Netzach</h2>
+<h2>Malchut she'b Netzach</h2>
 <span dir="rtl"><b>הָיום שְׁמוֹנָה וְעֶשְׂרִים יָוֹם שֶׁהֵם אַרְבָּעָה שָׁבוּעוֹת לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is twenty-eight days, which is four weeks of the Omer</i>

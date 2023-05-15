@@ -14,7 +14,7 @@ date: 2022-04-30T03:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Chesed she’b Tiferet</h2>
+<h2>Chesed she'b Tiferet</h2>
 <span dir="rtl"><b>הָיום חְַמִשָּׁה עָשָׂר יָוֹם שֶׁהֵם שְׁנֶי שָׁבוּעוֹת  וְיוֹם אֶחָד לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is fifteen days, which is two weeks and one day of the Omer</i>
@@ -34,10 +34,10 @@ The third week of our journey focuses at the _sefirah_ of **Tiferet**, the Heart
 
 On any journey, the awareness of the goals we choose at the beginning tend to dim as we proceed, and our energies diminish. Like our ancestors, there are parts of ourselves which automatically bring our favourite limitations into our wilderness, causing our determination to waver. This week invites us to reassess the journey, to remember our purpose and renew our resolve.
 
-Only at **Tiferet** can we find united that which our senses continually fragment. **Tiferet** is the centre of our Higher Identity, our non-ego awareness. Where the “I” at **Yesod** is exclusive, the “I” at **Tiferet** is inclusive.
+Only at **Tiferet** can we find united that which our senses continually fragment. **Tiferet** is the centre of our Higher Identity, our non-ego awareness. Where the "I" at **Yesod** is exclusive, the "I" at **Tiferet** is inclusive.
 
 **Tiferet** is the place of the soul our tradition calls _Ruach_ &ndash; the identify within us which mediates communication between our highest Self, _Neshama_, and our animal-(or base)-self, _Nefesh_.
-_Ruach_ is the place of breath, and it is with the relaxed breath that we become most aware of the energies of the heart. The level of soul called _Ruach_ sees, feels and knows through the larger “I” of our being. Our vision expands from its contracted state, that we might perceive a fullness in which our paths once again become clear.
+_Ruach_ is the place of breath, and it is with the relaxed breath that we become most aware of the energies of the heart. The level of soul called _Ruach_ sees, feels and knows through the larger "I" of our being. Our vision expands from its contracted state, that we might perceive a fullness in which our paths once again become clear.
 
 On this first day of the third week we bring **Chesed** into **Tiferet**. We receive the outpouring of emotional energy from that _sefirah_, even as we bless **Chesed** in the greater "I" of **Tiferet**. We celebrate the Heart of our being.
 

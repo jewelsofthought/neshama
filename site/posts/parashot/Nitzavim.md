@@ -15,8 +15,8 @@ date: 2021-10-04T00:22:16.154Z
 
 <blockquote>
 <p dir="rtl">
- 	  	ט אַתֶּ֨ם נִצָּבִ֤ים הַיּוֹם֙ כֻּלְּכֶ֔ם לִפְנֵ֖י יְהֹוָ֣ה 
-			אֱלֹֽהֵיכֶ֑ם
+     ט אַתֶּ֨ם נִצָּבִ֤ים הַיּוֹם֙ כֻּלְּכֶ֔ם לִפְנֵ֖י יְהֹוָ֣ה
+   אֱלֹֽהֵיכֶ֑ם
 </p>
 <p>
 9. You are all standing this day before the Lord, your God the leaders of your tribes, your elders and your officers, every man of Israel,
@@ -33,7 +33,7 @@ n29:10] <b>טפכים </b>&mdash; <i>Your small children</i>. The future of the 
 
 <blockquote>
 <p dir="rtl">
- 	  	יא לְעָבְרְךָ֗ בִּבְרִ֛ית יְהֹוָ֥ה אֱלֹהֶ֖יךָ וּבְאָֽלָת֑וֹ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ כֹּרֵ֥ת עִמְּךָ֖ הַיּֽוֹם
+     יא לְעָבְרְךָ֗ בִּבְרִ֛ית יְהֹוָ֥ה אֱלֹהֶ֖יךָ וּבְאָֽלָת֑וֹ אֲשֶׁר֙ יְהֹוָ֣ה אֱלֹהֶ֔יךָ כֹּרֵ֥ת עִמְּךָ֖ הַיּֽוֹם
 </p>
 <p>
 11. that you may enter the covenant of the Lord, your God, and His imprecation, which the Lord, your God, seals with you this day,
@@ -130,7 +130,7 @@ n29:19] <b>וּמָחָ֤ה יְהֹוָה֙ אֶת־שְׁמ֔וֹ מִתַּ֖
 </p>
 </blockquote>
 
-n29:28] <b>הנסתרות לה’ ־ </b>&mdash; <i>the hidden [sins] are for G-d</i>.
+n29:28] <b>הנסתרות לה' ־ </b>&mdash; <i>the hidden [sins] are for G-d</i>.
 
 ## Deuteronomy Chapter 30
 
@@ -177,7 +177,7 @@ n29:28] <b>הנסתרות לה’ ־ </b>&mdash; <i>the hidden [sins] are for G-
 </p>
 יב לֹ֥א בַשָּׁמַ֖יִם הִ֑וא לֵאמֹ֗ר מִ֣י יַֽעֲלֶה־לָּ֤נוּ הַשָּׁמַ֨יְמָה֙ וְיִקָּחֶ֣הָ לָּ֔נוּ וְיַשְׁמִעֵ֥נוּ אֹתָ֖הּ וְנַֽעֲשֶֽׂנָּה:
 <p dir="ltr">
-12. It is not in heaven, that you should say, "Who will go up to heaven for us and fetch it for us, to tell [it] to us, so that we can fulfill it?" 	  	
+12. It is not in heaven, that you should say, "Who will go up to heaven for us and fetch it for us, to tell [it] to us, so that we can fulfill it?"     
 </p>
 יג וְלֹֽא־מֵעֵ֥בֶר לַיָּ֖ם הִ֑וא לֵאמֹ֗ר מִ֣י יַֽעֲבָר־לָ֜נוּ אֶל־עֵ֤בֶר הַיָּם֙ וְיִקָּחֶ֣הָ לָּ֔נוּ וְיַשְׁמִעֵ֥נוּ אֹתָ֖הּ וְנַֽעֲשֶֽׂנָּה:
 <p dir="ltr">
@@ -206,7 +206,7 @@ n29:28] <b>הנסתרות לה’ ־ </b>&mdash; <i>the hidden [sins] are for G-
 </p>
 יח הִגַּ֤דְתִּי לָכֶם֙ הַיּ֔וֹם כִּ֥י אָבֹ֖ד תֹּאבֵד֑וּן לֹא־תַֽאֲרִיכֻ֤ן יָמִים֙ עַל־הָ֣אֲדָמָ֔ה אֲשֶׁ֨ר אַתָּ֤ה עֹבֵר֙ אֶת־הַיַּרְדֵּ֔ן לָב֥וֹא שָׁ֖מָּה לְרִשְׁתָּֽהּ:
 <p dir="ltr">
-18. I declare to you this day, that you will surely perish, and that you will not live long days on the land, to which you are crossing the Jordan, to come and take possession thereof. 
+18. I declare to you this day, that you will surely perish, and that you will not live long days on the land, to which you are crossing the Jordan, to come and take possession thereof.
 </p>
 יט הַֽעִדֹ֨תִי בָכֶ֣ם הַיּוֹם֘ אֶת־הַשָּׁמַ֣יִם וְאֶת־הָאָ֒רֶץ֒ הַֽחַיִּ֤ים וְהַמָּ֨וֶת֙ נָתַ֣תִּי לְפָנֶ֔יךָ הַבְּרָכָ֖ה וְהַקְּלָלָ֑ה וּבָֽחַרְתָּ֙ בַּֽחַיִּ֔ים לְמַ֥עַן תִּֽחְיֶ֖ה אַתָּ֥ה וְזַרְעֶֽךָ:
 <p dir="ltr">
@@ -214,13 +214,13 @@ n29:28] <b>הנסתרות לה’ ־ </b>&mdash; <i>the hidden [sins] are for G-
 </p>
 כ לְאַֽהֲבָה֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ לִשְׁמֹ֥עַ בְּקֹל֖וֹ וּלְדָבְקָה־ב֑וֹ כִּ֣י ה֤וּא חַיֶּ֨יךָ֙ וְאֹ֣רֶךְ יָמֶ֔יךָ לָשֶׁ֣בֶת עַל־הָֽאֲדָמָ֗ה אֲשֶׁר֩ נִשְׁבַּ֨ע יְהֹוָ֧ה לַֽאֲבֹתֶ֛יךָ לְאַבְרָהָ֛ם לְיִצְחָ֥ק וּלְיַֽעֲקֹ֖ב לָתֵ֥ת לָהֶֽם:
 <p dir="ltr">
-20. To love the Lord your God, to listen to His voice, and to cleave to Him. For that is your life and the length of your days, to dwell on the land which the Lord swore to your forefathers to Abraham, to Isaac, and to Jacob to give to them. 
+20. To love the Lord your God, to listen to His voice, and to cleave to Him. For that is your life and the length of your days, to dwell on the land which the Lord swore to your forefathers to Abraham, to Isaac, and to Jacob to give to them.
 </p>
 </blockquote>
 
 n30:1] <b>והשָׂבות אל־לבבךָ </b>&mdash; <i>then you will take it to heart</i>. It is not enough to know intellectually that the service of G-d is right. One must feel it emotionally as well &mdash; _take it to heart_.
 
-n30:3-4] <b>ושׁב ה’ ־ </b>&mdash; <i>Then G-d ... will bring back</i>. The better word for _bring back_ is <b>והשׁיב</b>. The word <b>ושׁב</b>means literally _return with_, implying that G-d Himself, as it were, as in exile and will return from exile together with the Jewish people. (_Rashi_)
+n30:3-4] <b>ושׁב ה' ־ </b>&mdash; <i>Then G-d ... will bring back</i>. The better word for _bring back_ is <b>והשׁיב</b>. The word <b>ושׁב</b>means literally _return with_, implying that G-d Himself, as it were, as in exile and will return from exile together with the Jewish people. (_Rashi_)
 
 n30:6] <b>וּמָ֨ל יְהֹוָ֧ה אֱלֹהֶ֛יךָ אֶת־לְבָֽבְךָ֖ וְאֶת־לְבַ֣ב</b> &mdash; <i>Will circumcise your heart</i>. One you repent, G-d will help you by "circumcising your heart", meaning that he will help you overcome the hurdles the Evil inclination always places in the way. Unlike the physical foreskin, which must be removed by people, G-d will remove the spiritual impediment to total repentence (_Ibn Ezra_).
 
@@ -256,5 +256,3 @@ n30:20] <b>לְאַֽהֲבָה֙ אֶת־יְהֹוָ֣ה אֱלֹהֶ֔יךָ 
 
 [^1]: I would like to extend this further, including all those who are willing to follow the covenant with G-d, a spiritual path laid out in our guidebook, the Torah.
 [^2]: The Torah, as the foundation, but the necessity of accepting G-d's Oneness, in addition to His Mercy, and practice listening to His Voice.
-[^3]: follow my heart's desires (_Chabad_)
-[^4]: in order to add the [punishment for the] unintentional sins [of this man] to that of [his] intentional sins (_Chabad_)

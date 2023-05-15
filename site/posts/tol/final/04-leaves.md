@@ -17,12 +17,12 @@ As we build this network of connections, we group the members into cells, or aff
 
 This group will then meet at least once a week to discuss any relevant issues or needs. It is estimated that approximately two hours per week will be sufficient. If there is interest, or research regarding a proposal that you want to present, more time or energy can be offered.
 
-Each member of the group can collaborate with an individual, called his/her shadow, or partner. This member has equal status, but the two will always work in tandem. They can both attend meetings and be as active as they wish, but in the af-group meetings, they must only speak with one voice. This is in order to reduce the demands of the tree, so that it does not weigh too heavily on one person. If the member is busy or needs a break, their shadow can step in. This rule is designed to keep one’s spouse or partner in the loop, without them being required to fully participate. Thus the actual size of the cell may contain up to 20 people.
-However, for clarity, we will refer to the af-group as having generally 10 members – which we can call “active” members.
+Each member of the group can collaborate with an individual, called his/her shadow, or partner. This member has equal status, but the two will always work in tandem. They can both attend meetings and be as active as they wish, but in the af-group meetings, they must only speak with one voice. This is in order to reduce the demands of the tree, so that it does not weigh too heavily on one person. If the member is busy or needs a break, their shadow can step in. This rule is designed to keep one's spouse or partner in the loop, without them being required to fully participate. Thus the actual size of the cell may contain up to 20 people.
+However, for clarity, we will refer to the af-group as having generally 10 members – which we can call "active" members.
 The benefits of this format are:
 
-- To root the tree in the “real” world of people and their concerns.
+- To root the tree in the "real" world of people and their concerns.
 - To allow for personal ID verification.
-- To reduce the amount of extraneous “noise” on the tree.
+- To reduce the amount of extraneous "noise" on the tree.
 - To be able to contain erratic behaviour of individuals.
 - To deal with disputes – as the dispute mechanism will propagate the same way. {See [Disputes](..html)}

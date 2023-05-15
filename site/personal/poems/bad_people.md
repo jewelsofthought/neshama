@@ -12,7 +12,7 @@ modified: 2022-06-14
 מודה אני לפנך … שהכזרתה בי את נשמתי
 </h3>
 <p dir="ltr" style="text-align: right">
-"Thank you for returning my soul to me”
+"Thank you for returning my soul to me"
 <p>
 
 Bad people versus good people,

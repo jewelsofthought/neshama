@@ -132,7 +132,7 @@ After having received the words from G-d, Moses assembled the elders and placed 
 
 v9-10] Cloud
 
-God says, "I will speak to you from the thickness of the cloud, so that they people can hear, and so that they will believe in me" (v9). [**Note**: Yet, according to the narrative, G-d summons Moses to ascend the mountain, who then transmits it to the elders, etc.]{.note} "Go to the people" (v11). [**Note**: Also contradicts v9. If the people can hear G-d speaking from the cloud, why would Moses need to repeat everything to them?]{.note} Today and tomorrow, prepare, wash your garments (v10). On the third day [’ה]{dir="rtl"} will descend before the people"
+God says, "I will speak to you from the thickness of the cloud, so that they people can hear, and so that they will believe in me" (v9). [**Note**: Yet, according to the narrative, G-d summons Moses to ascend the mountain, who then transmits it to the elders, etc.]{.note} "Go to the people" (v11). [**Note**: Also contradicts v9. If the people can hear G-d speaking from the cloud, why would Moses need to repeat everything to them?]{.note} Today and tomorrow, prepare, wash your garments (v10). On the third day ['ה]{dir="rtl"} will descend before the people"
 
 v12-13] Boundaries
 God continues: "Set boundaries for the people, that none shall approach the mount, lest they die (v12). No hand shall touch the mountain, lest they die. When the ram's horn sounds, the people may ascend the mountain (v13).

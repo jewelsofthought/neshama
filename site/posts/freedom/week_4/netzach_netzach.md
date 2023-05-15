@@ -16,7 +16,7 @@ date: 2022-05-10T03:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Netzach she’b Netzach</h2>
+<h2>Netzach she'b Netzach</h2>
 <span dir="rtl"><b>הָיום חְַמִשָּׁה וְעֶשְׂרִים יָוֹם שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וְאַרְבָּעָה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is twenty-five days, which is three weeks and four days of the Omer</i>

@@ -13,8 +13,10 @@ stars: "***"
 4. [Which direction?](#which-direction)
 5. [Numbers](#numbers)
 6. [Finite Beings](#finite-beings)
+7. [Finite in Infinite](#finite-in-infinite)
+8. [Circuit](#circuit)
 
-> “What is to give light must endure burning.” Viktor Frankl
+> "What is to give light must endure burning." Viktor Frankl
 
 ## Infinite Infinities
 
@@ -87,3 +89,18 @@ As finite beings, although fashioned from the cloth/image of the Infinite Supern
 In [Good & Evil](../../neshama/good_evil/) :: [Infinite Thoughts](/posts/neshama/good_evil/index.html#infinite-thoughts)
 
 [Hero's Journey](../../neshama/journey/) :: a journey into infinity
+
+## Finite in Infinite
+
+As with everything, we intuit the opposite then make our choice. When we make a mistake, by its very definition, is saying that there is a "correct". That there is a place where there is no mistake. For that is the duality we live in. Just as the flight plan is constantly adjusted, it helps to know that you will be wrong, that there is an error in your assessment always. That your purpose is to constantly adjust - the statement of constant faith – towards the goal of perfection. Though when you do achieve it,, you get a definite high, called a "moment of grace" – but that is only for a moment. Thus accept that I will err and re-adjust.
+
+If you can imagine (see) finite, you can intuit infinite. Take the number line, start at any number, continue till you reach the largest number you can. There will always be another number beyond that. In other words, any number you choose will always be less than infinity. We facilely jump between the finite and the infinite. This is a basic error for how does the infinite become finite? The very question of creation. Or vice versa?
+Infinite cannot exist in a finite object. However the finite world is a piece of the Infinite (or exists in it). So the infinite $$({\aleph}^0$$) is postulated as an infinite amount of finite objects. It does not mean that when we reach infinity all these objects are annihilated. In fact, they multiply. They increase immeasurably. Now, what if there is an infinite amount of these infinities? What if there are infinite amount of infinities infinite times, etc... That is the Infinity that we refer to as Nothingness. For it is not infinite, it is no-thing - uncountable, as it contains all the objects, and non-objects that were, are and will be there.
+
+## Circuit
+
+> The Source might be infinite but the life that I experience is not. Nothing is infinite in this existence.
+
+If a point had to try to include infinity, it would surely be like energy trying to flow into a vessel that is too small. A number of things can happen. The the circuit burns out and you die. The circuit reroutes the energy into another part of the system and you go crazy. The energy makes it through but burns gates on the way. Now energy can flow in and out but will be travel along other routes as well. So, this one becomes an Acher, an apostate, in other words, where there is One he sees two.  However, for one the energy flows in and out correctly ... with the aid of God.
+
+Now R' Akiva only emerged through the aid of God. That is correct. Everything can only happen because of God. However, it also presupposes a personal God. One that cares about R' Akiva himself, particularly. Now the principle is that as long as you serve God, obey His will, will you be aided by Him. The mystery, in the end is to understand the principle that R' Akiva was practising that enlisted the so-called "aid of G-d". In other words, what did he know that I don't?

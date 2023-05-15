@@ -12,7 +12,7 @@ modified: 2023-12-28
 Sitting at the coffee shop in Gloucester.
 Having many thoughts on the journey here.
 Thoughts about sex
-& the man’s desire
+& the man's desire
 to devour the female;
 where he becomes predator
 and

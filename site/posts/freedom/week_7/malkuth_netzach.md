@@ -5,10 +5,23 @@ tags: null
 date: 2022-05-31T01:04:00.000Z
 ---
 
-<div style="font-weight: bold; text-align:center">
-<h2>Netzach she’b Malkuth</h2>
-<i>Day Four of Week 7:</i> 
-<p>Victory in Receiving</p>
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
+
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week7/7.4-Netzach_in_Malkhut.png' target="_blank">
+   <img src='/posts/img/freedom/week7/7.4-Netzach_in_Malkhut_s.png' alt='Netzach in Malkhut' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
+<h2>Netzach she'b Malkhut</h2>
+<span dir="rtl"><b>הָיום שִׁשָּׁה וְארבעים יָוֹם שֶׁהֵם שִׁשָּׁה שָׁבוּעוֹת וְאַרְבָּעָה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is forty-six days, which is six weeks and four days of the Omer</i>
+</p>
+
+<h4>Victory/Success in Receiving</h4>
 
 </div>
 

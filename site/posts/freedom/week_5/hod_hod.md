@@ -15,7 +15,7 @@ date: 2022-05-18T04:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Hod she’b Hod</h2>
+<h2>Hod she'b Hod</h2>
 <span dir="rtl"><b>הָיום שְׁלוֹשָׁה וְשׁלושׁים יָוֹם שֶׁהֵם ארבעה שָׁבוּעוֹת וְחְַמִשָּׁה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is thirty-three days, which is four weeks and five days of the Omer</i>
@@ -32,9 +32,9 @@ Be humble for its own sake. Examine your humility for its genuineness. Everyone 
 
 </div>
 
-The thirty-third day of our counting is _Lag B’Omer_, named from the Hebrew letters that stand for the number 33. This is a special day of celebration during the actual Omer period, a day of great light and rejoicing. According to some mystics, the number 33 is the highest of the numbers in the progression of spiritually significant numbers 11 and 22.
+The thirty-third day of our counting is _Lag B'Omer_, named from the Hebrew letters that stand for the number 33. This is a special day of celebration during the actual Omer period, a day of great light and rejoicing. According to some mystics, the number 33 is the highest of the numbers in the progression of spiritually significant numbers 11 and 22.
 
-In this week of **Hod**, the _sefirah_ called “Glory”, this is the day of **Hod** in **Hod**. The Light radiates fully at the left leg. This eighth _sefirah_ symbolises the physical forms through which we perceive and understand our world, so this is a day for celebrating the sensations through which Spirit manifests in our world. Form limits the Force of Spirit, yet at the same time allows it to operate as the expression of Creation. This is a day to celebrate the Creation that expresses through the forms in which we live, particularly focusing on the form of our sensations.
+In this week of **Hod**, the _sefirah_ called "Glory", this is the day of **Hod** in **Hod**. The Light radiates fully at the left leg. This eighth _sefirah_ symbolises the physical forms through which we perceive and understand our world, so this is a day for celebrating the sensations through which Spirit manifests in our world. Form limits the Force of Spirit, yet at the same time allows it to operate as the expression of Creation. This is a day to celebrate the Creation that expresses through the forms in which we live, particularly focusing on the form of our sensations.
 
 We are such amazing beings. We can know forms which constrict the energies available to us, and robe the universe with that which we might give it. We can know forms far too great for the energy we realise, and so experience greater and greater levels of frustration. **Hod** holds the possibility of empirical forms which most joyfully and appropriately expresses the energies it holds, and it is this possibility which we celebrate today.
 

@@ -182,7 +182,7 @@ n17:16] [וְנָשׂא עוֹנוֹ]{dir="rtl} &mdash; _He shall bear his iniqui
 
 The Torah sets forth the prohibitions, in line with the principle that [אין עונשׁים אלא אם כּן מזהירין]{dir="rtl"}, _they do not punish unless they give a warning_.
 
-n18:2] [אני ה’]{dir="rtl"} &mdash; _I am **HaShem**_
+n18:2] [אני ה']{dir="rtl"} &mdash; _I am **HaShem**_
 
 Normally Moses' face was covered with a veil, because the people could not tolerate the holiness on his face (_Exodus_ 34:29-35). When he conveyed the word of G-d to the people, however, he would remove the veil, so it would be clear to the people that they were hearing the Divine command. (_Ramban_)
 
@@ -218,7 +218,7 @@ These following verses detail all the different forms of sexual relationships th
 
 > _Wherever one finds safeguards of chastity, there one finds holiness_ (Vayikra Rabbah_ 24:6).
 
-n18:6] [אני ה’]{dir="rtl"} &mdash; Immorality becomes the norm of sophisticated people. To such people, the strictures of the Torah may seem like inexplicable decrees.
+n18:6] [אני ה']{dir="rtl"} &mdash; Immorality becomes the norm of sophisticated people. To such people, the strictures of the Torah may seem like inexplicable decrees.
 
 n18:7] [עֵרְוָה]{dir="rtl"} &mdash; _nakedness_ or _shame_. Immorality "exposes" something that should properly be covered, and can be rendered as _shame_.
 

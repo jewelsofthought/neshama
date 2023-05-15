@@ -14,7 +14,7 @@ date: 2022-05-06T01:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Malchut she’b Tiferet</h2>
+<h2>Malchut she'b Tiferet</h2>
 <span dir="rtl"><b>הָיום אֵֶחָד וְעֶשְׂרִים יָוֹם שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is twenty-one days, which is three weeks of the Omer</i>

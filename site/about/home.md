@@ -18,11 +18,11 @@ date:
 
 ## Neshamah in Hogsback
 
-We refer to the work we do here as Soul Work – hence we have called our space **“Neshamah”**.
+We refer to the work we do here as Soul Work &mdash; hence we have called our space **Neshamah**.
 
 We recognize _Neshamah_ in those seeking true spirituality. There is only one path to true spirituality; even though it has different cloaks. All ancient paths to true spirituality require discipline, practice, commitment, discernment, integrity and humility.
 
-As one can only speak from one’s heart to another’s, so one can only do soul work from one soul to another, and in sacred space. And the only way to communicate soul-to-soul is through a hollow bone, a n “empty” channel.
+As one can only speak from one's heart to another's, so one can only do soul work from one soul to another, and in sacred space. And the only way to communicate soul-to-soul is through a hollow bone, a n "empty" channel.
 
 The soul manifests through three elements, thought, emotion and action, yet its source is none of them, but it contains all three. Just as the soul may have levels that we need to explore rung by rung, so we need to gather the tools we will need for our journey from the wilderness to ascending Mount Horeb, the Mountain of Destruction, or would it be less scary to use its real name - the Mountain of Infinity.
 

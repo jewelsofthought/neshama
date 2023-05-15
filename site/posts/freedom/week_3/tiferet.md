@@ -47,7 +47,7 @@ The right side of the Tree signifies force, and the left side, form.[^1] The cen
 
 There are many representations of the Tree which have all the _sefirot_, except **Malchut**, directly connected to Tiferet at the centre. This signifies **Tiferet** as the axis around which all of the other _sefirot_ turn, the centre of the spinning wheel of life. If it is in its place and balanced, it can provide the center of balance between all the different forms and energies of all the other _sefirot_
 
-The identity at **Tiferet** is the Inclusive “I”, the inclusive shared Self behind the exclusive ego-self. In **Tiferet**, there is a balance between the self which resides in the body and the Universal Self that exists beyond differentiation. Here the upper and lower worlds are connected.
+The identity at **Tiferet** is the Inclusive "I", the inclusive shared Self behind the exclusive ego-self. In **Tiferet**, there is a balance between the self which resides in the body and the Universal Self that exists beyond differentiation. Here the upper and lower worlds are connected.
 
 **Tiferet** is the Heart of the Tree, reflected as the heart-space within each one of us. It provides a central focus, a place of deepening of compassionate awareness.
 
@@ -55,7 +55,7 @@ If the central pillar is the place of balance, it must also be the place of tens
 
 Breath is one of the keys to the opening of **Tiferet**-awareness. The Zohar urges, "Breathe like the ocean rises and falls and never becomes full." The breath is received and released fully&mdash;expansion and contraction&mdash;all in the service of Life.
 
-The vowel sounds at **Tiferet** are often experienced as “Ah”, while “Oh” is the sound at **Yesod**, and “Ee” as the sound at **Keter**. In your meditations, you might try these sounds and see what unfolds for you.
+The vowel sounds at **Tiferet** are often experienced as "Ah", while "Oh" is the sound at **Yesod**, and "Ee" as the sound at **Keter**. In your meditations, you might try these sounds and see what unfolds for you.
 
 <div style="text-align: center; font-size: 130%">
 The Name of G-d<br />
@@ -66,7 +66,7 @@ is <em>Adonai</em>,
 </h4>
 </div>
 
-The Name of G-d at **Tiferet** is pronounced _Adonai_, "Eternal One", but is written **יהוה** (the Hebrew letters _Yod-Kay-Vav-Kay_). This Name, which is not pronounced, was often translated as “Lord”, but is nowadays referred to as **Ha’Shem**. This name is not pronounced as it is written because it speaks of That Which Is Beyond Name.[^2]
+The Name of G-d at **Tiferet** is pronounced _Adonai_, "Eternal One", but is written **יהוה** (the Hebrew letters _Yod-Kay-Vav-Kay_). This Name, which is not pronounced, was often translated as "Lord", but is nowadays referred to as **Ha'Shem**. This name is not pronounced as it is written because it speaks of That Which Is Beyond Name.[^2]
 
 This four-letter name is known as the tetragrammaton, and whenever it appears in the Hebrew Bible or in prayer texts, we pronounce the word _Adonai_. It is important to remember that _Adonai_ is a totally different word which more literally translates as "Eternal Being."
 
@@ -103,4 +103,4 @@ For a fuller explanation and diagrams, see the ["Engine of Emergence"](/posts/qk
 ---
 
 [^1]: It is not only the balance between force and form, but also in the upper realm, between the expression of Mercy/Compassion versus the structures of Judgement/Strength. In the lower realm, it mediates the expression between physical force and physical forms.
-[^2]: The names, the unnameable – any appellation you give to **Ha’Shem** will reduce it. It can only be described by what it is not, never by what it is.
+[^2]: The names, the unnameable – any appellation you give to **Ha'Shem** will reduce it. It can only be described by what it is not, never by what it is.

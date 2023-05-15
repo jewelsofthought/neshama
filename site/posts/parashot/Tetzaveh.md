@@ -11,7 +11,7 @@ modified: 2022-03-04T00:46:25.572Z
 
 ### In depth
 
-The word _tetzaveh_, “you shall command,” also means “you shall connect” and “you shall bond.”
+The word _tetzaveh_, "you shall command," also means "you shall connect" and "you shall bond."
 
 ---
 
@@ -19,7 +19,7 @@ _That they bring to you pure olive oil . . . to raise an everlasting lamp . . . 
 
 <figure class='quote'>
   <p>
-    For such is our mission in life: to impart the eternity and perfection of the Divine to a temporal world, and to do so not by annihilating or overwhelming the world’s temporality and diversity, but by illuminating its every state and condition&mdash;from “evening” to “morning”&mdash;with the divine light.
+    For such is our mission in life: to impart the eternity and perfection of the Divine to a temporal world, and to do so not by annihilating or overwhelming the world's temporality and diversity, but by illuminating its every state and condition&mdash;from "evening" to "morning"&mdash;with the divine light.
   </p>
   <figcaption>&mdash;(Lubavitzer Rabbi)</figcaption>
 </figure>
@@ -30,7 +30,7 @@ _Pure olive oil, crushed for the light (27:20)_
 
 <figure class='quote'>
   <p>
-    Just as the olive yields light only when it is pounded, so are man’s greatest potentials realized only under the pressure of adversity.
+    Just as the olive yields light only when it is pounded, so are man's greatest potentials realized only under the pressure of adversity.
   </p>
   <figcaption>&mdash;(The Talmud)</figcaption>
 </figure>

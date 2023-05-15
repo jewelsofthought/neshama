@@ -7,9 +7,9 @@ modified: 2022-08-15T17:48:59.753Z
 ---
 
 1. [Quotes](#quotes)
-2. [R’ Y”mba quotes](#r-ymba-quotes)
+2. [R' Y"mba quotes](#r-ymba-quotes)
    1. [Every Idea](#every-idea)
-   2. [Insurace](#insurace)
+   2. [Insurance](#insurance)
    3. [Words](#words)
    4. [Errors](#errors)
    5. [Victory](#victory)
@@ -29,7 +29,7 @@ modified: 2022-08-15T17:48:59.753Z
 15. [Power (ToL)](#power-tol)
 16. [Constraint (ToL)](#constraint-tol)
 17. [Priesthood](#priesthood)
-18. [Governance in the global space.](#governance-in-the-global-space)
+18. [Governance in the global space](#governance-in-the-global-space)
 19. [Labour](#labour)
 20. [Tools need Tools](#tools-need-tools)
 21. [Technology \& Solutions](#technology--solutions)
@@ -57,8 +57,10 @@ modified: 2022-08-15T17:48:59.753Z
 43. [Magic of Technology](#magic-of-technology)
 44. [Ghetto](#ghetto)
 45. [Power](#power)
-46. [Culpibility](#culpibility)
+46. [Culpability](#culpability)
 47. [Information gathering](#information-gathering)
+48. [Institutions](#institutions)
+49. [Chaos](#chaos)
 
 ---
 
@@ -77,13 +79,13 @@ modified: 2022-08-15T17:48:59.753Z
 
 ---
 
-## R’ Y”mba quotes
+## R' Y"mba quotes
 
 ### Every Idea
 
-> “Every bad idea has many good reasons”.
+> "Every bad idea has many good reasons".
 
-### Insurace
+### Insurance
 
 > Insurance is an interesting vehicle for paying forward for a service that you might never receive.
 
@@ -101,7 +103,7 @@ The only way to fight an organised enemy is with stealth &ndash; organised as a 
 
 ### New Age Movement
 
-The so-called “New Age” movement is, at its essence negative. It spends most of its time and energy criticizing the present paradigm, instead of focusing on envisioning and creating a new one.
+The so-called "New Age" movement is, at its essence negative. It spends most of its time and energy criticizing the present paradigm, instead of focusing on envisioning and creating a new one.
 
 ## Specialisation
 
@@ -159,7 +161,7 @@ They see how powerful someone or some nation is and they aspire to obtain some o
 
 ## Constraint (ToL)
 
-All aberrant behaviour occurs due to “unnatural” or excessive or unnecessary constraint – which is the exclusive abode of human existence.
+All aberrant behaviour occurs due to "unnatural" or excessive or unnecessary constraint – which is the exclusive abode of human existence.
 &nbsp;&nbsp;&nbsp;&mdash;
 
 ---
@@ -172,7 +174,7 @@ Amen.
 
 ## Governance in the global space
 
-Humanity is rediscovering its commons: the self-organized management of resources which people need for their survival and livelihood. The ethic of commoning is based on the recognition that a person has the right to a means of sustenance without interference or harm from others. In this sense, the commons are an inclusive expression of the right to life and the right to justice.
+Humanity is rediscovering its commons: the self-organized management of resources which people need for their survival and livelihood. The ethic of the commons is based on the recognition that a person has the right to a means of sustenance without interference or harm from others. In this sense, the commons are an inclusive expression of the right to life and the right to justice.
 
 Our greatest challenge is not the risk of environmental collapse, resource wars, scarcity diasporas, oppressive rulers or rancorous disputes over why future generations are denied the opportunity to live in a peaceful and equitable society. Our true task is the creation of inclusionary institutions for sustainable resource production and provisioning as the various crises bear down upon the world.
 
@@ -184,7 +186,7 @@ This Tree of Life Network is envisaged as a platform upon which we can begin to 
 
 ## Labour
 
-We have made a commodity of labour, separating a person’s labour from the person. Thus we can then quantify the labour, referring to the people as the “labour force” and use it, separate from the “life force” of the person. In this way we can justify using a person’s labour and not compensating them sufficiently to sustain their lives, having separated their labour from their lives &mdash; from who, or what, they are.
+We have made a commodity of labour, separating a person's labour from the person. Thus we can then quantify the labour, referring to the people as the "labour force" and use it, separate from the "life force" of the person. In this way we can justify using a person's labour and not compensating them sufficiently to sustain their lives, having separated their labour from their lives &mdash; from who, or what, they are.
 
 In the same way we have commodified play and leisure.
 
@@ -196,11 +198,11 @@ We have been treating animals the same way - as units of production.
 
 The activities of this world are still driven by the enfranchised of the world as opposed to the disenfranchised, creating an ever-widening gap. With a legal system now enshrining our inability to bridge it. Carried along with our knowledge of the truth of the need to close this gap, which requires acknowledging the equivalent humanness of each and every one, we are frozen with the fear of making the jump, holding onto all our "things", feeding the patterns we know, all the time, fearing their demise.
 
-We live on the razor edge of this contradiction. How come we are so blessed, surrounded by all this wealth? Are those we deem poor, poor in spirit too? Is not this very structure based on the belief that the experience of poverty is a lesser spiritual experience than that of wealth? But that is not true, say our sages. For it depends on that person’s relationship to his wealth or poverty that will determine his essential spiritual experience.
+We live on the razor edge of this contradiction. How come we are so blessed, surrounded by all this wealth? Are those we deem poor, poor in spirit too? Is not this very structure based on the belief that the experience of poverty is a lesser spiritual experience than that of wealth? But that is not true, say our sages. For it depends on that person's relationship to his wealth or poverty that will determine his essential spiritual experience.
 
 We could generalise this to say that our spiritual experience is defined and determined by our relationship to the material things of our life.
 
-This might seem like a contradiction, in that we generally judge a person's spirituality by their relationship to the non-material, the Divine nature of things. However, it is extremely difficult to judge the truth of that. As we have been born into this material world, and our work is here to express the Divine in the material. It is thus through our relationship to the "real", the material, aspects of the world that it is possible to judge how materialisticly or spiritually biased a person is.
+This might seem like a contradiction, in that we generally judge a person's spirituality by their relationship to the non-material, the Divine nature of things. However, it is extremely difficult to judge the truth of that. As we have been born into this material world, and our work is here to express the Divine in the material. It is thus through our relationship to the "real", the material, aspects of the world that it is possible to judge how materialistically or spiritually biased a person is.
 
 ## Technology & Solutions
 
@@ -302,19 +304,19 @@ In order to effect change, one has to find those responsible for the issue in qu
 
 ## Losing it (ToL)
 
-We’re really losing it. The symbol of a raised hand, nails manicured to perfection. White, soft holding a small, almost heart-shaped device, with a small space at the bottom, and a flattened top. It has a small, square screen in the middle. It is “the no-fuss mobile Info” device. When you are in the city, you can get a list of restaurants, directions, and events around the city… what happened to spontaneity? We will not have to talk to people to get directions anymore. Will the experience be enhanced, as technology always claims?
+We're really losing it. The symbol of a raised hand, nails manicured to perfection. White, soft holding a small, almost heart-shaped device, with a small space at the bottom, and a flattened top. It has a small, square screen in the middle. It is "the no-fuss mobile Info" device. When you are in the city, you can get a list of restaurants, directions, and events around the city… what happened to spontaneity? We will not have to talk to people to get directions anymore. Will the experience be enhanced, as technology always claims?
 
 It is as if we have become fascinated with our own magic. And it is magical, the life we live. Talking to one another over long distances. Watching pictorial and aural representations projected over huge areas and distances, making a kind of ritual out of it. For we can all experience the same moments through the commonality of TV. It is similar to the Passover ritual for the Jews, where there are millions of people all over the world, who will be celebrating the same event, in very similar ways, reading the same story, eating similar food. Investigating the outer and inner reaches of the universe we are aware of, with tools and mechanisms, which only the high priests of science can understand.
 
 The rest of us, are just recipients of their vision. And live like rats in a cage that the Lords of Society have fashioned for us to be experimented upon. Our consciousness has been turned upon ourselves, and we are not aware of the society we are fashioning. For it is no longer a singular absolute decision that we can make, but one that will affect every part of the system. This is what our high priests are reporting back to us.
 
-The same burning desire to understand the world around us. The same willingness to sacrifice everything, even themselves to understand it. In the same fashion, did the witchdoctors and priests of yore explore. And so did the rest of us listen, as we are listening now. Always with the distraction of the one’s hungry for power. The Dark Lords that tempt us, and project and reflect our own darkness, our own hunger to fulfil our every desire, even the darkest. The ones who live the life we fantasize about, so we produce the blessed ones of our desire to be recognized. Here, it is even more important to separate the _Yetzer Ha’Rah_ from the _Yetzer Ha’Tov_, the good from the evil. There is a huge difference is there not between a famous movie star and an infamous psychopath, whether a sanctioned or unsanctioned killer – though both are expressions of our dark side.
+The same burning desire to understand the world around us. The same willingness to sacrifice everything, even themselves to understand it. In the same fashion, did the witchdoctors and priests of yore explore. And so did the rest of us listen, as we are listening now. Always with the distraction of the one's hungry for power. The Dark Lords that tempt us, and project and reflect our own darkness, our own hunger to fulfil our every desire, even the darkest. The ones who live the life we fantasize about, so we produce the blessed ones of our desire to be recognized. Here, it is even more important to separate the _Yetzer Ha'Rah_ from the _Yetzer Ha'Tov_, the good from the evil. There is a huge difference is there not between a famous movie star and an infamous psychopath, whether a sanctioned or unsanctioned killer – though both are expressions of our dark side.
 
 ## Labour (ToL)
 
-We have made a commodity of labour, separating the person’s labour from the person. Thus we can quantify the labour, refer to it as a labour “force”, and use it, separately from the life of the person.
+We have made a commodity of labour, separating the person's labour from the person. Thus we can quantify the labour, refer to it as a labour "force", and use it, separately from the life of the person.
 
-This is in order to quantize a person’s labour, and thus put him in a profit making context, instead of a human one.
+This is in order to quantize a person's labour, and thus put him in a profit making context, instead of a human one.
 
 In the same way we have commodified play and leisure.
 
@@ -330,29 +332,29 @@ It is about being taught that we can create our own world, our own environment. 
 
 So, starting off as kids, where we are taught to accept the edicts handed down to us from above, whether it is by our parents, our teachers, or by any other adults. So we are born with others who have authority over us, and then we grow up to have the ultimate authority, in the name of God and his minions, describing the framework within which we are allowed to work.
 
-Thus the ultimate cage. That of the one that is defined by God, and then handed down to us by Man. We often forget that this is just a Human interpretation of the Will of the God, the Unknowable. It is fortified by the mythos that surrounds the enlightened one’s, Allah, Buddha, Mohammed, to name a few. For they, being human like us, are also supposed to be Divine.
+Thus the ultimate cage. That of the one that is defined by God, and then handed down to us by Man. We often forget that this is just a Human interpretation of the Will of the God, the Unknowable. It is fortified by the mythos that surrounds the enlightened one's, Allah, Buddha, Mohammed, to name a few. For they, being human like us, are also supposed to be Divine.
 
 Now, there are two attitudes that emerge from this.
 
-The first is that they are better, or different, than us. They are “special”. That is an attitude that fortifies the division between us. That there are those who are “special” and different, and thus deserve their differing status is life –the aristocracy, the wealthy, or even the prophets.
+The first is that they are better, or different, than us. They are "special". That is an attitude that fortifies the division between us. That there are those who are "special" and different, and thus deserve their differing status is life –the aristocracy, the wealthy, or even the prophets.
 
 Then there is the more enlightened view, which states that if they are indeed human, then they are much the same as any of us. Thus, any and all of us, have the potential to become enlightened like any of them, and thus by the same token we carry the divine seed in each of us too.
 
-Now, going back to the framework, it is an incredible testament to the creativity that we can achieve and accomplish so much within this limited structure. For, as we know, this structure, handed down to us in another human – and thus limited - interpretation. As we know, if the underlying framework is Divine, that is, part of the infinite One that is all we know and more, then the framework is essentially infinite in all directions, therefore anything’s possible.
+Now, going back to the framework, it is an incredible testament to the creativity that we can achieve and accomplish so much within this limited structure. For, as we know, this structure, handed down to us in another human – and thus limited - interpretation. As we know, if the underlying framework is Divine, that is, part of the infinite One that is all we know and more, then the framework is essentially infinite in all directions, therefore anything's possible.
 
 ## Global leadership (ToL)
 
 Harvard Business Review, Dec 2005. Regional Strategies for Global Leadership by Pankaj Ghemawat.
 
-“It is often a mistake to set out to create a worldwide strategy. Better results come from strong regional strategies, brought together into a global whole.”
+"It is often a mistake to set out to create a worldwide strategy. Better results come from strong regional strategies, brought together into a global whole."
 
 This is another concept of ToLNet.
 
-I have not yet read the article, but the graph labelled “Intraregional Trade as a Percentage of Total Trade” on p101 from “United Nations: International Trade Statistics Yearbooks, 1958 to 2000.” was fascinating. Between 1958 and 2000, rising from 55% to about 65% for Europe, from 40% up to 60% for Americas, from about 37% to 48% for Asia, dropping from 60% to 20% for Eastern Europe and former USSR, with the Middle East and Africa hovering around 10%.
+I have not yet read the article, but the graph labelled "Intraregional Trade as a Percentage of Total Trade" on p101 from "United Nations: International Trade Statistics Yearbooks, 1958 to 2000." was fascinating. Between 1958 and 2000, rising from 55% to about 65% for Europe, from 40% up to 60% for Americas, from about 37% to 48% for Asia, dropping from 60% to 20% for Eastern Europe and former USSR, with the Middle East and Africa hovering around 10%.
 
 This says that Africa and the Middle East have inefficient regional economies. And the most effective way to empower the populace would be to strengthen these local economies. This graph shows that most of the wealth of the nation is being removed and not generating must wealth for the local economies. In the fashion of the TOL, the population needs to focus on their local needs and themselves to create the infrastructure to support this. If most of the money stays in the local economy, it will give it a strong base. If it is bringing in more money than is flowing out of it, then it will become a wealthy economy.
 
-This is what shows as Americas’s pain. It is a disjoint, a disconnected culture. It abhors failure and thus requires “every man for himself”. A selfish narcissistic endeavour.
+This is what shows as Americas's pain. It is a disjoint, a disconnected culture. It abhors failure and thus requires "every man for himself". A selfish narcissistic endeavour.
 
 This makes me think that perhaps this is the way I see the universe. It is how I look at myself and my life.
 
@@ -360,13 +362,13 @@ This makes me think that perhaps this is the way I see the universe. It is how I
 
 Mystic, Mysticism and Magic – Joscelyn Godwin p148 – Johannes Kepler
 
-“Laws of the solar system as derived from the five regular solids… was the result of divine law, interpreted not just as a geometrical but also as a mystical harmony..”
+"Laws of the solar system as derived from the five regular solids… was the result of divine law, interpreted not just as a geometrical but also as a mystical harmony.."
 
 brought me to the following:
 
-1. All laws, even those that are “scientific” are expressions of divine law. For instance, the laws of gravity, are Divine laws.
-2. To look at one’s life in that manner, seeing that one is contained in surroundings filled with G-d’s laws. And that every action is a dialogue (a negotiation) with these Divine laws.
-3. That is how science co-opted religion so completely. Because these were mystics who penetrated the secrets of the universe, under the banner of science, and not under the banner of being mystics. They never for a moment thought that they were not penetrating the mind of G-d, which was, to their minds, a holy quest. So the “laws” that they “discovered” were accepted scientifically, and not mystically. Though, by the masses, they realised that they were actually mystical.
+1. All laws, even those that are "scientific" are expressions of divine law. For instance, the laws of gravity, are Divine laws.
+2. To look at one's life in that manner, seeing that one is contained in surroundings filled with G-d's laws. And that every action is a dialogue (a negotiation) with these Divine laws.
+3. That is how science co-opted religion so completely. Because these were mystics who penetrated the secrets of the universe, under the banner of science, and not under the banner of being mystics. They never for a moment thought that they were not penetrating the mind of G-d, which was, to their minds, a holy quest. So the "laws" that they "discovered" were accepted scientifically, and not mystically. Though, by the masses, they realised that they were actually mystical.
 
 ## No humans (ToL)
 
@@ -416,7 +418,7 @@ I say it is a simple by flawed system that expends a huge amount of energy and r
 
 ## Hero
 
-Although the average man is constantly regaled with tales of the hero who overcomes the evil empire, or impossible odds &mdash; there is literally no real event of that nature that has occurred because of one man alone. No man ever became emperor because of his merit or because of his power alone. Any cataclysmic social event was always carried out by a groud of dedicated men and women who were, im most cases, willing to die for what they were fighting for, and/or for what they believed in.
+Although the average man is constantly regaled with tales of the hero who overcomes the evil empire, or impossible odds &mdash; there is literally no real event of that nature that has occurred because of one man alone. No man ever became emperor because of his merit or because of his power alone. Any cataclysmic social event was always carried out by a ground of dedicated men and women who were, im most cases, willing to die for what they were fighting for, and/or for what they believed in.
 
 It is easy to forget the complexity of our existence, preferring to focus on one face, whether good or evil, with which identify with. between for and against, in simplistic, binary sense - "You're either with me, or you against me.
 
@@ -430,13 +432,13 @@ We are also very lacking in the arena of knowing what the effect of multiple tox
 
 > The extent to which you wish to give to the Creator, will be the extent to which you gain satisfaction with what you do.
 
-We’re really losing it. The symbol of a raised hand, nails manicured to perfection. White, soft holding a small, almost heart-shaped device, with a small space at the bottom, and a flattened top. It has a small, square screen in the middle. It is “the no-fuss mobile Info” device. When you are in the city, you can get a list of restaurants, directions, and events around the city… what happened to spontaneity? We will not have to talk to people to get directions anymore. Will the experience be enhanced, as technology always claims?
+We're really losing it. The symbol of a raised hand, nails manicured to perfection. White, soft holding a small, almost heart-shaped device, with a small space at the bottom, and a flattened top. It has a small, square screen in the middle. It is "the no-fuss mobile Info" device. When you are in the city, you can get a list of restaurants, directions, and events around the city… what happened to spontaneity? We will not have to talk to people to get directions anymore. Will the experience be enhanced, as technology always claims?
 
 It is as if we have become fascinated with our own magic. And it is magical, the life we live. Talking to one another over long distances. Watching pictorial and aural representations projected over huge areas and distances, making a kind of ritual out of it. For we can all experience the same moments through the commonality of TV. It is similar to the Passover ritual for the Jews, where there are millions of people all over the world, who will be celebrating the same event, in very similar ways, reading the same story, eating similar food. Investigating the outer and inner reaches of the universe we are aware of, with tools and mechanisms, that only the high priests of science can understand.
 
 The rest of us, are just recipients of their vision. And live like rats in a cage that the Lords of Society have fashioned for us to be experimented upon. Our consciousness has been turned upon ourselves, and we are not aware of the society we are fashioning. For it is no longer a singular absolute decision that we can make, but one that will affect every part of the system. This is what our high priests are reporting back to us.
 
-The same burning desire to understand the world around us. The same willingness to sacrifice everything, even themselves to understand it. In the same fashion, did the witchdoctors and priests of yore explore. And so did the rest of us listen, as we are listening now. Always with the distraction of the one’s hungry for power. The Dark Lords that tempt us, and project and reflect our own dark desires, our own hunger to fulfil our every fantasy, even the darkest. The ones who live the life we fantasize about, so we produce the blessed ones of our desire to be recognized. Here, it is even more important to separate the _Yetzer Ha’Rah_ from the _Yetzer Ha’Tov_, the good from the evil. There is a huge difference of the impact between a famous ware hero and an infamous psychopath – the one a sanctioned, the other an unsanctioned killer – both are expressions of our dark side.
+The same burning desire to understand the world around us. The same willingness to sacrifice everything, even themselves to understand it. In the same fashion, did the witchdoctors and priests of yore explore. And so did the rest of us listen, as we are listening now. Always with the distraction of the one's hungry for power. The Dark Lords that tempt us, and project and reflect our own dark desires, our own hunger to fulfil our every fantasy, even the darkest. The ones who live the life we fantasize about, so we produce the blessed ones of our desire to be recognized. Here, it is even more important to separate the _Yetzer Ha'Rah_ from the _Yetzer Ha'Tov_, the good from the evil. There is a huge difference of the impact between a famous ware hero and an infamous psychopath – the one a sanctioned, the other an unsanctioned killer – both are expressions of our dark side.
 
 ## Ghetto
 
@@ -450,9 +452,9 @@ For example, there is a group in New York City of organic farmers that began to 
 
 ## Power
 
-They see how powerful someone or some nation is and they aspire to obtain some of this power. This is the dynamic of those that desire power. So they will cater to those that have the power. So eventually one has a concentration of power (and money) in the hands of an ogligarchy with a larger and larger segment of the population being disempowered. Because this elite has a lion share of the power, they can influence such things as the information flow, and thus public opinion and actions.
+They see how powerful someone or some nation is and they aspire to obtain some of this power. This is the dynamic of those that desire power. So they will cater to those that have the power. So eventually one has a concentration of power (and money) in the hands of an oligarchy with a larger and larger segment of the population being disempowered. Because this elite has a lion share of the power, they can influence such things as the information flow, and thus public opinion and actions.
 
-## Culpibility
+## Culpability
 
 2001 8:10 AM
 
@@ -466,6 +468,24 @@ It is not the fact that they are collecting information about us. It is the inte
 
 The reason they want all this information, is not to help you (that is a side effect of the main purpose. If they do help you, then they may get your business, for their service or product becomes a perceived value add.), but to make a profit. Here is where we become the rats in the cage, our only purpose in life, as perceived by the marketeers, is to benefit their company and make them rich and profitable. For that is the ultimate purpose of existence as defined by this culture. The US having brought this motif to the level of an art form, using all the science and technology that they can muster.
 
-This has to change to be used for the benefit of us all. To track and monitor our habits desires and needs. Our purpose in life should be to ensure that we all have the means with which to express these desires and fulfil our needs, hopefully in a positive and constructive manner. Though if our ethic has changed to be one of aiding one another to achieve this, and we are rewarded appropriately, so that it becomes worth our while, and we receive the recognition that all of us yearn for, I think we will begin to see less and less incidents of destructive and non-productive behavior patterns.
+This has to change to be used for the benefit of us all. To track and monitor our habits desires and needs. Our purpose in life should be to ensure that we all have the means with which to express these desires and fulfil our needs, hopefully in a positive and constructive manner. Though if our ethic has changed to be one of aiding one another to achieve this, and we are rewarded appropriately, so that it becomes worth our while, and we receive the recognition that all of us yearn for, I think we will begin to see less and less incidents of destructive and non-productive behaviour patterns.
 
 For example, there is a group in New York City of organic farmers that began to give out free fresh fruit and vegetables in the poverty stricken areas of the 5 boroughs. By feeding the people, and eventually providing them with work, the crime rate in the area dropped, to the level that the city noticed, and began to support them financially, and use the police to help them distribute the food. Apparently, now that the people did not have to deal in drugs to feed their family, they stopped doing so. Also, now that the kids saw that there were other ways of earning a living, besides drug dealing, which was the only way of getting ahead in the ghetto, they began to take to it.
+
+---
+
+## Institutions
+
+The masses need to be bound, otherwise they enter into paroxysms of self-destruction.
+
+The institutions of yore were the anchors to which we were bound. They are crumbling, and uncertain in this time, and thus the society as a whole begins to crack.
+
+---
+
+## Chaos
+
+XO (from brown diary 2010) Feb 07, 2013:
+
+I am afraid we are heading straight for a disaster. It is not going to be a single disaster, but a series of cascading disasters that will climax in a catastrophic system failure. If the system is too centralised, then it has major nodes that if they fail will cause systemic collapse. Thus it is imperative to begin to distribute the generation of power and energy, of manufacturing and production as locally as possible. This is necessary for the survival of the system.
+
+It is essentially a participatory system, in which the participants co-operate to produce the best results for all. We could argue endlessly on the details of what is best, but we can start with what is necessary. Air, water and food are the three fundamentals of individual life. Children is a prerequisite for human life. Shelter is a necessary component for families to survive. Shelter would bring in the concept of safety and sovereignty. Let us start there.

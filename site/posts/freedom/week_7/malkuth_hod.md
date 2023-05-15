@@ -4,10 +4,23 @@ description: 'Meditation for the Forty-Seventh Day: Humble Receptivity'
 tags: null
 date: 2022-06-01T01:04:00.000Z
 ---
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
 
-<div style="font-weight: bold; text-align:center">
-<h2>Hod she’b Malkuth</h2>
-<p><i>Day Five of Week 7:</i>&nbsp;&nbsp;Humility in Receiving</p>
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week7/7.5-Hod_in_Malkhut.png' target="_blank">
+   <img src='/posts/img/freedom/week7/7.5-Hod_in_Malkhut_s.png' alt='Hod in Malkhut' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
+<h2>Hod she'b Malkhut</h2>
+<span dir="rtl"><b>הָיום שִׁבְעָה וְארבעים יָוֹם שֶׁהֵם שִׁשָּׁה שָׁבוּעוֹת וְחְַמִשָּׁה יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is forty-seven days, which is six weeks and five days of the Omer</i>
+</p>
+
+<h4>Humility in Receiving</h4>
 
 </div>
 
@@ -15,7 +28,7 @@ date: 2022-06-01T01:04:00.000Z
 
 Sovereignty is G-d's gift to each individual. **Hod** of **Malchut** is the humble appreciation of this exceptional gift. Do I appreciate the special qualities I was blessed with?
 
-Acknowledge G-d for creating you with personal dignity. Be grateful for the personal dignity with which G-d created you. Show appreciation for the special qualities you have been blessed with.
+Acknowledge G-d for creating you with personal dignity. Be grateful for the personal sovereignty with which G-d endowed you. Show appreciation for the special qualities you have been blessed with.
 
 </div>
 
@@ -27,7 +40,7 @@ Today we focus on **Hod** in **Malchut**, honouring the Physical Containment we 
 
 In our preparations for the Revelation at Sinai, we continue to seek to balance the dynamics of force and form on the Tree of Life and in ourselves as expressions of this very Tree. Our task is not to deny either aspect, but to honour both. In each are excesses and deficits that only together can be balanced.
 
-**Hod** symbolises Perceptual Form that is able to contain and express the Physical Vibrations at **Netzach**. Only **Hod** can provide creative tools to channel the energies arriving from **Netzach**. All these energetic expressions require the appropriate limitations of form&mdash;Which we refer to as “the limitations of Hod”&mdash;in order to actualise in ways supportive of our evolution.
+**Hod** symbolises Perceptual Form that is able to contain and express the Physical Vibrations at **Netzach**. Only **Hod** can provide creative tools to channel the energies arriving from **Netzach**. All these energetic expressions require the appropriate limitations of form&mdash;Which we refer to as "the limitations of **Hod**"&mdash;in order to actualise in ways supportive of our evolution.
 
 In **Malchut**, we need to remember that balance is possible, that all the myriad realities are aspects of the One, that through our consciousness we can realise the beauty and the glory of each living being.
 
@@ -41,14 +54,12 @@ I trust my journey more fully now than ever before. I am aware that the forms of
 
 <h3>Reflections</h3>
 
-
-
 <h4>Illumination</h4>
 
 <p>Why is Torah compared to light? Because it tells us the place of each thing.</p>
 
 <p>In truth, there is no need to change the world. Everything is here.
-Each thing has a place, and in that place it is good. Altogether, it is very good, a beautiful world. All that’s needed is a little light.</p>
+Each thing has a place, and in that place it is good. Altogether, it is very good, a beautiful world. All that's needed is a little light.</p>
 
 <p>What is light? Light doesn't add anything or take away. It only reveals the meaning and purpose of all that it shines upon.</p>
 
@@ -59,7 +70,6 @@ Each thing has a place, and in that place it is good. Altogether, it is very goo
 
 <div class="note">
 
-Everything in existence had and still has one single directive – to manifest. This has come under many terms, like reproduce, grow, spawn, etc. Every living thing, by the same token, is a manifestation that has its own directive, that will be expressed when the manifestation is ready, to “live”. Which is essentially the awakening of the ability to perceive certain sensations.
+Everything in existence had and still has one single directive – to manifest. This has come under many terms, like reproduce, grow, spawn, etc. Every living thing, by the same token, is a manifestation that has its own directive, that will be expressed when the manifestation is ready, to "live". Which is essentially the awakening of the ability to perceive certain sensations.
 
 </div>
-

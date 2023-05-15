@@ -15,7 +15,7 @@ date: 2022-05-02T01:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Tiferet she’b Tiferet</h2>
+<h2>Tiferet she'b Tiferet</h2>
 <span dir="rtl"><b>הָיום שִׁבְעָה עָשָׂר יָוֹם שֶׁהֵם שְׁנֶי שָׁבוּעוֹת  וּשְׁלוֹשָׁה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is seventeen days, which is two weeks and three days of the Omer</i>

@@ -15,7 +15,7 @@ date: 2022-04-20T00:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Hod she’b Chesed</h2>
+<h2>Hod she'b Chesed</h2>
 <p>
 <span dir="rtl"><b>הָיום חָמִשָׁה יָמִים לָעוֹמֵר</b></span>
 <br />
@@ -34,7 +34,7 @@ Know that the ability to love comes from a greater, higher place&mdash;from G-d.
 </p>
 </div>
 
-Today we explore **Chesed**, Lovingkindness, the expression of Love’s energies, reflected through **Hod**, Glory, the container that shines with the beauty of these energies. **Hod** represents physical form, that which limits the expression of life energy at **Netzach**. The _sefirot_ for today radiate through the body from the right shoulder to the left hip.
+Today we explore **Chesed**, Lovingkindness, the expression of Love's energies, reflected through **Hod**, Glory, the container that shines with the beauty of these energies. **Hod** represents physical form, that which limits the expression of life energy at **Netzach**. The _sefirot_ for today radiate through the body from the right shoulder to the left hip.
 
 The Universal expresses Itself in the material world. That Which Is Without Limit manifests through that which is always limited. We, who span both realities, seek our balance between the two.
 

@@ -32,7 +32,7 @@ In moments of quiet this week I explore more fully my current experience in the 
 
 ## The Sefirah on the Tree of Life
 
-**Malchut** represents the “kingdom” in which we live. It is the level of the Tree which receives from all others. Energies from the higher _sefirot_ manifest here, but they are hidden. **Malchut** is the _sefirah_ in which we lose ourselves, but it is also the place we must begin to find ourselves.
+**Malchut** represents the "kingdom" in which we live. It is the level of the Tree which receives from all others. Energies from the higher _sefirot_ manifest here, but they are hidden. **Malchut** is the _sefirah_ in which we lose ourselves, but it is also the place we must begin to find ourselves.
 
 The focus this week is to open more fully to the wonders of the kingdom in which we are living right now. Seek moments of quiet during which to give attention to the myriad of impulses with which each moment is filled. In this quiet space of receptivity, release yourself more fully to the experience of life, breathing slowly, and releasing all resistance. Everything is simply as it is right now – the present.
 
@@ -57,7 +57,7 @@ is <i>Adonai</i><br />
 </h4>
 </div>
 
-_Adonai_ literally means “Lord”, and is the word we read as a replacement for the Tetragrammaton, the unspoken four-lettered Name of G-d. Here _Adonai_ is spelled as it sounds. On a higher level, it will be the name spoken as a reflection of that Name which is beyond speech.
+_Adonai_ literally means "Lord", and is the word we read as a replacement for the Tetragrammaton, the unspoken four-lettered Name of G-d. Here _Adonai_ is spelled as it sounds. On a higher level, it will be the name spoken as a reflection of that Name which is beyond speech.
 
 ## Meditation for the Seventh Week at MALKUTH
 
@@ -73,6 +73,6 @@ Adonai open my lips, that my mouth may declare your glory.
 
 During your meditations this week, become more aware of your surroundings. In moments of quiet, allow yourself to notice more of what is going on both outside as well as inside yourself. Begin to release the resistance to aspects of your world which you are finding difficult to handle. Let be what is.
 
-Take _Adonai_ as your focus. Explore the sound, the letters, the “sense” of that name.
+Take _Adonai_ as your focus. Explore the sound, the letters, the "sense" of that name.
 
 At **Malkhut**, it is necessary to awaken to levels which are hidden, so even the Name of G-d reflects a place of possible alienation. Yet it may be through this very alienation and limitation that we can most directly awaken to the deeper whispers moving through this dimension of reality.

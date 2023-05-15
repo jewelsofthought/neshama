@@ -22,7 +22,7 @@ When can I walk
 into the space
 Promised me?
 
-All my life, I’ve
+All my life, I've
 heard the song,
 The call to service.
 

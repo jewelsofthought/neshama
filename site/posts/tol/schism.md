@@ -6,11 +6,11 @@ date: 2004-01-18T03:08:51.930Z
 modified: 2022-12-11T18:18:14.780Z
 ---
 
-https://www.learnreligions.com/the-great-schism-of-1054-4691893#toc-filioque-clause-controversy
+<https://www.learnreligions.com/the-great-schism-of-1054-4691893#toc-filioque-clause-controversy>
 
 > The Great Schism of 1054 marked the first major split in the history of Christianity, separating the Orthodox Church in the East from the Roman Catholic Church in the West. Until this time, all of Christendom existed under one body.
 
-> At the heart of the break was the Roman pope’s claim to universal jurisdiction and authority. The Orthodox Church in the East had agreed to honour the pope but believed that ecclesiastical matters should be decided by a council of bishops, and therefore, would not grant unchallenged dominion to the pope.
+> At the heart of the break was the Roman pope's claim to universal jurisdiction and authority. The Orthodox Church in the East had agreed to honour the pope but believed that ecclesiastical matters should be decided by a council of bishops, and therefore, would not grant unchallenged dominion to the pope.
 
 This is ongoing and emerged today as the War in Ukraine. The dynamic is one in which the Pope (and his descendants) rules. At this point there is an "executive" battle between the Pope and all that he represents, and the Corporate Illuminati, and all they represent.
 

@@ -29,7 +29,7 @@ We call it a "movement", because of the language we are using, though it might b
 
 ## Globalisation
 
-The story opens with someone dying. It is the story of man’s paradoxes. We always march into the future, which is unstoppable. What is peculiarly human is the desire to stop along the way to enjoy the scenery. It is not so much where we are heading, but more in the way in which we travel.
+The story opens with someone dying. It is the story of man's paradoxes. We always march into the future, which is unstoppable. What is peculiarly human is the desire to stop along the way to enjoy the scenery. It is not so much where we are heading, but more in the way in which we travel.
 
 There is a globalisation that is occurring. Humanity desires this. Our spirit wishes to be connected. Our spirit is what builds the connections. We wish to all belong to the same tribe – the human tribe, and all live in one global village, Earth. We all drink the same water and breathe the same air. So how can I say that this water is mine and I can do to it and use it in whichever way I please?
 
@@ -37,7 +37,7 @@ We say that water is public. Does that allow some to use and abuse it in whichev
 
 If we all desire this globalisation, this unit, how can we live in a system that upholds private property rights, and allows for the ownership of resources? We have to declare certain resources like air, water and land unknowable--though we are so invested in land ownership, an almost sacrosanct edit – perhaps necessarily so.
 
-But if we do not free all of these, we have to find some way to implement and acknowledge the responsibility that those who “own” these resources that affect us all, have.
+But if we do not free all of these, we have to find some way to implement and acknowledge the responsibility that those who "own" these resources that affect us all, have.
 
 We have to: 1. Stop all nuclear production immediately 2. Ban all new nuclear facilities, except those that are necessary for medical purposes. 3. Phase out all inessential military related production. Perhaps transform the military to service orientated activities. 4. Change compulsory military service into a national service orientated activity. 5. Phase out irradiation facilities. 6. Phase out nuclear, coal and oil based energy facilities, replacing them with distributed, local sustainable energy facilities. 7. Remove all non-essential chemical production, except for those that are essential to our survival. 8. Eat and produce only pesticide, chemical free foods that have not been genetically modified. 9. Support alternative and natural healing modalities and products.
 
@@ -51,7 +51,7 @@ We begin by building the support infrastructure upon which we can manifest this 
 {NOTE: This was written many years ago, and like all idealism, the reality of the dream is radically different, and becomes, in the hands of the human oligarchs, an evil and devious monster. If those who wish for power, whose greed knows no boundaries are the ones who implement such a global system, it will become a system of control and authorotarian dictatorship, and dystopian nightmare. How can those who are disempowered, and believe that they are slaves, ever become masters of their own fates, let alone the fate of the world?}
 </p>
 
-_So we have the “great reset”, agenda 2030, in which their will be a one-world government run by the global corporations carrying forth decisions that are shaped by an almost unknown, unelected global elite, whose first priority will be to ensure the continuation of their privilege and their power._
+_So we have the "great reset", agenda 2030, in which their will be a one-world government run by the global corporations carrying forth decisions that are shaped by an almost unknown, unelected global elite, whose first priority will be to ensure the continuation of their privilege and their power._
 
 There has also arisen another horseman of the Armageddon, and that is the bio-weapons. Once unleashed upon humanity, these man-made virii and amended bacteria will pursue their own agendas, and will be impossible to eradicate or remove.
 

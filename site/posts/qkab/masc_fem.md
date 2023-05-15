@@ -32,7 +32,7 @@ In my opinion, the equating of masculine energy exclusively with the man, and th
 
 ## Male & Female
 
-Dark energy -> expressed sexually: Woman as a channel for this energy. Just as the shaman throws the water that the dark entities that she has removed from the person and placed in, onto the earth to “absorb” and dissipate in the belief that Mother Earth can absorb and deal with these dark energies. Just like the earth can ground us electrically when we walk barefoot upon her skin, so the female who identifies in her body with the earth, absorbs/receives the dark energy of the masculine, and can absorb and transform it in herself.
+Dark energy -> expressed sexually: Woman as a channel for this energy. Just as the shaman throws the water that the dark entities that she has removed from the person and placed in, onto the earth to "absorb" and dissipate in the belief that Mother Earth can absorb and deal with these dark energies. Just like the earth can ground us electrically when we walk barefoot upon her skin, so the female who identifies in her body with the earth, absorbs/receives the dark energy of the masculine, and can absorb and transform it in herself.
 
 The image that comes to mind is of a cloaking, a filtering – or, on a higher level, the guiding – of the masculine by the feminine, and consists of concentric circles.
 
@@ -40,7 +40,7 @@ The image that comes to mind is of a cloaking, a filtering – or, on a higher l
   <img src='/posts/img/qkab/Diagram%20MF1%20-%20m&f.png' alt='M&F 1' width='100' height='100' />
 </figure>
 
-The male forms a circle of protection for the female. He faces outward, protecting her from external effects, thus his consciousness is focused on the outside. She works from the inside, nurturing and nourishing the internal spaces of our existence, and thus faces inward. He protects the female, not allow anything impure in, giving her space to express herself. Her’s is to allow the dynamic fire of the masculine to be expressed in the world, but needs to control it enough to be able to temper and guide it. Just as one needs to tend to a fire.
+The male forms a circle of protection for the female. He faces outward, protecting her from external effects, thus his consciousness is focused on the outside. She works from the inside, nurturing and nourishing the internal spaces of our existence, and thus faces inward. He protects the female, not allow anything impure in, giving her space to express herself. Her's is to allow the dynamic fire of the masculine to be expressed in the world, but needs to control it enough to be able to temper and guide it. Just as one needs to tend to a fire.
 
 <figure style='float: left'>
   <img src='/posts/img/qkab/Diagram%20MF1a%20-%20Dynamics.png' alt='M&F Dynamics' width='100' height='100' />
@@ -48,7 +48,7 @@ The male forms a circle of protection for the female. He faces outward, protecti
 
 This is a diagram of the universal dynamics of the Yin and the Yang. Where the divine feminine, represented by the the circle, represented space – creation, in that sense. The space in which creation can exist and be nurtured.
 
-Though Kabbalisticaly, the feminine is produces form, paradoxically in her Divine, she is space – which is the form from which everything emerges. Whereas the masculine, the Yang, is represented as the energy that induces the space to manifest, and is represented by straight lines, rather like a vector. This is because energy always moves in “straight” lines.
+Though Kabbalisticaly, the feminine is produces form, paradoxically in her Divine, she is space – which is the form from which everything emerges. Whereas the masculine, the Yang, is represented as the energy that induces the space to manifest, and is represented by straight lines, rather like a vector. This is because energy always moves in "straight" lines.
 
 ## M & F
 
@@ -102,13 +102,13 @@ To constrain our sexual urges through love of the beloved, whether it is the hum
 
 $$\lim_{n \to 0} (1/n) = \infty$$
 
-The feminine’s tendency is towards fullness. She desires to fill the space, and is thus full of connections and counterconnections, circles and curved intentions.
+The feminine's tendency is towards fullness. She desires to fill the space, and is thus full of connections and counterconnections, circles and curved intentions.
 
 $$\lim_{n \to \infty} (1/n) = 0$$
 
-The masculine’s tendency is towards nothingness, annihilation, death. His analysis is reductionist, towards the atom, the smallest particle of matter, rather than towards unification, accepting the field of consciousness. He represents the force which is the expression of nothingness in this reality. It has no body, no form – it is just pure energy.
+The masculine's tendency is towards nothingness, annihilation, death. His analysis is reductionist, towards the atom, the smallest particle of matter, rather than towards unification, accepting the field of consciousness. He represents the force which is the expression of nothingness in this reality. It has no body, no form – it is just pure energy.
 
-Adam, the primordial man, is both male and female. Jung states that the purpose of human life, is the “union of anima and animus". His name is derived from the name of the earth, _ADAMah_, which is, in essence Adam + h (_hey_). The ‘_hey_’ represents the breathe of G!d, just as the earth (אדמה adamah) needed the Divine Breath ('_hey_') in order to live...
+Adam, the primordial man, is both male and female. Jung states that the purpose of human life, is the "union of anima and animus". His name is derived from the name of the earth, _ADAMah_, which is, in essence Adam + h (_hey_). The '_hey_' represents the breathe of G!d, just as the earth (אדמה adamah) needed the Divine Breath ('_hey_') in order to live...
 
 A side note: $$H$$ is the symbol for hydrogen &mdash; which is the first, and most abundant element in the universe. It is also an essential component of both water and oil, the two liquids that comprise all living cells.
 
@@ -124,7 +124,7 @@ Yet the two are intrinsically connected. They are never truly separate, and one 
 
 Yet the masculine thrust downwards, his desire to feel the energies of the earth and its darknesses. To go against this natural pull requires dedication to the Upper Realms. It is an expression of the servant of Higher Energies.
 
-In order to receive, there has to be a “negative" or empty space.
+In order to receive, there has to be a "negative" or empty space.
 
 In receiving, the energy is drawn inward (the process of reception) and if absorbed, can then transformed to form – as in the birth of a child.
 

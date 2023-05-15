@@ -57,8 +57,8 @@ Copyright 2003 by KabbalaOnline.org. All rights reserved, including the right to
 
 ---
 
-[^1]: Thus the Baal Shem Tov explained the purpose of the _bat-kol_, or “heavenly voice" that makes various declarations. But if nobody hears them, what use are they? The answer: you may not hear it, but your _mazal_ does. (See the Rebbe’s commentary on Pirkei Avot 6:2)
-[^2]: See for example, _Likutei Sichot_ 30:223 fn. 24, cited in Yosef Jacobson’s essay "Souls on the Fringe," fn. 16.
+[^1]: Thus the Baal Shem Tov explained the purpose of the _bat-kol_, or "heavenly voice" that makes various declarations. But if nobody hears them, what use are they? The answer: you may not hear it, but your _mazal_ does. (See the Rebbe's commentary on Pirkei Avot 6:2)
+[^2]: See for example, _Likutei Sichot_ 30:223 fn. 24, cited in Yosef Jacobson's essay "Souls on the Fringe," fn. 16.
 [^2a]: _Mazal_ is reminiscent of [James Hillman's Daemon](https://toko-pa.com/2013/11/08/james-hillman-on-the-daimon/).
 [^3]: Perhaps the story of Rapunzal is based on the same teaching. She is enclosed in a tower.
 [^4]: _Atik_, "ancient," or "detached" refers to the sphere that is beyond the order of creation. In _Atik_, the Zohar says, "there is no left side"--it is beyond the source for concealment. The "hairs of _Atik_," though, i.e., the energy of _Atik_ extremely filtered, serve as the source of creation. For creation can only come into being through the concealment of the Divine.

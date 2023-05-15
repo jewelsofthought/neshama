@@ -84,7 +84,7 @@ No person can see all of humanity (not even _Moshe Rabeinu_).
 3. He is not involved in human affairs.
 4. No reward nor punishment. No need to take responsibility for the outcome of one's actions.
 
-[מנ”ה]{dir="rtl"} - He will count (each one of us). Meaning that each one of us is important to Him.
+[מנ"ה]{dir="rtl"} - He will count (each one of us). Meaning that each one of us is important to Him.
 
 ## Notes (2023)
 
@@ -108,7 +108,7 @@ n10:1] [וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־משֶׁ֔ה בֹּ֖א א
 
 <figure class='quote'>
   <p>
-    Rabbi Shimon [bar Yochai] continued: It is now fitting to reveal mysteries connected with that which is above and that which is below. Why is it written, “Come in to Pharaoh”? Ought it not rather have said, “Go to Pharaoh”? It is to indicate that G‑d brought Moses into a chamber within a chamber, into the abode of the supernal mighty serpent that is the soul of Egypt, from whom many lesser serpents emanate. Moses was afraid to approach him, because his roots are in supernal regions, and he approached only his subsidiary streams. When G‑d saw that Moses feared the serpent, He said, “Come in to Pharaoh.”
+    Rabbi Shimon [bar Yochai] continued: It is now fitting to reveal mysteries connected with that which is above and that which is below. Why is it written, "Come in to Pharaoh"? Ought it not rather have said, "Go to Pharaoh"? It is to indicate that G‑d brought Moses into a chamber within a chamber, into the abode of the supernal mighty serpent that is the soul of Egypt, from whom many lesser serpents emanate. Moses was afraid to approach him, because his roots are in supernal regions, and he approached only his subsidiary streams. When G‑d saw that Moses feared the serpent, He said, "Come in to Pharaoh."
   </p>
   <figcaption>&mdash;(Zohar)</figcaption>
 </figure>
@@ -131,15 +131,15 @@ n10:9] _We will go with our young and with our old, with our sons and with our d
 
 <figure class='quote'>
 <p>
-Pharaoh was willing to let the menfolk go, as long as the children remain behind; for as long as the younger generation remains “in Egypt,” there would be no future for the people of Israel.
+Pharaoh was willing to let the menfolk go, as long as the children remain behind; for as long as the younger generation remains "in Egypt," there would be no future for the people of Israel.
 
-The “Pharaohs” of our day have the same attitude. If the older folk wish to cling to Jewish tradition, that is perfectly acceptable; but the youth should be raised in “the spirit of the times” . . .
+The "Pharaohs" of our day have the same attitude. If the older folk wish to cling to Jewish tradition, that is perfectly acceptable; but the youth should be raised in "the spirit of the times" . . .
 
   </p>
   <figcaption>&mdash;(Maayanah Shel Torah)</figcaption>
 </figure>
 
-social station Heb. bi-n‘areinu u-vi-ziqneinu, taking na‘ar and zaqen as terms of social rank—lit. “with our underlings and with our elders.”
+social station Heb. bi-n'areinu u-vi-ziqneinu, taking na'ar and zaqen as terms of social rank—lit. "with our underlings and with our elders."
 
 ### Locusts
 
@@ -168,7 +168,7 @@ In addition, as has so often happens, while the people suffer and often die for 
 
 **Note**: even though that Divine Will had also "hardened his heart". In the end the people paid the price for Pharaoh's intransigence by being killed in war - "his country destroyed", "his army&mdash;though of wounded and dying&mdash;drowned. It might have been a "spiritual" war, a war between gods, but many died because of it, just like the millions that died in the holocaust.{.note}
 
-[כי חג־ה’ לנוּ]{dir="rtl"} &mdash; _Everyone must participate_.
+[כי חג־ה' לנוּ]{dir="rtl"} &mdash; _Everyone must participate_.
 
 **Note**: This is an example of the details that are left to the "actors". G-d gave Moses instructions. Here was a situation that one can assume was not covered in those instructions. G-d never said to Moses specifically "take all the people". Perhaps during his negotiations with Pharaoh, Moses realised that it had to be everyone. Allowing only the elders and leaders to leave would be a pyrrhic victory. Also, according to R' Bachya, as Moses knew the purpose of the exodus was the revelations at Mount Sinai, he knew he had to include the children. This underlines the principle that "the commandments are (equally binding) for everyone."{.note}
 
@@ -221,7 +221,7 @@ n10:21] _Stretch out your hand towards heaven, that there shall be darkness over
 <figure class='quote'>
   <p>
 
-Why did G‑d . . . bring darkness upon the Egyptians? Because there were transgressors in Israel who had Egyptian patrons and who lived in affluence and honor, and were unwilling to leave. So G‑d said: “If I bring upon them publicly a plague from which they will die, the Egyptians will say: ‘Just as it has passed over us, so has it passed over them.’” Therefore He brought darkness upon the Egyptians for three days, so that the [Israelites] should bury their dead without their enemies seeing them.
+Why did G‑d . . . bring darkness upon the Egyptians? Because there were transgressors in Israel who had Egyptian patrons and who lived in affluence and honor, and were unwilling to leave. So G‑d said: "If I bring upon them publicly a plague from which they will die, the Egyptians will say: 'Just as it has passed over us, so has it passed over them.'" Therefore He brought darkness upon the Egyptians for three days, so that the [Israelites] should bury their dead without their enemies seeing them.
   </p>
   <figcaption>&mdash;(Midrash Rabbah)
 </figcaption>
@@ -271,11 +271,11 @@ n11:2] Moses has commanded the Jews to request their valuables from the Egyptian
   <p>
 Why was it so important that the children of Israel should carry out the wealth of Egypt, to the extent that this was foretold hundreds of years earlier to Abraham as an indispensable component of their redemption?
 
-Every creation contains a “spark of holiness” which embodies its divine purpose. When a person utilizes an object, force or phenomenon to serve the Creator, thereby realizing its function within G‑d’s overall purpose for creation, he “redeems” and “elevates” the divine spark at its core.
+Every creation contains a "spark of holiness" which embodies its divine purpose. When a person utilizes an object, force or phenomenon to serve the Creator, thereby realizing its function within G‑d's overall purpose for creation, he "redeems" and "elevates" the divine spark at its core.
 
-Every soul has its own “sparks” scattered about in the world, which actually form an integral part of itself: no soul is complete until it has redeemed those sparks which belong to its mission in life. Therein lies the purpose of galut in all its forms: the exile of the soul from its sublime origins to the physical world, and the various exiles that nations and individuals experience in the course of their history, impelled from place to place and from occupation to occupation by seemingly random forces. All is by divine providence, which guides every man to those possessions and opportunities whose “spark” is intimately connected with his.
+Every soul has its own "sparks" scattered about in the world, which actually form an integral part of itself: no soul is complete until it has redeemed those sparks which belong to its mission in life. Therein lies the purpose of galut in all its forms: the exile of the soul from its sublime origins to the physical world, and the various exiles that nations and individuals experience in the course of their history, impelled from place to place and from occupation to occupation by seemingly random forces. All is by divine providence, which guides every man to those possessions and opportunities whose "spark" is intimately connected with his.
 
-As the father and prototype of all exiles, the Egyptian galut was a highly concentrated period of history, in which the foundations were laid for all that was to unfold in subsequent centuries. The material world contains 288 general “sparks” (each of which includes innumerable offshoots and particles); of these, 202 were taken out of Egypt, redeemed and elevated when the Jewish people carried off its gold and silver and used these to construct a sanctuary for G‑d in the desert (see Exodus 25–31).
+As the father and prototype of all exiles, the Egyptian galut was a highly concentrated period of history, in which the foundations were laid for all that was to unfold in subsequent centuries. The material world contains 288 general "sparks" (each of which includes innumerable offshoots and particles); of these, 202 were taken out of Egypt, redeemed and elevated when the Jewish people carried off its gold and silver and used these to construct a sanctuary for G‑d in the desert (see Exodus 25–31).
 
   </p>
   <figcaption>&mdash;(The Chassidic Masters)

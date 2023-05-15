@@ -10,12 +10,12 @@ date: 2022-01-31T17:26:16.218Z
 [death](light_dark.html) // neshama
 ./tol/sustainable.md
 
-#fundamental-property [dimensions](dimensions.html). // qkab
+# fundamental-property [dimensions](dimensions.html). // qkab
 [kabbalah](kabbalah_intro.html). // qkab
 [entanglement](entanglement.html). // neshama?
 ./tol/energy.md
 
-[Piece on “new paradigm” vs. “current paradigm”.](paradigm_shift.html) // tol
+[Piece on "new paradigm" vs. "current paradigm".](paradigm_shift.html) // tol
 [communities](sustainable.html) // ~ ->network_examples
 = [Google, FB, etc](cloud.html) // IT
 [network](networks.html) // IT
@@ -24,8 +24,8 @@ date: 2022-01-31T17:26:16.218Z
 = [affinity groups](affinity_groups.html) // ~
 [solar power projects](new_energy.html) // ~
 = [decentralised system](descentralised.html) // ~
-#by-the-people-for-the-people - [partial consensus](partial_consensus.html) // ~
-#tae-stuff - [Ark](ark.html) { TolNet as Noah's Ark } // neshama
+# by-the-people-for-the-people - [partial consensus](partial_consensus.html) // ~
+# tae-stuff - [Ark](ark.html) { TolNet as Noah's Ark } // neshama
 [Freedom](freedom.html)
 [energy exchange](energy_exchange.html)
 ./tol/old/tae_questions.md
@@ -58,7 +58,7 @@ date: 2022-01-31T17:26:16.218Z
 [awakening into consciousness](../consciousness.md)".
 ./qkab/original_beauty.md
 [intent](intention.html)
-##intentionoutcome["control"](control.html)
+## intentionoutcome["control"](control.html)
 ./qkab/outcome.md
 
 [these explanations](dimensions.html)

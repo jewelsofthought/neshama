@@ -16,7 +16,7 @@ date: 2022-04-26T00:04:00.000Z
 
 <div style="text-align:center">
 
-<h2>Netzach she’b Gevurah</h2>
+<h2>Netzach she'b Gevurah</h2>
 
 <span dir="rtl"><b>הָיום אַחַד עָשָׂר יוֹם שֶׁהֵם שָׁבוּעַ אֶחָד  וְאַרְבָּעָה יָמִים לָעוֹמֵר</b></span>
 <i>ֹToday is eleven days, which is one week and four days of the Omer</i>
@@ -55,7 +55,7 @@ I honour the physical energies of Life which fill me everyday. I trust the forms
 
 Trust transcends hope, as the sky above transcends the earth below.
 
-A thread of hope is an anchor to the ground, a narrow path you’ve set for destiny to lead you.
+A thread of hope is an anchor to the ground, a narrow path you've set for destiny to lead you.
 
 The thread snaps and your eyes look up to see nothing more than the open sky. Hope is gone. All you can do now is trust the One who has no bounds.
 

@@ -15,7 +15,7 @@ date: 2022-05-11T03:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Hod she’b Netzach</h2>
+<h2>Hod she'b Netzach</h2>
 <span dir="rtl"><b>הָיום שִׁשָּׁה וְעֶשְׂרִים יָוֹם שֶׁהֵם שְׁלוֹשָׁה שָׁבוּעוֹת וְחְַמִשָּׁה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is twenty-six days, which is three weeks and five days of the Omer</i>
@@ -37,7 +37,7 @@ Upon awakening, by thanking G-d for providing you, a soul, with the extraordinar
 
 **Hod** enters the week of **Netzach** with its gifts of Perceptual Forms for the Vital Energy that have been building. The channel between the left and right leg is alive with Light.
 
-**Hod** forms **Netzach**'s expression, so each is required for Creation to take place. It is the “Glory” of physical form appropriately reflecting the energies it receives. We now recognize the unfolding beauty of the forms with which **Netzach** is now blessed. We also witness these forms in other beings.
+**Hod** forms **Netzach**'s expression, so each is required for Creation to take place. It is the "Glory" of physical form appropriately reflecting the energies it receives. We now recognize the unfolding beauty of the forms with which **Netzach** is now blessed. We also witness these forms in other beings.
 
 There is a tension between **Netzach** and **Hod**, for in their communication true balance is difficult to achieve. In fact, each perceptual form, while containing the energy of **Netzach**, tends to close itself off from further flow. The flow of Energy yearns to be held in the form of a sensation, and then longs to be released.
 

@@ -44,7 +44,7 @@ n1:1] <b>אֱלֹהִ֑ים</b> &mdash; <i>G-d (Elohim)</i>. This Name denotes G
 
 <figure class='quote'>
   <p>
-    <b>בראשית ברא:</b> <i>In the beginning of G-d's creation of</i>. This verse calls for a Midrashic interpretation because, according to its simple interpretation, the vowelisation of the word <b>בָּרָ֣א</b>, should be different. It teaches us that the sequence of the Creation as written is impossible, ... but if you wish to explain it according to its simple meaning, explain it thus: "At the beginning of the creation of heaven and earth, the earth was astonishing with emptiness and darkness...and G-d said, 'Let there be light.'" But Scripture did not come to teach the sequence of the Creation, to say that these came first, for if it came to teach this, it should have written: “At first (<b>בָּרִאשׁוֹנָה</b>) He created the heavens and the earth,” for there is no <b>רֵאשִׁית</b> in Scripture that is not connected to the following word,  [i.e., in the construct state] like (ibid. 27:1): “In the beginning of (<b>בְּרֵאשִית</b>) the reign of Jehoiakim” ; (below 10:10) “the beginning of (<b>רֵאשִׁית</b>) his reign”; (Deut. 18:4) “the first (<b>רֵאשִׁית</b>) of your corn.” Here too, you say <b>בְּרֵאשִׁית בָּרָא אלֹהִים</b>, like <b>בְּרֵאשִׁית בְּרֹא</b>, in the beginning of creating. Now if you say that it came to teach that these (i.e., heaven and earth) were created first, and that its meaning is: In the beginning of all, He created these&ndash;and that there are elliptical verses that omit one word, ... and it does not explain that [it means] telling the end of a matter from the beginning of a matter-if so, (if you say that Scripture indicates the order of creation) be astounded at yourself, for the water preceded, as it is written: “and the spirit of God hovered over the face of the water,” and Scripture did not yet disclose when the creation of water took place! From this you learn that the water preceded the earth. Moreover, the heavens were created from fire and water. Perforce, you must admit that Scripture did not teach us anything about the sequence of the earlier and the later [acts of creation]
+    <b>בראשית ברא:</b> <i>In the beginning of G-d's creation of</i>. This verse calls for a Midrashic interpretation because, according to its simple interpretation, the vowelisation of the word <b>בָּרָ֣א</b>, should be different. It teaches us that the sequence of the Creation as written is impossible, ... but if you wish to explain it according to its simple meaning, explain it thus: "At the beginning of the creation of heaven and earth, the earth was astonishing with emptiness and darkness...and G-d said, 'Let there be light.'" But Scripture did not come to teach the sequence of the Creation, to say that these came first, for if it came to teach this, it should have written: "At first (<b>בָּרִאשׁוֹנָה</b>) He created the heavens and the earth," for there is no <b>רֵאשִׁית</b> in Scripture that is not connected to the following word,  [i.e., in the construct state] like (ibid. 27:1): "In the beginning of (<b>בְּרֵאשִית</b>) the reign of Jehoiakim" ; (below 10:10) "the beginning of (<b>רֵאשִׁית</b>) his reign"; (Deut. 18:4) "the first (<b>רֵאשִׁית</b>) of your corn." Here too, you say <b>בְּרֵאשִׁית בָּרָא אלֹהִים</b>, like <b>בְּרֵאשִׁית בְּרֹא</b>, in the beginning of creating. Now if you say that it came to teach that these (i.e., heaven and earth) were created first, and that its meaning is: In the beginning of all, He created these&ndash;and that there are elliptical verses that omit one word, ... and it does not explain that [it means] telling the end of a matter from the beginning of a matter-if so, (if you say that Scripture indicates the order of creation) be astounded at yourself, for the water preceded, as it is written: "and the spirit of God hovered over the face of the water," and Scripture did not yet disclose when the creation of water took place! From this you learn that the water preceded the earth. Moreover, the heavens were created from fire and water. Perforce, you must admit that Scripture did not teach us anything about the sequence of the earlier and the later [acts of creation]
   </p>
   <figcaption>&mdash;(Rashi)</figcaption>
 </figure>
@@ -118,7 +118,7 @@ The term _it was good_ means that the creation of the item under discussion was 
 </blockquote>
 
 <blockquote>
-Rashi 1:5] <b>י֥וֹם אֶחָֽד</b> &mdash; <i>one day</i>. According to the sequence of the language of the chapter, it should have been written, “the first day,” as it is written regarding the other days, “second, third, fourth.” Why did Scripture write “one”? Because the Holy One, blessed be He, was the only one in His world, for the angels were not created until the second day. [i.e., יוֹם אֶחָד can be understood as ‘the day of the One and only’]. So is it explained in Genesis Rabbah (3:8).[^5]
+Rashi 1:5] <b>י֥וֹם אֶחָֽד</b> &mdash; <i>one day</i>. According to the sequence of the language of the chapter, it should have been written, "the first day," as it is written regarding the other days, "second, third, fourth." Why did Scripture write "one"? Because the Holy One, blessed be He, was the only one in His world, for the angels were not created until the second day. [i.e., יוֹם אֶחָד can be understood as 'the day of the One and only']. So is it explained in Genesis Rabbah (3:8).[^5]
 </blockquote>
 
 </article>
@@ -201,7 +201,7 @@ n1:14-19] <b>Fourth Day</b>. All the potentials of heaven and earth were created
 n1:14] The _Vilna Gaon_ notes that the creations of the first three days paralleled and complemented one another. On the first day light was created, on the fourth day luminaries were set in place. On the second day, seas and atmosphere, on the fifth day, aquatic and bird life, and on the third dry land and vegetation, and populated on the sixth.
 
 <blockquote>
-Rashi n1:14] During the (some say seven, others three) days of Creation, the primordial light and darkness served together, both by day and by night &mdash; [<i>Medrah Yelammedenu</i>, as quoted in <i>Yalkut Shim’oni</i>] &mdash; until the sun and the moon were suspended in the sky. After that, the primordial light was hidden away (<i>Genesis Rabbah</i>).
+Rashi n1:14] During the (some say seven, others three) days of Creation, the primordial light and darkness served together, both by day and by night &mdash; [<i>Medrah Yelammedenu</i>, as quoted in <i>Yalkut Shim'oni</i>] &mdash; until the sun and the moon were suspended in the sky. After that, the primordial light was hidden away (<i>Genesis Rabbah</i>).
 </blockquote>
 </article>
 
@@ -253,7 +253,7 @@ n1:20-23] <b>Fifth day.</b>Marine and bird life.
 n1:21] <b>וַיִּבְרָ֣א אֱלֹהִ֔ים</b> &mdash; <i>And God created.</i> On the first day it referred to Creation from nothing; here it refers to the hugh size of some fish; and the last time it is used (v.27), it refers to the Creation of Man. (<i>Abarbanel</i>)
 
 <blockquote>
-Rashi n1:21] <b>התנינים</b> &mdash; <i>the ... sea monsters.</i>  This refers to the Leviathan and its mate, for He created them male and female, and He slew the female and salted her away for the righteous in the future, for if they would propagate, the world could not exist because of them. הַתַּנִינִם is missing the final “yud,” which denotes the plural hence the implication that the Leviathan did not remain two, but that its number was reduced to one [from <i>Gen. Rabbah</i> 7:4, <i>Midrash Chaseroth V’Yetheroth</i>, <i>Batei Midrashoth</i>, vol 2, p. 225].
+Rashi n1:21] <b>התנינים</b> &mdash; <i>the ... sea monsters.</i>  This refers to the Leviathan and its mate, for He created them male and female, and He slew the female and salted her away for the righteous in the future, for if they would propagate, the world could not exist because of them. הַתַּנִינִם is missing the final "yud," which denotes the plural hence the implication that the Leviathan did not remain two, but that its number was reduced to one [from <i>Gen. Rabbah</i> 7:4, <i>Midrash Chaseroth V'Yetheroth</i>, <i>Batei Midrashoth</i>, vol 2, p. 225].
 </blockquote>
 
 </article>
@@ -318,7 +318,7 @@ is never complete; he must always strive to better himself and his world.
 
 n1:26] <b>נַֽעֲשֶׂ֥ה אָדָ֛ם</b> &mdash; <i>Let us make Man.</i> Man was created with great deliberation and wisdom, and was brought into being with the deepest involvement of Divine Providence and wisdom (_Arbabenel_).
 
-When Moses came to this verse, (_let_ **us** _make_), which is in the plural and implies ח”ו that there is more than one Creator, he said: "Sovereign of the Universe! Why do you thus furnish a pretext for hetetics to maintain that there is a plurality of divinities?"
+When Moses came to this verse, (_let_ **us** _make_), which is in the plural and implies ח"ו that there is more than one Creator, he said: "Sovereign of the Universe! Why do you thus furnish a pretext for hetetics to maintain that there is a plurality of divinities?"
 
 "Write!" G-d replied. "Whoever wishes to err will err..." The implication of this response is that **one who sincerely seeks the truth will see it; one who looks for an excuse to blaspheme will find it**.
 
@@ -429,11 +429,11 @@ n2:1] <b>וַיְכֻלּ֛וּ</b> &mdash; <i>Were finished.</i> Homiletically,
 <blockquote>
 Rashi n2:4] <b>תולדות השמים והארץ בהבראם ביום עשות</b> &mdash; <i>when they were created, on the day that the Lord...made. </i> This teaches that they were all created on the first day (<i>Gen Rabbah</i> 12:4).
 
-Another explanation of the word <b>בְּהִבָּרְאָם</b>, He <i>created them with the letter “hey,”</i> as it is written ([<i>Isa</i>. 26:4](https://www.chabad.org/15957#v4)): “for in Yah (<b>יָהּ</b>), the Lord, is the Rock of eternity.” With these two letters [<i>“yud”</i> and <i>“hey”</i>] of the Name, He fashioned two worlds, and it teaches you here that this world was created with a <i>“hey”</i> (<i>Men</i>. 29b).
+Another explanation of the word <b>בְּהִבָּרְאָם</b>, He <i>created them with the letter "hey,"</i> as it is written ([<i>Isa</i>. 26:4](https://www.chabad.org/15957#v4)): "for in Yah (<b>יָהּ</b>), the Lord, is the Rock of eternity." With these two letters [<i>"yud"</i> and <i>"hey"</i>] of the Name, He fashioned two worlds, and it teaches you here that this world was created with a <i>"hey"</i> (<i>Men</i>. 29b).
 
 </blockquote>
 
-n2:4] <b>ה’ אֱלֹהִ֖ים</b> &mdash; <i><b>HaShem</b> God</i>. This is the first mention of the Four-letter Name <b>י־ה־ו־ה</b>, which denotes G-d in His Attribute of Mercy. At first G-d created the world with the attribute of Justice... The Name <b>י־ה־ו־ה</b> also signifies the eternity of G-d, because it letters contine the words <b>הָיָה הֹוֵה וְיִהְיֵה</b>, <i>He was, is and will be</i>. G-d "is the very first and the very last" (_Rambam_). Everything in the created universe must have had a moment when it came into existence, but G-d is infinite. He transcends time, thus the four-letter Name is often translated the Eternal One. This is the proper Name of G-d. It is not pronounced as it is spelled, but is pronounced _Adonai_. Otherwise it is referred to as **HaShem** or the Name.
+n2:4] <b>ה' אֱלֹהִ֖ים</b> &mdash; <i><b>HaShem</b> God</i>. This is the first mention of the Four-letter Name <b>י־ה־ו־ה</b>, which denotes G-d in His Attribute of Mercy. At first G-d created the world with the attribute of Justice... The Name <b>י־ה־ו־ה</b> also signifies the eternity of G-d, because it letters contine the words <b>הָיָה הֹוֵה וְיִהְיֵה</b>, <i>He was, is and will be</i>. G-d "is the very first and the very last" (_Rambam_). Everything in the created universe must have had a moment when it came into existence, but G-d is infinite. He transcends time, thus the four-letter Name is often translated the Eternal One. This is the proper Name of G-d. It is not pronounced as it is spelled, but is pronounced _Adonai_. Otherwise it is referred to as **HaShem** or the Name.
 
 n2:5] <b>כִּי֩ לֹ֨א הִמְטִ֜יר יְהֹוָ֤ה אֱלֹהִים֙ עַל־הָאָ֔רֶץ</b> &mdash;<i>For <b>HaShem</b> God had not yet sent rain upon the earth</i> because <i>there was no man to work the soil</i>. This demonstrates a basic article of faith: G-d provides what Man needs, but it is up to Man to pray and otherwise carry out his spiritual responsibilities.
 
@@ -543,7 +543,7 @@ n3:5-6] <b>כִּ֚י יֹדֵ֣עַ אֱלֹהִ֔ים</b> &mdash; <i>For G-d k
 She looked at the
 
 <blockquote>
-Rashi n3:5] <b>והייתם כא-הים: יוצרי עולמות</b> &mdash; <i>and you will be like angels:</i> Creators of worlds (_Pirkei d’Rabbi Eliezer_ , ch. 13)
+Rashi n3:5] <b>והייתם כא-הים: יוצרי עולמות</b> &mdash; <i>and you will be like angels:</i> Creators of worlds (_Pirkei d'Rabbi Eliezer_ , ch. 13)
 </blockquote>
 
 <blockquote>
@@ -552,11 +552,11 @@ Rashi n3:6]
 
 <b>כי טוב העץ</b> &mdash; <i>That the tree was good,</i> to [cause them to] be like angels.
 
-<b>וכי תאוה הוא לעינים</b> &mdash; <i>and that it was a delight to the eyes.</i>As he had said to her, “and your eyes will be opened.”
+<b>וכי תאוה הוא לעינים</b> &mdash; <i>and that it was a delight to the eyes.</i>As he had said to her, "and your eyes will be opened."
 
-<b>ונחמד להשכיל</b> &mdash; <i>and that the tree was desirable to make one wise</i>As he said to her, “knowing good and evil.”
+<b>ונחמד להשכיל</b> &mdash; <i>and that the tree was desirable to make one wise</i>As he said to her, "knowing good and evil."
 
-<b>ותתן גם לאשה עמה</b> &mdash; <i>and she gave also to her husband</i> lest she die and he live and marry someone else (<i>Pirkei d’Rabbi Eliezer</i>, ch. 13]
+<b>ותתן גם לאשה עמה</b> &mdash; <i>and she gave also to her husband</i> lest she die and he live and marry someone else (<i>Pirkei d'Rabbi Eliezer</i>, ch. 13]
 
 </blockquote>
 </article>
@@ -657,7 +657,7 @@ n4:7] <b>תְּשׁ֣וּקָת֔וֹ</b> &mdash; <i>Its desire</i>. The Evil In
 </p>
 </blockquote>
 
-n4:9] <b>השמר אחי</b> &mdash; <i>Am I my brother’s keeper?</i>This is a question asked in astonishment, as is every _“hey”_ prefix vowelized with a “_chataf pattach_” (_Rashi_).
+n4:9] <b>השמר אחי</b> &mdash; <i>Am I my brother's keeper?</i>This is a question asked in astonishment, as is every _"hey"_ prefix vowelized with a "_chataf pattach_" (_Rashi_).
 
 </article>
 
@@ -715,7 +715,7 @@ n6:3) Drawn to the flesh. Man is unworthy that G-d's spirit should reside in him
 
 ## Masoretic note
 
-<b>קמ”ו פסוקים, אמצי”ה סימן. יחוקיה”ו סימן</b> There are 146 verses in the _Sidrah_, numberically corresponding to [the names of the two kings Judah,] ...
+<b>קמ"ו פסוקים, אמצי"ה סימן. יחוקיה"ו סימן</b> There are 146 verses in the _Sidrah_, numberically corresponding to [the names of the two kings Judah,] ...
 
 Their names are nearly synonymous as their respective roots
 
@@ -725,15 +725,11 @@ Their names are nearly synonymous as their respective roots
 [^1]: Was it "exile"? They were already "exiled" from heaven to be place in Eden. Perhaps it was the change of realm, from that of Eden to that of Israel.
 [^2]: Jews: If we define Jews as the nation that "dedicate ... G-d", then our definition is based not on "inheritence" but on action and dedication of energy for G-d.
 [^4]: <b>וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֽשֶׁךְ</b> &mdash; G-d seperated or differentiated between light and dark, and He named the light 'day' and dark 'night' (v5).
-[^5]: If the angels were only created on the second day, who were the _Elohim_?
-[^6]: _Decreed boundaries:_ This speaks to the principle that in order to make "space" for something else to exist, one has to create boundaries to constrain whatever (phenomenon) is there. Just as the people of Canaan had to be "constrained", i.e. removed, to make space for Israel to exist.
 
 _Enough:_ Could be: Who (He) that says to His world, "Enough!". This brings in the interesting discussion in the Zohar between what the **מי** and the **מה** are.
 [^7]: This supports the principle that everything (living) on earth wants to expand (procreate), to fulfil His desire.
 [^8]:
 [^9]: This is interesting in these times, with birth rate declining, and less and less people having kids. This is the one of the first (and thus fundamental) commandments given. If we stop procreating, we will die out. Just as one can judge the health of a forest by the amount of young trees it has growing in it at any stage, so we can judge the health of our human society in the same way. If our societies are not built on creating a better life for the future - our children - what then is its purpose?
-[^10]: You have dominion over all the animals - if you prove yourself worthy, otherwise the animals (i.e., your beastly nature) will have dominion over you!
-[^11]: This speaks of a certain template, containing both masculine and feminine. For the continuation of life, will require union between these two polarities, the harmony of which will produce the Divine Soul, able to have a relationship with the Divine.
 
 In the same way that the supernal light contains both light and dark. In the creation this light is split asunder (the dark comes out of the light/the light that comes from the darkness), and it is necessary to unify the two to enable the Divine plan to come to fruition.
 [^12]: This is the "commandment" regarding the template. It is a spiritual (and biological) imperative.
@@ -741,11 +737,8 @@ In the same way that the supernal light contains both light and dark. In the cre
 "replenish the earth": This you do by "obeying G-d's commandments" [And if you do these things...]
 
 "and subdue it": One the "earth" has been subdued, the next phase of evolution will heralded. The only way to "subdue" the earth, is to subdue the "earthly" aspects of your own being, and then the _Shekhina_ will return from exile, and the Divine Presence will be felt all over the earth.
-[^13]: This first speaks of all the herbs and fruits that were given for food.
-[^14]: This is the next level. The green herbs and fruit are their food too. There is nothing about the animals or fish as food. Could it be that "they have every green herb to eat?"
 
 Everything which has a living spirit comes under our domain - to use or abuse.
 [^15]: If your wife is not your soul-mate, would this still be the case?
 [^16]: I believe that it is necessary to explore one's personal desires, as this is what makes everyone special. These desires too are gifted to us from G-d, and if everyone sublimated them to His Desire, then what would G-d Himself be learning or discovering by that?
-[^17]: None of the commentatators express the idea that the skin that He dressed Adam and Chava in were the actual skins that we wear today.
 [^18]: It is always at your side, everpresent.

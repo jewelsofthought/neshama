@@ -12,7 +12,7 @@ date: 2022-04-15T00:00:00.000Z
 
 > The Lubavitcher Rebbe, one of the great sages of the modern era, explains that the concept of _Sefirat HaOmer_ is a 49-day process of refining the darkness of the world.
 
-This is a journey that I have wanted to share for a long time. It is based on the book by Rabbi Ted Falcon, called _A Journey of Awakening: 49 Steps from Enslavement to Freedom_. It is "a Guide for Using the Kabbalistic Tree of Life in Jewish Meditation". It also includes pieces and excepts from Simon Jacobson’s “Counting the Omer” to provide a more orthodox perspective. As well as Simona Tz’s “Seven Weeks of Transformation”, from which a deeper, more humanistic, interpretation of the seven _sefirot_ that we are using for our 50 day journey from slaves to sovereign beings.
+This is a journey that I have wanted to share for a long time. It is based on the book by Rabbi Ted Falcon, called _A Journey of Awakening: 49 Steps from Enslavement to Freedom_. It is "a Guide for Using the Kabbalistic Tree of Life in Jewish Meditation". It also includes pieces and excepts from Simon Jacobson's "Counting the Omer" to provide a more orthodox perspective. As well as Simona Tz's "Seven Weeks of Transformation", from which a deeper, more humanistic, interpretation of the seven _sefirot_ that we are using for our 50 day journey from slaves to sovereign beings.
 
 I will add more material as this evolves.
 
@@ -42,7 +42,7 @@ Whenever in the year you take the journey, and do the 49 day practice, these con
 
 ## Omer Tradition
 
-Whether or not you use these meditations during the actual Omer period, the seven weeks between Passover and _Shavuot_, they provide an invitation into a process of personal expansion. Spiritual awakening depends more on an “allowing” than it does on a “trying”. Meditation encourages a deepening of this posture of allowing ourselves to appreciate the integrity of our own being as we discover the deeper nature of the Being we share.
+Whether or not you use these meditations during the actual Omer period, the seven weeks between Passover and _Shavuot_, they provide an invitation into a process of personal expansion. Spiritual awakening depends more on an "allowing" than it does on a "trying". Meditation encourages a deepening of this posture of allowing ourselves to appreciate the integrity of our own being as we discover the deeper nature of the Being we share.
 
 One of the clearest and most enduring paradigms of spiritual awakening in the Jewish mystical tradition is represented by the ancient journey from the enslavement in Egypt to the awakening of Revelation at Sinai. The steps in this process are reflected in the 49 days between Passover and _Shavuot_, the Feast of Weeks, which commemorates the receiving of the Ten Commandments while standing at Sinai.
 
@@ -72,7 +72,7 @@ We invite you to record your responses. During the various weeks of this journey
 
 An intention, in Hebrew, a _kavvanah_, provides a channel through which energy can flow. Our goals and purposes in life, when made specific, serve as beacons toward which we move, and provide criteria with which to determine how far we have come and how far we have yet to go. Without clear intentions, our energy tends to be fragmented, and our personal evolution is slowed. Awareness of our individual intentions begins the process of choosing more significant intentions for our relationships, our families, our communities, and our world. The most helpful intentions follow from an understanding of the fuller nature of our current experience in the world as well as from the direction in which we choose to travel.
 
-A journey which has clear intentions helps manifest those intentions. Explore your goals as your journey continues, and state them as affirmations along with those already presented here. Write your goals as if you already had them. Visualise yourself coming into the “land” of your greater vision.
+A journey which has clear intentions helps manifest those intentions. Explore your goals as your journey continues, and state them as affirmations along with those already presented here. Write your goals as if you already had them. Visualise yourself coming into the "land" of your greater vision.
 
 ## Using this Text
 

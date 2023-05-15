@@ -32,7 +32,7 @@ I take moments of quiet each day this week to appreciate more fully the nature o
 
 ## The Sefirah on the Tree of Life
 
-**Chesed** is the _sefirah_ on the Tree of Life where the energies expand without limit. **Chesed** is also known as _Gedulah_, which means “largesse” or “greatness”. It is the place in which the energies express only mercy through unconditional giving. It is love that always gives, just like the Sun that always shines upon everything on earth, the tall and the short, the good and the evil.
+**Chesed** is the _sefirah_ on the Tree of Life where the energies expand without limit. **Chesed** is also known as _Gedulah_, which means "largesse" or "greatness". It is the place in which the energies express only mercy through unconditional giving. It is love that always gives, just like the Sun that always shines upon everything on earth, the tall and the short, the good and the evil.
 
 **Chesed** represents the unlimited flow of energy as it flows down from the Divine Realms, undifferentiated, neither positive nor negative, preceding any polarity. This is the Impulse behind both the light and shadow at **Gevurah**, the basic principle reflected through each of the three pairs of _sefirot_, **Hod** and **Netzach**, **Gevurah** and **Chesed**, **Binah** and **Chochmah**. The _sefirot_ of force, on the right side of the Tree express energy before it separates into the polarities brought about through particular forms or specific expressions.
 This first week of the journey we focus on opening ourselves to receive from the Fountain of Life, and to be nourished.

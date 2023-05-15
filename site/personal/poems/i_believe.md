@@ -29,18 +29,18 @@ For men, everything is experienced as other,
 thus his strong need for union.
 For women, aware of the union of everything,
 knowing of no difference between herself and another,
-constantly being battered on the rocks of the male’s state of separateness.
+constantly being battered on the rocks of the male's state of separateness.
 
 &nbsp;&nbsp;\* \* \*
 
 The energy fused with the material
 is the sexual realm of the upper world.
-The “descent” of the spirit into manifest form
+The "descent" of the spirit into manifest form
 is the expression of the sexual in the spiritual space.
 The orgasm is our primal portal to the spiritual.
 Perhaps the feminine rises and the man descends.
 Woman is filled, Man is emptied by the orgasm.
-Woman’s encounter is with the infinite fullness,
+Woman's encounter is with the infinite fullness,
 Man's is with the infinite emptiness.
 The man encounters the Divine through
 the emptiness of death;
@@ -50,13 +50,13 @@ the fullness of life.
 On the one hand death is the purveyor of all evil in this world,
 the signifier of all impurity&mdash;
 Yet only by overcoming death can we enter into the mystical realm.
-A hero’s journey, in which we have to pass through the valley of death,
+A hero's journey, in which we have to pass through the valley of death,
 and emerge, with faith alone, and G!d at your side, into life.
 Only by encountering the energy of death,
 and overcoming it by choosing life,
 by discovering what means more to you than death.
 
-“What is that?”
+"What is that?"
 
 I thought it was love.
 But I have too many ashes now to all

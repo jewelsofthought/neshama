@@ -12,7 +12,7 @@ With $1m, we should be able to set up a community consisting of 20 people, 10 of
 
 This can be done in a country like South Africa, where the amount needed by the participants is around $1000/mth. The purchase of a piece of land, either with the necessary infrastructure and systems in place, or to upgrade/install them, would take around $500k. At $240k per year support for the 20 members, we will have about 2 – 3 years of money-freedom within the community.
 
-If we assume that the community will begin to be productive within 1 year, then that amount will be reduced, with the goal of being financially self-sufficient by the 3rd year. With the support of the emerging Tree of Life, this should be attainable, as the idea will be able for the Network to be providing most of the community’s needs.
+If we assume that the community will begin to be productive within 1 year, then that amount will be reduced, with the goal of being financially self-sufficient by the 3rd year. With the support of the emerging Tree of Life, this should be attainable, as the idea will be able for the Network to be providing most of the community's needs.
 
 I predict that if we have 10 people working on the network, that we could soon have at least 100 communities participating.
 

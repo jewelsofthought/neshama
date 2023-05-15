@@ -7,9 +7,9 @@ date: 2015-01-02T20:02:16.154Z
 
 > Gravity is the breath of God that I breath in order to live
 
-GRAVITY is the expression of the dark energy, the void that holds all of creation. It is not an internal force. It does not come from “mass” (which is the energy) of the object. It is the way the (energetic) “mass” interacts with this dark energy. In fact, mass is the name we give to the gravitational energy of the object itself.
+GRAVITY is the expression of the dark energy, the void that holds all of creation. It is not an internal force. It does not come from "mass" (which is the energy) of the object. It is the way the (energetic) "mass" interacts with this dark energy. In fact, mass is the name we give to the gravitational energy of the object itself.
 
-It is this energy that keeps everything “moving”. For if we removed gravity and retained all other energies, what would we have? What would the world, our universe look like? It is very likely that there would be no interactions &mdash; or no “meaningful” ones.
+It is this energy that keeps everything "moving". For if we removed gravity and retained all other energies, what would we have? What would the world, our universe look like? It is very likely that there would be no interactions &mdash; or no "meaningful" ones.
 
 To understand this we need to take a journey into infinity.[^5] Talk about synchronicities! I have just been talking about the singularity, the point where the opposing points co-exist, the singularity from which the duality emerges &mdash; thus eventually attaining the sufficient complexity through for the requirement of continuity &mdash; to proceed.
 
@@ -36,4 +36,4 @@ To understand this we need to take a journey into infinity.[^5] Talk about synch
 - Remember the starting point, ø, zero, the origin.
 - Stay at that point
 - hold it
-- begin to imagine this point moving – while “holding” on to the starting point
+- begin to imagine this point moving – while "holding" on to the starting point

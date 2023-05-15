@@ -11,7 +11,7 @@ modified: 2022-10-04
 
 <span style="font-weight: bold; font-size: 120%">Halleluyah</span>
 It is good to sing praises to our Lord.
-To raise our voices in Prayer to build G!d’s Temple,
+To raise our voices in Prayer to build G!d's Temple,
 And ascend to the place of seeing the perfection that He is.
 Let us gather the outcasts of Israel,
 those that strayed have from the road that leads to the Palace,

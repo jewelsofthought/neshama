@@ -4,11 +4,23 @@ description: 'Meditation for the Forty-Fourth Day: Be restrained in your receivi
 tags: null
 date: 2022-05-29T01:04:00.000Z
 ---
+<a href="https://www.chabad.org/holidays/sefirah/omer-count_cdo/jewish/Count-the-Omer.htm">
+<i class="fa fa-file" aria-hidden="true"></i></a>
 
-<div style="font-weight: bold; text-align:center">
-<h2>Gevurah she’b Malkuth</h2>
-<i>Day Two of Week 7:</i>
-<p>Restraint in Receiving</p>
+<figure style='float: left'>
+ <a href='/posts/img/freedom/week7/7.2-Gevurah_in_Malkhut.png' target="_blank">
+   <img src='/posts/img/freedom/week7/7.2-Gevurah_in_Malkhut_s.png' alt='Gevurah in Malkhut' width='200' height='304' />
+ </a>
+</figure>
+
+<div style="text-align:center">
+<h2>Gevurah she'b Malkhut</h2>
+<span dir="rtl"><b>הָיום אַרְבָּעָה וְארבעים יָוֹם שֶׁהֵם שִׁשָּׁה שָׁבוּעוֹת וּשְׁנֵי יָמִים לָעוֹמֵר</b></span>
+<br />
+<i>ֹToday is forty-four days, which is six weeks and two days of the Omer</i>
+</p>
+
+<h4>Restraint in Receiving</h4>
 
 </div>
 
@@ -37,15 +49,15 @@ I honour all the feelings which flow through me now. I become aware of the const
 <h3>Reflections</h3>
 
 <div style="text-align: center;">
-<h4><a href="https://www.chabad.org/calendar/view/day.asp?tdate=5/11/2021">Unconditional Life</a></h4>
+<h4><a href="https://www.chabad.org/calendar/view/day.asp?tdate=5/11/2021#DailyThoughtBody0">Untraditional Life</a></h4>
 
 <h4 dir="rtl">
 וְהָי֞וּ הַדְּבָרִ֣ים הָאֵ֗לֶּה אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם עַל־לְבָבֶֽךָ׃
 </h4>
 <p>
-“These words that I command you today should be upon your heart.”
+"These words that I command you today should be upon your heart."
 <span style="text-align: right">&mdash;(Deut. 6:6.)<br />
-“Every day, the words of the Torah must be new to you.”
+"Every day, the words of the Torah must be new to you."
 <span style="text-align: right">&mdash;(Sifri, Rashi.)
 </div>
 
@@ -59,10 +71,10 @@ For if it is not about the moment now, then it is not your life. And if it is no
 
 </div>
 
-<h3>Reflections</h3>
-
 <div class="note">
 
 Only through awareness of the limits of our existence can we become aware of the possibility of the limitless.
 
 That is why an animal, for instance, is unaware of G-d, as it is "unaware" of any separation, being just an expression of G-d, the Creative force expressing itself, unaware of any limitations of its existence.
+
+<div>

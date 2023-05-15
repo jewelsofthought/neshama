@@ -22,7 +22,7 @@ Rabbi Akiba entered in peace and exited in peace...
 
 The angels also wished to cast down Rabbi Akiba but the Blessed Holy One said, "Leave this elder alone, for he is worthy of making use of My glory."
 
-This teaching works through a pun. “PaRDeS,, composed of the four consonants, PRDS (פרדס), is an acronym for the four rules of Biblical exegesis:
+This teaching works through a pun. "PaRDeS,, composed of the four consonants, PRDS (פרדס), is an acronym for the four rules of Biblical exegesis:
 
 _**Peshat**_ (simple understanding):
 

@@ -11,9 +11,9 @@ modified: 2020-06-04
 
 <h3>From <i>Atzilut</i> to <i>Assiyah</i></h3>
 
-At the “emergence” of the point _Atzilut_,
+At the "emergence" of the point _Atzilut_,
 the fractal nature of the world was
-already encoded, the “DNA” of the universe.
+already encoded, the "DNA" of the universe.
 The idea had already been formed
 someone, or something, some energy,
 has somehow stopped to design it.
@@ -31,7 +31,7 @@ as an energy that writhes like a whiplash,
 a broken live cable jerking around in the road.
 By flailing in this space _Beriah_ arises,
 and the shape forms,
-beginning to “stabilise”,
+beginning to "stabilise",
 Taking its space, holding its place.
 In this realm, it needs the angels
 to fashion and maintain it,

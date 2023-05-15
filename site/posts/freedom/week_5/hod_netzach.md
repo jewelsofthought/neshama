@@ -15,7 +15,7 @@ date: 2022-05-17T04:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Netzach she’b Hod</h2>
+<h2>Netzach she'b Hod</h2>
 <span dir="rtl"><b>הָיום שְׁנַיִם וְשׁלושׁים יָוֹם שֶׁהֵם ארבעה שָׁבוּעוֹת וְאַרְבָּעָה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is thirty-two days, which is four weeks and four days of the Omer</i>
@@ -54,4 +54,4 @@ I am a perfect vehicle for the experience and expression of the One Spirit in th
 
 **Ha'Shem**, in His Compassion, holds me in a dependent balance of force and form. With every action, I express the holiness of His From in the world. Through my perceptions, He graces me with, and through, my actions. I share meaning and purpose with all whom I meet. I am a channel for the One that celebrates all of Creation with His Blessings.{.note}
 
-[^1]: Would not **Netzach** in **Hod** be expressed as “a desire (ambition) to be a channel...”
+[^1]: Would not **Netzach** in **Hod** be expressed as "a desire (ambition) to be a channel..."

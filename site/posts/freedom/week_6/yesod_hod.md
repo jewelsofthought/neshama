@@ -15,7 +15,7 @@ date: 2022-05-25T01:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Hod she’b Yesod</h2>
+<h2>Hod she'b Yesod</h2>
 <span dir="rtl"><b>הָיום ארבעים יָוֹם שֶׁהֵם חְַמִשָּׁה שָׁבוּעוֹת וְחְַמִשָּׁה יָמִים לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is forty days, which is five weeks and five days of the Omer</i>
@@ -33,7 +33,7 @@ True humility comes from recognizing and acknowledging G-d in your life. Am I aw
 
 </div>
 
-There is something special about the number forty – it is a symbol of radical change in awareness. It rained forty days and nights during Noah’s time; Moses was alone atop the mountain for forty days, and we wandered the wilderness for forty years.
+There is something special about the number forty – it is a symbol of radical change in awareness. It rained forty days and nights during Noah's time; Moses was alone atop the mountain for forty days, and we wandered the wilderness for forty years.
 
 In Jewish mystical tradition, there are four worlds. In each of the worlds there is a Tree of Life with ten _sefirot_. Four Trees yield forty _sefirot_. We are cautioned against studying Kabbalah before the age of forty. This is not a measure of time as much as a measure of awareness. We are to be well-grounded before such study can be of true meaning.
 

@@ -80,7 +80,7 @@ n10:32] Moses' children remained
 
 n10:33] "And the Ark journeyed before them".
 
-n10:34] [וענן ה’]{dir="rtl"} &mdash; _The cloud of Hashem_ The Torah mentions the cloud seven times to allude to seven separate clouds that accompanied them. Four protected the camp in the four directions, one hovered above, one cushioned their feed against the hot, sometimes rocky, desert floor, and the seventh went ahead of them to ease their way.
+n10:34] [וענן ה']{dir="rtl"} &mdash; _The cloud of Hashem_ The Torah mentions the cloud seven times to allude to seven separate clouds that accompanied them. Four protected the camp in the four directions, one hovered above, one cushioned their feed against the hot, sometimes rocky, desert floor, and the seventh went ahead of them to ease their way.
 
 n10:35-36] The new "book" of the Torah. Verses 35 and 36 are separated from the rest of the Torah by means of inverted letter <em>nun</em>'s before and after them, to separate them from the rest of the narrative... for the ultimate mission of the Jew is to bring the Torah and its teachings into every iota of temporal life. _I might have said to bring an awareness of G-d and His teachings..._
 
@@ -114,7 +114,7 @@ n11:5] The food in Egypt was free from the obligation to perform _mitzvot_ (_Ras
 
 n11:10] [למשׁפחותיו]{dir="rtl"} &mdash; _In their family groups_ To vent their resentment publically, entire families gathered outside their tents and wept. According to the Sages, the word _families_ alludes to the underlying reason for their complaints: They were frustrated by the family laws that regulated permissable relationships (_Rashi_). This illustrates the extent of their fall since leaving Sinai. The commandments were a privilege; but to some they seemed an unbearable burden.
 
-[ויחר־אף ה’ מאד]{dir="rtl"} &mdash; _And the wrath of_ **HaShem** _flared greatly._ G-d can be understanding if people are overcome by lust or seduction &mdash; but by saying they wanted to go back to Egypt, the people showed that they wanted to cast themselves headlong into the hands of the Evil Inclindation. This was intolerable. (_Or Hachaim_)
+[ויחר־אף ה' מאד]{dir="rtl"} &mdash; _And the wrath of_ **HaShem** _flared greatly._ G-d can be understanding if people are overcome by lust or seduction &mdash; but by saying they wanted to go back to Egypt, the people showed that they wanted to cast themselves headlong into the hands of the Evil Inclindation. This was intolerable. (_Or Hachaim_)
 
 11:16] Hashem tells Moses to gather 70 elders, upon whom He will lay His spirit so that they may share Moses' burden.
 

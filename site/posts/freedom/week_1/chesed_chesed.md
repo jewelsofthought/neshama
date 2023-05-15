@@ -15,7 +15,7 @@ date: 2022-04-16T00:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Chesed she’b Chesed</h2>
+<h2>Chesed she'b Chesed</h2>
 <p>
 <span dir="rtl"><b>הָיום יום אֶחָד לָעוֹמֵר</b></span>
 <br />

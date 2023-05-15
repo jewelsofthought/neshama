@@ -82,7 +82,7 @@ Desc: Morning prayer
       8.2.2. Attitude is altitude
       8.2.3. Conscious/Unconscious
 9. Chapter 9: The Nature of Shamanism
-   9.2. From Lyn’s thesis: P16
+   9.2. From Lyn's thesis: P16
    9.3. Young Shaman
 
 [Notes on The Path of Blessing](site/posts/judaica/path_of_blessing.md)

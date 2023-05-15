@@ -94,7 +94,7 @@ So he cried out to the LORD, and the LORD showed him a piece of wood; he threw i
 <p dir="rtl">
 וַיֹּ֩אמֶר֩ אִם־שָׁמ֨וֹעַ תִּשְׁמַ֜ע לְק֣וֹל׀ יְהֹוָ֣ה אֱלֹהֶ֗יךָ וְהַיָּשָׁ֤ר בְּעֵינָיו֙ תַּעֲשֶׂ֔ה וְהַֽאֲזַנְתָּ֙ לְמִצְוֺתָ֔יו וְשָׁמַרְתָּ֖ כׇּל־חֻקָּ֑יו כׇּֽל־הַמַּחֲלָ֞ה אֲשֶׁר־שַׂ֤מְתִּי בְמִצְרַ֙יִם֙ לֹא־אָשִׂ֣ים עָלֶ֔יךָ כִּ֛י אֲנִ֥י יְהֹוָ֖ה רֹפְאֶֽךָ׃ {ס}
 </p><p>
-He said, “If you will heed the LORD your God diligently, doing what is upright in His sight, giving ear to His commandments and keeping all His laws, then I will not bring upon you any of the diseases that I brought upon the Egyptians, for I the LORD am your healer.”
+He said, "If you will heed the LORD your God diligently, doing what is upright in His sight, giving ear to His commandments and keeping all His laws, then I will not bring upon you any of the diseases that I brought upon the Egyptians, for I the LORD am your healer."
 </p>
 </blockquote>
 

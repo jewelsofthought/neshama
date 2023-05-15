@@ -11,7 +11,7 @@ modified: 2022-02-14T14:03:03.587Z
 3. [Energy](#energy)
 4. [Max love](#max-love)
 
-> “But mark this: There will be terrible times in the last days.People will be lovers of themselves, lovers of money, boastful, proud, abusive, disobedient to their parents, ungrateful, unholy, without love, unforgiving, slanderous, without self-control, brutal, not lovers of the good, treacherous, rash, conceited, lovers of pleasure rather than lovers of God&mdash;having a form of godliness but denying its power. Have nothing to do with such people” (2 Timothy 3:1-5).
+> "But mark this: There will be terrible times in the last days.People will be lovers of themselves, lovers of money, boastful, proud, abusive, disobedient to their parents, ungrateful, unholy, without love, unforgiving, slanderous, without self-control, brutal, not lovers of the good, treacherous, rash, conceited, lovers of pleasure rather than lovers of God&mdash;having a form of godliness but denying its power. Have nothing to do with such people" (2 Timothy 3:1-5).
 
 ## Love
 

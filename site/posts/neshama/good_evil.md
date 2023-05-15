@@ -125,10 +125,10 @@ Can His express.
 
 | Transliteration                                                    | Translation                                                                                   | Alternative Translation                                                             |
 | ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| _yigdal elohim khai v’yishtabakh, nimtza v’ein eit el metziyuto_   | Acclaim and praise the living God who exists beyond the boundaries of time.                   | Meet the living presence, the sacred One; past present future, here and never gone. |
-| _echad v’ein yakhid k’yikhudo, ne’elam v’gam ein sof l’akhduto_    | Most singular of all, concealed and yet also without bound                                    | One and with no other One like this One; subtle, infinite, complete, unbroken.      |
-| _ein lo d’mut ha’guf v’eino guf, lo na’arokh eilav kedushato_      | He has no body — nor even the appearance of a body, it is impossible to measure his holiness. | It has no body, no comparison; unique in uniqueness in unison.                      |
-| _kadmon k’khol davar asher nivra, rishon v’ein reishit l’reishito_ | Prior to everything that was created, first of all, and yet himself without a beginning.      | Primordial, primary, unbegotten; before the creation, the origin.
+| _yigdal elohim khai v'yishtabakh, nimtza v'ein eit el metziyuto_   | Acclaim and praise the living God who exists beyond the boundaries of time.                   | Meet the living presence, the sacred One; past present future, here and never gone. |
+| _echad v'ein yakhid k'yikhudo, ne'elam v'gam ein sof l'akhduto_    | Most singular of all, concealed and yet also without bound                                    | One and with no other One like this One; subtle, infinite, complete, unbroken.      |
+| _ein lo d'mut ha'guf v'eino guf, lo na'arokh eilav kedushato_      | He has no body — nor even the appearance of a body, it is impossible to measure his holiness. | It has no body, no comparison; unique in uniqueness in unison.                      |
+| _kadmon k'khol davar asher nivra, rishon v'ein reishit l'reishito_ | Prior to everything that was created, first of all, and yet himself without a beginning.      | Primordial, primary, unbegotten; before the creation, the origin.
 
 </div>
 
@@ -242,6 +242,6 @@ In order to find any answers to these question, it would be necessary to direct 
 
 ![Imperfectly perfect](/posts/img/neshama/new/card1_fig1.2.png)
 
-[The Soul’s Wrestling Match: Can It Be a Peaceful Battle?](https://www.chabad.org/parshah/article_cdo/aid/5310747/jewish/The-Souls-Wrestling-Match-Can-It-Be-a-Peaceful-Battle.htm)
+[The Soul's Wrestling Match: Can It Be a Peaceful Battle?](https://www.chabad.org/parshah/article_cdo/aid/5310747/jewish/The-Souls-Wrestling-Match-Can-It-Be-a-Peaceful-Battle.htm)
 
 [^3]: Or perhaps more accurately, there are an infinite set of possibilities available, and we can never really know if one of the "improbable" or "impossible" events will occur at any point.

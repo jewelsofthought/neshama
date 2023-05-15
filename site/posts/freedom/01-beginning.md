@@ -22,7 +22,7 @@ Spirituality refers to the realisation of unity. The more spiritual the awarenes
 
 On an emotional level, spirituality reflects itself in the enhanced capacity to experience and express love and compassion. On a physical level, spirituality manifests in a sense of harmony and balance, a sense of rightness. Spirituality expressing on levels of emotion and of sensation does not require perfect relationships or perfect health. It requires greater acceptance and the release of resistance so that the radical fullness of each moment might be fully experienced, even welcomed.
 
-Spiritualised consciousness helps us appreciate the nature of Awareness itself. With an expanded awareness, there is a greater ability to know the unique beings we are and to perceive the special gifts we each bring. With a greater ability to perceive oneness, we understand more fully the spiritual teachings not only of our own tradition, but of other’s too.
+Spiritualised consciousness helps us appreciate the nature of Awareness itself. With an expanded awareness, there is a greater ability to know the unique beings we are and to perceive the special gifts we each bring. With a greater ability to perceive oneness, we understand more fully the spiritual teachings not only of our own tradition, but of other's too.
 
 ### Spirituality
 

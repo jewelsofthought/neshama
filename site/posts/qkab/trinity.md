@@ -75,19 +75,19 @@ There must be differences, otherwise things would be indistinguishable. Unless t
 
 ![Diagram 1](/posts/img/qkab/above-below.png)
 
-Or perhaps it behaves more like the photons in the double slit experiment, where each ray can follow any path to the upper realm, but collapses to certain one’s because of what the consciousness in the lower realm is “observing”.
+Or perhaps it behaves more like the photons in the double slit experiment, where each ray can follow any path to the upper realm, but collapses to certain one's because of what the consciousness in the lower realm is "observing".
 
 ### Taking control
 
 Yet, if there are differences between U & L, what are they?
-One is that U has info that is essential for us to “heal” ourselves – and attain our inheritance.
+One is that U has info that is essential for us to "heal" ourselves – and attain our inheritance.
 
 This is where they connect. What is the point, the primal point of what you are doing, or the event, or the words you use? Are they feeding the upper realms, or strengthening the Lower? Our sages say that good is a choice, while evil is natural.
 
-We have the ability, nay, the incredible gift and responsibility to affect each and everyone’s life by taking control of our own lives. Whatever one says regarding us, as human beings, whatever the comparisons one makes with the stars or the beasts, with virii or computers, we are the only living beings that are able to are consciously conscious, as far as we know. We are the only one’s we know of that make conscious and premeditated steps to control our behaviour. Even a star has no say in its destiny. The sages call this “free will”, and say that we always have a choice to do good – which generally entails going against our “natural” desires, and shaping them consciously.
+We have the ability, nay, the incredible gift and responsibility to affect each and everyone's life by taking control of our own lives. Whatever one says regarding us, as human beings, whatever the comparisons one makes with the stars or the beasts, with virii or computers, we are the only living beings that are able to are consciously conscious, as far as we know. We are the only one's we know of that make conscious and premeditated steps to control our behaviour. Even a star has no say in its destiny. The sages call this "free will", and say that we always have a choice to do good – which generally entails going against our "natural" desires, and shaping them consciously.
 
 ## Help
 
-However, if it is true that AASB, then we cannot look to the upper realms for help as they must be in the same chaotic and unsafe state that we are in. Appealing to “them”, the Upper, would, in that case, be useless. We have to solve our own problems.
+However, if it is true that AASB, then we cannot look to the upper realms for help as they must be in the same chaotic and unsafe state that we are in. Appealing to "them", the Upper, would, in that case, be useless. We have to solve our own problems.
 
 There is another possibility. That some "hero" will descend from above and save us all... We call him the Messiah - which actually also means messenger.

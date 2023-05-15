@@ -25,7 +25,7 @@ If the centralised control system succeeds, it eventually produces a density tha
 
 **Parasha in Depth**
 
-The second half of the book of Exodus—whose reading we concluded last week—was taken up primarily with the details of the Sanctuary’s construction; in Exodus’ concluding verses we read how the Sanctuary was erected and the Divine Presence came to dwell in it. Thus the Sanctuary commenced its function as the “Tent of Meeting” between G‑d and man: the place that is the focus of man’s endeavor to serve his Creator, and where G‑d communicated to man and made His presence felt within a humanly constructed abode.
+The second half of the book of Exodus—whose reading we concluded last week—was taken up primarily with the details of the Sanctuary's construction; in Exodus' concluding verses we read how the Sanctuary was erected and the Divine Presence came to dwell in it. Thus the Sanctuary commenced its function as the "Tent of Meeting" between G‑d and man: the place that is the focus of man's endeavor to serve his Creator, and where G‑d communicated to man and made His presence felt within a humanly constructed abode.
 
 In the Parshah of Vayikra, which opens the book of Leviticus, G‑d speaks to Moses from the Tent of Meeting and begins His communication of the laws governing the bringing of the korbanot, the animal and meal offerings that are the central feature of the service performed in the Sanctuary.
 
@@ -33,31 +33,31 @@ In the Parshah of Vayikra, which opens the book of Leviticus, G‑d speaks to Mo
 
 _A man who shall bring near of you an offering to G‑d (1:2)_
 
-The verse does not say “a man of you who shall bring near an offering,” but “a man who shall bring near of you an offering”—the offering must come from within the person. It is the animal within man that must be “brought near” and elevated by the Divine fire upon the altar.
+The verse does not say "a man of you who shall bring near an offering," but "a man who shall bring near of you an offering"—the offering must come from within the person. It is the animal within man that must be "brought near" and elevated by the Divine fire upon the altar.
 
 (The Chassidic Masters)
 
 _A man (adam) who shall bring near of you an offering to G‑d (1:2)_
 
-Why does G‑d use the word adam for “man” (instead of the more common synonym ish)? To teach us that a person cannot offer to G‑d what has not been honestly obtained by him. G‑d is saying: When you bring an offering to Me, be like Adam the first man, who could not have stolen from anyone, since he was alone in the world.
+Why does G‑d use the word adam for "man" (instead of the more common synonym ish)? To teach us that a person cannot offer to G‑d what has not been honestly obtained by him. G‑d is saying: When you bring an offering to Me, be like Adam the first man, who could not have stolen from anyone, since he was alone in the world.
 
 (Midrash Tanchuma; Rashi)
 
-When we speak of Adam as one who “was alone in the world,” we are speaking of the very first hours of his life. Thus we are speaking of Adam before he partook of the Tree of Knowledge—of man still unsullied by sin.
+When we speak of Adam as one who "was alone in the world," we are speaking of the very first hours of his life. Thus we are speaking of Adam before he partook of the Tree of Knowledge—of man still unsullied by sin.
 
-This is the deeper significance of the Torah’s reference to the bearer of a korban—which has the power to obtain atonement for a transgression—as an “Adam.” Every man, the Torah is saying, harbors in the pith of his soul a pristine “Adam,” a primordial man untouched by sin. Even at the very moment when his external self was transgressing the Divine will, his inner essence remained loyal to G‑d; it was only silenced and suppressed by his baser instincts. It is by accessing this core of purity, by unearthing that part of himself that did not sin in the first place and restoring it to its rightful place as the sovereign of his life, that man attains the state of teshuvah—return to his original state of perfection.
+This is the deeper significance of the Torah's reference to the bearer of a korban—which has the power to obtain atonement for a transgression—as an "Adam." Every man, the Torah is saying, harbors in the pith of his soul a pristine "Adam," a primordial man untouched by sin. Even at the very moment when his external self was transgressing the Divine will, his inner essence remained loyal to G‑d; it was only silenced and suppressed by his baser instincts. It is by accessing this core of purity, by unearthing that part of himself that did not sin in the first place and restoring it to its rightful place as the sovereign of his life, that man attains the state of teshuvah—return to his original state of perfection.
 
 (The Lubavitcher Rebbe)
 
 ___
 
-The first _korban_ to be described is the _olah_, **the “ascending” offering**(commonly referred to as the “burnt offering”), whose distinguishing feature is that it is raised to G‑d, in its entirety, by the fire atop the altar.
+The first _korban_ to be described is the _olah_, **the "ascending" offering**(commonly referred to as the "burnt offering"), whose distinguishing feature is that it is raised to G‑d, in its entirety, by the fire atop the altar.
 
-**Meal offerings**, called _menachot_ (“gifts”), are prepared of fine flour, with olive oil and frankincense. The priest removes a kometz (“handful”—actually the amount grasped by his three middle fingers), to be burned on the altar; the remainder is eaten by the priests.
+**Meal offerings**, called _menachot_ ("gifts"), are prepared of fine flour, with olive oil and frankincense. The priest removes a kometz ("handful"—actually the amount grasped by his three middle fingers), to be burned on the altar; the remainder is eaten by the priests.
 
-There are five types of donated meal offerings: 1) the standard “meal offering,” brought as raw flour; 2) the “baked meal offering,” which came in two forms: loaves or 3) flat matzot; 4) the “pan-fried” meal offering; 5) the minchat marcheshet, deep-fried in a pot.
+There are five types of donated meal offerings: 1) the standard "meal offering," brought as raw flour; 2) the "baked meal offering," which came in two forms: loaves or 3) flat matzot; 4) the "pan-fried" meal offering; 5) the minchat marcheshet, deep-fried in a pot.
 
-The following rule applies to all the meal offerings (including the “loaves”):
+The following rule applies to all the meal offerings (including the "loaves"):
 
 > No meal offering which you shall bring to G‑d shall be made leavened; for you shall burn no leaven, nor any honey, in any offering of G‑d made by fire . . .
 
@@ -65,9 +65,9 @@ Another rule is that
 
 >Your every meal offering you shall season with salt; never shall you suspend the salt covenant of your G‑d.
 
-This latter rule applies to all _korbanot_: “With all your offerings you shall offer salt.”
+This latter rule applies to all _korbanot_: "With all your offerings you shall offer salt."
 
-Another meal offering mentioned here is the _minchat bikkurim_ (also called the _“Omer”_) brought on the second day of Passover from the year’s very first barley harvest. In this _minchah_, the kernels are roasted by fire before they are ground into flour.
+Another meal offering mentioned here is the _minchat bikkurim_ (also called the _"Omer"_) brought on the second day of Passover from the year's very first barley harvest. In this _minchah_, the kernels are roasted by fire before they are ground into flour.
 
 (In addition, a meal offering accompanied all animal offerings.)
 
@@ -79,7 +79,7 @@ Another meal offering mentioned here is the _minchat bikkurim_ (also called the 
 
 _No leaven . . . [shall be present] in any offering of G‑d (2:11)_
 
-Leaven, which is dough that has fermented and risen, represents self-inflation and pride, and there is nothing more abhorrent to G‑d. In the words of the Talmud, “G‑d says of the prideful one, ‘He and I cannot dwell together in the world.’”
+Leaven, which is dough that has fermented and risen, represents self-inflation and pride, and there is nothing more abhorrent to G‑d. In the words of the Talmud, "G‑d says of the prideful one, 'He and I cannot dwell together in the world.'"
 
 (The Chassidic Masters)
 
@@ -87,15 +87,15 @@ Leaven, which is dough that has fermented and risen, represents self-inflation a
 
 **The Peace Offering**
 
-The _shelamim_, or “peace offering,” could be either male or female, and from either “the herd” (i.e., an ox or a cow) or “the flock” (a sheep or a goat).
+The _shelamim_, or "peace offering," could be either male or female, and from either "the herd" (i.e., an ox or a cow) or "the flock" (a sheep or a goat).
 
-Like the _olah_, its blood was sprinkled upon the altar; but unlike the _olah_, which “ascended” in its entirety upon the altar, the meat of the _shelamim_ was eaten by the “owner”—the one who brought the offering (two portions of the animal, the breast and the right thigh, were eaten by the priests). Only certain parts of the animal were burned on the fire atop the altar:
+Like the _olah_, its blood was sprinkled upon the altar; but unlike the _olah_, which "ascended" in its entirety upon the altar, the meat of the _shelamim_ was eaten by the "owner"—the one who brought the offering (two portions of the animal, the breast and the right thigh, were eaten by the priests). Only certain parts of the animal were burned on the fire atop the altar:
 
 >The fat that covers the innards; all the fat that is upon the innards; the two kidneys and the fat that is on them, which is by the flanks; and the appendage of the liver, which he shall remove with the kidneys.
 
-If the peace offering is a sheep, “the whole fat tail, up to the backbone” was added to these.
+If the peace offering is a sheep, "the whole fat tail, up to the backbone" was added to these.
 
-Because they are offered to G‑d on the altar, these specified veins of fat, which the Torah calls _cheilev_, are forbidden for consumption in all domestic animals: “It shall be a perpetual statute for your generations throughout all your habitations: all _cheilev_ and all blood you shall not eat.”
+Because they are offered to G‑d on the altar, these specified veins of fat, which the Torah calls _cheilev_, are forbidden for consumption in all domestic animals: "It shall be a perpetual statute for your generations throughout all your habitations: all _cheilev_ and all blood you shall not eat."
 
 ---
 
@@ -115,7 +115,7 @@ When G‑d separated the supernal waters from the lower waters (see Genesis 1:6�
 
 (Rashi)
 
-The korban, which was the vehicle of the elevation of the world to G‑d, had to include “representatives” of all four sectors of creation: the inanimate world, the vegetable world, the animal world and the human world. Thus the korban was offered by a human being, and consisted of an animal, grain and salt.
+The korban, which was the vehicle of the elevation of the world to G‑d, had to include "representatives" of all four sectors of creation: the inanimate world, the vegetable world, the animal world and the human world. Thus the korban was offered by a human being, and consisted of an animal, grain and salt.
 
 (Rabbi Isaac Luria)
 
@@ -123,11 +123,11 @@ The korban, which was the vehicle of the elevation of the world to G‑d, had to
 
 ---
 
-When the Torah refers to the korbanot as “G‑d’s bread,” this is obviously a metaphor; but what is its significance? In what sense are we “feeding” G‑d when we offer up to Him ourselves and our material resources in the quest to serve Him?
+When the Torah refers to the korbanot as "G‑d's bread," this is obviously a metaphor; but what is its significance? In what sense are we "feeding" G‑d when we offer up to Him ourselves and our material resources in the quest to serve Him?
 
-Our sages have said that “G‑d fills the world as a soul fills a body.” On the human level, food is what sustains “life,” which is the assertion of the soul’s powers via its physical vessel, the body. And so it is with the Divine life-force that suffuses the created existence: “G‑d’s food” is what we would call whatever it is that asserts the Divine reality as a manifest presence in our physical world.
+Our sages have said that "G‑d fills the world as a soul fills a body." On the human level, food is what sustains "life," which is the assertion of the soul's powers via its physical vessel, the body. And so it is with the Divine life-force that suffuses the created existence: "G‑d's food" is what we would call whatever it is that asserts the Divine reality as a manifest presence in our physical world.
 
-With our every act of serving G‑d, we fulfill the divine purpose of creation—that “there be for Him a dwelling in the physical realms.” We thus breathe life into the world-body, asserting and manifesting its quintessence and soul.
+With our every act of serving G‑d, we fulfill the divine purpose of creation—that "there be for Him a dwelling in the physical realms." We thus breathe life into the world-body, asserting and manifesting its quintessence and soul.
 
 (The Chassidic Masters)
 
@@ -135,17 +135,17 @@ With our every act of serving G‑d, we fulfill the divine purpose of creation�
 
 **The Sin Offerings**
 
-The _korbanot_ discussed up to this point are “donations”—offerings pledged out of a desire to give to G‑d. Now the Torah moves on to discuss obligatory offerings, such as the chatat, the “sin offering” brought to atone for an inadvertent transgression of the Divine will.
+The _korbanot_ discussed up to this point are "donations"—offerings pledged out of a desire to give to G‑d. Now the Torah moves on to discuss obligatory offerings, such as the chatat, the "sin offering" brought to atone for an inadvertent transgression of the Divine will.
 
 ---
 
 **Guilt Offerings**
 
-For certain transgressions, the offering brought in atonement is not a “sin offering” but an _asham_ (“guilt offering”). An _asham_ is distinguished from the standard sin offering in that it was a male sheep, and that it had to be worth at least “two shekels of silver of the shekel of the Sanctuary.”
+For certain transgressions, the offering brought in atonement is not a "sin offering" but an _asham_ ("guilt offering"). An _asham_ is distinguished from the standard sin offering in that it was a male sheep, and that it had to be worth at least "two shekels of silver of the shekel of the Sanctuary."
 
-Three types of _asham_ are described in our Parshah. The first is brought by one who unintentionally made unauthorized use of property belonging to the Sanctuary—a crime called me’ilah (“betrayal”). He must pay back what he had expropriated, adding to that an additional one-fifth of its value, and also bring an asham to obtain atonement for his unintentional trespass.
+Three types of _asham_ are described in our Parshah. The first is brought by one who unintentionally made unauthorized use of property belonging to the Sanctuary—a crime called me'ilah ("betrayal"). He must pay back what he had expropriated, adding to that an additional one-fifth of its value, and also bring an asham to obtain atonement for his unintentional trespass.
 
-A second type of “guilt offering” is the _asham talui_, brought by one who thinks he may have unwittingly committed a transgression, but is not sure. (For example, he had two pieces of meat before him and ate one of them; later, he discovers that one of them was _cheilev_—forbidden fat—a trespass which would obligate him to bring a sin offering if he would know with certainty that he committed it.)
+A second type of "guilt offering" is the _asham talui_, brought by one who thinks he may have unwittingly committed a transgression, but is not sure. (For example, he had two pieces of meat before him and ate one of them; later, he discovers that one of them was _cheilev_—forbidden fat—a trespass which would obligate him to bring a sin offering if he would know with certainty that he committed it.)
 
 The third and last asham of our Parshah is the one brought in atonement by one who swears falsely in the process of defrauding his fellow man.
 
@@ -153,7 +153,7 @@ The third and last asham of our Parshah is the one brought in atonement by one w
 
 _If the anointed [high] priest sins to the guilt of the people (4:3)_
 
-When a leader sins, this becomes the excuse for everyone else’s wrongdoings.
+When a leader sins, this becomes the excuse for everyone else's wrongdoings.
 
 (The Gaon of Lissa)
 

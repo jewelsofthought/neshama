@@ -120,7 +120,7 @@ n19:29 [אַל־תְּחַלֵּל אֶת־בִּתְּךָ לְהַזְנוֹת
 n19:29 [אֶל־תְּחַלֵל]{dir='rtl'} &mdash; _Do not profane_. _Rashi_ and _Sifra_ comment that the outcome of such treacherous conduct &mdash; [וְלֹא־תִזְנֶה הָאָרֶץ]{dir='rtl'} &mdash; _lest the land become lewd_ &mdash; is that the earth itself will become guilty of harlotry, and
 it will be unfaithful to its people, causing its fruits to go astray ([מְזַנֶּה]{dir="rtl"}), producing them elsewhere and not in your Land.
 
-.  as it says ([_Jeremiah_ 3:2-3](https://www.chabad.org/16000#v2))"  "and you defiled the Land with your harlotries ([בִּזְנוּתַיִ]{dir="rtl"})…] Therefore, the rains were withheld” (_Torath Kohanim_ 19:77).
+.  as it says ([_Jeremiah_ 3:2-3](https://www.chabad.org/16000#v2))"  "and you defiled the Land with your harlotries ([בִּזְנוּתַיִ]{dir="rtl"})…] Therefore, the rains were withheld" (_Torath Kohanim_ 19:77).
 
 n19:30 [שַׁבְּתֹתַי]{dir='rtl'} &mdash; _My Sabbaths..._ Both the Sabbath and idolary are reckoned as equal to all the commandments in the Torah. Idol worship is a clear denial of G-d. Sabbath desecration, too, is a denial that G-d created for six days and rested on the seventh &mdash; the eternal reminder of G-d as the Creator (_Rambam_).
 
@@ -139,7 +139,7 @@ v31:
 
 n19:31 [אַל־תִּפְנ֤וּ אֶל־הָֽאֹבֹת֙ וְאֶל־הַיִּדְּעֹנִ֔ים]{dir='rtl'} &mdash; _Do not turn to the Ovos and Yid'onim_. These are magical practices that purport to foretell the future.
 
-And what are these forms of sorcery? One who practices the sorcery of _Ov_ is “Pithom the sorcerer” (see _Rashi_ [_Deut_. 18:11](https://www.chabad.org/9982#v11)); [he communes with the dead, as it were, by raising the spirit of the dead, which then] speaks from his armpit. [And one who practices the sorcery of] _Yid’oni_ inserts the bone of a creature called _Yido’a_ (see _Bartenura_, _Mishnah Kilayim_ 8:5) into his mouth, and the bone speaks [from there] (_Torath Kohanim_ 19:79; _Sanh_. 65b).
+And what are these forms of sorcery? One who practices the sorcery of _Ov_ is "Pithom the sorcerer" (see _Rashi_ [_Deut_. 18:11](https://www.chabad.org/9982#v11)); [he communes with the dead, as it were, by raising the spirit of the dead, which then] speaks from his armpit. [And one who practices the sorcery of] _Yid'oni_ inserts the bone of a creature called _Yido'a_ (see _Bartenura_, _Mishnah Kilayim_ 8:5) into his mouth, and the bone speaks [from there] (_Torath Kohanim_ 19:79; _Sanh_. 65b).
 
 [אֲנִי ה' אֱלֹֽהֵיכֶֽם]{dir='rtl'} &mdash; _I am the Lord, your G-d_. Be aware Whom you are discarding in order to pursue knowledge of the future by turning to the prophets of _Ov_ and _Yid'oni_.
 
@@ -163,7 +163,7 @@ n19:35-36 **Weights and measures**. The Torah likens a person doing business to 
 
 The Torah does not decree a physical punishment for a sin unless there is a negative commandment enjoining us not to commit that deed.
 
-n20:2-5 [מֹּלֶךְ]{dir='rtl'} &mdash; _Molech_. Scripture says, “There shall not be found among you] anyone who passes his son or daughter through fire” ([_Deut_. 18:10](https://www.chabad.org/9982#v10)).
+n20:2-5 [מֹּלֶךְ]{dir='rtl'} &mdash; _Molech_. Scripture says, "There shall not be found among you] anyone who passes his son or daughter through fire" ([_Deut_. 18:10](https://www.chabad.org/9982#v10)).
 
 n20:4 [וְאִם הַעְלֵם יַעְלִימוּ]{dir='rtl'} &mdash; _But if [the people of the land] ignore [that man]_.  [The double expression intimates that] if they ignore one matter [i.e., even one sin and avert their eyes], they will eventually ignore many matters. Only if the courts and the people are consistent can they function properly (_Rashi_; _Or HaChaim_).
 
@@ -184,7 +184,7 @@ n20:7-8 [וְהִתְקַדִּשְׁתֶּם]{dir='rtl'} &mdash; _You shall san
 
 The sequence of verses alludes to the teaching that the very thought of idol worship &mdash;' he merely _turns_ to it (verse 6) &mdash; is regarded by G-d as if someone had actually worshipped idols (_Kidushim_ 39b). But how can someone control his thoughts? Therefore the Torah teaches that it is incumbunt upon every Jew to attempt to sanctify himself by performing the commandments and by avoiding evil to the best of his abilty. G-d promises that in reward for his sincere efforts, [והְיִיתֶם קְדוֹשִׁים]{dir='rtl'}, _and you will be holy;_; G-d will assist him in cleansing his thoughts(_Be'er Yitzchok_; _Meshech Chochmah_).
 
-n20:9 [דָּמָיו בּֽוֹ]{dir='rtl'} &mdash; _His blood is upon himself_. This refers to [the death penalty by] stoning. Simply, it means that the violateor brought the punishment upon himself, “his blood is upon his [own] head” ([_Josh_. 2:19](https://www.chabad.org/15786#v19)).
+n20:9 [דָּמָיו בּֽוֹ]{dir='rtl'} &mdash; _His blood is upon himself_. This refers to [the death penalty by] stoning. Simply, it means that the violateor brought the punishment upon himself, "his blood is upon his [own] head" ([_Josh_. 2:19](https://www.chabad.org/15786#v19)).
 
 n20:10 [מֽוֹת־ימות]{dir='rtl'} &mdash; _Shall be put to death_.  Wherever a death penalty is mentioned in the Torah without specification [as to the mode of death], it exclusively refers to strangulation (_Torath Kohanim_ 20:106; _Sanh_. 52b).
 

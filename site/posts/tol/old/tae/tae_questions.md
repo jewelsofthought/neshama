@@ -33,27 +33,27 @@ modified: 2022-01-28T14:43:37.989Z
       11. [Empowerment:](#empowerment)
    10. [People centric:](#people-centric)
    11. [Requirements:](#requirements)
-      1. [Belief](#belief)
-      2. [Faith](#faith)
-      3. [Commitment](#commitment)
-      4. [Support](#support-1)
-      5. [Confidentiality](#confidentiality)
-      6. [Responsibility](#responsibility)
-      7. [Trust](#trust)
-      8. [Transparency](#transparency-1)
-      9. [Truthful](#truthful)
+   1. [Belief](#belief)
+   2. [Faith](#faith)
+   3. [Commitment](#commitment)
+   4. [Support](#support-1)
+   5. [Confidentiality](#confidentiality)
+   6. [Responsibility](#responsibility)
+   7. [Trust](#trust)
+   8. [Transparency](#transparency-1)
+   9. [Truthful](#truthful)
    12. [4 Noble TruthsNo stealing, no lying.](#4-noble-truthsno-stealing-no-lying)
    13. [Principles:](#principles)
    14. [Purpose](#purpose)
    15. [Goal](#goal)
-      1. [1 million](#1-million)
+   1. [1 million](#1-million)
    16. [The Tree](#the-tree)
    17. [One sentence statement:](#one-sentence-statement)
    18. [Parables](#parables)
-      1. [Freedom:](#freedom)
-      2. [Web:](#web-1)
-      3. [Vision:](#vision)
-      4. [Fractal coherence:](#fractal-coherence)
+   1. [Freedom:](#freedom)
+   2. [Web:](#web-1)
+   3. [Vision:](#vision)
+   4. [Fractal coherence:](#fractal-coherence)
          1. [Triangles: smallest component](#triangles-smallest-component)
    19. [Unification](#unification)
    20. [Join the network](#join-the-network)
@@ -70,7 +70,7 @@ modified: 2022-01-28T14:43:37.989Z
 
 - How: Strategy: How are we going to bring about this transition?
   Consciousness shift. From static, absolute, empirical view of objects that are time-invariant, to looking at events that are constantly becoming. That is, trying to find a local balance, or dynamic harmony within the greater system, and the local system. From a view of the universe that is static and absolutist, to one that is fluid, dynamic and relative.
-- How: Implementation: What are the steps necessary to implement to shift from this paradigm to that “new” paradigm?
+- How: Implementation: What are the steps necessary to implement to shift from this paradigm to that "new" paradigm?
   Instead of creating, perhaps we need to learn as a society, a nation and a community to practice constraint.
   In any relationship of sharing there is a giver and a taker. One could say a loser and a winner. That is how energy flows. If the recipient uses all the energy to produce or maintain something productive, all and good. Waste is energy that is not utilised. If he hoards the energy, then it is not being used, and becomes toxic - for he will be collecting "waste" energy. If he (the recipient) has used his energy well, he will have regained his strength, and will be able now to become a giver... That is how the circles are completed.
 - What: Design: What structures that will support that?
@@ -101,7 +101,7 @@ modified: 2022-01-28T14:43:37.989Z
 
 Collectives of co-operation, clusters of affinity groups, like mycelium - feeding, supporting, using... a communications, transport and information network.
 
-I have named it “The Tree of Life Network”. It is essentially a collection of [communities](sustainable.html) made up of like-minded people. A place where those who feel a deep mistrust of the current structure can gather, and begin to design & build the society that we imagine, while being supported by a vast network co-ordinating and communicating the efforts of all these cultural creatives.
+I have named it "The Tree of Life Network". It is essentially a collection of [communities](sustainable.html) made up of like-minded people. A place where those who feel a deep mistrust of the current structure can gather, and begin to design & build the society that we imagine, while being supported by a vast network co-ordinating and communicating the efforts of all these cultural creatives.
 
 To change oneself is the most difficult battle, to change a community is multiples more difficult. We need to evolve into a better system of social governance and trade relations, and can no longer be reliant on the present system. The only way to do that is to fashion a more effective system, one that better represents the reality of our global societies, not to waste our energy fighting "for" the current system.
 
@@ -127,7 +127,7 @@ These communities are connected by affinities, forming a connected web. Within t
 
 > This is what the Jihadist movements offer the people - an alternative way of life. Not that most of them want the to live under repressive Islamic regimes, but they prefer that to the Christian, capatalist way of life. The freedoms that the Western Civilizations offer, are less appealing than the constraints that the Islamic way of life imposes. In the West, we would of course believe that it is imposed on them by the authorotarian patriarchal adherents to the religion, but that is convenient and fits into the correct narrative - from the perspective of the Western mind. However, by the same token, the Islamic adherents could respond with the same analysis of what is occurring in what believes it is the "freest country in the world, a beacon of freedom to all the oppressed of the world", the USA.
 
-The beauty of this present time is that we don’t have to design it – it already exists and is widely manifest in all the big IT arena [Google, FB, etc](cloud.html) - what we call the Cloud - we just have to adapt it to our use. The technology would be the same technology. It is just those who wield it whose [intentions and goals](finite_games.html) will be different.
+The beauty of this present time is that we don't have to design it – it already exists and is widely manifest in all the big IT arena [Google, FB, etc](cloud.html) - what we call the Cloud - we just have to adapt it to our use. The technology would be the same technology. It is just those who wield it whose [intentions and goals](finite_games.html) will be different.
 
 What I will mention, is that the web is formed from the people who are members of the [network](networks.html). It can manifest any structure of connectivity that they wish to.
 
@@ -170,7 +170,7 @@ What do I know about this concept?
 12. Fractal:
     Fractal nature of the structure. It manifests the same structure at all levels. This is how one maintains the integrity of the structure. It has many similarities to present infrastructures, but has smaller distances between each level.
 
-## Goal of the n/w:
+## Goal of the n/w
 
 As far as the network is concerned, the basic concept is to create a sovereign, independent network, that will rely on the public network as little as is practically possible. It will local mesh networks, home based servers providing resources and protection.
 
@@ -178,13 +178,13 @@ As far as the network is concerned, the basic concept is to create a sovereign, 
 
 ## Ideal
 
-“Creating a dynamic balance between a centralised control based paradigm and local sovereignty/empowerment."
+"Creating a dynamic balance between a centralised control based paradigm and local sovereignty/empowerment."
 
 ## The Tree power dynamics
 
 Although the structure itself is not the new, it will enable, under the correct conditions, for a new foundation to emerge. One which enable the emergence of entities and communities that can support and maintain and allow this new paradigm to stabilise and arise as a relevant influence on the current paradigm.
 
-It uses the principle of “when the people lead, the leaders will follow”. The power comes from below, facilitated by the power which is above. There is enough will and creativity amongst all of us who envision another way of relating to the world around us to manifest the world we wish to live in.
+It uses the principle of "when the people lead, the leaders will follow". The power comes from below, facilitated by the power which is above. There is enough will and creativity amongst all of us who envision another way of relating to the world around us to manifest the world we wish to live in.
 
 This expressive form of the network is tree like, which represents a more natural hierarchy: "the less the power and the greater the area of responsibility, the less the power. Whilst the smaller the domain, the greater the power & 'individual' sovereignty, as well as greater decision making power." This allows for the ultimate responsibility to lie on as low a level as is feasible. It envisages a structure that functions on the local level with global reach/functionality as well. An expression of the 70's slogan, "Act locally, think globally".
 
@@ -230,7 +230,7 @@ This is a structure upon which we can begin to build a New Paradigm (NP).
 
 2. Structure
 
-   - Organise network into tree structure with parent(s) part of “parent” group.
+   - Organise network into tree structure with parent(s) part of "parent" group.
    - All decisions percolate up the tree via the parent.
    - Used for communication, and organisation
 
@@ -274,7 +274,7 @@ The web is expressing a certain coherence to enable efficient communication betw
 
 If one mapped a Tree of Life onto that already existing web, it would provide a structure upon which to build another sort of interaction and transaction that is more attuned to US.
 
-The web already exists. The Tree of Life Network, which is a mapping of our coherence, doesn’t.
+The web already exists. The Tree of Life Network, which is a mapping of our coherence, doesn't.
 
 We believe that we will have more freedom once the basic necessities of life are taken care of.
 
@@ -283,7 +283,7 @@ But then "[Freedom](freedom.html) for... what?"
 1. Organise in self-similar manner
    Image: Seeds of Life gather to form a Flower of Life, which we call a lotus - or locus - of life, and it becomes the focus of your life. Each cluster will eventually connect to every other. In the meantime, we continue to plant the seeds which grow into trees, for within the flowers is a structure called the Tree of Life. This structure is a key that opens at least one portal.
 2. Only purpose of the tree like structure of the n/w is to disseminate information amongst the nodes. It will collect and collate this information, so that we can draw a map of the body that we are part of.
-3. Smallest unit is “affinity group” organised with an _abba_ or and _imma_ or both.
+3. Smallest unit is "affinity group" organised with an _abba_ or and _imma_ or both.
    Each affinity group clusters around a sacred center, like an honeycomb
 
 ---
@@ -293,18 +293,18 @@ But then "[Freedom](freedom.html) for... what?"
 > These benefits are as trustworthy as the network is.
 > If the information & communication it is truthful, then the information is worthy of trust.
 
-### Information:
+### Information
 
 Verified **info**:
 The network will provide access to all information. But will differentiate between that which has been verified, and that which has not.
 
 It can also contain access to lists of people/companies offering products or services who are part of the network and as such are answerable to this community. Can verify the company too.
 
-### Connection:
+### Connection
 
     Enable connections & communications between people of like mindedness.
 
-### Markets for products:
+### Markets for products
 
 - Closer **connection** between producer and consumer.
 - Always by closest to consumer.
@@ -312,43 +312,43 @@ It can also contain access to lists of people/companies offering products or ser
 - Support for manufacture of these products
 - possible to list products and their availability for people to purchase.
 
-### Education/Training:
+### Education/Training
 
 - Place for **education**
 
-### Support:
+### Support
 
 Support of one another's initiatives/ventures; especially those that sustain the members of the network.
 
-### Transparency:
+### Transparency
 
 Keep track of politicians, movement of money, bills, etc.
 
-### Consolidation:
+### Consolidation
 
     Groups list what they require. As it percolates up the network it aggregates, and the figures become more realistic for the larger network, and if there is a large enough desire, someone should step forward to supply this product to the consumer. It will give people incentives to begin such enterprises having an idea of what this market is.
 
-### Commercial force:
+### Commercial force
 
 With consolidation and focus of purchasing power will enable us to focus our energy and resources to make this more natural and organic lifestyle to be sustained and made more easily available to members and the general public.
 
-### Voting block:
+### Voting block
 
 Similarly, we can produce candidates and support politicians that vote in the support of life and not money/material/death.
 
-### Community:
+### Community
 
     - A place where you can live a more earthly/human lifestyle.
     - A place where we can seek and find for this more holistic lifestyle.
     - A place where those that are seeking to change their lifestyle can transition to.
 
-### Empowerment:
+### Empowerment
 
     A place where your voice will be heard. A way in which we can express our opinions and our vote will make a difference. A place where everyone is involved to whatever extent they wish to be in any and all decisions. Something we call [_partial consensus_](consensus.html)
 
 ---
 
-## People centric:
+## People centric
 
 The ideal would be to be fully connected, however this is not possible. It would require way too much resources to build, let alone maintain. Need to be organised more efficiently so that the process is streamlined.
 
@@ -364,7 +364,7 @@ How to do that? By a massively global system of co-operation and co-ordination t
 
 They are welcome to participate in our exchange system as well. It is based purely on [energy exchange](energy_exchange.html)
 
-## Requirements:
+## Requirements
 
 ### Belief
 
@@ -388,7 +388,7 @@ There is an aspect of privacy, of confidentiality (in confidence) that is requir
 
 ### Responsibility
 
-This refers to the responsibility one takes towards ones group and ones “children” as well as to any person who you have invited into the network as his or her sponsor.
+This refers to the responsibility one takes towards ones group and ones "children" as well as to any person who you have invited into the network as his or her sponsor.
 
 ### Trust
 
@@ -401,14 +401,14 @@ Honesty and openness in all transactions.
 
 ### Truthful
 
-## 4 Noble TruthsNo stealing, no lying.
+## 4 Noble TruthsNo stealing, no lying
 
 1. Right action
 2. Right speech
 3. Right thoughts
 4. Love
 
-## Principles:
+## Principles
 
 1. **Open**:
    All decisions, decision making, minutes of meetings and opinions regarding said decisions are available to all. They will reside in a central repository that is available to all members of the network. All access to these documents will also be recorded. (The unpredictable always comes from the dark unknown).
@@ -443,9 +443,9 @@ The world around you
 If 1000 people could think one thought, have a common goal, and work towards it.... Unity is strength
 What if 1000 became 100,000, what would the effect be?
 
-And 1 million – what that be enough to change the course of humanity’s future?
+And 1 million – what that be enough to change the course of humanity's future?
 
-The idea is extremely simple, based on one of the oldest ideas around “Unity is strength. Divided we fall, united we stand”. The more people we can get acting in a co-ordinated way to produce the kind of lifestyle they dream of, environmentally and in other areas, that is, the more results we will be able to achieve.
+The idea is extremely simple, based on one of the oldest ideas around "Unity is strength. Divided we fall, united we stand". The more people we can get acting in a co-ordinated way to produce the kind of lifestyle they dream of, environmentally and in other areas, that is, the more results we will be able to achieve.
 
 There are easily more than a million of us with the same dream, with the same desire. We know and have known for a while now that if we do not do something soon, we are going to enter some extremely difficult times - which have now arrived. I know, I know, we have been hearing it for years, and look, everything looks fine - doesn't it?
 
@@ -476,7 +476,7 @@ Then we are crowned with sovereignty.
 
 ---
 
-## One sentence statement:
+## One sentence statement
 
     1. In order to move from the current paradigm requires a non-hierarchical, self-sustaining  system that will more accurately map our future needs, and thus enable us to use that information to more efficiently direct our energy towards the human potential to be realised.
     2. In order to change the current paradigm we need to enhance the current pyramidical framework to enable and empower the people, who form the nodes at the edges of the system – the so-called leaves of the tree.  This is done by creating a system, a coherent connected network in which the leaf nodes are heard and can be acknowledged.
@@ -484,29 +484,29 @@ Then we are crowned with sovereignty.
 
 ## Parables
 
-### Freedom:
+### Freedom
 
 Space to be, without unnecessary fear.
 I envisage freedom as the space and the resources to express that creative energy that lurks inside me and is begging to be allowed to manifest in my life.
 Each day I am in gratitude for the blessing of the constraint in which my spirit, which yearns to be free, is bound.
 
-### Web:
+### Web
 
 Playing the strands brings another into the greater vibration, the song of my web.
 
-### Vision:
+### Vision
 
 To be part of something greater – shifting towards a fuller way of life as a human being on this earth – battling with the desire to be myself; and dealing with the constant reflection I see in the world around me.
 
 ---
 
-### Fractal coherence:
+### Fractal coherence
 
 Knowing the pattern. The pattern that makes up the structure is coherent in a fractal sense, in that it repeats itself from the smallest component to the largest.
 
 At each point, at each breath, I imagine the infinite walking into the rabbit hole of the fractal. But I fear no evil for the universe is coherent (& the Lord is my witness).
 
-Form of fractal coherence which allows for greater space of movement (Mei Wan Ho’s: The crystal is the form that allows the greatest degrees of freedom). Freedom is found by balancing constraint. Only by acknowledging myself as part of the web of life, can I find the place that I can truly be. In the truth of my being I acknowledge that the totality is far larger that I could ever know, that I exist in a web, as a jewel in the Net of Indra.
+Form of fractal coherence which allows for greater space of movement (Mei Wan Ho's: The crystal is the form that allows the greatest degrees of freedom). Freedom is found by balancing constraint. Only by acknowledging myself as part of the web of life, can I find the place that I can truly be. In the truth of my being I acknowledge that the totality is far larger that I could ever know, that I exist in a web, as a jewel in the Net of Indra.
 The fractal is embedded in the I of each of us. I embrace the web of which my life is woven, the net of my life following the strand of convenience.
 
 #### Triangles: smallest component
@@ -528,7 +528,7 @@ The information from this circle is then propagated up in the same manner, 1 con
 
 ## Unification
 
-We unify because we truly want the same things. We don’t unify because we want to be able to express our own individual truth. But now that we have individuated, how do we cohere again?
+We unify because we truly want the same things. We don't unify because we want to be able to express our own individual truth. But now that we have individuated, how do we cohere again?
 
 ```
 Unity is strength:
@@ -562,7 +562,7 @@ So you form affinity group in your present life. Identify all the people who mak
 
 > All fractals include the imaginary, and the infinite. Then begin to express a form that replicates itself at each layer.
 
-## Group dynamics:
+## Group dynamics
 
 If issue has 5/5 split, report it as 5/5 split to next level. That collects report from 10 other such groups and collates information.
 
@@ -571,7 +571,7 @@ e.g. How to prevent solar panel company from pushing its product?
 By needing it to spread locally and organically.
 No blanket marketing? The person will ask for the product from that supplier, because it is the only one, or the most local one, or the best one.
 
-A parent takes on the responsibility of facilitating the communication with the n/w, and thus takes on extra by being on both the groups. There is also the possibility of the parent of the child group communicating with one of the members of the “parent” group.
+A parent takes on the responsibility of facilitating the communication with the n/w, and thus takes on extra by being on both the groups. There is also the possibility of the parent of the child group communicating with one of the members of the "parent" group.
 
 ## Sponsors
 
@@ -587,7 +587,7 @@ As well as the sponsors. The person that brought that individual (or group) into
 Difference is that we do not gather around one person. But by acknowledging the sacred, we gather wherever there is a group of 10 or more members. Thus we have the jewels appearing around whom we gather and support.
 Previous paradigm: honour 1 person, man, chief, priest, king. Now honour yourself and through that honour, everyone else.
 So it is with intention – hallow everything.
-Aspect of this work, and this network – there is nowhere to hide. All is being “recorded” and responded to. Thoughts are now alive and affect your brain and everything around.
+Aspect of this work, and this network – there is nowhere to hide. All is being "recorded" and responded to. Thoughts are now alive and affect your brain and everything around.
 
 ## Truth temples
 

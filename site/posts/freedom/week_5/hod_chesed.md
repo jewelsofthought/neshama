@@ -14,7 +14,7 @@ date: 2022-05-14T04:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Chesed she’b Hod</h2>
+<h2>Chesed she'b Hod</h2>
 <span dir="rtl"><b>הָיום תשׁעה וְעֶשְׂרִים יָוֹם שֶׁהֵם ארבעה שָׁבוּעוֹת וְיוֹם אֶחָד לָעוֹמֵר</b></span>
 <br />
 <i>ֹToday is twenty-nine days, which is four weeks and one day of the Omer</i>
@@ -32,7 +32,7 @@ Healthy humility is not demoralizing; it bring love not fear. Humility brings jo
 
 The fifth week of our counting finds us at **Hod**, the space called Glory, the place of form which receives the vibrational force from **Netzach**. **Hod** is experienced at the left leg, on the left side of the Tree of Life. **Hod** represents physical form, understood through our sensations and perception, and so is the seat of special delights and special dilemmas in our experience of ourselves and the world.
 
-We become enmeshed in our perceptions and our sensations. Nothing supports our proclivities for judgement quite so naturally. We are part of a society which continually evaluates us according to certain standards, on the level of shape and size. Who among us is free from such self-evaluation? In this world of form, how often do we experience ourselves as either “too much” or “too little”, rather than “just right?”
+We become enmeshed in our perceptions and our sensations. Nothing supports our proclivities for judgement quite so naturally. We are part of a society which continually evaluates us according to certain standards, on the level of shape and size. Who among us is free from such self-evaluation? In this world of form, how often do we experience ourselves as either "too much" or "too little", rather than "just right?"
 
 Yet without such comparisons, we cannot exist. At each level of form on the Tree, the issues are the same. So we seek to discover the ways to utilise our limits in the service of growth and evolution.
 

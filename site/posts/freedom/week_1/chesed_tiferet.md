@@ -14,7 +14,7 @@ date: 2022-04-18T00:04:00.000Z
 </figure>
 
 <div style="text-align:center">
-<h2>Tiferet she’b Chesed</h2>
+<h2>Tiferet she'b Chesed</h2>
 <p>
 <span dir="rtl"><b>הָיום שְׁלֹשָׁה יָמִים לָעוֹמֵר</b></span>
 <br />
@@ -29,7 +29,7 @@ True love includes empathy and compassion which makes it a beautiful love. Love 
 
 </div>
 
-On this third day of our counting, we seek the balance of **Tiferet** in **Chesed**. **Tiferet** is the Heart Space, translated as “Beauty”. It is the _sefirah_ symbolising the energies of the Greater Self, the Individuated “I”.
+On this third day of our counting, we seek the balance of **Tiferet** in **Chesed**. **Tiferet** is the Heart Space, translated as "Beauty". It is the _sefirah_ symbolising the energies of the Greater Self, the Individuated "I".
 
 The Greater Self that lives within each one of us is drawn this day into the field of Lovingkindness. We receive from the outpouring of emotion that which supports the fuller awakening of our deeper Self.[^1] In turn, this Self contributes to the reality of **Chesed** itself.[^2]
 
@@ -47,12 +47,12 @@ Through the Heart I speak the deeper message of Love expressing itself in word a
 <h4>Being Paradox (Splitting the Sea)</h4>
 
 <blockquote>
-“The water was a wall for them, to their right and to their left.”<br />—Exodus 14:29
+"The water was a wall for them, to their right and to their left."<br />—Exodus 14:29
 </blockquote>
 
 Freedom is not to the right. Freedom is not to the left. Neither is it at the center.
 Any direction you take is just another form of bondage. Only by walking opposite roads at once can you be free.
-So if you catch yourself fitting into a definition, contradict it. Never say, “I am this.” Always be leaving the slavery of Egypt.
+So if you catch yourself fitting into a definition, contradict it. Never say, "I am this." Always be leaving the slavery of Egypt.
 Yes, it demands the supernatural. You are a divine spark. You are supernatural.
 Always be walking through the miraculous splitting of the sea.
 

@@ -10,7 +10,7 @@ modified: 2022-01-27T08:02:43.006Z
 
 > It calls upon us, again and again, to walk a certain path. If we do not listen to this silent voice, we will most likely encounter some form of disease&mdash;a place in which one has has no peace.
 
-The new paradigm’s lack of rootedness requires a system of communication and organisation which will enable it to embed itself in the current reality, in order to implement the environment and relationships for a better future to emerge.
+The new paradigm's lack of rootedness requires a system of communication and organisation which will enable it to embed itself in the current reality, in order to implement the environment and relationships for a better future to emerge.
 
 > Sage: "Only purpose (evolution) is to evolve into a better version of your previous self"
 
@@ -42,7 +42,7 @@ But, to embrace one of your gifts and use that time and energy and commitment to
 
 ## Human Elements (ToL)
 
-If you can’t master your own inner space, how will you negotiate, develop, design, technical spaces with their human elements?
+If you can't master your own inner space, how will you negotiate, develop, design, technical spaces with their human elements?
 
 Human element(s) considers the full range of human characteristics, including the good and the bad. The circle of probability within the circle of possibilities.
 

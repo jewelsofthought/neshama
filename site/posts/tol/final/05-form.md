@@ -31,7 +31,7 @@ If the issue can be dealt with locally, the group is encouraged to organise the 
 
 The same process takes place at the parent level. If the local cluster of 100 people, that is 10 groups, can resolve the issue, then the parents will distribute the information needed back to their own groups. Together they will create another tree, and upon that tree will form whatever organisation is needed to resolve the problem.
 
-However, if they cannot resolve it, or it affects a wider demographic, then from these 10 parents, one is designated the facilitator, and he/she becomes the “grandparent” who meets with nine other grandparents to form another group that now represents 1000-2000 people. The process described above is repeated. Thus we form a great-grandparent group, dealing with a larger constituency, and so on, into the tree dealing with larger and larger community clusters.
+However, if they cannot resolve it, or it affects a wider demographic, then from these 10 parents, one is designated the facilitator, and he/she becomes the "grandparent" who meets with nine other grandparents to form another group that now represents 1000-2000 people. The process described above is repeated. Thus we form a great-grandparent group, dealing with a larger constituency, and so on, into the tree dealing with larger and larger community clusters.
 
 This process is recursive: at whatever level the network is functioning, the same process is repeated. At level three, it will include 1000-2000 people; at level four, 10,000-20,000, and so on.
 
@@ -42,7 +42,7 @@ An enhancement is for each parent to be different as the dynamic propagates deep
 This is where the true power of the Tree of Life network really shines. It has inverted the pyramid of power, in that, as we proceed deeper into the tree, there are more people available to deal with the issues that arise.
 Let me explain. At level one, we have 10 people available, at level two, 100. Our parent group then, at level two, has 100 people to choose from (although chosen in the groups of 10). Now the grandparent group will be chosen from 1000 people. If the basic requirement is for two hours a week for the af-group, and an extra two for the parent group, it will require just six hours a week from a member in order to be able to attend all three meetings: the af-group, the parent and the grandparent group. If all 1000 people were willing to offer that amount of time, one could have 100 grandparent groups solving issues that are pertinent to their domain and groups within that domain.
 
-This is, of course, an ideal situation. In reality, these six hours could be used for a multitude of tasks that will require implementation. However, once the network is self-reliant, and all the members’ time could be used to pursue the goals of the network, imagine what could be achieved.
+This is, of course, an ideal situation. In reality, these six hours could be used for a multitude of tasks that will require implementation. However, once the network is self-reliant, and all the members' time could be used to pursue the goals of the network, imagine what could be achieved.
 
 Due to the transparent nature of all communication, the record keeping will be such that any member will be able to become familiar with the issues at hand and their history, if needed, to participate in any grandparent meeting, even though said member was not in the parent one. Remember it is recursive.
 

@@ -31,7 +31,7 @@ That "good" path is to emulate G!d, and the evil, which brings death, is to turn
 
 ## Merkava
 
-“The war has been waging between the believers and the non-believers for many years now. It was when they discovered the true purpose of the Merkava that everything changed.”
+"The war has been waging between the believers and the non-believers for many years now. It was when they discovered the true purpose of the Merkava that everything changed."
 
 We had gathered again.
 

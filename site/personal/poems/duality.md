@@ -12,7 +12,7 @@ If there were no duality, there would be no union!
 
 The rolling waves wash over me,
 In the midst of the mergence of upper and lower,
-I am balanced, hah! Like the glass on a tipsy waiter’s
+I am balanced, hah! Like the glass on a tipsy waiter's
 tray.
 
 Tree lined greyness calls to my wandering soul,
@@ -24,14 +24,14 @@ With the sharp sound of little crabs crunching.
 
 The quiet wind howls in me, the pounding of the surf raging
 Like my desire to serve, my call to arms. My knees shaking,
-I roar “My Lord, who am I?”.
+I roar "My Lord, who am I?".
 My humble soul, my true gift retorts,
-“not I, not I” but “You!”
+"not I, not I" but "You!"
 
 Shrieking shadows gather at my gates,
-“Let us in, let us in.”
+"Let us in, let us in."
 Scurrying to succour my safety, I gratefully embrace the peacefulness in that inner space.
-“Guide me, O Guides, grace me, O awesome ones with my prescience.”
+"Guide me, O Guides, grace me, O awesome ones with my prescience."
 
 Images come and images go.
 Left to think, right to dream.

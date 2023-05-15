@@ -87,7 +87,7 @@ the material world.
   <img src='img/sg_img-010.png' alt='Circle' width='133' height='133' />
 </figure>
 
-Movement implies consciousness; represented by the sixth _Sefirah_ (**Tifereth**) on the Tree-of-Life. The 6 is the Star of David, two perfectly balanced, interlocking equilateral triangles. It gives us the axiom: _'As above, so below‘_; the uniting of spiritual plane with the material plane. It is the number of God (1) in man (5).
+Movement implies consciousness; represented by the sixth _Sefirah_ (**Tifereth**) on the Tree-of-Life. The 6 is the Star of David, two perfectly balanced, interlocking equilateral triangles. It gives us the axiom: _'As above, so below'_; the uniting of spiritual plane with the material plane. It is the number of God (1) in man (5).
 
 "[The fifth point; motion] implies the idea of Time, for only through Motion, and in Time, can any event happen. Without this change and sequence, nothing can be the object of sense. (It is to be noticed that this No.5 is the number of the letter _'he'_ in the Hebrew alphabet. This is the letter traditionally consecrated to the Great Mother. It is the womb in which the Great Father, who is represented by the letter '_yod_' which is pictorially the representation of an ultimate Point, moves and begets active existence).
 
@@ -466,7 +466,7 @@ Rogers-Ramanujan Continued Fraction, Secant Method.
 
 According to legend, the Greek Philosopher Pythagoras discovered the concept of harmony
 when he began his studies of proportion while listening to the different sounds given off when
-the blacksmith‘s hammers hit their anvils. The weights of the hammers and of the anvils all gave
+the blacksmith's hammers hit their anvils. The weights of the hammers and of the anvils all gave
 off different sounds. From here he moved to the study of stringed instruments and the different
 sounds they produced. He started with a single string and produced a monochord in the ratio of
 1:1 called the Unison. By varying the string, he produced other chords: a ratio of 2:1 produced
@@ -808,7 +808,7 @@ describing, measuring and predicting these natural phenomena. But is it possible
 whole world using mathematical equations?
 This article describes how the four most famous fractals were created and explains the most
 important fractal properties, which make fractals useful for different domain of science.
-Fractals‘ properties
+Fractals' properties
 Two of the most important properties of fractals are self-similarity and non-integer dimension.
 What does self-similarity mean? If you look carefully at a fern leaf, you will notice that every
 little leaf
@@ -847,7 +847,7 @@ the iteration of polynomials and rational functions. Around the 1920s, after pub
 on the iteration of a rational function, Julia became famous. However, after his death, he was
 forgotten.
 In the 1970s, the work of Gaston Maurice Julia was revived and popularized by the Polish-born
-Benoit Mandelbrot. Inspired by Julia‘s work, and with the aid of computer graphics, IBM
+Benoit Mandelbrot. Inspired by Julia's work, and with the aid of computer graphics, IBM
 employee Mandelbrot was able to show the first pictures of the most beautiful fractals known
 today.
 Mandelbrot set
@@ -1087,14 +1087,14 @@ Step 3. Apply Procedure KS to the ―snowflake‖ in Step 2. This gives the more
 
 
 Step 4. Apply Procedure KS to the ―snowflake‖ in Step 3. This gives the ―snowflake‖
-shown in (c). (You definitely don‘t want to do this by hand– there are 192 tiny little
+shown in (c). (You definitely don't want to do this by hand– there are 192 tiny little
 equilateral triangles that are being added!)
 
 
 
 Step 5, 6 etc. Apply Procedure KS to the ―snowflake‖ obtained in the previous step.
 
-At each step of this process we create a new ―snowflake‖, but after a while it‘s hard to tell that
+At each step of this process we create a new ―snowflake‖, but after a while it's hard to tell that
 there is any change. For all practical purposes we are seeing the ultimate destination of this trip:
 the Koch snowflake itself as shown by the figure on the right.
 The Koch snowflake is a fairly complicated shape, but we can define it in two lines using a form
@@ -1111,10 +1111,10 @@ If we only consider the boundary of the Koch snowflake and forget about the inte
 infinitely jagged curve known as the Koch curve (or sometimes called the snowflake curve)
 shown in (a).
 Clearly (a) is just a rough rendering of the Koch curve, so our natural curiosity pushes us to take
-a closer look. We‘ll just randomly pick a small section of the Koch curve and magnify it (b).
+a closer look. We'll just randomly pick a small section of the Koch curve and magnify it (b).
 The surprise (or not!) is that we see nothing new– the small detail looks just like the rough detail.
 Figure (c) shows a detail of the Koch curve after magnifying it by a factor of almost 100.
-To compute the boundary of the Koch snowflake, let‘s look at the boundary of the figures
+To compute the boundary of the Koch snowflake, let's look at the boundary of the figures
 obtained in steps 1 and 2 of the construction in the above figure. At each step we replace a side
 by four sides that are 1/3 as long.
 Thus, at any given step the perimeter is 4/3 times the perimeter at the preceding step. This
@@ -1393,27 +1393,27 @@ Archimedean Solids
 Archimedean solids are made up of two or more different regular polygons. There are 13
 different solids. 7 of the 13 solids can be made by truncating a platonic solid.
 
-Below is the Greek text and an English translation from the fifth book of the “Synagoge” or
-“Collection” of the Greek mathematician Pappus of Alexandria, who lived in the beginning of
-the fourth century AD. This book gives the first known mention of the thirteen “Archimedean
-solids”, which Pappus lists and attributes to Archimedes. However, Archimedes makes no
+Below is the Greek text and an English translation from the fifth book of the "Synagoge" or
+"Collection" of the Greek mathematician Pappus of Alexandria, who lived in the beginning of
+the fourth century AD. This book gives the first known mention of the thirteen "Archimedean
+solids", which Pappus lists and attributes to Archimedes. However, Archimedes makes no
 mention of these solids in any of his extant works.
 
-The earliest surviving manuscript of Pappus’s “Collection” is located in the Vatican Library
+The earliest surviving manuscript of Pappus's "Collection" is located in the Vatican Library
 and dates from the tenth century (Codex Vaticanus Graecus 218). A photograph of a pair of
 pages from this manuscript can be downloaded from a Web site of the Library of Congress
 Vatican Exhibit.
 
 Johannes Kepler (1571-1630) was the next to write about the Archimedean solids collectively in
 his book Harmonices Mundi, although some of the solids were separately rediscovered and
-discussed by others. Kepler sharpened Pappus’s somewhat loose definition of the solids and
-gave a proof that there are precisely thirteen of them (Book II, “De Congruentia Figurarum
-Harmonicarum”, Proposition XXVIII, pages 61-65). He also provided the first known
+discussed by others. Kepler sharpened Pappus's somewhat loose definition of the solids and
+gave a proof that there are precisely thirteen of them (Book II, "De Congruentia Figurarum
+Harmonicarum", Proposition XXVIII, pages 61-65). He also provided the first known
 illustration of them as a set (see pages 62 & 64) and gave them their modern names, which are
 reproduced below. Other representations and properties of these solids can be found at
 Wikipedia and a site maintained by Tom Gettys.
 
-Pappus’s narration begins . . .
+Pappus's narration begins . . .
 Πολλὰ γὰπ ἐπινοῆζαι δςναηὸν
 ζηεπεὰ ζσήμαηα πανηοίαρ
 having all kinds of surfaces can be
@@ -1634,7 +1634,7 @@ stellations. The icosahedron has 59 stellations, of which three are shown here: 
 Four of the stellated polyhedra are regular. These are the Kepler-Poinsot polyhedra: the small
 stellated dodecahedron; its dual, the great dodecahedron; the great stellated dodecahedron; and
 its dual, the great icosahedron.
-Metatron’s Cube
+Metatron's Cube
 Metatron is the name of the angel that guards God's throne in Judaism. The figure of Metatron's
 Cube has been in sacred art for thousands of years. The 5 Platonic solids can be found within the
 cube. Because it contains the 5 Platonic solids, it is thought that it contains the building blocks of
@@ -1657,7 +1657,7 @@ cube can be found (Allocca 1).
 (Melchizidek 7)
 
 (Three-Dimensional View of Metatron's Cube)
-Although the shape of Metatron’s cube has it’s own significance in relation to sacred geometry and
+Although the shape of Metatron's cube has it's own significance in relation to sacred geometry and
 other forms of philosophy, it is more widely recognized as the basis for deriving the platonic solids, as
 seen here:
 
