@@ -54,7 +54,7 @@ I embrace more fully than ever before the worth of my separate self. The blessin
 [^1]: "Be kind in your relationships"; "Make connections that are kind, and not angry or devious"; "Treat those you are connected to kindly".
 [^2]: Love is the heart of bonding:
     This is one of the 4 spaces of bonding. This should be expressed more clearly in the movement of **Yesod** through the _sefirot_.
-    But because we are only dealing with the lower 7, the body, we do not experience the Upper, the spiritual engagement., which is expressed as "Impulse from below."
-    **Physical**: Lust/physical desire is the bond (**Malchut**). Here it is expressed in pure giving (masculine) and receiving (feminine) terms. Both are valid (and necessary). Only Love can lift us (and this) to a higher level, where the giving and the receiving are hormonious and balanced.
+    But because we are only dealing with the lower seven _sefirot_, the body, we do not experience the Upper, the spiritual engagement, which is expressed as "Impulse from below."
+    **Physical**: Lust/physical desire is the bond (**Malchut**). Here it is expressed in pure giving (masculine) and receiving (feminine) terms. Both are valid (and necessary). Only Love can lift us (and this) to a higher level, where the giving and the receiving are harmonious and balanced.
     **Emotional**: Love is the bond (**Yesod**) – **Netzach** & **Hod** have to be balanced.
     **Intellectual**: Balance/Harmony is the goal (**Tiferet**). Melding of minds. Bonding through a common vision, shared beliefs. .

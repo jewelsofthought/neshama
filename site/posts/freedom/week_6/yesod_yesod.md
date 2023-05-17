@@ -29,29 +29,32 @@ date: 2022-05-26T01:04:00.000Z
 
 Examine the bonding in connection. The forms it takes and its level of expression. Every person needs and has the capacity to bond with other people, with significant undertakings and with meaningful experiences.
 
-If I have difficulty bonding, examine your reasons for not bonding. Is the difficulty in all areas or only in certain ones? Am I too locked in my own ways? Have I been hurt in my past bonding? Has my trust been abused?
+If you have difficulty bonding, examine your reasons for not bonding. Is the difficulty in all areas or only in certain ones? Am I too locked in my own ways? Have I been hurt in my past bonding? Has my trust been abused?
 
 To cultivate your capacity to bond, even if you have valid reasons to distrust, you must remember that G-d gave you a Divine soul that is nurturing and loving and you must learn to recognize the voice within, which will allow you to experience other people's souls and hearts. Then you can slowly drop your defences when you recognize someone or something you can truly trust.
 
 For bonding to be possible it must embody the other six aspects of bonding. Successful bonding must also include actualizing the bond in constructive deeds.
 
-One additional point: Bonding breeds bonding. When you bond in one area of your life, it helps you bond in other areas.
-Begin bonding with a new person or experience you love by committing designated time each day or week to spend together constructively.
+One additional point: Bonding breeds bonding. When you bond in one area of your life, it helps you bond in other areas. Begin bonding with a new person or experience you love by committing designated time each day or week to spend together constructively[^2].
 
 </div>
 
-This is the day of **Yesod** – **Yesod** in **Yesod**. Our focus is on that _sefirah_ which symbolises the energies of our Lessor Self, our ego consciousness, our separate sense of self. The Light is centred in the pubic area. This is the energetic centre of sexuality, which is central to our ego self. It is central to the ego's task of individual biological survival.
+This is the day of **Yesod** – **Yesod** in **Yesod**. Our focus is on that _sefirah_ which symbolises the energies of our lesser Self, our ego consciousness, our separate sense of self. The Light is centred in the pubic area. This is the energetic centre of sexuality, which is central to our ego self. It is central to the ego's task of individual biological survival.
 
 Our challenge is to keep the ego open to those energies which flow from less separate aspects of Self. Then we can manifest the fuller truth of our being. We are separate and at the same time One. We are the One manifesting as the many.
 
 We are animal, yet we are other. Our minds see with the vision of the Whole. Our Hearts beat with the harmony of the Universe. We would translate image and the song into the material world of our senses. We are the beings who have the opportunity of remembering Who we are.
 
-We are not asked to kill ego, but to actualise through it our fuller Being. Our way is not to deny the urges of our lesser "i", but to express those urges in the service of healing and wholeness.[^1] I bless the opportunity we are offered to channel our True Being into specific thoughts, feelings and actions in the world.
+We are not asked to kill ego, but to actualise through it our Being[^3]. Our way is not to deny the urges of our lesser "i", but to express those urges in the service of healing and wholeness.[^1] I bless this opportunity I am offered to channel my True Being into right thoughts, feelings and actions in the world.
 
 <div class="abstract">
 
-It is to this that we are called. It is for this that our world needs us. We strengthen our sense of separate self with all the energies available to us now. We bless the opportunity we are offered to channel our True Being into specific thoughts, feelings and actions in the world. We are aware of the strengths now of our individual identity.
+It is to this that we are called. It is for this that our world needs us. We strengthen our sense of separate selves with the energies available to us now. I bless this opportunity I am offered to channel my True Being into right thoughts, feelings and actions in the world. I am aware now of the strengths of our individual identities.
 
 </div>
 
 [^1]: G-d! Who is wholeness, and who heals us.
+
+[^2]: This reminds me of the saying, "if you learn to love one cat, you will eventually love cats".
+
+[^3]: Which is just by being who I am &mdash; for better or worse.

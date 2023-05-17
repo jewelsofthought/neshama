@@ -47,6 +47,7 @@ According to a kabbalistic metaphor, we are given the task of redeeming the spar
 Our separate self is itself one such husk. It is a _klipah_ that hides the Indwelling Presence called _Shechinah_. We enclose that inner Knowing with shadows of fear, worry, judgement and comparison. We dress ourselves in the "not-yet" and the "almost" and the "not-good-enough" that well up endlessly in our minds.
 
 We are the beings on this level of reality who are given the responsibility of remembering Who we truly are. When we sink into despair, we draw our protective shells more firmly about us. When we open our eyes to the joys of existence, our shells thin, and we are able to see through them and realise our Identity.
+
 **Tiferet**, the _sefirah_ of our Greater Self, is given us this day for additional focus. When we allow ourselves to open to the gentle touch of that deep Compassion, we are led from places of despair back into the Light of our Being.
 
 I breathe deeply and release the tensions with which I have surrounded myself. I become aware of deeper influences of Compassion that awaken within me. This Light flows through me now as peaceful healing. I rest in the glow of the Presence within.{.abstract}

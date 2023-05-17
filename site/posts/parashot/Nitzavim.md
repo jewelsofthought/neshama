@@ -101,7 +101,7 @@ The covenant was binding even on unborn generations ... because parents and chil
 </p>
 </blockquote>
 
-n29:15-18] **Warning against Idolatory**. The passage warns against an astounding and sobering aspect of human behaviour. Having lived in Egypt and soon to live in Canaan, Israel would know first hand of the abominable and vain nature of idolatry &mdash; yet people might still be tempted to experiment with the "philosophies" and life-styles of its followers. So it still is. People know right from wrong, yet they devise rationalisations to legitimize the enjoyment of evil and immorality.
+n29:15-18] **Warning against Idolatry**. The passage warns against an astounding and sobering aspect of human behaviour. Having lived in Egypt and soon to live in Canaan, Israel would know first hand of the abominable and vain nature of idolatry &mdash; yet people might still be tempted to experiment with the "philosophies" and life-styles of its followers. So it still is. People know right from wrong, yet they devise rationalisations to legitimize the enjoyment of evil and immorality.
 
 n29:18] <b>שָׁל֣וֹם יִֽהְיֶה־לִּ֔י</b> &mdash; <i>Peace will be with me</i>
 
@@ -126,7 +126,7 @@ n29:19] <b>וּמָחָ֤ה יְהֹוָה֙ אֶת־שְׁמ֔וֹ מִתַּ֖
     כח הַנִּ֨סְתָּרֹ֔ת לַֽיהֹוָ֖ה אֱלֹהֵ֑ינוּ וְהַנִּגְלֹ֞ת ֹלָֹ֤נוֹּ ֹוֹּלְֹבָֹנֵֹ֨יֹנֹוּ֨ עַד־עוֹלָ֔ם לַֽעֲשׂ֕וֹת אֶת־כָּל־דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת:
 </p>
 <p>
-28. The hidden things belong to the Lord, our God, but the revealed things apply to us and to our children forever: that we must fulfill all the words of this Torah.
+28. The hidden things belong to the Lord, our God, but the revealed things apply to us and to our children forever: that we must fulfil all the words of this Torah.
 </p>
 </blockquote>
 
@@ -177,15 +177,15 @@ n29:28] <b>הנסתרות לה' ־ </b>&mdash; <i>the hidden [sins] are for G-d<
 </p>
 יב לֹ֥א בַשָּׁמַ֖יִם הִ֑וא לֵאמֹ֗ר מִ֣י יַֽעֲלֶה־לָּ֤נוּ הַשָּׁמַ֨יְמָה֙ וְיִקָּחֶ֣הָ לָּ֔נוּ וְיַשְׁמִעֵ֥נוּ אֹתָ֖הּ וְנַֽעֲשֶֽׂנָּה:
 <p dir="ltr">
-12. It is not in heaven, that you should say, "Who will go up to heaven for us and fetch it for us, to tell [it] to us, so that we can fulfill it?"     
+12. It is not in heaven, that you should say, "Who will go up to heaven for us and fetch it for us, to tell [it] to us, so that we can fulfil it?"
 </p>
 יג וְלֹֽא־מֵעֵ֥בֶר לַיָּ֖ם הִ֑וא לֵאמֹ֗ר מִ֣י יַֽעֲבָר־לָ֜נוּ אֶל־עֵ֤בֶר הַיָּם֙ וְיִקָּחֶ֣הָ לָּ֔נוּ וְיַשְׁמִעֵ֥נוּ אֹתָ֖הּ וְנַֽעֲשֶֽׂנָּה:
 <p dir="ltr">
-13. Nor is it beyond the sea, that you should say, "Who will cross to the other side of the sea for us and fetch it for us, to tell [it] to us, so that we can fulfill it?"
+13. Nor is it beyond the sea, that you should say, "Who will cross to the other side of the sea for us and fetch it for us, to tell [it] to us, so that we can fulfil it?"
 </p>
 יד כִּֽי־קָר֥וֹב אֵלֶ֛יךָ הַדָּבָ֖ר מְאֹ֑ד בְּפִ֥יךָ וּבִלְבָֽבְךָ֖ לַֽעֲשׂתֽוֹ:
 <p dir="ltr">
-14. Rather, [this] matter is very close to you; it is in your mouth and in your heart, so that you can fulfill it.
+14. Rather, [this] matter is very close to you; it is in your mouth and in your heart, so that you can fulfil it.
 </p>
 </blockquote>
 

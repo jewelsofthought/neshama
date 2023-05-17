@@ -37,15 +37,14 @@ There is something special about the number forty – it is a symbol of radical 
 
 In Jewish mystical tradition, there are four worlds. In each of the worlds there is a Tree of Life with ten _sefirot_. Four Trees yield forty _sefirot_. We are cautioned against studying Kabbalah before the age of forty. This is not a measure of time as much as a measure of awareness. We are to be well-grounded before such study can be of true meaning.
 
-Perhaps the forty days we have already spent on our journey this years are symbolic of such preparation. Perhaps we are all more ready now than ever before to receive that which awaits us at Sinai.
+Perhaps the forty days we have already spent on our journey this year are symbolic of such preparation. Perhaps we are all more ready now than ever before to receive that which awaits us at Sinai.
 
 The journey is never an easy one. In the true wilderness we are met by the crucial issues in our lives. We are also met by the deeper goals which unfold with each step. The wilderness is the place of transforming our resistances into blessings.
 
 On this fortieth day, in the week of **Yesod**, we welcome the _sefirah_ of **Hod**, the Glory of the sensations of perceptions. We wish to realise those forms of sensation within ourselves which can support the expression of the Being Who dwells within us. The channel of Light connects the pubic area and the left hip. The receptive side of the Tree strengthens our ego self now.
-**Hod** is the _sefirah_ of physical beauty. This is not only a superficial beauty, but the inner beauty we experience as holiness. It is this deep beauty, in which form expands to more fully celebrate the Energy offered it, that we celebrate today.
 
-<div class="abstract">
+**Hod** is the _sefirah_ of physical beauty. This is not a superficial beauty, but the inner beauty we experience through holiness. It is this deep beauty, in which form expands to more fully celebrate the Energy offered it, that we celebrate today.
 
-_There is profound beauty which awakens within me now. I feel the blessing of this form as renewed confidence. Fuller abilities to realise my unique path unfold for me now. I express this realisation through every thought and every action in my life._
+There is profound beauty which awakens within me now. I feel the blessing of this form as renewed confidence. Fuller abilities to realise my unique path unfold for me now. I express this realisation through every thought and every action in my life.{.abstract}
 
-</div>
+<h3>Reflections<h3>

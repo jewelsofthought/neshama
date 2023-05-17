@@ -21,7 +21,10 @@ date: 2022-05-24T01:04:00.000Z
 <i>ֹToday is thirty-nine days, which is five weeks and four days of the Omer</i>
 </p>
 
-<h4>Endurance in Connection</h4>
+<h4>
+
+Endurance in Connection[^1]
+</h4>
 
 </div>
 
@@ -35,7 +38,7 @@ Demonstrate the endurance nature of your bonding by confronting a challenge that
 
 Into this week of **Yesod**, the Foundation of our being in the world, we bring **Netzach**, the reverberation of Physical Energy. The channel of Light connects the pubic area with the right hip of the body.
 
-We allow our lesser self to be revitalised by **Netzach**, that it might acquire the to express its uniqueness more authentically in the world.
+We allow our lesser self to be revitalised by **Netzach**, that it might acquire the ability express its uniqueness more authentically in the world.
 
 The ego, our sense of separate self, is the precious identity in which we live most of the time. Our task is to create an ego able not only to support our own emerging self, but also those around us.
 
@@ -45,19 +48,7 @@ This courage flows from **Netzach**. Our energies are renewed and deepened. We a
 
 We particularly honour the Vitality which allow us to create a self worthy of the Self Who lives in us. Today gives us space to appreciate the fuller strength of our individual being.
 
-<div class="abstract">
+Today I am filled with new vitality and Spirit. A deep self-acceptance allows a new flowering of awareness now. I am at peace with the world.{.abstract}
 
-_Today I am filled with new vitality and Spirit. A deep self-acceptance allows a new flowering of awareness now. I am at peace with the world._
-
-</div>
-
-<h3>Reflections</h3>
-
-<div class="note">
-
-> Could also be expressed as
-> _Ambition in Connection_.
-> or
-> _Desire in Bonding_.
-
-</div>
+[^1]: Could also be expressed as _Ambition in Connection_ or
+_Desire in Bonding_.

@@ -39,7 +39,7 @@ So what is allowed? Could one plant grapes? One can continue to produce fruits a
 
 Essentially it is the grains and grapes (which produce wine) that are affected.
 
-Then seven Sabbatical years are followed by a fiftieth &mdash; the [Jubilee](https://www.chabad.org/parshah/article_cdo/aid/4386805/jewish/10-Jubilee-Facts-to-Know.htm) year, when all work on the land ceases, all indentured servants are set free, and all ancestral estates in the Holy Land that have been sold, revert to their original owners. This is the year following the of the 7th _smemittah_. "And you shall count for yourself seven sabbatical years, seven years seven times" [[v8](https://www.sefaria.org/Leviticus.25.8?lang=bi&with=all&lang2=en)].
+Then seven Sabbatical years are followed by a fiftieth &mdash; the [Jubilee](https://www.chabad.org/parshah/article_cdo/aid/4386805/jewish/10-Jubilee-Facts-to-Know.htm) year, when all work on the land ceases, all indentured servants are set free, and all ancestral estates in the Holy Land that have been sold, revert to their original owners. This is the year following the of the 7th _shemittah_. "And you shall count for yourself seven sabbatical years, seven years seven times" [[v8](https://www.sefaria.org/Leviticus.25.8?lang=bi&with=all&lang2=en)].
 
 Then, G-d goes into details as the purchasing of the land that will be
 affected by the Jubilee. However, in His detailing there is a constant reminder to not do wrong by your fellow Jew.[[v14](https://www.sefaria.org/Leviticus.25.14?lang=bi&with=all&lang2=en),[v15](https://www.sefaria.org/Leviticus.25.15?lang=bi&with=all&lang2=en),[v17](https://www.sefaria.org/Leviticus.25.17?lang=bi&with=all&lang2=en)]
@@ -61,7 +61,7 @@ Then, additional laws overseeing the sale of lands, laws against [fraud](https:/
 
 ### Usury
 
-[[v37](https://www.sefaria.org/Leviticus.25.35-37?lang=bi&with=all&lang2=en)] "do not exact advance or accrued interest,i.e., interest deducted in advance, or interest added at the time of repayment. but fear your God. Let your kin live by your side as such."
+[[v37](https://www.sefaria.org/Leviticus.25.35-37?lang=bi&with=all&lang2=en)] "do not exact advance or accrued interest, i.e., interest deducted in advance, or interest added at the time of repayment. but fear your God. Let your kin live by your side as such."
 
 v25:38]
 
