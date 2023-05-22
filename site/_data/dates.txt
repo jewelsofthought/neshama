@@ -38,7 +38,8 @@ site/posts/freedom/week1               2018-02
 ...
 site/posts/freedom/week7               2018-08
 
-site/posts/parashot                    2022-
+site/posts/parashot                    2022-10-22 -    
+                                       2023-10-14
 
 [TODO: Tags]
 site/posts/tol:economics               2003-02-05

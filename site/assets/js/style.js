@@ -30,3 +30,24 @@ function showhide(toggleID) {
 //   var popup = document.getElementById(popIDx)
 //   popup.classList.toggle('show')
 // }
+
+$(window).scroll(function () {
+  if ($(window).scrollTop() > 75) {
+    $('#navbar-vue-app').css('opacity', 0.3)
+  } else {
+    $('#navbar-vue-app').css('opacity', 1)
+  }
+})
+
+$(document).ready(function () {
+  $('#navbar-vue-app').live('mouseover', function () {
+    $(this).css('opacity', 1)
+  })
+
+  $('#navbar-vue-app').live('mouseleave', function () {
+    if ($(window).scrollTop() > 75) {
+      // this here
+      $(this).css('opacity', 0.3)
+    }
+  })
+})

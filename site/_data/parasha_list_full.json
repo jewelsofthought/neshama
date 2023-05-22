@@ -18,13 +18,13 @@
       "reading": "Genesis 23:1-25:18"
     },
     { "portion": "Toldot", "heb": "תולדות", "reading": "Genesis 25:19-28:9" },
-    { "portion": "Vayeitzei", "heb": "", "reading": "Genesis 28:10-32:3" },
+    { "portion": "Vayeitze", "heb": "", "reading": "Genesis 28:10-32:3" },
     {
       "portion": "Vayishlach",
       "heb": "וישׁלח",
       "reading": "Genesis 32:4-36:43"
     },
-    { "portion": "Vayeishev", "heb": "וישׁב", "reading": "Genesis 37:1–40:23" },
+    { "portion": "Vayeshev", "heb": "וישׁב", "reading": "Genesis 37:1–40:23" },
     { "portion": "Miketz", "heb": "מִקֶץ", "reading": "Genesis 41:1-44:17" },
     { "portion": "Vayigash", "heb": "", "reading": "Genesis 44:18-47:27" },
     {
@@ -65,10 +65,14 @@
     { "portion": "Emor", "heb": "", "reading": "Leviticus 21:1–24:23" },
     { "portion": "Behar", "heb": "", "reading": "Leviticus 25:1-26:2" },
     { "portion": "Bechukotai", "heb": "", "reading": "Leviticus 26:3-27:34" },
-    { "portion": "Bamidbar", "heb": "", "reading": "Numbers 1:1–4:20" },
+    {
+      "portion": "Bamidbar",
+      "heb": "בְּמִדְבַּ֥ר",
+      "reading": "Numbers 1:1–4:20"
+    },
     { "portion": "Naso", "heb": "", "reading": "Numbers 4:21–7:89" },
     { "portion": "Behaalotecha", "heb": "", "reading": "Numbers 8:1–12:16" },
-    { "portion": "Shelach", "heb": "", "reading": "Numbers 13:1–15:41" },
+    { "portion": "Shelach", "heb": "שׁלח", "reading": "Numbers 13:1–15:41" },
     { "portion": "Korach", "heb": "קֹ֔רַח", "reading": "Numbers 16:1–18:32" },
     { "portion": "Chukat", "heb": "חֻקַּ֣ת", "reading": "Numbers 19:1–22:1" },
     { "portion": "Balak", "heb": "בלק", "reading": "Numbers 22:2–25:9" },
