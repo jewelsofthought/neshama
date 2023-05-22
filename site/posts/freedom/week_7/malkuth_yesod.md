@@ -30,7 +30,7 @@ Examine the bonding aspect of your sovereignty. Healthy independence should not 
 
 </div>
 
-We are engaging the energies of the _sefirot_ as they flow into **Malchut**, the _sefirah_ of this final week of this Omer journey. Into **Malchut**, this Kingdom, we bring **Yesod**, the place of our ego. **Yesod** is the Foundation of our lesser "i" with which we interact with each other and with our world. The channel of Light is experienced between the genital area and the base of the spine.
+We are engaging the energies of the _sefirot_ as they flow into **Malchut**, the _sefirah_ of this final week of this Omer journey. Into **Malchut**, this Kingdom, we bring **Yesod**, the place of our ego. **Yesod** is the Foundation of our lesser 'i' with which we interact with each other and with our world. The channel of Light is experienced between the genital area and the base of the spine.
 
 It is possible, all too possible, to exist at **Malchut** without ever awakening to **Yesod**, eventually forgetting our fuller ego-self. The ego itself is an awakening of self-consciousness, without which we live with no perception of purpose beyond the fulfilment of material needs, and meaning beyond the identification with role, person or pattern in **Malchut**.
 
@@ -42,7 +42,7 @@ Our identity at **Yesod** is called _nefesh_, our animal soul, yet it has great 
 
 <div class="abstract">
 
-Within my world, I awaken now to a fuller appreciation for my individual being. I am filled with a new sense of my own integrity and uniqueness. I am more available than ever before to realise the One Source of all Being who experience the world with me.
+Within my world, I awaken now to a fuller appreciation for my individual being. I am filled with a new sense of my own integrity and uniqueness. I am more available than ever before to realise the One Source of all Being who experiences the world with me.
 
 </div>
 

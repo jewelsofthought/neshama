@@ -38,9 +38,8 @@ We begin the final week of our counting. It is the week of **Malchut**, the tent
 Into **Malchut** we bring **Chesed**. We bring blessing from the place of Lovekindness into the lower _sefirah_ which is so in need to that Love and Blessing. The Light today connects the base of the spine and the right shoulder.
 
 In **Malchut** there is so much confusion. It is so difficult to tell exactly what is going on. The days of this week attain special importance as we seek to perceive the manifestation of higher energies in this material world. In some ways, **Malchut** is the most crucial _sefirah_, since it is the "place" we live. **Malchut** provides the ground for Creation to manifest. **Malchut** is the _sefirah_ where the Presence can be met.
-We are challenged to discover the Light within a world of light and shadow. So we begin this week in **Malchut** with Lovingkindness.
 
-Lovingkindness infuses my world now. Its gentle Radiance illuminates all levels of my universe. Through that Light, I celebrate all Life about me. My world is blessed with Love.
+We are challenged to discover the Light within a world of light and shadow. So we begin this week in **Malchut** with Lovingkindness.
 
 <div class="abstract">
 

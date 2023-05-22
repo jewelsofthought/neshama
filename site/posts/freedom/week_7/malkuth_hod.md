@@ -40,7 +40,7 @@ Today we focus on **Hod** in **Malchut**, honouring the Physical Containment we 
 
 In our preparations for the Revelation at Sinai, we continue to seek to balance the dynamics of force and form on the Tree of Life and in ourselves as expressions of this very Tree. Our task is not to deny either aspect, but to honour both. In each are excesses and deficits that only together can be balanced.
 
-**Hod** symbolises Perceptual Form that is able to contain and express the Physical Vibrations at **Netzach**. Only **Hod** can provide creative tools to channel the energies arriving from **Netzach**. All these energetic expressions require the appropriate limitations of form&mdash;Which we refer to as "the limitations of **Hod**"&mdash;in order to actualise in ways supportive of our evolution.
+**Hod** symbolises Perceptual Form that is able to contain and express the Physical Vibrations at **Netzach**. Only **Hod** can provide creative tools to channel the energies arriving from **Netzach**. All these energetic expressions require the appropriate limitations of form &mdash; Which we refer to as "the limitations of **Hod**" &mdash; in order to actualise in ways supportive of our evolution.
 
 In **Malchut**, we need to remember that balance is possible, that all the myriad realities are aspects of the One, that through our consciousness we can realise the beauty and the glory of each living being.
 
@@ -68,8 +68,10 @@ Each thing has a place, and in that place it is good. Altogether, it is very goo
 <p>Switch on one little light and a dangerous place becomes a home. With every light you add, you become wealthier and more blessed.</p>
 <p style="text-align: right">-- Torat Menachem 5742 vol. 3, pg.1626; Ibid 5748 vol. 4, pg. 175.</p>
 
+---
+
 <div class="note">
 
-Everything in existence had and still has one single directive – to manifest. This has come under many terms, like reproduce, grow, spawn, etc. Every living thing, by the same token, is a manifestation that has its own directive, that will be expressed when the manifestation is ready, to "live". Which is essentially the awakening of the ability to perceive certain sensations.
+Everything in existence had and still has one single directive – to manifest. This has come under many terms, like reproduce, grow, spawn, etc. Every living thing, by the same token, is a manifestation that has its own directive, that will be expressed when the manifestation is ready, to "live". Which is essentially the awakening of the ability to respond to certain conditions or sensations.
 
 </div>

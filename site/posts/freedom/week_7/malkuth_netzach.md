@@ -27,7 +27,7 @@ date: 2022-05-31T01:04:00.000Z
 
 <div class="abstract">
 
-A person's dignity and a leader's success is tested by his endurance level. Will and determination reflect the power and majesty of the human spirit. The strength of one's sovereignty.
+A person's dignity and a leader's success is tested by his endurance. Will and determination reflect the power and majesty of the human spirit, the strength of one's sovereignty.
 
 How determined am I about reaching my goals? How strong is my conviction to fight for a dignified cause? How confident am I in myself? Act on something that you believe in but have been tentative about. Take the leap and just do it!
 

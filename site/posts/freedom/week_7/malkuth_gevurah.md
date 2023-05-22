@@ -61,20 +61,24 @@ I honour all the feelings which flow through me now. I become aware of the const
 <span style="text-align: right">&mdash;(Sifri, Rashi.)
 </div>
 
+<div class="poem">
+
 Tradition is not life. Tradition preserves life. But it does not give life.
 Goals are not life. Goals inspire life. But they are not life.
 Life is here in this moment now. To be alive, every moment must be a moment that never happened before.
 Which means that Torah must not be about tradition. It cannot be grounded on a memory of the past. Those are important, truly vital. But a Torah life cannot be built upon them.
 Real life, Torah life, is about who you are now, where the core of your soul lies at this very moment.
 For if it is not about the moment now, then it is not your life. And if it is not your life, then what is?
-<span style="text-align: right">&mdash;Maamar Tziyon BeMishpat 5736</span>
+[&mdash;Maamar Tziyon BeMishpat]{.caption} 5736
+
+---
 
 </div>
 
 <div class="note">
 
-Only through awareness of the limits of our existence can we become aware of the possibility of the limitless.
+> Only through awareness of the limits of our existence can we become aware of the possibility of the limitless.
 
 That is why an animal, for instance, is unaware of G-d, as it is "unaware" of any separation, being just an expression of G-d, the Creative force expressing itself, unaware of any limitations of its existence.
 
-<div>
+</div>
