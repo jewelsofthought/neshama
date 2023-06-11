@@ -9,26 +9,26 @@ modified: 2021-09-25T09:20:39.412Z
 1. [Def. of Graph](#def-of-graph)
 2. [Mechanisms – protocols of engagement](#mechanisms--protocols-of-engagement)
 3. [Internet](#internet)
-   1. [Scale free network](#scale-free-network)
+   1. [Scale-free networks](#scale-free-networks)
    2. [The World Wide Web (Social)](#the-world-wide-web-social)
    3. [Social networks (Social)](#social-networks-social)
 4. [Natural webs](#natural-webs)
-   1. [Food webs (Nature).](#food-webs-nature)
-   2. [Metabolic and protein networks (Nature).](#metabolic-and-protein-networks-nature)
+   1. [Food webs (Nature)](#food-webs-nature)
+   2. [Metabolic and protein networks (Nature)](#metabolic-and-protein-networks-nature)
 5. [Cultural](#cultural)
    1. [Jews](#jews)
 6. [Organic food](#organic-food)
 7. [Political/Economic](#politicaleconomic)
-   1. [Instance 7. Economic networks.](#instance-7-economic-networks)
-   2. [Model of the Sovereign entity.](#model-of-the-sovereign-entity)
-      1. [Example: UN decade of the child.](#example-un-decade-of-the-child)
-   3. [Sanctions & Boycotts](#sanctions--boycotts)
+   1. [Instance 7. Economic networks](#instance-7-economic-networks)
+   2. [Model of the Sovereign entity](#model-of-the-sovereign-entity)
+      1. [Example: UN decade of the child](#example-un-decade-of-the-child)
+   3. [Sanctions \& Boycotts](#sanctions--boycotts)
       1. [Example: SA Breweries](#example-sa-breweries)
-      2. [Example: Bowling for Columbine:](#example-bowling-for-columbine)
+      2. [Example: Bowling for Columbine](#example-bowling-for-columbine)
       3. [Usage: Coca cola principle](#usage-coca-cola-principle)
-   4. [Instance 4. Language networks.](#instance-4-language-networks)
-   5. [Instance 5. Citation networks.](#instance-5-citation-networks)
-   6. [Instance 9. Powerline and airline networks.](#instance-9-powerline-and-airline-networks)
+   4. [Instance 4. Language networks](#instance-4-language-networks)
+   5. [Instance 5. Citation networks](#instance-5-citation-networks)
+   6. [Instance 9. Powerline and airline networks](#instance-9-powerline-and-airline-networks)
 
 ## [Def. of Graph](http://sole.dimi.uniud.it/~massimo.franceschet/networks/nexus/examples.html)
 
@@ -42,8 +42,6 @@ This is an example of two communities, the basic entity that we refer to as a [s
 
 ## Internet
 
-### Scale free network
-
 This is a collection of routes linked by various physical lines. Ideally, the Internet would be a growing network with no central control authority. However, there are certain "essential" nodes, often referred to as hubs, and these will have influence over, and access to, many of the nodes connected to it.
 
 In the creation of a new seed, the basic node, or affinity group, two factors will determine whom to connect to: distance and bandwidth. While distance puts obvious constraints, bandwidth, which is a measure of the connection between the two people in a group, will typically be the dominant factor
@@ -53,6 +51,16 @@ The study of Internet topology is crucial to investigate the robustness of the n
 Although the channels of communication are directed and controlled, what is being communicated and who hears it is controlled for the main part by the participants of this communication - until recently.
 
 > This has to be one of the most important issues to address in the creation of a sovereign, private, community driven and facilitated network.
+
+### Scale-free networks
+
+Scale free networks are a more organic representation of networks (as opposed to more random networks, which are balanced - in that all nodes have approx. the same number of links)
+
+_Why are they called random if they are balanced with nodes having same no of links?_
+
+Because in it’s weird way, randomness produces a kind of uniformity, or sameness, in the long run. It reaches what is called a ground state – which is the state of minimum energy throughout the system. As long as it has not reached this level, it is “random”. If each link can connect to any node, you will find that most nodes will end up having about the same amount of links. There is no preference. Each one has an equal chance of getting a link. Whereas, a scale free network has some nodes having a lot of links, and the others few. In other words there is a greater variance in the amount of links each node has. This is a more normal situation, if you think of it. There is a form of intelligence that exists in this distribution, a choice to be with a preferred node. It is more entangled with the actual reality of the strange attractors.
+
+That is what the modern power-mongers wish to use to control the flow of the unfolding by taking control of the links that can or cannot be created. Perhaps they were alarmed when the internet first spun up, and people from everywhere could connect to others anywhere. Thus many new and unexpected connections would appear, some of which the power-that-be might find threatening. This resulted in internet censorship propogated by the big IT companies.
 
 ### The World Wide Web (Social)
 

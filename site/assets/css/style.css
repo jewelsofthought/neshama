@@ -70,7 +70,7 @@ p:dir(rtl) {
   font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
   text-align: start; /* left in latin, right in arabic */
   margin-inline-start: 0px; /* margin-left in latin, margin-right in hebrew */
-  padding-inline-start: 0rem; /* padding-left in latin, padding-right in hebrew */
+  padding-inline-start: 1rem; /* padding-left in latin, padding-right in hebrew */
   padding-inline-end: 0rem;
 
   font-size: 1.2rem;
@@ -140,11 +140,17 @@ figure figcaption {
   font-size: small;
 }
 
+.content p:not(:last-child), .content dl:not(:last-child), .content ol:not(:last-child), .content ul:not(:last-child), .content blockquote:not(:last-child), .content pre:not(:last-child)
+{
+  margin-bottom: 0.2rem;
+}
 /* end SCCS */
 
 figure.quote {
   text-align: justify;
-  margin-left: 2rem;
+  margin: 0 2rem;
+  background-color: whitesmoke;
+  padding: 0.5rem 1rem;
 }
 
 figure.quote p {

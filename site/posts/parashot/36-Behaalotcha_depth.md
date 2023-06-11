@@ -1,10 +1,47 @@
 ---
-title: Beha'alotcha
+title: Beha'alotcha - In depth
 description: Commentary
 tags: null
-date: 2021-05-16T12:33:06.076Z
+date: 2023-06-24T02:05:06.076Z
 modified: 2022-08-27
 ---
+8:11]
+
+<blockquote>
+<p dir="rtl">
+יא וְהֵנִיף֩ אַֽהֲרֹ֨ן אֶת־הַֽלְוִיִּ֤ם תְּנוּפָה֙ לִפְנֵ֣י יְהֹוָ֔ה מֵאֵ֖ת בְּנֵ֣י יִשְׂרָאֵ֑ל וְהָי֕וּ לַֽעֲבֹ֖ד אֶת־עֲבֹדַ֥ת יְהֹוָֽה:
+</p>
+  <p>
+11. Then Aaron shall lift up the Levites as a waving before the Lord on behalf of the children of Israel, that they may serve in the Lord's service.
+
+  </p>
+</blockquote>
+
+<details>
+<summary class='tag is-warning'>
+Q: &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+<p>
+What is the movement carried out here? Is it that Aharon moved and they copied his  movements? So he "moved" them?
+</p>
+</details>
+
+ומניף את הקורבן לארבעה צדדים: מוליך ומביא לארבע רוחות השמים, מעלה לכיוון מעלה, ומוריד לכיוון מטה
+(ש"י על ספר במדבר, פרק ה', פסוק כ"ה ובתלמוד בבלי, מסכת מנחות, דף ס"א, עמוד ב', וכן משמע בתלמוד ירושלמי תוספות ש){dir="rtl"}
+
+- When you see the truth, the most difficult thing you have to overcome is not being angry. For it is not that they are lying, but just that they do not see the truth, or see it slanted.
+
+- The wise do not love, for love as we know it is from the ego. The love of the music is not love, but more compassion, for he responds to the essence of the matter, and being void of ego, acts accordingly.
+
+<details>
+<summary class='button'>
+<span dir="rtl">כאוַיִּתְחַטְּא֣וּ </span>&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+
+Stemming from the word for sin, _Chet_, I am trying to understand the sense of the word, that is then translated as "cleansed themselves". How did it become that, as this is the reflexive tense, and should be "sinned themselves". This, I ask, "what does that actually mean, to "sin oneself"? On an individual level, is it a process by which I absorb my sin and by this process of reclamation I can be redeemed? Could it be a process of self-loving and thereby forgiveness?
+
+</details>
+
 > When you raise light in the lamps . . . toward the face of the menorah (8:2)
 
 <figure class="quote">
@@ -13,31 +50,27 @@ modified: 2022-08-27
   <figcaption>&mdash;(Midrash Rabbah)</figcaption>
 </figure>
 
-<figure class="quote">
-  <p>
-The spiritual significance of the _mitzvah_ of lighting the _menorah_ is that one should be a "lamplighter" who ignites that latent potential within "the soul of man, a lamp of G-d"  </p>
-  <figcaption>&mdash;(Proverbs 20:27)</figcaption>
-</figure>
+The idea expressed here is that each one of us should be like a lamplighter who ignites the latent potential within the soul of man which is a lamp of G-d, just as the lamplighter lights the Menorah, which is the lamp of G-d in the Mishkan and which radiates its light and love upon people (from Proverbs 20:27).
 
-<figure class='quote'>
-  <p>
-    Here, too, the endeavour must be to kindle the lamp "so that a flame arises of its own accord." In teaching and influencing one's fellow, the objective should be to establish him or her as a self-sufficient luminary: to assist in developing his talents and abilities so that his lamp independently glows and, in turn, kindles the potential in others.
-  </p>
-  <figcaption>&mdash;(The Lubavitcher Rebbe)</figcaption>
+The endeavour here is to kind the lamp "so that a flame arises of its own accord." The objective would be to establish him or her as a self-sufficient luminary, a soul whose light shines for and upon us all. The best way to do this is through influencing one's fellow, assisting in developing his talents and abilities so that his lamp independently glows and, in turn, kindles the potential in others. (from The Lubavitcher Rabbi)
+
+<figure class="quote">
+The spiritual significance of the _mitzvah_ of lighting the _menorah_ is that one should be a "lamplighter" who ignites that latent potential within "the soul of man, a lamp of G-d".
+  <figcaption>&mdash;(Proverbs 20:27)</figcaption>
 </figure>
 
 > When you raise light in the lamps (8:2)
 
-<figure class='quote'>
-  <p>
+<details>
+<summary class='tag is-dark'>
+ Background: &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
 
-    When the Kohen came to kindle the <i>Menorah</i>'s lamps each afternoon in the Holy Temple, he found them fully prepared for lighting: earlier in the day the lamps had been cleaned and filled with oil, and fresh wicks had been inserted. All he had to do was bring near the flame he carried, so that its proximity to the waiting lamp would unleash the potential for illumination which the lamp already holds.
+When the Kohen came to kindle the <i>Menorah</i>'s lamps each afternoon in the Holy Temple, he found them fully prepared for lighting: earlier in the day the lamps had been cleaned and filled with oil, and fresh wicks had been inserted. All he had to do was bring near the flame he carried, so that its proximity to the waiting lamp would unleash the potential for illumination which the lamp already holds.
 
-</p><p>
-Therein lies an important lesson to the spiritual lamplighter. Do not think that you are achieving anything that your fellow could not, in truth, achieve on his own; do not think that you are giving him something he does not already possess. The soul of your fellow is a ready lamp, filled with the purest oil and equipped with all that is required to convert its fuel into a blazing flame. It lacks only the proximity of another lamp to ignite it. If your own soul is alight, its contact with another's soul will awaken its potential for light, so that it may illuminate its surroundings and kindle other souls, in turn.
-  </p>
-  <figcaption>&mdash;(The Lubavitcher Rebbe)</figcaption>
-</figure>
+</details>
+
+Herein lies an important lesson for the spiritual lamplighter. Do not think that you are achieving anything that your fellow could not, in truth, achieve on his own; do not think that you are giving him something he does not already possess. The soul of your fellow is a ready lamp, filled with the purest oil and equipped with all that is required to convert its fuel into a blazing flame. It lacks only the proximity of another lamp to ignite it. If your own soul is alight, its contact with another's soul will awaken its potential for light, so that it may illuminate its surroundings and kindle other souls, in turn. (The Lubavitcher Rebbe)
 
 ---
 
@@ -163,7 +196,12 @@ The next day the peasant arrived at the mansion, hardly concealing his glee at h
   <figcaption>&mdash;(Midrash Rabbah)</figcaption>
 </figure>
 
-On the most basic level, this is the difference between physical and spiritual giving. In physical giving, the giver's resources are depleted by his gift—he now has less money or energy than before. In spiritual giving, however, there is no loss. When a person teaches his fellow, his own knowledge is not diminished—if anything, it is enhanced.
+<details>
+<summary class='tag is-info'>
+Note: &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+
+On the most basic level, this is the difference between physical and spiritual giving. In physical giving, the giver's resources are depleted by his gift &mdash; he now has less money or energy than before. In spiritual giving, however, there is no loss. When a person teaches his fellow, his own knowledge is not diminished &mdash; if anything, it is enhanced.
 
 Upon deeper contemplation, however, it would seem that spiritual giving, too, carries a "price." If the disciple is inferior to the teacher in knowledge and mental capability, the time and effort expended in teaching him is invariably at the expense of the teacher's own intellectual development; also, the need for the teacher to "coarsen" and simplify his ideas to fit the disciple's mind will ultimately detract from the depth and abstraction of his own thoughts.
 
@@ -175,13 +213,24 @@ In other words, there are two kinds of spiritual gifts: a gift that "costs" the 
 
 There are times when we indeed sacrifice something of ourselves for the benefit of a fellow. But there are also times when we commit ourselves to our fellow so absolutely—when the gift comes from a place so deep and so true within us—that we only grow from the experience, no matter how much we give of ourselves.
 
+</details>
+
 ---
 
 > If there be a prophet among you, I . . . speak to him in a dream. My servant Moses is not so (12:6–7)
 
 <figure class='quote'>
   <p>
-    In sleep, when the soul frees itself to a certain degree from the confines of the body, it can begin to perceive the divine essence that hides behind the material world. Moses, however, was able to see G-dliness even when awake—for him the material world did not conceal.:
+    In sleep, when the soul frees itself to a certain degree from the confines of the body, it can begin to perceive the divine essence that hides behind the material world.
   </p>
   <figcaption>&mdash;(Rabbi Israel Baal Shem Tov)</figcaption>
 </figure>
+
+<details>
+<summary class='tag is-dark'>
+Moses &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+
+Blessed is the name of our Holy Sage, the _Besht_. May his gifts be with us forevermore. He continues the above quote with the following sentence: "Moses, however, was able to see G-dliness even when awake—for him the material world did not conceal." Far from me to question his words, but I must express my irk at this constant reminder that there is the average man and then there is the Superior Man - in this case Moses - who reaches such a level of perfection that it will be unattainable by any "normal" man. But was what Moses, named by an Egyptian Priestess, but a "normal" child, who was granted glimpses into G-d's Kingdom. Thus, is it not possible that another "normal" child might be blessed in the same way, or is what happened to _Moshe Rabbeinu_ a one time event?
+
+</details>

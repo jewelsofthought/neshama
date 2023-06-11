@@ -1,20 +1,39 @@
 ---
 title: Beha'alotcha פרשׁת בהעלותך
-description: Numbers 8-12
+description: Numbers 8:1-12:16
 tags: null
-date: 2023-06-24T02:33:06.076Z
+date: 2023-06-24T02:05:01.076Z
 ---
+## In Brief
 
-8:2] How is the [מנורה]{dir="rtl"} fashioned so the the seven lamps cast light towards it's face? Because the first image we have of the _Menora_ is from a Roman victory arch.
+The name of the Parshah, _"Behaalotecha"_, means "When you raise".
+
+Aaron is commanded to raise light in the lamps of the **_menorah_**, and the tribe of Levi is initiated into the service in the Sanctuary.
+
+A **“Second Passover”** is instituted in response to the petition “Why should we be deprived?” by a group of Jews who were unable to bring the Passover offering in its appointed time because they were ritually impure. G‑d instructs Moses on the **procedures for Israel’s journeys** and encampments in the desert, and the people journey in formation from Mount Sinai, where they had been camped for nearly a year.
+
+**The people are dissatisfied** with their “bread from heaven” (the manna), and demand that Moses supply them with meat. **Moses appoints 70 elders**, to whom he imparts of his spirit, to assist him in the burden of governing the people. **Miriam** speaks negatively of Moses, and **is punished with "leprosy"**; Moses prays for her healing, and the entire community waits seven days for her recovery.
+<figure>
+  <img src='/posts/img/parashot/Menorah-001-Titus%20Arch.jpg' alt='Titus Arch' width='500' height='200' />
+  <figcaption></figcaption>
+</figure>
+
+8:2] [How is the [מנורה]{dir="rtl"} fashioned so the the seven lamps cast light towards it's face? Because the first image we have of the _Menora_ is from a Roman victory arch.]{.note}
 
 n8:2] [אל־מול פני המנִורה]{dir="rtl"} - _Toward the face of the Menora_
 
 As explained in _Exodus 25:37_, the three wicks on the right and the three wicks on the left were all directed to the _Menora_'s middle stem, thus concentrating the light toward the centre. Because it's light was not spread out...
 
-I wonder how the light of the wicks was directed toward the centre, taking into account the manner in which the _Menora_ is constructed, according to all the depictions, and _Menorot_ around. How was it constructed so that it's light did not spread out?
+<details>
+<summary class='button is-warning'>
+Q: &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+
+How the light of the wicks was directed toward the centre, taking into account the manner in which the _Menora_ is constructed, according to all the depictions, and _Menorot_ around. How was it constructed so that it's light did not spread out?
 
 One proposal was that it was actually lasers. However, it might have been constructed with some sort of shielding, or reflecting material around the wicks - though this has never been mentioned.
 
+</details>
 <figure class='quote'>
   <p>
     The "right" symbolises those who engage in spiritual pursuits, while the "left" signifies temporal activity. By having both sides give light toward the centre, the Torah teaches that all of man's activities should be directed toward the service of G-d.:
@@ -26,13 +45,34 @@ One proposal was that it was actually lasers. However, it might have been constr
 
 n8:7] Washing with the _water of purification_, was the only way to cleanse yourself after contamination of corpse, something which we no longer have today.
 
-8:8] "Take a young bull..." Regarding these bulls, was it 2 bulls per Levite, or 2 bulls for all the Levites?
+8:8] "Take a young bull..."
+
+<details>
+<summary class='button is-warning'>
+Q: &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+<p>
+Regarding these bulls, was it 2 bulls per Levite, or 2 bulls for all the Levites?
+</p>
+</details>
 
 8:10] "Children of Israel shall lean their hands upon the Levites". How is this done. There is some talk of laying of hands upon their heads. 600,000 hands upon the heads of 20,000 Levites, works out to about 30 hands per person.
 
-8:11 & 21] "Aaron waved them as a wave-service". This concept has fascinated me for a long time, trying to work out what this waving is, and how can one man wave 20,000 people. That is to me some serious magic, though we don't accept magic. Thus it was strength? What sort of magical strength is that?
+8:11 & 21]
 
-n8:13] "Life & wave". Aaron (and Moses) had the strength to life 22,000 Levites in one day, says _Vayikarah Rabbah_ (26:9). Or did they perhaps lift them all at once? Which would have taken magic! Still that is lifting people all day long.
+<details>
+<summary class='button is-info'>
+
+Note: &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+
+[וְהֵנִיף אַֽהֲרֹן אֶת־הַֽלְוִיִּם תְּנוּפָה:]{dir="rtl"} &mdash; _Then Aaron shall lift up the Levites as a waving._
+
+"Aaron waved them as a wave-service". This concept has fascinated me for a long time, trying to work out what this waving is, and how can one man wave 20,000 people. That is to me some serious magic, though we don't accept magic. Thus it was strength? What sort of magical strength is that?
+
+</details>
+
+n8:13] "Lift & wave". Aaron (and Moses) had the strength to life 22,000 Levites in one day, says _Vayikarah Rabbah_ (26:9). Or did they perhaps lift them all at once? Which would have taken magic! Still that is lifting people all day long.
 
 8:19] The Lord assigned the Levites to approach the Sanctuary, for it the Children of Israel were to approach it, a plague would fall upon them.
 
@@ -129,6 +169,6 @@ So let's get this straight. He provides those that craved meat the meat. Then He
 
 12] Miriam and Aaron speak out about the Cushite women who Moses was involved with. Aaron claims he also prophesied, not just Moses. This arrogance is not pointed to, but rather Moses' humbleness is spoken of.
 
-12:4] Here G-d appears in a cloud. The greatness of Moses is once again spoken of, in that G-d speaks only to Moses mouth-to-mouth. All other prophets Hashem appears to them in a vision or a dream.
+12:4] Here G-d appears in a cloud. The greatness of Moses is once again spoken of, in that G-d speaks only to Moses mouth-to-mouth. All other prophets **Hashem** appears to them in a vision or a dream.
 
 Miriam is punished for her transgression, but not Aaron!

@@ -8,12 +8,13 @@ modified: 2022-08-15T17:48:59.753Z
 
 1. [Quotes](#quotes)
 2. [R' Y"mba quotes](#r-ymba-quotes)
-   1. [Every Idea](#every-idea)
-   2. [Insurance](#insurance)
-   3. [Words](#words)
-   4. [Errors](#errors)
-   5. [Victory](#victory)
-   6. [New Age Movement](#new-age-movement)
+   1. [Modern Age](#modern-age)
+   2. [Every Idea](#every-idea)
+   3. [Insurance](#insurance)
+   4. [Words](#words)
+   5. [Errors](#errors)
+   6. [Victory](#victory)
+   7. [New Age Movement](#new-age-movement)
 3. [Specialisation](#specialisation)
 4. [Systems](#systems)
 5. [Sovereignty ~ empowerment](#sovereignty--empowerment)
@@ -80,6 +81,10 @@ modified: 2022-08-15T17:48:59.753Z
 ---
 
 ## R' Y"mba quotes
+
+### Modern Age
+
+> "The modern age has brought us less for more, and more for less.
 
 ### Every Idea
 

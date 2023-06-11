@@ -2,7 +2,7 @@
 title: Circular Narrative
 description: null
 url: https://philosophy-question.com/library/lecture/read/385364-what-is-circular-narrative-structure#0
-tags: null
+tags: [external]
 date: 2021-10-19T20:32:21.600Z
 ---
 

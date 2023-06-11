@@ -4,7 +4,7 @@ description: A night time jaunt through the old city of Jerusalem
 tags:
   - story
   - todo
-date: 2001-01-10T05:18:18.856Z
+date: 2001-01-01T20:18:18.856Z
 modified: 2022-08-24T19:17:26.846Z
 stars: '**'
 ---

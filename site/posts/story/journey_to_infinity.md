@@ -11,7 +11,7 @@ modified: 2023-04-18T12:48:34.172Z
 1. [Science](#science)
    1. [Atoms \& Molecules](#atoms--molecules)
    2. [Breathing](#breathing)
-2. [](#)
+2. [What is infinity - Exercise](#what-is-infinity---exercise)
 3. [I. Axiom of Existence](#i-axiom-of-existence)
    1. [Point](#point)
    2. [Awareness of Self](#awareness-of-self)
@@ -57,7 +57,7 @@ modified: 2023-04-18T12:48:34.172Z
     1. [Event Point](#event-point)
     2. [Ocean of Consciousness](#ocean-of-consciousness)
     3. [4d Minds](#4d-minds)
-11. [](#-1)
+11. [](#)
 
 <div class="poem">
 
@@ -238,6 +238,19 @@ FIG 3: In fact, a large portion of it will become you.
 > Breathe in, breathe out (x3).
 
 </div>
+
+## What is infinity - Exercise
+
+- Let us make an infinite line.
+- But first we need to have a starting point.
+- Start at a pt. (axiom of choice)
+- Instead of a goal,
+- Instead of a imagining something else (GRAVITY), some other place.
+- Remember the starting point, ø, zero, the origin.
+- Stay at that point
+- hold it
+- begin to imagine this point moving – while "holding" on to the starting point
+
 ---
 
 ## I. Axiom of Existence

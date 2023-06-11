@@ -3,7 +3,7 @@ title: Shemini in depth
 description: From our sages
 tags: [external]
 url: https://www.chabad.org/parshah/in-depth/default_cdo/aid/39684/jewish/Shemini-In-Depth.htm
-date: 2023-04-15T01:09:57.912Z 
+date: 2023-04-15T02:09:57.912Z 
 modified: 2023-04-19
 ---
 

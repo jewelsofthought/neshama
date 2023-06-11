@@ -2,7 +2,7 @@
 title: Bamidbar פרשׁת בְּמִדְבַּ֥ר
 description: Numbers-1:1-4:20
 tags: null
-date: 2023-06-10T00:34:57.001Z
+date: 2023-05-20T01:01:00.001Z
 ---
 
 ## Chapter 1

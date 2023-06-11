@@ -1,7 +1,7 @@
 ---
 title: Behar פרשׁת בְּהַ֥ר
 description: Leviticus 25:1-26:2
-date: 2023-05-27T00:34:57.000Z
+date: 2023-05-13T01:01:00.000Z
 tags: null
 ---
 

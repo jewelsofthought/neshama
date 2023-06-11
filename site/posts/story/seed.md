@@ -1,5 +1,5 @@
 ---
-title: The Seedlings
+title: Seedlings
 description: Nibiru - the seed of coming generations
 tags:
   - story

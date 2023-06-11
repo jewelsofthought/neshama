@@ -1,7 +1,7 @@
 ---
 title: Acharei פרשׁת אחרי
 description: Leviticus 16:1-18:30
-date: 2023-05-06T00:09:32.000Z
+date: 2023-05-06T01:00:00.000Z
 tags: null
 ---
 

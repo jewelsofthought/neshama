@@ -4,7 +4,7 @@ description: Each one of us is a gem
 tags:
   - story
   - brains
-date: 2001-01-10T05:23:18.856Z
+date: 2001-01-20T10:05:18.856Z
 modified: 2022-08-24T19:17:26.846Z
 stars: '****'
 ---

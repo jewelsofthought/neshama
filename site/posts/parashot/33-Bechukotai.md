@@ -2,7 +2,7 @@
 title: Bechukotai פרשׁת בְּחֻקֹּתַ֖י
 description: Leviticus 26:3 - 27:34; 
 tags: null
-date: 2023-06-03T00:34:57.966Z
+date: 2023-05-13T30:01:00.000Z
 ---
 
 ## <a href="https://www.chabad.org/parshah/article_cdo/aid/383052/jewish/Behar-Bechukotai-Roundup.htm" alt="Round up">Round up</a>

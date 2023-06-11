@@ -10,7 +10,7 @@ modified: 2023-04-24
 
 # In the Beginning
 
-![The un(en)folding](/site/posts/img/qkab/beginning.png)
+![The un(en)folding](/posts/img/qkab/beginning.png)
 
 In the beginning there was only the infinite void – darkness, chaos, _tohu v'bohu_ – the unchanging, perfect, balanced. This was the absolute totality of the infinite of infinities, _Ein Sof Aur_. Perfection reigned, endless peace and harmony, no disturbance, no ripple... a state of complete nothingness, an infinite ocean of bliss.
 
@@ -19,6 +19,8 @@ Upon this background nothing can be depicted, there is nothing to say or describ
 This was what was before there was anything.
 
 Anything that is said about such matters, any characteristics, or words, can never describe this inexpressible state, for it is unmanifest, and thus indescribable by anything manifest. This was before there was anything – and thus it is referred to as the Supernal Light, as well as the (Infinite) Void or Nothingness. It is something which is not something, yet is also not nothing. It cannot even be described as infinite for that would imply a possible finiteness, but being undifferentiated perfection, there could be nothing finite in It. It is more than infinite. It just is what it is, "I am that I am".
+
+---
 
 At some point, something changed, something shifted, something happened to disturb this endless emptiness, and we say that "a point emerged" _ex nihilo_ - out of nothing. We call this "the beginning". Out of this infinite, endless nothingness the something arose. Because the Void is perfect and balanced&mdash;all human terms. This emanation occurred in all directions simultaneously – which created a "space". This beginning, we call an _'agol'_, a circle. This is is also known as the centre - or [middle point](/posts/qkab/middle_point/), the point of origin.
 

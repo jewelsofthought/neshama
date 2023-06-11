@@ -12,10 +12,10 @@ modified: 2022-01-30T19:47:43.949Z
 
 ## The constraint (Gevurah)
 
-That it takes an infinite amount of energy to produce a finite packet of energy is an expression of constraint (_tsimtsum_) inherent in this world&mdash;which is essentially a world of constraints or limits. Because in order for the finite to emerge from the infinite, the infinite has to constrain itself! Creating a world in which the infinite expresses its finiteness, or even more directly, as an expression of the finite inherent in the infinite.
+That it takes an infinite amount of energy to produce a finite packet of energy is an expression of constraint (_tzimtzum_) inherent in this world&mdash;which is essentially a world of limits. Because in order for the finite to emerge from the infinite, the infinite has to constrain itself! Creating a world in which the infinite expresses itself is an expression of the finite inherent in the infinite.
 
-$$\infty$$&nbsp;$$\longrightarrow_{\infty^-}$$&nbsp;$$\epsilon$$
-$$\epsilon$$&nbsp;$$\longrightarrow_{\infty^+}$$&nbsp;$$\infty$$
+$$\infty \longrightarrow {\epsilon} <  0 $$
+$$0 < \epsilon \longrightarrow {\infty^+} $$
 
 Any form of order requires constraint.
 

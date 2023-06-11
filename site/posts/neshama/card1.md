@@ -62,6 +62,8 @@ modified: 2022-09-14T15:56:13.090Z
     3. [Stasis](#stasis)
     4. [Body Shape](#body-shape)
     5. [Suicide \& Judgement (170506)](#suicide--judgement-170506)
+    6. [Wild Nights (David Deida)](#wild-nights-david-deida)
+    7. [Divine Secret](#divine-secret)
 
 {% endblock %}
 
@@ -511,4 +513,22 @@ To propose that G!d punishes, or abandons us, if we commit suicide, is perhaps n
 Think of this "Judgement" as you would think of the "infinite" number that sits at the end of any endless line of numbers—already we are in the paradoxical world of higher space. This "endpoint" that doesn't exist also contains all the numbers in existence—plus all of those that aren't too. Thus we ask is infinite a number? Is the set of all sets itself a set? Similarly, is the Judgement that contains all judgements itself a judgement? All we can really do in response is to capitalise the first letter. Just as we use capital R to designate the set of all real numbers, and then call it an "infinite" set.
 In conclusion: "The good and the evil of this realm is not the same as that of the spiritual realm".
 
+### Wild Nights (David Deida)
+
+<figure class='quote'>
+  <p>
+    "Mykonos said: 'Everyone occupies their time while they wait for the big fuck, the thing they hope will finally make them happy, and all the while they are clamping down their pus-sack bodies, enjoying a few minutes of pleasurable dribble in an otherwise utterly boring day, holding back their hearts while they wait for a mommy or daddy who could save them and make them feel loved, denying God's fuck with the dumb, relentless churn of their doubting mind, resisting the Great One's love, the  ever-present Big Bang of God's love exploding as everything they see and don't see, missing God appearing now while absorbing their terror in work and kids and  whatever people do.'"
+  </p>
+  <figcaption>&mdash;from Wild Nights by David Deida</figcaption>
+</figure>
+
+### Divine Secret
+
+<figure class='quote'>
+  <p>
+    “And all shall be well, and all manner of things shall be well.” And the beautiful secret of G-d was revealed to Juliana of Norwich, the great fourteenth century saint---that all beings would somehow be brought Home. No one would have to permanently suffer in hell, for G-d is our deepest truth, our real condition of eternal love and bliss. No creature can exile himself from his love forever.
+
+  </p>
+  <figcaption>&mdash;Juliana of Norwich</figcaption>
+</figure>
 {% endblock %}

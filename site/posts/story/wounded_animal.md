@@ -4,7 +4,7 @@ description: Heal thyself
 tags:
   - story
   - complete
-date: 2001-01-23T00:39:53.293Z
+date: 2001-01-20T23:39:53.293Z
 modified: 2023-02-20T19:19:23.458Z
 stars: "***"
 ---

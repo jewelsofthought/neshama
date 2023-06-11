@@ -2,7 +2,7 @@
 title: Shemini פרשׁת שׁמיני
 description: 'Leviticus 9:1-11:46 (שׁמיני ט"א־יב"מז)'
 tags: null
-date: 2023-04-15T00:09:57.912Z 
+date: 2023-04-15T01:09:57.912Z 
 ---
 
 1. [Sin of the Golden Calf (n9\_1)](#sin-of-the-golden-calf-n9_1)

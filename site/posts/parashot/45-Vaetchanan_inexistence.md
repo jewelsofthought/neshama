@@ -3,6 +3,7 @@ title: Va'etchanan - The Inexistence of the Universe
 description: 'Deuteronomy 3:23-7:11'
 tags: [chabad]
 date: 2023-08-26T02:10:57.912Z
+stars: '****'
 ---
 
 [The Inexistence of the Universe](https://www.chabad.org/parshah/article_cdo/aid/45637/jewish/The-Inexistence-of-the-Universe.htm)
@@ -19,7 +20,7 @@ In his [Tanya](https://www.chabad.org/library/tanya/default.htm), [Rabbi Schneur
 
 Twice in the 4th chapter of [Deuteronomy](https://www.chabad.org/library/bible_cdo/aid/8164/jewish/Deuteronomy.htm) (verses 35 and 39 respectively), the [Torah](https://www.chabad.org/library/article_cdo/aid/1426382/jewish/Torah.htm) makes this amazing statement:
 
-> You were shown to know that the L-rd is G‑d,[^1] there is none else beside Him.
+> You were shown to know that the Lord is G‑d,[^1] there is none else beside Him.
 
 > Know today, and take unto your heart, that the L-rd is G‑d, in the heavens above and the earth below, there is none else.
 
@@ -29,7 +30,7 @@ Not so, say the Kabbalists and the Chassidic masters: "there is none else" means
 
 So when the Jew daily declares, "Hear O Israel, the L-rd is our G‑d, the L-rd is one," this is more than an affirmation that there is but one deity. It is a statement on the non-existence of all else save His one being.
 
-Real in Relation
+### Real in Relation
 
 Yes, we perceive our own existence and the existence of the myriads of objects and forces we call "the universe." But this is our finite and subjective perception of reality. If we could observe reality from the all-transcendent perspective of the Creator, we would see a "world" devoid of selfhood and being. In the words of the [Tanya](https://www.chabad.org/library/tanya/default.htm): "If the eye were allowed to see the life and spiritual content flowing from the utterance of G‑d's mouth into every creation, we would not see the materiality, grossness, and tangibility of the creation, for it would be utterly nullified in relation to this divine life-force..."
 

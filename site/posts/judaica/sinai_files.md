@@ -7,12 +7,6 @@ date: 2010-01-19T09:05:01.542Z
 
 ## Sinai Files
 
-<blockquote>
-<p>
-Just testing the <b>bold</b> and **beautiful**.
-</p>
-</blockquote>
-
 Based on the article in Chabad.org, called ["The Sinai Files"](https://www.chabad.org/library/article_cdo/aid/1281/jewish/The-Sinai-Files.htm) &mdash; A SciFi/Fantasy version of the classic story of Moses' battle with the angels to receive the Torah by [Tzvi Freeman](https://www.chabad.org/search/keyword_cdo/kid/193/jewish/Freeman-Tzvi.htm) from our Sages - may their light illuminate our path for generations to come - (Talmud, _Shabbat_ 88b)
 
 ## Overview
@@ -23,13 +17,20 @@ Moses challenges them from a human point of view, asking them whether they know 
 
 In the end, he convinces them, and they all praise him for his eloquence and strong argument. Even the angel of death helps him.
 
-Afterwards, apparently, Satan (who does not seem to have any authority over the angel of death. <span class="note">{NOTE: Which brings me to think that Satan only has power over the fallen ones, the demons, not any angels. That is part of his punishment}.</span>
+Afterwards, apparently Satan, who does not seem to have any authority over the angel of death asks the natural elements where the Torah is, and they all answer that they do not know!
 
-He asks the natural elements where the Torah is, and they all answer that they do not know!
+<details>
+<summary class='button is-info is-small'>
+Note: &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+<p>
+This brings me to think that Satan only has power over the fallen ones, the demons, not any angels. That is part of his punishment.
+</p>
+</details>
 
 ## Ten Words
 
-> G-d, our Divine Creator,vb makes the natural world by words, so we make the human word by our words.
+> G-d, our Divine Creator, makes the natural world by words. Thus we make the human word by our words.
 
 The Torah in heaven and the Torah as it is manifested on earth is not the same. It is not fashioned from the same material. The two languages (words) are not the same.
 

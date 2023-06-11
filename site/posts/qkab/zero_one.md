@@ -7,7 +7,7 @@ date: 2015-01-26T05:12:16.154Z
 
 1. ["I am that I am"](#i-am-that-i-am)
 2. [Desire (Neshama)](#desire-neshama)
-3. [Everything exists between 0 \& 1.](#everything-exists-between-0--1)
+3. [Everything exists between 0 \& 1](#everything-exists-between-0--1)
 4. [Zero \& One](#zero--one)
 5. [Math and infinity](#math-and-infinity)
 6. [Atom of Existence](#atom-of-existence)

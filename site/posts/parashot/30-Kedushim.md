@@ -1,7 +1,7 @@
 ---
 title: Kedushim פרשׁת קדושׁים
 description: Leviticus 19:1-20:25 (יט:א־כ:כא)
-date: 2023-05-13T00:09:32.000Z
+date: 2023-05-06T30:01:00.000Z
 tags: null
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Bamidbar - in depth
 description: Insights into the current parasha 
-tags: null
-date: 2023-06-10T01:34:57.001Z
+tags: [chabad]
+date: 2023-05-20T02:34:57.001Z
 ---
 > <i>G‑d spoke to Moses in the desert of Sinai</i> [(Numbers 1:1)]{.mycaption}
 >
