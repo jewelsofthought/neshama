@@ -31,6 +31,7 @@ function showhide(toggleID) {
 //   popup.classList.toggle('show')
 // }
 
+/****************
 $(window).scroll(function () {
   if ($(window).scrollTop() > 75) {
     $('#navbar-vue-app').css('opacity', 0.3)
@@ -51,3 +52,4 @@ $(document).ready(function () {
     }
   })
 })
+*****/

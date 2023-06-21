@@ -19,11 +19,12 @@ In the _Sefer Yetzirah_, the Book of Formation, written down sometime in the 6th
 
 The descriptions here relate to the general level at each of the _sefirot_. There exists an entire Tree in each of these four worlds, and an entire Tree in each of the _sefirot_ of each Tree in each World. The manifestations of these energies at any given level or any given place will be consistent with the general characteristics of each of the _sefirot_. The Tree will reveal the World in which it finds itself.
 
-### The World of ATZILUT (Emanation)
+<h3 class="is-double has-text-centered">The World of ATZILUT (Emanation)</h3>
 
 The upper two _sefirot_ make up the world of **Atzilut** or Emanation, and hold the energies we are in need of if we are to truly realise our freedom from bondage. But all we can do is prepare ourselves. The energies of **Atzilut** (and the energies of **Beriah**) are beyond our direct influence according to the model of the Tree utilised for the Counting of the Omer. These higher worlds respond to our readiness, but not to our control.
 
-<dir style="text-align: center">
+<div class="columns is-multiline">
+<div class="column is-offset-one-third is-one-third has-text-centered">
 
 **1**
 
@@ -40,8 +41,13 @@ Name of God: EHYEH ASHER EHYEH
 <h4 dir="rtl">אהיה אשר אהיה</h4>
 
 **I AM** that **I AM**
+</div>
+<div class="column">
+</div>
 
 ---
+
+<div class="column is-offset-two-thirds has-text-right">
 
 **2**
 
@@ -57,15 +63,16 @@ _Patach_ (Shorter "Ah")
 
 **YAH**
 
-====================================
+</div>
+</div>
 
-</dir>
+### The World of BERIAH (Creation){.is-double .has-text-centered}
 
-<dir style="text-align: right">
-
-### The World of BERIAH (Creation)
+<div class="columns is-multiline">
+<div class="column is-one-third has-text-left">
 
 **3**
+
 <h3 dir="rtl">בינה</h3>
 
 **BINAH**
@@ -77,7 +84,12 @@ _Tzeray_ (Long "Ay")
 <h4 dir="rtl">יהוה</h4>
 ELOHIM
 
+</div>
+<div class="column">
+</div>
+
 ---
+<div class="column is-offset-one-third has-text-centered">
 
 <h3 dir="rtl">דעת</h3>
 
@@ -88,13 +100,14 @@ _Crossing Over_
 Knowledge
 The Third Eye
 
-====================================
+</div>
+<div class="column"></div>
+</div>
 
-</dir>
+### The World of YETZIRAH (Formation){.is-double .has-text-centered}
 
-<dir style="text-align: left">
-
-### The World of YETZIRAH (Formation)
+<div class="columns is-multiline">
+<div class="column is-offset-two-thirds has-text-right">
 
 **4**
 
@@ -110,10 +123,13 @@ _Segol_ ("Eh")
 
 **EL**
 
+</div>
+
 ---
 
-**5**
+<div class="column is-one-third has-text-left">
 
+**5**
 <h3 dir="rtl">גבורה</h3>
 
 **GEVURAH**
@@ -126,7 +142,12 @@ _Sh'va_ (Silent)
 
 **ELOHIM**
 
+</div>
+<div class="column"></div>
+
 ---
+
+<div class="column is-offset-one-third is-one-third has-text-centered">
 
 **6**
 
@@ -144,7 +165,11 @@ _Cholem_ ("Oh") or _Kamatz_ ("Ah")
 
 **ADONAI**
 
+</div>
+
 ---
+
+<div class="column is-offset-two-thirds has-text-right">
 
 **7**
 
@@ -161,7 +186,11 @@ _Chirek_ (Long "E")
 
 **ADONAI TZAVA'OT**
 
+</div>
+
 ---
+
+<div class="column is-one-third has-text-left">
 
 **8**
 
@@ -178,14 +207,19 @@ _Kubbutz_ (Sorter "OO")
 
 **ELOHIM TZAVA'OT**
 
+</div>
+<div class="column"></div>
+
 ---
+
+<div class="column is-offset-one-third is-one-third has-text-centered">
 
 **9**
 
 <h3 dir="rtl">יסוד</h3>
 
 **YESOD**
-Foundation
+Foundations
 The Loins
 Ego "I" – Separate Self
 Orange
@@ -194,19 +228,23 @@ _Shurek_ (Long "OO") or _Cholem_ ("Oh")
 
 **SHADDAI EL CHAI**
 
-====================================
+</div>
+</div>
 
-</dir>
+### The World of ASSIYAH (Action){.is-double .has-text-centered}
 
-<dir style="text-align: center">
-
-### The World of ASSIYAH
+<div class="columns">
+<div class="column is-offset-one-third is-one-third has-text-centered">
 
 **10**
 
-<h3 dir="rtl">מלכות</h3>
+<h3>
 
-**MALCHUT**
+[מלכות]{dir="rtl"}
+MALCHUT
+
+</h3>
+
 Kingdom
 The Base of the Spine
 Manifest reality
@@ -217,3 +255,7 @@ Identity lost/hidden in the manifest world
 <h4 dir="rtl">אדוני</h4>
 
 **ADONAI** / Lord
+
+</div>
+<div class="column"></div>
+</div>

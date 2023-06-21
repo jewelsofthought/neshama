@@ -24,7 +24,7 @@ Judy Barrett{.has-text-centered}
 
 #### Daniel Abrams </b> <b>סמרבא לאינד</b> (Videos, Manuscripts)
 
-[Note: Essentially his material seems to be about researching the manuscripts.]{.note}
+This material seems to be about researching the manuscripts.{.note}
 
 <p>(2019) [27:11@1:10] <a href="https://www.youtube.com/watch?v=-e9suoPPurI">The Problem of
     Multiple Kabbalistic Manuscripts</a> (Hebrew)</p>
@@ -59,7 +59,7 @@ Judy Barrett{.has-text-centered}
     The
     Poetics of Time and Space in the Midrashic Narrative — ... Pirkei de Rabbi Eliezer</a></p>
 
-**Note**: Interesting and deep analysis of Pirqe de-Rabbi Eliezer.{.note}
+Interesting and deep analysis of Pirqe de-Rabbi Eliezer.{.note}
 
 <p>&nbsp;</p>
 

@@ -2,7 +2,7 @@
 title: Naso - In depth
 description: In depth
 tags: [chabad]
-date: 2023-06-02T02:00:00.001Z
+date: 2023-06-03T02:00:00.001Z
 ---
 
 _He shall bring her offering for her, the tenth part of an ephah of barley meal (5:15)_

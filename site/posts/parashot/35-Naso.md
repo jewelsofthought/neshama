@@ -2,7 +2,7 @@
 title: Naso פרשׁת נָשׂ֗א
 description: Numbers 4:21 - 7:89; Judges 13:2-25
 tags: null
-date: 2023-06-02T01:00:00.001Z
+date: 2023-06-03T01:00:00.001Z
 ---
 ## Naso in brief
 
@@ -10,7 +10,7 @@ The name of the Parshah, "Naso," means "Count" and it is found in Numbers 4:22.
 
 Completing the headcount of the Children of Israel taken in the Sinai Desert, a total of 8,580 Levite men between the ages of 30 and 50 are counted in a tally of those who will be doing the actual work of transporting the Tabernacle.
 
-G‑d communicates to Moses the ritual of the sotah, the wayward wife suspected of unfaithfulness to her husband. Also given is the law of the nazir, who forswears wine and any grape product, does not take a razor to his hair, and is forbidden to become contaminated through contact with a dead body. Aaron and his descendants, the kohanim, are instructed that their task si to bless the people of Israel, and on how to do that.
+G‑d communicates to Moses the ritual of the _sotah_, the wayward wife suspected of unfaithfulness to her husband. Also given is the law of the nazir, who forswears wine and any grape product, does not take a razor to his hair, and is forbidden to become contaminated through contact with a dead body. Aaron and his descendants, the _kohanim_, are instructed that their task si to bless the people of Israel, and on how to do that.
 
 The leaders of the twelve tribes of Israel each bring their offerings for the inauguration of the altar. Although their gifts are identical, each is brought on a different day and is individually described by the Torah.
 
@@ -62,11 +62,9 @@ It is quite a ritual, and I think that in a community that practised it, it must
 
 5:31] the man shall be absolved of iniquity and the woman shall bear her iniquity. {Why?}
 
+
+
 ## Chapter 6
-
--
-
----
 
 <blockquote>
 <div class="columns is-multiline">

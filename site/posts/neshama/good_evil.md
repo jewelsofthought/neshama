@@ -76,14 +76,9 @@ I can dedicate my life and consciousness to delving into this question. If I dec
 Does G-d exist? The only way one can argue this existential point is by looking at G-d as having been created, which is the anthropomorphisation of the Primal Cause. G-d is not a Man up in Heavens, or any other sort of creation that exists in the realm of our consciousness. Although we refer to Him with a personal pronoun, His essence is non-material, and thus, any human characteristics that we attribute to Him are for our benefit, and do not speak of His being in any shape or form.
 
 expressed in the prayer,
-
-              |
-
-</details>
-<div class="block">
+<blockquote>
    <div class="columns">
-      <div class="column">
-         <div dir="rtl" style="margin-bottom: 1rem; margin-inline: 2rem">
+    <div class="column" dir="rtl" style="margin-bottom: 1rem; margin-inline: 2rem is-pulled-right">
 
 יִגְדַּל אֱלֹהִים חַי וְיִשְׁתַּבַּח.
 נִמְצָא וְאֵין עֵת אֶל מְצִיאוּתוֹ׃
@@ -93,12 +88,8 @@ expressed in the prayer,
 לֹא נַעֲרֹךְ אֵלָיו קְדֻשָּׁתוֹ׃
 קַדְמוֹן לְכָל־דָּבָר אֲשֶׁר נִבְרָא.
 רִאשׁוֹן וְאֵין רֵאשִׁית לְרֵאשִׁיתוֹ׃
-
-         </div>
       </div>
-      <div class="column">
-
-         <div class="poem">
+      <div class="column poem is-pulled-left">
 
 Praise to the living God!
 All praised be His Name,
@@ -114,9 +105,9 @@ Declare His loveliness;
 Holy, no holiness of earth
 Can His express.
 &nbsp;&nbsp;&nbsp;&mdash; [Yigdal](https://www.poetrynook.com/poem/yigdal) from Newton Mann
-         </div>
       </div>
    </div>
+</blockquote>
 
    <details>
 <summary class='button is-outlined'>
