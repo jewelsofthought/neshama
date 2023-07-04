@@ -1,12 +1,10 @@
-
 .main-content {
   text-align: justify;
 }
 
-
 @media print {
   header {
-    display:none !important;
+    display: none !important;
   }
   content.blog-post {
     font-size: 1em;
@@ -81,7 +79,6 @@ blockquote.is-centered p {
 footnote {
   font-size: small;
   line-height: 1.2;
-  
 }
 
 button.button {
@@ -106,8 +103,9 @@ button.button {
   color: gray;
 }
 
-.content details sup,
+.content details sup {
   font-size: 75%;
+}
 
 .container-centered {
   height: 1.2rem;
@@ -117,7 +115,7 @@ button.button {
 }
 
 hr.item {
-    border-top: 2px solid gray;
+  border-top: 2px solid gray;
 }
 
 dt {
@@ -149,8 +147,11 @@ figure figcaption {
   font-size: small;
 }
 
-.content p:not(:last-child), .content dl:not(:last-child), content ol:not(:last-child), .content ul:not(:last-child), content pre:not(:last-child)
-{
+.content p:not(:last-child),
+.content dl:not(:last-child),
+.content ol:not(:last-child),
+.content ul:not(:last-child),
+.content pre:not(:last-child) {
   margin-bottom: 0.5rem;
 }
 /* end SCCS */
@@ -172,7 +173,7 @@ figure.quote p:not(:last-child) {
 
 figure.quote figcaption {
   text-align: right;
-  font-size: inherit; 
+  font-size: inherit;
 }
 
 /*** MARK ****/
@@ -251,14 +252,6 @@ mark .red {
   text-decoration: underline;
 }
 
-.main-content hr {
-  width: 70%;
-  height: 1px;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: #b2b5b8;
-}
-
 h3.is-double {
   display: block;
   border-top: 4px double;
@@ -288,6 +281,14 @@ a:hover + div {
   padding-left: 0.75em;
   padding-right: 0.75em;
   white-space: nowrap;
+}
+
+h1.is-centered,
+h2.is-centered,
+h3.is-centered,
+h4.is-centered,
+h5.is-centered {
+  text-align: center;
 }
 
 /* ------ */
@@ -360,7 +361,6 @@ a:hover + div {
   }
 }
 
-
 /* TODO: This needs to be changed in SASS 
          To increase the size of the screen for this media call
          so that the navbar will behave correctly and not overflow the display area, instead become a burger sooner. */
@@ -387,3 +387,40 @@ iframe.yt-shortcode {
   border-width: 5px;
   border-color: lightgrey;
 }
+
+/* To style lists */
+
+/* Example 1: To number headers 
+   https://css-tricks.com/almanac/selectors/m/marker/
+***/
+/****
+h3 {
+  counter-increment: h3;
+  display: list-item;
+}
+
+h3::marker {
+  display: list-item;
+  content: "#" counter(h3) " ";
+  color: lightsalmon;
+  font-weight: bold;
+}
+****/
+
+/* Example 2: End with ')' with sub-list 
+   https://codepen.io/chriscoyier/pen/abvbRVx
+***/
+
+/****
+ol {
+  list-style: none;
+  counter-reset: cupcake;
+  padding-left: 32px;
+}
+ol li {
+  counter-increment: cupcake;
+}
+ol li:before {
+  content: counters(cupcake, ".") ") ";
+}
+****/
