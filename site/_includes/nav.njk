@@ -1,7 +1,8 @@
-  <!-- header -->
-  <nav role="navigation" aria-label="main navigation"
-       class="navbar is-fixed-top is-white maxwidth header-deco"
+<!-- header -->
+<nav role="navigation" aria-label="main navigation"
+       class="navbar is-white header-deco"
        id="navbar-vue-app">
+
     <div class="navbar-brand">
       <a class="navbar-item" href="#">
         <img src="/assets/img/logo-gear.png" alt="Home" />
@@ -24,23 +25,22 @@
       </div>
 
       <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link">
+        <div class="navbar-item">
           Archives
-        </a>
+        </div>
 
         <div class="navbar-dropdown">
            <a class="navbar-item" href="/posts/">
-            <span class="fa fa-calendar"></span>&nbsp;&nbsp;By Date
+            <span class="icon"><i class="fa-regular fa-calendar"></i></span>&nbsp;By Date
           </a>
           <a class="navbar-item" href="/tags/">
-            <span class="fa fa-tags"></span>&nbsp;By Tags
+            <span class="icon"><i class="fa fa-tags"></i></span>&nbsp;By Tags
           </a>
          
           <hr class="navbar-divider">
           <a class="navbar-item" href="/tags/story/">
-            <span class="fa fa-file-image"></span>&nbsp;&nbsp;Stories
+            <span class="icon"><i class="fa-brands fa-accusoft"></i></span>&nbsp;Stories
           </a>
-         
         </div>
       </div>
 
@@ -51,17 +51,17 @@
 
         <div class="navbar-dropdown">
           <a class="navbar-item" href="/tags/final/">
-            <span class="fas fa-sitemap"></span>&nbsp;Final
+            <span class="icon"><i class="fa-solid fa-sitemap"></i></span>&nbsp;Final
           </a>
           <a class="navbar-item" href="/tags/info/">
-            <span class="fas fa-question-circle"></span>&nbsp;&nbsp;Information
+          <span class="icon"><i class="fa fa-info-circle"></i></span>&nbsp;Information
           </a>
           <hr class="navbar-divider">
           <a class="navbar-item" href="/tags/social/">
-            <span class="fas fa-th"></span>&nbsp;Social
+            <span class="icon"><i class="fa-solid fa-circle-user"></i></span>&nbsp;Social
           </a>
           <a class="navbar-item" href="/tags/order/">
-            <span class="fas fa-th"></span>&nbsp;Order
+            <span class="icon"><i class="fa-solid fa-list"></i></span>&nbsp;Order
           </a>
         </div>
       </div>
@@ -73,23 +73,24 @@
 
         <div class="navbar-dropdown">
           <a class="navbar-item" href="/tags/shaman/">
-           <i class="fa-solid fa-jedi"></i>&nbsp;Shaman
+            <span class="icon"><i class="fa-solid fa-jedi"></i></span>&nbsp;Shaman
           </a>
           <a class="navbar-item" href="/tags/math/">
-            <span class="fas fa-wave-square"></span>&nbsp;Mathematics
+            <span class="fa-solid fa-wave-square"></span>&nbsp;Mathematics
           </a>
           <hr class="navbar-divider">
 
-          <a class="navbar-item" href="/tags/tishby">&nbsp;Isaac Tishby
+          <a class="navbar-item" href="/tags/tishby">
+            <span class="icon"><i class="fa fa-gear"></i></span>&nbsp;Isaac Tishby
+          </a>          
+          <a class="navbar-item" href="/tags/wolfson">
+            <span class="icon"><i class="fa-sharp fa-bolt"></i></span>&nbsp;Elliot Wolfson
           </a>
-          
-          <a class="navbar-item" href="/tags/wolfson">&nbsp;Elliot Wolfson
-          </a>
-            <a class="navbar-item" href="/tags/universal_kabbalah/">
+          <a class="navbar-item" href="/tags/universal_kabbalah/">
             <span class="fas fa-infinity"></span>&nbsp;Universal Kabbalah
           </a>
-            <a class="navbar-item" href="/tags/zornberg/">
-            <span class="fas fa-infinity"></span>&nbsp;Aviva Zornberg
+          <a class="navbar-item" href="/tags/zornberg/">
+            <span class="fa-sharp fa-magnifying-glass"></span>&nbsp;Aviva Zornberg
           </a>
           
         </div>
@@ -105,10 +106,10 @@
             <span class="fas fa-star-of-david"></span>&nbsp;Judaica
           </a>
           <a class="navbar-item" href="/tags/freedom/">
-            <span class="fas fa-star-of-david"></span>&nbsp;Journey to Awareness
+            <span class="fas fa-anchor"></span>&nbsp;Journey to Awareness
           </a>
           <a class="navbar-item" href="/tags/parasha/">
-            <span class="fas fa-star-of-david"></span>&nbsp;Readings of the week
+            <span class="fa-solid fa-book-tanakh"></span>&nbsp;Readings of the week
           </a>
           <a class="navbar-item" href="/tags/new/">
             <i class="fas fa-circle-plus"></i>&nbsp;New
@@ -130,14 +131,14 @@
 
           <div class="navbar-dropdown">
             <a class="navbar-item" href="/about/The muddled mystic/">
-              <span class="fas fa-star-of-david"></span>&nbsp;About Me
+              <span class="icon"><i class="fas fa-book-open-reader"></i></span>&nbsp;About Me
             </a>
           
             <a class="navbar-item" href="/about/home/">
-              <span class="fas fa-star-of-david"></span>&nbsp;About Neshama
+              <span class="icon"><i class="fas fa-book-atlas"></i></span>&nbsp;About Neshama
             </a>
             <a class="navbar-item" href="/about/comp/">
-              <span class="fas fa-star-of-david"></span>&nbsp;Sobig Worm
+              <span class="icon"><i class="fa fa-compass-drafting"></i></span>&nbsp;Sobig Worm
             </a>
           </div>
         </div>
@@ -159,5 +160,6 @@
       -->
 
     </div>
-  </nav>
+
+</nav>
 

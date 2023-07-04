@@ -7,9 +7,10 @@
     <meta name="generator" content="{{ eleventy.generator }}">
     <meta name="description" content="{{ description or metadata.description }}">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | url }}">
-
-    <link rel="stylesheet" href="{{ '/assets/fonts/fontawesome.min.css' | url }}">
-    <link rel="stylesheet" href="{{ '/assets/fonts/solid.min.css' | url }}">
+    
+    <!-- fontawesome-6.4.0 -->
+    <link rel="stylesheet" href="{{ '/assets/fonts/all.min.css' | url }}">
+  
     <!--link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"-->
     <!--link rel="stylesheet" href="{{ '/assets/css/index.css' | url }}"-->
     <link rel="stylesheet" href="{{ '/assets/css/katex.min.css' | url }}">
@@ -26,27 +27,37 @@
   <body>
 
     <!--header -->
-    <header>
-      {% include "nav.njk" %}
-    </header>
-    
-    <!--content -->
-    <div class="container">
-      <div class="columns layout-base maxwidth">
+    <div class="columns is-flex-direction-column is-fullheight-100vh maxwidth">
+      <header class="column is-narrow maxwidth">
+        <div class="container">
+        {% include "nav.njk" %}
+        </div>    
+      </header>
+      
+      <!--content -->
       <div class="column">
-        <main role="main" class="content{% if templateClass %} {{ templateClass }}{% endif %}">
-        {{ content | safe }}
-        </main>
+        <div class="container">
+          <div class="columns">
+            <div class="column">
+              <main role="main" class="content{% if templateClass %} {{ templateClass }}{% endif %}">
+                {{ content | safe }}
+              </main>
+            </div>
+          </div>
+        </div>
       </div>
-      </div>
-     </div>
-  
-    <!--footer -->
-    {% include "footer.njk" %}
+    
+      <!--footer -->
+      <footer class="column is-narrow footer">
+        {% include "footer.njk" %}
+      </footer>
 
+    </div>
+    
     <!-- Javascript (at end of document) -->
+    
+    <script src="/assets/js/all.js"></script>
     <script src="/assets/js/vue.min.js"></script>
-
     <script src="/assets/js/style.js"></script>    
 
     <!-- Current page: {{ page.url | url }} -->

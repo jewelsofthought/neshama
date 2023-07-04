@@ -2,18 +2,18 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-<div class="box-deco has-background-white">
+<div class="box box-deco">
 
-  <div class="blog-post">
-    <section class="box">
-      <div class="main_title">
-        <h4 class="title is-4 blog-post-title" itemprop="name headline">
-        {% if refURL %} 
-          <a href="{{ refURL }}">{{ title }}</a>
-        {% else %}
-          {{ title }}  
-        {% endif %}
-      </div>
+   <section>
+    <div class="main_title">
+      <h4 class="title is-4 blog-post-title" itemprop="name headline">
+      {% if refURL %} 
+        <a href="{{ refURL }}">{{ title }}</a>
+      {% else %}
+        {{ title }}  
+      {% endif %}
+    </div>
+    
 
     <div class="is-clearfix"></div>
 
@@ -101,5 +101,5 @@ templateClass: tmpl-post
       {%- if pURL %}<li>Previous: <a href="{{ pURL | url }}">{{ pTitle }}</a></li>{% endif %}
     </ul>
     {%- endif %}
-  </div>
+  </section>
 </div>
