@@ -36,7 +36,10 @@ modified: 2023-04-28
 
 <p>
 
-<div class="popup is-pulled-left" onclick="document.getElementById('popID1').classList.toggle('show')"><i class="fa fa-file" aria-hidden="true"></i>
+<div class="popup is-pulled-left" onclick="document.getElementById('popID1').classList.toggle('show')">
+<span class="bulma-fa-mixin">
+  <i class="fas fa-thumbs-up"></i>
+</span>
 
   <span class="popuptext" id="popID1">[Ref:]{.is-hidden}excellent/(judaica)</span>
 </div>

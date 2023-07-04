@@ -38,8 +38,8 @@ _ADoNaY_ - 1st name, closest to those who have been created
 <div class="columns">
 <div class="column" style="max-width: 300px">
 <figure>
-  <img src="/posts/img/judaica/4_degrees.svg" alt="4 divisions of Shekhina" width="258" height="181" />
-  <figcaption>The four divisions of Shekhina</figcaption>
+  <img src="/posts/img/judaica/4_degrees.svg" alt="4 divisions of Shekhinah" width="258" height="181" />
+  <figcaption>The four divisions of Shekhinah</figcaption>
 </figure>
 </div>
 <div class="column">

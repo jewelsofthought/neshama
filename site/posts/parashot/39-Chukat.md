@@ -2,20 +2,20 @@
 title: 'Chukat פרשׁת חֻקַּ֣ת'
 description: 'Numbers 19:1-22:1 ספר במדבר'
 tags: null
-date: 2023-07-15T06:57:16.939Z
+date: 2023-07-01T01:01:16.939Z
 ---
 
 ### Chapter 19
 
-#### 19] פרה אדומה &mdash; The Red Cow </h5>
+### 19] פרה אדומה &mdash; The Red Cow </h5>
 
-The law of the Red Cow is described as the quintessential ([חקת התֹרַה]{dir="rtl"}) _Decree of the Torah_ meaning that it is beyond human understanding. Because Satan and the nations taunt Israel, saying, "What is the purpose of this commandment?" the Torah statest that it is a decree of the One Who gave the Torah, and it is not for anyone to question it _(Rashi)_. _Ramban_ explains that this particular commandment invites the taunts of the heretics because it is performed outside the Temple, as if to propitiate the "demons" of the field. _Tosafot_ (_Avodah Zarah_ 35a) state that one should not try to explain this precept because G-d gave us His best and most secret commands in the form of a "Divine Kiss", as it were, like the intimacy of a lover to his beloved.
+The law of the Red Cow is described as the quintessential ([חקת התֹרַה]{dir="rtl"}) _Decree of the Torah_ meaning that it is beyond human understanding. Because Satan and the nations taunt Israel, saying, "What is the purpose of this commandment?" the Torah states that it is a decree of the One Who gave the Torah, and it is not for anyone to question it _(Rashi)_. _Ramban_ explains that this particular commandment invites the taunts of the heretics because it is performed outside the Temple, as if to propitiate the "demons" of the field. _Tosafot_ (_Avodah Zarah_ 35a) state that one should not try to explain this precept because G-d gave us His best and most secret commands in the form of a "Divine Kiss", as it were, like the intimacy of a lover to his beloved.
 
 It is axiomatic, however, that since all laws of the Torah are the product of G-d's intelligence, any human inability to comprehend them indicates the limitation of the student, not the Teacher.
 
 The underlying message is that the Supreme Intelligence has granted man a huge treasury of spiritual and intellectual gifts, but none is more precious that the knowledge that G-d is infinite, both in existence and in wisdom, while man is as limited in his ability to comprehend as he is in his physical existence. An essential component of wisdom is the knowledge that man's failure to understand truth does not make it untrue. (abridged from R. Munk: _The Call of the Torah_).
 
-> However, even though we may be unable to understand this "eternal decree" ([לחֻקת עולם]{dir="rtl"}), as there is no longer any red cows, this decree can and is no longer active &mdash; though we relate to it as though it is still present. This is part of the cognitive dissonance that is most apparent at this time.
+> However, even though we may be unable to understand this "eternal decree" ([חֻקת עולם]{dir="rtl"}), as there are no longer any red cows, this decree can no longer be active &mdash; though we relate to it as though it is still present. This is part of the cognitive dissonance that is most apparent at this time.
 
 > Seeking a deeper relevance to this decree, it must fall into the category of "certain things that stem from the mind of God are beyond our ken", and this is a good example of that. For one of the most insidious tools of Satan is to instill us with arrogance, believing that wer can unravel all the secrets of the universe.
 
@@ -42,7 +42,7 @@ n19-20] If the tent is made of materials that can be defiled, it must be purifie
 
 ### Chapter 20
 
-#### 20] Miriam Dies
+### 20] Miriam Dies
 
 n20] A new era was now beginning. Nearly 38 years had passed since the narrative in the previous chapter.
 
@@ -56,7 +56,7 @@ From the fact that there was no water after she died, we see that it was in her 
 
 n20:3-5] **The people protest**
 
-G-d is indulgent of people who have a legitimate complain teven when they voice it more provocatively than they should (_Or HaChaim_).
+G-d is indulgent of people who have a legitimate complain even when they voice it more provocatively than they should (_Or HaChaim_).
 
 n20:8] [השׁלג]{dir="rtl"} &mdash; _The Rock_
 
@@ -89,7 +89,7 @@ e) _Chiddushei HaRim_ finds the key to the shortcomings of Moses and Aaron in th
 כו. וְהַפְשֵׁ֤ט אֶת־אַֽהֲרֹן֙ אֶת־בְּגָדָ֔יו וְהִלְבַּשְׁתָּ֖ם אֶת־אֶלְעָזָ֣ר בְּנ֑וֹ וְאַֽהֲרֹ֥ן יֵֽאָסֵ֖ף וּמֵ֥ת שָֽׁם:
 </p>
   <p>
-26. Strip Aaron of his garments and dress Eleazar his son with them. Then Aaron shall be gathered in [to his people] and die there.
+26. Strip Aaron of his garments and dress Elazar his son with them. Then Aaron shall be gathered in [to his people] and die there.
   </p>
 </blockquote>
 
@@ -116,7 +116,7 @@ Aaron died through [מיתת נשׁיקה]{dir="rtl"}, _death by a kiss_ of G-d, 
 
 20:29] **The nation wept for 30 days.**
 
-We note here is that the nation did not weep after Miriam's death.
+**N**: We note here is that the nation did not weep after Miriam's death.{.note}
 
 ### Chapter 21
 
@@ -150,9 +150,9 @@ We note here is that the nation did not weep after Miriam's death.
   </p>
 </blockquote>
 
-**N**: This is their response to this "manna" that tasted like food, but was not "real" food.I wonder if there is a connection between this and the punishment of Adam. "You shall earn your bread through the sweat of your labour." Here, when the food came from heaven, and their was no sweat and toil for it, it did not satisfy the people.{.note}
+**N**: This is their response to this "manna" that tasted like food, but was not "real" food.I wonder if there is a connection between this and the punishment of Adam. "You shall earn your bread through the sweat of your labour." Here, when the food came from heaven, and their was no sweat and toil for it, yet it did not satisfy the people.{.note}
 
-21:6] **Venemous snakes**
+21:6] **Venomous snakes**
 
 <blockquote>
 <p dir='rtl'>
@@ -165,7 +165,7 @@ We note here is that the nation did not weep after Miriam's death.
 
 n21:6]  [הנחשׁים השׂריפים]{dir="rtl"} &mdash; _Fiery serpents_. The poison in their fangs made their victims feel as if they were burning.
 
-n21:7] Once a natural force has been unleashed, special merit is needto to remove it, or protect against it, even if the sin that caused it has been removed (_Or HaChaim_).
+n21:7] Once a natural force has been unleashed, special merit is needed to to remove it, or protect against it, even if the sin that caused it has been removed (_Or HaChaim_).
 
 n21:8] (_Rosh Hashanah_ 29a) "Does a serpent cause death or life? Rather, when they looked upward and subjected their hearts to their Father in Heaven, they were healed, but if not, they died. (_Rashi_)
 
@@ -173,11 +173,9 @@ n21:9] G-d had not specified what material Moses was to fashion the serpent from
 
 21:10] Encamped at Oboth -> encamped in the ruins of the passes in the wilderness facing Moab towards the rising sun-> encamped in the valley of Zered -> encamped on the other side of Amon - which is in the wilderness that juts out from the border of the Amorite.
 
-21:14] It is said in the _Book of Wars of Hashem_:
-"The gift of [the Sea of] Reeds and the rivers of Amon;
-the outpouring of the rivers when it veered to dwell at Ar, and leaned against the border of Moab.
+21:14] It is said in the _Book of Wars of Hashem_: "The gift of [the Sea of] Reeds and the rivers of Amon; the outpouring of the rivers when it veered to dwell at Ar, and leaned against the border of Moab.
 
-n21:15] [אשׁר הנחלים]{dir="rtl"} &mdash; _The outpouring of the rivers_. Rivers of blood signaled to Israel that G-d had performed a monumental miracle on their behalf. The Amorites had planned to ambush the Israelites as they passed through a deep gorge near the Moabite border. They had hidden in caves over a narrow pass, ready to push huge boulders down upon the Jews as they passed through helplessly. Miraculously the cliffs that formed the walls of the gorge moved together with stone outcroppings moving into the caves and crushing the hidden Amorites. All of this was unknown to the Israelites until they saw blood flowing down the gorge.
+n21:15] [אשׁר הנחלים]{dir="rtl"} &mdash; _The outpouring of the rivers_. Rivers of blood signalled to Israel that G-d had performed a monumental miracle on their behalf. The Amorites had planned to ambush the Israelites as they passed through a deep gorge near the Moabite border. They had hidden in caves over a narrow pass, ready to push huge boulders down upon the Jews as they passed through helplessly. Miraculously the cliffs that formed the walls of the gorge moved together with stone outcroppings moving into the caves and crushing the hidden Amorites. All of this was unknown to the Israelites until they saw blood flowing down the gorge.
 
 [אשׁר נטה]{dir="rtl"} &mdash; _When it veered..._ The northern Amorite cliff moved southward toward Ar, until it "leaned" against it, crushing those waiting in ambush.
 
