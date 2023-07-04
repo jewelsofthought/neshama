@@ -16,6 +16,32 @@ function showhide(toggleID) {
   }
 }
 
+// To use:
+// Javascript to set active tab
+// And a bit of javascript to set current tab
+
+/****
+const Tabs = document.querySelectorAll("[data-tab]");
+const FirstLocation = "contacts";
+
+window.location.hash = FirstLocation;
+
+Tabs.forEach((element) => {
+  element.addEventListener("click", (event) => {
+    let selectedTab = event.currentTarget;
+    updateActiveTab(selectedTab);
+  });
+});
+
+let updateActiveTab = (newActiveTab) => {
+  Tabs.forEach((tab) => {
+    tab.classList.remove("is-active");
+  });
+  
+  newActiveTab.classList.add("is-active");
+};
+****/
+
 // Limited: Only works for 1 case per page.
 // KISS: Just paste in actual command to take place @onclick.
 // function popFunction() {
@@ -31,7 +57,7 @@ function showhide(toggleID) {
 //   popup.classList.toggle('show')
 // }
 
-/****************
+/****
 $(window).scroll(function () {
   if ($(window).scrollTop() > 75) {
     $('#navbar-vue-app').css('opacity', 0.3)
@@ -52,4 +78,4 @@ $(document).ready(function () {
     }
   })
 })
-*****/
+****/
