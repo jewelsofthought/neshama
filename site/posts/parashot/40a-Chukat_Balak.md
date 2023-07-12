@@ -44,6 +44,8 @@ Balak
    - Pinchas kills them
    - Plague stops
 
+---
+
 - This is the decree (chok) of the Torah... (Numbers 19:2)
 
 This phrase can be understood in two ways. On one level it means that this--the law of the Red Heifer—is the ultimate "decree", the most supra-rational of all the Torah's precepts. A deeper meaning is that all of Torah is, in essence, divine decree. It is only that with many of the mitzvot, the supra-rational divine will come "clothed" in garments of reason.
@@ -58,8 +60,8 @@ Ritual of the Red Heifer:
   - upon which no yoke was laid.
 - (Elazar), the Kohen, slaughters it outside the camp
 - Sprinkle its blood with his finger toward the from of the Tent of Meeting 7 times.
-- The cow is (completely) burnt in its prescence:
-  - it hide, lfesh, blood & dung
+- The cow is (completely) burnt in its presence:
+  - it hide, flesh, blood & dung
   - cast cedar wood, hyssop & crimson wool into the fire
 - After the Kohen washes his clothes & bathes (his flesh in water),
   - he may enter the camp
@@ -68,7 +70,8 @@ Ritual of the Red Heifer:
 **N**: _Mishneh Torah_ speaks of 9 red heifers that were prepared for the people &mdash; until the destruction of the Second Temple. Then why differentiate between those that no yoke laid upon them, and those that had &mdash; intimating that there were more than 9 heifers in existence.
 
 19:11]
-11Anyone touching the corpse of a human soul shall become unclean for seven days.     יאהַנֹּגֵ֥עַ בְּמֵ֖ת לְכָל־נֶ֣פֶשׁ אָדָ֑ם וְטָמֵ֖א שִׁבְעַ֥ת יָמִֽים:
+
+Anyone touching the corpse of a human soul shall become unclean for seven days.     יאהַנֹּגֵ֥עַ בְּמֵ֖ת לְכָל־נֶ֣פֶשׁ אָדָ֑ם וְטָמֵ֖א שִׁבְעַ֥ת יָמִֽים:
 
 **N**: In the midst of the description of the red heifer, and that anyone who touches it's remains becomes unclean, it is suddenly here connected to becoming unclean upon contact with a human corpse.{.note}
 
@@ -81,11 +84,11 @@ Now, we jump to the general population, and speak of the contamination from touc
 
 - Living water (19:17)
 
-Water from an ever-flowing spring. Fallacious springs which run dry even once in seven years are disqualified.
-(Sifri; Talmud, Parah 8:9)
+<mark>Water from an ever-flowing spring. Fallacious springs which run dry even once in seven years are disqualified.
+(Sifri; Talmud, Parah 8:9)</mark>
 
-This is lesson in the meaning of truth: something which exists under certain circumstances but ceases under other is not "true", even when it does exist
-(The Chassidic Masters)
+<mark>This is lesson in the meaning of truth: something which exists under certain circumstances but ceases under other is not "true", even when it does exist.
+(The Chassidic Masters)</mark>
 
 ---
 
@@ -112,7 +115,7 @@ When Aaron died, the clouds of glory were removed, as it says, "And the Canaanit
 
 - And Miriam died there... And there was no water for the congregation (20:1-2)
 
-A person may ingest the ingredients of life, but these will not vitalize him without the fluids that course through his body. The food swallowed by the stomach, the oxygen drawn in by the lungs, must now be transported through the bodys canals and made to saturate its every cell.
+A person may ingest the ingredients of life, but these will not vitalize him without the fluids that course through his body. The food swallowed by the stomach, the oxygen drawn in by the lungs, must now be transported through the body's canals and made to saturate its every cell.
 
 Therein lies the spiritual significance of Miriam's role as Israel's provider of "water". Miriam first appears in the Torah (see Midrashim and commentaries on Exodus 1:15) as a children's nurse: one who distills adult food for the consumption of a child; one who trains and educates a growing human being, filtering the stimuli of an adult world for his maturing mind: who processes the raw materials of life to meet the specific needs of her charges age and phase of development.
 
@@ -132,7 +135,7 @@ If a leader's influence on the community is achieved through harsh words of rebu
 
 - These are the Waters of Strife (20:13)
 
-Why did Pharaoh decree that all the Hebrew babes be cast into the river? (Exodus 1:22) Because his astrologers foresaw that the savior of Israel will meet his demise by water. They thought that he would be drowned in water; in truth, it was that by the cause of a well of water death was decreed on him.
+<mark>Why did Pharaoh decree that all the Hebrew babes be cast into the river? (Exodus 1:22) Because his astrologers foresaw that the savior of Israel will meet his demise by water. They thought that he would be drowned in water; in truth, it was that by the cause of a well of water death was decreed on him.</mark>
 
 (Midrash Rabbah)
 
@@ -208,7 +211,7 @@ And why did Moab seek the advice of Midian? When they saw that Israel was victor
 
 - Curse me this people, for he is mightier than me (22:6)
 
-The Hebrew phrase, Atzum hu mimeni ("He is mightier than me") also translates, "He is mightier from me." For in truth, the might of the people of Israel is Moshiach, who is descendent of Balak! (Ruth the Moabite, anscestress of King David, is a descendent of Balak).
+The Hebrew phrase, _Atzum hu mimeni_ ("He is mightier than me") also translates, "He is mightier from me." For in truth, the might of the people of Israel is _Moshiach_, who is descendent of Balak! (Ruth the Moabite, anscestress of King David, is a descendent of Balak).
 
 (Shaloh)
 
@@ -224,13 +227,15 @@ The Divine spirit visited him only at night, as is the case with all the prophet
 
 - And Balaam arose in the morning, and saddled his ass (22:21)
 
-In order to place before man the "free choice" that is essential to his mission in life, G‑d so ordered His world that every positive force has its negative counterpart. Were there to exist a good element which cannot be put to corrupt use, then man's potential for evil would be disadvantaged and would not present the equal challenge which makes for the choice factor in life. In the words of King Solomon (Ecclesiastes 7:14), "One corresponding to the other, G‑d created."
+<mark>In order to place before man the "free choice" that is essential to his mission in life, G‑d so ordered His world that every positive force has its negative counterpart. Were there to exist a good element which cannot be put to corrupt use, then man's potential for evil would be disadvantaged and would not present the equal challenge which makes for the choice factor in life. In the words of King Solomon (Ecclesiastes 7:14), "One corresponding to the other, G‑d created."</mark>
 
-But this "equality" between good and evil extends only to the most superficial level of reality. When a person learns to look beyond the surface of things to their inherent purpose, he will see that only the good in the world is real and substantial. Good is an existence in its own right, while evil exists merely to provide the tension which imbues the positive acts of man with meaning and significance.
+<mark>But this "equality" between good and evil extends only to the most superficial level of reality. When a person learns to look beyond the surface of things to their inherent purpose, he will see that only the good in the world is real and substantial. Good is an existence in its own right, while evil exists merely to provide the tension which imbues the positive acts of man with meaning and significance.</mark>
 
-Hence, there cannot be anything "original" to evil, which is but a shallow, corrupted refraction of the good in the world.
+<mark>Hence, there cannot be anything "original" to evil, which is but a shallow, corrupted refraction of the good in the world.</mark>
 
 (The Lubavitcher Rebbe)
+
+**N**: This is a good reminder to beware of prophecies, even if they may be correct, but are often inaccurate.{.note}
 
 ---
 
@@ -242,9 +247,9 @@ Could not the angel have breathed on him and taken his life away, that he must d
 
 ---
 
--- And the ass saw the angel of G‑d (22:23)
+- And the ass saw the angel of G‑d (22:23)
 
-But Balaam did not see it, for G‑d has enabled the animal to see more than man. Because man has greater understanding, he would go insane if he were able to see the forces of destruction.
+<mark>But Balaam did not see it, for G‑d has enabled the animal to see more than man. Because man has greater understanding, he would go insane if he were able to see the forces of destruction.</mark>
 
 (Rashi)
 
@@ -260,7 +265,7 @@ This was to impress upon Balaam that there is no place for pride over the fact t
 
 - And [Balak] went out to meet him... on [Moab's] utmost border (22:36)
 
-Why did he greet him at the border? He said to him: "These boundaries, which have been established since the days of Noah with the understanding that one nation does not violate the boundaries of the other—these people are coming to uproot! Come and curse them!" And he showed how they broke through and crossed the boundaries of Sichon and Og.
+<mark>Why did he greet him at the border? He said to him: "These boundaries, which have been established since the days of Noah with the understanding that one nation does not violate the boundaries of the other—these people are coming to uproot! Come and curse them!" And he showed how they broke through and crossed the boundaries of Sichon and Og.</mark>
 
 (Midrash Tanchuma)
 
@@ -270,7 +275,7 @@ Why did he greet him at the border? He said to him: "These boundaries, which hav
 
 - And G‑d happened upon Balaam (23:4)
 
-The hallmark of evil and unholiness is an attitude of "It just happened." Nothing is coincidental to the Jew; every event is purposeful and significant.
+<mark>The hallmark of evil and unholiness is an attitude of "It just happened." Nothing is coincidental to the Jew; every event is purposeful and significant.<mark>
 
 (Chassidic Saying)
 
@@ -278,34 +283,35 @@ The hallmark of evil and unholiness is an attitude of "It just happened." Nothin
 
 - He sees not iniquity in Jacob, and He perceives not _amal_ ("trouble" or "toil") in Israel (23:21)
 
-This implies that "Jacob" does experience "trouble" and "toil" (amal), though these do not result in his guilt in the eyes of G‑d. "Israel" on the other hand, enjoys an existence devoid not only of guilt but also of struggle.
+This implies that "Jacob" does experience "trouble" and "toil" (_amal_), though these do not result in his guilt in the eyes of G‑d. "Israel" on the other hand, enjoys an existence devoid not only of guilt but also of struggle.
 
 "Jacob" and "Israel" are the two names by which the third Patriarch was called and, by extension, two names for the Jewish people. Each represents a different period in the life of the Patriarch and a different dimension of the life of the people.
 
-Jacob was born grasping the heel of his elder twin, Esau; thus he was named "Jacob" (Yaakov, in the Hebrew), which means "at the heel" (Genesis 25:26). Years later, when Jacob disguised himself as Esau to receive the blessings that Isaac intended to give the elder brother, Esau proclaimed: "No wonder he is called Jacob ('cunning')! Twice he has deceived me (ibid., 27:36).
+Jacob was born grasping the heel of his elder twin, Esau; thus he was named "Jacob" (_Yaakov_, in the Hebrew), which means "at the heel" (Genesis 25:26). Years later, when Jacob disguised himself as Esau to receive the blessings that Isaac intended to give the elder brother, Esau proclaimed: "No wonder he is called Jacob ('cunning')! Twice he has deceived me (ibid., 27:36).
 
-"Jacob" is the Jew still in the thick of the battle of life — a battle in which he is often "at the heel," dealing with the lowlier aspects of his own personality and of his environment. It is also a battle which he must wage with furtiveness and stealth (the second meaning of "Jacob"), for he is in enemy territory and must disguise his true intentions in order to outmaneuver those who attempt to ensnare him.
+"Jacob" is the Jew still in the thick of the battle of life — a battle in which he is often "at the heel," dealing with the lowlier aspects of his own personality and of his environment. It is also a battle which he must wage with furtiveness and stealth (the second meaning of "Jacob"), for he is in enemy territory and must disguise his true intentions in order to outmanoeuvre those who attempt to ensnare him.
 
-Threatened by a hostile world, plagued by his own shortcomings and negative inclinations, "Jacob" is defined by the axiomatic condition of man — that "man is born to toil" (Job 5:7) and that human life is an obstacle course of challenges to ones integrity.
+<mark>Threatened by a hostile world, plagued by his own shortcomings and negative inclinations, "Jacob" is defined by the axiomatic condition of man — that "man is born to toil" (Job 5:7) and that human life is an obstacle course of challenges to ones integrity.</mark>
 
-In contrast, Israel ("divine master") is the name given to Jacob when he "struggled with the Divine and with men, and prevailed" (Genesis 32:29). "Israel" describes the Jew who has prevailed over his own humanity, cultivating the intrinsic perfection of his soul to the extent that he is immune to all challenges and temptations; who has prevailed over the divine decree that "man is born to toil," achieving a tranquil existence amidst the turbulence of life.
+<mark>In contrast, Israel ("divine master") is the name given to Jacob when he "struggled with the Divine and with men, and prevailed" (Genesis 32:29). "Israel" describes the Jew who has prevailed over his own humanity, cultivating the intrinsic perfection of his soul to the extent that he is immune to all challenges and temptations; who has prevailed over the divine decree that "man is born to toil," achieving a tranquil existence amidst the turbulence of life.<mark>
 
-The Jewish people include both "Jacobs" and "Israels", and the life of every individual Jew has its "Jacob" periods and its "Israel" moments. For "there are two types of pleasure before G‑d. The first is from the complete abnegation of evil and its transformation from bitterness to sweetness and from darkness to light by the tzaddikim. The second [pleasure] is when evil is repelled while it is still at its strongest and mightiest... through the initiative of the 'intermediate man" (beinoni)... as in the analogy of physical food, in which there are two types of delicacies that give pleasure: the first being the pleasure derived from sweet and pleasant foods; and the second, from sharp and sour foods, which are spiced and prepared in such a way that they become delicacies that revive the soul" (Tanya ch. 27).
+The Jewish people include both "Jacobs" and "Israels", and the life of every individual Jew has its "Jacob" periods and its "Israel" moments. For "there are two types of pleasure before G‑d. The first is from the complete abnegation of evil and its transformation from bitterness to sweetness and from darkness to light by the tzaddikim. The second [pleasure] is when evil is repelled while it is still at its strongest and mightiest... through the initiative of the 'intermediate man" (_beinoni_)... as in the analogy of physical food, in which there are two types of delicacies that give pleasure: the first being the pleasure derived from sweet and pleasant foods; and the second, from sharp and sour foods, which are spiced and prepared in such a way that they become delicacies that revive the soul" (Tanya ch. 27).
 
 (From the teachings of Rabbi Schneur Zalman of Liadi)
 
 ---
 
 - I called you to curse my enemies, and, behold, you have blessed them altogether (24:10)
--
 
 The Talmud forbids to name one's child after a wicked person, quoting the verse (Proverbs 10:7), "The name of the wicked shall rot." Yet an entire section of Torah is named after Balak, King of Moab, to whom the Midrash accords the title "who hated [the Jewish people] most of all their enemies."
 
-For Balak is the Parshah of the future, where evil is transformed to good and curses emerge as blessings. It is in Balak that the most beautiful verses describing the uniqueness of Israel and the speciality of their relationship with the Almighty issue from the vile mouth of Balaam, summoned by Balak to curse the Jewish people. And it is in Balak that the most explicit reference to the era of Moshiach in the Five Books of Moses is found, in the form of a prophecy by the selfsame Balaam.
+<mark>For Balak is the Parshah of the future, where evil is transformed to good and curses emerge as blessings. It is in Balak that the most beautiful verses describing the uniqueness of Israel and the speciality of their relationship with the Almighty issue from the vile mouth of Balaam, summoned by Balak to curse the Jewish people. And it is in Balak that the most explicit reference to the era of _Moshiach_ in the Five Books of Moses is found, in the form of a prophecy by the selfsame Balaam.</mark>
 
-In the Parshah of Balak we enter a Moshiach-like world---a world of "the greater wisdom that comes from folly, and the greater light that comes from darkness" (Ecclesiastes 2:13).
+<mark>In the Parshah of Balak we enter a _Moshiach_-like world---a world of "the greater wisdom that comes from folly, and the greater light that comes from darkness" (Ecclesiastes 2:13).</mark>
 
 (The Lubavitcher Rebbe)
+
+**N**: I am not sure where the reference to the _Mashiach_ is?{.note}
 
 ---
 

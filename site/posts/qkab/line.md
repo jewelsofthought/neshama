@@ -16,7 +16,7 @@ modified: 2022-05-30T19:07:13.396Z
 
 ## Spiritual equations
 
-Taking a mathematical approach to the spiritual realm, we seek spiritual equations with which we can express the dynamics of the system we are in. There may be a spiritual calculus which can be used to describe the interactions that is coherent. Just as mathematics described in well-defined symbols large portions of our interactions with the world around us, so this spiritual mathematics could challenge much of the flotsam that floats around the central lake, as well as making some of it more accessible to any who are willing to learn the language of such symbols.
+Taking a mathematical approach to the spiritual realm, we seek spiritual equations with which we can express the dynamics of the system we are in. There may be a spiritual calculus which can be used to describe the interactions that is coherent. Just as mathematics described in well-defined symbols large portions of the elements and their interactions in the world around us[^1], so this spiritual mathematics could challenge much of the flotsam that floats around the central lake, as well as making some of it more accessible to any who are willing to learn the language of such symbols.
 
 This is what I believe forays like the Kabbalah, which I refer to as a spiritual science, are. It is a language, experientially explored, that is more capable of expressing much of the spiritual realm that we encounter and interact with.
 
@@ -115,3 +115,5 @@ These bookmarks, we call memories.
 Are these memories that you hold to real? Do they not also merge and meld in the flow of time, till what really happened is vague. Even the feelings associated with that event will morph, and become more basic&mdash;as in good/bad, pain/pleasure, etc.
 
 For we must remember that history is seldom a true rendering of events and how they unfolded, always being only the stories by the victors and sometimes the survivors.
+
+[^1]: Mathematics, based on Greek philosophy, needs two criterion to be able to apply its functionality to the real world. The first is to create a closed environment - that is, one that is not influenced by outside criteria. A necessary requirement that can never be fully realised, as we have no way of knowing about unknown and/or unmeasurable effects. The second is that it must be "static", at least for the purpose of measurement. 

@@ -388,6 +388,10 @@ iframe.yt-shortcode {
   border-color: lightgrey;
 }
 
+li:only-child {
+  background-color: #e8e8e8;
+}
+
 /* To style lists */
 
 /* Example 1: To number headers 

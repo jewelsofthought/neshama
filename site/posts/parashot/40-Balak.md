@@ -40,6 +40,8 @@ Looking at the story, a king (albeit temporary according to some texts) of a pow
 
 22:8] Upon the emissaries of Balak appearing before Balaam to induce him to curse the people, he responds to them, saying: "Spend the night. And if the Lord will speak to me. . ." He does not just succumb to their offer of reward, but says "if the Lord will speak to me", in other words he must first wait for "instructions" as to how to proceed.
 
+<div class="note">
+
 **N**: Although Balaam is not from the children of Israel, he is visited and speaks regularly with the Lord. How is that? It seems he has some way of communicating with the Lord, and is familiar enough to be able to hear and understand Him. We find examples of this peppered across the Torah. It seems, as well, that he is fairly competent at this communication, for one, he is known as a prophet, in addition, he asked them to stay the night, not longer, for him to "speak with the Lord."
 
 Be that as it may, what I find fascinating is that he has communication with the Lord of Israel, even though he is not of the tribe of Israel.
@@ -59,13 +61,13 @@ Be that as it may, what I find fascinating is that he has communication with the
 
 ### She donkey
 
-Immediately upon Balaam setting out on his journey, we read that this "Invokes the wrath of the Lord." [**N**: Why is that, I ask? In v20 he says if they are Balak's people, go with them?" So why did that now arouse G-d's wrath? Nevertheless it did, and]{}.not}e He immediately dispatches an angel to. . . [kill him]{.note}?
+Immediately upon Balaam setting out on his journey, we read that this "Invokes the wrath of the Lord." [**N**: Why is that, I ask? In v20 he says if they are Balak's people, go with them." So why did that now arouse G-d's wrath? Nevertheless it did, and He immediately dispatches an angel to. . . [to kill him?]{.note}
 
 Now we have the saga of the she-donkey, referred to hear as אָתון, though the Hebrew word for donkey is _chamor_. [**N**: What does _aton_ actually mean? I ask this, because I ask what sort of animal this was that he "rode" on. For it is turns out that this _aton_ sees angels and can speak (or communicate) with us.]{.note}
 
 **N**: It is also as if this piece was inserted into the text. It stands on its own. For one thing, why is Balaam only with his "two youths"? Would not the emissaries have accompanied him on his journey to Balak?{.note}
 
-Note that the angel appears 3 times, for the triple repetition is common. The first time she sees the angel in the path, and walks into a field. The second time she presses Balaam's leg into the wall. The third time, he just crouched down.
+Note that the angel appears 3 times, for the triple repetition is common. The first time she sees the angel in the path, and walks into a field. The second time she presses Balaam's leg into the wall. The third time, she just crouched down.
 
 22:28] "He opens the mouth of the donkey" and the donkey speaks, quite rationally.
 
@@ -84,7 +86,7 @@ I say that there is a "universal" language (I hesitate to call it a language –
 
 22:30] He opened Balaam's eyes, just as He opened the mouth of the donkey. Although the Lord, who is King over all, opens Balaam's eyes to see the angel (v30), He never opens his ears to hear Him (nor the donkey's) speak. There is also the aspect of hearing – and understanding. For the donkey understood and answered Balaam quite clearly.
 
-22:32] [**Q**: The angel now speaks to Balaam, using similar language as the donkey. [Does the text say that?]. As telepathy is a modern word, perhaps the more ancient and accurate word would have been "angelic communication". But why was Balaam thwarting the Lord's wishes, when he had been instructed to go with them? And if he had G-d's permission, why was the Angel sent to kill him? And if the sentence was capital punishment – what was the mortal sin that Balaam had committed? Was he being punished for or by killing him, would prevent, the heinous act of cursing the tribe of Israel – of whom he was not a member, and who was being coerced by a powerful king to act? It seems that the sentence was rather servere, and if the sentence was that severe, how could the donkey's seeing the angel have saved Balaam? How is that just the fact the she saw the Angel was sufficient to annul his punishment?{.note}
+22:32] [**Q**: The angel now speaks to Balaam, using similar language as the donkey. (Does the text say that?). As telepathy is a modern word, perhaps the more ancient and accurate word would have been "angelic communication". But why was Balaam thwarting the Lord's wishes, when he had been instructed to go with them? And if he had G-d's permission, why was the Angel sent to kill him? And if the sentence was capital punishment – what was the mortal sin that Balaam had committed? Was he being punished for or by killing him, would prevent, the heinous act of cursing the tribe of Israel – of whom he was not a member, and who was being coerced by a powerful king to act? It seems that the sentence was rather servere, and if the sentence was that severe, how could the donkey's seeing the angel have saved Balaam? How is that just the fact the she saw the Angel was sufficient to annul his punishment?{.note}
 
 Balaam then offers to return, unaware of the Lord's wrath, until the Angel announces it.
 
@@ -111,7 +113,13 @@ As there is no mention of the dignitaries nor the two servants that accompanied 
 
 23:16] Again Balaam says he has no choice, but must speak the Lord's words.
 
-[TODO: Some stuff happens from v16-24 in relation to the ceremony.]
+<br clear="all">
+
+<div>
+
+[TODO: Some stuff happens from v16-24 in relation to the ceremony.]{.notification .is-info}
+
+</div>
 
 ### Chapter 24
 
