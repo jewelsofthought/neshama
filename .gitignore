@@ -16,3 +16,8 @@ source/
 rtl.html
 site/_data/rtl.html
 site/_data/alphabet.txt
+_Index_*
+*.canvas
+site/.obsidian
+site/Day Planners
+
