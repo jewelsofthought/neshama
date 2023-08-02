@@ -2,7 +2,7 @@
 title: Va'etchanan - The Inexistence of the Universe
 description: 'Deuteronomy 3:23-7:11'
 tags: [chabad]
-date: 2023-08-26T02:10:57.912Z
+date: 2023-07-29T02:10:57.912Z
 stars: '****'
 ---
 

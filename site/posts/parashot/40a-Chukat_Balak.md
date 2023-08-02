@@ -67,7 +67,7 @@ Ritual of the Red Heifer:
   - he may enter the camp
   - he is unclean till evening
 
-**N**: _Mishneh Torah_ speaks of 9 red heifers that were prepared for the people &mdash; until the destruction of the Second Temple. Then why differentiate between those that no yoke laid upon them, and those that had &mdash; intimating that there were more than 9 heifers in existence.
+**N**: _Mishneh Torah_ speaks of 9 red heifers that were prepared for the people &mdash; until the destruction of the Second Temple. Then why differentiate between those that no yoke laid upon them, and those that had &mdash; intimating that there were more than 9 heifers in existence.{.note}
 
 19:11]
 
@@ -119,7 +119,7 @@ A person may ingest the ingredients of life, but these will not vitalize him wit
 
 Therein lies the spiritual significance of Miriam's role as Israel's provider of "water". Miriam first appears in the Torah (see Midrashim and commentaries on Exodus 1:15) as a children's nurse: one who distills adult food for the consumption of a child; one who trains and educates a growing human being, filtering the stimuli of an adult world for his maturing mind: who processes the raw materials of life to meet the specific needs of her charges age and phase of development.
 
-Miriam's well is the vital fluid of Israel's spiritual life, the water that inculcates them with the knowledge and identity her brothers provide. The waters of Miriam transport and apply the nutrients of Torah and the abstractions of faith to each individual, on his or her particular level.
+Miriam's well is the vital fluid of Israel's spiritual life, the water that inculcates them with the knowledge and identity her brothers provide. <mark>The waters of Miriam transport and apply the nutrients of Torah and the abstractions of faith to each individual, on his or her particular level.</mark>
 
 (The Lubavitcher Rebbe)
 
@@ -138,6 +138,16 @@ If a leader's influence on the community is achieved through harsh words of rebu
 <mark>Why did Pharaoh decree that all the Hebrew babes be cast into the river? (Exodus 1:22) Because his astrologers foresaw that the savior of Israel will meet his demise by water. They thought that he would be drowned in water; in truth, it was that by the cause of a well of water death was decreed on him.</mark>
 
 (Midrash Rabbah)
+
+<div class=".note">
+
+**N**: This is a warning to those who believe ardently in prophecies of the future. A prophet can see how things will unfold &mdash; if, and only if, they continue on the same path. It is like a mathematical prediction of where something will land &mdash; as for instance, in calculus. However, and this is where the concept of _redemption_ arises, one can change the future by changing the "path", or aspects thereof, that you are on.
+
+A simple example, if one is angry, or unable to forgive an incident that happened in the past, one will enter into the future with this "handicap", one could say, that will influence future decisions and thus future events in one's life. If one can forgive, or at least come to some balance in this place, it will balance out other things in one's future &mdash; and even one's past!
+
+An example of the quantum effect regarding time.
+
+</div>
 
 ---
 
@@ -235,8 +245,6 @@ The Divine spirit visited him only at night, as is the case with all the prophet
 
 (The Lubavitcher Rebbe)
 
-**N**: This is a good reminder to beware of prophecies, even if they may be correct, but are often inaccurate.{.note}
-
 ---
 
 - An angel of G‑d stood in the way... his sword drawn in his hand (22:22-23)
@@ -248,7 +256,11 @@ Could not the angel have breathed on him and taken his life away, that he must d
 ---
 
 - And the ass saw the angel of G‑d (22:23)
+<div class='popup is-pulled-left' onclick="document.getElementById('exc1').classList.toggle('show')"><i class='fa fa-file' aria-hidden='true'></i>
 
+<span class='popuptext' id='exc1'>[Ref:]{.is-hidden}excellent(judaica)</span>
+</div>
+&nbsp;
 <mark>But Balaam did not see it, for G‑d has enabled the animal to see more than man. Because man has greater understanding, he would go insane if he were able to see the forces of destruction.</mark>
 
 (Rashi)

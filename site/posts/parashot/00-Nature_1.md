@@ -8,6 +8,8 @@ date: 2021-01-01T20:00:01.154Z
 
 ### Part one of a series
 
+[[(00-intro.md#^4fb31a)]]
+
 “Blessed are the cracked,” said master philosopher Groucho Marx, “for they let in the light.”[^1]
 
 Perhaps it was from Groucho that Leonard Cohen received the inspiration for his poem:

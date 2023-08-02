@@ -2,7 +2,7 @@
 title: Va'etchanan - In depth
 description: Commentaries from the masters
 tags: [chabad]
-date: 2023-08-26T01:09:57.912Z
+date: 2023-07-29T01:09:57.912Z
 ---
 
 
@@ -14,6 +14,10 @@ date: 2023-08-26T01:09:57.912Z
   <figcaption>&mdash;(The Chassidic Masters)</figcaption>
 </figure>
 
+If G-d is the exclusive source of life, then your life, by definition, is defined by your connection with G‑d. Thus, a life of disconnection from G‑d is pseudo-life — life devoid of meaning and purpose, except for its most superficial illusory shell.
+
+In fact:
+
 **There is none else beside Him (4:35)**
 
 <figure class='quote'>
@@ -24,12 +28,16 @@ date: 2023-08-26T01:09:57.912Z
   </figcaption>
 </figure>
 
+If, for one moment, our minds could see the spiritual vitality flowing from the utterances of G‑d's mouth into every creation,
+we would be able to see through the materiality, grossness and tangibility of the creation, for it would be utterly irrelevant in relation to this divine life-force.
+
 ---
 
 **In the heavens above and the earth below (4:39)**
 
 <figure class='quote'>
-    Surely we know that the heavens are above us and that the earth is below our feet; why couldn't the Torah, whose every word and letter is measured, simply say "in the heavens and the earth"?
+
+Surely we know that the heavens are above us and that the earth is below our feet; why couldn't the Torah, whose every word and letter is measured, simply say "in the heavens and the earth"?
 
 But here is a lesson in how we are to approach the heavenly and earthly aspects of our own lives. In all that pertains to the heavens, to our spiritual achievements, we must look upwards, to those greater than ourselves, and strive to emulate them. But as regards our earth, our material possessions and attainments, we must look below us, to those who have less than we do, and be grateful for what we have.
 
@@ -47,13 +55,15 @@ But here is a lesson in how we are to approach the heavenly and earthly aspects 
   <figcaption>&mdash;(Mishneh Torah, Laws of the Fundamentals of Torah 1:1)</figcaption>
 </figure>
 
+This is the font from which all true religions are nourished. This is the foundational rock upon which all spiritual quests are based.
+
 ---
 
 **You shall not kill. You shall not commit adultery. You shall not steal (5:17)**
 
 <figure class='quote'>
   <p>
-    When Moses ascended to heaven, the angels protested to G‑d: "What is a human being doing amongst us?"
+    When Moses ascended to heaven, the angels protested to G‑d: "What is a human being doing among us?"
 
 Said He to them: "He has come to receive the Torah."
 
@@ -61,7 +71,7 @@ Said they to Him: "This esoteric treasure, which was hidden with You for nine hu
 
 Said G‑d to Moses: "Answer them."
 
-Said Moses: "Master of the Universe! I fear lest they consume me with the breath of their mouths."
+Said Moses: "Master of the Universe! I fear they might consume me with the breath of their mouths."
 
 Said G‑d: "Hold on to the Throne of Glory, and return them an answer."
 
@@ -88,7 +98,7 @@ By [Tzvi Freeman] (<https://www.chabad.org/search/keyword_cdo/kid/193/jewish/Fre
 
 <figure class='quote'>
   
-  The Hebrew phrase _velo yasaf_, which we have translated "which was not again," can also mean "which did not cease." Thus there are various meanings to this verse. One meaning is that the revelation at Sinai was a one-time event, never to be repeated in history (_Rashi_; _Ibn Ezra_). Other meanings are: that it was an extremely powerful voice that spoke without interruption (unlike a human voice, which must pause for breath(_Targum_; _Rashi_); that it did not cease, in the sense that all subsequent prophets prophesied from that voice, or in the sense that it did not confine itself to the Holy Tongue but reverberated in mankind's seventy languages (_Midrash Rabbah_); that it did not "repeat"—i.e., it had no echo (_Midrash Rabbah_).
+  The Hebrew phrase _velo yasaf_, which we have translated "which was not again," can also mean "which did not cease." Thus there are various meanings to this verse. One meaning is that the revelation at Sinai was a one-time event, never to be repeated in history (_Rashi; Ibn Ezra_). Other meanings are: that it was an extremely powerful voice that spoke without interruption (unlike a human voice, which must pause for breath (_Targum; Rashi_); that it did not cease, in the sense that all subsequent prophets prophesied from that voice, or in the sense that it did not confine itself to the Holy Tongue but reverberated in mankind's seventy languages (_Midrash Rabbah_); that it did not "repeat"—i.e., it had no echo (_Midrash Rabbah_).
 
 </figure>
 

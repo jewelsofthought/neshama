@@ -2,7 +2,7 @@
 title: Va'etchanan - The Sinai Files
 description: 'Deuteronomy 3:23-7:11'
 tags: [chabad]
-date: 2023-08-26T04:11:57.912Z
+date: 2023-07-29T04:11:57.912Z
 stars: "****"
 ---
 
