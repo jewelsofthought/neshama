@@ -6,43 +6,16 @@ date: 2023-07-29T01:09:57.912Z
 ---
 
 
-
-<figure class='quote'>
-  <p>
-    G‑d is the exclusive source of life; hence life, by definition, is connection with G‑d. A "life" of disconnection from G‑d is pseudo-life—life devoid of all but its most superficial illusory shell.
-  </p>
-  <figcaption>&mdash;(The Chassidic Masters)</figcaption>
-</figure>
-
-If G-d is the exclusive source of life, then your life, by definition, is defined by your connection with G‑d. Thus, a life of disconnection from G‑d is pseudo-life — life devoid of meaning and purpose, except for its most superficial illusory shell.
+If G-d is the exclusive source of life, then your life, by definition, is defined by your connection with G‑d. Thus, a life of disconnection from G‑d is a life disconnected from its source -- a psuedo-life — a life devoid of meaning and purpose, except for its most superficial illusory form (from the Chassidic Masters).{.box}
 
 In fact:
 
 **There is none else beside Him (4:35)**
 
-<figure class='quote'>
-  <p>
-    If the eye were allowed to see the spiritual vitality flowing from the utterance of G‑d's mouth into every creation, we would not see the materiality, grossness and tangibility of the creation, for it would be utterly nullified in relation to this divine life-force . . .
-  </p>
-  <figcaption>&mdash;(Tanya)
-  </figcaption>
-</figure>
+If, for one moment, our minds could see the spiritual vitality flowing from the breath of G‑d's mouth into every creation,
+the materiality, grossness and tangibility of the creation would melt away as if utterly irrelevant in relation to this divine life-force.{.box}
 
-If, for one moment, our minds could see the spiritual vitality flowing from the utterances of G‑d's mouth into every creation,
-we would be able to see through the materiality, grossness and tangibility of the creation, for it would be utterly irrelevant in relation to this divine life-force.
-
----
-
-**In the heavens above and the earth below (4:39)**
-
-<figure class='quote'>
-
-Surely we know that the heavens are above us and that the earth is below our feet; why couldn't the Torah, whose every word and letter is measured, simply say "in the heavens and the earth"?
-
-But here is a lesson in how we are to approach the heavenly and earthly aspects of our own lives. In all that pertains to the heavens, to our spiritual achievements, we must look upwards, to those greater than ourselves, and strive to emulate them. But as regards our earth, our material possessions and attainments, we must look below us, to those who have less than we do, and be grateful for what we have.
-
-  <figcaption>&mdash;(The Lubavitcher Rebbe)</figcaption>
-</figure>
+[**N**: It is like a finite number becoming aware of the infinite source of numbers from which it is "created".]{.note}
 
 ---
 
@@ -55,15 +28,17 @@ But here is a lesson in how we are to approach the heavenly and earthly aspects 
   <figcaption>&mdash;(Mishneh Torah, Laws of the Fundamentals of Torah 1:1)</figcaption>
 </figure>
 
-This is the font from which all true religions are nourished. This is the foundational rock upon which all spiritual quests are based.
+**N**: This is the font from which all true religions are nourished. This is the foundational rock upon which all spiritual quests are based.
 
 ---
 
 **You shall not kill. You shall not commit adultery. You shall not steal (5:17)**
 
+This verse brings up a lovely midrash that explains the need for the Torah amongst us. Moses ascends to heaven and has to argue with the angels as to why those who have sin should receive such a pure teaching. Here is a "modernised" scifi/fantasy version of the classic midrash called [The Sinai files](https://www.chabad.org/library/article_cdo/aid/1281/jewish/The-Sinai-Files.htm) by [Tzvi Freedman](https://www.chabad.org/search/keyword_cdo/kid/193/jewish/Freeman-Tzvi.htm) from Chabad.
+
 <figure class='quote'>
   <p>
-    When Moses ascended to heaven, the angels protested to G‑d: "What is a human being doing among us?"
+When Moses ascended to heaven, the angels protested to G‑d: "What is a human being doing among us?"
 
 Said He to them: "He has come to receive the Torah."
 
@@ -85,12 +60,6 @@ Straightaway the angels conceded to G‑d . . . and each one was moved to befrie
   </p>
   <figcaption>&mdash;(Talmud, Shabbat 88b)</figcaption>
 </figure>
-
-For another version of this dialogue:
-
-[The Sinai Files](https://www.chabad.org/library/article_cdo/aid/1281/jewish/The-Sinai-Files.htm)
-A SciFi/Fantasy version of the classic story of Moses' battle with the angels to receive the Torah.
-By [Tzvi Freeman] (<https://www.chabad.org/search/keyword_cdo/kid/193/jewish/Freeman-Tzvi.htm>)
 
 ---
 
@@ -114,3 +83,5 @@ Why this dichotomy? Because a world in which the benefits of obeying G‑d's com
   
   <figcaption>&mdash;(Ethics of the Fathers 4:17)</figcaption>
 </figure>
+
+**N**: Here we have a dichotomy of two words, the present world and the world to come. It is presented as if they live in two different places and we proceed from the one to the other. When in fact, I would propose that the present world is a partial form of the world to come. They are not separate, they are one and the same. Only one is perceived as a partial form of the other greater form, which pervades everything.
