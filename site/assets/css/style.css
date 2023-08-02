@@ -56,19 +56,22 @@
   padding: 0.2em 1.5em;
 }
 
-*:dir(rtl) {
+[dir='rtl'],
+.heb {
+  direction: rtl;
   font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
   font-weight: 900;
+  font-size: 108%;
 }
 
-blockquote:dir(rtl),
-div:dir(rtl),
-p:dir(rtl) {
+p[dir='rtl'],
+.box div[dir='rtl'].column,
+p.heb,
+.column.heb {
   text-align: start; /* left in latin, right in arabic */
   margin-inline-start: 0px; /* margin-left in latin, margin-right in hebrew */
   padding-inline-start: 1rem; /* padding-left in latin, padding-right in hebrew */
   padding-inline-end: 0rem;
-  font-size: 108%;
 }
 
 blockquote.is-centered p {
@@ -97,10 +100,8 @@ button.button {
   padding-right: 0.5em;
 }
 
-.note,
-.note p:dir(ltr),
-.note span:dir(ltr) {
-  color: gray;
+.note {
+  color: rgb(150, 145, 145);
 }
 
 .content details sup {
