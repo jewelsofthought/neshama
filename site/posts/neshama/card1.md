@@ -1,7 +1,7 @@
 ---
 title: Writings - Card 1
 description: null
-tags: null
+tags: 
 stars: '****'
 date: 2008-01-03T01:38:35.115Z
 modified: 2022-09-14T15:56:13.090Z
@@ -69,21 +69,26 @@ modified: 2022-09-14T15:56:13.090Z
 
 {% block mainContents %}
 
-> If richer and fuller languages for redemption are to evolve, fantasies that fetishise the past must be relinquished
+> If richer and fuller languages for redemption are to evolve, fantasies that fetishise the past must be relinquished.
 
-> Each organ is a recording and playback mechanism, blood is the recording tape with metal filings, cells are the components that make up the living crystals, and bones are the crystallisation of this information.
-
+^2bd6f2
 > In order for there to be an outcome, the laws of symmetry must be broken.
+
+---
+
+> [#jewish]{.tag} As the eyes and the ears, the nose and mouth, the heart, legs and arms of **HaShem** having a human experience, this is where you can begin to embrace and embody the truth of your existence.
+
+> #test Each organ is a recording and playback mechanism, blood is the recording tape with metal filings, cells are the components that make up the living crystals, and bones are the crystallisation of this information.
+
+[This implies that we are like a radio, just like the crystal, which receives and transmits according to how it has processed what it has received. For there is also a crystallization of information that occurs as time passes. Enough to influence the response (i.e. transmission) from the living being]{.note}
 
 > Just as we wake in the morning hungry for food to nourish our bodies, so we need to awaken with the same spiritual hunger to sustain our souls.
 
-> "Nothing left to lose" implies that you had something to lose and then were placed&mdash;or forced&mdash; into having nothing left to lose.
+> "Nothing left to lose" implies that you had something to lose and then were placed &mdash;or forced &mdash; into having nothing left to lose.
 
 > To live a "big" life takes "big" energy, not only from you, but from your environment. Think of moving a skateboard 1km., versus a car, or an 18-wheeler..
 
 > We don't look for a religion. I have a destination, and I will take the path that will best lead me to my destination, not taking into account the influential effects of my destiny.
-
-> As the eyes and the ears, the nose and mouth, the heart, legs and arms of G-d having a human experience, this is where you can begin to embrace and embody the truth of your existence.
 
 ## All change can only happen via יהוה
 

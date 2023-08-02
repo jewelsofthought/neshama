@@ -3,13 +3,11 @@ title: Chesed
 description: Week One - The Journey Begins
 tags: null
 date: 2022-04-16T00:02:00.000Z
+created: 2023-07-17T15:27:06+02:00
+updated: 2023-07-17T18:26:59+02:00
 ---
-<figure style='float: left'>
- <a href='/posts/img/freedom/week1/1.0-Chesed.png' target="_blank">
-   <img src='/posts/img/freedom/week1/1.0-Chesed_s.png' alt='Chesed' width='200' height='304' />
- </a>
-</figure>
 
+![Chesed](1.0-Chesed_s.png)
 <div style="text-align: center; font-weight: bold">
 <h1 style="font-size: 300%; text-decoration: underline">חסד</h1>
 <h2>Chesed</h2>

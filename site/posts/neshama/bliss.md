@@ -26,6 +26,8 @@ Ways of awakening:
 
 An essential shift needs to occur. In order for that to occur, there needs to be a "death" of the old, so that the new fruits can flourish.
 
+[If richer and fuller languages for redemption are to evolve, fantasies that fetishise the past must be relinquished](card1.md#^2bd6f2)
+
 ## Sex
 
 What will be the purpose of sex, when it is no longer to procreate? Can this need to procreate be fulfilled through love, and our need for love? Procreation was a survival vector, a basic need for survival, as is food. Now it is a vector that if continued will bring us to our knees, splintering and confusing.
