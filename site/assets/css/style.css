@@ -43,7 +43,6 @@
 .poem {
   margin: auto;
   font-style: italic;
-  padding-left: 2rem;
 }
 
 @media screen and (min-width: 580px) {
