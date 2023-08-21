@@ -4,34 +4,42 @@ description: Deuteronomy 7:12–11:25
 tags: [todo]
 date: 2023-09-02T00:22:16.154Z
 ---
+<div class="box">
 
-> Because you hearken to these laws ([Deuteronomy 7:12](https://www.chabad.org/9971#v12)])
+Because you hearken to these laws ([Deuteronomy 7:12](https://www.chabad.org/9971#v12))
+</div>
 
-The commentaries dwell on the Hebrew word _eikev_ in this verse—an uncommon synonym for "because." Many see a connection with the word _akeiv_ (same spelling, different pronunciation), which means "heel."
+The commentaries dwell on the Hebrew word _eikev_ in this verse — an uncommon synonym for "because." Many see a connection with the word _akeiv_ (same spelling, different pronunciation), which means "heel."
 
-**Ibn Ezra** and **Nachmanides** interpret it in the sense of "in the end" (i.e., "in the heels of," or in the sense that the heel is at the extremity of the body)—the reward being something that follows the action. A similar interpretation is given by **Ohr HaChaim**, who explains that true satisfaction and fulfilment comes at the "end".
+**Ibn Ezra** and **Nachmanides** interpret it in the sense of "in the end" (i.e., "on the heels of," or in the sense that the heel is at the extremity of the body) — the reward being something that follows the action. A similar interpretation is given by **Ohr HaChaim**, who explains that true satisfaction and fulfilment comes at the "end".
 
 The **Lubavitcher Rebbe** says: Our commitment to Torah should be such that it permeates us entirely, so that also our heel—the lowest and the least sensitive part of the person—"hearkens to these laws, observes them and does them." In other words, our relationship with G-d should not be confined to the holy days of the year, or to certain "holy" hours we devote to prayer and study, but should also embrace our everyday activities. Indeed, this "lowly" and "spiritually insensitive" part of our life is the foundation of our relationship with G-d, in the same way that the heel is the base upon which the entire body stands and moves.
 
-_My take:_
+<div class="note">
 
-_1. This is a phenomenon that occurs often. I speak of it as the Rabbinic overlay on the Torah. This is a good example of it- the interpretation of "eikev" as heel. One of our famous sages will take this interpretation and speak of it, thereupon there will be many other Rabbi's that will follow this line of interpretation, few questioning it. But beyond questioning it, it is only one other interpretation – what others could there be?_
-_2. This is stimulated by the strange times we are in. We will need a fresh direction and interpretations to continue into the future that awaits us. First we must fight the battle to prevent the forces of darkness from plunging us into slavery again. (Or are we already in bondage? If that is the case, then I pray for one of Moshe Rabbeinu's stature to free us.)_
+My take:
+
+1. This is a phenomenon that occurs often. I speak of it as the Rabbinic overlay on the Torah. This is a good example of it- the interpretation of _eikev_ as heel, even though the actual meaning is "because". One of our famous sages will take this interpretation and speak of it, thereupon there will be many other Rabbi's that will follow this line of interpretation, few questioning it. But beyond questioning it, it is only one other interpretation – what others could there be?_
+2. This is stimulated by the strange times we are in. We will need a fresh direction and interpretations to continue into the future that awaits us. First we must fight the battle to prevent the forces of darkness from plunging us into slavery again. (Or are we already in bondage? If that is the case, then I pray for one of Moshe Rabbeinu's stature to free us.
+
+</div>
+<br />
+
+לַעֲקוֹב (v) &ndash; to follow, to tail; to watch, to observe.
+מַעֲקָב (n) &ndash; surveillance, tracking
+עָקֵב (n) &ndash; footprint, trace; heel
+עֵקֶב (adj) &ndash; curved, winding, rolling (biblical)
+עָקוֹב (conj) &ndash; following, because of, due to
 
 <div class="note">
-לַעֲקוֹב (v) &ndash; to follow, to tail; to watch, to observe<br />
-מַעֲקָב (n) &ndash; surveillance, tracking<br />
-עָקֵב (n) &ndash; footprint, trace; heel<br />
-עֵקֶב (adj) &ndash; curved, winding, rolling (biblical)<br />
-עָקוֹב (conj) &ndash; following, because of, due to<br />
 
-{Note: Are we always to be under the heel of Ha'Shem? He promised the land and the prosperity to Abraham, yet it is conditional. We say He loves us, and Israel is His bride, yet His love is not-unconditional. So we have the new "religion" preached by Yehoshua, the Messiah, who say that all there is is love, and we need to love unconditionally. That is not right, for that means we are to love the evil-doers and the idol-worshipers, the liars and adulterers as well.
+Note: Are we always to be under the heel of **Ha'Shem**? He promised the land and the prosperity to Abraham, yet it is conditional. We say He loves us, and Israel is His bride, yet His love is not-unconditional. So we have the new "religion" preached by _Yehoshua_, the Messiah, who say that all there is is love, and we need to love unconditionally. That is not right, for that means we are to love the evil-doers and the idol-worshippers, the liars and adulterers as well.
 
-It is not to be suffering and oppression under His heel. It is to be released and in love with Ha'Shem. Will He marry someone who does not love Him the same way He loves her? It is not about the nation carrying out all the commandments – though it is about obeying them. It says to lay the tefillin every day. Yet it is the Rabbis who have told us to lay it before 10am. We accept their overlay, but it does not mean that they are correct for this time and this place. Just as their ordinances changed according to the society and environment we found ourselves in, so there is a great change, a great leap forward, that needs to occur.
+It is not to be suffering and oppression under His heel. It is to be released and in love with **Ha'Shem**. Would He be willing to marry "someone" who does not love Him the same way He loves her? It is not about the nation carrying out all the commandments – though it is about obeying them. It says to lay the _tefillin_ every day. Yet it is the Rabbis who have told us to lay it before 10am. We accept their overlay, but it does not mean that they are correct for this time and this place. Just as their ordinances changed according to the society and environment we found ourselves in, so there is a great change, a great leap forward, that needs to occur.
 
 The basic fact of our existence is based on our studying the Torah. That must continue. However, the interpretations need to continue to evolve, and have a real relationship with the world of the present. We cannot continue to do exactly as we have done for hundreds of years, and expect a different result.
 
-So the **ekev** I would like to focus on is the following, tracking of God and God's Will. For just as we evolve and develop, so will God's Will (for us). For instance, does He still want us to sacrifice our animals on an altar in His name? Is that what we will be doing in the future, and is that the reason that we have to rebuild the temple (of Jerusalem)? And still we read the intricacies of animal sacrifice, of the incense that will burn in the temple that is to be built.
+So the _eikev_ I would like to focus on is the following, tracking of God and God's Will. For just as we evolve and develop, so will God's Will (for us). For instance, does He still want us to sacrifice our animals on an altar in His name? Is that what we will be doing in the future, and is that the reason that we have to rebuild the temple (of Jerusalem)? Yet still we read the intricacies of animal sacrifice, of the incense that will burn in the temple that is to be built.
 
 </div>
 
@@ -167,6 +175,7 @@ The people of Israel had been subjected to the Egyptian mentality for four gener
 <p class="note">
 {NOTE: Would not the fact that "one's efforts have no effect on the result" be disheartening? It would make the people passive and submissive. Only if you realise that if you dedicate all your efforts, your very life, to service of the Divine, will you always be receiving manna from Heaven.}
 </p>
+
 ---
 
 > To love the L-rd your G-d and to serve Him with all your heart (11:13)
