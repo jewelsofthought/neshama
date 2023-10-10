@@ -7,7 +7,11 @@ date: 2023-01-21T00:09:57.912Z
 
 ## Chapter 6
 
-v1-4] I am **HaShem**
+## G-d rebukes Moses
+
+At the end of the previous _Sidrah_, Moses complained that G-d had sent him in vain, for instead of helping the people, he had only made it worse for them. G-d now speaks harshly to Moses, comparing him unfavourably with the Patriarchs, who maintained their faith without complaint, even though they were not privileged to see the fulfilment of G-d's promises to them. Moses, on the other hand, had been told that redemption was at hand, yet was so disillusioned that he could wait for G-d to carry His plan to its conclusion.  
+
+v6:1-4] I am **HaShem**
 
 <blockquote>
 <p dir="rtl">
@@ -20,15 +24,19 @@ v1-4] I am **HaShem**
 <p>
 2. God spoke to Moses, and He said to him, "I am the Lord."
 <br />
-3. "I appeared to Abraham, to Isaac, and to Jacob with [the name] Almighty God, but [with] My name <b>YHWH</b>, I did not become known to them."
+3. "I appeared to Abraham, to Isaac, and to Jacob with [the name] Almighty God, _El Shaddai_ but My name <b>YHWH</b>, I did not become known to them."
 <br />
 4. And also, I established My covenant with them to give them the land of Canaan, the land of their sojourning in which they sojourned.  
 </p>
 </blockquote>
 
-This reading opens up with G-d speaking to Moses, saying: "I am the Lord, [יהוה]{dir="rtl"} ." He mentions that He used the name _El Shaddai_, Almighty G-d, for Abraham, Isaac and Jacob, with whom He had established His covenant &mdash; though He did not fulfil it in their lifetimes.
+This reading opens up with G-d rebuking Moses, after his previous complaint, saying: "I am the Lord, [יהוה]{.heb} ." He mentions that He used the name _El Shaddai_, Almighty G-d, for Abraham, Isaac and Jacob, with whom He had established His covenant &mdash; though He did not fulfil it in their lifetimes.
 
-v5] "I heard their moans"
+n6:2] [וַיְדַבֵּ֥ר]{.heb} &mdash; _[G-d] spoke_. In this context, the root דבר connotes harsh speech. _(Rashi)_
+
+[אֲנִ֥י ה’]{.heb} &mdash; _I am **HaShem**_ This term for G-d includes punishment for sin and reward for virtue... The reason that Moses' arrival in Egypt was followed by an immediate intensification of the slavery was that the Egyptians could not be punished until their "measure of sin" was full, for G-d is patient even with the wicked. By his cruel decree to deny straw to the hapless slaves [5:7], Pharaoh had reached his nadir. So the process of the Exodus and the punishment of Egypt could now begin. Thus his arrival in Egypt was not in vain, but instead expedited the process of the Exodus. _(Mizrachi)_
+
+v6:5] "I heard their moans"
 
 <blockquote>
 <p dir="rtl">
@@ -39,7 +47,7 @@ v5] "I heard their moans"
 </p>
 </blockquote>
 
-v6] "I will save you"
+v6:6] "I will save you"
 
 <blockquote>
 <p dir="rtl">
@@ -53,12 +61,12 @@ v6] "I will save you"
 He acknowledges His sympathy with the plight of the children of Israel, and He remembered His covenant. Thus He requires of Moses to announce to his people that "I am the Lord, and I will":
 
 1. Take you out from the burdens of the Egyptians
-2. Rescue you ([הִצלתי]{dir="rtl"} ) from their labour
-3. Redeem you ([געלתי]{dir="rtl"} )
+2. Rescue you ([הִצלתי]{.heb} ) from their labour
+3. Redeem you ([געלתי]{.heb} )
    - with outstretched arm &
-   - great judgements ([שׁפטים]{dir="rtl"} )
+   - great judgements ([שׁפטים]{.heb} )
 
-v7-8] "I will..."
+v6:7-8] "I will..."
 
 <blockquote>
 <p dir="rtl">
@@ -74,13 +82,13 @@ v7-8] "I will..."
 
 I will:
 
-- Take you as my people
-- Know that I am your **HaShem**, your G-d
-- Bring you to promised land
+1. Take you as my people
+2. Know that I am your **HaShem**, your G-d // Acknowledge me as...
+3. Bring you to promised land
 
 **Note**: The last promise (v8), one which was promised to Abraham, Isaac and Jacob, but was never fulfilled. So this promise is to be fulfilled over a period of 200 - 400 years, which is a very long time. Yet, although it has taken so long, it is still looked at as a true promise, as it eventually did manifest.{.note}
 
-v9] Israel ignored Moses
+v6:9] Israel ignored Moses
 
 <blockquote>
 <p dir="rtl">
@@ -91,7 +99,7 @@ v9] Israel ignored Moses
 </p>
 </blockquote>
 
-v10-12] Will Pharaoh listen?
+v6:10-12] Will Pharaoh listen?
 
 <blockquote>
 <p dir="rtl">
@@ -110,7 +118,7 @@ G-d then suggests to Moses to talk to the Pharoah. But Moses objects, saying, "T
 
 **Note**: The lesson I learn from this is that G-d does not want our abject obedience. He wants us to engage (with Her &ndash; the Divine Presence). If you are only capbale of blind obedience, then that is fine. But if you are able to penetrate deeper into the mysteries, and you choose to ignore the blessing that has been bestowed,  upon that you may well be judged.{.note}
 
-v13] Lord spoke to Moses
+v6:13] Lord spoke to Moses
 
 <blockquote>
 <p dir="rtl">
@@ -122,9 +130,9 @@ v13] Lord spoke to Moses
 
 But the Lord ignores Moses, and He commands them regarding Israel and the Pharaoh. Though details of what He said to them are lacking, the only piece that we know is that He spoke to them about letting the children of Israel free.
 
-v14-25] List of heads of houses (see [Names](../Va_eira/index.html#names))
+v6:14-25] List of heads of houses (see [Names](../Va_eira/index.html#names))
 
-v26-29] Moses & Aaron
+v6:26-29] Moses & Aaron
 
 <blockquote>
 <p dir="rtl">
@@ -140,7 +148,7 @@ v26-29] Moses & Aaron
 
 This just repeats what was said in v13.
 
-v29-30] Moses objects: "I am of closed lips".
+v6:29-30] Moses objects: "I am of closed lips".
 
 <blockquote>
 <p dir="rtl">
@@ -158,7 +166,7 @@ G-d instructs Moses to speak of everything that He has said. Moses objects again
 
 ## Chapter 7
 
-v1-5] Know that I am the Lord
+v7:1-5] Know that I am the Lord
 
 <blockquote>
 <p dir="rtl">
@@ -184,15 +192,15 @@ G-d repeats that they must say all that he has said to Pharaoh, so that he will 
 
 Moses was 80 and Aaron 83 (v7).
 
-v8-13] The Lord provides a sign for them, Aaron's staff will become a serpent. So, when they come to the Pharaoh, and Aaron throws his staff in front of Pharaoh, it turns into a serpent.
+v7:8-13] The Lord provides a sign for them, Aaron's staff will become a serpent. So, when they come to the Pharaoh, and Aaron throws his staff in front of Pharaoh, it turns into a serpent.
 
 However, Pharaoh's necromancers do the same thing. And even though Aaron's staff swallowed all the other serpents, Pharaoh's heart remained steadfast, and he refuses to let our people go.
 
-### Blood [דָֽם]{dir="rtl"}
+### Blood [דָֽם]{.heb}
 
 Then G-d commands Moses to meet the Pharaoh at the river Nile, and you shall say to him: "Send forth My people, so that they may serve Me in the desert." As you have not listened to my request, I will turn the waters of the Nile to blood with my staff, and with this "you will know that I am Lord, G-d of the Hebrews". The fish will die, and the waters will become putrid. (v15-18)
 
-v19] "Stretch your staff over the waters"
+v7:19] "Stretch your staff over the waters"
 
 <blockquote>
 <p dir="rtl">
@@ -203,27 +211,33 @@ v19] "Stretch your staff over the waters"
 </p>
 </blockquote>
 
-v20-25] Moses and Aaron did as the Lord had commanded. He struck the Nile with his staff, and all the waters turned to blood. However, the necromancers of Egypt did the same with their secret rites, and thus the Pharaoh did not heed them.
+v7:20-25] Moses and Aaron did as the Lord had commanded. He struck the Nile with his staff, and all the waters turned to blood. However, the necromancers of Egypt did the same with their secret rites, and thus the Pharaoh did not heed them.
 
 This lasted seven full days and all the Egyptians had to dig around the Nile to dig for water to drink.
 
-**Note**: If the Egyptian necromancers had secret rites with which they could turn water to blood, surely Moses would have known that? And if not Moses, then surely G-d would have known?{.note}
+<div class="note">
 
-It seems more and more, that G-d was setting up the final climax of the death of the first-born to show the world what He was capable of.{.note}
+**Note**: If the Egyptian necromancers had secret rites with which they could turn water to blood, surely Moses would have known that? And if not Moses, then surely G-d would have known?
 
-### Frogs [צְפַרְדְּעִ֔ים]{dir="rtl"}
+It seems more and more, that G-d was setting up the final climax of the death of the first-born to show the world what He was capable of.
+
+</div>
+
+### Frogs [צְפַרְדְּעִ֔ים]{.heb}
 
 Then the Lord says to Moses, "Go to Pharaoh, and say to him "Let My people go, so that they may serve Me. If you refuse, I will smite your borders with frogs. They will go up and come into your house and into your bedroom and upon your bed and into the house of your servants and into your people, and into your ovens and into your kneading troughs; and into you and into your people and into all your servants" (v26-29).
 
 **Note**: "Into you and your people and your servants". How (and why) did these frogs enter into the people?{.note}
 
+**Note**: They enter Pharoah's presence and threaten him. How come he didn't just execute them? Is that not the way these Pharoahs and other of his ilk generally behaved? What prevented him from just having Moses and Aaron executed?{.note}
+
 ## Chapter 8
 
-v1-11]
+v8:1-11]
 
 The Lord then tells Moses to tell Aaron to "stretch your hand with your staff over the rivers, the canals and the ponds to bring forth the frogs". (v1)
 
-**Note**: How could he stretch his hand with his staff over the land?}
+**Note**: How could he stretch his hand with his staff over the land?{.note}
 
 Aaron did as commanded. (v2)
 
@@ -233,29 +247,37 @@ However the necromancers of Egypt did likewise "with their secret rites". (v3)
 
 Pharaoh summoned Moses and Aaron, and asked them to remove the frogs, and "he will let the people go and sacrifice to the Lord" (v4).
 
-Moses says he will do it to show the Pharoah that there is "none like the Lord, our God", [כִּי־אֵ֖ין כַּֽיהֹוָ֥ה אֱלֹהֵֽינוּ]{dir="rtl"}.
+Moses says he will do it to show the Pharoah that there is "none like the Lord, our God", [כִּי־אֵ֖ין כַּֽיהֹוָ֥ה אֱלֹהֵֽינוּ]{.heb}.
 
 So Moses "cried out to the Lord", and the Lord did according to Moses' words, and the frogs died out, and the land stank. But the Pharoah reneged on his promise. (v9-11)
 
-### Lice [כִּנָּ֔ם]{dir="rtl"}
+### Lice [כִּנָּ֔ם]{.heb}
 
-Then the Lord says to Moses: "Say to Aaron: 'Stretch forth your staff and strike the dust of the earth, and it shall become lice throughout the entire land of Egypt.'" (v12)
+Then the Lord says to Moses: "Say to Aaron: 'Stretch forth your staff and strike the dust of the earth, and it shall become lice throughout the entire land of Egypt.'" These lice affected everyone, including the Hebrews. (v12)
 
 Then the text says the Aaron stretched forth his hand [**Note**: Whereas the command as written was to stretch forth his staff!]{.note} and struck the dust of the earth... and the dust became lice (v13).
 
-The Egyptians necromancers tried to use their secret rites to bring out the lice, but the could not. So they said to Pharaoh, "It is the finger of G-d, _Elohim_ (v14). [**Note**: How did they know of the existence of this _Elohim_? And why would they say that He is the One doing this? Would they not say it was one of their G-d's, or at least a G-d more familiar than them. This speaks to my hypothesis that the cult of **YHWH** was more widespread than just amongst the Hebrews.]{.note}
+The Egyptians necromancers tried to use their secret rites to bring out the lice, but the could not. So they said to Pharaoh, "It is the finger of G-d, _Elohim_ (v14). [**Note**: How did they know of the existence of this _Elohim_? And why would they say that He is the One doing this? Would they not say it was one of their G-d's, or at least a G-d more familiar than them? Did they know about this Hebrew **YHWH**? And, in addition, believed He is an actual presence that could perform such actions? Or, was this just a widespread belief in the power of the gods? This speaks to my hypothesis that the cult of **YHWH** was more widespread than just amongst the Hebrews.]{.note}
 
-**Note**: There is also the possiblity that G-d had to show the Pharaoh and all of Egypt, that He could do things that the Egyptian necromancers could not do.{.note}
+<div class="note">
+
+**Note**: There is also the possibility that G-d had to show the Pharaoh and all of Egypt, that He could do things that the Egyptian necromancers could not do.
+
+</div>
 
 But Pharaoh did not hearken to them (v15).
 
-### Noxious creatures [עָרֹ֔ב]{dir="rtl"}
+### Noxious creatures [עָרֹ֔ב]{.heb}
 
 G-d then instructs Moses to meet Pharaoh at the waters in the early morning, and say the Lord says: ""Let My people go out and serve Me". Else I will incite noxious creatures against you and all the houses of Egypt. In addition, [**Note**: to show my power]{.note} there will be no noxious creatures in the land of Goshen (v16-18).
 
-This time "the Lord did so". Not Moses nor Aaron instigated this plague, which destroyed the land (v20).
+This time "the Lord did so". Neither Moses nor Aaron instigated this plague, which destroyed the land (v20).
 
-Pharaoh relents and tells Moses to "Go, sacrifice to your God in the land." But Moses objects, arguing that if they will need to "sacrifice the abomination of the Egyptians to God our Lord", and, as the sheep is a deity of the Egyptians, if they sacrifice this deity "before the eyes of the people", they will stone us. Let us rather go for a three-day journey into the desert, where we will sacrifice to our Lord, our G-d (v21-23). [**Note**: He requested a three-day journey to the place where they would sacrifice to the our Lord. However three days there, three days back and a minimum of three days for the ceremony &ndash; will make for at least nine days absence.]{.note}
+Pharaoh relents and tells Moses to "Go, sacrifice to your God in the land." But Moses objects, arguing that if they will need to "sacrifice the abomination of the Egyptians to God our Lord", and, as the sheep is a deity of the Egyptians, if they sacrifice this deity "before the eyes of the people", they will stone us. Let us rather go for a three-day journey into the desert, where we will sacrifice to our Lord, our G-d (v21-23).
+
+[**Note**: He requested a three-day journey to the place where they would sacrifice to the our Lord. However three days there, three days back and a minimum of three days for the ceremony &ndash; will make for at least nine days absence.]{.note}
+
+> The story of humanity is told in the story of individuals.
 
 Pharaoh agrees to let them go. So Moses entreats the Lord, who does according to Moses' word, and removes the noxious creatures (v24-27).
 
@@ -269,9 +291,9 @@ The Lord says to Moses, go again to Pharaoh, and say to him, if you do not "send
 
 God did this thing on the morrow. Whereupon Pharaoh still did not relent (v6-7)
 
-## Boils [שְׁחִ֥ין]{dir="rtl"}
+## Boils [שְׁחִ֥ין]{.heb}
 
-v8-9] "Take furnace soot..."
+v9:8-9] "Take furnace soot..."
 
 <blockquote>
 <p dir="rtl">
@@ -291,7 +313,7 @@ So they did as He commanded, and the whole of Egypt broke out in boils, that bec
 
 This time even the necromancers " could not stand before Moses because of the boils". But the Lord strengthened Pharaoh's heart and he did not hearken to them. (v12)
 
-v13] "Speak to Pharaoh"
+v9:13] "Speak to Pharaoh"
 
 <blockquote>
 <p dir="rtl">
@@ -302,25 +324,34 @@ v13] "Speak to Pharaoh"
 </p>
 </blockquote>
 
-### Hail [בָּרָ֖ד כָּבֵ֣ד]{dir="rtl"}
+### Hail [בָּרָ֖ד כָּבֵ֣ד]{.heb}
 
 The Lord tells Moses to go meet Pharaoh. And say to him, unless you let My people go, I will send "all My plagues into your heart and into your servants and into your people, in order that you know that there is none like Me in the entire earth (v14).
 
-v15-21] I have smitten all your people, with a pestilence that could have annihilated you and your people. However, I have allowed you to stand, 'in order to show you My strength and in order to declare My name all over the earth.'
+v9:15-21] I have smitten all your people, with a pestilence that could have annihilated you and your people. However, I have allowed you to stand, 'in order to show you My strength and in order to declare My name all over the earth.'
 
 If you do not relent, I will rain down upon you a very heavy hail. Any person or beast "any man or beast that is found in the field and not brought into the house the hail shall fall on them, and they will die."
 
-In this way, the people were separated into those "who feared the word of the Lord of Pharaoh's servants drove his servants and his livestock into the houses. But he who did not pay attention to the word of the Lord left his servants and his livestock in the field.
+In this way, the people were separated into those "who feared the word of the Lord" of Pharaoh's servants, drove his servants and his livestock into the houses. But he who did not pay attention to the word of the Lord left his servants and his livestock in the field.
 
 **Note**: Who were these Egyptians who believed in the word of the Lord?{.note}
 
-So the Lord commanded Moses, "Stretch forth your hand heavenward, and hail will be upon the entire land of Egypt." And Moses did as the Lord commanded. And the hail struck " throughout the entire land of Egypt". Only in Goshen was there no hail. (v22-26)
+So the Lord commanded Moses, "Stretch forth your hand heavenward, and hail will be upon the entire land of Egypt." And Moses did as the Lord commanded. And the hail struck "throughout the entire land of Egypt". Only in Goshen was there no hail. (v22-26)
 
 Pharaoh summons Moses and Aaron, and promises to let our people go.
-Moses responds that he will remove the hail " in order that you know that the land is the Lord's." (v27)
+Moses responds that he will remove the hail "in order that you know that the land is the Lord's." (v27)
 
-Upon Moses "spreading out his hands to the Lord, the thunder and the hail ceased." But Pharaoh continued to sin, but he did not relent. (v33-35)
+Upon Moses "spreading out his hands to the Lord, the thunder and the hail ceased." But Pharaoh continued to sin and he did not relent. (v33-35)
 
+<div class="note">
+
+**Note**: There are three different ranges to these plagues:
+
+1. _Everyone_: The plague affects everyone, including the Hebrews.
+2. _Goshen excluded_: The plague affect those not living in Goshen.
+3. _Believers_: The plague will not affect those who believe in the power of the Lord, **YHWH**
+
+<div>
 ---
 
 ## Names { #names }

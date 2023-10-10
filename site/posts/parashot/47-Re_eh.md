@@ -55,6 +55,9 @@ See, I give you today the blessing and its transmutation.
   </p>
 </blockquote>
 
+- [תִּשְׁמְר֣וּן לַֽעֲשׂוֹת֒ בָּאָ֕רֶץ]{dir="rtl"} &mdash; _Observe ... to perform in the land_
+-
+
 12:4] **You shall not do so**
 
 <blockquote>
@@ -122,23 +125,80 @@ It is permissable to eat meat on special occasions – those in which you dedica
 
 Being a vegetarian, none of these laws of kashrut apply to my home. The only way the unkosher can enter is through someone else tainting the food that I eat. If someone wants to know that laws of kashrut, that is fairly simple to explain. But, I would advise to stop eating meat as the simplist way to cleanse one's home of the dense energy of meat and death.
 
-## </div>
+</div>
+
+n12:15] [Can we eat contaminated animals?]{.note}
+
+n12:18] Rejoice over every undertaking.
+
+Be glad for every action, every deed, every thing you do &mdash; for that is what you have been provided with - the ability to do, to act.
+
+n12:22] Again (see 12:15), eat contaminated animals - pure, just not the blood. Because of your heart's desire (12:20)
+
+n12:23] [כּי הדם הוא הנפשׁ]{dir="rtl"} &mdash; _"Because the blood is his soul"_
+
+n12:25] [כִּֽי־תַעֲשֶׂ֥ה הַיָּשָׁ֖ר בְּעֵינֵ֥י יְהֹוָֽה]{dir="rtl"} &mdash; _Do what is straight in the eyes of_ **HaShem**
+
+12:28] Good & right
+
+<div class='box'>
+ <div class='columns'>
+   <div class='column is-half'>
+     Be careful to heed all these commandments that I enjoin upon you; thus it will go well with you and with your descendants after you forever, for you will be doing what is good and right in the sight of your God, <b>HaShem</b>.
+   </div>
+   <div class='column heb'>
+     שְׁמֹ֣ר וְשָׁמַעְתָּ֗ אֵ֚ת כׇּל־הַדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר אָנֹכִ֖י מְצַוֶּ֑ךָּ לְמַ֩עַן֩ יִיטַ֨ב לְךָ֜ וּלְבָנֶ֤יךָ אַחֲרֶ֙יךָ֙ עַד־עוֹלָ֔ם כִּ֤י תַעֲשֶׂה֙ הַטּ֣וֹב וְהַיָּשָׁ֔ר בְּעֵינֵ֖י יְהֹוָ֥ה אֱלֹהֶֽיךָ
+   </div>
+ </div>
+</div>
+
+Is it not interesting that the word, עובד, _oved_, in Hebrew, whose common meaming is to work or serve, also means to worship.{.note}
+
+[כִּ֤י תַעֲשֶׂה֙ הַטּ֣וֹב וְהַיָּשָׁ֔ר בְּעֵינֵ֖י יְהֹוָ֥ה אֱלֹהֶֽיךָ]{dir="rtl"} &mdash; _Do what is good and straight (right) in the eyes of_ **HaShem**
 
 ### Chapter 13
 
-> Love the Lord, your G-d, with all your heart and with all your soul. (13.5)
+13:1] The entire Word.
 
-- Follow the Lord
-- Revere Him
-- Keep His Commandments
-- _Listen to His voice_
-- Worship Him
-- Stay close to Him
+<div class='box'>
+ <div class='columns'>
+   <div class='column is-half'>
+     Be careful to observe only that which I enjoin upon you: neither add to it nor take away from it.
+   </div>
+   <div class='column heb'>
+     אֵ֣ת כׇּל־הַדָּבָ֗ר אֲשֶׁ֤ר אָנֹכִי֙ מְצַוֶּ֣ה אֶתְכֶ֔ם אֹת֥וֹ תִשְׁמְר֖וּ לַעֲשׂ֑וֹת לֹא־תֹסֵ֣ף עָלָ֔יו וְלֹ֥א תִגְרַ֖ע מִמֶּֽנּוּ
+   </div>
+ </div>
+</div>
+
+Neither add nor subtract: Could that refer to gene editing too?{.note}
+
+n13:4] [לָדַ֗עַת הֲיִשְׁכֶ֤ם אֹֽהֲבִים֙ אֶת־יְהֹוָ֣ה אֱלֹהֵיכֶ֔ם בְּכׇל־לְבַבְכֶ֖ם וּבְכׇל־נַפְשְׁכֶֽם]{dir="rtl"} &mdash; _Do you really love your God יהוה with all your heart and soul
+_
+
+13:5] G-d alone
+
+<div class='box'>
+ <div class='columns'>
+   <div class='column is-offset-one-quarter-desktop is-half-desktop heb'>
+
+     אַחֲרֵ֨י יְהֹוָ֧ה אֱלֹהֵיכֶ֛ם תֵּלֵ֖כוּ וְאֹת֣וֹ תִירָ֑אוּ וְאֶת־מִצְוֺתָ֤יו תִּשְׁמֹ֙רוּ֙ וּבְקֹל֣וֹ תִשְׁמָ֔עוּ וְאֹת֥וֹ תַעֲבֹ֖דוּ וּב֥וֹ תִדְבָּקֽוּן
+   </div>
+
+ </div>
+</div>
+
+- Follow
+- Revere
+- Keep (His Commandments)
+- _Listen_ (to His voice)
+- Worship
+- Stay close (to Him)
 
 > For you are a holy people to the L-rd your G-d
 
 <p>
-G-d gives physical form to the spiritual; the Jew makes spiritual the physical.<br />
+G-d gives physical form to the spiritual; we make spiritual the physical.<br />
 <span style="padding-left: 2.5rem">
 &mdash;&nbsp; (Rabbi Israel Baal Shem Tov)
 </span>

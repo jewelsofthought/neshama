@@ -2,7 +2,7 @@
 title: Va'etchanan פרשׁת ואתחנן
 description: 'Deuteronomy 3:23-7:11'
 tags: [todo]
-date: 2023-07-29T00:09:57.912Z
+date: 2023-07-29T00:01:57.912Z
 ---
 
 <div class='box'>

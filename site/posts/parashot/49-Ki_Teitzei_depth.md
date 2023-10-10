@@ -11,6 +11,8 @@ The Hebrew phrase _al oyvecha_, "on your enemies," can also be understood in the
 
 (The Chassidic Masters)
 
+**N**: This is the same battle we need to fight with ourselves our own intenal enemies.{.note}
+
 ---
 
 _If you see among the captives a beautiful woman, and you desire her . . . (21:11)_
@@ -23,7 +25,7 @@ Sometimes a most holy soul is imprisoned in the depths of the _kelipot_ (the "hu
 
 _When you go out to war upon your enemies . . . and capture from them captives (21:10)_
 
-Also from one's spiritual enemies one must "capture captives." Anything negative in man or in the world can be exploited for the good, if one can derive a lesson from it in the service of the Creator.
+Also from one's spiritual enemies one must "capture captives." <mark>Anything negative in man or in the world can be exploited for the good, if one can derive a lesson from it in the service of the Creator.</mark>
 
 (Rabbi Israel Baal Shem Tov)
 
@@ -53,11 +55,16 @@ _Do not take the mother bird together with the young (22:6)_
 
 One who says (in prayer), "Your mercy extends to a bird's nest . . ." should be silenced . . . since this reduces the _mitzvot_ to humane laws, when in truth they are divine decrees.
 
-(Talmud, Berachot 33b
+(Talmud, Berachot 33b)
 
-**Maimonides** cites Midrash Rabbah, which states: "Does it make a difference to G‑d whether one slaughters an animal from the throat or from the back of the neck? In truth, the mitzvot were given only to refine the human being."
+<b>Maimonides</b> cites Midrash Rabbah, which states: "Does it make a difference to G‑d whether one slaughters an animal from the throat or from the back of the neck? In truth, the mitzvot were given only to refine the human being."
 
-In the words of the Midrash, "the mitzvot were given only to refine the human being." In this connection, **Nachmanides** also cites the verses (Job 35:6–7), "If you sin, how have you affected Him? If your transgressions multiply, what do you do to Him? If you are righteous, what do you give Him? What can He possibly receive from your hand?" The things that G‑d commands us to do are not anything that He wants or needs, nor are the divine prohibitions things that "bother" Him—He is above that all. The "reasons" for the mitzvot are the ways that they are beneficial to us, sanctifying our lives and refining our characters.
+<div class='popup is-pulled-left' onclick="document.getElementById('exc1').classList.toggle('show')"><i class='fa-solid fa-star-of-david' aria-hidden='true'></i>
+
+<span class='popuptext' id='exc1'>[Ref:]{.is-hidden}excellent(judaica)</span>
+</div>
+&nbsp;
+In the words of the Midrash, <mark>"the mitzvot were given only to refine the human being."</mark> In this connection, <b>Nachmanides</b> also cites the verses (Job 35:6–7), "If you sin, how have you affected Him? If your transgressions multiply, what do you do to Him? If you are righteous, what do you give Him? What can He possibly receive from your hand?" The things that G‑d commands us to do are not anything that He wants or needs, nor are the divine prohibitions things that "bother" Him—He is above that all. The "reasons" for the mitzvot are the ways that they are beneficial to us, sanctifying our lives and refining our characters.
 
 ---
 
@@ -69,19 +76,9 @@ _Do not bring blood in your house, when the falling person falls from it (22:8)_
 
 ---
 
-_She shall be his wife; because he has forced her, he may not divorce her all his days (22:29)_
-
-Our sages tell us that when the children of Israel assembled at the foot of Mount Sinai, "G‑d held the mountain over them like a jar and said to them: 'If you accept the Torah, fine; if not, here shall be your grave'" (Talmud, Shabbat 88a).
-
-But the Jewish people had already expressed their desire and willingness to enter into the covenant with G‑d. Why did G‑d coerce them? But perhaps G‑d desired to ensure that their bond would be eternal and irrevocable. By forcing Himself on them, He was binding Himself with the law that "he may not divorce her all his days."
-
-(Maharal)
-
----
-
 _An Ammonite or a Moabite . . . even to their tenth generation shall not enter into the congregation of G‑d (23:4)_
 
-From here we learn that someone who causes a person to sin does worse to him than one who kills him, for one who kills him kills him only in this world, whereas one who leads him to sin removes him from both this world and the world to come. Therefore Edom, who came forth against them with the sword, was not [completely] despised. Similarly Egypt, who drowned them. The Moabites and the Ammonites, however, who caused them to sin (with the daughters of Midian—see Numbers 25), were completely despised.
+From here we learn that <mark>someone who causes a person to sin does worse to him than one who kills him</mark>, for one who kills him kills him only in this world, whereas one who leads him to sin removes him from both this world and the world to come.
 
 (Sifri; Rashi)
 
@@ -89,6 +86,6 @@ From here we learn that someone who causes a person to sin does worse to him tha
 
 _And you forget a sheaf in the field . . . (24:19)_
 
-Certain opportunities and potentials are so lofty that they cannot be accessed by the conscious self; they can come about only "by mistake." An example of this is the mitzvah of shikchah, which can be fulfilled only by forgetting.
+Certain opportunities and potentials are so lofty that they cannot be accessed by the conscious self; they can come about only "by mistake." An example of this is the mitzvah of _shikchah_, which can be fulfilled only by forgetting.
 
 (The Chassidic Masters

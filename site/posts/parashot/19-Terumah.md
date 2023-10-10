@@ -10,47 +10,54 @@ date: 2023-02-25T00:16:14.428Z
 
 ### Mishkan
 
-[משׁכן]{dir="rtl"} &mdash; _Mishkan_, generally translated as the Tabernacle, means a dwelling place. It is meant to be a resting place for G-d's Presence amongst us. Where and how could we manifest such a space today?
+<div dir="ltr">
+
+משׁכן &mdash; <em>Mishkan</em>, generally translated as the Tabernacle, means a dwelling place. It is meant to be a resting place for G-d's Presence amongst us. Where and how could we manifest such a space today?
+
+</div>
 
 Actually, the idea that such a place could exist is revolutionary in its own right. Most of the pagan beliefs contained a place (like, in heaven) where the G-d's resided. Upon occasion they would decide to descend and mess with humans, but they had no dwelling place here on earth, especially not the "king of the gods".
 
-The statute to build the [משׁכן]{dir="rtl"} (_Mishkan_) speaks to the principle that we must first manifest something in our reality, make an effort of some sort, before G-d will respond.
+The statute to build the משׁכן (_Mishkan_) speaks to the principle that we must first manifest something in our reality, make an effort of some sort, before G-d will respond.
 
 ### Golden Calf
 
-The overriding impression I receive from the _Parasha_ is that G-d needed Moses to be away from the people long enough for the sin of the Golden Calf to occur.
+<div class="note">
+
+**Note**: The overriding impression I receive from the _Parasha_ is that G-d needed Moses to be away from the people long enough for the sin of the Golden Calf to occur.
 
 In a similar vein, G-d "strengthened/hardened" Pharaoh's heart so that the people may experience G-d's Mighty Hand.
 
-Something else to note, is although the Sin of the Golden Calf almost caused the destruction of the people of the Exodus, it was the sin of the spies that resulted in that generation not being allowed to enter the Holy Land, even though, at face value, it seems that the former sin was the more egregrious.
+Something else to note, is although the Sin of the Golden Calf almost caused the destruction of the people of the Exodus, it was the sin of the spies that resulted in that generation not being allowed to enter the Holy Land, even though, at face value, it seems that the former sin was the more egregious.
+
+</div>
 
 <p style="text-align: center"> *&nbsp;*&nbsp;*&nbsp;*&nbsp;* </p>
 
 While Moses was receiving the instructions for the building of the _Mishkan_, His people were building their own version of the "dwelling place" of G-d in the only way they knew. Even if it was meant to be a statue to Moses (then why a calf?), it was still an attempt to maintain a connection with **HaShem**, because through Moses we had a relationship, however rocky, with **HaShem**, that had freed us from bondage, and sustained us to this point.
 
-<details>
-<summary class='button is-outlined'>
-Straight lines of the Temple &nbsp;<i class='fa fa-solid fa-caret-down'></i>
-</summary>
-<p>
-On the design of the temple, I must point out that it is made up of mostly straight lines...
-</p>
-</details>
+The need to build this representation is based on the principle that we must first manifest something in our reality &mdash; in other words, we need to exercises our gift of free will and choose something &mdash; before G-d will do His thing. It is comparible to the body, which has an autonomous system, and a voluntary system. The one you have little control over, like the healing of a cut, or the digestion of food, whereas the other, like moving one's head, is voluntary. So it is with the world we live in.
+
+> The impulse from below causes a response from above.
+
+**N**: On the design of the temple, I must point out that it is made up of mostly straight lines... In addition, the question arises as to why would we choose a calf to represent **HaShem**?{.note}
 
 ## Chapter 25
 
 v2] _Terumah_ - Uplifting
 
-<blockquote>
-<p dir='rtl'>
-ב דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְיִקְחוּ־לִ֖י תְּרוּמָ֑ה מֵאֵ֤ת כָּל־אִישׁ֙ אֲשֶׁ֣ר יִדְּבֶ֣נּוּ לִבּ֔וֹ תִּקְח֖וּ אֶת־תְּרֽוּמָתִֽי:
-</p>
-  <p>
-2. "Speak to the children of Israel, and have them take for Me a <em>terumah</em>; from every person whose heart inspires him to generosity, you shall take My offering.
-  </p>
-</blockquote>
+<div class='box'>
+ <div class='columns'>
+   <div class='column is-half'>
+     2 "Speak to the children of Israel, and have them take for Me a <em>terumah</em>; from every person whose heart inspires him to generosity, you shall take My offering.
+   </div>
+   <div class='column heb'>
+ב. דַּבֵּר֙ אֶל־בְּנֵ֣י יִשְׂרָאֵ֔ל וְיִקְחוּ־לִ֖י תְּרוּמָ֑ה מֵאֵ֤ת כָּל־אִישׁ֙ אֲשֶׁ֣ר יִדְּבֶ֣נּוּ לִבּ֔וֹ תִּקְח֖וּ אֶת־תְּרֽוּמָתִֽי:
+   </div>
+ </div>
+</div>
 
-**NOTE**: A _terumah_ means an offering in this context, but also has the meaning of "uplifting". Thus, in common parlance, one might say, something like: "Speak to the children of Israel, that they should bring to Me something that will lift me up, i.e., honour me &mdash; and through honouring me, will be 'uplifted'."{.note}
+**Note**: A _terumah_ means an offering in this context, but also has the meaning of "uplifting". Thus, in common parlance, one might say, something like: "Speak to the children of Israel, that they should bring to Me something that will lift me up, i.e., honour me &mdash; and through honouring me, will be 'uplifted'."{.note}
 
 <figure class='quote'>
   <p>
@@ -59,7 +66,7 @@ v2] _Terumah_ - Uplifting
   <figcaption>&mdash;(Shaloh)</figcaption>
 </figure>
 
-_Terumah_, a donation, to the _Mishkan_, the container in which the Ark of the Covenant was kept. This _parasha_ consists of detailed instructions on the building of the _Mishkan_ for the Jewish people.
+*Terumah*, a donation, to the _Mishkan_, the container in which the Ark of the Covenant was kept. This _parasha_ consists of detailed instructions on the building of the _Mishkan_ for the Jewish people.
 
 This is a call to build a place for G-d's presence on this plane of existence. It is the same call that we hear today. For that is what we still need to do.
 
@@ -91,7 +98,7 @@ v3-7] **Offerings** "you shall take"
 - oil for illumination, spices for the oil & aromatic incense;
 - _shocham_ stones; stones for the _ephod_ & breastplate of the High Priest;
 
-**NOTE**: Quite a shopping list!{.note}
+**Note**: Quite a shopping list!{.note}
 
 v8] **Sanctuary**
 
@@ -129,7 +136,7 @@ v22] **Meetings** here
 
 v23-40] Form of the **vessels**
 
-v23-30] [שׁולחן]{dir="rtl"} (_shulchan_) - Table
+v23-30] שׁולחן (_shulchan_) - Table
 
 **Note**: This was the workbench/altar with sacred objects on it, different from the altar where the sacrifices took place. The first is a "static" altar, a place in time, whereas the second is moving/dynamic/functional altar, where sacrifices occur.{.note}
 
@@ -144,25 +151,18 @@ v30] Showbread
   </p>
 </blockquote>
 
-n30] **showbread**: Heb. [לֶחֶם פָּנִים]{dir="rtl"}, lit., bread of faces.  
+n30] **showbread**: Heb. לֶחֶם פָּנִים, lit., bread of faces.  
 
-<details>
-<summary class='button is-outlined'>
-Showbread &nbsp;<i class='fa fa-solid fa-caret-down'></i>
-</summary>
-<p>
-I was wondering about the name showbread, thinking that it was just for show, and could not be eaten. However, bread of faces, might be even more interesting. Especially, since I am not satisfied with Rashi's explanation that it was know by this appelation because of the two "walls" that were baked on either side.
-</p>
-</details>
+**N**: I was wondering about the name showbread, thinking that it was just for show, and could not be eaten. However, bread of faces, might be even more interesting. Especially, since I am not satisfied with Rashi's explanation that it was know by this appelation because of the two "walls" that were baked on either side.{.note}
 
 <figure class='quote'>
-  <p>
-     The bread was made in the shape of a type of box without a cover. It had a flat bottom (Men. 94b) and it would be bent upward on both sides [forming something] similar to walls. Therefore, it is called [לֶחֶם הַפָּנִים]{dir="rtl"}, literally, the bread of faces, because it has faces looking in both directions-toward the sides of the house (<em>Mishkan</em>) from here [in one direction] and from there [in the other direction]. A golden form and an iron form were made for it. It was baked [on Fridays] in the iron form, and when it was taken out of the oven, it would be placed in the golden form until the next day, which was the Sabbath, when it would be arranged on the table. That form is called [קְעָרָה]{dir="rtl"}
-  </p>
+
+     The bread was made in the shape of a type of box without a cover. It had a flat bottom (Men. 94b) and it would be bent upward on both sides [forming something] similar to walls. Therefore, it is called לֶחֶם הַפָּנִים, literally, the bread of faces, because it has faces looking in both directions-toward the sides of the house (<em>Mishkan</em>) from here [in one direction] and from there [in the other direction]. A golden form and an iron form were made for it. It was baked [on Fridays] in the iron form, and when it was taken out of the oven, it would be placed in the golden form until the next day, which was the Sabbath, when it would be arranged on the table. That form is called קְעָרָה
+
   <figcaption>&mdash;(Rashi)</figcaption>
 </figure>
 
-v31-40] [מנורה]{dir="rtl"} (_menora_) - Candelabra
+v31-40] מנורה (_menora_) - Candelabra
 
 It calls to the upper light to illuminate the darkness for us.
   
@@ -170,9 +170,9 @@ It calls to the upper light to illuminate the darkness for us.
 
 ## Chapter 26
 
-We continue with the various ornaments, and structures, etc. that are to be in the Tabernacle. Like the covers of the Ark (v1-14), the walls of the Tabernacle (v15-30) and the _Parochet_ ([הַפָּרֹ֨כֶת֙]{dir="rtl"}), the curtain that separates the Holy of Holies from the rest (v31-33).
+We continue with the various ornaments, and structures, etc. that are to be in the Tabernacle. Like the covers of the Ark (v1-14), the walls of the Tabernacle (v15-30) and the _Parochet_ (הַפָּרֹ֨כֶת֙), the curtain that separates the Holy of Holies from the rest (v31-33).
 
-v33] _Parochet_ ([הַפָּרֹ֨כֶת֙]{dir="rtl"}) - Curtain
+v33] _Parochet_ (הַפָּרֹ֨כֶת֙) - Curtain
 
 <blockquote>
 <p dir='rtl'>
@@ -185,7 +185,7 @@ v33] _Parochet_ ([הַפָּרֹ֨כֶת֙]{dir="rtl"}) - Curtain
 
 ## Chapter 27
 
-v1-8] [ארון]{dir="rtl"} (_aron_) - Altar
+v1-8] ארון (_aron_) - Altar
 
 The altar is empty, unless **HaShem** fills it. It is where the blood services and sacrifices take place.
 
@@ -242,9 +242,9 @@ There is a time to talk out; a time to remain silent; a time to act.
 
 G-d is the name of everything that is NOT man-made. This includes nature, and the so-called "Laws of Science", which are actually G-d's laws that science has discovered. Or, more accurately, a language, which we call science, that expresses the "natural/empirical" laws, making them accessible to anyone who is willing to learn the language that deals with that particulate. Thus making them accessible to a far larger segment of the population
 
-### [אַמָּה]{dir="rtl"} (Ammah) "a cubit"
+### אַמָּה (Ammah) "a cubit"
 
-Derived from [אם]{dir="rtl"} - mother.
+Derived from אם - mother.
 
 This word we have rendered as a cubit has a strange derivation. I realise it would be bending the accepted meaning, but what if it did mean something else. Perhaps there is other information we can receive from this word - not just 17.5 inches long...
 

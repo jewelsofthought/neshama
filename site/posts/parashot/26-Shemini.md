@@ -5,27 +5,9 @@ tags: null
 date: 2023-04-15T01:09:57.912Z 
 ---
 
-1. [Sin of the Golden Calf (n9\_1)](#sin-of-the-golden-calf-n9_1)
-2. [Heavenly Fire](#heavenly-fire)
-   1. [Light the fire (n9\_10)](#light-the-fire-n9_10)
-   2. [A fire went forth (n9\_24)](#a-fire-went-forth-n9_24)
-      1. [Fell on their faces (n9\_24)](#fell-on-their-faces-n9_24)
-   3. [Sacrifice of the sons (n10\_1)](#sacrifice-of-the-sons-n10_1)
-   4. [Heavenly Fire](#heavenly-fire-1)
-   5. [Adding love to love](#adding-love-to-love)
-3. [Legal Judgement - to teach (n10\_11)](#legal-judgement---to-teach-n10_11)
-4. [Holy moment (n10\_12-20)](#holy-moment-n10_12-20)
-5. [Inquire (n10:16)](#inquire-n1016)
-6. [Laws of Kashrut](#laws-of-kashrut)
-7. [Contamination or Uncleanliness](#contamination-or-uncleanliness)
-8. [Principle of uncleanliness](#principle-of-uncleanliness)
-9. [Basic rules of contamination (n11\_39-40)](#basic-rules-of-contamination-n11_39-40)
-10. [Lest you become contaminated (n11\_43)](#lest-you-become-contaminated-n11_43)
-11. [Discernment](#discernment)
-12. [Personal Reflections](#personal-reflections)
-13. [The way of heaven](#the-way-of-heaven)
+## Sin of the Golden Calf
 
-## Sin of the Golden Calf (n9_1)
+n9:1]
 
 <blockquote>
 

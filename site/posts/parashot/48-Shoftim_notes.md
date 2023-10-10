@@ -5,6 +5,10 @@ tags: null
 date: 2023-09-16T01:33:06.076Z
 ---
 
+## Willing to die
+
+[An interesting take on the four types of exemptions](https://www.alephbeta.org/course/lecture/shoftim-the-significance-of-saving-private-ryan) for military service by R' Fohrman.
+
 ## Intro to _Shoftim_
 
 _Shoftim_ is one of those _Pasukim_, readings, that inspired my civic imagination at a young age. Imagine a land where the judges are righteous and true. They treat everyone equally, they don't take bribes and they are G-d fearing.
@@ -12,11 +16,13 @@ _Shoftim_ is one of those _Pasukim_, readings, that inspired my civic imaginatio
 ## Chapter 16
 
 [16:18-20&#93; Judges and <i>Shotrim</i>](../Shoftim/#18-20-judges-and-shotrim)
+
 Perhaps simple, but foundational rules upon which to build a just society.
 
-v20, if we are speaking of a physical piece of land, Israel, then it seems somewhat materialistic. However, today, it only makes sense if the land that is spoken of is the land that the Lord, My G-d, is giving me today. It is a place, a space, a life and all that supports it, rather than a specific geographical place, it is rather a "mental/emotional" space, brought about by focusing on a specific spiritual place - the one where G-d lives.
+v16:20] if we are speaking of a physical piece of land, Israel, then it seems somewhat materialistic. However, today, it only makes sense if the land that is spoken of is the land that the Lord, My G-d, is giving me today. It is a place, a space, a life and all that supports it, rather than a specific geographical place, it is rather a "mental/emotional" space, brought about by focusing on a specific spiritual place - the one where G-d lives.
 
 [16:21&#93; No idolatrous tree](../Shoftim/#21-no-idolatrous-tree---no-tree---near-the-altar-of-hashem)
+
 Being a lover of trees, this is one that is difficult to fathom. In the desert, trees are most welcome. Does this speak of a time when the land had many more trees on it, and trees were not that special. However, if you have trees and a garden surrounding a place of worship, it would be much more amenable to social and human interactions.
 
 The spark of hope is the reference to an idolatrous tree, called an _asherah_&mdash;which is unclear. How can a tree be idolatrous. The only possibility is a specific tree that is used to make pillars for this particular god, perhaps a totem of some nature.

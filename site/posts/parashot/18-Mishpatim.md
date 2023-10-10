@@ -17,6 +17,7 @@ date: 2023-02-18T00:09:57.912Z
 
 1. spread: In a lawless land any law is better than none. Even if roughly hewn, it would be of benefit. And now?
 2. All these ordinances are heavily based on witness testimony - which only works in a Community of Truth.
+3. Understand and apply these laws. This is patently not the situation, unless it takes all the effort and practice and study to understand. However, as Judaism is essentially a practocracy, as has been said: "We shall hear, and we shall do", first practice, then understand.
 
 **Note**: The virtualisation of the world removes human witnesses. We believe that the evidence from a picture or video is more accurate than witness testimony - but the same standard of truth is required. What if the video/photo is faked?}{.note}
 

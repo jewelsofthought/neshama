@@ -7,9 +7,7 @@ date: 2023-10-07T00:22:16.154Z
 
 **Renewal of the covenant** - Fear of admonition (98 curses)
 
-<p class="note">
-{NOTE: Element of sealing the covenant by/when entering the land of Israel. It is as if the previous narrative is preparation for that.(Land of) Israel representing secular/mundane/manifest life. Previously a spiritual story.}
-</p>
+**NOTE**: Element of sealing the covenant by/when entering the land of Israel. It is as if the previous narrative is preparation for that.(Land of) Israel representing secular/mundane/manifest life. Previously a spiritual story.{.note}
 
 ## Deuteronomy Chapter 29, verse
 
@@ -25,7 +23,7 @@ date: 2023-10-07T00:22:16.154Z
 
 n29:9] <b>אתם נצבים</b>&mdash;<i>You are standing</i> Moses stressed that they were standing before G-d, Who cannot be deceived<i>(Sforno)</i>.
 
-Moses divided the people into categories to suggest that everyone is responsible according to how many others he or she influences. Leaders may be able to affect masses of people; women, their immediate families and neighbours; children, ony a few friends and classmates; common labourers, hardly anyone. God does not demand more than is possible, but he is not satisfied with less _(Or HaChaim)_.
+Moses divided the people into categories to suggest that everyone is responsible according to how many others he or she influences. Leaders may be able to affect masses of people; women, their immediate families and neighbours; children, ony a few friends and classmates; common labourers, hardly anyone. God does not demand more than is possible, but he is not satisfied with less. _(Or HaChaim)_
 
 n29:10] <b>טפכים </b>&mdash; <i>Your small children</i>. The future of the (Jewish)[^1] people depends on the education of its children, and the _halacha_ provides that even before building itself a synagogue, a community must provide for the (Torah)[^2] education of young.
 
@@ -40,14 +38,12 @@ n29:10] <b>טפכים </b>&mdash; <i>Your small children</i>. The future of the 
 </p>
 </blockquote>
 
-<p class="note">
-{NOTE: Why does It say: "This day?" Did we not already enter into the "covenant of the Lord"? Perhaps, from here, we take that every day we enter into our covenant anew.}
-</p>
+**NOTE**: Why does It say: "This day?" Did we not already enter into the "covenant of the Lord"? Perhaps, from here, we take that every day we enter into our covenant anew.{.note}
 
 n29:11] <b>בברית ובאלתו</b> &mdash; <i>Covenant and imprecation</i> (invoke curse). This refers to the curse that will come upon those who defy the covenant.
 
 <div class="note">
-<p dir="rtl">
+
 <b>כּורת</b> &mdash; seals
 <br />
 <b>ובאלתו</b> &mdash; imprecation: curse of defying the covenant
@@ -76,9 +72,7 @@ n29:14] <b>וְאֵ֨ת אֲשֶׁ֥ר אֵינֶ֛נּוּ פֹּ֖ה</b> &mdas
 
 The covenant was binding even on unborn generations ... because parents and children are like trees and their seeds. Just as the potential of all saplings is contained in the parent tree, so future generation are contained, in the parents who will give birth to them.
 
-<p class="note">
-{NOTE: But it could also refer to all those who have not heard the call, and was not at Sinai or amongst the people who crossed over the Jordan. It may be speaking of the nations that were not there, for G-d could see the whole world, and know of the people that lived in distant lands that maybe the Jews about to enter the land of Israel did not even know about. But He would know and would care.}
-</p>
+**NOTE**: But it could also refer to all those who have not heard the call, and was not at Sinai or amongst the people who crossed over the Jordan. It may be speaking of the nations that were not there, for G-d could see the whole world, and know of the people that lived in distant lands that maybe the Jews about to enter the land of Israel did not even know about. But He would know and would care.{.note}
 
 ---
 
@@ -92,7 +86,7 @@ The covenant was binding even on unborn generations ... because parents and chil
 <br />
 יח וְהָיָ֡ה בְּשָׁמְעוֹ֩ אֶת־דִּבְרֵ֨י הָֽאָלָ֜ה הַזֹּ֗את וְהִתְבָּרֵ֨ךְ בִּלְבָב֤וֹ לֵאמֹר֙ שָׁל֣וֹם יִֽהְיֶה־לִּ֔י כִּ֛י בִּשְׁרִר֥וּת לִבִּ֖י אֵלֵ֑ךְ לְמַ֛עַן סְפ֥וֹת הָֽרָוָ֖ה אֶת־הַצְּמֵאָֽה:
 </p>
-<p>
+
 15. For you know how we dwelled in the land of Egypt, and how we passed through the midst of the nations through whom you passed.<br />
 16. And you saw their abominations and their detestible idols &mdash; of wood and stone, silver and gold that were with them.<br />
 17. Perhaps there is among you a man, woman, family or tribe, whose heart turns away today from being with the **HaShem**, our G-d, to go and serve the deities of those nations. Perhaps there is among you a root flourishing with gall (hemlock?) and wormwood.
