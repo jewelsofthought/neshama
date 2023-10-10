@@ -63,10 +63,13 @@
   font-size: 108%;
 }
 
+/* Is this really necessary. Anyways, removed .column.heb for now to align correctly.
+How will that affect the verses I wonder...
+This worked and did not affect the verses either... so I am removing the whole stanza.
+
 p[dir='rtl'],
 .box div[dir='rtl'].column,
-p.heb,
-.column.heb {
+p.heb {
   text-align: start; /* left in latin, right in arabic */
   margin-inline-start: 0px; /* margin-left in latin, margin-right in hebrew */
   padding-inline-start: 1rem; /* padding-left in latin, padding-right in hebrew */
@@ -129,6 +132,8 @@ aside {
   float: right;
   font-style: italic;
   background-color: lightgray;
+  border: 1px black;
+  border-radius: 10px;
 }
 
 /* SCCS */
