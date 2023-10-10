@@ -47,36 +47,13 @@ stars: '***'
 38. [Exciting ability](#exciting-ability)
 39. [Technology](#technology)
 
-<details style="display:none">
-<summary class='button is-outlined'>
- Outline (story-line) &nbsp;<i class='fa fa-solid fa-caret-down'></i>
-</summary>
-<p>
-1. Change the narrative (4D – 3D)
-2. Language transference (angels -> quantum -> 4d)
-3. Multi-dimensionality
-   a) Dimensions
-   b) all action occurs @ 1D, "the point". What is the point (event, conversation, etc.).
-   c) Sex – the erotic nature of the universe.
-   Pt (masc.), encountering receptor (fem). {Remembering, that this is the process. In order to have a point that is penetrating, one has to have a space that is receiving too.}
-   They touch at a "pt", which, if received becomes a "collection" of points – which form, then, an object or event. Millions of pts of interaction occurring at any and every moment, extending from the center, which was the first point of contact.
-4. Numbers (0 – 9 [10], 1 – 10 [10] -> 12?)
-5. Geometry (shapes, 6, 12, etc)
-6. Space, topology
-7. Quantum
-8. Imaginary numbers
-9. Transcendental states (bliss, nirvana, enlightenment)
-
-</p>
-</details>
-
 ---
 
-## Revelation
-
+## Revelation 
+#judaica 
 > G-d's revelation depends on one's ability to see Him within parts of the text.
 
-## Kaballah (qkab)
+## Kabbalah (qkab)
 
 If the ultimate goal of Kabbalah is to bring people back to Judaism,  the Torah & _Mitzvot_, then it is not the Kabbalah that our sages propagated. For that Kabbalah comes after being steeped in Torah & from obeying the _Mitzvot_, i.e. being righteous, not before. Kabbalah is meant to lead the student into the deeper mysteries of the Torah (and universe), to gain a deeper understanding of God and His Purpose, how the Universe looks and works, what spiritual energy is and thus, how to understand it and its dynamics in our lives. However, this was taught upon a firm foundation of Judaic laws and customs. First a deep understanding of the religion was required before one could enter Kabbalah.
 
@@ -440,3 +417,11 @@ All that is manifest can be measured (quantified), and it can only be measured b
 ## Technology
 
 Technology will be and is only the product of the human mind and can and will be used in pursuit and support of the light or the darkness according to the mind that wields it.  No technology is inherently evil – however as much as they are enhancements of actual aspects of our being so they will allow for greater expression of the positive or the negative aspects thereof.
+
+# I - the imaginary number
+
+"$i$" is the crack in the fortress of mathematics and science that allowed the light in and the lights on. Just as I am the crack int he world, and thus a conduit, a "conscious" portal for this light.
+
+It is like having a spider's web woven across the opening that influences the light. And I am the spider, feeding from both the life inside, formed in darkness and density, and the light from outside, that roams free in the infinite creative space of the imagination.
+
+I form my web in the density of matter, guided by vibrations (sound), which I experience as sensations, interpreted through a cosmology that acknowledges the other, not-$i$, which is infinite.

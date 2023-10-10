@@ -7,8 +7,8 @@ modified: 2022-09-28T13:08:51.930Z
 ---
 
 1. [Buying Co-Op](#buying-co-op)
-2. [Corporation & Co-operation](#corporation--co-operation)
-3. [Corporation & Self-rule](#corporation--self-rule)
+2. [Corporation \& Co-operation](#corporation--co-operation)
+3. [Corporation \& Self-rule](#corporation--self-rule)
 4. [Rosh HaShana 2022](#rosh-hashana-2022)
 
 ## Buying Co-Op

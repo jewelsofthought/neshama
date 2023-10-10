@@ -9,41 +9,10 @@ date: 2010-12-01T14:51:59+02:00
 eleventyExcludeFromCollections: true
 ---
 
-GENESIS
-The Beginning of Desire
-AVIVAH GOTTLIEB ZORNBERG
 
-GENESIS
-The Beginning of Desire
-AVIVAH GOTTLIEB ZORNBERG,
-The Jewish Publication Society
-Philadelphia Jerusalem 5755/1995
 
-Copyright © 1995 by Avivah Gottlieb Zornberg
-First edition All rights reserved No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopy, recording, or any information storage or retrieval system, except for brief passages in connection with a critical review, without permission in writing from the publisher:
-
-The Jewish Publication Society,
-1930 Chestnut Street,
-Philadelphia, PA 19103.
-Manufactured in the United States of America
-Library of Congress Cataloguing-in-Publication Data
-Zornberg, Avivah Gottlieb.
-Genesis : the beginning of desire / Avivah Gottlieb Zornberg. — 1st ed. p. cm.
-Includes bibliographical references and index.
-ISBN 0-8276-0521-8
-
-1.  Bible. O.T. Genesis —Commentaries. I. Title.
-    BS1235.3.Z67 1995
-    222M107-dc20 94-40776
-    CIP
-    IV
-
-> ".. .not to have is the beginning of desire."
-> WALLACE STEVENS
-> from "Notes toward a Supreme Fiction"
-
-1. [GENESIS 1 & The Beginning of Desire](#genesis-1--the-beginning-of-desire)
-   1. [BERESHIT - <i>The Pivoting Point</i>](#bereshit---ithe-pivoting-pointi)
+1. [GENESIS 1 \& The Beginning of Desire](#genesis-1--the-beginning-of-desire)
+   1. [BERESHIT - The Pivoting Point](#bereshit---the-pivoting-point)
       1. [The mystery of creation](#the-mystery-of-creation)
       2. [Primal disintegrations](#primal-disintegrations)
       3. [Nature comes into being](#nature-comes-into-being)
@@ -61,25 +30,6 @@ ISBN 0-8276-0521-8
       1. [Kindness and Ecstasy](#kindness-and-ecstasy)
       2. [The collapse of God's project](#the-collapse-of-gods-project)
    3. [Definitions](#definitions)
-      Contents
-      Acknowledgments ix
-      Introduction xi
-      BERESHIT: The Pivoting Point 3
-      NOAH: Kindness and Ecstasy 37
-      LEKH LEKHA: Travails of Faith 72
-      VA-YERA: Language and Silence 97
-      HAYYEI SARAH: Vertigo - The Residue of the Akedah 12 3
-      TOLEDOT: Sincerity and Authenticity 144
-      VA-YETZE: Dispersions 180
-      VA-YISHLAH: The Quest for Wholeness 216
-      VA-YESHEV: Re-membering the Dismembered 243
-      MI-KETZ: The Absence of the Imagination 284
-      VA-YIGGASH: The Pit and the Rope 314
-      VA-YEHI: The Beginning of Desire 352
-      Notes 382
-      Glossary 422
-      Bibliography 427
-      Index 431
 
 ## Acknowledgments
 
@@ -282,7 +232,7 @@ flourish on the free play of greatness and procreativeness.
 
 ### The problem of man
 
-All this is a preamble to the problem of man. Although he is to dominate creation, Man is not called "great," because he is, from the very outset, to be many. ("Be fertile and increase . . ." [1:28].) Yet there is ambiguity in the account of his origins. He was formed from the clay of dust and water, of earth and heaven, in one whole "image of God"; yet immediately, he is described as a plural being: "And God created man in His image, in the image of God He created him; male and female He created them" (1:27).[^1.26] The narrative later describes the removal of one of his ribs to make woman. And the midrash, in Rashi's version, resolves the question of unity and duality in one striking image: "God created him first with two faces, and separated them" (1:27).
+All this is a preamble to the problem of man. Although he is to dominate creation, Man is not called "great," because he is, from the very outset, to be many. Yet there is ambiguity in the account of his origins. He was formed from the clay of dust and water, of earth and heaven, in one whole "image of God"; yet immediately, he is described as a plural being: "And God created man in His image, in the image of God He created him; male and female He created them" (1:27).[^1.26] The narrative later describes the removal of one of his ribs to make woman. And the midrash, in Rashi's version, resolves the question of unity and duality in one striking image: "God created him first with two faces, and separated them" (1:27).
 
 One of Rashi's sources narrates a previous stage of the process, which Rashi does not quote: "At first, God intended to create two separate beings, but in the end man was created as one being."[^1.27] God's first thought represents an ideal reality. The decision to create man as one
 androgynous being ("in the image of God He created him") then seems inscrutable, especially since there is an almost immediate return to the original plan: man is split into the two entities of God's first intention ("male and female He created them"). The splitting-off is prefaced by a thought of God: a soliloquy&mdash;perhaps the first "God said" that has no direct effect on reality. God thinks: "It is not good for man to be alone; I will make a fitting helper for him" (2:18). Rashi comments: "So that people should not say, 'There are two powers; God is alone in the upper worlds, and has no partner, and this one is in the lower worlds, without a partner.'"
@@ -6922,7 +6872,7 @@ earth. The leap is a basic form of joy."55
 Jacobs feet, in midrashic sources, become a symbol for the conflict of
 lightness and gravity. Lugubriously, the midrash illustrates the theme of
 the defeat of lightness, youth, and joy: " 'The race is not won by the swift
-[lit., the light]_ [Ecclesiastes 9:11]: This refers to Jacob. Yesterday, 'Jacob
+[lit., the light]_[Ecclesiastes 9:11]: This refers to Jacob. Yesterday, 'Jacob
 lifted up his feet'; today, 'he gathered his feet into the bed_ (49:3 3)."56
 Gravity wins in the end, the retrenching, the concentration. But the
 midrash invests much dynamic imagination in Jacob's buoyancy, in the
@@ -14524,7 +14474,7 @@ Jacob's role is minimal, but does involve the use of his hands and legs:
 Toledot 58. Beresbit Rabbah 65:10. 59. Friedrich Nietzsche, The Birth of Tragedy, in Geoffrey Clive, ed. The
 Philosophy of Nietzsche (Mentor: 1965), 145. 60. J. Sotah 1:16. 61. Tanhuma, Va-yiggash, 3 62. J. Sotah 1:8. 63. Italo Calvino, Mr. Palomar (Picador: 1986), 26-29. 64. Tanhuma, Tazria, 6. 65. See Mei Ha-Shiloah, Toledot, 10a for a discussion of Jacob and Esau
 in relation to the question of simplicity and ambiguity. 66. Beresbit Rabbah 65:22. 67. B. Berakhot 63b. 68. Beresbit Rabbah 63:15. 69. Trilling, Sincerity and Authenticity, 99. The expression, "the  
-sentiment of being,** comes from Rousseau*s Second Discourse, where he compares
+sentiment of being,**comes from Rousseau*s Second Discourse, where he compares
 the savage who "lives within himself*' with the sociable man who "knows
 how to live only in the opinion of others, and it is, so to speak, from their
 judgment alone that he draws the sentiment of his own being** (quoted in
@@ -14535,7 +14485,7 @@ classic midrashic descriptions of the taste of the manna, and the experience of
 receiving the Torah at Mount Sinai. 72. Compare Abarbanel's reading of lo hikiro. Unlike most  
 commentators, he translates, "he did not identify him,** rather than "he did not
 recognize him." 73. In the Beresbit Rabbah source, Jacob describes his anokhi differently:
-"/ am destined to receive the Ten Commandments** — a word-play on the
+"/ am destined to receive the Ten Commandments**— a word-play on the
 opening statement of the Ten Commandments: "lam the Lord your God.\*'
 In this reading, Jacob's identity will find full standing only in the anokhi
 encounter of Sinai, where man will achieve an unprecedented strength to
@@ -15923,7 +15873,7 @@ PSALMS
 36:7, 5/
 45:8, *5
 45:11, 86
-45:12, *5
+45:12,*5
 66:5, 254
 66:8-14, 68
 66:U,389n.l3
@@ -16144,7 +16094,7 @@ RABBAH
 22:1, 98
 26:5, 52[n.26], 386nA2
 27:3, 381n.31
-28:2, 47-4* /n.277
+28:2, 47-4*/n.277
 29:4, 41 [n.6], 51 [n.46]
 30:9, 58-59 [n. 50]
 31:19, 55>/«.5//
@@ -16189,7 +16139,7 @@ RABBAH
 68:13, 196 [n.40]
 68:18, 7P7 /n.277
 69:3, 7*4 /n.P/
-69:7, 75>_ /«.4_/
+69:7, 75>_/«.4_/
 70:17, 144 [n.2], 186
 [n.22]
 71:2, 212 [n.82]
@@ -16515,19 +16465,19 @@ GENESIS
 1:21, 73-74
 
 Index of Sources
-1:24, _ 23:2, 725 41:12, 253, 214
+1:24, _23:2, 725 41:12, 253, 214
 1:26,70 24:21,142 41:14, 291
 1:27, 74, 18 24:67, 75_, 398-399 n.42 41:48, 2*0
-1:31, 25, 27, 5*5,67 25:11, 75* 41:51, 475,4
+1:31, 25, 27, 5*5,67 25:11, 75*41:51, 475,4
 2:5, 108, 312 25:19, 750 41:55, 290
 2:6, 18, 41 25:22, 169 42:7, 506
 2:7, 16 25:27, 754, 767, 765 42:8, 414 n.45
 2:18, 14 27:1, 755 42:12, 294
 2:24, 77, 7*2, 390n.9 27:19, 772 42:20, 331
-3:5, 2* 27:27, 169 42:22, 277
+3:5, 2*27:27, 169 42:22, 277
 3:9> J/7 27:33, 752, 265 42:28, 265
 3:16> 20 27:36, 752, 257 42:36, 294
-3:17> *w 28:9, 770 43:2, 288
+3:17>*w 28:9, 770 43:2, 288
 4:24> 57 28:10, 7*7 43:8, 288
 5:24, 299, 421n.55 28:11, 7*7, 7*0 43:30, 308, 336
 5:29, 57-5*, 384n.44 2g.13j /p2 43;33j ^2
@@ -16549,8 +16499,8 @@ nn9 19 32:22,226 47:28,555
 1210 05 32:27, 747 47:31> 353
 15:5, Vj 32:29, 228 48:2' 475>n'7
 15-13 245 257 32:30, 747 48:5» 369
-1515 756 32:31,255,2*6,475,4 _»./,/i_, _w, _/*
-17:5,70, *2 33:11,256
+1515 756 32:31,255,2*6,475,4 _»./,/i_, _w,_/*
+17:5,70, _2 33:11,256
 18:6-7, 702 33:17, 270
 18:12, 775 33:18,277
 18:14, 396n.52 33:20, 227
@@ -16562,7 +16512,7 @@ nn9 19 32:22,226 47:28,555
 22:2, 00, 07, 07 [n.l] 37:3, 255 6:3~8' 407nM
 22:4, 506,60 37:24, 202 19:1, xix
 22:11,502,50 37:26,270 LEVITICUS
-22:12, 0* /,5/, 777, 757 37:31, 269 20:17, 5*7,25
+22:12, 0*/,5/, 777, 757 37:31, 269 20:17, 5*7,25
 22:13, 727 37:33, 300 26:6, 727
 22:16, 507,77 37:35, 267, 300, 343, NUMBERS
 22:20, 393n.60 415n.9 20:14-15, 17, 257

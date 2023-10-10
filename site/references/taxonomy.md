@@ -1,7 +1,8 @@
 ---
 title: Taxonomy
 description: Categories or Tags?
-tags: null
+tags:
+  - reference
 date: 2021-10-19T20:30:21.600Z
 ---
 

@@ -2,11 +2,10 @@
 title: Piece on Hashmal
 pages:
   - 344
-tags: null
+tags: 
 date: 2010-10-20T01:52:59+02:00
 modified: 2020-06-05
 ---
-
 Zoharic commentary on the verse:
 
 > "In the center of the fire the likeness of the &#7717;ashmal" (Exek. 1:4):

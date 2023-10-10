@@ -1,7 +1,6 @@
 ---
 title: Another beginning...
 description: Time is all we have.
-tags: null
 date: 2002-12-02T05:10:30.856Z
 modified: 2022-06-14
 ---
@@ -37,7 +36,7 @@ Actually my truth?
 What in me is thinking
 That thought in the first place?
 Where does it all end?
-בראשית ברא אלוהים…
+[בראשית ברא אלוהים…]{.is-pulled-right}
 'In the beginning….'
 
 Where is He, the Blessed Source?

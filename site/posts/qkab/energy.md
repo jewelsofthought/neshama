@@ -24,12 +24,16 @@ stars: '****'
    2. [Imaginary: Wave](#imaginary-wave)
 10. [Energy](#energy)
 11. [Light - electricity - water](#light---electricity---water)
-12. [Chashmal](#chashmal)
+12. [*Chashmal*](#chashmal)
+    1. [The voice of Chashmal](#the-voice-of-chashmal)
 13. [Water](#water)
 14. [Energy is energy - good or bad](#energy-is-energy---good-or-bad)
 15. [Zero Waste (Energy)](#zero-waste-energy)
 16. ["Trapped" energy](#trapped-energy)
 17. [Energy - form](#energy---form)
+    1. [Hadronic energy](#hadronic-energy)
+
+[energy](energy.md#The%20voice%20of%20i%20Chashmal%20i)
 
 ## Fundamental property
 
@@ -39,7 +43,7 @@ Think of consciousness as self-aware energy, and self-aware energy is energy tha
 
 I like to express it in terms of [dimensions](/tags/dimensions/).
 
-The above idea might open one to the theories of _panpsychism_, which says that even a rock has consciousness. It exists as a rock, with all the characteristics of rock, but is it self-aware?
+The above idea might open one to the theories of *panpsychism*, which says that even a rock has consciousness. It exists as a rock, with all the characteristics of rock, but is it self-aware?
 
 However, there is a theory, a cosmology, wrapped in a practice and the living expression of an ancient tradition, in which consciousness IS the fundamental property of the universe, called {[kabbalah](kabbalah_intro.html)}.
 
@@ -73,7 +77,7 @@ When energy encounters constraints, it solidifies (densifies). As long as there 
 
 If it reaches a sustainable or relatively stable state of dynamic balance [though this does not mean it is by any means, quiet - it means that the total energy contained within its constaints, is balanced]{.note}, it would be perceived as something relatively stable or static, and one would think of it as energy at rest. Like a table, or a mountain. It would include living beings, ,for they are constained (physically) within a "skin".
 
-[Note: QK: This is an aspect of the _Nefesh_, one's vivifying soul. It is the soul that "rests" here.]{.note}
+[Note: QK: This is an aspect of the *Nefesh*, one's vivifying soul. It is the soul that "rests" here.]{.note}
 
 Energy "at rest" can be [measured](/posts/qkab/energy/index.html#measurement). Thus what we perceive (or calculate) to be a "particle" is energy, quite subtle energy actually, that is "slow" enough to be seen/measured by our instruments &mdash; that have become our eyes and ears that extend into the deepest and farthest part of the universe that we are able to.
 
@@ -148,25 +152,25 @@ It is the same in the "real" world we inhabit. While we think that it is the obj
 
 We create "form" in the world around us by naming the experience we are having, and upon naming the experience, we both assume and perhaps add, certain characteristics to that experience. Good/bad, hot/cold, solid/liquid... etc. In naming the experience, we can communicate it to our fellows. For we are here to recognise and communicate our experiences to one another, and for our fellows to be witnesses to this lived experience. This changes the emphasis of being human &mdash; not to achieve, but to share our lived experience with at least one other, if not one another... to be.
 
-## </i>Chashmal<i>
+## *Chashmal*
 
-[Turning _Noga_ into _Chashmal_](https://astillsmallvoice.org/turning-noga-to-chashmal/) by [Sarah Yehudit Schneider](https://astillsmallvoice.org/)
+[Turning *Noga* into *Chashmal*](https://astillsmallvoice.org/turning-noga-to-chashmal/) by [Sarah Yehudit Schneider](https://astillsmallvoice.org/)
 
 [Theories of Truth (1): Correspondence and Coherence
 ](<<https://www.inner.org/torah_and_science/theories-of-truth-correspondence-and-coherence)> by Harav Yitzchak Ginsburgh.
 
-[The Torah's Greatest Secret, Revealed](https://www.mayimachronim.com/the-torahs-greatest-secret-revealed/) from the website [_Mayim Achronim_](https://www.mayimachronim.com/).
+[The Torah's Greatest Secret, Revealed](https://www.mayimachronim.com/the-torahs-greatest-secret-revealed/) from the website [*Mayim Achronim*](https://www.mayimachronim.com/).
 
 [The Electricity of G-d – **חשׁמל**](https://www.chaimbentorah.com/2015/06/word-study-the-electricity-of-god-%D7%97%EF%AC%AA%D7%9E%D7%9C/)
 
 > Electricity has opened the portal to the next stage of humanity's evolution.
 
-What if we look at _chashmal_ as the full electro-magnetic spectrum and beyond?
+What if we look at *chashmal* as the full electro-magnetic spectrum and beyond?
 
-> _Chashmal_ is the vivifying force of creation
-> _Chashmal_ is the information bearer of creation
+> *Chashmal* is the vivifying force of creation
+> *Chashmal* is the information bearer of creation
 
-When we feel something&mdash;that is _chashmal_. But it can only be detected/experienced as secondary effects. That is by its effect upon something that is already manifest.
+We cannot see, or taste, or hear *chashmal*, but we can feel it! It can only be detected/experienced as secondary effects. That is by its effect upon something that is already manifest.
 
 The power is always flowing through the system&mdash;even if we only experience it as discreet, with a gap between each pulsation. It does not cease, but when it is in "negative" space, we cannot experience it, except as a lack/no-thing. It is how that power is used i.e. regulated and constrained, that determines the information that is transmitted and received.
 
@@ -174,15 +178,25 @@ The power is always flowing through the system&mdash;even if we only experience 
 
 > The more information carried in the system, the greater is its complexity, and the higher are its energy requirements.
 
+> Whatever path you choose will become your truth -- and if not, that will become your truth.
+
+### The voice of Chashmal
+
+There is a voice, called *Chashmal*, that speaks as loudly as the sound of the *Shofah* blast at Mt. Sinai, yet is as silent as a leopard stalking its prey -- with an impact that is as overwhelming as a bolt of lightning.
+
+Chashmal travels along a circuit, like a chain of  thoughts -- thus it needs a transmitter and a receiver. It the energy is too great, the circuit will get fired -- sometimes gradually, sometimes in a moment if the circuit is not ready. "When the student is ready, the master will appear."
+
+This might be a way to explore the "cracking of the vessels". Perhaps being "fried", as in the case of an electrical circuit, was what occurred -- which would be thought of in a pre-chashmal society as a "crack".
+
 ## Water
 
-> Water as communication medium. So is _chashmal_!
+> Water as communication medium. So is *chashmal*!
 
-All was fine, until we encountered electricity (_chashmal_). This was something we could only experience. We could not perceive it with any of our five senses. It has become tremendously useful, and people were and are dying in their desire and need for its benefits and use. We did not hesitate at the door to this discovery, but rushed madly in &mdash; as if it was a new discovery of gold or diamonds &mdash; and began using this limitless font of energy we had discovered to benefit "all" &mdash; which as per usual, meant first those who could afford, or were lucky enough to be born into, access to it.
+All was fine, until we encountered electricity (*chashmal*). This was something we could only experience. We could not perceive it with any of our five senses. It has become tremendously useful, and people were and are dying in their desire and need for its benefits and use. We did not hesitate at the door to this discovery, but rushed madly in &mdash; as if it was a new discovery of gold or diamonds &mdash; and began using this limitless font of energy we had discovered to benefit "all" &mdash; which as per usual, meant first those who could afford, or were lucky enough to be born into, access to it.
 
 No one thought to stop and the doorway and ask "What is it?". Because we were still in the trance of the certainty of empirical measurements - as many still are. It is an essentially 2d comprehension of the world around us, rather like the behemoth. And so we rushed in, where angels might fear to tread.
 
-So onward intrepid explorers, armed with your electrically powered machines, and let us see what we can do... Well, we live in the [outcome](intention.html). I am old, but, if you are young, I pray that it will lead you to paradise and not to some dystopian cyber-prison.
+Onward intrepid explorers, armed with your electrically powered machines, and let us see what we can do... Well, we live in the [outcome](intention.html). I am old, but, if you are young, I pray that it will lead you to paradise and not to some dystopian cyber-prison.
 
 ## Energy is energy - good or bad
 
@@ -192,11 +206,11 @@ Electricity, just as fire, is both and bad. To the universe, there is no differe
 
 ## Zero Waste (Energy)
 
-If the synergy is balanced and harmonious, then there is **zero waste**, as all inputs will be used and all outputs nourish something in the chain of life [**TODO**: differentiate between local & global in/outputs]{.note}. The metaphor for this is the _Oroborus_, the serpent that is swallowing its tail, representative of the circle. Spiritual food never leaves any waste, as the _manna_ given to the Son of Israel while they were wandering in the desert produced no waste as it was spiritual food.
+If the synergy is balanced and harmonious, then there is **zero waste**, as all inputs will be used and all outputs nourish something in the chain of life [**TODO**: differentiate between local & global in/outputs]{.note}. The metaphor for this is the *Oroborus*, the serpent that is swallowing its tail, representative of the circle. Spiritual food never leaves any waste, as the *manna* given to the Son of Israel while they were wandering in the desert produced no waste as it was spiritual food.
 
 The more harmonious/balanced the interaction, the more effective will the energy usage be and the smaller the amount of wasted energy. It takes energy to deal with energy &ndash; even wasted energy. In fact, wasted energy is an expression of the propagation of error, for as the energy exchange increases, the waste will increase as well.
 
-> Nature has no waste. _Nothing_ in nature is wasted. Waste being energy that is not used or incorrectly, (mis-)used.
+> Nature has no waste. *Nothing* in nature is wasted. Waste being energy that is not used or incorrectly, (mis-)used.
 
 ## "Trapped" energy
 
@@ -218,3 +232,7 @@ The only way we are aware of this subtler energy is through its effect. Just as,
 Science in the beginning had a relatively easy time, for in its beginnings it investigated the so-called "spiritual" effects of things. I am speaking of what is referred to as superstition—which was the word we used to describe those "extra-natural" or  metaphysical forces.
 
 The quantum arena speaks of such energy. We feel it's effect in our everyday lives with our cell phones and other wireless devices. Yet there is an even more subtle energy, one that vivifies everything. We call it alive when we see it move, and inanimate when it doesn't. Yet they all react to input and energy affects their structure and sometimes their behaviour too. They are alive, or at least reactive, to these energetic forces.
+
+### Hadronic energy
+
+It is the force that "appears" at the core of the atom, and nowhere else we can see. It binds the sub-atomic particles that make up the elemental framework of our world. It holds these disparate parts together to form the functional elements of our reality. It is as primal as sex, as irrepressible as love, forming the building blocks of our universe.

@@ -10,7 +10,7 @@ eleventyExcludeFromCollections: true
 
 My desire is for a climax, an orgasm in the Willem Reich sense - an experience that is transporting - just like an hallucinogenic experience. One in which you experience bliss and are transported to another world, one of delight, and joy. It is transformative, and life-changing, and changes the world around us. When we sing "all you need is love", and say "God is Love", that is the experience of "being in Love" - the most incredible experience one can have - and it generally requires another.
 
-# state of bliss:
+# state of bliss
 
 Attainable when in love, (with the juice of the erotic manifest as/in sex). Only promised in spiritual/religious {spiritual - freedom to choose and practice as you will)/religious - daily practice according to a certain tradition). Acknowledged as a difficult goal, seldom achieved and even then, only partially - except by the very exceptional (Moses, Jesus, Buddha, the Prophet...) Yet many have experienced bliss (even if only once) in a love relationship.
 
@@ -21,10 +21,6 @@ We awaken to consciousness in these bodies. Our first task is to take care of hi
 Let me give an example. Place hand in flame. It burns. There is a sensation in your hand. You respond to that sensation - not the hand (as the recipient of the heat of the flame) - but your will, your mind, YOU react - again not your hand! On its own, it would continue to experience the sensation... and burn. In other words, your hand, without your mind, is not alive! However, your body is.
 
 Alchemy: The spirit of the flame interacting with your spirit (spiritual entanglement is the experience of the immanence of the Divine {_Shekhina_})
-
-# Chashmal
-
-Electricity between two people.
 
 # Male
 

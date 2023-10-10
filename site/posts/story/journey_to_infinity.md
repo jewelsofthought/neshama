@@ -8,17 +8,24 @@ date: 2001-01-10T15:21:18.856Z
 modified: 2023-04-18T12:48:34.172Z
 ---
 
-1. [Science](#science)
-   1. [Atoms \& Molecules](#atoms--molecules)
-   2. [Breathing](#breathing)
-2. [What is infinity - Exercise](#what-is-infinity---exercise)
-3. [I. Axiom of Existence](#i-axiom-of-existence)
-   1. [Point](#point)
-   2. [Awareness of Self](#awareness-of-self)
-   3. [Communication of self](#communication-of-self)
-   4. [Awareness of Other](#awareness-of-other)
-4. [Axiom II: Axiom of Choice](#axiom-ii-axiom-of-choice)
-5. [Axiom III: Axiom of Relationship](#axiom-iii-axiom-of-relationship)
+1. [The Journey Begins](#the-journey-begins)
+   1. [Journey to Infinity](#journey-to-infinity)
+   2. [The Descent](#the-descent)
+   3. [Science](#science)
+      1. [Atoms \& Molecules](#atoms--molecules)
+   4. [Breathing](#breathing)
+2. [Infinity \& Zero](#infinity--zero)
+   1. [What is infinity - Exercise](#what-is-infinity---exercise)
+3. [Consciousness](#consciousness)
+   1. [I Axiom of Existence](#i-axiom-of-existence)
+   2. [Point](#point)
+   3. [Self](#self)
+      1. [Awareness of Self](#awareness-of-self)
+   4. [Communication of self](#communication-of-self)
+   5. [Other](#other)
+   6. [Awareness of Other](#awareness-of-other)
+4. [II Axiom of Choice](#ii-axiom-of-choice)
+5. [III Axiom of Relationship](#iii-axiom-of-relationship)
    1. [Dust to dust](#dust-to-dust)
    2. [Axiom of Relationship](#axiom-of-relationship)
 6. [Axiom of Balance](#axiom-of-balance)
@@ -28,12 +35,12 @@ modified: 2023-04-18T12:48:34.172Z
    2. [Axiom of Relationship](#axiom-of-relationship-1)
    3. [Individual(ized)](#individualized)
    4. [**רצון התוב ורצון הרא** — The good impulse and the bad impulse](#רצון-התוב-ורצון-הרא--the-good-impulse-and-the-bad-impulse)
-   5. [Goal/point](#goalpoint)
-   6. [Exercise 1](#exercise-1)
-      1. [Equals](#equals)
-      2. [Begin Exercise 1](#begin-exercise-1)
-   7. [Numbers](#numbers)
-      1. [Exercise 2](#exercise-2)
+   5. [Point of consciousness](#point-of-consciousness)
+7. [IV Principle of balance](#iv-principle-of-balance)
+   1. [Equals](#equals)
+      1. [Infinity Exercise 1](#infinity-exercise-1)
+   2. [Numbers](#numbers)
+      1. [Exercise 2 - Numbers](#exercise-2---numbers)
       2. [Zero](#zero)
       3. [One](#one)
       4. [Two](#two)
@@ -42,56 +49,59 @@ modified: 2023-04-18T12:48:34.172Z
          1. [3 dimensional](#3-dimensional)
       6. [Number 4](#number-4)
       7. [Number 5](#number-5)
-7. [Electron](#electron)
-8. [Spiral](#spiral)
+8. [Electron](#electron)
+9. [Spiral](#spiral)
       1. [Quantum](#quantum)
-9. [Human](#human)
-   1. [Interactions](#interactions)
-   2. [Point of Information](#point-of-information)
-   3. [Information/Event](#informationevent)
-   4. [Primal Point](#primal-point)
-   5. [Numbers as Points](#numbers-as-points)
-   6. [Points as products](#points-as-products)
-   7. [Influence of 4d](#influence-of-4d)
-10. [Particle of Consciousness](#particle-of-consciousness)
+10. [Human](#human)
+    1. [Interactions](#interactions)
+    2. [Point of Information](#point-of-information)
+    3. [Information/Event](#informationevent)
+    4. [Primal Point](#primal-point)
+    5. [Numbers as Points](#numbers-as-points)
+    6. [Points as products](#points-as-products)
+    7. [Influence of 4d](#influence-of-4d)
+11. [Particle of Consciousness](#particle-of-consciousness)
     1. [Event Point](#event-point)
     2. [Ocean of Consciousness](#ocean-of-consciousness)
     3. [4d Minds](#4d-minds)
-11. [](#)
+
+## The Journey Begins
 
 <div class="poem">
 
-<h3>Journey to Infinity</h3>
+### Journey to Infinity
 
 Cartwheels within cartwheels,
-Seeking vortexes that will heal
+Spinning head over heals,
+Seeking vortices that will heal
 While journeying between the two worlds,
-this one and that.
+this one and that one.
 
 Rich, inner lives that can
-Nourish us, for creativity comes
-From within, from a deep-dark
+Nourish us, creativity arising
+From within, a deep-dark
 Place, a place of the night,
 Where the primordial waters lap.
 
-This is our inner wealth
-
+This is the font of our inner richness
 Without which seekers become
 Architects, building the constraints,
-The _Gevurah_, **גבורה**, of space and time.
+The _Gevurah_ of space and time.
 
 Afraid of the aloneness,
-We fill the darkness
-With our echoey cries.
-Just our own voices, the inner dialogue,
-Answering. We can only hear ourselves.
+We fill the it
+With our plaintive cries.
+Our own voices echoing in that incessant
+inner dialogue.
+
+We can only hear ourselves.
 
 That is loneliness.
 
 A single tiny light, hovering, a candle-flame,
 In an infinity of darkness.
 
-Only in a void can _Ein Soph_ **און סוף** write.
+Only in a void can _Ein Soph_ write.
 Only in a completely and
 Absolutely empty space can Her
 Voice be heard, singing, singing all of Creation
@@ -99,8 +109,8 @@ Into existence.
 
 Otherwise it is jagged,
 incoherent and discontinuous,
-disturbed by whatever is
-blocking it.
+disturbed by whatever noise
+is disturbing it.
 
 To be surrounded by God,
 is to be surrounded by an infinity
@@ -114,7 +124,7 @@ yet separate from me?
 How can I love some One else?
 Is it not all reflections?
 Just creations of my own,
-reflected on the mirror
+images in the speculum
 that surrounds me?
 
 How dismal.
@@ -130,27 +140,28 @@ is the same as You
 being
 right beside me.
 
+</div>
+
 ---
 
 **Breathe, breathe in, breathe out. Breathe.**
 
 Every breath changes everything.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All is interconnected.
+
+All is interconnected.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Move one iota and
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The configuration of the whole
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Universe changes.
 
-</div>
+### The Descent
 
 <div class="poem">
 
-<h3>The Journey Begins</h3>
-
 **Descend** with me into my dungeon.
 It is a journey I want you to take with me.
-In my dungeon is a scared[^1] me.
-A me that has been whipped and scarred,
-and is afraid.
+In my dungeon is a scared[^1] me
+that has been wounded and scarred.
+
 Help free her,
 lead her out of the darkness and into the light.
 That she may take her place
@@ -165,35 +176,47 @@ working for the greater gift of All.[^2]
 
 > Breathe in, breathe out (x3)
 
-## Science
+### Science
 
 It is time for the truth to emerge out of the paradigm that only sees form into the mysterious spaces of the realms that we so fear. It is inevitable &mdash; as surely as the sun rises and the seasons come. Even though it is the space of your deep denial,  the writing is on the wall &mdash; the evidence is incontrovertible.
 
-Already compartmentalized by the rational constraints imposed by the requirement of rational proof which can only function in a closed field. The concept that only by investigating, even acknowledging, a limited, essentially tiny, amount of the totality can produce better results &mdash; that is, by relying on the empirical "facts" alone.[^3]
+Already compartmentalized by the rational constraints imposed by the requirement of empericism which can only function in a closed field. The concept that only by investigating, even acknowledging, a limited, essentially tiny, amount of the totality can produce better results &mdash; that is, by relying on the empirical "facts" alone.[^3]
 
-Only in a limited sense are these facts "true". They are not absolute truths; they are relative objects whose birth is related to the time, place and culture that they are born in.
+Only in a limited sense are these facts "true". They are not absolute truths; they are relative objects whose birth is related to the time, place and culture that they are first described in.
 
 ---
 
 > Breathe in, breathe out (x3)
 
-### Atoms & Molecules
+#### Atoms & Molecules
 
-The priests of society are the keepers of the great myths of your time – the creation myth, the dying story, why events occur or don't occur, disease, and pain, etc. They tell you that there are things, called atoms, so tiny we cannot see them. These atoms form molecules from which everything is made. They tell you there are things, called germs, that make us sick. They tell you that the universe is finite, and started with a "big bang" &mdash; a ludicrously childish name for Creation of the universe.
+The priests of society are the keepers of the great myths of your time – the creation myth, the dying story, why events occur or don't occur, disease, and pain, etc. They have taken the role of prophets, predicting events before they occur. And, taking guidance from G-d's book, unless you obey the prophecy, there will be severe consequences &mdash; true or not.
 
-You believe this, bolstered by your faith in a rational and logical process, nourished by the need to have basic elements of existence that you can verify. You believe in your myths, just as the ancients believed in their stories of creation. These myths, born prior to your science, permeate and pollute our structures,providing meaning to our lives and the things we do.
+They have convinced us, just like the priest of yore, that their narrative of creation is the correct one. No longer is it a glorious battle between mysterious, unfathomable cosmic forces, sometimes called angels, sometimes gods. It has become a random "big bang", like an orgasmic explosion, that brought the universe into being. Then, not guided, nor directed by any ineffable will or consciousness, just happened to order itself into a functioning and living universe &mdash; that is despite all the incredible evidence for the absolute statistical unlikelihood of any of this occurring.
 
-This mythology of our time tells us that these atoms are made up of particles. In the end the mystery of numbers, produced a mythical equation that tells us that matter and energy are the same thing. From this, we understand that there is no thing, for its mass, its density, its "factual" reality, particles, are just energy &mdash; and somehow light plays a part in this manifestation.
+They tell that all matter is made up of elements, which consist of atoms, each a different combination of just three particles &mdash; electrons, protons and neutrons. All nicely prepared and packaged for our consumption. Then we discovered that these fundamental elements are made up of even more mysterious "particles" that behave like waves too. And this introduces a whole world of strange effects populated by somethings that are so small it is beyond your imagination as to their size. Just to give you an example, light, which is the fastest thing we know, travels just 3 feet in one nanosecond &mdash; the time unit we use to measure these entities. So try to imagine how small a nanometer (1 * 10<sup>-9</sup> meters) is.
 
-You are surrounded by your reflections &mdash; what you "see", what you "hear", what you "smell", what you "taste", what you "feel", what you "think", and even what you "desire"&mdash;all are vibrational in their essence.
+How these strange fellows, who contradict many of our basic physical laws, managed to get together and compose atoms and elements, and all the other "real" objects, both living and non-living, in our existence is an still an existential mystery.
+
+I mean, even though we speak of atoms being the elements that make up all the objects in the universe, it is acknowledged that 99% of the atom is "empty". In addition, the universe is made up of mostly dark matter and energy and, just like Africa was "darK" for many years, it is dark energy because it is unknown. We have no idea what it is!
+
+Just as we believe in these atoms form molecules from which everything is made, there are also things, called germs, that make us sick. And this is after they have convinced us that that the universe could is finite, and started with a "big bang" &mdash; a ludicrously childish name for Creation of our world.
+
+You believe this, bolstered by your faith in a rational and logical process, nourished by the need to have basic elements of existence that you can verify. You believe in your myths, just as the ancients believed in their stories of creation. These myths, born prior to your science, permeate and pollute our structures, providing meaning to our lives and the things we do.
+
+This mythology of our time tells us that these atoms are made up of particles. In the end the mystery of numbers and their equations, produced a mythical equation that tells us that matter and energy are the same thing. From this, we understand that there is no thing, for its mass, its density, its "factual" reality, particles, are just energy &mdash; and somehow light plays a part in this manifestation. As expressed in the famous equation: $$ e = mc^2 $$ which says that all energy is equal to the mass of the object multiplied by the speed of light squared. If you meditate on this a moment, you might be struck by the fact that a) light plays a part in this equation, and b) that it is in fact not light itself, but its movement, its speed, that is used in the calculation!
+
+You are surrounded by your perceptions &mdash; what you "see", what you "hear", what you "smell", what you "taste", what you "feel", what you "think", and even what you "desire" &mdash; all are vibrational (energetic)in their essence. That is almost like saying that they are perceivable because of their movement, which almost "defines" who they are to us.
+
+Those who are more insightful might point out that there are static objects in our world, object that do not move. Their movement is contained. It has achieved a kind of dynamic balance that holds their "shape". But, do not be fooled, they are in constant motion. These  atoms &mdash; and especially the so-called sub-atomic "particles" that they consist of &mdash; are internally in constant motion. A mountain, which looks eternal, is in constant motion. Earth moves, trees grow and fall, rocks tumble, etc. Even the table at which you sit is not truly static, but is just maintaining its perceived structure until entropy, the natural movement to chaos, takes over and it will begin to rot or splinter and slowly fall apart.
 
 > Breathe in, breathe out (x3)
 
 Imagine all those atoms and molecules, those billions and trillions of little 'things' entering your body. All bunched together as the dust, bacteria, dead skin, etc, surrounding you, floating in the "air". All the incredible array of substances and clusters of things entering your bodies from your surroundings.
 
-How are we separate from this primordial soup that encloses, even defines, us? In order to define who we are, from the physical to the spiritual, we are enclosed in the sound of Other. It is the one melody, the one voice that rises above the choir. Like the microwave frequency that exists throughout the universe, it is the one Voice (perhaps the only voice) that sings the symphony of Creation.
+Are we really separate from this primordial soup that encloses, even defines, us? In order to define who we are, from the physical to the spiritual, we are enclosed in the sound of Other. It is the one melody, the one breath that gives the choir voice. Like the microwave frequency that exists throughout the universe, it is the one Voice (perhaps the only voice) that sings the symphony of Creation.
 
-Thus, one could say, that we are continuing this process of creation by singing ourselves into existence, just as the God's infinite voice brings creation into existence.
+One could say, that we are continuing this process of creation by singing ourselves into being, just as God's infinite voice brings the whole of creation into existence.
 
 ---
 
@@ -201,27 +224,37 @@ Thus, one could say, that we are continuing this process of creation by singing 
 
 > Breathe in, slowly
 
-Your surroundings are affected by your removal of those elements  that you have breathed in. Changing and affecting everything around your self.
+Your surroundings are affected by your removal of those elements  that you have breathed in. Changing and affecting everything around (and inside) you.
 
-> Hold your breathe
+> Hold your breath
 
- Feel this air and its energy is in your body, nourishing and feeding it with its light. Notice how it affects your body. As this is occurring, your lungs are now filling up with the air from your body. You have changed it, affected it, transformed in—placing your "stuff" in it, removed what you wanted from it, inserted thoughts about it.
-
- Now, imagine putting a blessing into this air, breathing it out.
+ Feel this air and its energy spreading in your body, nourishing and feeding it with its light energy, disturbing and interrupting its processes with its dark energy. Notice how it affects your body. As this is occurring, notice how the air in your lungs is now changing, filling up with the waste from your body. You have changed it, affected it, transformed it by placing your "stuff" in it, having removed what you wanted, and affected it with your emotions and mental state of mind.
 
 > Breathe out, slowly
 
-As you breathe out all this air you had in your body and lungs into the space surrounding you. Again, affecting it even if just by your placing a whole lungful of air into your immediate area.
+However, upon exiting, it contains information about you, all that you had inside of you, has now breathed out. A little bit of you is in that air.
 
-However, upon exiting, it contains information about you, all that you had inside of you, has now breathed out.
+> Breathe in, slowly
 
-> Breathe in, breathe out
+Now, as this air as it enters your body, say a little prayer:
+"Thank you, O Lord, for this nourishing air that enters my body. I am blessed and blessed by my ability to breathe it easily. I am grateful for all the gifts and blessing it contains. And I ask for protection from all the toxins and bad energies that it may contain. May I be forgiven for my sins, and protected from harm. My prayer is to receive these blessings and lessons with grace."
+
+> Hold your breath
+
+Once again, feel it spreading through your body. Be as aware of this as you can. Bless it as it enters your blood and nourishes your cells. Bless it as it collects all the detritus from the work that is being done in your body to keep it hale and healthy. Welcome the change in your lungs. And when they tell you it is time to release...
+
+> Breathe out, slowly
+
+Putting your own blessing into this air, as you breathe it out. Imagine your light, your gratitude, your love in that air as you breathe it out, placing lovingkindness into the space that surrounds you. How will the universe react?
+
+> Continue this for another five breaths...
+> Breathe in slowly; hold your breath; breathe out slowly (x5)
 
 The Other entering and leaving transformed by your very existence. The air around you dances with you all the time, in and out and around, every day of your life.
 
 We are in constant dialogue with the universe around us.
 
-Now bless the air as you breathe in... as well.
+Now remember to bless the air you breathe.
 
 > Breathe in, breathe out (x3)
 
@@ -239,51 +272,69 @@ FIG 3: In fact, a large portion of it will become you.
 
 </div>
 
-## What is infinity - Exercise
+---
 
-- Let us make an infinite line.
-- But first we need to have a starting point.
-- Start at a pt. (axiom of choice)
-- Instead of a goal,
-- Instead of a imagining something else (GRAVITY), some other place.
-- Remember the starting point, ø, zero, the origin.
-- Stay at that point
-- hold it
-- begin to imagine this point moving – while "holding" on to the starting point
+## Infinity & Zero
+
+### What is infinity - Exercise
+
+In order for us to envisage infinity, let us imagine an infinite line. A line that has no beginning and no end. That, in itself, might be a stretch of the imagination, but could we try and experience this infinite line?
+
+Let us try. But first we need a starting point. As the line is infinite, we can choose any point[^6] from it. We can call it the "point of origin".
+
+Instead of a goal, instead of imagining something else, or some other place, remember this point of origin, 0, zero.[^7]
+
+Remain at that beginning point a moment. Settle there, become familiar with it. Make sure you kNow where it is. Make sure it is secure and will remain fixed. When you have succeeded in doing that, now being to move from that point, slowly, along this line. Continue moving, keeping on the track, while remaining tethered to the place of origin, the beginning.
+
+After a time of travelling along this line, you may notice that your movement has become faster as you cover more distance. At a certain moment, you will feel this line that stretches  between you and your starting point begin to tighten, like an rubber band that is being stretched tight.
+
+You are close to your end point. A word of caution, do not cross over that boundary, for once the chord is broken, you may not be able to return.[^8]
+
+But beyond that point (or line) that demarcates your limit, is where infinity &mdash; in our experience &mdash; begins. This is what it means for a line to be infinite. It is a line that we cannot even imagine, though we can describe it as being endless &mdash; a state contradicting everything in our experience; or as having no beginning and no end, but we cannot envisage that.[^9]
+
+Spend as much time at your limit as you wish, but do not be careless. When you are done, please return...
 
 ---
 
-## I. Axiom of Existence
+## Consciousness
+
+### I Axiom of Existence
 
 The first premise is that there is something that exists&mdash;call it **consciousness**.
 
 >Every form must be aware of itself to be able to maintain said form.
 
-From that we derive that there has to be a **differentiation** of some sort, an otherness. For anything to exist, for anything to be recognizable, to have an identity, it needs to be, in some way, different from its surroundings. Which presupposes some sort of recognisable order. A this and a that.
+From that we derive that there has to be a **differentiation** of some sort, an otherness. For anything to exist, for anything to be recognizable, to have an identity, it needs to be, in some way, different from its surroundings. Which presupposes some sort of recognisable difference. A this and a that.
 
-This brings up the question of the state that could exist as a "precursor" to this state - one of absolute Unity, perfection and balance. Where everything is One and the same, no other. And that is the only state that this realm of differentiation could have arisen from. So, even if this realm of measurement is infinite, it is still only a part of the Realm of Perfection, and could potentially be a subset thereof.
+There is only one state that could exist as a "precursor" to this process of differentiation, and that is one of absolute Unity, Perfection and Balance. Where everything is One and the same, no other. That is the only state that this realm of differentiation could have arisen from. So, even if this realm of measurement is infinite, it is still only a part of the Realm of Perfection, and a subset thereof.
+
+However, perhaps this subset is in fact an integral part of the Perfection. For sublime perfection would contain both that which is perfection and that which is not. And if the imperfection is only a subset of the Perfection, perhaps the Perfection is still perfect in its totality. In addition, perhaps this so-called imperfection is only a perception of the imperfect's view of the Perfect.
 
 Could not the Realm of Perfection be a subset of the Realm of Chaos?
 
-The answer is no, because the Realm of Perfection has no differentiations. All is One, all is in balance. And so is the Chaos.
+The answer is no, because the Realm of Perfection has no differentiations. All is One, all is in balance.
+
+This segway into the what is chaos and what is order. The finite view of perfection is to maintain stasis, even if dynamic within the vicitudes of its existence. Whereas the infinite has no need to maintain anything, and thus, in the finite, represents chaos, and annihilation of the order in which it maintains itself. Whereas to the infinite, order is the expression of the infinite constraining and restricting itself to a very limited piece of itself.
 
 ### Point
 
 > It takes an infinite amount of nothing to create something. So we are a finite collection of infinities.
 
-Each "point" requires an infinite amount of energy to manifest. Thus each point contains an infinite amount of the no-thing-ness of whatever is NOT.
+Each "point" requires an infinite amount of energy to manifest. Thus each point is defined by an infinite amount of the no-thing-ness, of whatever is NOT (a point).
 
-In the beginning there was nothing, and nothing "moved". It is the infinite penetrating the finite. It is as if a quality, a certain something was held back, was removed.
+In the beginning there was nothing, and nothing "moved". It is the infinite process of the infinite constraining itself. It is as if a quality, a certain aspect of infinity was held back, was removed.[^10]
 
-This collection of infinities, we call **אצילות**, _Atzilut_, the highest level, for beyond this, there is nothing.
+This collection of infinities, we call _Atzilut_, the highest level, for beyond this, there is nothing.
 
-### Awareness of Self
+### Self
+
+#### Awareness of Self
 
 Now, in this realm of events,
 
 > there exists at least one element that is aware of its own existence
 
-The only way to know of this awareness is to be able to share it though finding ways to express and communicate this awareness. The \(r\)evolutionary step here is not to increase communication amongst our species, but to increase our capacity for "inter-species" communication. Not just between the different cultures and languages of our world, something we have not succeeded in too well &ndash; but between us and the animals, between humans and the fauna and flora of our world. Then, perhaps we will be able to begin to communicate with other worldly beings.{.note}
+The only way to know this awareness is to communicate it. Once this communication protocol has been agreed upon, one can test the veracity of one's experience. Naturally, one would be drawn to those with similar views, and thus we form a kind of consensual reality that is always an approximation of reality. The \(r\)evolutionary step here is not to increase communication amongst our species, but to increase our capacity for "inter-species" communication. Not just between the different cultures and languages of our world, something we have not succeeded in too well &ndash; but between us and the animals, between humans and the fauna and flora of our world. Then, perhaps we will be able to begin to communicate with otherworldly beings.
 
 ### Communication of self
 
@@ -301,91 +352,107 @@ I would propose that is different for verbal communication (ʋ) than for written
 
 Consider then, that the complexity and pervasiveness of the communication systems we have at present requires a significant proportion of the current population to exist.
 
-Just imagine if all sentient beings on this planet were communicating. What an incredible event.
+Just imagine if all sentient beings on this planet were communicating. What an incredible event.[^11]
+
+### Other
 
 ### Awareness of Other
 
 The interesting paradox of this "self-awareness" is that there has to be an "other" that is aware of itself. Or something which is not that which it is aware of. There has to be a separation of some nature between the being and whatever in the being that is conscious of itself—conscious enough to be able to represent itself.
 
-This is based on the fact that in order for something to exist, there has to be something else that is not that which exists. A separation. Simply, for a fish to exist in the ocean, it cannot be water. One could say that there needs to be three elements – the "thing" itself, the border or skin that defines/contains the thing, and the outside that is separate (probably by the skin itself) from the contained "thing".{.note}
+This is based on the fact that in order for something to exist, there has to be something else that is not that which exists. A separation. Simply, for a fish to exist in the ocean, it cannot be water. One could say that there needs to be three elements – the "thing" itself, the border or skin that defines/contains the thing, and the outside that is separate from the contained "thing".
 
 This, combined with the ability to communicate coherently to one another, brings greater awareness of self and of other. Now the journey truly begins.
 
 <div class="note" class="is-hidden">
 
-{
-  Malchut: First step: establish the ego, one's kingship in this world (ego).
-  Yesod: Once your foundation in the world is well rooted, the next step is to develop a strong foundation in your own self. It is not a foundation that should anchor you even more in the world, but a foundation upon which you can begin the journey (of the two legs) to the world that awaits us all.
+  <b>Malchut</b>: First step: establish the ego, one's kingship in this world (ego).
+  
+  <b>Yesod</b>: Once your foundation in the world is well rooted, the next step is to develop a strong foundation in your own self. It is not a foundation that should anchor you even more in the world, but a foundation upon which you can begin the journey (of two legs) to the world that awaits us all.
   This can only occur by having a strong enough personal foundation to be able to find balance and harmony between the duality of self and other through both personal and community service. This nourishes both the particular and the general, the immanent and transcendent, opening up the gate to one's higher I, and the beauty and splendour of your (and other's) being.
-  Beings from both the right side and the left can ascend to this throne of splendour. Thus the next stage is knowing the difference between what light and dark, sacred and profane, good and evil, in order to ascend and live in the place of dynamic balance of Judgement and Mercy, through serving the ever-flowing, ever-glowing light of the Almighty.
-}
+  
+  <b>Netzach</b> & <b>Hod</b>: This awareness is based made up of two elements. One that is "involuntary", in that it just "perceives". The other is that the being has the ability to "receive" and cognite his (or her) experience. It is made up of the innate aspects of life, and the particular, individual apprehension of that experience, which is unique to the person.
+
 </div>
 
-## Axiom II: Axiom of Choice
+## II Axiom of Choice
 
-From this point of existence, I[^4] can suggest the existence of a non-empty set, a set that is different from the empty set. Let us refer to it as the set of nothingness, as it had nothing in it prior to the arising of existence. It is a set that is distinct from this element of existence.
+Knowing of the existence of something, I[^4] can suggest the existence of a non-empty set, a set that is different from the empty set. Let us refer to it as the set of nothingness, as it had nothing in it prior to the arising of existence. It is a set that is distinct from this element of existence.
 
 > There exists a set that has discrete elements in it, one of which can be chosen.
 
 Thus we arrive at the Axiom of Choice, which says that we can basically choose any place as our point of origin. Any place, as our beginning. Which requires the Axiom of Existence, which proposes existence of something.
 
-Imagine a collection of baskets, each of which are non-empty. If a basket is empty, then there is not much we can do with it. What the axiom of choice then says is that we can choose a member from each basket in that collection. This is an expression of free will. We have a choice, and through these choices we create our future&mdash;and determine our past. This path is one's golden thread, around what one may call one's vector of existence.
+Imagine a collection of baskets, each of which are non-empty. What the axiom of choice then says is that we can choose a member from any basket in that collection. This is an expression of free will. We have a choice, and through these choices we create our future. This path is one's golden thread, around what one may call one's vector of existence, and is often referred to as one's personal narrative.
 
-Let's extend this discussion.
-
-Beginning with the fact that something exists, something that we can even call the null (or empty) set, the set that contains nothing. If there is such a non-element, then immediately, from the 'that', we deduce a 'this', from the &#x2205; we have a 'not-&#x2205;' or a non-empty set.
-
+<details>
+  <summary class='button is-small is-rounded is-danger'>
+  delete &nbsp;<i class='fa fa-close'></i>
+</summary>
+<p>
+Beginning with the fact that something exists, something that we can even call the null (or empty) set, the set that contains nothing. If there is such a non-element, then immediately, from the 'that', we deduce a 'this', from the &#x2205; we have a 'not-&#x2205;' or a non-empty set. Because if there is a nothing from which everything arose, and there is a something (by the very fact of my own existence, as well as the existence of everything around me &mdash;probably necessary for my very existence)
+</p><p>
 This adds another characteristic to the set of elements that we have proposed, and that is one of **activity**, a dynamic, allowing for a recognizable change of state.
+</p>
+</details>
 
-## Axiom III: Axiom of Relationship
+## III Axiom of Relationship
 
-Before we can investigate the dynamics, i.e., as a change of state, that might exist between any of the elements chosen, there has to be a "relationship" of some sort between them in order to be able to recognize a change of state. For the dynamic present to have any meaning to the $$I$$, that we have proposed, $$I$$ have to have some sort of relationship with this dynamic, otherwise $$I$$ will not be able to identify any change in the state.
+Now this thing, different from the no-thing-ness that it emerged from, will undergo a change of state. First, in its emergence from the perfect nothingness, and secondly, in that it is a finite thing, and thus goes through the cycle of existence.
 
-By the removal of $$I$$ then, a space, a vacuum, nothingness has entered.
+This adds another characteristic to these objects of existence and that is one of **activity**, a dynamic, allowing for a manifest change of state. Recognizing this "motion" in the dynamics of existence, means that they two elements have a relationship.
 
-If there is an element that is able to occupy $$A$$'s vacated space, not-$$A$$, or ~$$I$$', that presupposes either an infinite amount of elements in this space, or the ability to produce any amount of elements at any time as needed.
+Let's refer to this object as I, or one. For the I to have any meaning, it must recognise itself as different from its surroundings. Yet if the surroundings cannot support its existence, it will not survive. Thus there is an almost symbiotic relationship between the object and its surroundings &mdash; even if only surrounded by "nothing".
+
+If there is one I, there is very likely to be another that the I recognises. In fact, there are a possibly infinite amount of elements in the universe that we can recognise. In order to exist, the original I is in constant relation with its surroundings and the objects in its environment, otherwise I will not be able to recognise any change of state.
+
+Now, having identified at least one thing, we can assume that there is more than just that one object. In fact, we have discovered there are large, perhaps infinite, collections of objects and things in our world.
+
+Before we can investigate the dynamics, i.e., as a change of state, that might exist between any of the elements chosen, there has to be a "relationship" of some sort between them in order to be able to recognize a change of state. For the dynamic present to have any meaning to the _'I'_, that we have proposed, _'I'_ have to have some sort of relationship with this dynamic, otherwise _'I'_ will not be able to identify any change in the state.
+
+By the removal of _'I'_ then, a space, a vacuum, nothingness has entered.
+
+If there is an element that is able to occupy _'I_'s vacated space, '_not-I'_, or _'~I'_, that presupposes either an infinite amount of elements in this space, or the ability to produce any amount of elements at any time as needed.
 
 Now we have number of characteristics of our space:
 
 > 1. That something exists within it.
 > 2. That there is more than a single element in this set.
 > 3. That it can undergo a change of state.
-> 4. That they can relate to one another.
+> 4. That they relate to one another.
 
 ### Dust to dust
 
-The questions that arises here are whether the emergence _ex-nihilo_ occurred at one single point (ala Big Bang Theory) or whether it occurred at multiple, perhaps infinite, points and whether it occurred in the same moment, or whether it "unfolded" over time (ala Inflation Theory).
+A question that arises here is whether the emergence _ex-nihilo_ occurred at one single point (ala Big Bang Theory) or whether it occurred at multiple, perhaps infinite places and whether it occurred in the same moment or whether it "unfolded" over time (ala Inflation Theory).
 
-Then there is the question of the "disappearance" or "appearance" of these invisible "particles". Where did it go? Does $$I$$'s change of state actually change the state of the total set under observation?
+Then there is the question of the "disappearance" or "appearance" of these invisible "particles". Where does it go?
 
 On the one hand, a characteristic of infinity is that even if you remove a heck of a lot of infinity from infinity, it is still infinite. If there is a change of state within this infinity, then so has it's infinite collection of finite events. It, all of it, will have changed. Though it would require an observer, a witness, to notice it.
 
-<details>
-<summary class='button is-outlined'>
-Put mathematically&nbsp;<i class='fa fa-solid fa-caret-down'></i>
-</summary>
-<p>
-We say that given the set '$$I$$', is an element of the universal set '$$U$$':
+Let us choose an object, or set, that we designate  _'I'_ that exists in the universe _'U'_ (1). We propose that _'I'_ has an exact, equal and opposite _'not-I'_, represented by _'-I'_ (2). That is, the two are equal, except for the fact that _'-I'_ is the negative or symmetrical reflection to _'I'_. Now we can also propose _'~I'_ which is different from _'-I'_ (3). Whereas _'-I'_ is the exact opposite, or reflection, of _'I'_, _'~I'_ is all that _'I'_ am not, and, unless we are working in a finite space, is, to all intents and purposes, infinite
 
-1. &nbsp;$$I \in U $$.
+<details>
+<summary class='button is-outlined is-warning is-small is-rounded'>
+Mathematics&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+
+We say that given the set _'I'_, is an element of the universal set _'U'_:
+
+(i) &nbsp; $\textstyle{I \in U}$ .
 2. &nbsp;$$ \forall{I} \in U, \exists{-I} \in U $$, such that $$ I \cap -I = &#x2205; $$ and $$ I - (-I) = &#x2205; $$ &mdash; written simply as $$ I - I = &#x2205; $$.
 3. &nbsp;We also define &#x223d;$$I \in U $$, such that $$ U - I = &#x223d;I $$
 
 </p>
-</details>
 
-We first choose a set '$$I$$' that exists in the universe $$U$$ (1). We propose that the set '$$I$$' has an exact, equal and opposite not-$$I$$, represented by $$-I$$ (2). That is, the two are equal, except for the fact that '$$-I$$' is the negative or symmetrical reflection to '$$I$$'. '&#x2212;$$I$$' thus stands in symmetrical compliment to '$$I$$', and actually, fulfils the Axiom of Choice. However, we go further, and define '&#x223d;$$I$$' which is different from '$$-I$$' (3). Whereas '&#x2212;$$I$$' is the exact opposite, or reflection, of $$I$$, '&#x223d;$$I$$' is all that $$'I'$$ am not.
+<b>Discussion</b>
 
-<details>
-<summary class='button is-outlined'>
- Discussion&nbsp;<i class='fa fa-solid fa-caret-down'></i>
-</summary>
 <p>
 If we exist in an infinite universe $$U$$, and if $$I$$ is finite, surrounded by $$U$$, then '&#x223d;$$I$$' must be, in effect, infinite – that is unless you believe that we live in a finite universe. Assuming the universe to be infinite, even if $$I$$ is infinite, then '&#x223d;$$I$$' must also be infinite &mdash; though presumably a greater infinity than that of '$$I$$'. This might get a little deep for the average reader, but we know that $$ U > I $$ then $$ &#x223d;I > I $$. Remember, we are talking about infinities in this case. For if $$I$$ is finite, then it is a no-brainer. Finally, if $$ 'I' \equiv&nbsp;'&#x223d;I' $$, then it defines the middle, for $$'I'$$ and &nbsp; $$ '&#x223d;I' $$ are then equal.
 </p>
 </details>
-
-From the point of view of the $$'I'$$, $$'I'$$ defines both '&#x223d;$$I$$' and $$'I'$$. However, perhaps the truth is that '&#x223d;$$I$$' is the one that defines the $$'I'$$, that holds the boundaries, the limits, of what $$'I'$$ am. The original ocean was one of not-ness, in which the '$$I$$' that I am, appeared. The moment that '&#x223d;$$I$$' appeared, the '$$I$$' and the '$$-I$$' emerged as well. That '$$I$$', which is not '&#x223d;$$I$$', appears as a consequence, a space, a 'place', within the Infinite. Somethingness has emerged from Nothingness.
+<p>
+From the point of view of the $$'I'$$, $$'I'$$ defines both '&#x223d;$$I$$' and $$'I'$$. Perhaps the truth is that '&#x223d;$$I$$' is the one that defines the $$'I'$$, that holds the boundaries, the limits, of what $$'I'$$ am. The original ocean was one of not-ness, in which the '$$I$$' that I am, appeared. In order for '$$I$$' to appear, there had to be a space '&#x223d;$$I$$' in which I could appear. The moment that '&#x223d;$$I$$' appeared, the '$$I$$' could emerge, and thus the '$$-I$$', which is the "shadow" or anti-form emerged as well. This is based on the principle that every element in the quantum space has a reflection, an anti-particle, that is "equal but opposite". That '$$I$$', which is not '&#x223d;$$I$$', appears as a consequence, a space, a 'place', within the Infinite. Somethingness has emerged from Nothingness.
+</p>
 
 Think of this in terms of a circle that I draw in the sand. It defines three structures, the one that is inside the circle, the circle's boundary itself, and the space outside the circle.
 
@@ -397,11 +464,17 @@ Thus we derive the Axiom of Relationship.
 
 ### Axiom of Relationship
 
-If we propose two points, A & B, and both are static, then whatever connection there exists, will be static too. Although the channel that connects them might be dynamic, the conduit remains the same "length". There is also a ~A, or not-A, in which B exists. [We also note that there is the concept of a Universe, U, consisting of A &#x222a; ~A. A requirement is also that A & B are disjoint or A &#x2229; B = &#x2205;. In other words they are completely separate and there is no element/part of A that is in B, and vice-versa.]{.note}
+If we propose two points, A & B, and both are static, then whatever connection there exists, will be static too. Although the channel that connects them might be dynamic, the conduit remains the same "length". There is also a ~A, or not-A, in which B exists.
 
-Now, if B happens to move&mdash;still remaining disjoint from A&mdash;it will move in A's not-space, ~A. Although A has not changed, ~A&mdash;which includes the space which B vacated&mdash;has changed! In addition, ~B&mdash;the space which B vacated&mdash;has changed too!
-
-In fact, the whole universe is now different – and we have no means with which to ever measure that. Our sages say: "The very act of measuring changes what is being measured," bolstered by the information that quantum mechanics has reached concerning the influence of an observer on the event.
+<details>
+<summary class='button is-outlined is-warning is-small is-rounded'>
+Mathematics&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
+<p>
+There is the concept of a Universe, U, consisting of A &#x222a; ~A. A requirement is also that A & B are disjoint or A &#x2229; B = &#x2205;. In other words they are completely separate and there is no element/part of A that is in B, and vice-versa.
+</details>
+<p>
+Now, if B happens to move&mdash;still remaining disjoint from A&mdash;it will move in A's not-space, ~A. Although A has not changed, ~A&mdash;which includes the space which B vacated&mdash;has changed! In addition, ~B&mdash;the space which B vacated&mdash;has changed too! In fact, the whole universe is now different – and we have no means with which to ever measure that. Our sages say: "The very act of measuring changes what is being measured," bolstered by the information that quantum mechanics has reached concerning the influence of an observer on the event.
 
 The conclusion from all of this that "It is all connected." If we see things as disjoint, or separate, it is because we do not have the ability to see all the connections that are there.
 
@@ -411,10 +484,10 @@ Think of it as in huge, complex chess game, what Herman Hesse called 'The Glass 
 
 > If something is removed, the space will be filled.
 
-Now, this emptiness, or the '&#x223d;$$I$$', desires to fill the whole universe&mdash;and it will eventually&mdash;unless the universe is infinite, for then it will be an infinite quest. We express it in popular science as 'nature abhors a vacuum'. It is always seeking balance, which is a zero-energy state&mdash;or the true state of Nothingness.
+This emptiness, or the '&#x223d;$$I$$', desires to fill the whole universe&mdash;and it will eventually&mdash;unless the universe is infinite, for then it will be an infinite quest. We express it in popular science as 'nature abhors a vacuum'. It is always seeking balance, which is a zero-energy state&mdash;or the true state of Nothingness.
 
 <details>
-<summary class="button  is-outlined">Note:&nbsp;<i class="fa fa-solid fa-caret-down"></i></summary>
+<summary class="button  is-outlined is-small is-rounded is-info">Note:&nbsp;<i class="fa fa-solid fa-caret-down"></i></summary>
 <p> This is actually an expression of the love that is shared by the universe. Also known as (the law of) attraction. The gravity being a specific example of that occurring between two bodies. </p>
 </details>
 
@@ -435,7 +508,7 @@ Even though it might require an infinite constraint to constrain infinity for th
 Assuming that there is more than one infinite element – or even an unknown amount – we then could have an infinite amount of infinities. For instance, even if we assume that there is a finite amount of stars in the universe, we do not know how many universes there are! Now, when dealing with simple events like numbers, We cannot say how many numbers there are on the number line, but we do know it is infinite.
 
 <details>
-<summary class='button is-outlined'>
+<summary class="button  is-outlined is-small is-rounded is-info">
  Logic &nbsp;<i class='fa fa-solid fa-caret-down'></i>
 </summary>
 <p>
@@ -449,7 +522,7 @@ In the opposite direction it is more difficult. If there is only the infinite, h
 
 #### Circle
 
-We now introduce the concept of infinite but bounded. The simplest example of this concept is a circle. For one can continue along or around the circle forever, and never reach the end. Yet the space that you are creating by your path is bounded. However, is that space finite or not? If you filling it with one-dimensional (1d) points would it eventually fill up? If one extended it to 3d, how many possibilities would emerge? What if it one extended it into other dimensions?
+We now introduce the concept of infinite but bounded. The simplest example of this concept is a circle. For one can continue along or around the circle forever, and never reach the end. Yet the space that you are creating by your path is bounded. Is that space finite or not? If you filling it with one-dimensional (1d) points would it eventually fill up? If one extended it to 3d, how many possibilities would emerge? What if it one extended it into other dimensions?
 
 #### <i>Merkava</i>
 
@@ -470,24 +543,22 @@ It is similar to a gyroscope in its effect. There is an inner balance that retai
 As the circle approaches infinity, you would think that you are on an infinitely long line, and would not be able to differentiate.
 
 <details>
-<summary class='button is-outlined'>
+<summary class="button  is-outlined is-small is-rounded is-warning">
 Mathematics &nbsp;<i class='fa fa-solid fa-caret-down'></i>
 </summary>
 <p>
-Mathematics can show that at infinity a circle becomes a straight line (although it can only show this in the imaginary realm – as if mathematics has a "real" realm &ndash; it is easy to envisage it in the 2d realm too). However, if I was a giant from another planet, or had a strong telescope, I would be able to discern that it was actually a bounded circle upon which you are walking through time.
+Mathematics can show that at infinity a circle becomes a straight line (although it can only show this in the imaginary realm – as if mathematics has a "real" realm &ndash; it is easy to envisage it in the 2d realm too). If I was a giant from another planet, or had a strong telescope, I would be able to discern that it was actually a bounded circle upon which you are walking through time.
 </p>
 </details>
 <br />
 <details>
-  <summary class="button is-outlined">
-    Flat Earth:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+<summary class="button  is-outlined is-small is-rounded is-info">    Flat Earth:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
   </summary>
   <p>I wonder if this is the confusion upon which the flat earther's inclination is based!</p>
 </details>
 <br />
 <details>
-<summary class='button is-outlined'>
-Kabbalah &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+<summary class="button  is-outlined is-small is-rounded is-info">Kabbalah &nbsp;<i class='fa fa-solid fa-caret-down'></i>
 </summary>
 <p>
 
@@ -504,8 +575,7 @@ Once we have more than one element, we can begin to discuss the relationship bet
 ---
 
 <details>
-  <summary class="button is-danger is-outlined">
-    Repeat:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+<summary class="button  is-outlined is-small is-rounded is-danger">    Repeat:&nbsp;<i class="fa fa-close"></i>
   </summary>
 
 The place we begin our journey to infinity is, strangely enough in the arms of nothing, the ultimate demise of infinity. For how can infinity know itself? Does it not need something finite to recognize itself? Something finite to contain the recognition, even of greater and lessor infinities?
@@ -539,32 +609,40 @@ Becoming esoteric,  two wrongs cancel one another out, but do not make it right!
 
 The concept of sin (_chet_) in Judaism is described as missing the mark. Somethin that requires constant readjustment and practice till the target can be attained with some degree of accuracy.
 
-However, if we apply force, that is intention. With clear intention, and positive energy, we can transform this error, and return it to the service of **HaShem**. This is how the negative of a negative becomes a positive. It seems that the only way to extricate oneself from a bad situation is to embrace it so completely that you emerge from whatever it is. You accept (or submit) to the challenge, and instead of dispairing and feeding the dark, you embrace it, and thus transform it.
+If we apply force, that is intention. With clear intention, and positive energy, we can transform this error, and return it to the service of **HaShem**. This is how the negative of a negative becomes a positive. It seems that the only way to extricate oneself from a bad situation is to embrace it so completely that you emerge from whatever it is. You accept (or submit) to the challenge, and instead of dispairing and feeding the dark, you embrace it, and thus transform it.
 
-What often happens though is we forget our original goal. That is why we need to access the timeless and non-spacial place in us. For the only way something can remain in time, is if it has a timeless element in it. However to remember our original goal, our primordial purpose is to serve the Creation – which is the most difficult task we face.
+What often happens though is we forget our original goal. That is why we need to access the timeless and non-spacial place in us. For the only way something can remain in time, is if it has a timeless element in it. Remember our original goal, our primordial purpose is to serve the Creator – the Source of Creation – which is the most difficult task we face.
 
-[Now, another element has entered – to experience the Divine with the Divine. In fact, when we have an experience of the Divine, being a part of the infinite source, we experience our self, together with the Divine. The reverberations of this moment of Grace last forever.]{.note}
+And now, another dynamic has entered – to experience the Divine with the Divine. In fact, when we have an experience of the Divine, being a part of the infinite source, we experience our selves in harmony  with the Divine. The reverberations of this moment of Grace last forever.
 
-Now, knowing we cannot maintain a straight line, which is an idealisation, to our goal as any manifest path has to deal with the material world, which will influence it.
+This comes from the fact that one can, for instance, only speak to the heart with one's own  heart. So, in order to be able to connect with the Divine, there has to be some part of you that is Divine too.
 
-The manifest world is the world of materiality.
-
-[It is the Creator who creates the 1 from the 0, then bifurcating the 1 into 2, and from 2 into the many, emerging from the Infinite nothingness into the Infinite Oneness, which is our first and primary experience of the Infinite Being — the Oneness from which all is born. However, at that very instant, the -1, the element of "Otherness" is created too.]{.note}
+---
 
 <details>
-  <summary class="button is-info is-outlined">
-Math (bad):&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+<summary class="button  is-outlined is-small is-rounded is-success">QKab:&nbsp;<i class='fa fa-solid fa-star-of-david'></i>
 </summary>
 
-Thinking of multiplication, '*', as the "influence" that is exerted, as it is a form of bonding, the influence of the '1' on some other element, like 'a' does not change 'a' at all. Whereas the influence of -1 produces the negative, brings out the shadow — the hidden side, the below the line aspect.
+It is the Will of the Creator that is the very process of creation, whereby 1, something, emerges from 0, nothing. This happens an infinite amount of times &mdash; all at once &mdash; though in the realm of spacetime density, it might have taken billions of years.
 
-I propose that '*' is like force, and '+' is like form. '+' tends to be sequential, more cumulative, whereas 'x' is more transformative. It can affect the very nature of the object of its attention.
+It is the Creator who manifest the creates the infinite from the 0. It is we who try to measure the immeasurable, and always begin our count at 1, the bifurcate from the 1 into 2, and from 2 into the many. Thus we emerge from the Infinite Oneness into the One Infinite, through which we have can first conscious experience of the Infinite Being — the Oneness from which all is born. This is after we have been taught to forget, and need to re-member.{.note}
+</details>
 
-[When in shadow, the light does not help. However, by adding a piece that is equal in mass &ndash; but opposite &ndash; to the sin, creates the space for change: -1 + +1 = 0.]{.note}
+<br />
 
-Looking at the operations. '+' is the positive force. '-' represents the negative force. '*' and '/' are two complimentary actions. One is the assembly, the transformation, the other is the splintering, the separation, the reduction. They are not appended to a number (symbol) as such to give it extra meaning.
+<details>
+<summary class="button  is-outlined is-small is-rounded is-warning">Math (bad):&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
 
-Another way, to look at it is that whereas '+' is cumulative, and speaks of good deeds, '*' is transformative. However, it seems strange to come to the conclusion that (negative times negative) $$ '– \* – = +'$$. It states that the negative influence on another negative, transforms it into a '+', and this is not true – or is it?
+Think of multiplication, '*', as the "influence" that is exerted,  a form of bonding. '1' exerts no influence on any other number, even though it exists in every number. In other words 'a' is the same as '1a'.  . Whereas the influence of -1 produces the negative, brings out the shadow — the hidden side, the below the line aspect, and turn 'a' into '-a'.
+
+I propose that '_' is like force, and '+' is like form. '+' tends to be sequential, more cumulative, whereas '_' is more transformative. It can affect the very nature of the object of its attention.
+
+[When in shadow, the light does not help. In fact, it actually disturbs the shadow seeker. By adding a piece that is equal in mass &ndash; but opposite &ndash; to the darkness, brings one to the space for change: -1 + +1 = 0.]{.note}
+
+If '+' represents the positive force, '-' represents the negative. '*' and '/' are two opposite actions. The former represents expansion, enlargement. It is one of assembly, the multiplication, whereas the latter is the splintering, the separation, the reduction and the division.
+
+Another way, to look at it is that whereas '+' is cumulative, and speaks of good deeds, '*' is transformative. It seems strange to come to the conclusion that (negative times negative) $$ '– \* – = +'$$. It states that the negative influence on another negative, transforms it into a '+', and this is not true – or is it?
 
 | Add/Sub |  Multiplication|
 |--- |--- |
@@ -574,35 +652,32 @@ Another way, to look at it is that whereas '+' is cumulative, and speaks of good
 |1 + 1 = 2 | 1 \* 1 = 1|
 |Negative  -1||
 |0 - 0 = 0 | 0 \* 0 = 0|
-|0 + -1 = -1 | 0 \* -1 = 0|
-|1 + -1 = 0 | 1 \* -1 = -1|
-|-1 + -1 = -2 | -1 \* -1 = 1|
-
-The adjustment necessary is not towards the mark, but the negative of the negative, which is towards the '+' positive, in the vertical plane.
+|0 - 1 = -1 | 0 \* -1 = 0|
+|1 - 1 = 0 | 1 \* -1 = -1|
+|-1 - 1 = -2 | -1 \* -1 = 1|
 
 On one hand we can take the slow road, the one of addition. Change the structure, as in -1 + 1 = 0. We will have arrived at the empty point, the point of transformation. Although pregnant with potential, though, nothing has yet transpired. We have just forgiven. We have made amends.
 
-I need to point out here, that although we often write -1 = -1, assuming, under the guise of mathematics, that they are identical, in every way. This is once again a constriction that is necessary to be able to move about with relative ease in the realms of mathematics and its related disciplines, without getting lost. However, if you write -1* -1 = 1, are all the '1's the same? That is an assumption that we make, for the 1 is not the actual object, but indicative of an object. Because the truth of the matter is that 1 of anything is never really the same as another 1, even if they are of that same thing. For the actual things are referred to by the 1 are never the exact same. In the real world, although 1 orange plus another 1 orange will give us 2 oranges, each of those individual oranges are not equal, except in approximation – they are both "oranges". Because we are unable to see or understand the difference between them, we assume that there is none. On the metaphysical level, each on of those '1's are different, for they are standing in relation to one another. For instance, -1 = -1 is a reflection. Even though they are the same reflection, the one is subject, the other object. Or is mathematics, the only language that can make sentences that have no subject and object?
+<details>
+  <summary class='button is-outlined is-small is-rounded is-warning'>
+  The Same (Math)&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+</summary>
 
-That it is not willing to look at the meta-difference, the spatial and time difference between them, is a constraint of mathematics. Perhaps each photon that is produced, is 1. But then, once they enter into existence, they are different, individual.
+I need to point out here, that we often write -1 = -1, assuming, under the guise of mathematics, that they are identical in every way. This is a constriction that is necessary to be able to move about with relative ease in the realms of arithmetic and its related disciplines, without getting lost.
 
-In fact, the use of mathematics abstracts out all the characteristics that individuate that particular item. Thus it is extremely useful for investigations that distance the investigator from the investigated. For instance, it is perfect for economic transactions, which have already succeeded in transforming real, individual items into numbers, which only speak of a sequence, or a key to other information.
+If I write -1 * -1 = 1, are all the '1's the same? That is an idealisation that I made, for 1 is not the actual object, but only indicative of an object. Because the truth of the matter is that 1 of anything is never really the same as another 1, even if they are of that same thing. For the actual things are referred to by the 1 are never the exact same. In the real world, although 1 orange plus another 1 orange will give us 2 oranges, each of those individual oranges are not equal, except in approximation – they are both "oranges". Because we are unable to &mdash; or do not wish to &mdash; see or understand the difference between them, we assume that there is none. On the metaphysical level, each one of those '1's are different, for they are standing in relation to one another. For instance, -1 = -1 is a redundant statement, perhaps similar to "I am because I am".
 
-Another thing is to remember that the operators are verbs. Thus '+'represents the positive force, and '-' the negative. '+' increases, '-' diminishes. '+' is the crossing, the transformation, the breaking through. '–' is the straight line, the uncaring, the unseeing, the absolute, only one way, I am right attitude.
+That it is not willing to look at the meta-difference, the spatial and time difference between them, is a constraint of mathematics. Perhaps each photon that is produced, is 1 photon. But then, once they enter into existence, each one is different, individual.
 
-Another side note is to remember that the operators are verbs. Thus '+' represents the positive force, and '-' the negative. + increases, '-' diminishes. '+' is the crossing, the transformation, the breaking through. '–' is the straight line, the uncaring, the unseeing, the absolute, only one way, I am right attitude.
+The use of mathematics abstracts out all the characteristics that individuate that particular item. Thus it is extremely useful for investigations that distance the investigator from the investigated. For instance, it is perfect for economic transactions, which have already succeeded in transforming real, individual items into numbers, which only speak of a sequence, or a key to other information.
 
 If we went off the line by -1, we adjust by +1 to get back to the line. But only after we reach the line will we know that we are there, and would have to stop moving at this point. But there is an ongoing thrust (or else there is no line) and this thrust will cause us to overshoot the line, requiring say a -1 to return to the line again. So it will go, up and down, as represented by the sine wave. Thus this, so-called straight, line is an idealisation of nature and the natural unfolding of events.
 
 Diagram (p18)
 
-Now, this is a different algebra, where -1 + -1 = 0 (and +1 + +1 = 0). In the conventional sense, -1 + 1 = 0. Thus we have to answer a negative deed with a positive response, to bring it into balance again (0 point). However, if we want it to express itself in the positive space, we need to add another piece, just as large, +1. So, -1 + +1 = 1. That is why Jesus says, respond to the evil deed with love that is 70 times 70 greater than the deed.
+Now, this is a different algebra, where -1 + -1 = 0 (and +1 + +1 = 0). In the conventional sense, -1 + 1 = 0. Thus we have to answer a negative deed with a positive response, to bring it into balance again (0 point). If we want it to express itself in the positive space, we need to add another piece, just as large, +1. So, -1 + +1 = 1. That is why Jesus says, respond to the evil deed with love that is 70 times 70 greater than the deed.
 
 Because, if we stopped at 0, we would not be in the correct trajectory. So, we need to adjust by more than that, and we compensate by 1, knowing we will have to make another adjustment. This is what causes the "wobble", the frequency adjustment, the "sine wave" ie the music of life. It is impossible to maintain the straight line. That is an idealization.
-
-//What often happens though is we forget our original goal. That is why we need to access the timeless and non-spacial place in us. For the only way something can remain in time, is if it has a timeless element, the Divine spirit, in it. However to remember our original goal, our primordial purpose is to serve the Source of Creation – is the most difficult task we face.
-
-//However, another element has entered – to experience the Divine with the Divine. In fact, when we have an experience of the Divine, being a part of the infinite source, we experience our self, together with the Divine. The reverberations of this moment of Grace last forever.
 
 Remember '*' works on another plane. It is one of union. What emerges from the union is the same no matter which one went first, whether negative or positive.
 
@@ -617,8 +692,7 @@ Another interesting way to look at this, is that '-' produces a downward (negati
 <br />
 
 <details>
-<summary class='button is-outlined'>
-Journey:&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+<summary class="button  is-outlined is-small is-rounded is-info">Journey:&nbsp;<i class='fa fa-solid fa-caret-down'></i>
 </summary>
 
 I take three deep breaths and wait for my spirit body to emerge. It comes out, still not fully alive, fully detached. Immediately, I hear this voice, loud and in my ear, narrating what is happening.
@@ -651,8 +725,7 @@ In the end there is only one authentic I, and that is paradoxically the only one
 <br />
 
 <details>
-  <summary class="button is-warning is-outlined">
-    Trash:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+<summary class="button  is-outlined is-small is-rounded is-danger">    Trash:&nbsp;<i class="fa fa-close"></i>
   </summary>
 
 The first, the original set in set theory is defined as the null-set. The set that contains nothing! What a contradiction. And, believe me, it took many years to get there. But that is the first, the original set. It is also symbolized as {}, or simply ø (notice the similarity to 0 (zero)).
@@ -681,63 +754,68 @@ All shapes on a plane are drawn, expressed by a point moving across the plane, c
 
 It starts off with a connection between two points, any two points &mdash; then the dance begins. The perfectly straight line is theoretical, and we have the ability to perceive these points &mdash; the end points, the beginning and the end of the line &mdash; and create relationships in our consciousness. However, they are never straight lines! Though, in a sense, it is these straight lines that form the core of the universe. They are G-d's presence, representing the /line/space of balance.
 
-### Goal/point
+---
 
-A goal creates an imaginary, virtual line between the goal, which is in your future, and the present point. Once we begin to move towards the goal, a "real" line is created, one of history and time.
+<details>
+  <summary class='button is-outlined is-small is-rounded is-success'>
+   qkab&nbsp;<i class='fa-solid fa-ankh'></i>
+</summary>
+
+### Point of consciousness
+
+A goal creates an imaginary, virtual line between your present point, and the goal which is in your future. Once we begin to move towards the goal, a "real" line is created, one of history and time.
 
 > All movement requires a point of origin, a starting point.
 
-Perhaps that's all we are: a "point", a point of consciousness moving across a what seems like a plane, but is actually a hyper-dimensional sphere, creating wonderful shapes.. As we think in essentially 2d concepts, the plane of our existence is defined by our beliefs/vision.
+Perhaps that's all we are: a "point" of consciousness moving across a what seems like a plane, but, being a hyperdimensional point, is actually a hyper-dimensional sphere, creating wonderful harmonies. As we think in essentially 2d concepts, a this and a that, the plane of our existence is defined by our beliefs/vision.
 
-<details>
-<summary class='button is-info is-outlined'>
-Math:&nbsp;<i class='fa fa-solid fa-caret-down'></i>
-</summary>
+</details>
 
-If I propose something, say X.
+---
 
-X&nbsp;= the sky is blue -> the sky is not blue -> ~X
+## IV Principle of balance
+
+If I propose something, say P, immediately, we can imagine its opposite, ~P, or not-P.
+
+P&nbsp;= the sky is blue -> the sky is not blue = ~P
 &nbsp;&nbsp; = Life is hard -> Life is easy
 &nbsp;&nbsp; = I love you -> I hate you.
 
-Immediately, we can imagine its opposite, or by the Principle of Balance, the complimentary opposite is created. Therefore X $$\leftrightarrow$$ ~X.
+By the Principle of Balance, the complimentary opposite is created. Therefore by creating X $$\leftrightarrow$$ ~X, its opposite, its reflection, occurs. I suppose a simplification of this Principle on a local level is that "energy is neither created nor destroyed". Maintain the original state of balance, whenever anything is created, its opposite manifests with it.
 
-Upon X coming into creation, ~X emerges as well at the same instant. Which is actually the real meaning of '=', equals, as compared to '$$\equiv$$',  equivalent,  which implies a different measurement, a different way of looking at or of experiencing – which is what operators are ( cos, diff, +, -, $$\int$$).
+Think of it in terms of the Biblical creation story. Adam is created "both male and female", and then later is split into actual male and female.{.note}
 
-X op Y, is an expression of X and Y's relationship. "XopY" expresses a relationship, 'op', (unknown) between any two points or elements X and Y.
-</details>
+Upon X coming into creation, ~X emerges as well at the same instant. Which is actually the real meaning of '=', equals. "X op Y", is an expression of X and Y's relationship. "XopY" expresses a relationship, 'op',  between any two positions or elements X and Y.
 
-### Exercise 1
+### Equals
 
-#### Equals
+Equal expresses a complete identification with, absolute equality. This is an idealization. In our real world, the world of action, _Assiyah_, nothing can truly be equal to anything else. For were it equal, identical, in _Malchut_, reality, it would be the same thing and there would be no distinction. Only in _Atzilut_, the highest realm, of emanation, we encounter the contradiction of everything being the same, yet different.
 
-Equal expresses a complete identification with, absolute equality. This is an idealization. In our world, the world of action, _Assiyah_, nothing can truly be equal to anything else. For were it equal, identical, in מלכות (Malchut) reality, it would be the same thing and there would be no distinction. Only in _Atzilut_, we encounter the contradiction of everything being the same, yet different.
+In fact, it can only be equal if it actually IS the other thing, yet it is obviously a different aspect of that actual thing. When I say _f(x) = y_, I am equating two different scenarios. This is an example of the "other" that is created.
 
-In fact, it can only be equal if it actually IS the other thing. So, if we say, x = y, it is a redundancy. We are repeating ourselves, saying, in essence 1 = 1. Yet this is perhaps the most basic and important statements of all to make.
+#### Infinity Exercise 1
 
-#### Begin Exercise 1
-
-Begin to move, holding nothing.
+Holding nothing, begin to move on the line you have drawn in your imagination.
 Continue out as far as you can.
 In the midst of the infinite inequality around you,
 seek the ultimate equality,
 the one identification
-that matches you completely &ndash;
-the other you, that equals you &ndash;
-the ultimate union, your Beloved.
-That Other is what we seek continuously.
+that matches you completely.
+
+The Other that we seek continuously.
 That which is equal to me.
-That is why we seek our soul mate,
-that is why we seek G-d.
+My soul mate,
+the search the ultimate union with your Beloved _B'shirt_.
+That is why we seek G-d.
 
-Then appears the ultimate choice. Do you enter into union with your soul-mate, or do you enter into strife, seeking to separate back into your own self.{.note}
+An existential choice then appears.
+Enter into union with your soul-mate,
+or enter into strife,
+seeking to separate back into your own self.
 
-and Continue on..
-Can you go further?
+Continue on..
 Go, go, go
 Where are you now?
-
----
 
 Can you go further?
 
@@ -745,53 +823,57 @@ What is beyond?
 Anything?
 What does it feel like?
 
-So infinity has a feeling associated with it?
-Is this feeling in your body? Or in your mind?
-What is it?
-Does it have a colour? A shape?
+Does infinity has a feeling?
+Is this feeling in your body?
+Or in your mind?
+Does it have a colour?
+A shape?
 Where does it sit in the body?
 What is it?
 
-[Somewhere I hold infinity in my body,
-or in my mind. But it is there/here/everywhere!]{.note}
+Somewhere, somehow I contain infinity in my being,
+But it is there/here/everywhere!
+Or is it that I am contained by the Infinite?
 
 ### Numbers
 
-Start counting from the first number, which we designate one.
-
-Is that really the beginning? Well, the narrative can only begin with the existence of something – at minimum one, or, if you prefer, the first.
+In order to measure, we start recording from the first data point, which we call the first, _breishit_, "in the beginning". Any event can only begin with the existence of something – at minimum one, or the first.
 
 The paradoxical nature of this statement is that actually, in order for the narrative to begin, we need two – the binary, the duality, this and that. One is insufficient as there is nothing to know of the existence of the singularity if that is all that there is. It is then not, nor ever can be, an anomaly. Thus in order for anything to "exist", there needs to be two – itself and the other, the observer and the observed. We need the "other" that can relate or receive the narrative, the one we call the "witness".
 
-The accepted wisdom was that everything arose from this One, and everything is reducible to the One, which is, was and always will be the Source of Everything. Thus we have One that is God.
+The Wisdom of the Ages is that everything arose from this One, and everything is reducible to the One, which is, was and always will be the Source of Everything. Thus we have One that we refer to as God.
 
-It was our brothers from the Ancient East who alerted us to the existence of a state before the One. A state from which the 'I' had emerged. They called it naught, Ø, the empty set – a place where even the One exists. This upset the monotheistic religions, until they too accepted the incorporeal in their lives.
+It was our brothers from the Ancient East who alerted us to the existence of a state before the One. A state from which the 'I' had emerged. They called it naught, Ø, the empty set – the reality of the existence of the One.
 
-#### Exercise 2
+#### Exercise 2 - Numbers
 
-Use numbers.  That is easy.
+Begin with numbers.  That is easy.
 Count a bit, 1, 2, 3…
 Continue counting...
 Where are we going with this?
 Starting anywhere, I can always get to infinity.
 
-So let us continue
+So let us continue...
 
-Can run up the numbers this way. Ask which numbers have a charge and why?
+Can run up the numbers this way.
+Ask which numbers have a charge and why?
 
 #### Zero
 
 <details>
-<summary class='button is-outlined'>
-Equations ($$ 1/n $$) &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+<summary class="button  is-outlined is-small is-rounded is-warning">Equations ($$ 1/n $$) &nbsp;<i class='fa fa-solid fa-caret-down'></i>
 </summary>
 <p>
 Now, with division under our belt, we can state:
 1/n -> inf. as n -> 0 and 1/n -> 0 as n -> inf.
 
-$$ {1/n}_{n \rightarrow \infty} \to 0 $$ (Equation 1)
+$$\displaystyle\lim_{n \to \infty} 1/n \to 0$$ (Eq. 1)
 
-$$ {1/n}_{n \rightarrow 0} \to \infty $$ (Equation 2)
+$$\displaystyle\lim_{n \to \infty} 1/n \to 0$$ (Eq. 2)
+
+This is an expression of the journey of life.
+
+Firstly, let me explain what they mean.
 
 </p>
 </details>
@@ -844,11 +926,9 @@ That is where the axiom of choice comes in. You need to chose which direction to
 When in the world of one you are spiritually aware, having realised it is all one, all the same, coming from a single source, and you long for the zero point, the annihilation, the emptiness of the infinite, if masculine. The feminine, however, seek the fullness of the infinite, that is why it is the expression of form, where the masculine is the expression of the emptiness.
 
 <details>
-<summary class='button is-warning is-outlined'>
-Trash:&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+<summary class="button  is-outlined is-small is-rounded is-danger">Trash:&nbsp;<i class='fa fa-close'></i>
 </summary>
 <p>
-
 Now 2 is in constant flux, and it creates the first wheel from the dynamic between $$ 1_i &nbsp;\mathrm{and}&nbsp; 1_k  $$.
 </p><p>
 Its order is created like this:
@@ -872,8 +952,7 @@ In other words, by its very nature, b defines an interaction between 'a' & the p
 <br />
 
 <details>
-<summary class='button is-outlined'>
- Math (m&f) &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+<summary class="button  is-outlined is-small is-rounded is-warning"> Math (m&f) &nbsp;<i class='fa fa-solid fa-caret-down'></i>
 </summary>
 <p>
 Masc -> separation, Fem -> Union. This is the movement of the 1 -> 2, and the 2 -> 1, forming the circle. As the masculine extends himself from 1 → 2 → 3 …, so the feminine seeks to return to the union, the 3 → 2 → 1. Thus we call the feminine negative, for it is through division (or subtraction) we reduce our number back to the 1. As we know, all division will end at 1. m/n → 1 as n → m. Once we have the emergence of 2, the addition of 1 + 1, we have knowledge of Good and Evil, of the opposites, the annihilation and creation, life and death, for 1 – 1 = 0, an eye for a eye, a life for a life. But also 1 + 1 = 2..., which is the ultimate union in **Malchut**.
@@ -891,8 +970,7 @@ The square, with its 2 elements doubled, is the first emergence into stable form
 Note: 2 is the only double whose 2 + 2 = 2 \* 2.
 
 <details>
-<summary class='button is-outlined'>
-Playing &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+<summary class="button  is-outlined is-small is-rounded is-info">Playing &nbsp;<i class='fa fa-solid fa-caret-down'></i>
 </summary>
 <p>
 Playing with the square, we get $$ a \* a = a^2 $$, as a form of narcissism, a doubling of your persona. In this case, the result is positive, and the person could be a great leader. However, $$ a \* -a = a^2 $$ as well, then there is evil afoot.
@@ -1012,8 +1090,7 @@ In 5D if G!d chooses you!{.poem .note}
 My point here is to bring attention to the idea that all interaction happen at the point, a moment – what is referred to the tangent, which can be used to identify and extract information regarding that point.
 
 <details>
-<summary class='button is-info is-outlined'>
-Tangent:&nbsp;<i class='fa fa-solid fa-caret-down'></i>
+<summary class="button  is-outlined is-small is-rounded is-warning">Tangent:&nbsp;<i class='fa fa-solid fa-caret-down'></i>
 </summary>
 <p>
 A tangent is a line that touches a circle at one point only. This is the breath of the Lord passing over, touching one point and transforming it. If the line is not tangenital, and crosses the circle at two points, it means that you are not properly aligned, and this will produce two points, that are often in conflict with one another, being somewhat "opposites".
@@ -1034,8 +1111,7 @@ This event mapping forms the topology of your persona. Tracking the data (i.e. i
 </figure>
 
 <details>
-  <summary class="button is-outlined">
-    Predictive Behaviour:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
+<summary class="button  is-outlined is-small is-rounded is-info">    Predictive Behaviour:&nbsp;<i class="fa fa-solid fa-caret-down"></i>
   </summary>
 <p>Would it not be possible to make certain predictions of behaviour if one tracked people's narratives that way? Would one not begin to have certain mappings, certain responses that one would be able to identify? Research shows that it would collapse at each juncture to a relatively small number of possibilities.</p>
 <p>
@@ -1090,8 +1166,7 @@ I would even go so far as to propose that a thought is a fundamental particle to
 If enough of these waves positively interact, a "thought" emerges by the process of accumulation - like waves crossing on the ocean, just as a particle would form when there is enough density, that is, accumulation of energy, to be measured. But if the waves are negative, then there it will counter their  emergence &mdash; resulting in a decrease in consciousness. And, as nature abhors a void, this lack, or emptiness will be filled &mdash; by whatever manages to claim this open space in your consciousness.
 
 <details>
-<summary class='button is-outlined'>
-Kabbalah &nbsp;<i class='fa fa-solid fa-caret-down'></i>
+<summary class="button  is-outlined is-small is-rounded is-info">Kabbalah &nbsp;<i class='fa fa-solid fa-caret-down'></i>
 </summary>
 <p>
 
@@ -1129,12 +1204,25 @@ Perhaps if there were not so many mundane distractions, and mental training and 
 ' alt='Emerging from nothing' width='400' height='297' />
   <figcaption>Emerging from Nothing</figcaption>
 </figure>
+
 ---
 
-[^1]: Scared -> sacred, just swapping the 'a' and the 'c'. Investigating the sounds of the words, it starts off with the 's', of the snake, of the spiral emergence. Then it opens to the vowel, the 'a', sound. 'A' the first letter of the alphabet, the aleph, the alpha of the omega, the primal cause. It is also a vowel, which gives shape to the word. It is also a folding of the 's', into the 'a', 's'->'a' and then closing into the 'c'. Scared however has the 'c' following immediately after the 's'. Thus it constrains upon emergence, not giving it time to capture or enclose the inner space. It is immediately in form and fear.
+[^1]: +Scared -> sacred, just swapping the 'a' and the 'c'. Investigating the sounds of the words, it starts off with the 's', of the snake, of the spiral emergence. Then it opens to the vowel, the 'a', sound. 'A' the first letter of the alphabet, the aleph, the alpha of the omega, the primal cause. It is also a vowel, which gives shape to the word. It is also a folding of the 's', into the 'a', 's'->'a' and then closing into the 'c'. Scared however has the 'c' following immediately after the 's'. Thus it constrains upon emergence, not giving it time to capture or enclose the inner space. It is immediately in form and fear.
 On the other hand, scared -> scarred, is when, whatever the fear is, it becomes embedded (doubled in its center, with the density represented by the 'r') in the core of the issue, and then remains, a wound, never forgotten, always a part of your being.
-[^2]: This refers to all the parts of my being and all the parts of the greater being, earth, and all the beingnesses in creation.
-[^3]: For there are two types of "facts". The first is a description of an actual event, the other arises just by its insistence, by its being constantly repeated.
-[^4]: How interesting the similarity between 'I' and '1' in the English language – for in other languages, the word for 'I' is very different. In Hebrew, for instance, it is 'ani', consisting of three letters, and in Afrikaans, it is 'ek', and in French, 'je'. Another interesting fact here, is that in English we write the personal pronoun 'I' capitalised, whereas in most other languages we do not!
+[^2]: +This refers to all the parts of my being and all the parts of the greater being, earth, and all the beingnesses in creation.
+[^3]: +For there are two types of "facts". The first is a description of an actual event, the other arises just by its insistence, by its being constantly repeated until it is generally accepted as a "consensual" truth, a fact everyone agrees upon.
+[^4]: +How interesting the similarity between 'I' and '1' in the English language – for in other languages, the word for 'I' is very different. In Hebrew, for instance, it is 'ani', consisting of three letters, and in Afrikaans, it is 'ek', and in French, 'je'. Another interesting fact here, is that in English we write the personal pronoun 'I' capitalised, whereas in most other languages we do not!
 
 [^5]: In order to be conscious that you are conscious, you need to have memory.
+
+[^6]: By the Axiom of Choice from set theory.
+
+[^7]: This is the principle of the compass, used to draw circles, which requires one foot to be stable, while the other many wander around. The compass we use to determine direction has true north as its anchor. In fact, all measuring devices require the same two elements in order to produce any valid results.
+
+[^8]: That is the beauty of mathematics, and its pull for those who are able to hear it. It is like a chord that enables us to explore amazing realms of the imagination, even think thoughts that few are able to comprehend. It is the thread that leads us back to the point we started from.
+
+[^9]: And here we encounter the paradox that in order for there to be an infinity, there must be finites. The only thing that is not infinite is the finite &mdash; which must separate itself from the infinite to be embodied. For instance, every number possible can exist, There is no number that you can say is not possible. I can add as many digits as I want, ten, a hundred or a bizillion. They all exist. There is no censorship allowed here. And what about numbers that don't really exist like pi, or phi, or the natural logarithm (and many more)? May I be so bold as to ask whether we are the same as numbers? To be trite, it is like the necessity to be named in order to be able to exist &mdash; just as for some mysterious reason, Adam had to name all the animals of the bible.
+
+[^10]: +A way to see a 3d object projected or represented in 2d. For instance, a ball becomes a circle, a person has no depth. The drawing of my house is actually flat, etc. It is as if one axis, or dimension, has been removed. Which has, inf
+
+[^11]: This was the initial vision that inspired the building and implementation of the world-wide web. However, the disparities that we need to overcome are large and not well-defined.

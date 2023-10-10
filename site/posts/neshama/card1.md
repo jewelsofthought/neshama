@@ -3,7 +3,7 @@ title: Writings - Card 1
 description: null
 tags: 
 stars: '****'
-date: 2008-01-03T01:38:35.115Z
+date: 2008-01-01T00:05:35.115Z
 modified: 2022-09-14T15:56:13.090Z
 ---
 
@@ -64,23 +64,62 @@ modified: 2022-09-14T15:56:13.090Z
     5. [Suicide \& Judgement (170506)](#suicide--judgement-170506)
     6. [Wild Nights (David Deida)](#wild-nights-david-deida)
     7. [Divine Secret](#divine-secret)
+    8. [Static](#static)
+    9. [Dark Inside](#dark-inside)
+    10. [Circular Journey](#circular-journey)
+        1. [Linear](#linear)
+    11. [Awareness](#awareness)
+        1. [Length](#length)
+        2. [Breadth](#breadth)
 
 {% endblock %}
 
 {% block mainContents %}
+## Short quotes
+
+### Language
 
 > If richer and fuller languages for redemption are to evolve, fantasies that fetishise the past must be relinquished.
 
-^2bd6f2
+### Symmetry
+
 > In order for there to be an outcome, the laws of symmetry must be broken.
+
+### Modern
+
+>The modern ages has brought us less for more, and more for less. 
+
+Does that just refer to material things, perhaps?
+
+### Revelation
+
+#judaica {.tag}
+
+> G-d's revelation -- His Revealing of HimSelf -- depends on one's ability to see Him in the Text.
+
+There is a serious concern with Judaism relegated to seeing G-d within the script of an ancient text, and not within one's life itself. To forget that creation is G-d's expression of ItSelf and the Torah is the blueprint for our lives -- but not the actual manifestation thereof.
 
 ---
 
-> [#jewish]{.tag} As the eyes and the ears, the nose and mouth, the heart, legs and arms of **HaShem** having a human experience, this is where you can begin to embrace and embody the truth of your existence.
+ **From Card QK**{.is-hidden}
 
-> #test Each organ is a recording and playback mechanism, blood is the recording tape with metal filings, cells are the components that make up the living crystals, and bones are the crystallisation of this information.
+...lack of light, except of the mystery of black and white. Some speak of music as harmonies of sound, but it actually defined by the silences between.
 
-[This implies that we are like a radio, just like the crystal, which receives and transmits according to how it has processed what it has received. For there is also a crystallization of information that occurs as time passes. Enough to influence the response (i.e. transmission) from the living being]{.note}
+p83:  Is **potentially infinite**. Each context is a limited, infinite interpretation as vocalisation of consonants.
+
+p83: An **infinity of meaning**. If the Torah is an expression of the G-d, then each letter, each word, each line and each sentence, must have an infinity of meanings. In fact, everything does... But here, my people, focus on Torah as the portal that understanding.
+
+---
+
+## Having a human experience
+
+#judaica{.tag}
+
+>  As the eyes and the ears, the nose and mouth, the heart, legs and arms of **HaShem** having a human experience, this is where you can begin to embrace and embody the truth of your existence.
+
+> Each organ is a recording and playback mechanism, blood is the recording tape with metal filings, cells are the components that make up the living crystals, and bones are the crystallisation of this information.
+
+>[!info] This implies that we are like a radio, just like the crystal, which receives and transmits according to how it has processed what it has received. For there is also a crystallization of information that occurs as time passes. Enough to influence the response (i.e. transmission) from the living being]{.note}
 
 > Just as we wake in the morning hungry for food to nourish our bodies, so we need to awaken with the same spiritual hunger to sustain our souls.
 
@@ -270,34 +309,34 @@ Meditation that does not lead to clarification of commitment & action is entirel
 
 Hate what you have, then you will love something that you don't have. That which represents the counter to that which you have.
 
-## Snake
-
-The tree is a snake entity that emerges out of the background of the Tree of Life.
-
 ## Context
-
-Abulafia could not speak of it other than in the context within which they were all steeped (both him and his audience). Just as a mathematician can only use mathematics to express what he sees, so the Rabbi's could only speak in the language of their teachers.
+#judaica 
+Abulafia (for instance) could not speak of it other than in the context within which they were all steeped (both him and his audience). Just as a mathematician can only use mathematics to express what he sees, so the Rabbi's could only speak in the language of their teachers.
 
 ## Perception
+#neshama 
+> All perception takes place in a straight line between the recipient and perceived source of the event. 
 
-All perception takes place in a straight line between the recipient and perceived source of the event. Does the response have to be straight line as well? Would that be the simplest and most direct. But is it the best?
+Does the response have to be straight line as well? Would that be the simplest and most direct. But is it the best?
+
+## Ordering
+
+#qkab #dimensions  Every higher order of magnitude contains within it every lower order of magnitude as well (simultaneously).
 
 ## Evolution
-
+#tol
 > You can only be freed by someone/something from the outside.
 > You can only be freed by someone/something that is itself free!
-
-- Revolution: if it is from the inside, it will only produce another version of what was. Often the same design. Even the same inmates &ndash; just a different location, and perhaps guards/wardens with different faces.
+- Revolution: if it is from the inside, it will only produce another version of what was. Often the same design. Even the same inmates -- just a different location, and perhaps guards/wardens with different faces.
 - Evolution: All evolution occurs due to outside force(s). However its disruptive effect is relative to the inner coherence/harmony of the body/society that is evolving/changing.
 - All evolution is built on the previous iteration, and
-- there are always those left behind [Noah's Ark](noah_ark.html)
-  More accurately, every higher order of magnitude contains within it every lower order of magnitude as well (simultaneously).
-
+- there are always those left behind [[Noah's Ark]]
+    
 ## Here & now
 
 - Absolute: here & now
 
-The only absolute is that you are here, and aware. This "point" of awareness we call "Now". And the place that you experience it, is called "Here".
+The only absolute is that you are alive, and aware. This "point" of awareness we call "Now". And the place that you experience it, is called "Here".
 
 Even though the "now" of your experience is not simultaneous with the Now of the occurrence. It has to become the anchor upon which your life is tethered.
 
@@ -536,4 +575,56 @@ In conclusion: "The good and the evil of this realm is not the same as that of t
   </p>
   <figcaption>&mdash;Juliana of Norwich</figcaption>
 </figure>
+
+### Static
+
+> A static world view cannot envisage change.
+
+In fact, change is anathema to the absolutist world view.
+
+Nothing is absolute, nothing is immutable &mdash; everything changes. That is the only "thing" that never changes. Thus, the only constant is the dynamic, living aspect of the Universe, _El Chai_.
+
+### Dark Inside
+
+The darkness is inside, so, whenever we are alone, we are in darkness. There is only light outside of us. Thus when we are with others, we are in light. Only when we look outside of ourselves are we seeing light. Thus we conclude that outside is real because we can see it, whereas inside &ndash; where I cannot see what I am experiencing &ndash; is thus unreal as opposed to the outsdie where I can see what I am experiencing.
+
+### Circular Journey
+
+Everything is circular. The beginning is the end, and the end the beginning. These are two points that mark a transition, from one state of reality to another state (of unreality?) - even if it is to be "extinguished". This circular journey becomes a spiral in time &mdash; perhaps itself on a journey &mdash; which in turn inevitably becomes a journey of return to the place from which you started.
+
+![Sine Wave 3](/site/posts/img/qkab/sine_wave_3%20-%20rotating_phasers.gif)
+
+The wheel (or _Samsara_) turns and we turn with it. Our lives are bound up in this cycle.
+
+#### Linear
+
+A linear representation is incomplete, always an approximation. It is often represented by a vector, which assumes it has a specific direction. It is reductionist in that there is only one straight line between any two points, whereas there are an infinite amount of curved lines that connect said points. In addition, it is seperatist, creating distinctions, and distinctly illusionist in its description of anything of the world around us &mdash; except for the manufactured things that are useful to us in our lives. But nothing natural has straight lines (which would be an approximation, or ideal representation thereof), nor does anything natural travel in straight lines.
+
+### Awareness
+
+With increasing awareness of the world around me,
+I realise that sentient beings are only able to perceive
+the immensity and complexity of creation
+to whatever depth he (or she) is capable of.
+
+#### Length
+
+The extent of his vision depends on how far he can "throw" his dream body. [According to some women, they are able to throw their dreams body anywhere in the universe. In fact, it often finds itself there spontaneously. Perhaps this is what occurs to the man too, but more in his mind, and thoughts.]{.note} For if you cannot even imagine it, how will you be able to receive it? If you cannot envision an other, you will just produce more of the same. It is like extending the line &mdash; which can only extend in the direction it "points", either extend - or contract!
+
+#### Breadth
+
+Breadth is horizontal expansion. How wide is your sphere of influence &mdash; how loud is your voice.
+
+## Quotes
+
+>[!quote] Einstein, "The Meaning of Relativity"
+>"The only justification for our concepts and system of concepts is that they serve to represent the complex of our experiences; beyond that they have no legitimacy."
+ 
+> Our bodily food is changes into us, but our spiritual food changes us into itself.
+
+> God will pour into you the moment He finds you ready.
+
+> Mystical is not how the world is, but that it is!
+
+
 {% endblock %}

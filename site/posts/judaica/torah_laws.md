@@ -2,7 +2,7 @@
 title: Torah laws
 description: Torah laws taught to a generation that did not need them.
 tags: [neshama]
-date: 2010-01-20T15:11:23.542Z
+date: 2010-01-20T15:12:23.542Z
 modified: 2022-05-09T08:27:32.751Z
 ---
 

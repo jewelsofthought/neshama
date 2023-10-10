@@ -248,8 +248,8 @@ Lately they have been able to speak from anywhere. So they normally due it with 
 ## Story lines
 
 - See [Trial of the Dragon](/posts/story/dragon/)
-
-- See [Reflections of R Y"mba](/posts/story/reflections/)
+- See [Some ideas around the creation of the world](xy_creation.md)
+- See [Reflections of R' Y"mba](reflections.md)
 
 ### Definitions
 
@@ -418,3 +418,19 @@ UN Speech:
 - 100m @ 10% => $10 -> $1B/mth - $12B/yr
 
 - associated businesses and other dealings...
+---
+It all started on the same day that the full impact of the current global conspiracy to control the world - and by the world, I mean us, the people and all the resources available. But, to call it a conspiracy is, perhaps to give it too much power. It is actually the current expression of this "Will to Power" that has existed in humanity for as long as empires have existed. 
+
+I spent the whole day in a daze, mechanically completing my tasks. It was if I was able to see all the threads that had been woven in this great plan that had been years in the making. My whole being was shuddering with these insights that were pouring in. Of course, I had been involved in the modern form that had enabled these oligarchs to put the global communications and surveillance mechanisms into place. 
+
+That night, in the midst of a fitful sleep, I had an intense dream. I was running away from some malevolent force that was being chasing me. I did not see it, but could feel it. Sometimes it was a group of people with hatchets and pitchforks, sometimes it was sophisticated military groups with surveillance and guns. I ran along the road, trying to flee the terror that stalked me. I slipped into a nearby building, ran breathlessly up the four or so flights of stairs, till I came up onto the roof. I looked around me at the cityscape, took a deep breath, and ran full speed towards the edge of the building. "Please let this work. Please help me", I prayed as a launched myself into the empty space. And, then I was... gliding in the air, my arms spread out from my sides like wings.
+
+I am unsure how I knew that I could fly, but I just did. Gliding happily, gidally, above the town, I looked at all the movement below me, but it was just a blur of noise and smudgy, unclear colour billowing below me. I was free, untethered, but unsure how long I could continue this for. I had to go somewhere. Over the waters abuffed the town, I saw an island. "That's where I have to go", and I set off in that direction. I  dipped and swooped in that direction and was soon gliding over the waters - when suddenly, the ability to fly left me, and I plummeted into the ocean a couple of hundred meters from the island shore. Luckily, the waters were not freezing, and as I was bobbing in the water, I saw a boat nearing me with a couple of people on it. They reached me, and swiftly pulled me out of the water, laughing quietly, and once I was on board, began to head back to the island. 
+
+Still too unsteady to say anything, I listened idly to their patter. "This hasn't happened for a long time", said the tall, rough-looking older man. "It will cause a stir", responded the younger man, with short dark hair, unshaven and a little unkempt. The third person, a woman, young and slender and lithe, was silent, listening to them, while glancing occasionally at me.
+
+
+
+
+
+heard a voice "Build it"

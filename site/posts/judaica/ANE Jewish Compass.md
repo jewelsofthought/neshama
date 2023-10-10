@@ -11,7 +11,7 @@ stars: '***'
 
 Based on the west-east axis, rather than the modern-day north-south one. This is because east is where the sun rises, and the new day begins. Astrologically, one's birth can be thought of as the snapshot/map of the moment of your birth. And the baseline that is used is the rising sun, which is termed your ascendant.
 
-![The Compass](/posts/img/neshama/judaica/jewish_compass.svg)
+![The Compass](/posts/img/neshama/jewish_compass.svg)
 
 The E-W line is a constant direction no matter where you are located on the planet (except for the neighbourhood of the N-S axis). The eastern direction which you are facing is into the rising sun, the new day, whereas, when facing the north (in the northern hemisphere), you are orientated to the cold, the dark, the hidden.
 

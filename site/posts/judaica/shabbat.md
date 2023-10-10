@@ -37,7 +37,7 @@ In order to receive the gift...
 
 ## Chashmal on Shabbat
 
-What if the decision to associate _chashmal_ with fire, and impose all the same criterion to its usage as was associated with fire in the religion?
+What if the decision to associate _chashmal_ with fire, and impose all the same criterion to its usage as was associated with fire in the religion was bot correct, or "absolute" -- in that it did not meet all the criterion fully? Which, of course, it doesn't, as electricity consists of both water and fire!
 
 Even if that was the true prophetic insight, perhaps it is not an "equals", but an "equivalent" and there are some places where it fits exactly, and some that it doesn't - even some that we haven't even thought of, or perceived yet. We were not aware of a lot of the following implications of this new force that followed the writ.
 
