@@ -1,8 +1,8 @@
 ---
 title: Linux Commands
-description: null
+description: Some useful commands
 date: 2021-10-19T20:31:21.600Z
-tags: null
+tags: 
 eleventyExcludeFromCollections: true
 modified: 2022-01-30T19:13:47.541Z
 ---
@@ -24,3 +24,4 @@ modified: 2022-01-30T19:13:47.541Z
 |                                            | then reissue with the device number;                 |
 |                                            | for example: lspci -v -s 00:02.0                     |
 |                                            | The VRAM is the prefetchable value.                  |     |
+I should include my Notes here!

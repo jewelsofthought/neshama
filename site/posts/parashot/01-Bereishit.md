@@ -1,7 +1,8 @@
 ---
 title: Bereshit פרשׁת בראשׁית
 description: 'Creation of the world - Genesis 1:1-6:8 // בראשׁית א־א ־ ה־ז'
-tags: null
+tags:
+  - null
 date: 2022-10-22T00:33:06.076Z
 ---
 
@@ -9,13 +10,11 @@ date: 2022-10-22T00:33:06.076Z
 
 ### Chapter 1
 
-<article class="message">
+
 <div class="message-header">
 <p>Day 1</p>
 </div>
-</article>
 
-<article>
 <blockquote>
 <p dir="rtl">
 א בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ
@@ -28,7 +27,7 @@ date: 2022-10-22T00:33:06.076Z
 n1] **Introduction**
 The Torah is not a history book, but the charter of man's mission in the universe. _Rashi_ explains that the reason for the Torah's narrative of Creation is to establish that G-d is the Sovereign of the universe.
 
-As _Rambam_ notes, even after reading how the world and its central character, Man, came into being, we still do not understand thesecret of even the process of Creation. Rather the work of Creation is a deep mystery that can be comprehended (only) through (the) a tradition transmitted by G-d (to Moses). Those who are privileged with this hidden knowledge are not permitted to reveal it. What we do know is that Adam and Chava, the forerunners of humanity, had the mission of bringing about the fulfilment of Creation (by carrying out G-d's commandment). They failed and were driven into _exile_.[^1]
+As *Rambam* notes, even after reading how the world and its central character, Man, came into being, we still do not understand the secret of even the process of Creation. Rather the work of Creation is a deep mystery that can be comprehended (only) through (the) a tradition transmitted by G-d (to Moses). Those who are privileged with this hidden knowledge are not permitted to reveal it. What we do know is that Adam and *Chava*, the forerunners of humanity, had the mission of bringing about the fulfilment of Creation (by carrying out G-d's commandment). They failed and were driven into _exile_.[^1]
 
 Man's mission did not change, however, only the conditions in which it would be carried out... They could repent; indeed, the concept of repentance was a prerequisite to Man's existence, because he could not have survived without it.
 
@@ -48,11 +47,8 @@ n1:1] <b>אֱלֹהִ֑ים</b> &mdash; <i>G-d (Elohim)</i>. This Name denotes G
   </p>
   <figcaption>&mdash;(Rashi)</figcaption>
 </figure>
-</article>
-
 <br clear="all">
 
-<article>
 <blockquote>
 <p dir="rtl">
  ב וְהָאָ֗רֶץ הָֽיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְח֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם:
@@ -73,9 +69,6 @@ n1:2] <b> וְח֖שֶׁךְ</b> &mdash; <i>Darkness.</i> This is not merely the
 
 n1:2] <b>ר֣וּחַ אֱלֹהִ֔ים</b> &mdash; <i>Spirit of the Lord, G-d.</i> Also His Divine Presence.
 
-</article>
-
-<article>
 <blockquote>
 <p dir="rtl">
      ג וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִי־א֑וֹר וַֽיְהִי־אֽוֹר
@@ -85,9 +78,7 @@ n1:2] <b>ר֣וּחַ אֱלֹהִ֔ים</b> &mdash; <i>Spirit of the Lord, G-d.
 </p>
 </blockquote>
 
-</article>
 
-<article>
 <blockquote>
 <p dir="rtl">
     ד וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֽשֶׁךְ:
@@ -105,9 +96,6 @@ According to its simple meaning: He saw it that it was good, and it was unseemly
 
 The term _it was good_ means that the creation of the item under discussion was completed. _Ramban_ maintains that it means ... that "G-d decreed permanence to the phenomenon under discussion"&ndash;in this case the light, which required no further perfection. The waters, however, did not receive their final form until the third day.[^4]
 
-</article>
-
-<article>
 <blockquote>
 <p dir="rtl">
      הוַיִּקְרָ֨א אֱלֹהִ֤ים | לָאוֹר֙ י֔וֹם וְלַח֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם אֶחָֽד:
@@ -117,19 +105,12 @@ The term _it was good_ means that the creation of the item under discussion was 
 <p>
 </blockquote>
 
-<blockquote>
-Rashi 1:5] <b>י֥וֹם אֶחָֽד</b> &mdash; <i>one day</i>. According to the sequence of the language of the chapter, it should have been written, "the first day," as it is written regarding the other days, "second, third, fourth." Why did Scripture write "one"? Because the Holy One, blessed be He, was the only one in His world, for the angels were not created until the second day. [i.e., יוֹם אֶחָד can be understood as 'the day of the One and only']. So is it explained in Genesis Rabbah (3:8).[^5]
-</blockquote>
+> Rashi 1:5] <b>י֥וֹם אֶחָֽד</b> &mdash; <i>one day</i>. According to the sequence of the language of the chapter, it should have been written, "the first day," as it is written regarding the other days, "second, third, fourth." Why did Scripture write "one"? Because the Holy One, blessed be He, was the only one in His world, for the angels were not created until the second day. [i.e., יוֹם אֶחָד can be understood as 'the day of the One and only']. So is it explained in Genesis Rabbah (3:8).[^5]
 
-</article>
-
-<article class="message">
 <div class="message-header">
 <p>Day 2</p>
 </div>
-</article>
 
-<article>
 <blockquote>
 <p dir="rtl">
      ווַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם:
@@ -149,10 +130,6 @@ The Midrash has a different reason. The waters were divided on this day, symboli
 
 _Rabbeinu Bachaya_ comments that this day was not called good, because the creation of the angels and the firmament, though momentous, was not the prime purpose of Creation. Rather the prime purpose of Creation is the "lower world", the world where Man does his work of bringing G-d's plan to fruition. Only when Man's interest are served do the heavens and the heavenly beings justify their existence. "the righteous are greater than the ministering angels" (_Sanhedrin_ 93a).
 
-</article>
-
-<article>
-
 <blockquote>
 <p dir="rtl">
  ח וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שֵׁנִֽי:
@@ -165,28 +142,18 @@ _Rabbeinu Bachaya_ comments that this day was not called good, because the creat
 <blockquote>
 Rashi n1:8] <b>ויקרא א-להים לרקיע שמים</b> &mdash; <i>And God called the expanse heaven</i>, Heb. שָׁמַיִם [This is a combination of the words מַיִם שָׂא, bear water (<i>Gen. Rabbah</i> 4:7); שָׁם מַיִם, there is water; אֵשׁ וּמַיִם, fire and water. He mingled them with one another and made the heavens from them (<i>Chag</i>. 12a).
 
-</article>
-
-<article class="message">
 <div class="message-header">
 <p>Day 3</p>
 </div>
-</article>
 
-<article>
-n9-13] <b>Third day.</b> On the third day, G-d decreed boundaries for the water, making way for the development of land, vegetation, animal life, and, ultimately, Man... The water threatened to flood the earth until G-d forced it back... (<i>Pirkei d'Rabbi Eliezer; Zohar</i>) This ... means that G-d determines the proper limits &mdash; to Creation itself and to an individualhuman being's resources and suffering. The concept of G-d as determining what is sufficient and setting limits is alluded to in His Name <i>Shaddai</i>, from which the word דַּי, <i>enough</i>, or <i>sufficient</i>. As Talmudic literature puts it: <b>מִי שֵׁאָמַר לְאוֹלָמוֹ דַּי</b>, <i>He Who said to His world, "It is enough!</i> [See 17:1].[^6]
+n9-13] <b>Third day.</b> On the third day, G-d decreed boundaries for the water, making way for the development of land, vegetation, animal life, and, ultimately, Man... The water threatened to flood the earth until G-d forced it back... (<i>Pirkei d'Rabbi Eliezer; Zohar</i>) This ... means that G-d determines the proper limits &mdash; to Creation itself and to an individual human being's resources and suffering. The concept of G-d as determining what is sufficient and setting limits is alluded to in His Name <i>Shaddai</i>, from which the word דַּי, <i>enough</i>, or <i>sufficient</i>. As Talmudic literature puts it: <b>מִי שֵׁאָמַר לְאוֹלָמוֹ דַּי</b>, <i>He Who said to His world, "It is enough!</i> [See 17:1].[^6]
 
 n1:10] <b>אֵרֵץ</b> &mdash; <i>Earth.</i> This name is from רצה, _to desire_, i.e., it desired to do G-d's will. G-d began by creating one rock; and it rushed to expand in order to fulfil His desire (_Bereishit Rabbah_ 5:7).[^7]
 
-</article>
-
-<article class="message">
 <div class="message-header">
 <p>Day 4</p>
 </div>
-</article>
 
-<article>
 <blockquote>
 <p dir="rtl">
      יד וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים:
@@ -203,9 +170,7 @@ n1:14] The _Vilna Gaon_ notes that the creations of the first three days paralle
 <blockquote>
 Rashi n1:14] During the (some say seven, others three) days of Creation, the primordial light and darkness served together, both by day and by night &mdash; [<i>Medrah Yelammedenu</i>, as quoted in <i>Yalkut Shim'oni</i>] &mdash; until the sun and the moon were suspended in the sky. After that, the primordial light was hidden away (<i>Genesis Rabbah</i>).
 </blockquote>
-</article>
 
-<article>
 <blockquote>
 <p dir="rtl">
 ט זוַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת־הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם וְאֶת־הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּֽוֹכָבִֽים:
@@ -217,15 +182,10 @@ Rashi n1:14] During the (some say seven, others three) days of Creation, the pri
 
 n1:16] <b>שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים</b> &mdash; <i>The two great luminaries.</i> _"Great"_ does not refer to size, but are described in relation to the _visible_ intensity of their illumination. (_Radak; Malbin_). Also, the sun is great because it is a source of light, whereas the moon is small because it can only reflect what it receives from the sun.
 
-</article>
-
-<article class="message">
 <div class="message-header">
 <p>Day 5</p>
 </div>
-</article>
 
-<article>
 <blockquote>
 <p dir="rtl">
 כ וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל־הָאָ֔רֶץ עַל־פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם:
@@ -237,9 +197,6 @@ n1:16] <b>שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים</b> &md
 
 n1:20-23] <b>Fifth day.</b>Marine and bird life.
 
-</article>
-
-<article>
 <blockquote>
 <p dir="rtl">
     כא וַיִּבְרָ֣א אֱלֹהִ֔ים אֶת־הַתַּנִּינִ֖ם הַגְּדֹלִ֑ים וְאֵ֣ת כָּל־נֶ֣פֶשׁ הַֽחַיָּ֣ה | הָֽרֹמֶ֡שֶׂת אֲשֶׁר֩ שָֽׁרְצ֨וּ הַמַּ֜יִם לְמִֽינֵהֶ֗ם וְאֵ֨ת כָּל־ע֤וֹף כָּנָף֙ לְמִינֵ֔הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב:
@@ -256,9 +213,6 @@ n1:21] <b>וַיִּבְרָ֣א אֱלֹהִ֔ים</b> &mdash; <i>And God creat
 Rashi n1:21] <b>התנינים</b> &mdash; <i>the ... sea monsters.</i>  This refers to the Leviathan and its mate, for He created them male and female, and He slew the female and salted her away for the righteous in the future, for if they would propagate, the world could not exist because of them. הַתַּנִינִם is missing the final "yud," which denotes the plural hence the implication that the Leviathan did not remain two, but that its number was reduced to one [from <i>Gen. Rabbah</i> 7:4, <i>Midrash Chaseroth V'Yetheroth</i>, <i>Batei Midrashoth</i>, vol 2, p. 225].
 </blockquote>
 
-</article>
-
-<article>
 <blockquote>
 <p dir="rtl">
 כב וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר פְּר֣וּ וּרְב֗וּ וּמִלְא֤וּ אֶת־הַמַּ֨יִם֙ בַּיַּמִּ֔ים וְהָע֖וֹף יִ֥רֶב בָּאָֽרֶץ:
@@ -270,18 +224,9 @@ Rashi n1:21] <b>התנינים</b> &mdash; <i>the ... sea monsters.</i>  This re
 
 n1:22] <b>וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר פְּר֣וּ וּרְב֗וּ</b> &mdash; <i>And God blessed them, saying, "Be fruitful and multiply.</i> This phrase is a blessing that the creatures would be able to populate the earth. Later (v.28), it is a commandment, in relation to Man, that he engage in procreation.[^9]
 
-</article>
-
-<article>
-
-</article>
-<article class="message">
 <div class="message-header">
 <p>Day 6</p>
 </div>
-</article>
-
-<article>
 
 n1:24-31] <b>Sixth day.</b>The climax of physical creation. Animal life was created first, then Man whose performance for good or ill would determine the destiny of the universe. G-d was telling Adam the complete world is in your hands.
 
@@ -302,10 +247,6 @@ n1:24] <b>לְמִינָ֑הּ</b> &mdash; <i>According to its kind.</i> The sin
 
 n1:25]<b>כִּי טוֹב</b> &mdash; <i>That it was good.</i> As noted above, this expression of approval always applies to a facet of Creation after it was complete... Man, however, is in a different category. His creation os not followed by a similar declaration of approval, because Man's creation
 is never complete; he must always strive to better himself and his world.
-
-</article>
-
-<article>
 
 <blockquote>
 <p dir="rtl">
@@ -328,9 +269,6 @@ Rashi n1:26] <b>וירדו בדגת הים</b> &mdash; <i>and they shall rule...
 
 n1:26] <b>בְּצַלְמֵ֖נוּ</b> &mdash; <i>In Our image,</i> i.e., in Our mold (_Rashi_), meaning that G-d had prepared the template with which He would now shape Man.
 
-</article>
-
-<article>
 <blockquote>
 <p dir="rtl">
 כז וַיִּבְרָ֨א אֱלֹהִ֤ים | אֶת־הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם:
@@ -341,10 +279,6 @@ n1:26] <b>בְּצַלְמֵ֖נוּ</b> &mdash; <i>In Our image,</i> i.e., in O
 </blockquote>
 
 n1:27] <b>בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים</b> &mdash; <i>In His image, in the image of G-d.</i> Among all living creatures, Man alone is endowed &mdash; like his Creator &mdash; with morality, reason and free will. He can know and love G-d and can hold spiritual communion with Him; and Man alone can guide his actions through reason. It is in this sense the the Torah describes Man as having been created in God's image and likeness. (_Rambam_).
-
-</article>
-
-<article>
 
 1:28] **Be fruitful and multiply**
 
@@ -386,17 +320,12 @@ claims that the components of Creation are even better in combination than they 
 
 Even things that seem to be evil &mdash; such as suffering, death and temptation &mdash; appear to be so only when viewed in isolation, but in the total context of existence, they can be seen as good, even _very good_. (_R' Hirsch_).
 
-</article>
-
 ### Chapter 2
 
-<article class="message">
 <div class="message-header">
 <p>The seventh day/the Sabbath</p>
 </div>
-</article>-
 
-<article>
 <blockquote>
 <p dir="rtl">
   א וַיְכֻלּ֛וּ הַשָּׁמַ֥יִם וְהָאָ֖רֶץ וְכָל־צְבָאָֽם:
@@ -414,9 +343,6 @@ n2:1-3] <b>The Sabbath.</b> This passage proclaims that G-d is the Creator Who b
 
 n2:1] <b>וַיְכֻלּ֛וּ</b> &mdash; <i>Were finished.</i> Homiletically, the Midrash relates this word to כִּלַיון, _longing_, and כְּלִי, _utensil_.
 
-</article>
-
-<article>
 <blockquote>
 <p dir="rtl">
 ד אֵ֣לֶּה תֽוֹלְד֧וֹת הַשָּׁמַ֛יִם וְהָאָ֖רֶץ בְּהִ֣בָּֽרְאָ֑ם בְּי֗וֹם עֲשׂ֛וֹת יְהֹוָ֥ה אֱלֹהִ֖ים אֶ֥רֶץ וְשָׁמָֽיִם:
@@ -437,11 +363,8 @@ n2:4] <b>ה' אֱלֹהִ֖ים</b> &mdash; <i><b>HaShem</b> God</i>. This is th
 
 n2:5] <b>כִּי֩ לֹ֨א הִמְטִ֜יר יְהֹוָ֤ה אֱלֹהִים֙ עַל־הָאָ֔רֶץ</b> &mdash;<i>For <b>HaShem</b> God had not yet sent rain upon the earth</i> because <i>there was no man to work the soil</i>. This demonstrates a basic article of faith: G-d provides what Man needs, but it is up to Man to pray and otherwise carry out his spiritual responsibilities.
 
-</article>
-
-<article>
 <blockquote>
-<p dir="rtl">
+<p>
    ז וַיִּ֩יצֶר֩ יְהֹוָ֨ה אֱלֹהִ֜ים אֶת־הָֽאָדָ֗ם עָפָר֙ מִן־הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים וַיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה:
 </p>
 <p>
@@ -450,15 +373,12 @@ n2:5] <b>כִּי֩ לֹ֨א הִמְטִ֜יר יְהֹוָ֤ה אֱלֹהִי�
 </blockquote>
 
 n2:7]
-<b>וייצר</b> &mdash; <i>formed.</i> Hints at two creations, a creation for this world and a creation for ... (<i>Rashi</i>)
+וייצר &mdash; <i>formed.</i> Hints at two creations, a creation for this world and a creation for ... (<i>Rashi</i>)
 
 <b>ויפח באפיו</b> &mdash; <i>and He breathed into his nostrils.</i> He made him of earthly matter and of heavenly matter: the body of earthly matter the soul of heavenly matter. Because on the first day, heaven and earth were created. On the second day, He created the expanse for the heavenly beings; on the third day He commanded the dry land to appear for the earthly beings; on the fourth day, He created luminaries for the heavenly beings; on the fifth day, He commanded the swarms of the waters to appear for the earthly beings; on the sixth day, it became necessary to create for both the heavenly and the earthly beings...
 
 <b>וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים</b> &mdash; <i>and He breathed into his nostrils the soul of life.</i> He made him of earthly matter and of heavenly matter: the body of the dust of the earth matter and the soul of from the spirit (<i>Rashi</i>). The soul made Man a living being, which _Onkelos_ defines as a _speaking spirit_. Accordingly, the gift from G-d that is unique to Man that He "blew" into Him is the soul that includes the power of intelligent speech. This is what separates (elevates) Man above the animal: the ability, and therefore the responsibility **to use his intelligence in G-d's service**.
 
-</article>
-
-<article>
 <blockquote>
 <p dir="rtl">
   ח וַיִּטַּ֞ע יְהֹוָ֧ה אֱלֹהִ֛ים גַּן־בְּעֵ֖דֶן מִקֶּ֑דֶם וַיָּ֣שֶׂם שָׁ֔ם
@@ -474,8 +394,6 @@ n2:7]
 n2:9] <b>וְעֵ֕ץ הַדַּ֖עַת ט֥וֹב וָרָֽע</b> &mdash; <i>the Tree of Knowledge of Good and Evil.</i> As Adam and Chava were originally created, their natural impulse was to do good. Although they knew in abstract that there was such a thing as sin, it was not something they craved. By eating of the tree, which embodied a _mixture_ of good and evil &mdash; hence its name &mdas; they brought evil into themselves and made it a part of their nature, thus changing the nature of Man. From then on, Man was born with evil impulses, such as greed, selfishness, and lust for whatever suits his developing appetite. Through study, though and self-discipline, he must curb his base nature and desires, and inculculate into himself a desire for good and a revulsion for evil (_Nefesh HaChaim_).
 
 _Sforno_ claims it refers to Man's unwholesome capacity to choose what is superficiallly sweet [_good_] even though it is harmful to him, and to reject what is superficially bitter [_bad_] even when it is truly beneficial.
-
-</article>
 
 n2:18-25]<b>A companion for Adam.</b> Adam named her _Ishah_ [Woman], because she was taken from _Ish_ [Man] (v.23); left unanswered is why Man is called _Ish_. The name comes from _eish_ or fire [**אישׁ** ּ= **אשׁ**] because Mna is unique in the characteristics symbolised by fire: verve and enthusiasm, lust and initiative. These characteristics enable Man to attain wisdom and develop culture. But the same fire can cause the mass destructure that has marrred humanity from the beginning of time. Controlled and directed, that fire can create spiritual kingdoms that surpass the angels.
 
@@ -508,11 +426,8 @@ n2:24] <b>לְבָשָׂ֥ר אֶחָֽד</b> &mdash; <i>One flesh.</i> Let him 
 
 n 2:25] <b>וְלֹ֖א יִתְבּשָֽׁשׁוּ</b> &mdash; <i>And they were not ashamed.</i> People are ashamed of their nakedness because they associate vilenss and lust with their private parts, but not Adam and Chava. They used all their organs to do G-d's will, not to satisfy their personal desires.[^16]
 
-</article>
-
 ## Chapter 3
 
-<article>
 <blockquote>
 <p dir="rtl">
   א וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם מִכֹּל֙ חַיַּ֣ת הַשָּׂדֶ֔ה אֲשֶׁ֥ר עָשָׂ֖ה יְהֹוָ֣ה אֱלֹהִ֑ים וַיֹּ֨אמֶר֙ אֶל־הָ֣אִשָּׁ֔ה אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים לֹ֣א תֹֽאכְל֔וּ מִכֹּ֖ל עֵ֥ץ הַגָּֽן:
@@ -524,9 +439,6 @@ n 2:25] <b>וְלֹ֖א יִתְבּשָֽׁשׁוּ</b> &mdash; <i>And they wer
 
 n3:1] <b>אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים</b> &mdash; <i>Did, perhaps, G-d say.</i> This is a classic ploy of the Evil Inclination: Pleasures are meant to be enjoyed, so it is foolish to believe that G-d could have commanded one to restrain oneself from doing so.
 
-</article>
-
-<article>
 <blockquote>
 <p dir="rtl">
   ה כִּ֚י יֹדֵ֣עַ אֱלֹהִ֔ים כִּ֗י בְּיוֹם֙ אֲכָלְכֶ֣ם מִמֶּ֔נּוּ וְנִפְקְח֖וּ עֵֽינֵיכֶ֑ם וִֽהְיִיתֶם֙ כֵּֽאלֹהִ֔ים יֹֽדְעֵ֖י ט֥וֹב וָרָֽע:
@@ -559,9 +471,6 @@ Rashi n3:6]
 <b>ותתן גם לאשה עמה</b> &mdash; <i>and she gave also to her husband</i> lest she die and he live and marry someone else (<i>Pirkei d'Rabbi Eliezer</i>, ch. 13]
 
 </blockquote>
-</article>
-
-<article>
 <blockquote>
 <p dir="rtl">
   ז וַתִּפָּקַ֨חְנָה֙ עֵינֵ֣י שְׁנֵיהֶ֔ם וַיֵּ֣דְע֔וּ כִּ֥י עֵֽירֻמִּ֖ם הֵ֑ם וַיִּתְפְּרוּ֙ עֲלֵ֣ה תְאֵנָ֔ה וַיַּֽעֲשׂ֥וּ לָהֶ֖ם חֲגֹרֹֽת:
@@ -573,9 +482,6 @@ Rashi n3:6]
 
 n3:7] <b> וַיֵּ֣דְע֔וּ </b> &mdash; <i>And they realised...</i>The serpent was right: They had become enlightened. But their first realisation was &mdash; that they were naked! This shame in our nakedness is the voice of conscience that reminds us that we are not meant to be animals (_R' Hirsch_). For no animal is ashamed of its nakedness.
 
-</article>
-
-<article>
 <blockquote>
 <p dir="rtl">
     יז וּלְאָדָ֣ם אָמַ֗ר כִּ֣י שָׁמַ֘עְתָּ֘ לְק֣וֹל אִשְׁתֶּ֒ךָ֒ וַתֹּ֨אכַל֙ מִן־הָעֵ֔ץ אֲשֶׁ֤ר צִוִּיתִ֨יךָ֙ לֵאמֹ֔ר לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ אֲרוּרָ֤ה הָֽאֲדָמָה֙ בַּֽעֲבוּרֶ֔ךָ בְּעִצָּבוֹן֙ תֹּֽאכֲלֶ֔נָּה כֹּ֖ל יְמֵ֥י חַיֶּֽיךָ:
@@ -587,9 +493,6 @@ n3:7] <b> וַיֵּ֣דְע֔וּ </b> &mdash; <i>And they realised...</i>The s
 
 n3:17] <b>כִּ֣י שָׁמַ֘עְתָּ֘ לְק֣וֹל אִשְׁתֶּ֒ךָ֒</b> &mdash; <i>Because you listened to the voice of your wife.</i> People make choices in their lives and are responsible for them. Adam failed in his responsibility to investigate what was being offered. He succumbed to her voice without examining the content of her words (_Or Chaim_).
 
-</article>
-
-<article>
 <blockquote>
 <p dir="rtl">
   כ וַיִּקְרָ֧א הָֽאָדָ֛ם שֵׁ֥ם אִשְׁתּ֖וֹ חַוָּ֑ה כִּ֛י הִ֥וא הָֽיְתָ֖ה אֵ֥ם כָּל־חָֽי:
@@ -602,9 +505,7 @@ n3:17] <b>כִּ֣י שָׁמַ֘עְתָּ֘ לְק֣וֹל אִשְׁתֶּ֒�
 n3:20] <b></b> &mdash; <i></i>
 
 <b>חַוָּ֑ה</b> &mdash; <i>Eve (Chava)</i> The word <b>חַוָּ֑ה</b> means the same as <b>חַיָה</b>, _living_. Thus her name indicates that she is _the mother of all the living._
-</atricle>
 
-<article>
 <blockquote>
 <p dir="rtl">
   כא וַיַּ֩עַשׂ֩ יְהֹוָ֨ה אֱלֹהִ֜ים לְאָדָ֧ם וּלְאִשְׁתּ֛וֹ כָּתְנ֥וֹת ע֖וֹר וַיַּלְבִּשֵֽׁם:
@@ -616,7 +517,7 @@ n3:20] <b></b> &mdash; <i></i>
 
 ## Chapter 4
 
-<article>
+
 <blockquote>
 <p dir="rtl">
   א וְהָ֣אָדָ֔ם יָדַ֖ע אֶת־חַוָּ֣ה אִשְׁתּ֑וֹ וַתַּ֨הַר֙ וַתֵּ֣לֶד אֶת־קַ֔יִן וַתֹּ֕אמֶר קָנִ֥יתִי אִ֖ישׁ אֶת־יְהֹוָֽה:
@@ -629,9 +530,7 @@ n3:20] <b></b> &mdash; <i></i>
 n4:1] <b>קין</b> &mdash; <i>Cain,</i> based on קָנִיתִי, I acquired.(_Rashi_)
 
 n4:1] <b>קָנִ֥יתִי אִ֖ישׁ אֶת־יְהֹוָֽה</b> &mdash; <i>I have acquired a man with <b>Hashem.</b></i> As partners with **Hashem**. "My husband and I were created by G-d alone but through the birth of Cain we are partners with Him (_Rashi_).
-</atricle>
 
-<article>
 <blockquote>
 <p dir="rtl">
   ז הֲל֤וֹא אִם־תֵּיטִיב֙ שְׂאֵ֔ת וְאִם֙ לֹ֣א תֵיטִ֔יב לַפֶּ֖תַח חַטָּ֣את רֹבֵ֑ץ וְאֵלֶ֨יךָ֙ תְּשׁ֣וּקָת֔וֹ וְאַתָּ֖ה תִּמְשָׁל־בּֽוֹ:
@@ -645,9 +544,6 @@ n4:7] <b>לַפֶּ֖תַח חַטָּ֣את רֹבֵ֑ץ</b> &mdash; <i>Sin res
 
 n4:7] <b>תְּשׁ֣וּקָת֔וֹ</b> &mdash; <i>Its desire</i>. The Evil Inclination desires constantly to entice you, constantly longs and lusts to cause you to stumble, _yet you can conquer it_ &mdash; for if you wish you can mend your ways and cast off your sin (_Rashi_).
 
-</article>
-
-<article>
 <blockquote>
 <p dir="rtl">
   ט וַיֹּ֤אמֶר יְהֹוָה֙ אֶל־קַ֔יִן אֵ֖י הֶ֣בֶל אָחִ֑יךָ וַיֹּ֨אמֶר֙ לֹ֣א יָדַ֔עְתִּי הֲשֹׁמֵ֥ר אָחִ֖י אָנֹֽכִי:
@@ -659,9 +555,6 @@ n4:7] <b>תְּשׁ֣וּקָת֔וֹ</b> &mdash; <i>Its desire</i>. The Evil In
 
 n4:9] <b>השמר אחי</b> &mdash; <i>Am I my brother's keeper?</i>This is a question asked in astonishment, as is every _"hey"_ prefix vowelized with a "_chataf pattach_" (_Rashi_).
 
-</article>
-
-<article>
 <blockquote>
 <p dir="rtl">
   יז וַיֵּ֤דַע קַ֨יִן֙ אֶת־אִשְׁתּ֔וֹ וַתַּ֖הַר וַתֵּ֣לֶד אֶת־חֲנ֑וֹךְ וַֽיְהִי֙ בֹּ֣נֶה עִ֔יר וַיִּקְרָא֙ שֵׁ֣ם הָעִ֔יר כְּשֵׁ֖ם בְּנ֥וֹ חֲנֽוֹךְ:
@@ -674,7 +567,6 @@ n4:9] <b>השמר אחי</b> &mdash; <i>Am I my brother's keeper?</i>This is a q
 n4:17] <b>וַיֵּ֤דַע קַ֨יִן֙ אֶת־אִשְׁתּ֔וֹ</b> &mdash; <i>And Cain knew his wife.</i> Alone and banished from his parents, Cain strove to have children with whom he could associate (_Arbabanel_). The Torah calls him a _city-builder_. Cut off from the earth, from G-d and from his fellow man, Cain was left onlyh with his own intelligence and talent, which he utilised to build cities. Urban life, unlike rural life, cultivates sophisticated skills in its practitioners (_R' Hirsch_).
 <b></b> &mdash; <i></i>
 
-<article>
 <blockquote>
 <p dir="rtl">
   כווּלְשֵׁ֤ת גַּם־הוּא֙ יֻלַּד־בֵּ֔ן וַיִּקְרָ֥א אֶת־שְׁמ֖וֹ אֱנ֑וֹשׁ אָ֣ז הוּחַ֔ל לִקְרֹ֖א בְּשֵׁ֥ם יְהֹוָֽה:
@@ -688,7 +580,6 @@ n4:26] The generation of Enosh introduced idolatry, which was to become the blig
 
 ## Chapter 5
 
-<article>
 <blockquote>
 <p dir="rtl">
   א זֶ֣ה סֵ֔פֶר תּֽוֹלְדֹ֖ת אָדָ֑ם בְּי֗וֹם בְּרֹ֤א אֱלֹהִים֙ אָדָ֔ם בִּדְמ֥וּת אֱלֹהִ֖ים עָשָׂ֥ה אֹתֽוֹ:
@@ -701,17 +592,11 @@ n4:26] The generation of Enosh introduced idolatry, which was to become the blig
 n1] <b>The ten generation from Adam to Noah</b>
 [TODO]
 
-</article>
-
-<article>
-
 ## Chapter 6
 
 n6:1] Sons of the rulers (or just simply, _Sons of gods_).
 
 n6:3) Drawn to the flesh. Man is unworthy that G-d's spirit should reside in him, since he is but fles like the other creatures and his soul is drawn to the flesh rather than to G-d's spirit (_R' Bachya_) .
-
-</article>
 
 ## Masoretic note
 
@@ -724,21 +609,17 @@ Their names are nearly synonymous as their respective roots
 
 [^1]: Was it "exile"? They were already "exiled" from heaven to be place in Eden. Perhaps it was the change of realm, from that of Eden to that of Israel.
 [^2]: Jews: If we define Jews as the nation that "dedicate ... G-d", then our definition is based not on "inheritence" but on action and dedication of energy for G-d.
-[^4]: <b>וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֽשֶׁךְ</b> &mdash; G-d seperated or differentiated between light and dark, and He named the light 'day' and dark 'night' (v5).
-
+[^4]: <b>וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֽשֶׁךְ</b> &mdash; G-d separated or differentiated between light and dark, and He named the light 'day' and dark 'night' (v5).
 _Enough:_ Could be: Who (He) that says to His world, "Enough!". This brings in the interesting discussion in the Zohar between what the **מי** and the **מה** are.
 [^7]: This supports the principle that everything (living) on earth wants to expand (procreate), to fulfil His desire.
 [^8]:
 [^9]: This is interesting in these times, with birth rate declining, and less and less people having kids. This is the one of the first (and thus fundamental) commandments given. If we stop procreating, we will die out. Just as one can judge the health of a forest by the amount of young trees it has growing in it at any stage, so we can judge the health of our human society in the same way. If our societies are not built on creating a better life for the future - our children - what then is its purpose?
 
 In the same way that the supernal light contains both light and dark. In the creation this light is split asunder (the dark comes out of the light/the light that comes from the darkness), and it is necessary to unify the two to enable the Divine plan to come to fruition.
-[^12]: This is the "commandment" regarding the template. It is a spiritual (and biological) imperative.
-
+[^12]: This is the "commandment" regarding the template. It is a spiritual (and biological) imperative. 
 "replenish the earth": This you do by "obeying G-d's commandments" [And if you do these things...]
-
-"and subdue it": One the "earth" has been subdued, the next phase of evolution will heralded. The only way to "subdue" the earth, is to subdue the "earthly" aspects of your own being, and then the _Shekhina_ will return from exile, and the Divine Presence will be felt all over the earth.
-
+"and subdue it": One the "earth" has been subdued, the next phase of evolution will heralded. The only way to "subdue" the earth, is to subdue the "earthly" aspects of your own being, and then the *Shekhina* will return from exile, and the Divine Presence will be felt all over the earth.
 Everything which has a living spirit comes under our domain - to use or abuse.
 [^15]: If your wife is not your soul-mate, would this still be the case?
 [^16]: I believe that it is necessary to explore one's personal desires, as this is what makes everyone special. These desires too are gifted to us from G-d, and if everyone sublimated them to His Desire, then what would G-d Himself be learning or discovering by that?
-[^18]: It is always at your side, everpresent.
+[^18]: It is always at your side, ever present.

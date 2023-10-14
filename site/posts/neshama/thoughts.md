@@ -127,3 +127,53 @@ Engaged spirituality means spontaneously working for the collective welfare out 
 
 >[!note] We cannot live in that space - for it is a Divine space - and will always be reminded to return. It is like the golden thread that binds the soul to the body, and calls it back from the dream. But if we do not acknowledge that that is the foundation upon which we exist, we will forever be lost in the limbo of existence.
 
+## *Halakha*
+
+#judaica{.tag}
+
+You cannot claim that a set of arbitrary practices, based on principles laid down over 3000 years ago is all we have to lead us into the future without acknowledging the achievements and successes of the many genuine spiritual mystics of all types and persuasions; ignoring the many explorations into other realms of reality and being.
+
+As is said, “where there is smoke, there is fire”. There is “something out there”, so much that is outside of our perception and comprehension, according to many sources, surely it is worth spending some time and energy and resources into its exploration? 
+
+Except that the methods of exploration cannot be fully proscribed. In comparison to our modern objective observation of empirical facts, it requires the collaboration of the observer in the experiment, and thus one can only describe the methodology in general terms, rather than specifics. 
+
+In fact, one could call this type of exploration a calling. For some it creeps up on one under cover of darkness; for another, it is like a lightning-bolt that hits them from an event, from a word, from a sight; while other’s set their eyes on the goal, and succeed – though know, that “the end is often the beginning, and we arrive at the place we started from, and recognise it for the first time.“ 
+
+In that instant your life could change – you have a choice, to answer the calling, or to deny it – though the latter will probably make you ill. But if you accept the calling, and  be present to it, the long and arduous uphill journey of putting “it” all together again –  but differently.
+
+---
+In Y.K, I stand in the holy temple of your devotion held aloft in the knowledge of the truth and authenticity of your practice – “*l’shma*” – for something greater (other) than yourself, *ha’kadosh who*. G-d wants $4^D$ results. He is uninterested in $3^D$ ones. 
+
+---
+## Vectors of G-d
+
+We are vectors of G-d — not vIctors, nor victims, but vectors. 
+
+### Vector
+
+1. a quantity that has magnitude and direction and that is commonly represented by a directed line segment whose length represents the magnitude and whose orientation in space represents the direction.
+2. a matrix with one row or one column.
+3. denoting a type of graphical representation using lines to construct the outlines of objects.
+4. an organism, typically a biting insect or tick, that transmits a disease or parasite from one animal or plant to another.
+5. a bacteriophage or plasmid which contains or carries modified genetic material into a cell, or from one bacterium to another.
+
+![](Vector-parallelogram-tails-method-subtraction-addition-vectors.gif)
+
+**Vector parallelogram for addition and subtraction**
+
+One method of adding and subtracting vectors is to place their tails together and then supply two more sides to form a parallelogram. The vector from their tails to the opposite corner of the parallelogram is equal to the sum of the original vectors. The vector between their heads (starting from the vector being subtracted) is equal to their difference.
+
+—
+
+**vector**, in [physics](https://www.britannica.com/science/physics-science), a quantity that has both magnitude and direction. It is typically represented by an arrow whose direction is the same as that of the quantity and whose length is proportional to the quantity’s magnitude. Although a [vector](https://www.britannica.com/dictionary/vector) has magnitude and direction, it does not have position. That is, as long as its length is not changed, a vector is not altered if it is displaced parallel to itself.
+
+In contrast to vectors, ordinary quantities that have a magnitude but not a direction are called [scalars](https://www.britannica.com/science/scalar). For example, [displacement](https://www.britannica.com/science/displacement-mechanics), [velocity](https://www.britannica.com/science/velocity), and [acceleration](https://www.britannica.com/science/acceleration) are vector quantities, while speed (the magnitude of velocity), time, and mass are scalars.
+
+**vector analysis**
+
+![Parallelogram Law](Parallelogram-law-addition-vectors.gif)
+Figure 1: Parallelogram law for addition of vectors.
+
+![Cross Product](Cross-product-multiplication-vectors.gif)
+Figure 2: Cross product formed by multiplication of two vectors.
+![Components of a Vector](Resolution-vector-components.gif)Figure 3: Resolution of a vector into three mutually perpendicular components.

@@ -89,7 +89,7 @@ modified: 2022-09-14T15:56:13.090Z
 
 >The modern ages has brought us less for more, and more for less. 
 
-Does that just refer to material things, perhaps?
+Does that just only to material things?
 
 ### Revelation
 
