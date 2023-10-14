@@ -1,10 +1,9 @@
 ---
-layout: layouts/home.njk
 title: The muddled mystic
 eleventyNavigation:
   key: About Me
   order: 5
-modified: 2022-02-10T10:30:59.054Z
+date: 2022-02-10T10:30:59.054Z
 ---
 
 I have studied esoteric lore since a young age. Firstly through my own tradition and culture, which led me to explore the texts of other faiths and mystical movements. By my 40's my exploration was focussed on Kabbalah and its teachings. The key, what brought it together in a much more experiential manner, occurred I engaged in a more deeply and more shamanically based teaching and it all fell into place.

@@ -1,8 +1,6 @@
 ---
-layout: layouts/home.njk
 title: A Day in the Life of a Sysadmin
 description: An intimate glimpse into the work of a sysadmin
-templateClass: tmpl-home
 date:
 ---
 
